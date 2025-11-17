@@ -1,0 +1,1128 @@
+[
+    {
+        "question_id": 1,
+        "question": "Debates on remote work today mirror past discussions about labor shifts during the Industrial Revolution.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 2,
+        "question": "Modern discussions on renewable energy reflect historical efforts in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial trade monopolies",
+            "b": "Early 20th-century conservation movements",
+            "c": "Medieval castle construction",
+            "d": "Renaissance art funding"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 3,
+        "question": "Current debates about wealth inequality resemble struggles with labor strikes in the Industrial Revolution.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 4,
+        "question": "Modern cybersecurity concerns are similar to historical challenges in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval castle defenses",
+            "b": "Espionage during the Cold War",
+            "c": "Renaissance trade guilds",
+            "d": "Colonial taxation"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 5,
+        "question": "Urban housing debates today reflect struggles with tenement overcrowding in the 19th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 6,
+        "question": "Discussions on labor rights in gig economies echo historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial taxation",
+            "b": "Industrial Revolution trade unions",
+            "c": "Renaissance guild apprenticeships",
+            "d": "Medieval feudal obligations"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 7,
+        "question": "Debates over climate-induced migration today mirror historical displacement caused by the Dust Bowl.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 8,
+        "question": "Modern discussions on ethical AI resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Renaissance censorship",
+            "b": "Medical experimentation laws in the 19th century",
+            "c": "Colonial trade regulations",
+            "d": "Medieval guild controls"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 9,
+        "question": "Current debates on public health policies are reminiscent of sanitation reforms during 19th-century cholera outbreaks.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 10,
+        "question": "Modern concerns about internet neutrality reflect historical struggles over:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval river tolls",
+            "b": "Telegraph and early telephone regulation",
+            "c": "Colonial shipping laws",
+            "d": "Renaissance printing monopolies"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 11,
+        "question": "Debates about access to education today echo historical struggles with public schooling reforms in the 19th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 12,
+        "question": "Modern labor movements resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval apprenticeship rules",
+            "b": "Industrial Revolution trade unions",
+            "c": "Colonial tax revolts",
+            "d": "Renaissance artisan guilds"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 13,
+        "question": "Current debates about digital privacy reflect early 20th-century concerns about government surveillance.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 14,
+        "question": "Discussions on AI ethics in healthcare are reminiscent of historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval castle regulations",
+            "b": "19th-century medical ethics reforms",
+            "c": "Colonial trade monopolies",
+            "d": "Renaissance humanist debates"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 15,
+        "question": "Modern food security debates mirror historical struggles with famine management in 19th-century Europe.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 16,
+        "question": "Contemporary environmental movements echo struggles over pollution control during early industrial cities.",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval guild regulations",
+            "b": "19th-century industrial pollution reforms",
+            "c": "Colonial navigation laws",
+            "d": "Renaissance city planning"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 17,
+        "question": "Current debates on fair trade resemble historical struggles with colonial mercantilism.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 18,
+        "question": "Modern urban planning debates reflect historical efforts in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval castle construction",
+            "b": "19th-century city zoning and sanitation reforms",
+            "c": "Renaissance art commissions",
+            "d": "Colonial trade infrastructure"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 19,
+        "question": "Debates about labor protections today echo historical struggles with factory safety reforms.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 20,
+        "question": "Modern discussions on access to clean water mirror past struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial irrigation systems",
+            "b": "19th-century urban sanitation reforms",
+            "c": "Medieval castle wells",
+            "d": "Renaissance aqueduct restoration"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 21,
+        "question": "Debates about ethical consumption today reflect historical consumer protection laws.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 22,
+        "question": "Current concerns over AI in justice systems resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century judicial reforms",
+            "b": "Colonial governor appointments",
+            "c": "Medieval guild law enforcement",
+            "d": "Renaissance city statutes"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 23,
+        "question": "Modern urban heat challenges mirror historical struggles with industrial city pollution.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 24,
+        "question": "Contemporary discussions on data transparency resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century government reporting reforms",
+            "b": "Medieval town charters",
+            "c": "Colonial taxation disclosures",
+            "d": "Renaissance guild bookkeeping"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 25,
+        "question": "Debates on climate refugees today echo past struggles with displacement caused by natural disasters in the 19th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 26,
+        "question": "Modern debates on digital surveillance reflect historical struggles with government monitoring during the Red Scare.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 27,
+        "question": "Contemporary discussions on renewable energy adoption mirror historical efforts in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial plantation management",
+            "b": "Early 20th-century conservation movements",
+            "c": "Renaissance art funding",
+            "d": "Medieval castle construction"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 28,
+        "question": "Modern debates about universal healthcare reflect struggles over public health reforms in the 19th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 29,
+        "question": "Discussions on ethical AI in media today are similar to historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial taxation laws",
+            "b": "Propaganda and censorship during World Wars",
+            "c": "Medieval guild regulations",
+            "d": "Renaissance trade ethics"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 30,
+        "question": "Modern debates on labor protections in gig economies echo historical struggles with Industrial Revolution labor unions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 31,
+        "question": "Current discussions on wealth inequality are reminiscent of struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval feudal taxation",
+            "b": "Industrial Revolution labor strikes",
+            "c": "Colonial trade regulations",
+            "d": "Renaissance guild ethics"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 32,
+        "question": "Debates on public transportation policy today mirror historical discussions on railway and tramway construction in the 19th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 33,
+        "question": "Modern concerns about food safety echo historical reforms such as:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval farming guild rules",
+            "b": "Pure Food and Drug Act in the early 1900s",
+            "c": "Colonial spice trade regulations",
+            "d": "Renaissance agriculture innovations"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 34,
+        "question": "Current debates on climate-induced migration mirror historical displacement caused by natural disasters.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 35,
+        "question": "Discussions about internet neutrality today resemble historical struggles over:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial trade laws",
+            "b": "Telegraph and early telephone regulation",
+            "c": "Medieval river tolls",
+            "d": "Renaissance guild monopolies"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 36,
+        "question": "Modern mental health awareness campaigns reflect historical reforms in 19th-century asylums.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 37,
+        "question": "Contemporary debates about ethical labor practices resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval guild rules",
+            "b": "Child labor reforms during the Industrial Revolution",
+            "c": "Colonial taxation",
+            "d": "Renaissance merchant regulations"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 38,
+        "question": "Modern public health vaccination campaigns are reminiscent of smallpox vaccination efforts in the 19th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 39,
+        "question": "Current discussions on urban green spaces mirror historical efforts in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval castle gardens",
+            "b": "19th-century city planning and park reforms",
+            "c": "Colonial plantations",
+            "d": "Industrial factory layouts"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 40,
+        "question": "Debates about consumer protection today reflect historical laws in the early 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 41,
+        "question": "Modern urban transportation equity debates resemble historical efforts in public transit reform.",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval road tolls",
+            "b": "19th-century transit reform",
+            "c": "Colonial trade routes",
+            "d": "Renaissance urban plazas"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 42,
+        "question": "Current debates on workplace gender equality reflect historical struggles for women's rights in the early 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 43,
+        "question": "Modern concerns about ethical AI in finance are similar to historical debates over:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval coin minting",
+            "b": "Banking regulations after the 1929 crash",
+            "c": "Renaissance trade guilds",
+            "d": "Colonial taxation systems"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 44,
+        "question": "Contemporary labor union movements echo struggles with workers' rights during the Industrial Revolution.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 45,
+        "question": "Debates on access to digital education today reflect historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Renaissance universities",
+            "b": "Medieval apprentice rules",
+            "c": "Public schooling reforms in the 19th century",
+            "d": "Colonial restrictions on literacy"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 46,
+        "question": "Current discussions about ethical food production mirror historical controversies in food safety regulations.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 47,
+        "question": "Modern debates on public health sanitation policies are reminiscent of efforts during:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial plantation hygiene",
+            "b": "19th-century cholera outbreaks",
+            "c": "Medieval city walls",
+            "d": "Renaissance marketplaces"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 48,
+        "question": "Current migration debates mirror historical events such as the Great Migration of African Americans in the 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 49,
+        "question": "Modern urban housing debates echo past struggles with tenement housing reforms in industrial cities.",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval castle accommodations",
+            "b": "19th-century tenement reforms",
+            "c": "Colonial plantation housing",
+            "d": "Renaissance city planning"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 50,
+        "question": "Contemporary debates about labor exploitation in technology companies resemble historical struggles with factory conditions during the Industrial Revolution.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 51,
+        "question": "Ethical concerns about data privacy today mirror historical debates over government surveillance in the early 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 52,
+        "question": "Modern debates about climate-induced migration reflect historical displacement caused by:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval guild restrictions",
+            "b": "Industrial Revolution coal strikes",
+            "c": "The Dust Bowl in the 1930s",
+            "d": "Colonial taxation protests"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 53,
+        "question": "Contemporary discussions on income tax fairness are reminiscent of historical struggles with progressive tax laws in the early 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 54,
+        "question": "Modern debates about freedom of the press are similar to historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial trade restrictions",
+            "b": "Newspaper censorship in Victorian England",
+            "c": "Medieval guild rules",
+            "d": "Renaissance philosophy"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 55,
+        "question": "Contemporary labor movements for gig economy workers echo historical struggles with 19th-century trade unions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 56,
+        "question": "Current debates on access to clean water reflect historical struggles in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial revolution rail expansions",
+            "b": "Urban sanitation reforms in the 19th century",
+            "c": "Medieval castle defenses",
+            "d": "Colonial taxation protests"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 57,
+        "question": "Modern food safety regulations echo historical concerns such as the Pure Food and Drug Act in the early 1900s.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 58,
+        "question": "Debates about AI ethics in media representation resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "The Industrial Revolution coal strikes",
+            "b": "Colonial navigation laws",
+            "c": "Propaganda during World War I and II",
+            "d": "Medieval guild control of artisans"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 59,
+        "question": "Modern discussions on urban planning mirror historical efforts such as:",
+        "type": "MCQ",
+        "options": {
+            "a": "City sanitation and zoning reforms in the 19th century",
+            "b": "The Crusades",
+            "c": "Renaissance architecture ethics",
+            "d": "Roman aqueduct construction"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 60,
+        "question": "Ethical debates about genetic editing today resemble historical struggles over eugenics in the early 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 61,
+        "question": "Modern public transportation debates echo past struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval castle roads",
+            "b": "Colonial sea trade",
+            "c": "Introduction of railways and urban transit systems in the 19th century",
+            "d": "Renaissance city squares"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 62,
+        "question": "Debates about internet neutrality resemble historical struggles over:",
+        "type": "MCQ",
+        "options": {
+            "a": "Telegraph and telephone regulation in the 19th century",
+            "b": "Medieval river tolls",
+            "c": "Roman empire taxation",
+            "d": "Renaissance guild monopolies"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 63,
+        "question": "Modern debates on mental health awareness mirror historical reforms such as the 19th-century asylum movements.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 64,
+        "question": "Current digital surveillance debates reflect historical concerns about government monitoring during the Red Scare.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 65,
+        "question": "Contemporary fair trade debates are reminiscent of historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial trade exploitation and mercantilism",
+            "b": "Medieval plague management",
+            "c": "The Crusades",
+            "d": "Industrial coal mining"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 66,
+        "question": "Modern vaccination campaigns echo historical efforts such as smallpox inoculation programs in the 19th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 67,
+        "question": "Debates about AI in judicial decisions resemble historical struggles over:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial navigation laws",
+            "b": "Judicial reforms in 19th-century courts",
+            "c": "Medieval guild rules",
+            "d": "The Crusades"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 68,
+        "question": "Modern ethical debates about animal testing mirror past struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century vivisection controversies",
+            "b": "Industrial revolution factory safety",
+            "c": "Colonial livestock regulations",
+            "d": "Medieval hunting laws"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 69,
+        "question": "Current debates on privacy in social media echo historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Government wiretapping and surveillance in the early 20th century",
+            "b": "Colonial shipping laws",
+            "c": "Medieval guild taxation",
+            "d": "Renaissance publishing controls"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 70,
+        "question": "Discussions about labor protections in gig economies resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial Revolution labor unions",
+            "b": "Renaissance guild apprenticeships",
+            "c": "Colonial taxation",
+            "d": "Medieval serfdom"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 71,
+        "question": "Modern debates on carbon taxes mirror struggles over environmental legislation in the early 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 72,
+        "question": "Contemporary algorithmic decision-making debates in finance mirror historical discussions on:",
+        "type": "MCQ",
+        "options": {
+            "a": "Banking regulations after the 1929 crash",
+            "b": "Medieval coin minting",
+            "c": "Renaissance trade guilds",
+            "d": "Colonial taxation systems"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 73,
+        "question": "Debates about urban green spaces today reflect historical concerns during:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial textile production",
+            "b": "Medieval castle construction",
+            "c": "19th-century city planning and park reforms",
+            "d": "Renaissance plazas"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 74,
+        "question": "Modern discussions on ethical AI in journalism are similar to past struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Propaganda and censorship during World Wars",
+            "b": "Medieval guild controls",
+            "c": "Renaissance political theory",
+            "d": "Colonial trade regulations"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 75,
+        "question": "Current debates about access to quality education reflect historical struggles such as:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval apprentice rules",
+            "b": "Renaissance art patronage",
+            "c": "Public schooling reforms in the 19th century",
+            "d": "Colonial taxation laws"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 76,
+        "question": "Modern discussions on climate refugees mirror historical displacement due to natural disasters and famines.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 77,
+        "question": "Debates about ethical labor in supply chains today are reminiscent of:",
+        "type": "MCQ",
+        "options": {
+            "a": "Renaissance guild ethics",
+            "b": "Child labor reforms during the Industrial Revolution",
+            "c": "Medieval feudal labor rules",
+            "d": "Colonial navigation laws"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 78,
+        "question": "Modern discussions on freedom of speech online echo historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Censorship of newspapers in the 19th century",
+            "b": "Colonial tax revolts",
+            "c": "Medieval guild restrictions",
+            "d": "Renaissance philosophical debates"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 79,
+        "question": "Contemporary ethical debates about AI in healthcare mirror past struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medical ethics in hospitals during the 19th century",
+            "b": "Medieval castle defenses",
+            "c": "Colonial taxation laws",
+            "d": "Renaissance exploration ethics"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 80,
+        "question": "Modern concerns over labor exploitation in technology companies resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Factory labor conditions in the Industrial Revolution",
+            "b": "Medieval serfdom",
+            "c": "Colonial plantation labor",
+            "d": "Renaissance merchant practices"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 81,
+        "question": "Current debates on renewable energy subsidies reflect historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval windmill regulations",
+            "b": "Early 20th-century hydroelectric projects",
+            "c": "Renaissance agricultural reforms",
+            "d": "Colonial shipping taxes"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 82,
+        "question": "Modern cybersecurity concerns echo historical challenges in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial espionage during the 19th century",
+            "b": "Medieval castle defenses",
+            "c": "Colonial sea trade",
+            "d": "Renaissance printing press regulation"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 83,
+        "question": "Discussions about AI in education reflect historical debates on:",
+        "type": "MCQ",
+        "options": {
+            "a": "Standardized public schooling in the 19th century",
+            "b": "Medieval apprentice systems",
+            "c": "Renaissance tutors for elite students",
+            "d": "Colonial literacy laws"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 84,
+        "question": "Modern privacy laws reflect historical concerns about:",
+        "type": "MCQ",
+        "options": {
+            "a": "Government surveillance during the Red Scare",
+            "b": "Colonial trade restrictions",
+            "c": "Medieval guild monopolies",
+            "d": "Renaissance academic censorship"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 85,
+        "question": "Modern debates on workplace diversity mirror historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th and 20th-century civil rights movements",
+            "b": "Medieval guild hierarchy",
+            "c": "Colonial administration rules",
+            "d": "Renaissance court positions"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 86,
+        "question": "Ethical debates about AI in law enforcement resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Early 20th-century policing and surveillance",
+            "b": "Medieval castle guards",
+            "c": "Colonial navies",
+            "d": "Renaissance militias"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 87,
+        "question": "Contemporary environmental regulations reflect historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial pollution laws in the 19th century",
+            "b": "Medieval river tolls",
+            "c": "Colonial taxation",
+            "d": "Renaissance art funding"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 88,
+        "question": "Debates about internet governance echo historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Telegraph and telephone regulation in the 19th century",
+            "b": "Medieval guild control of commerce",
+            "c": "Colonial sea trade laws",
+            "d": "Renaissance printing press restrictions"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 89,
+        "question": "Modern discussions on universal healthcare mirror historical reforms such as:",
+        "type": "MCQ",
+        "options": {
+            "a": "Early 20th-century public health programs",
+            "b": "Medieval sanitation rules",
+            "c": "Renaissance hospitals for the poor",
+            "d": "Colonial vaccination mandates"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 90,
+        "question": "Debates on AI ethics in finance resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Banking regulations after the 1929 crash",
+            "b": "Medieval moneylending rules",
+            "c": "Colonial trade monopolies",
+            "d": "Renaissance merchant guilds"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 91,
+        "question": "Modern discussions on refugee crises mirror historical migration caused by famine and war.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 92,
+        "question": "Contemporary debates on sustainable agriculture reflect historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century crop rotation reforms",
+            "b": "Medieval feudal farming rules",
+            "c": "Colonial plantation management",
+            "d": "Renaissance botanical studies"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 93,
+        "question": "Modern ethical discussions about AI in journalism resemble historical debates over:",
+        "type": "MCQ",
+        "options": {
+            "a": "Censorship during wartime",
+            "b": "Medieval guild publishing rules",
+            "c": "Colonial pamphlet control",
+            "d": "Renaissance artistic censorship"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 94,
+        "question": "Debates about fair wages in gig economies reflect historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial Revolution labor unions",
+            "b": "Medieval serfdom",
+            "c": "Colonial taxation laws",
+            "d": "Renaissance apprentice wages"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 95,
+        "question": "Current debates on ethical AI mirror historical concerns about:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial automation and worker displacement",
+            "b": "Medieval guilds",
+            "c": "Colonial governance",
+            "d": "Renaissance art workshops"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 96,
+        "question": "Modern urban planning debates reflect historical concerns such as:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century zoning and sanitation reforms",
+            "b": "Medieval town walls",
+            "c": "Colonial road building",
+            "d": "Renaissance city squares"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 97,
+        "question": "Contemporary discussions on food safety mirror historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Pure Food and Drug Act in the early 1900s",
+            "b": "Medieval guild baking regulations",
+            "c": "Colonial spice trade monopolies",
+            "d": "Renaissance market rules"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 98,
+        "question": "Debates on labor protections for tech workers echo historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial Revolution factory labor conditions",
+            "b": "Medieval serfdom",
+            "c": "Colonial plantation labor",
+            "d": "Renaissance apprentice rules"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 99,
+        "question": "Modern climate policy debates mirror historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial pollution regulations in the 19th century",
+            "b": "Medieval river management",
+            "c": "Colonial forest use laws",
+            "d": "Renaissance agricultural experiments"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 100,
+        "question": "Current debates on equitable access to technology echo historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Early 20th-century telephone and telegraph access",
+            "b": "Medieval guild monopolies",
+            "c": "Colonial trade restrictions",
+            "d": "Renaissance education access"
+        },
+        "answer": "a"
+    }
+]

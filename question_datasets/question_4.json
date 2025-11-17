@@ -1,0 +1,1106 @@
+[
+    {
+        "question_id": 1,
+        "question": "Which societies experienced severe taxation crises leading to popular revolts over a millennium apart?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome 133 BCE and France 1789",
+            "b": "Egypt 2000 BCE and Japan 1600",
+            "c": "Mughal Empire 1707 and Spain 1808",
+            "d": "Aztec Empire 1519 and Haiti 1791"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 2,
+        "question": "Byzantine Empire in 1204 and Russia in 1917 faced leadership crises triggered by external invasions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 3,
+        "question": "Economic decline and corruption led to unrest in which of the following societies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ming China 1620",
+            "b": "Rome 27 BCE",
+            "c": "Ottoman Empire 1453",
+            "d": "India 1947"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 4,
+        "question": "Which society faced leadership debates during territorial fragmentation?",
+        "type": "MCQ",
+        "options": {
+            "a": "Holy Roman Empire 1618",
+            "b": "Greece 500 BCE",
+            "c": "China 1000 BCE",
+            "d": "Spain 1930"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 5,
+        "question": "France in 1789 and the Roman Republic in 133 BCE faced revolts fueled by economic inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 6,
+        "question": "Which empire experienced economic crisis, peasant uprisings, and contested leadership in the 17th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Empire 1683",
+            "b": "Mughal Empire 1526",
+            "c": "Aztec Empire 1500",
+            "d": "United States 1861"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 7,
+        "question": "The United States in 1933 and Weimar Germany in 1929 struggled with global economic collapse leading to instability.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 8,
+        "question": "Which societies experienced rapid leadership transitions due to social unrest?",
+        "type": "MCQ",
+        "options": {
+            "a": "England 1640 and Germany 1930",
+            "b": "China 1500 BCE and Japan 1600",
+            "c": "France 1870 and Russia 1204",
+            "d": "Spain 1936 and USA 1861"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 9,
+        "question": "Both the Aztec Empire and Haiti experienced internal rebellion alongside external pressures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 10,
+        "question": "Economic decline and unrest in which society led to the fall of its ruling dynasty?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ming China 1620",
+            "b": "Rome 27 BCE",
+            "c": "Byzantine Empire 1204",
+            "d": "England 1066"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 11,
+        "question": "Which society’s leadership debates were amplified by war and economic hardship?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "Japan 1600",
+            "c": "Aztec Empire 1519",
+            "d": "United States 1776"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 12,
+        "question": "Ming China 1644 and Tokugawa Japan 1853 both faced social unrest due to external pressures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 13,
+        "question": "Which society faced peasant revolts and debates over imperial succession?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1848",
+            "b": "Rome 133 BCE",
+            "c": "Aztec Empire 1500",
+            "d": "India 1947"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 14,
+        "question": "England in 1381 and France in 1789 experienced revolts due to taxation and inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 15,
+        "question": "Which society had leadership debates amplified by foreign invasions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1071",
+            "b": "USA 1861",
+            "c": "Mexico 1910",
+            "d": "Ming China 1620"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 16,
+        "question": "Soviet Union in 1985 and Ming China in 1640 struggled with economic decline leading to instability.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 17,
+        "question": "Which societies struggled with inflation, famine, and political corruption?",
+        "type": "MCQ",
+        "options": {
+            "a": "Roman Republic 133 BCE and France 1789",
+            "b": "Japan 1600 and Ming China 1644",
+            "c": "USA 1933 and Italy 1922",
+            "d": "Spain 1808 and Haiti 1791"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 18,
+        "question": "The Ottoman Empire in 1683 and Austro-Hungarian Empire in 1914 faced debates over imperial leadership amid military defeat.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 19,
+        "question": "Which empire’s economic decline coincided with uprisings among lower classes?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Empire 1683",
+            "b": "USA 1933",
+            "c": "Italy 1922",
+            "d": "Ming China 1500"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 20,
+        "question": "Tokugawa Japan 1853 and India 1947 had to adapt rapidly to social and technological changes.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 21,
+        "question": "Which societies faced widespread revolts due to famine and heavy taxation?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789 and England 1381",
+            "b": "Rome 27 BCE and Japan 1600",
+            "c": "Ottoman Empire 1453 and Ming China 1644",
+            "d": "Aztec Empire 1519 and USA 1861"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 22,
+        "question": "Mughal Empire 1707 and France 1848 struggled with succession disputes and social unrest.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 23,
+        "question": "Which empire experienced social unrest due to corruption and inefficient taxation in the 17th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Empire 1683",
+            "b": "Rome 133 BCE",
+            "c": "France 1789",
+            "d": "Ming China 1500"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 24,
+        "question": "Both the Holy Roman Empire in 1618 and Germany in 1918 faced political fragmentation and leadership crises.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 25,
+        "question": "Which society faced rapid leadership changes following a major military defeat?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1071",
+            "b": "France 1848",
+            "c": "USA 1933",
+            "d": "Japan 1600"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 26,
+        "question": "Which societies faced leadership crises during intense peasant revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome 133 BCE and France 1789",
+            "b": "Spain 1808 and Italy 1922",
+            "c": "Japan 1600 and India 1947",
+            "d": "USA 1933 and Germany 1929"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 27,
+        "question": "Ming China 1620 and Spain 1808 experienced economic downturns fueling leadership debates.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 28,
+        "question": "Which empire faced economic decline and peasant uprisings during the 17th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Empire 1683",
+            "b": "Ming China 1644",
+            "c": "France 1789",
+            "d": "England 1381"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 29,
+        "question": "France 1870 and Italy 1922 struggled with leadership debates after military defeat.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 30,
+        "question": "Which society experienced revolts due to famine, taxation, and weak leadership?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "Rome 133 BCE",
+            "c": "Aztec Empire 1519",
+            "d": "USA 1861"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 31,
+        "question": "The Roman Republic 88 BCE and Greece 404 BCE faced unrest caused by inequality and corruption.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 32,
+        "question": "Which society faced economic collapse leading to contested succession and civil unrest?",
+        "type": "MCQ",
+        "options": {
+            "a": "Weimar Germany 1929",
+            "b": "France 1789",
+            "c": "Ming China 1620",
+            "d": "Aztec Empire 1519"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 33,
+        "question": "Tokugawa Japan 1853 and India 1947 struggled with rapid adaptation to social and technological changes.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 34,
+        "question": "Which society’s social unrest was compounded by taxation and military defeats?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "Rome 27 BCE",
+            "c": "Spain 1808",
+            "d": "Aztec Empire 1500"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 35,
+        "question": "Both Byzantine Empire 1453 and France 1789 experienced leadership crises intensified by economic collapse.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 36,
+        "question": "Which society faced leadership debates during foreign invasions and domestic revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1204",
+            "b": "USA 1776",
+            "c": "India 1947",
+            "d": "France 1848"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 37,
+        "question": "Aztec Empire 1519 and Haiti 1791 faced revolts fueled by inequality and external pressures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 38,
+        "question": "Which society experienced economic decline that directly influenced the fall of its monarchy?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "England 1381",
+            "c": "Rome 27 BCE",
+            "d": "Byzantine Empire 1453"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 39,
+        "question": "Soviet Union 1985 and Ming China 1640 struggled to adapt to global economic changes and reforms.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 40,
+        "question": "Which two societies faced leadership crises during intense popular revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome 133 BCE and France 1789",
+            "b": "Spain 1808 and Italy 1922",
+            "c": "Japan 1600 and India 1947",
+            "d": "USA 1933 and Germany 1929"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 41,
+        "question": "Ming China 1620 and Spain 1808 experienced economic downturns fueling leadership debates.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 42,
+        "question": "Which societies experienced severe social unrest due to corruption and taxation?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome 133 BCE and France 1789",
+            "b": "England 1381 and Japan 1600",
+            "c": "USA 1933 and Italy 1922",
+            "d": "Spain 1808 and Haiti 1791"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 43,
+        "question": "The Ottoman Empire 1683 and Austro-Hungarian Empire 1914 faced leadership challenges amid military crises.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 44,
+        "question": "Which empire experienced peasant uprisings due to economic mismanagement in the 17th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Empire 1683",
+            "b": "Ming China 1644",
+            "c": "France 1789",
+            "d": "England 1381"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 45,
+        "question": "Both Holy Roman Empire 1618 and Germany 1918 faced political fragmentation and leadership crises.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 46,
+        "question": "Which society faced leadership crises after a major military defeat?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1071",
+            "b": "France 1848",
+            "c": "USA 1933",
+            "d": "Japan 1600"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 47,
+        "question": "Inca Empire 1532 and Mexico 1910 experienced uprisings fueled by social inequality and foreign pressures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 48,
+        "question": "Which societies had leadership disputes triggered by economic decline and peasant revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789 and Roman Republic 133 BCE",
+            "b": "England 1381 and Japan 1600",
+            "c": "Spain 1808 and Ming China 1644",
+            "d": "Aztec Empire 1519 and Haiti 1791"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 49,
+        "question": "England 1381 and France 1789 faced revolts due to taxation and economic hardship.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 50,
+        "question": "Which empire’s economic and social crises led directly to a change in leadership?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ming China 1644",
+            "b": "Rome 27 BCE",
+            "c": "Ottoman Empire 1683",
+            "d": "France 1870"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 51,
+        "question": "France 1789 and the Roman Republic 133 BCE both faced uprisings fueled by inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 52,
+        "question": "Which society experienced debates over succession amplified by peasant revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1848",
+            "b": "Mughal Empire 1707",
+            "c": "Aztec Empire 1500",
+            "d": "USA 1861"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 53,
+        "question": "Soviet Union 1985 and Ming China 1640 struggled to maintain stability amid economic decline.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 54,
+        "question": "Which societies had leadership crises triggered by foreign invasions and internal rebellion?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1204 and France 1793",
+            "b": "Rome 27 BCE and Japan 1600",
+            "c": "Ottoman Empire 1453 and Ming China 1620",
+            "d": "Aztec Empire 1519 and USA 1861"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 55,
+        "question": "Ottoman Empire 1683 faced leadership debates during a period of military and economic crises.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 56,
+        "question": "Which society faced unrest due to taxation, famine, and contested leadership in the 18th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "Rome 133 BCE",
+            "c": "Ming China 1620",
+            "d": "England 1381"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 57,
+        "question": "Both Tokugawa Japan 1853 and India 1947 had to adapt rapidly to social and technological changes.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 58,
+        "question": "Which empire faced leadership crises compounded by military defeat and popular revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Weimar Germany 1929",
+            "b": "Ming China 1644",
+            "c": "Aztec Empire 1519",
+            "d": "France 1789"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 59,
+        "question": "France 1870 and Italy 1922 struggled with leadership disputes after military defeat.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 60,
+        "question": "Which societies had revolts triggered by inequality, famine, and corruption?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome 133 BCE and France 1789",
+            "b": "Japan 1600 and Ming China 1644",
+            "c": "USA 1933 and Italy 1922",
+            "d": "Spain 1808 and Haiti 1791"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 61,
+        "question": "Ming China 1620 and Spain 1808 experienced unrest due to failures in agriculture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 62,
+        "question": "Which society faced leadership debates during foreign invasion and domestic revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1204",
+            "b": "USA 1776",
+            "c": "India 1947",
+            "d": "France 1848"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 63,
+        "question": "The Aztec Empire 1519 and Haiti 1791 experienced revolts intensified by inequality and foreign pressures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 64,
+        "question": "Which society experienced economic decline that influenced the fall of its monarchy?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "England 1381",
+            "c": "Rome 27 BCE",
+            "d": "Byzantine Empire 1453"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 65,
+        "question": "Soviet Union 1985 and Ming China 1640 struggled to adapt to global economic changes.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 66,
+        "question": "Which societies faced leadership crises during intense popular revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome 133 BCE and France 1789",
+            "b": "Spain 1808 and Italy 1922",
+            "c": "Japan 1600 and India 1947",
+            "d": "USA 1933 and Germany 1929"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 67,
+        "question": "Ming China 1620 and Spain 1808 experienced economic downturns that fueled debates over leadership.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 68,
+        "question": "Which empire faced economic decline and peasant uprisings in the 17th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Empire 1683",
+            "b": "Ming China 1644",
+            "c": "France 1789",
+            "d": "England 1381"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 69,
+        "question": "France 1870 and Italy 1922 struggled with leadership debates after military defeat.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 70,
+        "question": "Which society experienced revolts due to famine, taxation, and weak leadership?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "Rome 133 BCE",
+            "c": "Aztec Empire 1519",
+            "d": "USA 1861"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 71,
+        "question": "Roman Republic 88 BCE and Greece 404 BCE faced unrest caused by inequality and political corruption.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 72,
+        "question": "Which society faced economic collapse leading to contested succession and civil unrest?",
+        "type": "MCQ",
+        "options": {
+            "a": "Weimar Germany 1929",
+            "b": "France 1789",
+            "c": "Ming China 1620",
+            "d": "Aztec Empire 1519"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 73,
+        "question": "Tokugawa Japan 1853 and India 1947 struggled with rapid adaptation to social and technological changes.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 74,
+        "question": "Which society’s social unrest was compounded by taxation and military defeats?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "Rome 27 BCE",
+            "c": "Spain 1808",
+            "d": "Aztec Empire 1500"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 75,
+        "question": "Both Byzantine Empire 1453 and France 1789 experienced leadership crises intensified by economic collapse.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 76,
+        "question": "Which society faced leadership debates during a period of foreign invasion and domestic revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1204",
+            "b": "USA 1776",
+            "c": "India 1947",
+            "d": "France 1848"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 77,
+        "question": "Aztec Empire 1519 and Haiti 1791 faced revolts fueled by internal inequality and external pressures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 78,
+        "question": "Which society experienced economic decline that directly influenced the fall of its monarchy?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "England 1381",
+            "c": "Rome 27 BCE",
+            "d": "Byzantine Empire 1453"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 79,
+        "question": "Soviet Union 1985 and Ming China 1640 struggled to adapt to global economic changes and political reforms.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 80,
+        "question": "Which two societies faced leadership crises during intense popular revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome 133 BCE and France 1789",
+            "b": "Spain 1808 and Italy 1922",
+            "c": "Japan 1600 and India 1947",
+            "d": "USA 1933 and Germany 1929"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 81,
+        "question": "Ming China 1620 and Spain 1808 experienced economic downturns that fueled debates over leadership succession.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 82,
+        "question": "Which empire struggled with inflation, peasant revolts, and foreign pressure in the 17th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Empire 1683",
+            "b": "France 1789",
+            "c": "Rome 133 BCE",
+            "d": "Mughal Empire 1707"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 83,
+        "question": "Both the Roman Republic 133 BCE and France 1789 faced social unrest due to inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 84,
+        "question": "Which societies faced rapid leadership change after foreign invasions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1071 and France 1848",
+            "b": "USA 1861 and Japan 1600",
+            "c": "Aztec Empire 1519 and Haiti 1791",
+            "d": "Ming China 1644 and Spain 1808"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 85,
+        "question": "Soviet Union 1985 and Ming China 1640 faced unrest caused by economic stagnation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 86,
+        "question": "Which societies had popular revolts triggered by famine and taxation?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789 and England 1381",
+            "b": "Rome 133 BCE and Ming China 1644",
+            "c": "USA 1933 and Germany 1929",
+            "d": "Spain 1808 and Italy 1922"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 87,
+        "question": "The Ottoman Empire 1683 faced leadership debates during a period of economic crisis.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 88,
+        "question": "Which empire faced civil unrest due to corruption, military defeats, and economic decline?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Empire 1683",
+            "b": "France 1789",
+            "c": "Ming China 1620",
+            "d": "Rome 133 BCE"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 89,
+        "question": "England 1381 and France 1789 experienced revolts due to taxation and inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 90,
+        "question": "Which society faced leadership debates after social unrest triggered by famine and inequality?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789",
+            "b": "Rome 133 BCE",
+            "c": "Aztec Empire 1519",
+            "d": "USA 1861"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 91,
+        "question": "Ming China 1620 and Spain 1808 struggled with economic decline impacting leadership decisions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 92,
+        "question": "Which societies experienced leadership crises due to foreign invasions and internal uprisings?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1204 and France 1793",
+            "b": "Rome 27 BCE and Japan 1600",
+            "c": "Ottoman Empire 1453 and Ming China 1620",
+            "d": "Aztec Empire 1519 and USA 1861"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 93,
+        "question": "Both the Holy Roman Empire 1618 and Germany 1918 faced political fragmentation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 94,
+        "question": "Which society faced leadership crises after a major military defeat in the medieval period?",
+        "type": "MCQ",
+        "options": {
+            "a": "Byzantine Empire 1071",
+            "b": "France 1848",
+            "c": "USA 1933",
+            "d": "Japan 1600"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 95,
+        "question": "Inca Empire 1532 and Mexico 1910 experienced uprisings fueled by social inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 96,
+        "question": "Which societies had leadership disputes triggered by economic decline and revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789 and Roman Republic 133 BCE",
+            "b": "England 1381 and Japan 1600",
+            "c": "Spain 1808 and Ming China 1644",
+            "d": "Aztec Empire 1519 and Haiti 1791"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 97,
+        "question": "England 1381 and France 1789 faced revolts due to taxation and economic hardship.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 98,
+        "question": "Which empire’s economic and social crises led directly to a change in leadership?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ming China 1644",
+            "b": "Rome 27 BCE",
+            "c": "Ottoman Empire 1683",
+            "d": "France 1870"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 99,
+        "question": "Ming China 1620 and Spain 1808 experienced leadership challenges due to economic decline.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 100,
+        "question": "Which societies experienced leadership crises during widespread peasant revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "France 1789 and Rome 133 BCE",
+            "b": "England 1381 and Japan 1600",
+            "c": "Spain 1808 and Ming China 1644",
+            "d": "Aztec Empire 1519 and Haiti 1791"
+        },
+        "answer": "b"
+    }
+]

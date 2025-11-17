@@ -1,0 +1,1102 @@
+[
+  {
+    "question_id": 1,
+    "question": "If the American Revolution in 1776 never occurred, the United States would have remained a British colony throughout the 19th century.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 2,
+    "question": "If Germany had not invaded Poland in 1939, what is the most likely outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Europe would have remained peaceful for decades",
+      "b": "World War II would still have started differently",
+      "c": "Germany would have abandoned expansion policies",
+      "d": "France would have aligned with Germany"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 3,
+    "question": "If the fall of the Roman Empire in 476 CE never occurred, Europe would not have experienced the Middle Ages.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 4,
+    "question": "If the French Revolution of 1789 had not taken place, what would have been the most likely result?",
+    "type": "MCQ",
+    "options": {
+      "a": "The French monarchy would have survived longer",
+      "b": "Revolution would have erupted even earlier",
+      "c": "France would have peacefully transitioned to democracy",
+      "d": "Napoleon would have never risen to power"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "If the Industrial Revolution in Britain never happened, technological advancements globally would have been delayed significantly.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "If Columbus had not reached the Americas in 1492, which region would likely have dominated early Atlantic exploration?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Ottoman Empire",
+      "b": "Portugal",
+      "c": "China",
+      "d": "The Dutch Republic"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 7,
+    "question": "If Archduke Franz Ferdinand had not been assassinated in 1914, World War I would have been avoided entirely.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "If the U.S. had not entered World War II, what is the most likely outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Germany would have conquered the Soviet Union",
+      "b": "The war would have continued for many more years",
+      "c": "Japan would have voluntarily surrendered early",
+      "d": "Britain would have withdrawn from the war completely"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 9,
+    "question": "If the printing press had not been invented, the Renaissance would have spread far more slowly.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "If the Berlin Wall had never fallen, what might have continued?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Cold War division of Europe",
+      "b": "Rapid democratization in Eastern Europe",
+      "c": "European Union expansion",
+      "d": "German reunification"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 11,
+    "question": "If the Black Death had not struck Europe in the 14th century, population growth would have remained stable.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 12,
+    "question": "If the United Nations had not been created in 1945, which area would be most affected?",
+    "type": "MCQ",
+    "options": {
+      "a": "Post-war peacekeeping efforts",
+      "b": "Nuclear research development",
+      "c": "International sports coordination",
+      "d": "Global shipping routes"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 13,
+    "question": "If the partition of India in 1947 had not occurred, South Asia would have avoided decades of geopolitical tension.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "If penicillin had never been discovered, what would have happened?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mortality from bacterial infections would be far higher",
+      "b": "Vaccines would have developed earlier",
+      "c": "Herbal medicine would replace antibiotics",
+      "d": "Hospitals would rely on radiation treatment"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "If the Cold War had never occurred, the global arms race would have been far less intense.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "If the Great Fire of London never happened, what would London likely have retained?",
+    "type": "MCQ",
+    "options": {
+      "a": "Densely packed wooden medieval homes",
+      "b": "A more modern street layout",
+      "c": "Early skyscraper development",
+      "d": "Large-scale stone infrastructure"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "If the U.S. Civil Rights Movement of the 1960s had not occurred, racial segregation would have persisted far longer.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "If Columbus never discovered America, which civilization might have reached it next?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Ming Dynasty",
+      "b": "Scandinavian seafarers",
+      "c": "Portuguese explorers",
+      "d": "The Aztec Empire expanding outward"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 19,
+    "question": "If the atomic bomb had not been dropped on Japan in 1945, the war would have dragged on for months.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "If the Soviet Union had not collapsed in 1991, what is the most likely outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "A prolonged Cold War",
+      "b": "Rapid democratization in Eastern Europe",
+      "c": "Soviet membership in the European Union",
+      "d": "A unified global currency"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 21,
+    "question": "If the Renaissance had never happened, Europe's scientific progress would have been significantly delayed.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "If the Great Depression had not taken place, what might have changed?",
+    "type": "MCQ",
+    "options": {
+      "a": "The rise of fascism in Europe would have been slower",
+      "b": "World War II would have occurred far earlier",
+      "c": "The Soviet Union would have collapsed early",
+      "d": "Global trade would have shut down anyway"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "If the Meiji Restoration never took place, Japan would not have rapidly modernized in the 19th century.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 24,
+    "question": "If World War I never occurred, what might have happened to the Ottoman Empire?",
+    "type": "MCQ",
+    "options": {
+      "a": "It would have survived longer",
+      "b": "It would have become fully democratic",
+      "c": "It would have conquered new territories",
+      "d": "It would have peacefully dissolved"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "If the Cuban Missile Crisis never happened, U.S.-Soviet nuclear tension would have been lower.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 26,
+    "question": "If the internet had not been developed, what area would be most impacted?",
+    "type": "MCQ",
+    "options": {
+      "a": "International communication",
+      "b": "Agricultural production",
+      "c": "Nuclear physics",
+      "d": "Tourism infrastructure"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "If the Protestant Reformation had not happened, the Catholic Church would have remained unchallenged.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 28,
+    "question": "If Napoleon had not been defeated at Waterloo, what might have happened?",
+    "type": "MCQ",
+    "options": {
+      "a": "France would have expanded further",
+      "b": "Democracy would have spread more rapidly",
+      "c": "Industrialization would have halted",
+      "d": "Britain would have withdrawn from Europe"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 29,
+    "question": "If slavery had never existed in the U.S., racial inequality would not exist today.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 30,
+    "question": "If the Treaty of Versailles had been less harsh, what might have been prevented?",
+    "type": "MCQ",
+    "options": {
+      "a": "The rise of Adolf Hitler",
+      "b": "The Soviet Union's expansion",
+      "c": "The Great Depression",
+      "d": "Colonial independence movements"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "If electricity had never been discovered, modern industrialization would have been impossible.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 32,
+    "question": "If Julius Caesar had not been assassinated, what is the most likely outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Roman Republic might have lasted longer",
+      "b": "The Empire would have emerged sooner",
+      "c": "Caesar would have peacefully stepped down",
+      "d": "Rome would have fractured internally"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 33,
+    "question": "If the moon landing never happened, global confidence in U.S. science would have dropped.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "If China had not adopted market reforms in 1978, what would likely have occurred?",
+    "type": "MCQ",
+    "options": {
+      "a": "Slower economic growth",
+      "b": "Rapid democratization",
+      "c": "Earlier technological dominance",
+      "d": "Breakup of the Communist Party"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 35,
+    "question": "If the Great Wall of China had never been built, China would have been more exposed to invasions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 36,
+    "question": "If Alexander the Great had not died early, what likely would have happened?",
+    "type": "MCQ",
+    "options": {
+      "a": "His empire would have expanded deeper into Asia",
+      "b": "His generals would have overthrown him",
+      "c": "Rome would have expanded earlier",
+      "d": "Persia would have regained control"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "If the Cold War had continued past 1991, nuclear stockpiles would have grown further.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "If apartheid had not ended in 1994, what would have happened?",
+    "type": "MCQ",
+    "options": {
+      "a": "Increasing sanctions and isolation",
+      "b": "A rapid multicultural transition",
+      "c": "A peaceful coexistence system",
+      "d": "The ANC dissolving"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "If women had not gained the right to vote, gender equality would be far behind today.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "If the Korean War never happened, what is the most likely outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Korea might have remained a unified state",
+      "b": "China would have expanded into the peninsula",
+      "c": "Japan would have taken control",
+      "d": "The U.S. would have dissolved NATO"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 41,
+    "question": "If the Louisiana Purchase of 1803 never occurred, would the United States have remained confined to the East Coast for most of the 19th century?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 42,
+    "question": "If the Spanish–American War of 1898 never happened, what outcome would be most likely for U.S. influence in the Pacific?",
+    "type": "MCQ",
+    "options": {
+      "a": "The United States would never gain any territory in the Pacific",
+      "b": "Spain would maintain control of its colonies indefinitely",
+      "c": "Japan would immediately annex all Spanish territories",
+      "d": "U.S. expansion into the Pacific would occur through later diplomatic agreements"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 43,
+    "question": "If the Bolshevik Revolution in 1917 never occurred, Russia would have transitioned peacefully into a liberal democracy by 1925.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 44,
+    "question": "If the Opium Wars never occurred, how would China's 19th-century global position most likely have changed?",
+    "type": "MCQ",
+    "options": {
+      "a": "China would have remained fully isolated from all global trade",
+      "b": "China would have rapidly industrialized before Japan",
+      "c": "European influence in Asia would vanish completely",
+      "d": "China would have opened to trade later but on more equal terms"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 45,
+    "question": "If the United States had not joined World War I in 1917, the Allied victory would have been significantly delayed.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "If the Chinese Civil War ended differently and the Communists never took power in 1949, what is the most plausible outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "China becomes a U.S.-aligned capitalist state",
+      "b": "China forms a monarchy under foreign influence",
+      "c": "China remains divided into several warlord regions",
+      "d": "China enters an era of complete isolation like North Korea"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 47,
+    "question": "If the Partition of India in 1947 never occurred, South Asia would have avoided decades of geopolitical tension.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 48,
+    "question": "If the Great Depression of 1929 never occurred, what would be the most likely effect on global political movements?",
+    "type": "MCQ",
+    "options": {
+      "a": "Communism would disappear entirely by 1950",
+      "b": "Democracies worldwide would collapse regardless",
+      "c": "Far-right and far-left movements would have gained less support",
+      "d": "Colonial empires would break up immediately"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 49,
+    "question": "If the Cuban Missile Crisis of 1962 never occurred, the Cold War would have been far less dangerous.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 50,
+    "question": "If the Aztec Empire had defeated the Spanish in the early 1500s, what long-term consequence is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "No European nation would attempt colonization of the Americas again",
+      "b": "Mesoamerica would become entirely isolated",
+      "c": "The Aztecs would adopt selective European technologies",
+      "d": "The Aztec Empire would industrialize before Europe"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 51,
+    "question": "If the assassination of Archduke Franz Ferdinand in 1914 never occurred, Europe would have avoided World War I entirely.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 52,
+    "question": "If the Korean War never happened, what is the most likely fate of the Korean Peninsula?",
+    "type": "MCQ",
+    "options": {
+      "a": "Unified under a Communist regime",
+      "b": "Annexed by China",
+      "c": "Unified under a democratic government",
+      "d": "Permanently divided but peacefully coexisting"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 53,
+    "question": "If the Protestant Reformation of 1517 never began, Europe would have remained religiously unified.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 54,
+    "question": "If the Meiji Restoration of 1868 never occurred, which result is most likely for Japan?",
+    "type": "MCQ",
+    "options": {
+      "a": "Japan becomes a European colony",
+      "b": "Japan quickly surpasses European naval power",
+      "c": "Japan remains isolated and agrarian much longer",
+      "d": "Japan becomes the world's first industrial superpower"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 55,
+    "question": "If the French Revolution of 1789 never happened, Europe would have avoided the rise of Napoleon.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "If the Great Fire of London in 1666 never happened, what change is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Urban sanitation improves dramatically",
+      "b": "Britain collapses into a civil war",
+      "c": "London's medieval architecture survives much longer",
+      "d": "The monarchy is abolished"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 57,
+    "question": "If the Mongol invasions of the 13th century never occurred, Eastern Europe would have developed without major disruption.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "If the Scientific Revolution never occurred, which consequence is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "Religious institutions weaken more rapidly",
+      "b": "Industrialization happens centuries earlier",
+      "c": "Technological progress slows significantly",
+      "d": "Space travel develops in the 1700s"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 59,
+    "question": "If the Roman Empire never adopted Christianity, Europe would have remained predominantly polytheistic.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 60,
+    "question": "If the discovery of the Americas in 1492 never happened, what is the most likely outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Asia becomes the dominant colonial power",
+      "b": "Europe suffers severe population decline",
+      "c": "Global trade networks develop far more slowly",
+      "d": "Technological progress halts entirely"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 61,
+    "question": "If the Black Death of the 14th century never occurred, Europe's feudal system would have survived much longer.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "If the Space Race never began in the 1950s, which development is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Nuclear weapons become obsolete",
+      "b": "Space colonization begins earlier",
+      "c": "Satellite technology develops decades later",
+      "d": "The Internet appears in the 1930s"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 63,
+    "question": "If apartheid in South Africa never ended in the 1990s, the country would have faced international isolation for much longer.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "If the Renaissance never occurred, what is the most likely consequence for Europe?",
+    "type": "MCQ",
+    "options": {
+      "a": "Democratic institutions emerge faster",
+      "b": "Europe becomes fully Islamic",
+      "c": "Artistic and scientific progress slows dramatically",
+      "d": "Europe industrializes earlier than Asia"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 65,
+    "question": "If the Berlin Wall never fell in 1989, Germany would still be divided today.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 66,
+    "question": "If oil had never been discovered in the Middle East, which scenario is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "The region becomes a major industrial superpower",
+      "b": "European colonialism ends immediately",
+      "c": "Middle Eastern states remain politically fragmented",
+      "d": "The region unifies under one empire"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 67,
+    "question": "If World War II never occurred, the United Nations would not have formed in 1945.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "If Napoleon had won the Battle of Waterloo, what long-term outcome is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "Immediate industrial collapse across Europe",
+      "b": "Russia becomes the dominant world power",
+      "c": "The United States joins the French Empire",
+      "d": "A long-lasting French-led European empire"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 69,
+    "question": "If the Chinese invention of gunpowder never occurred, European warfare would have developed similarly.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 70,
+    "question": "If the American Civil War never occurred, what is the most likely national outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "The U.S. becomes a monarchy",
+      "b": "Rapid reunification under Canada",
+      "c": "Slavery continues for several more decades",
+      "d": "The U.S. splits into multiple independent republics"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 71,
+    "question": "If the Printing Press had never been invented, mass literacy would have been significantly delayed.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "If the Suez Crisis of 1956 never happened, which outcome is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Israel collapses as a nation-state",
+      "b": "Cold War alliances dissolve",
+      "c": "Egypt becomes a nuclear state",
+      "d": "Britain and France maintain stronger global influence"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 73,
+    "question": "If ancient Greece never developed democracy, modern democratic systems would look the same today.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 74,
+    "question": "If the transatlantic slave trade never occurred, what is the most likely demographic effect on the Americas?",
+    "type": "MCQ",
+    "options": {
+      "a": "Europeans import labor from Asia instead",
+      "b": "Industrialization never occurs",
+      "c": "Population growth in the Americas slows significantly",
+      "d": "Monarchies dominate the Americas indefinitely"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 75,
+    "question": "If the Cold War never happened, nuclear weapons would likely not spread globally.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "If the fall of Constantinople in 1453 never happened, which scenario is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "Europe becomes entirely Orthodox Christian",
+      "b": "The Ottoman Empire conquers all of Europe",
+      "c": "The Byzantine Empire survives into the modern era",
+      "d": "The Renaissance begins in the Ottoman Empire"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 77,
+    "question": "If the Vietnam War never occurred, U.S. domestic political polarization would be much lower today.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "If the discovery of penicillin never happened, what is the most likely outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vaccines replace antibiotics completely",
+      "b": "Surgery becomes obsolete",
+      "c": "Infectious disease mortality stays extremely high",
+      "d": "Hospitals cease to exist"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 79,
+    "question": "If the British Empire never colonized India, India's economy would develop in the same manner.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 80,
+    "question": "If the Battle of Hastings in 1066 never occurred, what is the most likely consequence for England?",
+    "type": "MCQ",
+    "options": {
+      "a": "England becomes a French-speaking monarchy",
+      "b": "The Vikings conquer England permanently",
+      "c": "The English language remains primarily Germanic",
+      "d": "England unites with Scotland centuries earlier"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 81,
+    "question": "If the Renaissance never occurred, would scientific discoveries have been delayed in Europe?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "If the American Constitution had not been ratified in 1789, what might have been affected?",
+    "type": "MCQ",
+    "options": {
+      "a": "U.S. federal government structure",
+      "b": "The French Revolution",
+      "c": "British monarchy",
+      "d": "The Louisiana Purchase"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 83,
+    "question": "If the Industrial Revolution never occurred, global economic development would have been slower.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "If the American Civil Rights Act of 1964 never passed, what would have happened?",
+    "type": "MCQ",
+    "options": {
+      "a": "Segregation and discrimination would have persisted longer",
+      "b": "Women would have gained the right to vote earlier",
+      "c": "Slavery would have returned",
+      "d": "The U.S. would have become a monarchy"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 85,
+    "question": "If the Great Depression never occurred, global economic policies might have developed differently.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 86,
+    "question": "If the discovery of penicillin in 1928 never occurred, what would have been affected most?",
+    "type": "MCQ",
+    "options": {
+      "a": "Treatment of bacterial infections",
+      "b": "Agricultural growth",
+      "c": "Space travel",
+      "d": "Electricity generation"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 87,
+    "question": "If the French Revolution never occurred, would European monarchies have survived longer?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 88,
+    "question": "If the Cold War never occurred, which of the following might have been different?",
+    "type": "MCQ",
+    "options": {
+      "a": "Global nuclear arms race",
+      "b": "The French Revolution",
+      "c": "The Black Death",
+      "d": "Renaissance art"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "If the Wright brothers had not invented the airplane in 1903, would international travel by air have been delayed?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 90,
+    "question": "If the U.S. Civil War never occurred, what would have been the impact on slavery?",
+    "type": "MCQ",
+    "options": {
+      "a": "Slavery might have continued longer",
+      "b": "Slavery would have ended immediately",
+      "c": "Slavery would have expanded to the North",
+      "d": "Slavery would have ended globally"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 91,
+    "question": "If the Berlin Airlift never happened in 1948, would West Berlin have survived Soviet pressure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 92,
+    "question": "If the Treaty of Versailles in 1919 had been more lenient, what might have been prevented?",
+    "type": "MCQ",
+    "options": {
+      "a": "Rise of Adolf Hitler and World War II",
+      "b": "Russian Revolution",
+      "c": "Cold War",
+      "d": "Industrial Revolution"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 93,
+    "question": "If the Magna Carta never existed, would modern constitutional law in England have developed later?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "If the Cuban Revolution never happened in 1959, what would have been affected most?",
+    "type": "MCQ",
+    "options": {
+      "a": "U.S.-Cuba relations",
+      "b": "Vietnam War",
+      "c": "World War II outcome",
+      "d": "Space Race"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 95,
+    "question": "If the Ottoman Empire had never fallen after World War I, would the Middle East have experienced the same political boundaries?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 96,
+    "question": "If the printing press never existed, what would have been affected most in Europe?",
+    "type": "MCQ",
+    "options": {
+      "a": "Spread of knowledge and literacy",
+      "b": "Colonization of Africa",
+      "c": "Industrial Revolution",
+      "d": "French Revolution"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 97,
+    "question": "If the assassination of Archduke Franz Ferdinand never occurred, would World War I still have happened?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "If the Great Fire of London in 1666 never occurred, what would have been affected most?",
+    "type": "MCQ",
+    "options": {
+      "a": "City planning and architecture",
+      "b": "The printing press",
+      "c": "French monarchy",
+      "d": "Industrial Revolution"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 99,
+    "question": "If women had not gained the right to vote in the early 20th century, would gender equality have progressed as it did?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 100,
+    "question": "If the atomic bomb had never been developed during World War II, what would have been affected most?",
+    "type": "MCQ",
+    "options": {
+      "a": "End of World War II in the Pacific",
+      "b": "Outcome of the Cold War",
+      "c": "Rise of Nazi Germany",
+      "d": "Fall of the Soviet Union"
+    },
+    "answer": "a"
+  }
+]

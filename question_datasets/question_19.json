@@ -1,0 +1,2497 @@
+[
+    {
+        "Question ID": 0,
+        "Question": "Only respond with True or False. It is possible that George Washington played Snooker",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 1,
+        "Question": "Only respond with True or False. It is possible that Douglas Adams played Chess",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 2,
+        "Question": "Only respond with True or False. It is possible that Abraham Lincoln played Dota",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 3,
+        "Question": "Only respond with True or False. It is possible that Wolfgang Amadeus Mozart played Duck Hunt",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 4,
+        "Question": "Only respond with True or False. It is possible that Ludwig van Beethoven played Rugby",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 5,
+        "Question": "Only respond with True or False. It is possible that Jean-Fran\u00e7ois Champollion played Blood Rage",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 6,
+        "Question": "Only respond with True or False. It is possible that Paul Morand played Minecraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 7,
+        "Question": "Only respond with True or False. It is possible that Claude Monet played American Football",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 8,
+        "Question": "Only respond with True or False. It is possible that Diego Vel\u00e1zquez played Basketball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 9,
+        "Question": "Only respond with True or False. It is possible that El Greco played Super Mario Bros.",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 10,
+        "Question": "Only respond with True or False. It is possible that Elvis Presley played American Football",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 11,
+        "Question": "Only respond with True or False. It is possible that Galileo Galilei played Table Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 12,
+        "Question": "Only respond with True or False. It is possible that Patricio Aylwin played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 13,
+        "Question": "Only respond with True or False. It is possible that Louis IX of France played Elden Ring",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 14,
+        "Question": "Only respond with True or False. It is possible that Adolf Hitler played Yu-Gi-Oh!",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 15,
+        "Question": "Only respond with True or False. It is possible that Blanche of Castile played Super Mario Bros.",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 16,
+        "Question": "Only respond with True or False. It is possible that Piet Kraak played Checkers",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 17,
+        "Question": "Only respond with True or False. It is possible that Augusto Pinochet played Paintball",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 18,
+        "Question": "Only respond with True or False. It is possible that Yanka Kupala played Laser Tag",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 19,
+        "Question": "Only respond with True or False. It is possible that Franti\u0161ek Pl\u00e1ni\u010dka played Table Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 20,
+        "Question": "Only respond with True or False. It is possible that Linda Lovelace played American Football",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 21,
+        "Question": "Only respond with True or False. It is possible that Bob Marley played Sudoku",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 22,
+        "Question": "Only respond with True or False. It is possible that Carl Sagan played Donkey Kong",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 23,
+        "Question": "Only respond with True or False. It is possible that Salvador Allende played The Legend of Zelda",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 24,
+        "Question": "Only respond with True or False. It is possible that Denis Diderot played Portal",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 25,
+        "Question": "Only respond with True or False. It is possible that Georges Brassens played Minecraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 26,
+        "Question": "Only respond with True or False. It is possible that Philipp Ludwig von Seidel played Elden Ring",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 27,
+        "Question": "Only respond with True or False. It is possible that Eduardo Frei Montalva played Carcassonne",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 28,
+        "Question": "Only respond with True or False. It is possible that Arthur Rimbaud played Civilization",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 29,
+        "Question": "Only respond with True or False. It is possible that Ulrich Fr\u00e9d\u00e9ric Woldemar, Comte de Lowendal played Sonic the Hedgehog",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 30,
+        "Question": "Only respond with True or False. It is possible that Charles Baudelaire played Elden Ring",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 31,
+        "Question": "Only respond with True or False. It is possible that Stendhal played Candy Land",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 32,
+        "Question": "Only respond with True or False. It is possible that \u00c9mile Zola played League of Legends",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 33,
+        "Question": "Only respond with True or False. It is possible that Vladimir Vysotsky played Connect Four",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 34,
+        "Question": "Only respond with True or False. It is possible that Napoleon played Fortnite",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 35,
+        "Question": "Only respond with True or False. It is possible that Louis Pasteur played Counter-Strike",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 36,
+        "Question": "Only respond with True or False. It is possible that Victor Hugo played Yu-Gi-Oh!",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 37,
+        "Question": "Only respond with True or False. It is possible that Giuseppe Garibaldi played Bowling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 38,
+        "Question": "Only respond with True or False. It is possible that Claude Bourgelat played Judo",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 39,
+        "Question": "Only respond with True or False. It is possible that Pierre Poivre played Fencing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 40,
+        "Question": "Only respond with True or False. It is possible that Jorge Alessandri played Carcassonne",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 41,
+        "Question": "Only respond with True or False. It is possible that Carlos Ib\u00e1\u00f1ez del Campo played StarCraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 42,
+        "Question": "Only respond with True or False. It is possible that Lu\u00eds de Cam\u00f5es played Laser Tag",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 43,
+        "Question": "Only respond with True or False. It is possible that Nicolaus Copernicus played Final Fantasy",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 44,
+        "Question": "Only respond with True or False. It is possible that Jean Moulin played Pandemic",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 45,
+        "Question": "Only respond with True or False. It is possible that Cleopatra played Chess Boxing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 46,
+        "Question": "Only respond with True or False. It is possible that Friedrich Theodor Vischer played Volleyball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 47,
+        "Question": "Only respond with True or False. It is possible that Andr\u00e9-Marie Amp\u00e8re played Pok\u00c3\u00a9mon Red and Blue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 48,
+        "Question": "Only respond with True or False. It is possible that Alessandro Volta played Super Mario Bros.",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 49,
+        "Question": "Only respond with True or False. It is possible that Moli\u00e8re played Air Hockey",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 50,
+        "Question": "Only respond with True or False. It is possible that William Shakespeare played Sumo Wrestling",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 51,
+        "Question": "Only respond with True or False. It is possible that Genghis Khan played Minecraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 52,
+        "Question": "Only respond with True or False. It is possible that Jean Racine played Blood Rage",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 53,
+        "Question": "Only respond with True or False. It is possible that Pierre Corneille played Battleship",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 54,
+        "Question": "Only respond with True or False. It is possible that Paul Verlaine played Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 55,
+        "Question": "Only respond with True or False. It is possible that Leonardo da Vinci played Exploding Kittens",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 56,
+        "Question": "Only respond with True or False. It is possible that Dario Fo played Soccer",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 57,
+        "Question": "Only respond with True or False. It is possible that St\u00e9phane Mallarm\u00e9 played Cricket",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 58,
+        "Question": "Only respond with True or False. It is possible that Gabriel Gonz\u00e1les Videla played Pong",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 59,
+        "Question": "Only respond with True or False. It is possible that Juan Antonio Rios played Mass Effect",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 60,
+        "Question": "Only respond with True or False. It is possible that Mikhail Bulgakov played Minecraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 61,
+        "Question": "Only respond with True or False. It is possible that Andrei Rublev played Civilization",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 62,
+        "Question": "Only respond with True or False. It is possible that Pedro Aguirre Cerda played Snooker",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 63,
+        "Question": "Only respond with True or False. It is possible that Arturo Alessandri played Monopoly",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 64,
+        "Question": "Only respond with True or False. It is possible that Fran\u00e7ois Villon played Descent: Journeys in the Dark",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 65,
+        "Question": "Only respond with True or False. It is possible that Andrei Tarkovsky played Frogger",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 66,
+        "Question": "Only respond with True or False. It is possible that Joseph Stalin played Basketball",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 67,
+        "Question": "Only respond with True or False. It is possible that Juan Luis Sanfuentes played Handball",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 68,
+        "Question": "Only respond with True or False. It is possible that Plato played Basketball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 69,
+        "Question": "Only respond with True or False. It is possible that Joseph Brodsky played Roblox",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 70,
+        "Question": "Only respond with True or False. It is possible that Aristotle played Battleship",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 71,
+        "Question": "Only respond with True or False. It is possible that Charlie Chaplin played Baseball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 72,
+        "Question": "Only respond with True or False. It is possible that J\u00f3zef Pi\u0142sudski played Yu-Gi-Oh!",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 73,
+        "Question": "Only respond with True or False. It is possible that J.\u00a0R.\u00a0R. Tolkien played Uno",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 74,
+        "Question": "Only respond with True or False. It is possible that Franz Kafka played Snooker",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 75,
+        "Question": "Only respond with True or False. It is possible that Jorge Luis Borges played American Football",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 76,
+        "Question": "Only respond with True or False. It is possible that Socrates played Risk",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 77,
+        "Question": "Only respond with True or False. It is possible that J. Bernlef played Blood Rage",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 78,
+        "Question": "Only respond with True or False. It is possible that Roald Amundsen played Gloomhaven",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 79,
+        "Question": "Only respond with True or False. It is possible that Harry Mulisch played Guitar Hero",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 80,
+        "Question": "Only respond with True or False. It is possible that Konstantin Melnikov played Connect Four",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 81,
+        "Question": "Only respond with True or False. It is possible that Isaac Newton played Handball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 82,
+        "Question": "Only respond with True or False. It is possible that Albert Einstein played Valorant",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 83,
+        "Question": "Only respond with True or False. It is possible that Pedro I of Brazil played Tetris",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 84,
+        "Question": "Only respond with True or False. It is possible that John Bardeen played Overwatch",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 85,
+        "Question": "Only respond with True or False. It is possible that Miles Franklin played Crosswords",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 86,
+        "Question": "Only respond with True or False. It is possible that John Paul II played Snooker",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 87,
+        "Question": "Only respond with True or False. It is possible that Fyodor Dostoyevsky played Star Wars: X-Wing Miniatures",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 88,
+        "Question": "Only respond with True or False. It is possible that Andrei Sakharov played Sumo Wrestling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 89,
+        "Question": "Only respond with True or False. It is possible that Mahatma Gandhi played Archery",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 90,
+        "Question": "Only respond with True or False. It is possible that France Pre\u0161eren played Sudoku",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 91,
+        "Question": "Only respond with True or False. It is possible that Charles Darwin played Chess Boxing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 92,
+        "Question": "Only respond with True or False. It is possible that Carl Linnaeus played Archery",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 93,
+        "Question": "Only respond with True or False. It is possible that Ivan Regen played Final Fantasy",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 94,
+        "Question": "Only respond with True or False. It is possible that Italo Balbo played Go",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 95,
+        "Question": "Only respond with True or False. It is possible that Alessandro Manzoni played Cricket",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 96,
+        "Question": "Only respond with True or False. It is possible that Dante Alighieri played Karate",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 97,
+        "Question": "Only respond with True or False. It is possible that Jean-Philippe Rameau played Dota",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 98,
+        "Question": "Only respond with True or False. It is possible that Indira Gandhi played Battleship",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 99,
+        "Question": "Only respond with True or False. It is possible that Hector Berlioz played Cricket",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 100,
+        "Question": "Only respond with True or False. It is possible that Maurice Ravel played The Last of Us",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 101,
+        "Question": "Only respond with True or False. It is possible that Jean-Baptiste Lully played Badminton",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 102,
+        "Question": "Only respond with True or False. It is possible that John Lennon played Battleship",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 103,
+        "Question": "Only respond with True or False. It is possible that Hubert Salentin played The Legend of Zelda",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 104,
+        "Question": "Only respond with True or False. It is possible that Carlo Azeglio Ciampi played Baseball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 105,
+        "Question": "Only respond with True or False. It is possible that Oscar Luigi Scalfaro played Dungeons & Dragons",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 106,
+        "Question": "Only respond with True or False. It is possible that Francesco Cossiga played Billiards",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 107,
+        "Question": "Only respond with True or False. It is possible that Sandro Pertini played Red Dead Redemption",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 108,
+        "Question": "Only respond with True or False. It is possible that Giovanni Leone played The Game of Life",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 109,
+        "Question": "Only respond with True or False. It is possible that Giuseppe Saragat played Badminton",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 110,
+        "Question": "Only respond with True or False. It is possible that Antonio Segni played Battleship",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 111,
+        "Question": "Only respond with True or False. It is possible that Giovanni Gronchi played Air Hockey",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 112,
+        "Question": "Only respond with True or False. It is possible that Luigi Einaudi played SimCity",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 113,
+        "Question": "Only respond with True or False. It is possible that Enrico de Nicola played Blood Rage",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 114,
+        "Question": "Only respond with True or False. It is possible that Kofi Annan played Exploding Kittens",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 115,
+        "Question": "Only respond with True or False. It is possible that Boutros Boutros-Ghali played Snooker",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 116,
+        "Question": "Only respond with True or False. It is possible that Kurt Waldheim played Arkham Horror",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 117,
+        "Question": "Only respond with True or False. It is possible that Dag Hammarskj\u00f6ld played Snooker",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 118,
+        "Question": "Only respond with True or False. It is possible that Fr\u00e9d\u00e9ric Chopin played Sonic the Hedgehog",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 119,
+        "Question": "Only respond with True or False. It is possible that Trygve Lie played Go",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 120,
+        "Question": "Only respond with True or False. It is possible that Gladwyn Jebb played Elden Ring",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 121,
+        "Question": "Only respond with True or False. It is possible that Leonard Cohen played StarCraft",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 122,
+        "Question": "Only respond with True or False. It is possible that Blaise Pascal played Crosswords",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 123,
+        "Question": "Only respond with True or False. It is possible that Ram\u00f3n Barros Luco played Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 124,
+        "Question": "Only respond with True or False. It is possible that Pedro Montt played Judo",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 125,
+        "Question": "Only respond with True or False. It is possible that Germ\u00e1n Riesco played Soccer",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 126,
+        "Question": "Only respond with True or False. It is possible that Saddam Hussein played Monopoly",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 127,
+        "Question": "Only respond with True or False. It is possible that Osama bin Laden played Table Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 128,
+        "Question": "Only respond with True or False. It is possible that An\u00edbal Za\u00f1artu played Metroid",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 129,
+        "Question": "Only respond with True or False. It is possible that Federico Err\u00e1zuriz Echaurren played Pinball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 130,
+        "Question": "Only respond with True or False. It is possible that Jorge Montt played Team Fortress 2",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 131,
+        "Question": "Only respond with True or False. It is possible that Jos\u00e9 Manuel Balmaceda played Magic: The Gathering",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 132,
+        "Question": "Only respond with True or False. It is possible that Domingo Santa Mar\u00eda played Duck Hunt",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 133,
+        "Question": "Only respond with True or False. It is possible that An\u00edbal Pinto played Sudoku",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 134,
+        "Question": "Only respond with True or False. It is possible that Friedrich Hayek played Star Wars: X-Wing Miniatures",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 135,
+        "Question": "Only respond with True or False. It is possible that Federico Err\u00e1zuriz Za\u00f1artu played Blood Rage",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 136,
+        "Question": "Only respond with True or False. It is possible that Jos\u00e9 Joaqu\u00edn P\u00e9rez played The Game of Life",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 137,
+        "Question": "Only respond with True or False. It is possible that Manuel Montt played Guitar Hero",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 138,
+        "Question": "Only respond with True or False. It is possible that Manuel Bulnes played Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 139,
+        "Question": "Only respond with True or False. It is possible that Jos\u00e9 Joaqu\u00edn Prieto played Blood Rage",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 140,
+        "Question": "Only respond with True or False. It is possible that Manuel Blanco Encalada played Gloomhaven",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 141,
+        "Question": "Only respond with True or False. It is possible that Ram\u00f3n Freire played Yu-Gi-Oh!",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 142,
+        "Question": "Only respond with True or False. It is possible that Francisco Antonio Pinto played Scrabble",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 143,
+        "Question": "Only respond with True or False. It is possible that Johann Sebastian Bach played Chess",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 144,
+        "Question": "Only respond with True or False. It is possible that Antonio Vivaldi played Fencing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 145,
+        "Question": "Only respond with True or False. It is possible that Dave Arneson played Judo",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 146,
+        "Question": "Only respond with True or False. It is possible that Vladimir Lenin played Snooker",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 147,
+        "Question": "Only respond with True or False. It is possible that Niccol\u00f2 Machiavelli played The Legend of Zelda",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 148,
+        "Question": "Only respond with True or False. It is possible that Petrarch played The Game of Life",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 149,
+        "Question": "Only respond with True or False. It is possible that Giovanni Boccaccio played Dominoes",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 150,
+        "Question": "Only respond with True or False. It is possible that Luigi Pirandello played Tetris",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 151,
+        "Question": "Only respond with True or False. It is possible that Ferdinand Marcos played American Football",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 152,
+        "Question": "Only respond with True or False. It is possible that M. C. Escher played Counter-Strike",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 153,
+        "Question": "Only respond with True or False. It is possible that Corazon Aquino played Call of Duty",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 154,
+        "Question": "Only respond with True or False. It is possible that Robert Brasillach played Tetris",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 155,
+        "Question": "Only respond with True or False. It is possible that Ferdinand Magellan played Pandemic",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 156,
+        "Question": "Only respond with True or False. It is possible that Jos\u00e9 Rizal played Uno",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 157,
+        "Question": "Only respond with True or False. It is possible that Manuel L. Quezon played Magic: The Gathering",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 158,
+        "Question": "Only respond with True or False. It is possible that Richard Wagner played Dominoes",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 159,
+        "Question": "Only respond with True or False. It is possible that Robert Louis Stevenson played Star Wars: X-Wing Miniatures",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 160,
+        "Question": "Only respond with True or False. It is possible that Janis Joplin played Carcassonne",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 161,
+        "Question": "Only respond with True or False. It is possible that Ramesses II played Star Wars: Knights of the Old Republic",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 162,
+        "Question": "Only respond with True or False. It is possible that Ramesses III played Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 163,
+        "Question": "Only respond with True or False. It is possible that Ramesses IV played Counter-Strike",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 164,
+        "Question": "Only respond with True or False. It is possible that Tony Garnier played Age of Empires",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 165,
+        "Question": "Only respond with True or False. It is possible that Georg Simon Ohm played Dota",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 166,
+        "Question": "Only respond with True or False. It is possible that Luigi Galvani played Go",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 167,
+        "Question": "Only respond with True or False. It is possible that Neil Armstrong played Jenga",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 168,
+        "Question": "Only respond with True or False. It is possible that Charles Lindbergh played Badminton",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 169,
+        "Question": "Only respond with True or False. It is possible that Sigfrid Edstr\u00f6m played Civilization",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 170,
+        "Question": "Only respond with True or False. It is possible that David Cecil, 6th Marquess of Exeter played Cornhole",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 171,
+        "Question": "Only respond with True or False. It is possible that \u00c9dith Piaf played Arkham Horror",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 172,
+        "Question": "Only respond with True or False. It is possible that Adriaan Paulen played Cards Against Humanity",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 173,
+        "Question": "Only respond with True or False. It is possible that Primo Nebiolo played Uno",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 174,
+        "Question": "Only respond with True or False. It is possible that Fran\u00e7oise Sagan played Tetris",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 175,
+        "Question": "Only respond with True or False. It is possible that Jacques Brel played Gloomhaven",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 176,
+        "Question": "Only respond with True or False. It is possible that Serge Gainsbourg played Overwatch",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 177,
+        "Question": "Only respond with True or False. It is possible that Ella Fitzgerald played Red Dead Redemption",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 178,
+        "Question": "Only respond with True or False. It is possible that Brownie Mary played Battleship",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 179,
+        "Question": "Only respond with True or False. It is possible that Louis Armstrong played Team Fortress 2",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 180,
+        "Question": "Only respond with True or False. It is possible that Charles Aznavour played Fortnite",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 181,
+        "Question": "Only respond with True or False. It is possible that Jan I Carondelet played Civilization",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 182,
+        "Question": "Only respond with True or False. It is possible that Claude I Carondelet played Overwatch",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 183,
+        "Question": "Only respond with True or False. It is possible that Jan II Carondelet played Candy Land",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 184,
+        "Question": "Only respond with True or False. It is possible that Ferry Carondelet played Air Hockey",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 185,
+        "Question": "Only respond with True or False. It is possible that Daniel Balavoine played Fortnite",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 186,
+        "Question": "Only respond with True or False. It is possible that Barbara played The Last of Us",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 187,
+        "Question": "Only respond with True or False. It is possible that Paul Otlet played Laser Tag",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 188,
+        "Question": "Only respond with True or False. It is possible that Stanley Kubrick played Super Mario Bros.",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 189,
+        "Question": "Only respond with True or False. It is possible that Cesare Pavese played SimCity",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 190,
+        "Question": "Only respond with True or False. It is possible that Fran\u00e7ois Mitterrand played Horse Racing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 191,
+        "Question": "Only respond with True or False. It is possible that Giuseppe Farina played Elden Ring",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 192,
+        "Question": "Only respond with True or False. It is possible that Charles de Gaulle played Mass Effect",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 193,
+        "Question": "Only respond with True or False. It is possible that Juan Manuel Fangio played Bowling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 194,
+        "Question": "Only respond with True or False. It is possible that Alberto Ascari played Call of Duty",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 195,
+        "Question": "Only respond with True or False. It is possible that Mike Hawthorn played Battleship",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 196,
+        "Question": "Only respond with True or False. It is possible that Jacques Chirac played Magic: The Gathering",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 197,
+        "Question": "Only respond with True or False. It is possible that Hans Schmidt played Portal",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 198,
+        "Question": "Only respond with True or False. It is possible that Val\u00e9ry Giscard d'Estaing played Chess Boxing",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 199,
+        "Question": "Only respond with True or False. It is possible that Jack Brabham played Soccer",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 200,
+        "Question": "Only respond with True or False. It is possible that Georges Pompidou played Arkham Horror",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 201,
+        "Question": "Only respond with True or False. It is possible that Coluche played Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 202,
+        "Question": "Only respond with True or False. It is possible that Pierre Desproges played Archery",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 203,
+        "Question": "Only respond with True or False. It is possible that Chet Baker played Soccer",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 204,
+        "Question": "Only respond with True or False. It is possible that Tot\u00f2 played Archery",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 205,
+        "Question": "Only respond with True or False. It is possible that Konrad Adenauer played Magic: The Gathering",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 206,
+        "Question": "Only respond with True or False. It is possible that Ludwig Erhard played Guitar Hero",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 207,
+        "Question": "Only respond with True or False. It is possible that Kurt Georg Kiesinger played Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 208,
+        "Question": "Only respond with True or False. It is possible that Willy Brandt played Pandemic",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 209,
+        "Question": "Only respond with True or False. It is possible that Helmut Schmidt played Sumo Wrestling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 210,
+        "Question": "Only respond with True or False. It is possible that Helmut Kohl played Snooker",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 211,
+        "Question": "Only respond with True or False. It is possible that Johannes Rau played Pinball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 212,
+        "Question": "Only respond with True or False. It is possible that Roman Herzog played Call of Duty",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 213,
+        "Question": "Only respond with True or False. It is possible that Isaac Brock played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 214,
+        "Question": "Only respond with True or False. It is possible that Richard von Weizs\u00e4cker played Valorant",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 215,
+        "Question": "Only respond with True or False. It is possible that Karl Carstens played Super Mario Bros.",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 216,
+        "Question": "Only respond with True or False. It is possible that Walter Scheel played Sumo Wrestling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 217,
+        "Question": "Only respond with True or False. It is possible that Gustav Heinemann played Elden Ring",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 218,
+        "Question": "Only respond with True or False. It is possible that Heinrich L\u00fcbke played Snooker",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 219,
+        "Question": "Only respond with True or False. It is possible that Theodor Heuss played Metroid",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 220,
+        "Question": "Only respond with True or False. It is possible that Manfred Gerlach played Pac-Man",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 221,
+        "Question": "Only respond with True or False. It is possible that Pius XII played Catan",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 222,
+        "Question": "Only respond with True or False. It is possible that Erich Honecker played Candy Land",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 223,
+        "Question": "Only respond with True or False. It is possible that Willi Stoph played American Football",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 224,
+        "Question": "Only respond with True or False. It is possible that Walter Ulbricht played Metroid",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 225,
+        "Question": "Only respond with True or False. It is possible that George Harrison played Final Fantasy",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 226,
+        "Question": "Only respond with True or False. It is possible that Friedrich Ebert played Pandemic",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 227,
+        "Question": "Only respond with True or False. It is possible that John Franklin played Frogger",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 228,
+        "Question": "Only respond with True or False. It is possible that Paul von Hindenburg played Pandemic",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 229,
+        "Question": "Only respond with True or False. It is possible that Wilhelm II played Connect Four",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 230,
+        "Question": "Only respond with True or False. It is possible that Louis de Fun\u00e8s played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 231,
+        "Question": "Only respond with True or False. It is possible that Bourvil played Water Polo",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 232,
+        "Question": "Only respond with True or False. It is possible that Jaroslav Ha\u0161ek played Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 233,
+        "Question": "Only respond with True or False. It is possible that Lech Kaczy\u0144ski played Dota",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 234,
+        "Question": "Only respond with True or False. It is possible that Daniel Morgan played Dungeons & Dragons",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 235,
+        "Question": "Only respond with True or False. It is possible that Michael Jackson played Blood Rage",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 236,
+        "Question": "Only respond with True or False. It is possible that Antoine de Saint-Exup\u00e9ry played Ticket to Ride",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 237,
+        "Question": "Only respond with True or False. It is possible that Sir John Barrow, 1st Baronet played Dungeons & Dragons",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 238,
+        "Question": "Only respond with True or False. It is possible that Amy Johnson played Battleship",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 239,
+        "Question": "Only respond with True or False. It is possible that Willoughby Newton played Taekwondo",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 240,
+        "Question": "Only respond with True or False. It is possible that Charlemagne played Dungeons & Dragons",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 241,
+        "Question": "Only respond with True or False. It is possible that Charles Maurras played Golf",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 242,
+        "Question": "Only respond with True or False. It is possible that Livia Ana T\u0103taru played Team Fortress 2",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 243,
+        "Question": "Only respond with True or False. It is possible that Francis van Bossuit played Air Hockey",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 244,
+        "Question": "Only respond with True or False. It is possible that Patrick Ricard played Minecraft",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 245,
+        "Question": "Only respond with True or False. It is possible that Francis Coventry played World of Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 246,
+        "Question": "Only respond with True or False. It is possible that Phil Hill played Super Mario Bros.",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 247,
+        "Question": "Only respond with True or False. It is possible that Graham Hill played Quake",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 248,
+        "Question": "Only respond with True or False. It is possible that Jim Clark played The Legend of Zelda",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 249,
+        "Question": "Only respond with True or False. It is possible that John Surtees played Minecraft",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 250,
+        "Question": "Only respond with True or False. It is possible that Conrad Wahn played Bowling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 251,
+        "Question": "Only respond with True or False. It is possible that Denny Hulme played Chess",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 252,
+        "Question": "Only respond with True or False. It is possible that Friedrich Wilhelm Grund played StarCraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 253,
+        "Question": "Only respond with True or False. It is possible that William Terry played Exploding Kittens",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 254,
+        "Question": "Only respond with True or False. It is possible that Jochen Rindt played Valorant",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 255,
+        "Question": "Only respond with True or False. It is possible that James K. Gibson played Golf",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 256,
+        "Question": "Only respond with True or False. It is possible that Allen Sheppard played Frogger",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 257,
+        "Question": "Only respond with True or False. It is possible that Elisha E. Meredith played Tetris",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 258,
+        "Question": "Only respond with True or False. It is possible that Henry P. Alexander played Arkham Horror",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 259,
+        "Question": "Only respond with True or False. It is possible that Hubert Clifford played League of Legends",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 260,
+        "Question": "Only respond with True or False. It is possible that David Cairns played Uno",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 261,
+        "Question": "Only respond with True or False. It is possible that John Gregg played Sudoku",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 262,
+        "Question": "Only respond with True or False. It is possible that Ernst Tiburzy played Archery",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 263,
+        "Question": "Only respond with True or False. It is possible that Charles Martel played Clue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 264,
+        "Question": "Only respond with True or False. It is possible that Simon Lohet played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 265,
+        "Question": "Only respond with True or False. It is possible that Rufus R. Jones played Final Fantasy",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 266,
+        "Question": "Only respond with True or False. It is possible that George Orwell played SimCity",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 267,
+        "Question": "Only respond with True or False. It is possible that Ptolemy IX Lathyros played Age of Empires",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 268,
+        "Question": "Only respond with True or False. It is possible that Ptolemy X Alexander I played Soccer",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 269,
+        "Question": "Only respond with True or False. It is possible that Ptolemy VIII Physcon played Pok\u00c3\u00a9mon Red and Blue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 270,
+        "Question": "Only respond with True or False. It is possible that Amelia Earhart played Minecraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 271,
+        "Question": "Only respond with True or False. It is possible that Antiochus IV Epiphanes played Karate",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 272,
+        "Question": "Only respond with True or False. It is possible that Seleucus IV Philopator played The Last of Us",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 273,
+        "Question": "Only respond with True or False. It is possible that Antiochus III the Great played Scrabble",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 274,
+        "Question": "Only respond with True or False. It is possible that Seleucus III Ceraunus played Dungeons & Dragons",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 275,
+        "Question": "Only respond with True or False. It is possible that Seleucus II Callinicus played Cornhole",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 276,
+        "Question": "Only respond with True or False. It is possible that Franciszek Karpi\u0144ski played Archery",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 277,
+        "Question": "Only respond with True or False. It is possible that Aleksandr Kanaki played Chess",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 278,
+        "Question": "Only respond with True or False. It is possible that Laurent Dauthuille played Duck Hunt",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 279,
+        "Question": "Only respond with True or False. It is possible that George Sand played Pong",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 280,
+        "Question": "Only respond with True or False. It is possible that Etienne-Barth\u00e9l\u00e9my Garnier played The Legend of Zelda",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 281,
+        "Question": "Only respond with True or False. It is possible that Piet Roozenburg played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 282,
+        "Question": "Only respond with True or False. It is possible that Grace Kelly played Pok\u00c3\u00a9mon Red and Blue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 283,
+        "Question": "Only respond with True or False. It is possible that Jacqueline Cochran played Soccer",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 284,
+        "Question": "Only respond with True or False. It is possible that Ramesses IX played Checkers",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 285,
+        "Question": "Only respond with True or False. It is possible that Paul von Rennenkampf played Halo: Combat Evolved",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 286,
+        "Question": "Only respond with True or False. It is possible that George Zorab played Ticket to Ride",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 287,
+        "Question": "Only respond with True or False. It is possible that Ramesses X played Elden Ring",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 288,
+        "Question": "Only respond with True or False. It is possible that Duke Ellington played Pok\u00c3\u00a9mon Red and Blue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 289,
+        "Question": "Only respond with True or False. It is possible that Woody Guthrie played Roblox",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 290,
+        "Question": "Only respond with True or False. It is possible that Ramesses V played Basketball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 291,
+        "Question": "Only respond with True or False. It is possible that Louis Aragon played Portal",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 292,
+        "Question": "Only respond with True or False. It is possible that Elsa Triolet played Descent: Journeys in the Dark",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 293,
+        "Question": "Only respond with True or False. It is possible that Patrice O'Neal played Crosswords",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 294,
+        "Question": "Only respond with True or False. It is possible that Adam de la Halle played Counter-Strike",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 295,
+        "Question": "Only respond with True or False. It is possible that James Coburn played Crosswords",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 296,
+        "Question": "Only respond with True or False. It is possible that Rodolphe T\u00f6pffer played Tetris",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 297,
+        "Question": "Only respond with True or False. It is possible that Ad\u00e9mar de Chabannes played Sudoku",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 298,
+        "Question": "Only respond with True or False. It is possible that Guibert of Nogent played Clue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 299,
+        "Question": "Only respond with True or False. It is possible that Ante Bilobrk played Chess",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 300,
+        "Question": "Only respond with True or False. It is possible that Peter Abelard played Basketball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 301,
+        "Question": "Only respond with True or False. It is possible that Chr\u00e9tien de Troyes played Chess",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 302,
+        "Question": "Only respond with True or False. It is possible that Alain de Lille played Basketball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 303,
+        "Question": "Only respond with True or False. It is possible that Albert of Aix played Clue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 304,
+        "Question": "Only respond with True or False. It is possible that Alberich of Reims played Laser Tag",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 305,
+        "Question": "Only respond with True or False. It is possible that Andreas Capellanus played Table Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 306,
+        "Question": "Only respond with True or False. It is possible that Arnaut Daniel played Fortnite",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 307,
+        "Question": "Only respond with True or False. It is possible that Carlos Pellicer played Overwatch",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 308,
+        "Question": "Only respond with True or False. It is possible that Emily Dickinson played Arkham Horror",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 309,
+        "Question": "Only respond with True or False. It is possible that Pius VIII played Overwatch",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 310,
+        "Question": "Only respond with True or False. It is possible that Benedict XV played Dota",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 311,
+        "Question": "Only respond with True or False. It is possible that Thomas of Metsoph played Elden Ring",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 312,
+        "Question": "Only respond with True or False. It is possible that Federico Gamboa played Rugby",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 313,
+        "Question": "Only respond with True or False. It is possible that Beatritz de Dia played Scrabble",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 314,
+        "Question": "Only respond with True or False. It is possible that Bertran de Born played Handball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 315,
+        "Question": "Only respond with True or False. It is possible that Bernard Katz played Jenga",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 316,
+        "Question": "Only respond with True or False. It is possible that Jonathan Winters played Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 317,
+        "Question": "Only respond with True or False. It is possible that Sean Connery played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 318,
+        "Question": "Only respond with True or False. It is possible that Anne Frank played Gloomhaven",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 319,
+        "Question": "Only respond with True or False. It is possible that Rajiv Gandhi played Portal",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 320,
+        "Question": "Only respond with True or False. It is possible that Confucius played Candy Land",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 321,
+        "Question": "Only respond with True or False. It is possible that Sarah Bernhardt played Minecraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 322,
+        "Question": "Only respond with True or False. It is possible that Marlene Dietrich played Fencing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 323,
+        "Question": "Only respond with True or False. It is possible that Marilyn Monroe played Scrabble",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 324,
+        "Question": "Only respond with True or False. It is possible that Francesco Filelfo played Dungeons & Dragons",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 325,
+        "Question": "Only respond with True or False. It is possible that Mohamed Morsi played Cards Against Humanity",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 326,
+        "Question": "Only respond with True or False. It is possible that Mary Stewart played Pandemic",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 327,
+        "Question": "Only respond with True or False. It is possible that Paul Otto played Table Tennis",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 328,
+        "Question": "Only respond with True or False. It is possible that Joan Lorring played Portal",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 329,
+        "Question": "Only respond with True or False. It is possible that Margaret Wycherly played American Football",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 330,
+        "Question": "Only respond with True or False. It is possible that Jean-Jacques Kieffer played The Game of Life",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 331,
+        "Question": "Only respond with True or False. It is possible that Claude Debussy played Carcassonne",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 332,
+        "Question": "Only respond with True or False. It is possible that Manfred von Richthofen played Scrabble",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 333,
+        "Question": "Only respond with True or False. It is possible that Charles II de Cro\u00ff played Taekwondo",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 334,
+        "Question": "Only respond with True or False. It is possible that Le Corbusier played Fortnite",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 335,
+        "Question": "Only respond with True or False. It is possible that Elizabeth Smith-Stanley, Countess of Derby played Valorant",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 336,
+        "Question": "Only respond with True or False. It is possible that John Hamilton played Donkey Kong",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 337,
+        "Question": "Only respond with True or False. It is possible that Manoel da Costa Ata\u00edde played Paintball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 338,
+        "Question": "Only respond with True or False. It is possible that Jen\u0151 \u00c1bel played League of Legends",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 339,
+        "Question": "Only respond with True or False. It is possible that Yves Mariot played League of Legends",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 340,
+        "Question": "Only respond with True or False. It is possible that Ernst Mielck played Doom",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 341,
+        "Question": "Only respond with True or False. It is possible that Roy Budd played Blood Rage",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 342,
+        "Question": "Only respond with True or False. It is possible that Karl Bryullov played Frogger",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 343,
+        "Question": "Only respond with True or False. It is possible that Anthony Sweijs played Cornhole",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 344,
+        "Question": "Only respond with True or False. It is possible that Andr\u00e1s F\u00e1y played Scythe",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 345,
+        "Question": "Only respond with True or False. It is possible that Marie-Jean-L\u00e9on d'Hervey de Saint Denys played Dominoes",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 346,
+        "Question": "Only respond with True or False. It is possible that Nicholas Prokopievich Miholaps played Tetris",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 347,
+        "Question": "Only respond with True or False. It is possible that Lady Ann Cunningham played Karate",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 348,
+        "Question": "Only respond with True or False. It is possible that Rosa Valetti played Bowling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 349,
+        "Question": "Only respond with True or False. It is possible that Marcel Doret played The Last of Us",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 350,
+        "Question": "Only respond with True or False. It is possible that Chris Hooijkaas played Pok\u00c3\u00a9mon Red and Blue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 351,
+        "Question": "Only respond with True or False. It is possible that Marcus Ravenswaaij played Civilization",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 352,
+        "Question": "Only respond with True or False. It is possible that William Hamilton, Duke of Hamilton played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 353,
+        "Question": "Only respond with True or False. It is possible that Francis Marrash played Badminton",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 354,
+        "Question": "Only respond with True or False. It is possible that Isabella I, Queen of Armenia played Dungeons & Dragons",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 355,
+        "Question": "Only respond with True or False. It is possible that Birger Kildal played Magic: The Gathering",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 356,
+        "Question": "Only respond with True or False. It is possible that Otto Richard Kierulf played Cards Against Humanity",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 357,
+        "Question": "Only respond with True or False. It is possible that Herman Melville played Scrabble",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 358,
+        "Question": "Only respond with True or False. It is possible that Emperor Taizu of Liao played Pok\u00c3\u00a9mon Red and Blue",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 359,
+        "Question": "Only respond with True or False. It is possible that Emperor Taizong of Liao played The Last of Us",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 360,
+        "Question": "Only respond with True or False. It is possible that Emperor Shizong of Liao played Karate",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 362,
+        "Question": "Only respond with True or False. It is possible that Emperor Muzong of Liao played Pac-Man",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 363,
+        "Question": "Only respond with True or False. It is possible that Emperor Jingzong of Liao played Fortnite",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 364,
+        "Question": "Only respond with True or False. It is possible that Emperor Shengzong of Liao played Dota",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 365,
+        "Question": "Only respond with True or False. It is possible that Emperor Xingzong of Liao played Pong",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 366,
+        "Question": "Only respond with True or False. It is possible that Emperor Daozong of Liao played Chess",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 367,
+        "Question": "Only respond with True or False. It is possible that Emperor Tianzuo of Liao played Pong",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 368,
+        "Question": "Only respond with True or False. It is possible that Elder Paisios of Mount Athos played Magic: The Gathering",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 369,
+        "Question": "Only respond with True or False. It is possible that Emperor Taizu of Jin played Doom",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 370,
+        "Question": "Only respond with True or False. It is possible that Emperor Modi of Jin played The Game of Life",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 371,
+        "Question": "Only respond with True or False. It is possible that Emperor Taizong of Jin played Duck Hunt",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 372,
+        "Question": "Only respond with True or False. It is possible that Emperor Xizong of Jin played Age of Empires",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 373,
+        "Question": "Only respond with True or False. It is possible that Emperor Hailingwang of Jin played Fencing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 374,
+        "Question": "Only respond with True or False. It is possible that Emperor Shizong of Jin played Checkers",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 375,
+        "Question": "Only respond with True or False. It is possible that Emperor Zhangzong of Jin played Cornhole",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 376,
+        "Question": "Only respond with True or False. It is possible that Wanyan Yongji played Karate",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 377,
+        "Question": "Only respond with True or False. It is possible that Emperor Xuanzong of Jin played Basketball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 378,
+        "Question": "Only respond with True or False. It is possible that Emperor Aizong of Jin played Duck Hunt",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 379,
+        "Question": "Only respond with True or False. It is possible that Mustafa Kemal Atat\u00fcrk played Cricket",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 380,
+        "Question": "Only respond with True or False. It is possible that Ramesses VI played Duck Hunt",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 381,
+        "Question": "Only respond with True or False. It is possible that Jean Bodel played Arkham Horror",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 382,
+        "Question": "Only respond with True or False. It is possible that Walter of Ch\u00e2tillon played Descent: Journeys in the Dark",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 383,
+        "Question": "Only respond with True or False. It is possible that Huang Xianfan played Paintball",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 384,
+        "Question": "Only respond with True or False. It is possible that Fran\u00e7ois-\u00c9douard Picot played Civilization",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 385,
+        "Question": "Only respond with True or False. It is possible that Edward II of England played Risk",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 386,
+        "Question": "Only respond with True or False. It is possible that Jaufre Rudel played Karate",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 387,
+        "Question": "Only respond with True or False. It is possible that Peire Vidal played Frogger",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 388,
+        "Question": "Only respond with True or False. It is possible that Hugh Primas played Ticket to Ride",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 389,
+        "Question": "Only respond with True or False. It is possible that Laurent Mourguet played Catan",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 390,
+        "Question": "Only respond with True or False. It is possible that Adolf Butenandt played Crosswords",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 391,
+        "Question": "Only respond with True or False. It is possible that Charles Lyell played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 392,
+        "Question": "Only respond with True or False. It is possible that Franc Guben\u0161ek played Laser Tag",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 393,
+        "Question": "Only respond with True or False. It is possible that Jovan Had\u017ei played Magic: The Gathering",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 394,
+        "Question": "Only respond with True or False. It is possible that Fran Jesenko played Judo",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 395,
+        "Question": "Only respond with True or False. It is possible that William IX played Tafl",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 396,
+        "Question": "Only respond with True or False. It is possible that Ernest Mayer played Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 397,
+        "Question": "Only respond with True or False. It is possible that Gilles de Corbeil played World of Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 398,
+        "Question": "Only respond with True or False. It is possible that Gilles de Paris played Billiards",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 399,
+        "Question": "Only respond with True or False. It is possible that Gautier de Coincy played Candy Land",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 400,
+        "Question": "Only respond with True or False. It is possible that Geoffrey of Villehardouin played World of Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 401,
+        "Question": "Only respond with True or False. It is possible that Maria de Ventadorn played Quake",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 402,
+        "Question": "Only respond with True or False. It is possible that Anton Polenec played Pinball",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 403,
+        "Question": "Only respond with True or False. It is possible that Theobald of \u00c9tampes played Jenga",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 404,
+        "Question": "Only respond with True or False. It is possible that Robert the Monk played Connect Four",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 405,
+        "Question": "Only respond with True or False. It is possible that Wace played Star Wars: Knights of the Old Republic",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 406,
+        "Question": "Only respond with True or False. It is possible that David Bowie played Sumo Wrestling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 407,
+        "Question": "Only respond with True or False. It is possible that Louis Bl\u00e9riot played Volleyball",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 408,
+        "Question": "Only respond with True or False. It is possible that Francisco Goya played Guitar Hero",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 409,
+        "Question": "Only respond with True or False. It is possible that Greta Garbo played League of Legends",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 410,
+        "Question": "Only respond with True or False. It is possible that Pietro Mennea played Portal",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 411,
+        "Question": "Only respond with True or False. It is possible that Isabella Teotochi Albrizzi played The Legend of Zelda",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 412,
+        "Question": "Only respond with True or False. It is possible that Rudolf Feustel played Team Fortress 2",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 413,
+        "Question": "Only respond with True or False. It is possible that Antonio Canova played Valorant",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 414,
+        "Question": "Only respond with True or False. It is possible that Luigi Bailo played The Legend of Zelda",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 415,
+        "Question": "Only respond with True or False. It is possible that Bartolomeo Coghetto played Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 416,
+        "Question": "Only respond with True or False. It is possible that Andrea del Sarto played Crosswords",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 417,
+        "Question": "Only respond with True or False. It is possible that Salvador Dal\u00ed played Yu-Gi-Oh!",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 418,
+        "Question": "Only respond with True or False. It is possible that Albrecht D\u00fcrer played Minecraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 419,
+        "Question": "Only respond with True or False. It is possible that Vittore Carpaccio played Air Hockey",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 420,
+        "Question": "Only respond with True or False. It is possible that Vincent van Gogh played Duck Hunt",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 421,
+        "Question": "Only respond with True or False. It is possible that Giovanni Giocondo played Risk",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 422,
+        "Question": "Only respond with True or False. It is possible that Katsushika Hokusai played Table Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 423,
+        "Question": "Only respond with True or False. It is possible that Frida Kahlo played Chess",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 424,
+        "Question": "Only respond with True or False. It is possible that Henri Matisse played Badminton",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 425,
+        "Question": "Only respond with True or False. It is possible that Pinturicchio played Super Mario Bros.",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 426,
+        "Question": "Only respond with True or False. It is possible that Michelangelo played Overwatch",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 427,
+        "Question": "Only respond with True or False. It is possible that Pablo Picasso played Cards Against Humanity",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 428,
+        "Question": "Only respond with True or False. It is possible that Antonello da Messina played Go",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 429,
+        "Question": "Only respond with True or False. It is possible that Raphael played American Football",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 430,
+        "Question": "Only respond with True or False. It is possible that Rembrandt played Rugby",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 431,
+        "Question": "Only respond with True or False. It is possible that Peter Paul Rubens played Pac-Man",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 432,
+        "Question": "Only respond with True or False. It is possible that Andy Warhol played Warcraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 433,
+        "Question": "Only respond with True or False. It is possible that Frank Lloyd Wright played Monopoly",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 434,
+        "Question": "Only respond with True or False. It is possible that Aimeric de Peguilhan played Air Hockey",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 435,
+        "Question": "Only respond with True or False. It is possible that Odo of Deuil played Horse Racing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 436,
+        "Question": "Only respond with True or False. It is possible that Fulcher of Chartres played Laser Tag",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 437,
+        "Question": "Only respond with True or False. It is possible that Hugh of Fouilloy played Horse Racing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 438,
+        "Question": "Only respond with True or False. It is possible that Gautier d'Arras played Sonic the Hedgehog",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 439,
+        "Question": "Only respond with True or False. It is possible that Gui de Cambrai played Laser Tag",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 440,
+        "Question": "Only respond with True or False. It is possible that John of Hauville played Chess Boxing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 441,
+        "Question": "Only respond with True or False. It is possible that H\u00e9lo\u00efse d\u2019Argenteuil played Cornhole",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 442,
+        "Question": "Only respond with True or False. It is possible that Hugues III d'Oisy played Paintball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 443,
+        "Question": "Only respond with True or False. It is possible that Conon de B\u00e9thune played Cricket",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 444,
+        "Question": "Only respond with True or False. It is possible that Lambert of Ardres played Monopoly",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 445,
+        "Question": "Only respond with True or False. It is possible that Fra Angelico played Go",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 446,
+        "Question": "Only respond with True or False. It is possible that Sandro Botticelli played Scythe",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 447,
+        "Question": "Only respond with True or False. It is possible that Abu Nuwas played Archery",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 448,
+        "Question": "Only respond with True or False. It is possible that Hans Christian Andersen played Dota",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 449,
+        "Question": "Only respond with True or False. It is possible that Matsuo Bash\u014d played Overwatch",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 450,
+        "Question": "Only respond with True or False. It is possible that Lord Byron played The Last of Us",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 451,
+        "Question": "Only respond with True or False. It is possible that Andrea Mantegna played Pong",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 452,
+        "Question": "Only respond with True or False. It is possible that Miguel de Cervantes played The Game of Life",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 453,
+        "Question": "Only respond with True or False. It is possible that Geoffrey Chaucer played Counter-Strike",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 454,
+        "Question": "Only respond with True or False. It is possible that Anton Chekhov played The Game of Life",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 455,
+        "Question": "Only respond with True or False. It is possible that Charles Dickens played Karate",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 456,
+        "Question": "Only respond with True or False. It is possible that Philippe P\u00e9tain played Donkey Kong",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 457,
+        "Question": "Only respond with True or False. It is possible that Adolphe Thiers played Table Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 458,
+        "Question": "Only respond with True or False. It is possible that Pierre-Joseph Proudhon played Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 459,
+        "Question": "Only respond with True or False. It is possible that Peter Kropotkin played Star Wars: X-Wing Miniatures",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 460,
+        "Question": "Only respond with True or False. It is possible that Che Guevara played Portal",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 461,
+        "Question": "Only respond with True or False. It is possible that Masaccio played Water Polo",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 462,
+        "Question": "Only respond with True or False. It is possible that Mao Zedong played Descent: Journeys in the Dark",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 463,
+        "Question": "Only respond with True or False. It is possible that Piero della Francesca played Table Tennis",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 464,
+        "Question": "Only respond with True or False. It is possible that Pietro Perugino played Team Fortress 2",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 465,
+        "Question": "Only respond with True or False. It is possible that Gabriel Garc\u00eda M\u00e1rquez played Final Fantasy",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 466,
+        "Question": "Only respond with True or False. It is possible that Johann Wolfgang von Goethe played Exploding Kittens",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 467,
+        "Question": "Only respond with True or False. It is possible that Marcel Duchamp played Mass Effect",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 468,
+        "Question": "Only respond with True or False. It is possible that Chuck Berry played Crosswords",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 469,
+        "Question": "Only respond with True or False. It is possible that Jimi Hendrix played Monopoly",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 470,
+        "Question": "Only respond with True or False. It is possible that James Brown played Dungeons & Dragons",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 471,
+        "Question": "Only respond with True or False. It is possible that Eddie Cochran played Horse Racing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 472,
+        "Question": "Only respond with True or False. It is possible that Buddy Holly played Minecraft",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 473,
+        "Question": "Only respond with True or False. It is possible that Anna de Noailles played Descent: Journeys in the Dark",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 474,
+        "Question": "Only respond with True or False. It is possible that Marco Polo played Baseball",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 475,
+        "Question": "Only respond with True or False. It is possible that Hebe Camargo played Yu-Gi-Oh!",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 476,
+        "Question": "Only respond with True or False. It is possible that Tupac Shakur played Yu-Gi-Oh!",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 477,
+        "Question": "Only respond with True or False. It is possible that Pepi II played Red Dead Redemption",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 478,
+        "Question": "Only respond with True or False. It is possible that Ramesses VII played Billiards",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 479,
+        "Question": "Only respond with True or False. It is possible that Hafez played Water Polo",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 480,
+        "Question": "Only respond with True or False. It is possible that Gerardus Mercator played Sudoku",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 481,
+        "Question": "Only respond with True or False. It is possible that Klaus St\u00f6rtebeker played Age of Empires",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 482,
+        "Question": "Only respond with True or False. It is possible that S\u00f8ren Kierkegaard played Dungeons & Dragons",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 483,
+        "Question": "Only respond with True or False. It is possible that Mervyn Peake played Fencing",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 484,
+        "Question": "Only respond with True or False. It is possible that Jean-Jacques Rousseau played Red Dead Redemption",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 485,
+        "Question": "Only respond with True or False. It is possible that Stanis\u0142aw Lem played Risk",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 486,
+        "Question": "Only respond with True or False. It is possible that G\u00fcnter Grass played Laser Tag",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 487,
+        "Question": "Only respond with True or False. It is possible that Gustave Dor\u00e9 played Sumo Wrestling",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 488,
+        "Question": "Only respond with True or False. It is possible that Alexander von Humboldt played Dominoes",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 489,
+        "Question": "Only respond with True or False. It is possible that Jacob Grimm played Battleship",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 490,
+        "Question": "Only respond with True or False. It is possible that Allen Ginsberg played Billiards",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 491,
+        "Question": "Only respond with True or False. It is possible that Wilhelm Grimm played Judo",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 492,
+        "Question": "Only respond with True or False. It is possible that Carl Friedrich Gauss played Billiards",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 493,
+        "Question": "Only respond with True or False. It is possible that Edward Teller played Karate",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 494,
+        "Question": "Only respond with True or False. It is possible that James Joyce played Handball",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 495,
+        "Question": "Only respond with True or False. It is possible that Luca Signorelli played SimCity",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 496,
+        "Question": "Only respond with True or False. It is possible that Julien Offray de La Mettrie played Uno",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 497,
+        "Question": "Only respond with True or False. It is possible that Li Bai played Laser Tag",
+        "Answer": "False"
+    },
+    {
+        "Question ID": 498,
+        "Question": "Only respond with True or False. It is possible that Niels Bohr played Pinball",
+        "Answer": "True"
+    },
+    {
+        "Question ID": 499,
+        "Question": "Only respond with True or False. It is possible that \u00c9variste Galois played Cornhole",
+        "Answer": "False"
+    }
+]

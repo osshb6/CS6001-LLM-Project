@@ -1,0 +1,1106 @@
+[
+    {
+        "question_id": 1,
+        "question": "Civil Rights Movement in USA and Anti-Apartheid Movement in South Africa emerged in response to racial inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 2,
+        "question": "Indian Independence Movement in India and Algerian War of Independence emerged in response to colonial rule.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 3,
+        "question": "Women's Suffrage Movement in UK and Women's Rights Movement in USA emerged in response to gender inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 4,
+        "question": "Solidarity Movement in Poland and Velvet Revolution in Czechoslovakia emerged in response to authoritarian communist rule.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 5,
+        "question": "Taiping Rebellion in China and Sepoy Rebellion in India were driven by economic exploitation and political oppression.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 6,
+        "question": "Environmental Movement in the USA and Chipko Movement in India emerged in response to environmental degradation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 7,
+        "question": "Maoist Revolution in China and Cuban Revolution in Cuba emerged due to racial conflict.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 8,
+        "question": "Arab Spring Movement in Tunisia and Egyptian Revolution emerged in response to political oppression and corruption.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 9,
+        "question": "Student Movement in France (1968) and Tiananmen Square Protests in China were responses to limited political freedoms.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 10,
+        "question": "Labor Movement in the UK and USA emerged due to worker exploitation and poor conditions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 11,
+        "question": "Which movements emerged due to colonial oppression?",
+        "type": "MCQ",
+        "options": {
+            "a": "Civil Rights and Anti-Apartheid",
+            "b": "Indian Independence and Algerian War of Independence",
+            "c": "Environmental and Chipko Movements",
+            "d": "Maoist and Cuban Revolutions"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 12,
+        "question": "Which movements were primarily focused on racial equality?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring and Egyptian Revolution",
+            "b": "Labor Movements",
+            "c": "Civil Rights and Anti-Apartheid Movements",
+            "d": "Taiping and Sepoy Rebellions"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 13,
+        "question": "Which movements addressed gender inequality?",
+        "type": "MCQ",
+        "options": {
+            "a": "Student Movements in France and China",
+            "b": "Environmental Movement and Chipko Movement",
+            "c": "Women's Suffrage Movement (UK) and Women's Rights Movement (USA)",
+            "d": "Solidarity and Velvet Revolution"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 14,
+        "question": "Which pair of movements fought authoritarian rule?",
+        "type": "MCQ",
+        "options": {
+            "a": "Labor Movements",
+            "b": "Environmental Movements",
+            "c": "Indian and Algerian Independence Movements",
+            "d": "Solidarity Movement and Velvet Revolution"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 15,
+        "question": "Environmental degradation was the main issue for:",
+        "type": "MCQ",
+        "options": {
+            "a": "Civil Rights & Anti-Apartheid Movements",
+            "b": "Women's Rights Movements",
+            "c": "Environmental Movement (USA) and Chipko Movement (India)",
+            "d": "Maoist & Cuban Revolutions"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 16,
+        "question": "Maoist and Cuban Revolutions primarily addressed:",
+        "type": "MCQ",
+        "options": {
+            "a": "Environmental issues",
+            "b": "Land and resource inequality",
+            "c": "Gender inequality",
+            "d": "Religious reform"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 17,
+        "question": "Arab Spring and Egyptian Revolution mainly addressed:",
+        "type": "MCQ",
+        "options": {
+            "a": "Political oppression & corruption",
+            "b": "Colonial rule",
+            "c": "Environmental destruction",
+            "d": "Worker exploitation"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 18,
+        "question": "Tiananmen Square Protests and French Student Movement were about:",
+        "type": "MCQ",
+        "options": {
+            "a": "Gender rights",
+            "b": "Disability rights",
+            "c": "Political freedom & opposition to authoritarianism",
+            "d": "Labor rights"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 19,
+        "question": "Labor Movements in the UK and USA focused on:",
+        "type": "MCQ",
+        "options": {
+            "a": "Environmental issues",
+            "b": "Worker exploitation & unsafe conditions",
+            "c": "Racial discrimination",
+            "d": "Foreign domination"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 20,
+        "question": "Civil Rights and Anti-Apartheid Movements were NOT focused on:",
+        "type": "MCQ",
+        "options": {
+            "a": "Gender equality",
+            "b": "Racial equality",
+            "c": "Social justice",
+            "d": "Political rights"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 21,
+        "question": "Indian and Algerian Independence Movements successfully ended colonial rule.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 22,
+        "question": "Women's Suffrage Movement in the UK successfully secured voting rights for women.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 23,
+        "question": "Solidarity Movement helped end communist rule in Poland.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 24,
+        "question": "Chipko Movement in India promoted industrial development.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 25,
+        "question": "Cuban Revolution resulted in the establishment of a communist government.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 26,
+        "question": "Arab Spring created stable democracies across all participating nations.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 27,
+        "question": "Tiananmen Square Protests led to significant political reform in China.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 28,
+        "question": "Labor Movements in the USA won reforms like minimum wage and safer working conditions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 29,
+        "question": "Which movement is associated with ending racial segregation?",
+        "type": "MCQ",
+        "options": {
+            "a": "Women's Suffrage Movement",
+            "b": "Labor Movement",
+            "c": "Civil Rights Movement (USA)",
+            "d": "Chipko Movement"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 30,
+        "question": "Which movement used nonviolent environmental protest?",
+        "type": "MCQ",
+        "options": {
+            "a": "Cuban Revolution",
+            "b": "Maoist Revolution",
+            "c": "Chipko Movement",
+            "d": "Arab Spring"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 31,
+        "question": "Which movements were anti-colonial?",
+        "type": "MCQ",
+        "options": {
+            "a": "Women’s Suffrage and Women’s Rights",
+            "b": "Civil Rights and Anti-Apartheid",
+            "c": "Indian Independence and Algerian War of Independence",
+            "d": "Velvet Revolution and Solidarity Movement"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 32,
+        "question": "Which revolutions sought to redistribute land and resources?",
+        "type": "MCQ",
+        "options": {
+            "a": "Environmental and Chipko Movements",
+            "b": "Labor Movements",
+            "c": "Maoist Revolution in China and Cuban Revolution",
+            "d": "French and Russian Revolutions"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 33,
+        "question": "Solidarity Movement took place in which country?",
+        "type": "MCQ",
+        "options": {
+            "a": "Czechoslovakia",
+            "b": "China",
+            "c": "Poland",
+            "d": "USA"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 34,
+        "question": "Chipko Movement originated in:",
+        "type": "MCQ",
+        "options": {
+            "a": "USA",
+            "b": "India",
+            "c": "South Africa",
+            "d": "Japan"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 35,
+        "question": "Which movements focused on worker rights?",
+        "type": "MCQ",
+        "options": {
+            "a": "Labor Movements (UK & USA)",
+            "b": "Women's Rights Movements",
+            "c": "Civil Rights Movements",
+            "d": "Cuban and Maoist Revolutions"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 36,
+        "question": "Tiananmen Square Protests occurred in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Japan",
+            "b": "China",
+            "c": "Egypt",
+            "d": "France"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 37,
+        "question": "Velvet Revolution took place in:",
+        "type": "MCQ",
+        "options": {
+            "a": "India",
+            "b": "Czechoslovakia",
+            "c": "Brazil",
+            "d": "USA"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 38,
+        "question": "Civil Rights and Anti-Apartheid Movements shared a focus on:",
+        "type": "MCQ",
+        "options": {
+            "a": "Environmental conservation",
+            "b": "Gender rights",
+            "c": "Racial justice",
+            "d": "Digital rights"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 39,
+        "question": "Arab Spring began in:",
+        "type": "MCQ",
+        "options": {
+            "a": "Jordan",
+            "b": "Egypt",
+            "c": "Tunisia",
+            "d": "Syria"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 40,
+        "question": "Women's Suffrage Movement achieved voting rights first in:",
+        "type": "MCQ",
+        "options": {
+            "a": "USA",
+            "b": "India",
+            "c": "South Africa",
+            "d": "UK"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 41,
+        "question": "The Mau Mau Uprising in Kenya and the Indonesian National Revolution both emerged in response to European colonial domination.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 42,
+        "question": "Which shared issue inspired both the Irish Land League in Ireland and the Mexican Peasant Movement under Zapata?",
+        "type": "MCQ",
+        "options": {
+            "a": "Cultural revival",
+            "b": "Land inequality",
+            "c": "Foreign invasion",
+            "d": "Industrial reform"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 43,
+        "question": "The Haitian Revolution and the Quilombo movements in Brazil emerged in response to severe racial oppression and enslavement.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 44,
+        "question": "Both the Young Turk Revolution in the Ottoman Empire and the Meiji Restoration in Japan were responses to which shared problem?",
+        "type": "MCQ",
+        "options": {
+            "a": "Environmental disasters",
+            "b": "Dynastic collapse",
+            "c": "Need for modernization",
+            "d": "Religious discrimination"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 45,
+        "question": "The Boxer Rebellion in China and the Ghost Dance Movement in the United States both emerged due to resistance against foreign cultural influence.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 46,
+        "question": "The Suffrage Movement in New Zealand and the Suffrage Movement in Finland both responded primarily to:",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial pollution",
+            "b": "Gender inequality",
+            "c": "Border conflicts",
+            "d": "Military conscription"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 47,
+        "question": "The Zulu Resistance in South Africa and the Apache Resistance in the United States both emerged due to land dispossession.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 48,
+        "question": "Which issue led to both the Syrian Great Revolt (1925) and the Moroccan Rif War?",
+        "type": "MCQ",
+        "options": {
+            "a": "Religious reform",
+            "b": "Colonial oppression",
+            "c": "Economic speculation",
+            "d": "Border negotiations"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 49,
+        "question": "The French Revolution and the Russian Revolution both emerged in response to extreme economic inequality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 50,
+        "question": "The Taiping Rebellion in China and the Janissary Revolt in the Ottoman Empire were both driven by:",
+        "type": "MCQ",
+        "options": {
+            "a": "Environmental collapse",
+            "b": "Military modernization issues",
+            "c": "Religious visions",
+            "d": "Population migration"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 51,
+        "question": "The Greek War of Independence and the Serbian Uprisings both emerged against Ottoman control.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 52,
+        "question": "Which shared cause led to both the Boxer Rebellion in China and the Maji Maji Rebellion in German East Africa?",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrialization",
+            "b": "Colonial coercion",
+            "c": "Religious schisms",
+            "d": "Territorial expansion"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 53,
+        "question": "The Chilean Mapuche Resistance and the North American Plains Resistance both emerged in response to settlers encroaching on native land.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 54,
+        "question": "What common issue triggered both the German Peasants' War and the Russian Emancipation Revolts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Tax reforms",
+            "b": "Feudal oppression",
+            "c": "Climate change",
+            "d": "Religious conversions"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 55,
+        "question": "The Cuban Ten Years' War and the Filipino Revolution both emerged due to dissatisfaction with Spanish colonial rule.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 56,
+        "question": "Which problem sparked both the British Chartist Movement and the Russian Decembrist Movement?",
+        "type": "MCQ",
+        "options": {
+            "a": "Representation and political reform",
+            "b": "Colonial taxation",
+            "c": "Religious freedom",
+            "d": "Famine relief"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 57,
+        "question": "The Irish Easter Rising and the Vietnamese August Revolution both emerged in response to foreign occupation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 58,
+        "question": "Which shared issue stimulated both the French May 1968 protests and the Japanese Zenkyoto Student Movement?",
+        "type": "MCQ",
+        "options": {
+            "a": "Environmental hazards",
+            "b": "Educational reform and youth rights",
+            "c": "Rural land disputes",
+            "d": "Currency inflation"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 59,
+        "question": "The Armenian National Awakening and the Bulgarian National Revival both emerged due to cultural and political repression under the Ottomans.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 60,
+        "question": "What shared problem drove both the Brazilian Cabanagem Revolt and the Peruvian Tupac Amaru Rebellion?",
+        "type": "MCQ",
+        "options": {
+            "a": "Regional climate issues",
+            "b": "Ethnic discrimination and class oppression",
+            "c": "Religious reforms",
+            "d": "Dynastic succession concerns"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 61,
+        "question": "The Mau Mau Movement in Kenya and the Herero Rebellion in Namibia both emerged due to harsh colonial land policies.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 62,
+        "question": "Which shared issue motivated both the Paris Commune and the Spanish CNT Labor Movement?",
+        "type": "MCQ",
+        "options": {
+            "a": "Economic inequality",
+            "b": "Foreign invasion",
+            "c": "Cultural suppression",
+            "d": "Scientific reform"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 63,
+        "question": "The First Intifada in Palestine and the Mau Mau Uprising in Kenya both emerged in response to military occupation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 64,
+        "question": "The shared problem behind both the Scottish Covenanter Movement and the Hussite Wars was:",
+        "type": "MCQ",
+        "options": {
+            "a": "Taxation issues",
+            "b": "Religious persecution",
+            "c": "Foreign settlement",
+            "d": "Agricultural collapse"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 65,
+        "question": "The Mau Mau Movement and the Rhodesian Bush War both emerged as anti-colonial liberation efforts.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 66,
+        "question": "Which issue sparked both the Boxer Rebellion and the Taiping Rebellion in China?",
+        "type": "MCQ",
+        "options": {
+            "a": "Foreign influence and instability",
+            "b": "Agricultural reforms",
+            "c": "Maritime disputes",
+            "d": "Currency regulation"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 67,
+        "question": "The Samnite Wars and the Gallic Wars both emerged from Roman expansion into tribal lands.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 68,
+        "question": "Which shared cause fueled both the Hungarian Revolution of 1848 and the Italian Risorgimento?",
+        "type": "MCQ",
+        "options": {
+            "a": "Religious divisions",
+            "b": "Nationalist aspirations",
+            "c": "Trade blockades",
+            "d": "Climate disasters"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 69,
+        "question": "The Helot Revolts in Sparta and the Servile Wars in Rome both emerged in response to oppressive slavery systems.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 70,
+        "question": "Which problem triggered both the Dutch Revolt and the Portuguese Restoration War?",
+        "type": "MCQ",
+        "options": {
+            "a": "High grain prices",
+            "b": "Spanish imperial control",
+            "c": "Religious famine rituals",
+            "d": "Dynastic traditions"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 71,
+        "question": "The Meiji Restoration and the Tanzimat Reforms both emerged due to the need for modernization.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 72,
+        "question": "Which shared problem influenced both the English Peasants' Revolt and the French Jacquerie?",
+        "type": "MCQ",
+        "options": {
+            "a": "Currency inflation",
+            "b": "Heavy feudal taxation",
+            "c": "Religious schism",
+            "d": "Naval expansion"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 73,
+        "question": "The German Revolution of 1918 and the Russian Revolution of 1917 both emerged due to wartime economic collapse.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 74,
+        "question": "What shared issue triggered both the Numidian War and the Jewish Revolt against Rome?",
+        "type": "MCQ",
+        "options": {
+            "a": "Trade tariffs",
+            "b": "Roman interference",
+            "c": "Agricultural disputes",
+            "d": "Religious schism"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 75,
+        "question": "The Iranian Constitutional Revolution and the Young Turk Revolution both emerged in response to autocratic monarchy.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 76,
+        "question": "Which issue motivated both the Bogota Gaitanista Movement and the Mexican Cristero Rebellion?",
+        "type": "MCQ",
+        "options": {
+            "a": "Religious restrictions",
+            "b": "Agricultural reforms",
+            "c": "Foreign rule",
+            "d": "Mining disputes"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 77,
+        "question": "The Berber Revolts in North Africa and the Saxon Rebellions in Germany both emerged in response to forced imperial rule.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 78,
+        "question": "Which shared problem influenced both the Burmese Independence Movement and the Indonesian National Revolution?",
+        "type": "MCQ",
+        "options": {
+            "a": "Climate disaster",
+            "b": "European colonial exploitation",
+            "c": "Dynastic rivalry",
+            "d": "Religious fragmentation"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 79,
+        "question": "The Polish Solidarity Movement and the East German Peaceful Revolution both emerged to resist authoritarian communist structures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 80,
+        "question": "Which shared cause fueled both the American Labor Movement and the British Trade Union Movement?",
+        "type": "MCQ",
+        "options": {
+            "a": "Worker exploitation",
+            "b": "Foreign enemies",
+            "c": "Elite marriages",
+            "d": "Naval disputes"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 81,
+        "question": "The Santhal Rebellion in India and the Zanj Rebellion in Abbasid Iraq both emerged due to extreme labor exploitation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 82,
+        "question": "Which shared problem triggered both the Maori Wars in New Zealand and the First Italo-Ethiopian War?",
+        "type": "MCQ",
+        "options": {
+            "a": "Religious persecution",
+            "b": "Trade monopolies",
+            "c": "Foreign encroachment",
+            "d": "Internal succession crises"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 83,
+        "question": "The Peasants’ Revolt in England and the Red Turban Rebellion in China both emerged due to oppressive feudal systems.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 84,
+        "question": "Which shared factor motivated both the Berber Revolts against the Umayyads and the Bulgarian Uprising under Ottoman rule?",
+        "type": "MCQ",
+        "options": {
+            "a": "Climate disasters",
+            "b": "Trade restrictions",
+            "c": "Religious repression",
+            "d": "Loss of regional autonomy"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 85,
+        "question": "The Egyptian Urabi Revolt and the Persian Tobacco Protest both emerged in response to foreign economic control.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 86,
+        "question": "Which issue led both the Swiss Sonderbund War and the Spanish Carlist Wars?",
+        "type": "MCQ",
+        "options": {
+            "a": "Foreign invasions",
+            "b": "Class-based taxation",
+            "c": "Religious-political divisions",
+            "d": "Territorial collapse"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 87,
+        "question": "The Pueblo Revolt in New Mexico and the Mapuche Resistance in Chile both emerged due to forced assimilation and missionary pressure.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 88,
+        "question": "Which shared problem influenced both the German Peasants’ War and the Swiss Peasant War of 1653?",
+        "type": "MCQ",
+        "options": {
+            "a": "Border disputes",
+            "b": "Weather anomalies",
+            "c": "Feudal oppression",
+            "d": "Royal succession crises"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 89,
+        "question": "The Irish Confederate Wars and the Dutch Revolt both emerged due to struggles for religious and political autonomy.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 90,
+        "question": "Which shared issue triggered both the French Wars of Religion and the Thirty Years’ War?",
+        "type": "MCQ",
+        "options": {
+            "a": "Naval expansion",
+            "b": "Trade regulation",
+            "c": "Religious conflict",
+            "d": "Territorial inheritance disputes"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 91,
+        "question": "The Persian Constitutional Revolution and the Ottoman Young Turk Revolution both emerged due to resistance to autocracy.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 92,
+        "question": "Which shared problem influenced both the Taiping Rebellion in China and the Chiliastic Movements in medieval Europe?",
+        "type": "MCQ",
+        "options": {
+            "a": "Border conflicts",
+            "b": "Currency collapse",
+            "c": "Religious apocalyptic beliefs",
+            "d": "Trade embargoes"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 93,
+        "question": "The Serbian Revolution and the Greek Revolution both emerged due to Ottoman political domination.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 94,
+        "question": "Which issue caused both the Crimean Tatar Resistance and the Chechen Resistance in the Caucasus?",
+        "type": "MCQ",
+        "options": {
+            "a": "Maritime disputes",
+            "b": "Dynastic fragmentation",
+            "c": "Imperial Russian expansion",
+            "d": "Religious reform"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 95,
+        "question": "The Egyptian Fellahin Revolts and the Russian Pugachev Rebellion both emerged due to harsh serfdom-like conditions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 96,
+        "question": "Which shared factor motivated both the Sikh Wars in Punjab and the Zulu Wars in South Africa?",
+        "type": "MCQ",
+        "options": {
+            "a": "Internal religious conflict",
+            "b": "Agricultural failure",
+            "c": "Resistance to imperial expansion",
+            "d": "Currency reform"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 97,
+        "question": "The Boxer Rebellion in China and the Egyptian Mahdist Movement both emerged due to resistance against foreign intrusion.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 98,
+        "question": "Which shared cause influenced both the Spanish Revolt of the Comuneros and the Neapolitan Revolt of Masaniello?",
+        "type": "MCQ",
+        "options": {
+            "a": "Loss of dynastic legitimacy",
+            "b": "Natural disasters",
+            "c": "Harsh taxation and economic pressure",
+            "d": "Forced religious conversion"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 99,
+        "question": "The Anglo-Irish War and the Algerian War of Independence both emerged due to nationalist resistance to foreign rule.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 100,
+        "question": "Which issue sparked both the Haitian Revolution and the Brazilian Malê Revolt?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial taxation",
+            "b": "Trade disputes",
+            "c": "Racial oppression and slavery",
+            "d": "Religious fragmentation"
+        },
+        "answer": "c"
+    }
+]

@@ -1,0 +1,1516 @@
+[
+    {
+        "question_id": 1,
+        "question": "Greek and Phoenician contact in the Mediterranean expanded maritime technology for both societies.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 2,
+        "question": "Which interaction introduced advanced irrigation techniques from Persia into early Islamic societies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Nomadic raids",
+            "b": "Trade exchanges",
+            "c": "Colonial rule",
+            "d": "Religious conflict"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 3,
+        "question": "Chinese silk reached Rome partly because of cultural contact along the Silk Road.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 4,
+        "question": "Which pathway linked the Mali Empire with North African Berbers, spreading Islam further south?",
+        "type": "MCQ",
+        "options": {
+            "a": "Sea exploration",
+            "b": "Colonial settlement",
+            "c": "Trans-Saharan trade routes",
+            "d": "War alliances"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 5,
+        "question": "Arab merchants helped transmit Indian numerals into European culture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 6,
+        "question": "Which interaction brought Greek texts into Western Europe during the Medieval period?",
+        "type": "MCQ",
+        "options": {
+            "a": "Portuguese exploration",
+            "b": "Byzantine-Islamic scholarly contact",
+            "c": "Colonial settlement",
+            "d": "Nomadic migrations"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 7,
+        "question": "The encounter between the Spanish and the Inca led to the exchange of crops and livestock.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 8,
+        "question": "Which interaction spread Buddhism from India into China?",
+        "type": "MCQ",
+        "options": {
+            "a": "Military conquest",
+            "b": "Trade caravans",
+            "c": "Colonial settlement",
+            "d": "Oceanic exploration"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 9,
+        "question": "Vikings influenced Eastern Europe through their river-based trade networks.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 10,
+        "question": "Which interaction carried West African gold into European markets?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial taxation",
+            "b": "Trans-Atlantic exploration",
+            "c": "Caravan trade systems",
+            "d": "Forced migration"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 11,
+        "question": "The Crusades created new channels of contact between Europeans and Middle Eastern cultures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 12,
+        "question": "Which cultural exchange led to paper-making techniques reaching the Islamic world from China?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial occupation",
+            "b": "Military conflict",
+            "c": "Trade-based transmission",
+            "d": "Religious missions"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 13,
+        "question": "Mongol expansion facilitated the movement of artisans across Eurasia.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 14,
+        "question": "Which major interaction carried Islamic astronomy into medieval Spain?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonization of West Africa",
+            "b": "Migration into Iberia",
+            "c": "Religious conflict in Europe",
+            "d": "Exploration of the Atlantic"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 15,
+        "question": "Bantu migrations influenced agricultural practices across sub-Saharan Africa.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 16,
+        "question": "Which interaction connected Aboriginal Australians with Dutch explorers in the 17th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "Trade caravans",
+            "b": "Colonial settlement",
+            "c": "Oceanic exploration",
+            "d": "Forced migration"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 17,
+        "question": "Ottoman control of trade routes exposed Europeans to Eastern luxury goods.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 18,
+        "question": "Which interaction helped spread Arabic mathematics to North Africa and Spain?",
+        "type": "MCQ",
+        "options": {
+            "a": "Nomadic conflict",
+            "b": "Trans-Saharan trade",
+            "c": "Colonialism",
+            "d": "Missionary work"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 19,
+        "question": "The Polynesian expansion across the Pacific resulted in shared navigation methods among island societies.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 20,
+        "question": "Which interaction brought European firearms into Japan during the 16th century?",
+        "type": "MCQ",
+        "options": {
+            "a": "Land migration",
+            "b": "Portuguese maritime trade",
+            "c": "Colonial conquest",
+            "d": "Nomadic invasions"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 21,
+        "question": "The spread of maize from Mesoamerica into North America was partially due to migration patterns.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 22,
+        "question": "Which interaction allowed Roman glassware to reach ancient India?",
+        "type": "MCQ",
+        "options": {
+            "a": "Overland war routes",
+            "b": "Indian Ocean trade",
+            "c": "Colonial expansion",
+            "d": "Forced relocation"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 23,
+        "question": "The Jewish diaspora contributed to cultural exchange around the Mediterranean.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 24,
+        "question": "Which interaction spread the use of horses into Native American Plains societies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Spanish colonization",
+            "b": "Pacific exploration",
+            "c": "African migration",
+            "d": "Trade with Vikings"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 25,
+        "question": "The Silk Road allowed Persian jewelry styles to influence Chinese artisans.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 26,
+        "question": "Which interaction carried Roman architectural influence into Britain?",
+        "type": "MCQ",
+        "options": {
+            "a": "Migration waves",
+            "b": "Colonial occupation",
+            "c": "Trade missions",
+            "d": "Exploration fleets"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 27,
+        "question": "Phoenician traders helped spread alphabetic writing to new regions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 28,
+        "question": "Which interaction connected Swahili coastal cities with merchants from Arabia and India?",
+        "type": "MCQ",
+        "options": {
+            "a": "Land migration",
+            "b": "Indian Ocean trade",
+            "c": "Colonization by Europe",
+            "d": "Military invasion"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 29,
+        "question": "Russian expansion into Siberia brought contact with indigenous Siberian cultures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 30,
+        "question": "Which interaction carried papermaking from China into the Islamic world?",
+        "type": "MCQ",
+        "options": {
+            "a": "Silk Road conflict",
+            "b": "Scientific exploration",
+            "c": "Trade along caravans",
+            "d": "Colonial rule"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 31,
+        "question": "The Columbian Exchange brought new crops like potatoes into Europe.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 32,
+        "question": "Which interaction introduced Christianity into the Aksumite Kingdom?",
+        "type": "MCQ",
+        "options": {
+            "a": "Trade with the Roman world",
+            "b": "Islamic conquest",
+            "c": "Colonial settlement",
+            "d": "Forced migration"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 33,
+        "question": "Celtic cultural elements spread across Europe partly through migration patterns.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 34,
+        "question": "Which interaction brought porcelain from China into early Renaissance Italy?",
+        "type": "MCQ",
+        "options": {
+            "a": "African coastal migration",
+            "b": "Ottoman-European trade",
+            "c": "Colonial settlement in Asia",
+            "d": "Military conquest by Europe"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 35,
+        "question": "The expansion of the Ottoman Empire connected Southeast Europe with Middle Eastern science and art.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 36,
+        "question": "Which interaction carried sugar cultivation techniques into the Caribbean?",
+        "type": "MCQ",
+        "options": {
+            "a": "European colonization",
+            "b": "Viking exploration",
+            "c": "Asian migration",
+            "d": "Nomadic trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 37,
+        "question": "The Khmer Empire absorbed Indian cultural elements through trade and religious missions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 38,
+        "question": "Which interaction transmitted Arabic numerals into medieval Europe?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial power shifts",
+            "b": "Trade through Islamic Spain",
+            "c": "Exploration of the Atlantic",
+            "d": "Nomadic military raids"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 39,
+        "question": "Phoenician trade networks helped distribute bronze tools across the Mediterranean.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 40,
+        "question": "Which interaction carried Indian spices into Roman cuisine?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial expansion",
+            "b": "Trans-Saharan caravans",
+            "c": "Indian Ocean trade",
+            "d": "Nomadic migration"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 41,
+        "question": "Mesopotamia and Egypt exchanged agricultural techniques and goods during ancient trade interactions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 42,
+        "question": "Norman conquest of England resulted mainly from trade agreements.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 43,
+        "question": "The Mongol expansion influenced which culture the most through migration?",
+        "type": "MCQ",
+        "options": {
+            "a": "Chinese",
+            "b": "Persian",
+            "c": "Egyptian",
+            "d": "Greek"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 44,
+        "question": "Trade between Italian and Ottoman merchants helped spread Renaissance art and technology.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 45,
+        "question": "Spanish colonization introduced European crops and livestock to the Americas.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 46,
+        "question": "Dutch traders in Japan introduced new scientific knowledge, maps, and technology.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 47,
+        "question": "British colonization in India led to the introduction of a new legal system and English language education.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 48,
+        "question": "American-Japanese interactions in the early 20th century were dominated by war and conflict.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 49,
+        "question": "Which trade item was significant between Egypt and Nubia in the Bronze Age?",
+        "type": "MCQ",
+        "options": {
+            "a": "Gold and ivory",
+            "b": "Spices",
+            "c": "Silk",
+            "d": "Pottery only"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 50,
+        "question": "Persian migration into India helped spread new scientific ideas and cultural practices.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 51,
+        "question": "Roman and Carthaginian interactions were primarily military in nature during the Punic Wars.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 52,
+        "question": "The Norman influence on England affected the language, law, and architecture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 53,
+        "question": "Italian-Ottoman trade introduced which of the following?",
+        "type": "MCQ",
+        "options": {
+            "a": "New artistic techniques",
+            "b": "Military weapons only",
+            "c": "Textiles only",
+            "d": "None of the above"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 54,
+        "question": "Spanish colonization in the Americas did not influence local religion.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 55,
+        "question": "Dutch-Japanese trade introduced which crops to Japan?",
+        "type": "MCQ",
+        "options": {
+            "a": "Potatoes and tobacco",
+            "b": "Rice only",
+            "c": "Wheat only",
+            "d": "No crops"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 56,
+        "question": "British colonization in India impacted local education systems and governance.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 57,
+        "question": "American-Japanese interactions prior to WWII were entirely peaceful.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 58,
+        "question": "Egyptian and Nubian trade in the Bronze Age included luxury items like gold and ivory.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 59,
+        "question": "Persian migration during the Islamic Golden Age influenced literature, science, and architecture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 60,
+        "question": "Cuban-Soviet interactions during the Cold War were limited to military cooperation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 61,
+        "question": "Greek-Persian conflicts influenced the development of city-states and military tactics.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 62,
+        "question": "Anglo-Saxon culture influenced Vikings through language and customs.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 63,
+        "question": "Italian-Ottoman contact during the Renaissance helped spread which field?",
+        "type": "MCQ",
+        "options": {
+            "a": "Art and architecture",
+            "b": "Agriculture only",
+            "c": "Military tactics only",
+            "d": "None"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 64,
+        "question": "Spanish colonization in the Americas caused blending of governance and belief systems.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 65,
+        "question": "Dutch-Japanese trade introduced European science, maps, and technology.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 66,
+        "question": "British colonization had minimal impact on Indian law and education.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 67,
+        "question": "American-Japanese interactions in the 20th century affected culture, economy, and politics.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 68,
+        "question": "Bronze Age trade between Egypt and Nubia was economically significant for both regions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 69,
+        "question": "Persian migration into India promoted the spread of science, literature, and culture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 70,
+        "question": "Cuban-Soviet relations influenced culture, military, and economy.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 71,
+        "question": "Roman-Carthaginian conflicts shaped Mediterranean trade and politics.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 72,
+        "question": "Norman-English cultural exchange influenced:",
+        "type": "MCQ",
+        "options": {
+            "a": "Language and law",
+            "b": "Cuisine only",
+            "c": "Clothing only",
+            "d": "None"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 73,
+        "question": "Italian-Ottoman interactions introduced:",
+        "type": "MCQ",
+        "options": {
+            "a": "New artistic styles",
+            "b": "New crops only",
+            "c": "New religion only",
+            "d": "Nothing"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 74,
+        "question": "Spanish colonization introduced European governance and religion to the Americas.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 75,
+        "question": "Dutch-Japanese trade contributed to Japan acquiring scientific knowledge and maps.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 76,
+        "question": "British colonization in India had no impact on legal or educational systems.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 77,
+        "question": "American-Japanese contact prior to WWII was marked by tension and military conflict.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 78,
+        "question": "Bronze Age Egyptian-Nubian trade included luxury items like gold and ivory.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 79,
+        "question": "Persian migration helped India develop new literature, science, and architecture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 80,
+        "question": "Cuban-Soviet interactions were limited to military cooperation and had no cultural influence.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 41,
+        "question": "Norse explorers introduced new metalworking practices to some North Atlantic island communities.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 42,
+        "question": "Which interaction linked Mughal India with Central Asian artistic traditions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Atlantic colonization",
+            "b": "Overland trade routes",
+            "c": "Forced migration",
+            "d": "Naval warfare"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 43,
+        "question": "The encounter between Carthaginians and Iberian tribes influenced early Mediterranean warfare.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 44,
+        "question": "Which connection spread Persian carpet-weaving techniques to Anatolia?",
+        "type": "MCQ",
+        "options": {
+            "a": "Sea exploration",
+            "b": "Nomadic migrations",
+            "c": "Colonial expansion",
+            "d": "Missionary travel"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 45,
+        "question": "Contacts between Arab sailors and East African societies helped shape Swahili culture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 46,
+        "question": "Which interaction allowed Byzantine silk technology to enter Western Europe?",
+        "type": "MCQ",
+        "options": {
+            "a": "Crusader movements",
+            "b": "Ottoman colonization",
+            "c": "African trade caravans",
+            "d": "Pacific exploration"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 47,
+        "question": "The Berber-Arab contact in North Africa accelerated the spread of Islam across the Sahara.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 48,
+        "question": "Which interaction brought Native American agricultural knowledge to French settlers?",
+        "type": "MCQ",
+        "options": {
+            "a": "Military alliances",
+            "b": "Colonial settlements",
+            "c": "Atlantic trade",
+            "d": "Nomadic invasions"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 49,
+        "question": "Ancient Egyptian and Nubian artistic styles influenced one another through sustained interaction.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 50,
+        "question": "Which connection introduced Indian numerals to the Islamic Golden Age?",
+        "type": "MCQ",
+        "options": {
+            "a": "Exploration fleets",
+            "b": "Trade networks",
+            "c": "Colonial settlement",
+            "d": "Forced migration"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 51,
+        "question": "The movement of nomadic Turkic groups shaped the cultural landscape of Anatolia.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 52,
+        "question": "Which interaction carried Roman legal concepts into Gaul?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial administration",
+            "b": "Land migrations",
+            "c": "Maritime trade",
+            "d": "Missionary activity"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 53,
+        "question": "Persian contact with India enriched both cultures' astronomical knowledge.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 54,
+        "question": "Which contact introduced Greek philosophical works to early Islamic scholars?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mongol invasions",
+            "b": "Byzantine-Arab exchanges",
+            "c": "Portuguese colonization",
+            "d": "Crusader warfare"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 55,
+        "question": "The movement of Austronesian peoples spread similar pottery styles across the Pacific.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 56,
+        "question": "Which contact first brought Chinese gunpowder knowledge toward the Middle East?",
+        "type": "MCQ",
+        "options": {
+            "a": "Caravan trade routes",
+            "b": "Atlantic exploration",
+            "c": "European colonization",
+            "d": "Nomadic migrations"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 57,
+        "question": "The arrival of the Portuguese in West Africa reshaped existing trade networks.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 58,
+        "question": "Which connection brought horses into the Americas on a large scale?",
+        "type": "MCQ",
+        "options": {
+            "a": "Asian migrations",
+            "b": "European colonization",
+            "c": "Exploration by Polynesians",
+            "d": "Silk Road trade"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 59,
+        "question": "Cultural exchanges between Persia and China influenced textile patterns along the Silk Road.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 60,
+        "question": "Which interaction helped spread Christianity into Eastern Europe?",
+        "type": "MCQ",
+        "options": {
+            "a": "Viking raids",
+            "b": "Crusader invasions",
+            "c": "Byzantine missionary efforts",
+            "d": "Trans-Saharan trade"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 61,
+        "question": "Japanese contact with Korean scholars contributed to early writing reforms in Japan.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 62,
+        "question": "Which interaction brought Roman coins into East Africa?",
+        "type": "MCQ",
+        "options": {
+            "a": "Caravan raids",
+            "b": "Indian Ocean trade",
+            "c": "Colonial conquest",
+            "d": "Forced migration"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 63,
+        "question": "The migration of Germanic tribes transformed the cultural makeup of Western Europe.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 64,
+        "question": "Which interaction carried Chinese porcelain into Ottoman markets?",
+        "type": "MCQ",
+        "options": {
+            "a": "Trans-Saharan caravans",
+            "b": "Mediterranean naval warfare",
+            "c": "Silk Road trade",
+            "d": "Nomadic resettlement"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 65,
+        "question": "Coptic and Nubian Christian traditions influenced each other through close contact.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 66,
+        "question": "Which connection introduced ivory carvings from African artisans to European markets?",
+        "type": "MCQ",
+        "options": {
+            "a": "War alliances",
+            "b": "Trade with West Africa",
+            "c": "Colonial taxation",
+            "d": "Northern invasions"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 67,
+        "question": "South Asian merchants helped develop blended cultural identities on the Swahili coast.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 68,
+        "question": "Which interaction carried Mayan obsidian tools into surrounding regions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Voluntary migration",
+            "b": "Regional trade networks",
+            "c": "European conquest",
+            "d": "Maritime colonization"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 69,
+        "question": "Greek colonies around the Black Sea helped spread Hellenistic art styles.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 70,
+        "question": "Which interaction brought Egyptian grain into Roman markets?",
+        "type": "MCQ",
+        "options": {
+            "a": "Forced resettlement",
+            "b": "Mediterranean trade",
+            "c": "Nomadic migration",
+            "d": "Atlantic crossings"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 71,
+        "question": "Arab contact with West African kingdoms encouraged the rise of Timbuktu as a scholarly center.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 72,
+        "question": "Which interaction first spread compass-navigation techniques to Europe?",
+        "type": "MCQ",
+        "options": {
+            "a": "Viking raids",
+            "b": "Chinese-Arab maritime contact",
+            "c": "Colonial conquests",
+            "d": "Missionary travel"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 73,
+        "question": "Persian-Greek encounters after Alexander’s campaigns produced hybrid architectural features.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 74,
+        "question": "Which interaction helped spread Ottoman cuisine into the Balkans?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial settlement",
+            "b": "Military occupation",
+            "c": "Nomadic migration",
+            "d": "Trade along the Black Sea"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 75,
+        "question": "Contact between the Han Chinese and Central Asian nomads influenced cavalry warfare on both sides.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 76,
+        "question": "Which interaction carried Polynesian crops such as taro and breadfruit between distant islands?",
+        "type": "MCQ",
+        "options": {
+            "a": "Warrior raids",
+            "b": "Oceanic voyaging",
+            "c": "European colonization",
+            "d": "Nomadic relocations"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 77,
+        "question": "Italian merchants in the Renaissance received mathematical knowledge from Islamic scholars through Mediterranean exchange.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 78,
+        "question": "Which interaction brought African gold into Middle Eastern markets during medieval times?",
+        "type": "MCQ",
+        "options": {
+            "a": "Viking expeditions",
+            "b": "Trans-Saharan caravan trade",
+            "c": "Crusader campaigns",
+            "d": "Colonial taxation"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 79,
+        "question": "Cultural contact between Persia and India influenced Mughal architecture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 80,
+        "question": "Which interaction helped spread Christianity to Ethiopia?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indian Ocean trade",
+            "b": "Roman military expansion",
+            "c": "Nomadic conquests",
+            "d": "European colonization"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 81,
+        "question": "The Iranian Plateau served as a crossroads where Persian and Central Asian cultures blended artistic motifs.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 82,
+        "question": "Which interaction first brought olive cultivation techniques into ancient Greece?",
+        "type": "MCQ",
+        "options": {
+            "a": "Phoenician trade",
+            "b": "Persian conquest",
+            "c": "Nomadic migration",
+            "d": "Colonial settlement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 83,
+        "question": "Southeast Asian kingdoms blended Hindu and Buddhist influences through continuous cultural contact.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 84,
+        "question": "Which interaction carried Persian astronomical instruments into Mughal courts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Nomadic invasions",
+            "b": "Scholarly migration",
+            "c": "European exploration",
+            "d": "African trade routes"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 85,
+        "question": "The blending of Spanish and Indigenous foods in the Americas emerged from early colonial contact.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 86,
+        "question": "Which interaction brought iron-working knowledge into sub-Saharan Africa?",
+        "type": "MCQ",
+        "options": {
+            "a": "Bantu migrations",
+            "b": "Arab naval trade",
+            "c": "European colonization",
+            "d": "Viking expansion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 87,
+        "question": "Greek colonies in Sicily helped transfer Mediterranean agricultural techniques further west.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 88,
+        "question": "Which interaction helped spread Islamic geometric art styles into Spain?",
+        "type": "MCQ",
+        "options": {
+            "a": "Silk Road caravans",
+            "b": "Byzantine military campaigns",
+            "c": "Arab presence in Iberia",
+            "d": "African migrations"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 89,
+        "question": "Roman contact with Celtic tribes introduced new metalworking patterns in Western Europe.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 90,
+        "question": "Which interaction carried spices from Southeast Asia to the Middle East before European arrival?",
+        "type": "MCQ",
+        "options": {
+            "a": "Nomadic raids",
+            "b": "Indian Ocean trade",
+            "c": "European colonization",
+            "d": "Atlantic exploration"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 91,
+        "question": "Cultural contact between China and Vietnam introduced Confucian administrative ideas to Vietnamese courts.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 92,
+        "question": "Which interaction first carried cotton textiles from India into Roman markets?",
+        "type": "MCQ",
+        "options": {
+            "a": "Nubian raids",
+            "b": "Indian Ocean commerce",
+            "c": "European colonization",
+            "d": "Central Asian migration"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 93,
+        "question": "Islamic scholars preserved Greek scientific works through sustained translation efforts.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 94,
+        "question": "Which interaction brought jade artifacts from Mesoamerica into neighboring regions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Inland trade routes",
+            "b": "Atlantic expeditions",
+            "c": "Colonial invasions",
+            "d": "Nomadic migrations"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 95,
+        "question": "Early Indo-Greek contact blended artistic elements such as the Gandhara Buddhist style.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 96,
+        "question": "Which interaction introduced sago and coconut cultivation across island Southeast Asia?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab colonization",
+            "b": "Austronesian migrations",
+            "c": "Crusader movement",
+            "d": "Trans-Saharan trade"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 97,
+        "question": "The spread of Aramaic across the Near East was aided by its adoption in major empires.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 98,
+        "question": "Which interaction carried African musical rhythms into the Caribbean?",
+        "type": "MCQ",
+        "options": {
+            "a": "European exploration",
+            "b": "Atlantic slave trade",
+            "c": "Nomadic contact",
+            "d": "Pacific commerce"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 99,
+        "question": "Phoenician settlers spread new ship-construction methods throughout the Mediterranean.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 100,
+        "question": "Which interaction first brought papyrus into Greek marketplaces?",
+        "type": "MCQ",
+        "options": {
+            "a": "Egyptian trade",
+            "b": "Persian conquest",
+            "c": "Nomadic exchange",
+            "d": "Colonial settlement"
+        },
+        "answer": "a"
+    }
+]
