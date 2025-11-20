@@ -1,0 +1,973 @@
+
+[Person1] watched a movie about [Person2] in [year].
+[
+  {
+    "question_id": 1,
+    "question": "Tom Hanks watched a movie about Albert Einstein in 1995.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "Emma Watson watched a movie about Leonardo da Vinci in 1900.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 3,
+    "question": "Morgan Freeman watched a movie about Isaac Newton in 1980.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "Scarlett Johansson watched a movie about Cleopatra in 1490.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 5,
+    "question": "Chris Evans watched a movie about Nikola Tesla in 2010.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "Angelina Jolie watched a movie about Socrates in 2005.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 7,
+    "question": "Robert Downey Jr. watched a movie about Marie Curie in 1920.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "Jennifer Lawrence watched a movie about Vincent van Gogh in 2018.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 9,
+    "question": "Keanu Reeves watched a movie about Julius Caesar in 1800.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 10,
+    "question": "Natalie Portman watched a movie about Amelia Earhart in 2009.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 11,
+    "question": "Harrison Ford watched a movie about Winston Churchill in 2016.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "Zendaya watched a movie about Mozart in 1700.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 13,
+    "question": "Will Smith watched a movie about Malcolm X in 1992.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "Brie Larson watched a movie about Joan of Arc in 1890.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 15,
+    "question": "Chris Hemsworth watched a movie about Abraham Lincoln in 2012.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 16,
+    "question": "Anne Hathaway watched a movie about Galileo Galilei in 1950.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "Denzel Washington watched a movie about Nelson Mandela in 2009.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "Samuel L. Jackson watched a movie about Confucius in 1925.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 19,
+    "question": "Gal Gadot watched a movie about Florence Nightingale in 2020.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "Leonardo DiCaprio watched a movie about King Tutankhamun in 1990.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 21,
+    "question": "Sandra Bullock watched a movie about Queen Victoria in 2017.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "Matt Damon watched a movie about Aristotle in 1930.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 23,
+    "question": "Robert Pattinson watched a movie about Pablo Picasso in 2005.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 24,
+    "question": "Meryl Streep watched a movie about Genghis Khan in 1840.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 25,
+    "question": "Chris Pratt watched a movie about Charles Darwin in 2010.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 26,
+    "question": "Ryan Reynolds watched a movie about Marie Antoinette in 2020.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "Nicole Kidman watched a movie about Mark Twain in 1970.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "Jason Momoa watched a movie about Ludwig van Beethoven in 1930.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 29,
+    "question": "Julia Roberts watched a movie about Frida Kahlo in 2002.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "Adam Sandler watched a movie about Edgar Allan Poe in 1880.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+
+  {
+    "question_id": 31,
+    "question": "Anne Hathaway watched a movie about Jane Austen in 2016.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "Hugh Jackman watched a movie about Napoleon Bonaparte in 1940.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 33,
+    "question": "Jennifer Lopez watched a movie about Cleopatra in 2021.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "Michael B. Jordan watched a movie about George Washington in 1910.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 35,
+    "question": "Emily Blunt watched a movie about Nikola Tesla in 2020.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 36,
+    "question": "Mark Ruffalo watched a movie about Isaac Newton in 1950.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "Gal Gadot watched a movie about Mother Teresa in 1800.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 38,
+    "question": "Zendaya watched a movie about Harriet Tubman in 2021.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "Keanu Reeves watched a movie about Shakespeare in 1920.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 40,
+    "question": "Angelina Jolie watched a movie about Queen Elizabeth I in 1998.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 41,
+    "question": "Chris Evans watched a movie about Stephen Hawking in 2014.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "Emma Watson watched a movie about Cleopatra in 1750.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 43,
+    "question": "Samuel L. Jackson watched a movie about Harriet Tubman in 2019.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "Hugh Jackman watched a movie about Plato in 900.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 45,
+    "question": "Natalie Portman watched a movie about Charles Dickens in 2020.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 46,
+    "question": "Benedict Cumberbatch watched a movie about Alan Turing in 2014.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 47,
+    "question": "Millie Bobby Brown watched a movie about Queen Nefertiti in 1600.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 48,
+    "question": "Leonardo DiCaprio watched a movie about Pablo Picasso in 1996.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 49,
+    "question": "Tom Cruise watched a movie about Marco Polo in 1890.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 50,
+    "question": "Jennifer Lawrence watched a movie about Anne Frank in 2015.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 51,
+    "question": "Chris Pratt watched a movie about Isaac Newton in 1980.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "Emma Stone watched a movie about Nikola Tesla in 1790.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 53,
+    "question": "Morgan Freeman watched a movie about Martin Luther King Jr. in 2010.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "Scarlett Johansson watched a movie about Confucius in 1100.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 55,
+    "question": "Matt Damon watched a movie about Mahatma Gandhi in 1985.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 56,
+    "question": "Natalie Dormer watched a movie about Joan of Arc in 1999.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 57,
+    "question": "Keanu Reeves watched a movie about Aristotle in 2022.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "Zendaya watched a movie about Queen Victoria in 1700.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 59,
+    "question": "Denzel Washington watched a movie about Frederick Douglass in 2005.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "Angelina Jolie watched a movie about Plato in 1955.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 61,
+    "question": "Emma Watson watched a movie about Queen Elizabeth II in 2018.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "Robert Downey Jr. watched a movie about Julius Caesar in 1300.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 63,
+    "question": "Meryl Streep watched a movie about Marie Curie in 1997.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "Chris Evans watched a movie about William Shakespeare in 1780.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 65,
+    "question": "Hugh Jackman watched a movie about Napoleon in 2010.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 66,
+    "question": "Nicole Kidman watched a movie about Wolfgang Amadeus Mozart in 1984.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 67,
+    "question": "Jason Momoa watched a movie about Julius Caesar in 1995.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "Gal Gadot watched a movie about Amelia Earhart in 1880.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 69,
+    "question": "Ryan Reynolds watched a movie about Thomas Edison in 2017.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "Jennifer Lawrence watched a movie about Rosa Parks in 2021.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 71,
+    "question": "Millie Bobby Brown watched a movie about Winston Churchill in 2018.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "Tom Hanks watched a movie about Confucius in 2001.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 73,
+    "question": "Emma Stone watched a movie about Cleopatra in 2019.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "Benedict Cumberbatch watched a movie about Socrates in 1600.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 75,
+    "question": "Samuel L. Jackson watched a movie about George Washington in 1988.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 76,
+    "question": "Keanu Reeves watched a movie about Abraham Lincoln in 2012.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 77,
+    "question": "Meryl Streep watched a movie about Harriet Tubman in 1880.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 78,
+    "question": "Chris Hemsworth watched a movie about Mozart in 2021.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 79,
+    "question": "Angelina Jolie watched a movie about Albert Einstein in 1890.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 80,
+    "question": "Tom Cruise watched a movie about Vincent van Gogh in 1998.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 81,
+    "question": "Robert Downey Jr. watched a movie about Marie Curie in 2010.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "Morgan Freeman watched a movie about Julius Caesar in 1400.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 83,
+    "question": "Scarlett Johansson watched a movie about Ada Lovelace in 2021.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "Chris Pratt watched a movie about Joan of Arc in 1800.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 85,
+    "question": "Gal Gadot watched a movie about Frida Kahlo in 2017.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 86,
+    "question": "Keanu Reeves watched a movie about Isaac Newton in 1999.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 87,
+    "question": "Emma Watson watched a movie about Mahatma Gandhi in 1750.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 88,
+    "question": "Chris Evans watched a movie about George Washington in 2012.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "Tom Hanks watched a movie about Queen Victoria in 1500.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 90,
+    "question": "Zendaya watched a movie about Rosa Parks in 2020.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 91,
+    "question": "Angelina Jolie watched a movie about Vincent van Gogh in 2005.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "Denzel Washington watched a movie about Socrates in 1900.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 93,
+    "question": "Emma Stone watched a movie about Nikola Tesla in 2016.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "Leonardo DiCaprio watched a movie about Galileo in 1890.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 95,
+    "question": "Samuel L. Jackson watched a movie about Albert Einstein in 2001.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 96,
+    "question": "Jennifer Lawrence watched a movie about Jane Austen in 2017.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 97,
+    "question": "Chris Hemsworth watched a movie about Confucius in 1990.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "Meryl Streep watched a movie about Leonardo da Vinci in 1450.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 99,
+    "question": "Jason Momoa watched a movie about Thomas Edison in 2021.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "Benedict Cumberbatch watched a movie about Marie Curie in 1800.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+
+  {
+    "question_id": 101,
+    "question": "Tom Cruise watched a movie about Edgar Allan Poe in 1999.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 102,
+    "question": "Keanu Reeves watched a movie about Julius Caesar in 2015.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 103,
+    "question": "Millie Bobby Brown watched a movie about Aristotle in 1950.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 104,
+    "question": "Angelina Jolie watched a movie about Marco Polo in 1800.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 105,
+    "question": "Chris Evans watched a movie about George Orwell in 2020.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 106,
+    "question": "Emma Stone watched a movie about Martin Luther King Jr. in 2019.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 107,
+    "question": "Samuel L. Jackson watched a movie about Isaac Newton in 1300.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "Ryan Reynolds watched a movie about Winston Churchill in 2010.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 109,
+    "question": "Nicole Kidman watched a movie about Rosa Parks in 1890.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 110,
+    "question": "Zendaya watched a movie about Amelia Earhart in 2021.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 111,
+    "question": "Matt Damon watched a movie about Abraham Lincoln in 1998.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 112,
+    "question": "Keanu Reeves watched a movie about Plato in 2023.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 113,
+    "question": "Emma Watson watched a movie about Queen Elizabeth I in 2005.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "Tom Hanks watched a movie about Benjamin Franklin in 1600.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 115,
+    "question": "Scarlett Johansson watched a movie about Florence Nightingale in 2018.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 116,
+    "question": "Morgan Freeman watched a movie about Pablo Picasso in 2002.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 117,
+    "question": "Gal Gadot watched a movie about Confucius in 2010.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "Jason Momoa watched a movie about Leonardo da Vinci in 2008.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 119,
+    "question": "Chris Pratt watched a movie about Marie Antoinette in 1990.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "Angelina Jolie watched a movie about Julius Caesar in 2022.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 121,
+    "question": "What movie did Tom Hanks watch about Albert Einstein in 2005?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Theory of Everything",
+      "b": "Einstein and Eddington",
+      "c": "Genius",
+      "d": "Relativity: The Film"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 122,
+    "question": "What movie did Emma Watson watch about Jane Austen in 2010?",
+    "type": "MCQ",
+    "options": {
+      "a": "Becoming Jane",
+      "b": "Pride and Prejudice",
+      "c": "Sense and Sensibility",
+      "d": "The Jane Diaries"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 123,
+    "question": "What movie did Chris Evans watch about Leonardo da Vinci in 2018?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Renaissance Genius",
+      "b": "Da Vinci: The Inventor",
+      "c": "Inside Da Vinci",
+      "d": "Da Vinci Code"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 124,
+    "question": "What movie did Scarlett Johansson watch about Marie Curie in 2016?",
+    "type": "MCQ",
+    "options": {
+      "a": "Radioactive",
+      "b": "Curie: The Discovery",
+      "c": "Elements of Life",
+      "d": "The Nobel Woman"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 125,
+    "question": "What movie did Keanu Reeves watch about Julius Caesar in 2003?",
+    "type": "MCQ",
+    "options": {
+      "a": "Empire of Rome",
+      "b": "Caesar",
+      "c": "The Rise of Caesar",
+      "d": "Julius Caesar"
+    },
+    "answer": "d"
+  },
+
+  {
+    "question_id": 126,
+    "question": "What movie did Morgan Freeman watch about Martin Luther King Jr. in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Selma",
+      "b": "King: The Legacy",
+      "c": "March to Freedom",
+      "d": "Dream of Justice"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 127,
+    "question": "What movie did Jennifer Lawrence watch about Amelia Earhart in 2019?",
+    "type": "MCQ",
+    "options": {
+      "a": "Earhart: Lost in the Skies",
+      "b": "Amelia",
+      "c": "The Flying Legend",
+      "d": "Skyward Pioneer"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 128,
+    "question": "What movie did Denzel Washington watch about Malcolm X in 1995?",
+    "type": "MCQ",
+    "options": {
+      "a": "Malcolm X",
+      "b": "Civil Rights: The Fight",
+      "c": "X: The Movement",
+      "d": "Freedom's Voice"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 129,
+    "question": "What movie did Zendaya watch about Cleopatra in 2022?",
+    "type": "MCQ",
+    "options": {
+      "a": "Cleopatra",
+      "b": "Queen of the Nile",
+      "c": "The Last Pharaoh",
+      "d": "Rise of Cleopatra"
+    },
+    "answer": "a"
+  },
+ 

@@ -1,0 +1,1102 @@
+[
+  {
+    "question_id": 1,
+    "question": "Plato and Nietzsche would strongly agree that rational contemplation of eternal truths is the highest human activity.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 2,
+    "question": "Which modern thinker most sharply attacks Plato’s idea of a fixed, higher moral world by arguing that values are human creations shaped by power and life-instincts?",
+    "type": "MCQ",
+    "options": {
+      "a": "John Stuart Mill",
+      "b": "Immanuel Kant",
+      "c": "Friedrich Nietzsche",
+      "d": "John Rawls"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 3,
+    "question": "Aristotle’s view that humans are naturally political animals conflicts with Hobbes’s picture of individuals in a violent state of nature who only later form societies.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "Who portrays isolated individuals in a pre-political war of all against all, in contrast to Aristotle’s idea that humans are social by nature?",
+    "type": "MCQ",
+    "options": {
+      "a": "Thomas Hobbes",
+      "b": "Jean-Jacques Rousseau",
+      "c": "Baruch Spinoza",
+      "d": "G. W. F. Hegel"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "Stoic philosophers claim that external fortune does not affect true happiness, whereas modern utilitarians tie morality closely to increasing pleasure and reducing pain.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "Which modern philosopher would most directly oppose the Stoic idea that pain and pleasure are morally irrelevant, by making happiness the standard of right and wrong?",
+    "type": "MCQ",
+    "options": {
+      "a": "Immanuel Kant",
+      "b": "John Stuart Mill",
+      "c": "Søren Kierkegaard",
+      "d": "Martin Heidegger"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 7,
+    "question": "Epicurus and Kant would disagree about whether the moral worth of an action depends mainly on its consequences for happiness.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 8,
+    "question": "Which philosopher insists that only actions done from duty according to a universal law have true moral worth, rejecting the Epicurean focus on pleasure?",
+    "type": "MCQ",
+    "options": {
+      "a": "David Hume",
+      "b": "Immanuel Kant",
+      "c": "Jeremy Bentham",
+      "d": "Augustine of Hippo"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 9,
+    "question": "Confucius’s emphasis on role-based duties and social harmony conflicts with Sartre’s idea that humans are radically free and must create their own values without fixed roles.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "Which modern philosopher famously claims that humans are \"condemned to be free,\" directly challenging Confucian comfort with stable social roles and rituals?",
+    "type": "MCQ",
+    "options": {
+      "a": "Simone de Beauvoir",
+      "b": "Jean-Paul Sartre",
+      "c": "Alasdair MacIntyre",
+      "d": "Jürgen Habermas"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 11,
+    "question": "Descartes’s rationalist project of grounding knowledge in clear and distinct ideas opposes Hume’s claim that all ideas ultimately come from sensory impressions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "Which early modern thinker argues that knowledge is built from experience and habit, challenging Descartes’s confidence in innate rational principles?",
+    "type": "MCQ",
+    "options": {
+      "a": "Gottfried Wilhelm Leibniz",
+      "b": "George Berkeley",
+      "c": "David Hume",
+      "d": "René Descartes"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 13,
+    "question": "Plato’s belief in a timeless realm of Forms contrasts sharply with Marx’s historical materialism, which roots ideas in changing economic conditions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "Who argues that social being and material production shape consciousness, opposing Plato’s view that eternal Forms are primary?",
+    "type": "MCQ",
+    "options": {
+      "a": "Karl Marx",
+      "b": "Friedrich Engels",
+      "c": "Max Weber",
+      "d": "Auguste Comte"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "Ancient Cynics praised a life of radical simplicity and rejection of social conventions, while modern liberal thinkers often defend individual rights within a complex society.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "Which modern philosopher would most likely argue against the Cynic’s rejection of social institutions by defending a framework of basic liberties and fair cooperation?",
+    "type": "MCQ",
+    "options": {
+      "a": "Friedrich Hayek",
+      "b": "John Rawls",
+      "c": "Robert Nozick",
+      "d": "Isaiah Berlin"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 17,
+    "question": "Socrates’s claim that \"the unexamined life is not worth living\" clashes with some contemporary pragmatist views that prioritize practical problem-solving over constant self-examination.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "Which 20th-century American pragmatist would be most likely to downplay abstract metaphysical debate in favor of practical inquiry about social problems, diverging from Socratic emphasis on universal definitions?",
+    "type": "MCQ",
+    "options": {
+      "a": "John Dewey",
+      "b": "W. V. O. Quine",
+      "c": "Saul Kripke",
+      "d": "Karl Popper"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "Aristotle’s teleological view that everything has a natural purpose differs from Darwinian evolutionary theory, which explains species without fixed, built-in ends.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "Which modern thinker’s biological theory most clearly undermines Aristotle’s assumption of fixed natural purposes for species?",
+    "type": "MCQ",
+    "options": {
+      "a": "Gregor Mendel",
+      "b": "Charles Darwin",
+      "c": "Louis Pasteur",
+      "d": "Sigmund Freud"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 21,
+    "question": "Augustine’s Christian Platonism grounds moral order in God, while Nietzsche proclaims the \"death of God\" and calls for revaluing all values.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "Who most explicitly rejects Augustine’s belief in a divine moral order by urging humans to create their own values after the collapse of traditional religion?",
+    "type": "MCQ",
+    "options": {
+      "a": "Søren Kierkegaard",
+      "b": "Friedrich Nietzsche",
+      "c": "Blaise Pascal",
+      "d": "Martin Luther"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 23,
+    "question": "Confucian trust in hierarchical authority and ritual harmony collides with anarchist philosophies that see authority as inherently suspect.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 24,
+    "question": "Which modern political thinker would most strongly criticize Confucian respect for hierarchical rulers by arguing that authority must constantly justify itself against freedom?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mikhail Bakunin",
+      "b": "Edmund Burke",
+      "c": "Hannah Arendt",
+      "d": "Alexis de Tocqueville"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "Classical Indian Charvaka materialists, who rejected karma and an afterlife, anticipate some modern secular or atheist critiques of religion.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 26,
+    "question": "Which modern thinker would most agree with Charvaka in denying supernatural realms and urging focus on this-worldly evidence?",
+    "type": "MCQ",
+    "options": {
+      "a": "David Hume",
+      "b": "Karl Popper",
+      "c": "Ludwig Wittgenstein (early)",
+      "d": "Benedict Spinoza"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "Avicenna’s medieval Islamic rationalism tries to harmonize faith with philosophy, while contemporary logical positivists largely dismiss metaphysical theology as meaningless.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "Which 20th-century movement most directly opposes Avicenna’s project by treating metaphysical religious language as cognitively empty?",
+    "type": "MCQ",
+    "options": {
+      "a": "Phenomenology",
+      "b": "Logical positivism",
+      "c": "Existentialism",
+      "d": "Pragmatism"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 29,
+    "question": "Aquinas’s natural law theory claims that morality is built into human nature by God, whereas contemporary emotivists treat moral judgments as expressions of feeling rather than objective truths.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "Which 20th-century metaethicist would most directly challenge Aquinas by claiming that saying something is 'wrong' mainly expresses disapproval?",
+    "type": "MCQ",
+    "options": {
+      "a": "A. J. Ayer",
+      "b": "John Finnis",
+      "c": "G. E. M. Anscombe",
+      "d": "Philippa Foot"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "Plato’s philosopher-king ideal of enlightened rulers conflicts with modern democratic theories that insist political power should rest on equal citizenship rather than expertise alone.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "Which modern philosopher famously defends political principles chosen behind a 'veil of ignorance,' opposing the idea that a small group of wise rulers should simply know best?",
+    "type": "MCQ",
+    "options": {
+      "a": "John Rawls",
+      "b": "Robert Nozick",
+      "c": "Hannah Arendt",
+      "d": "Carl Schmitt"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 33,
+    "question": "Ancient Stoics claim the universe is ordered by divine reason (logos), while contemporary existentialists often deny any given cosmic meaning or plan.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "Which modern existentialist most explicitly rejects a pre-given human essence, insisting that existence comes before any fixed nature or cosmic plan?",
+    "type": "MCQ",
+    "options": {
+      "a": "Jean-Paul Sartre",
+      "b": "Albert Camus",
+      "c": "Martin Buber",
+      "d": "Paul Tillich"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 35,
+    "question": "Confucian emphasis on filial piety and family duties may clash with modern individualist ethics that give priority to personal autonomy over inherited roles.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 36,
+    "question": "Which liberal thinker would most likely argue that adult individuals should be free to choose their own life paths, even when these conflict with Confucian expectations about family duties?",
+    "type": "MCQ",
+    "options": {
+      "a": "John Stuart Mill",
+      "b": "Thomas Aquinas",
+      "c": "Mencius",
+      "d": "Mozi"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "Buddhist ideas of 'non-self' challenge both Descartes’s 'thinking substance' and modern views that treat the self as a stable inner owner of experiences.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "Which early modern philosopher most clearly embodies the belief in a simple, thinking self that Buddhism would criticize as an illusion?",
+    "type": "MCQ",
+    "options": {
+      "a": "René Descartes",
+      "b": "Baruch Spinoza",
+      "c": "David Hume",
+      "d": "John Locke"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "Ancient Greek skeptics questioned whether certain knowledge is possible, anticipating modern debates about radical doubt and fallibilism.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "Which 20th-century philosopher’s fallibilist view of science, emphasizing conjectures and refutations, shows kinship with ancient skepticism about certainty?",
+    "type": "MCQ",
+    "options": {
+      "a": "Karl Popper",
+      "b": "Thomas Kuhn",
+      "c": "Paul Feyerabend",
+      "d": "Wilfrid Sellars"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 41,
+    "question": "Locke’s social contract theory envisions limited government protecting property rights, which clashes with Marx’s call for abolishing private ownership of the means of production.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "Which thinker most directly opposes Locke by arguing that private property under capitalism alienates workers and should be transformed through collective ownership?",
+    "type": "MCQ",
+    "options": {
+      "a": "Jean-Jacques Rousseau",
+      "b": "Karl Marx",
+      "c": "John Rawls",
+      "d": "F. A. Hayek"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 43,
+    "question": "Ancient Indian Jain philosophy stresses nonviolence toward all living beings, contrasting with Machiavelli’s advice that rulers may need to use cruelty for political stability.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "Which Renaissance thinker famously counsels rulers to be willing to act immorally when necessary, clashing with Jain commitments to nonviolence?",
+    "type": "MCQ",
+    "options": {
+      "a": "Niccolò Machiavelli",
+      "b": "Desiderius Erasmus",
+      "c": "Thomas More",
+      "d": "Giordano Bruno"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 45,
+    "question": "Traditional African communal philosophies that emphasize 'I am because we are' differ from Cartesian individualism that begins with an isolated thinking self.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "Which famous Cartesian claim would an Ubuntu-style African philosopher most likely criticize for ignoring the primacy of community?",
+    "type": "MCQ",
+    "options": {
+      "a": "\"God is dead\"",
+      "b": "\"I think, therefore I am\"",
+      "c": "\"The greatest happiness of the greatest number\"",
+      "d": "\"Being and time\""
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 47,
+    "question": "Mozi’s ancient Chinese critique of ritual and hierarchy anticipates some modern egalitarian and utilitarian criticisms of tradition for ignoring shared welfare.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 48,
+    "question": "Which modern philosopher of utility would most agree with Mozi’s call for impartial concern for everyone’s benefit over rigid ritual?",
+    "type": "MCQ",
+    "options": {
+      "a": "John Stuart Mill",
+      "b": "Immanuel Kant",
+      "c": "Georg Hegel",
+      "d": "Arthur Schopenhauer"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 49,
+    "question": "Ancient Pythagoreans gave mystical significance to numerical harmony, whereas contemporary analytic philosophers typically treat mathematics as a formal or logical system without sacred status.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 50,
+    "question": "Which 20th-century movement in philosophy of mathematics most clearly rejects mystical numerology by focusing on logical structure and proof?",
+    "type": "MCQ",
+    "options": {
+      "a": "Logical positivism",
+      "b": "Intuitionism",
+      "c": "Logicism",
+      "d": "Pragmatism"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 51,
+    "question": "Socrates believed that wrongdoing springs from ignorance, while Freud claims that unconscious drives can lead people to act against their own conscious knowledge and values.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "Which modern thinker most directly challenges Socrates by highlighting irrational and unconscious forces in the human mind?",
+    "type": "MCQ",
+    "options": {
+      "a": "Sigmund Freud",
+      "b": "Bertrand Russell",
+      "c": "G. E. Moore",
+      "d": "Edmund Husserl"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 53,
+    "question": "Ancient philosophy often focused on contemplating eternal truths, whereas some contemporary critical theorists emphasize exposing power structures and domination in everyday life.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "Which modern philosopher of power and discourse would most criticize a purely timeless, abstract conception of philosophy for ignoring historical practices and institutions?",
+    "type": "MCQ",
+    "options": {
+      "a": "Michel Foucault",
+      "b": "John Rawls",
+      "c": "Alfred Tarski",
+      "d": "Karl Jaspers"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 55,
+    "question": "Kant’s strict duty-based ethics conflicts with Nietzsche’s suspicion that moral rules often hide resentment and a will to control stronger individuals.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "Who most famously dismisses traditional morality as a 'slave morality' aimed at weakening the strong, directly opposing Kant’s view of universal moral law?",
+    "type": "MCQ",
+    "options": {
+      "a": "Karl Marx",
+      "b": "Friedrich Nietzsche",
+      "c": "Hannah Arendt",
+      "d": "Simone Weil"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 57,
+    "question": "Plato’s allegory of the cave suggests that philosophers should ascend to truth and then return to guide others, while modern libertarians often resist the idea of any class of guardians steering society.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "Which libertarian thinker would most likely oppose Plato’s guardian class by insisting that individuals should be free from paternalistic rule?",
+    "type": "MCQ",
+    "options": {
+      "a": "Robert Nozick",
+      "b": "Herbert Marcuse",
+      "c": "Jürgen Habermas",
+      "d": "Charles Taylor"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "Ancient Greek tragedians highlight the limits of human control and the power of fate, while some modern technocratic philosophies express confidence that rational planning can manage society.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "Which modern intellectual tradition is most associated with faith in rational bureaucracy and planning, potentially clashing with tragic Greek warnings about hubris?",
+    "type": "MCQ",
+    "options": {
+      "a": "Romanticism",
+      "b": "Logical positivism",
+      "c": "Technocratic progressivism",
+      "d": "Existentialism"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 61,
+    "question": "Ancient Hebrew prophetic ethics focus on justice for the poor and critique of kings, which resonates with but also differs from Marxist critiques of capitalism and class oppression.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "Which modern thinker systematizes a theory of class struggle and exploitation that can be compared with, but is not identical to, prophetic attacks on injustice?",
+    "type": "MCQ",
+    "options": {
+      "a": "Karl Marx",
+      "b": "Max Weber",
+      "c": "John Locke",
+      "d": "Adam Smith"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 63,
+    "question": "Ancient Chinese Legalists emphasized strict laws and punishments, while contemporary restorative justice theories stress healing relationships over harsh retribution.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "Which modern approach to justice is most opposed to Legalist harshness by focusing on dialogue and repairing harm?",
+    "type": "MCQ",
+    "options": {
+      "a": "Retributive justice",
+      "b": "Restorative justice",
+      "c": "Lex talionis",
+      "d": "Realpolitik"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 65,
+    "question": "Aristotle’s view that women are naturally inferior clashes with modern feminist philosophies that insist on equal moral and political agency for all genders.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 66,
+    "question": "Which modern philosopher explicitly argues that woman is constructed as 'the Other' and demands equal existential freedom, rejecting Aristotle’s natural hierarchy?",
+    "type": "MCQ",
+    "options": {
+      "a": "Hannah Arendt",
+      "b": "Simone de Beauvoir",
+      "c": "Iris Murdoch",
+      "d": "Judith Jarvis Thomson"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 67,
+    "question": "Some Indigenous philosophies treat land and non-human beings as relatives, opposing modern anthropocentric views that see nature mainly as a resource for human use.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "Which modern movement most closely aligns with Indigenous critiques of human-centered thinking by emphasizing the moral value of ecosystems and species?",
+    "type": "MCQ",
+    "options": {
+      "a": "Classical liberalism",
+      "b": "Deep ecology",
+      "c": "Logical atomism",
+      "d": "Act utilitarianism"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 69,
+    "question": "Zeno’s ancient paradoxes challenge naive ideas about motion and continuity, while contemporary analytic philosophers use set theory and calculus to resolve such puzzles.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "Which area of modern mathematics and logic is most often invoked to respond to Zeno’s paradoxes of motion?",
+    "type": "MCQ",
+    "options": {
+      "a": "Group theory",
+      "b": "Game theory",
+      "c": "Calculus and real analysis",
+      "d": "Topology of knots"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 71,
+    "question": "Ancient Indian Buddhist logicians developed sophisticated debates about emptiness, which foreshadow some modern discussions about language and reference.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "Which modern philosopher of language, famous for the slogan \"meaning is use,\" might find Buddhist attention to context and practice especially resonant?",
+    "type": "MCQ",
+    "options": {
+      "a": "Gottlob Frege",
+      "b": "Ludwig Wittgenstein (later)",
+      "c": "Saul Kripke",
+      "d": "Donald Davidson"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 73,
+    "question": "Parmenides argued that change is an illusion and reality is one unchanging being, while modern process philosophies claim that becoming and change are fundamental.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "Which modern thinker’s 'process' metaphysics most clearly reverses Parmenides by treating change and events as basic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Alfred North Whitehead",
+      "b": "Bertrand Russell",
+      "c": "John Searle",
+      "d": "R. M. Hare"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 75,
+    "question": "Heraclitus emphasized constant flux, saying we cannot step into the same river twice, whereas classical mechanistic physics once pictured a stable, clockwork universe.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "Which early modern scientist-philosopher is most associated with a deterministic, clockwork view of nature that clashes with Heraclitus’s vision of constant flux?",
+    "type": "MCQ",
+    "options": {
+      "a": "Isaac Newton",
+      "b": "Blaise Pascal",
+      "c": "Francis Bacon",
+      "d": "Galileo Galilei"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 77,
+    "question": "Ancient Epicureans tried to free people from fear of gods and death, while some contemporary transhumanists place hope in radically extending life through technology.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "Which modern movement might Epicurus criticize for clinging too strongly to the fear of death instead of accepting mortality calmly?",
+    "type": "MCQ",
+    "options": {
+      "a": "Romanticism",
+      "b": "Transhumanism seeking immortality",
+      "c": "Libertarianism",
+      "d": "Stoicism"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 79,
+    "question": "Ancient Roman law helped shape ideas of natural rights, but some postmodern philosophers question whether such 'universal' rights hide culturally specific assumptions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 80,
+    "question": "Which continental philosopher is best known for critiquing universalist claims, including rights discourse, as products of particular historical power relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "Jürgen Habermas",
+      "b": "Paul Ricoeur",
+      "c": "Michel Foucault",
+      "d": "Hans-Georg Gadamer"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 81,
+    "question": "Ancient Islamic philosophers such as Al-Farabi envisioned a virtuous city guided by a philosopher-prophet, while modern pluralist theories resist imposing a single ultimate vision of the good life on citizens.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "Which 20th-century liberal thinker emphasizes reasonable pluralism and public justification, contrasting with Al-Farabi’s unified virtuous city under one guiding vision?",
+    "type": "MCQ",
+    "options": {
+      "a": "John Rawls",
+      "b": "Leo Strauss",
+      "c": "Carl Schmitt",
+      "d": "Hans Jonas"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 83,
+    "question": "Ancient Greek atomists like Democritus saw the world as composed of indivisible particles, whereas modern quantum physics undermines the idea of simple, unchanging atoms.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "Which modern physical theory most clearly challenges Democritus’s simple atomism by describing subatomic particles with probabilistic behavior?",
+    "type": "MCQ",
+    "options": {
+      "a": "Classical thermodynamics",
+      "b": "Quantum mechanics",
+      "c": "Special relativity",
+      "d": "Chaos theory"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 85,
+    "question": "The Bhagavad Gita’s call to perform one’s duty without attachment to results differs from modern consequentialism, which evaluates actions by their outcomes.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 86,
+    "question": "Which modern school most directly contrasts with the Gita’s focus on non-attached duty by judging actions primarily by the goodness of their consequences?",
+    "type": "MCQ",
+    "options": {
+      "a": "Deontology",
+      "b": "Virtue ethics",
+      "c": "Consequentialism / utilitarianism",
+      "d": "Phenomenology"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 87,
+    "question": "Ancient Stoics recommended emotional resilience through inner discipline, while some modern consumerist ideals encourage constant pursuit of new desires and external goods.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 88,
+    "question": "Which modern critical tradition is most likely to side with the Stoics in criticizing consumer culture for producing dependency on external goods?",
+    "type": "MCQ",
+    "options": {
+      "a": "Critical theory of the Frankfurt School",
+      "b": "Logical empiricism",
+      "c": "Game theory",
+      "d": "Behaviorism"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "Ancient Chinese Daoism praises effortless action (wu wei), while some modern productivity philosophies promote constant self-optimization and control.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 90,
+    "question": "Which contemporary attitude would a Daoist most sharply oppose?",
+    "type": "MCQ",
+    "options": {
+      "a": "Letting processes unfold with minimal interference",
+      "b": "Cultivating humility before nature",
+      "c": "Obsessive micromanagement and rigid scheduling of every moment",
+      "d": "Enjoying quiet solitude in mountains"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 91,
+    "question": "Ancient philosophical schools often assumed a fixed human nature, whereas some contemporary gender and queer theorists question whether identities are stable or natural at all.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "Which modern thinker is best known for arguing that gender is performative and socially constructed, challenging ancient assumptions about natural roles?",
+    "type": "MCQ",
+    "options": {
+      "a": "Judith Butler",
+      "b": "Simone de Beauvoir",
+      "c": "Martha Nussbaum",
+      "d": "Elizabeth Anscombe"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 93,
+    "question": "Ancient virtue ethics focuses on cultivating stable character traits, while some modern situationist psychology questions whether people really have consistent virtues across contexts.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "Which modern perspective most directly challenges Aristotle’s confidence in firm character traits by emphasizing the power of situations over dispositions?",
+    "type": "MCQ",
+    "options": {
+      "a": "Behaviorist psychology",
+      "b": "Situationist social psychology",
+      "c": "Psychoanalysis",
+      "d": "Phenomenology"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 95,
+    "question": "Ancient cosmologies often presented a finite, ordered universe, whereas contemporary cosmology entertains models of an expanding or even multiverse cosmos.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 96,
+    "question": "Which modern physical theory most clearly contrasts with Aristotle’s finite, geocentric universe?",
+    "type": "MCQ",
+    "options": {
+      "a": "Copernican heliocentrism and big bang cosmology",
+      "b": "Phlogiston theory",
+      "c": "Humoral theory of disease",
+      "d": "Classical logic"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 97,
+    "question": "Ancient wisdom traditions often integrated ethics, metaphysics, and spiritual practice, whereas some modern analytic philosophy tries to separate these and focus narrowly on logical clarity.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "Which 20th-century philosopher is emblematic of the analytic turn toward language and logic that would puzzle a Platonic or Vedic sage focused on spiritual ascent?",
+    "type": "MCQ",
+    "options": {
+      "a": "A. J. Ayer",
+      "b": "Karl Barth",
+      "c": "Hans Urs von Balthasar",
+      "d": "Martin Heidegger"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 99,
+    "question": "Ancient political philosophies often excluded many people from citizenship, whereas modern human rights theories insist that all persons deserve equal basic protections.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "Which modern document and tradition most clearly opposes ancient exclusionary citizenship by asserting equal basic rights for all humans?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Code of Hammurabi",
+      "b": "The Nicene Creed",
+      "c": "The Universal Declaration of Human Rights and modern rights discourse",
+      "d": "The Magna Carta alone"
+    },
+    "answer": "c"
+  }
+]

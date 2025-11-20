@@ -1,0 +1,1842 @@
+[
+  {
+    "question_id": 1,
+    "question": "Who painted a portrait of Vincent van Gogh in 1889?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vincent van Gogh",
+      "b": "Pablo Picasso",
+      "c": "Johannes Vermeer",
+      "d": "Leonardo da Vinci"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 2,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1785?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 3,
+    "question": "In which year did Leonardo da Vinci paint a portrait of Lisa Gherardini?",
+    "type": "MCQ",
+    "options": {
+      "a": "1583",
+      "b": "1423",
+      "c": "1383",
+      "d": "1503"
+    },
+    "answer": "d",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 4,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 5,
+    "question": "Which subject did Rembrandt paint in 1640?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vincent van Gogh",
+      "b": "Pope Innocent X",
+      "c": "Rembrandt",
+      "d": "Lisa Gherardini"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 6,
+    "question": "Who painted a portrait of Pope Innocent X in 1650?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vincent van Gogh",
+      "b": "Pablo Picasso",
+      "c": "Leonardo da Vinci",
+      "d": "Diego Velázquez"
+    },
+    "answer": "d",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 7,
+    "question": "Did Diego Velázquez paint a portrait of Rembrandt in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 8,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 9,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 10,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 11,
+    "question": "Did Rembrandt paint a portrait of Lisa Gherardini in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 12,
+    "question": "Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 13,
+    "question": "Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1623?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 14,
+    "question": "Which subject did Pablo Picasso paint in 1937?",
+    "type": "MCQ",
+    "options": {
+      "a": "Dora Maar",
+      "b": "Girl with a Pearl Earring",
+      "c": "Rembrandt",
+      "d": "Lisa Gherardini"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 15,
+    "question": "Which subject did Pablo Picasso paint in 1937?",
+    "type": "MCQ",
+    "options": {
+      "a": "Rembrandt",
+      "b": "Vincent van Gogh",
+      "c": "Dora Maar",
+      "d": "Girl with a Pearl Earring"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 16,
+    "question": "Who painted a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Vincent van Gogh",
+      "c": "Johannes Vermeer",
+      "d": "Rembrandt"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 17,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 18,
+    "question": "Who painted a portrait of Vincent van Gogh in 1889?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pablo Picasso",
+      "b": "Johannes Vermeer",
+      "c": "Vincent van Gogh",
+      "d": "Rembrandt"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 19,
+    "question": "Did Johannes Vermeer paint a portrait of Pope Innocent X in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 20,
+    "question": "Which subject did Pablo Picasso paint in 1937?",
+    "type": "MCQ",
+    "options": {
+      "a": "Lisa Gherardini",
+      "b": "Pope Innocent X",
+      "c": "Dora Maar",
+      "d": "Rembrandt"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 21,
+    "question": "Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 22,
+    "question": "Did Leonardo da Vinci paint a portrait of Girl with a Pearl Earring in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 23,
+    "question": "Did Vincent van Gogh paint a portrait of Girl with a Pearl Earring in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 24,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 25,
+    "question": "Did Vincent van Gogh paint a portrait of Rembrandt in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 26,
+    "question": "Did Pablo Picasso paint a portrait of Lisa Gherardini in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 27,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 28,
+    "question": "Did Rembrandt paint a portrait of Vincent van Gogh in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 29,
+    "question": "Did Diego Velázquez paint a portrait of Dora Maar in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 30,
+    "question": "Did Rembrandt paint a portrait of Girl with a Pearl Earring in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 31,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 32,
+    "question": "Who painted a portrait of Dora Maar in 1937?",
+    "type": "MCQ",
+    "options": {
+      "a": "Johannes Vermeer",
+      "b": "Diego Velázquez",
+      "c": "Pablo Picasso",
+      "d": "Vincent van Gogh"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 33,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 34,
+    "question": "Which subject did Pablo Picasso paint in 1937?",
+    "type": "MCQ",
+    "options": {
+      "a": "Girl with a Pearl Earring",
+      "b": "Pope Innocent X",
+      "c": "Dora Maar",
+      "d": "Vincent van Gogh"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 35,
+    "question": "Did Vincent van Gogh paint a portrait of Girl with a Pearl Earring in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 36,
+    "question": "Who painted a portrait of Rembrandt in 1640?",
+    "type": "MCQ",
+    "options": {
+      "a": "Diego Velázquez",
+      "b": "Rembrandt",
+      "c": "Vincent van Gogh",
+      "d": "Johannes Vermeer"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 37,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 38,
+    "question": "Who painted a portrait of Lisa Gherardini in 1503?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vincent van Gogh",
+      "b": "Rembrandt",
+      "c": "Leonardo da Vinci",
+      "d": "Pablo Picasso"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 39,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 40,
+    "question": "In which year did Diego Velázquez paint a portrait of Pope Innocent X?",
+    "type": "MCQ",
+    "options": {
+      "a": "1530",
+      "b": "1570",
+      "c": "1730",
+      "d": "1650"
+    },
+    "answer": "d",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 41,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 42,
+    "question": "Did Vincent van Gogh paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 43,
+    "question": "Who painted a portrait of Dora Maar in 1937?",
+    "type": "MCQ",
+    "options": {
+      "a": "Rembrandt",
+      "b": "Vincent van Gogh",
+      "c": "Pablo Picasso",
+      "d": "Diego Velázquez"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 44,
+    "question": "Which subject did Leonardo da Vinci paint in 1503?",
+    "type": "MCQ",
+    "options": {
+      "a": "Girl with a Pearl Earring",
+      "b": "Pope Innocent X",
+      "c": "Lisa Gherardini",
+      "d": "Vincent van Gogh"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 45,
+    "question": "Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 46,
+    "question": "Who painted a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "MCQ",
+    "options": {
+      "a": "Rembrandt",
+      "b": "Diego Velázquez",
+      "c": "Leonardo da Vinci",
+      "d": "Johannes Vermeer"
+    },
+    "answer": "d",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 47,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1720?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 48,
+    "question": "Did Diego Velázquez paint a portrait of Rembrandt in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 49,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 50,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1730?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 51,
+    "question": "Which subject did Leonardo da Vinci paint in 1503?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vincent van Gogh",
+      "b": "Lisa Gherardini",
+      "c": "Rembrandt",
+      "d": "Girl with a Pearl Earring"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 52,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 53,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 54,
+    "question": "Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1423?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 55,
+    "question": "Did Vincent van Gogh paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 56,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 57,
+    "question": "In which year did Rembrandt paint a portrait of Rembrandt?",
+    "type": "MCQ",
+    "options": {
+      "a": "1720",
+      "b": "1560",
+      "c": "1640",
+      "d": "1520"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 58,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 59,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1969?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 60,
+    "question": "Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 61,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1545?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 62,
+    "question": "Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 63,
+    "question": "Who painted a portrait of Lisa Gherardini in 1503?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Johannes Vermeer",
+      "c": "Pablo Picasso",
+      "d": "Diego Velázquez"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 64,
+    "question": "Did Vincent van Gogh paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 65,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 66,
+    "question": "Which subject did Diego Velázquez paint in 1650?",
+    "type": "MCQ",
+    "options": {
+      "a": "Dora Maar",
+      "b": "Girl with a Pearl Earring",
+      "c": "Pope Innocent X",
+      "d": "Lisa Gherardini"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 67,
+    "question": "Did Diego Velázquez paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 68,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 69,
+    "question": "Who painted a portrait of Pope Innocent X in 1650?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Diego Velázquez",
+      "c": "Johannes Vermeer",
+      "d": "Vincent van Gogh"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 70,
+    "question": "Did Pablo Picasso paint a portrait of Rembrandt in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 71,
+    "question": "Did Rembrandt paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 72,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 2057?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 73,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 74,
+    "question": "Did Leonardo da Vinci paint a portrait of Rembrandt in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 75,
+    "question": "Did Pablo Picasso paint a portrait of Girl with a Pearl Earring in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 76,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1770?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 77,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 78,
+    "question": "In which year did Diego Velázquez paint a portrait of Pope Innocent X?",
+    "type": "MCQ",
+    "options": {
+      "a": "1570",
+      "b": "1650",
+      "c": "1530",
+      "d": "1730"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 79,
+    "question": "In which year did Leonardo da Vinci paint a portrait of Lisa Gherardini?",
+    "type": "MCQ",
+    "options": {
+      "a": "1503",
+      "b": "1583",
+      "c": "1423",
+      "d": "1383"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 80,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1570?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 81,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 82,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 83,
+    "question": "Did Diego Velázquez paint a portrait of Lisa Gherardini in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 84,
+    "question": "In which year did Johannes Vermeer paint a portrait of Girl with a Pearl Earring?",
+    "type": "MCQ",
+    "options": {
+      "a": "1545",
+      "b": "1665",
+      "c": "1585",
+      "d": "1745"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 85,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 86,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 87,
+    "question": "In which year did Rembrandt paint a portrait of Rembrandt?",
+    "type": "MCQ",
+    "options": {
+      "a": "1720",
+      "b": "1560",
+      "c": "1640",
+      "d": "1520"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 88,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 89,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 90,
+    "question": "Did Diego Velázquez paint a portrait of Girl with a Pearl Earring in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 91,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 92,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 93,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1857?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 94,
+    "question": "Did Pablo Picasso paint a portrait of Lisa Gherardini in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 95,
+    "question": "Did Vincent van Gogh paint a portrait of Lisa Gherardini in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 96,
+    "question": "Which subject did Rembrandt paint in 1640?",
+    "type": "MCQ",
+    "options": {
+      "a": "Dora Maar",
+      "b": "Vincent van Gogh",
+      "c": "Girl with a Pearl Earring",
+      "d": "Rembrandt"
+    },
+    "answer": "d",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 97,
+    "question": "In which year did Vincent van Gogh paint a portrait of Vincent van Gogh?",
+    "type": "MCQ",
+    "options": {
+      "a": "1889",
+      "b": "1809",
+      "c": "1769",
+      "d": "1969"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 98,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 99,
+    "question": "Did Pablo Picasso paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 100,
+    "question": "Did Johannes Vermeer paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 101,
+    "question": "In which year did Leonardo da Vinci paint a portrait of Lisa Gherardini?",
+    "type": "MCQ",
+    "options": {
+      "a": "1583",
+      "b": "1423",
+      "c": "1383",
+      "d": "1503"
+    },
+    "answer": "d",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 102,
+    "question": "Did Johannes Vermeer paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 103,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 104,
+    "question": "Which subject did Rembrandt paint in 1640?",
+    "type": "MCQ",
+    "options": {
+      "a": "Girl with a Pearl Earring",
+      "b": "Vincent van Gogh",
+      "c": "Rembrandt",
+      "d": "Lisa Gherardini"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 105,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 106,
+    "question": "Did Diego Velázquez paint a portrait of Vincent van Gogh in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 107,
+    "question": "Did Pablo Picasso paint a portrait of Vincent van Gogh in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 108,
+    "question": "Did Rembrandt paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 109,
+    "question": "Did Leonardo da Vinci paint a portrait of Rembrandt in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 110,
+    "question": "Did Pablo Picasso paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 111,
+    "question": "Which subject did Diego Velázquez paint in 1650?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pope Innocent X",
+      "b": "Lisa Gherardini",
+      "c": "Girl with a Pearl Earring",
+      "d": "Dora Maar"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 112,
+    "question": "Which subject did Rembrandt paint in 1640?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vincent van Gogh",
+      "b": "Girl with a Pearl Earring",
+      "c": "Lisa Gherardini",
+      "d": "Rembrandt"
+    },
+    "answer": "d",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 113,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 114,
+    "question": "Which subject did Vincent van Gogh paint in 1889?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pope Innocent X",
+      "b": "Vincent van Gogh",
+      "c": "Girl with a Pearl Earring",
+      "d": "Rembrandt"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 115,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 116,
+    "question": "Did Johannes Vermeer paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 117,
+    "question": "Did Diego Velázquez paint a portrait of Rembrandt in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 118,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 119,
+    "question": "Did Johannes Vermeer paint a portrait of Pope Innocent X in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 120,
+    "question": "Did Leonardo da Vinci paint a portrait of Dora Maar in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 121,
+    "question": "Did Diego Velázquez paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 122,
+    "question": "Did Diego Velázquez paint a portrait of Rembrandt in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 123,
+    "question": "Who painted a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Diego Velázquez",
+      "c": "Rembrandt",
+      "d": "Johannes Vermeer"
+    },
+    "answer": "d",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 124,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 125,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 126,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 127,
+    "question": "In which year did Johannes Vermeer paint a portrait of Girl with a Pearl Earring?",
+    "type": "MCQ",
+    "options": {
+      "a": "1745",
+      "b": "1545",
+      "c": "1665",
+      "d": "1585"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 128,
+    "question": "Who painted a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vincent van Gogh",
+      "b": "Johannes Vermeer",
+      "c": "Pablo Picasso",
+      "d": "Leonardo da Vinci"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 129,
+    "question": "In which year did Diego Velázquez paint a portrait of Pope Innocent X?",
+    "type": "MCQ",
+    "options": {
+      "a": "1570",
+      "b": "1650",
+      "c": "1530",
+      "d": "1730"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 130,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 131,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 132,
+    "question": "Did Vincent van Gogh paint a portrait of Pope Innocent X in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 133,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1817?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 134,
+    "question": "Did Rembrandt paint a portrait of Vincent van Gogh in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 135,
+    "question": "In which year did Leonardo da Vinci paint a portrait of Lisa Gherardini?",
+    "type": "MCQ",
+    "options": {
+      "a": "1503",
+      "b": "1583",
+      "c": "1423",
+      "d": "1383"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 136,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 137,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1809?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 138,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 139,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 140,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 141,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 142,
+    "question": "Which subject did Johannes Vermeer paint in 1665?",
+    "type": "MCQ",
+    "options": {
+      "a": "Lisa Gherardini",
+      "b": "Dora Maar",
+      "c": "Girl with a Pearl Earring",
+      "d": "Rembrandt"
+    },
+    "answer": "c",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 143,
+    "question": "Did Vincent van Gogh paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 144,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 145,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 146,
+    "question": "Which subject did Leonardo da Vinci paint in 1503?",
+    "type": "MCQ",
+    "options": {
+      "a": "Lisa Gherardini",
+      "b": "Rembrandt",
+      "c": "Vincent van Gogh",
+      "d": "Dora Maar"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 147,
+    "question": "Did Pablo Picasso paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 148,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 149,
+    "question": "Did Vincent van Gogh paint a portrait of Vincent van Gogh in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 150,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 151,
+    "question": "Did Rembrandt paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 152,
+    "question": "Did Rembrandt paint a portrait of Rembrandt in 1640?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 153,
+    "question": "Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 154,
+    "question": "Did Johannes Vermeer paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 155,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1857?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 156,
+    "question": "Did Pablo Picasso paint a portrait of Rembrandt in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 157,
+    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1650?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 158,
+    "question": "Did Pablo Picasso paint a portrait of Dora Maar in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 159,
+    "question": "Did Pablo Picasso paint a portrait of Lisa Gherardini in 1937?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  },
+  {
+    "question_id": 160,
+    "question": "Did Diego Velázquez paint a portrait of Girl with a Pearl Earring in 1665?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "question_id": 1,
+    "question": "In a society that is politically democratic, culturally conservative, economically capitalist, and committed to strong global redistribution, it is plausible that high taxes on wealth would coexist with strict family and moral laws.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "In a democratic, conservative, capitalist society with strong global redistribution, which institutional tension is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "Conflicts between business elites and voters over high international tax transfers",
+      "b": "Conflicts between the military and the clergy over basic arithmetic",
+      "c": "Conflicts between geologists and poets about plate tectonics",
+      "d": "Conflicts between inventors and farmers over the definition of daylight"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 3,
+    "question": "If a technocratic world government relied on a unified scientific theory accepted by all researchers, it is likely that policy debates would shift more toward values and priorities than disputes about basic facts.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "In a world-state run by scientists using a unified theory of nature, with markets still handling everyday goods, which political controversy would most likely remain?",
+    "type": "MCQ",
+    "options": {
+      "a": "Whether quantum mechanics is real",
+      "b": "How to balance efficiency vs. fairness when applying scientifically informed policies",
+      "c": "Whether gravity exists",
+      "d": "Whether numbers can be added"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 5,
+    "question": "A monarchy that embraces radical egalitarian ethics, strong unions, and universal basic income could still maintain a symbolic royal family while distributing most economic power to workers and citizens.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "In a hereditary monarchy with radical egalitarian economics and universal basic income, which role would the monarch most plausibly end up playing?",
+    "type": "MCQ",
+    "options": {
+      "a": "CEO of all major corporations",
+      "b": "Largely ceremonial unifying symbol with limited direct economic control",
+      "c": "Sole author of all scientific textbooks",
+      "d": "Manager of every individual’s personal budget"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 7,
+    "question": "In a post-scarcity society where advanced automation provides material abundance, it is still plausible that status competition would persist through art, reputation, or influence instead of wealth.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 8,
+    "question": "In a post-scarcity world with guaranteed material needs, which new inequality is most likely to become socially central?",
+    "type": "MCQ",
+    "options": {
+      "a": "Access to clean water",
+      "b": "Ownership of physical gold",
+      "c": "Differences in attention, prestige, and decision-making influence",
+      "d": "Availability of firewood"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 9,
+    "question": "A society could be highly collectivist in culture but still use competitive global markets to allocate resources, leading to firms run cooperatively by workers selling into capitalist world trade.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "In a culturally collectivist but market-based economy, which institutional form is most consistent?",
+    "type": "MCQ",
+    "options": {
+      "a": "Worker-owned cooperatives competing on international stock exchanges",
+      "b": "Only individual freelancers with no group ownership",
+      "c": "A total ban on all contracts",
+      "d": "Firms managed exclusively by foreign monarchs"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 11,
+    "question": "If a global federation adopted strict environmental limits and carbon budgets while keeping national militaries, it is plausible that disputes over resource quotas could become a major source of conflict.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "In a world with binding global climate quotas but independent armies, which risk is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Wars sparked by accusations of exceeding emissions allocations",
+      "b": "Wars over the correct spelling of \"climate\"",
+      "c": "Wars because gravity suddenly stops working",
+      "d": "Wars to determine the value of the number three"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 13,
+    "question": "A libertarian society that strongly protects individual property rights could still support a minimal universal safety net funded by a flat consumption tax, without abandoning private ownership as a principle.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "In a highly libertarian economy with a small basic income, which policy would most likely be controversial among libertarians themselves?",
+    "type": "MCQ",
+    "options": {
+      "a": "Eliminating most price controls",
+      "b": "Using mandatory taxes to fund a universal cash benefit",
+      "c": "Allowing voluntary charities",
+      "d": "Protecting freedom of contract"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 15,
+    "question": "It is possible to imagine a highly religious society that nonetheless embraces a rigorous scientific method and funds secular laboratories, treating faith and empirical research as separate spheres.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "In a deeply religious but scientifically advanced society, which arrangement is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Scientists must recite religious texts before every experiment but otherwise use standard empirical methods",
+      "b": "Scientific journals are banned outright",
+      "c": "All experiments are replaced by guessing",
+      "d": "Mathematics is outlawed"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "A global socialist economy could still make heavy use of market-like price signals internally, treating them as planning tools rather than as expressions of private ownership.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "In a worldwide socialist system using markets for coordination, which feature is most consistent with the design?",
+    "type": "MCQ",
+    "options": {
+      "a": "Enterprises owned by private dynasties",
+      "b": "State or cooperative ownership of most firms, with prices set by trading among them",
+      "c": "Complete abolition of currency",
+      "d": "Absolute prohibition on comparing costs"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 19,
+    "question": "A high-tech authoritarian regime might provide generous welfare, universal healthcare, and free education while tightly controlling expression and political opposition.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "In an authoritarian welfare state with advanced surveillance, which trade-off is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "High social security but low privacy and limited dissent",
+      "b": "No government services but unlimited voting",
+      "c": "Total absence of technology",
+      "d": "Complete rural self-sufficiency without any state presence"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 21,
+    "question": "A world where AI systems run most administrative tasks while elected humans still set goals would likely face debates about whether algorithms are biased or transparent enough.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "In a human-democratic but AI-administered government, which new institution is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "An independent \"algorithm court\" auditing models for fairness and accountability",
+      "b": "A ministry devoted to banning calculators",
+      "c": "A law that forbids any digital storage",
+      "d": "A council of horses reviewing legislation"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "A society that is culturally individualist but has public ownership of key industries might celebrate personal lifestyle freedom while restricting private monopolies in energy or transportation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 24,
+    "question": "In an individualist culture with public ownership of infrastructure, which combination is most coherent?",
+    "type": "MCQ",
+    "options": {
+      "a": "State-run railways plus strong protection for diverse lifestyles and speech",
+      "b": "Mandatory identical clothing for all citizens",
+      "c": "Illegal private opinions about art",
+      "d": "Prohibition on any personal hobbies"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "A global order could, in principle, combine open borders for people with strict tariffs on goods, leading to high migration but protection of local industries.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 26,
+    "question": "In a world with free movement of people but heavy tariffs on physical imports, which outcome is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "Increased incentives for people to move rather than ship goods",
+      "b": "Complete disappearance of migration",
+      "c": "Instant universal basic robots for everyone",
+      "d": "No domestic production anywhere"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "A planet-wide council could enforce strict anti-war rules while allowing intense economic competition, making trade rivalries more important than military ones.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "In a world where war is banned by credible global enforcement, which conflict channel becomes most prominent?",
+    "type": "MCQ",
+    "options": {
+      "a": "Tariffs, sanctions, and technological competition",
+      "b": "Artillery duels between cities",
+      "c": "Nuclear exchanges every decade",
+      "d": "Daily cavalry charges across borders"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 29,
+    "question": "A civilization could adopt radical transparency laws, requiring all government meetings and budgets to be public, while still keeping individual health data private.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "In a regime of radical transparency, which policy best matches the principle while preserving basic privacy?",
+    "type": "MCQ",
+    "options": {
+      "a": "Publishing all government decisions and contracts while anonymizing citizens’ medical records",
+      "b": "Publishing every citizen’s full browsing history",
+      "c": "Hiding all government budgets",
+      "d": "Banning independent journalism"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "It is plausible to have a society that bans inheritance of wealth but fully allows high incomes during one’s lifetime, aiming to reduce dynasties while preserving strong incentives to work and innovate.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "If inheritance is abolished but high earnings are allowed, which effect is most likely over generations?",
+    "type": "MCQ",
+    "options": {
+      "a": "Reduced long-term concentration of wealth in family lineages",
+      "b": "Total end of entrepreneurship",
+      "c": "Elimination of savings accounts",
+      "d": "People forgetting how to spend money"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 33,
+    "question": "A democracy might constitutionally guarantee representation for future generations through special \"future councils\" that can veto environmentally destructive laws.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "In a system with an elected parliament plus a council representing future generations, which power is most plausible for that council?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vetoing laws that exceed agreed ecological limits",
+      "b": "Choosing everyone’s favorite music",
+      "c": "Setting daily school lunch menus worldwide",
+      "d": "Deciding all traffic light timings personally"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 35,
+    "question": "A militarily weak but economically dominant trading bloc could shape global norms mainly through access to its consumer markets rather than through force.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 36,
+    "question": "In a world where one trade bloc dominates demand but has little military power, which tool becomes its main leverage?",
+    "type": "MCQ",
+    "options": {
+      "a": "Market access and regulation of product standards",
+      "b": "Nuclear strikes",
+      "c": "Space-based lasers",
+      "d": "Personal speeches by generals"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "A culturally pacifist society could still maintain an automated robotic defense system to deter invasion, while keeping human citizens out of combat roles entirely.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "In a pacifist culture relying on automated defense, which ethical worry is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "Responsibility for autonomous weapons decisions",
+      "b": "Lack of enough swords for parades",
+      "c": "Forgetfulness about arithmetic",
+      "d": "Shortage of fiction books"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "A city-state that mandates direct digital voting on most laws could still appoint expert committees to draft complex legislation before citizens approve or reject it.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "In a highly direct digital democracy, which institutional design is most plausible to manage complexity?",
+    "type": "MCQ",
+    "options": {
+      "a": "Expert panels propose laws, but final approval requires citizen referenda",
+      "b": "Random laws appear without authors",
+      "c": "Only children under 10 may vote",
+      "d": "Voting is permitted only once every 200 years"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 41,
+    "question": "It is logically possible for a state to guarantee strong freedom of speech while still restricting campaign finance and political advertising to reduce unequal influence of money.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "In a regime with wide speech rights but tight campaign finance limits, which activity is most likely to be regulated?",
+    "type": "MCQ",
+    "options": {
+      "a": "Large corporate donations to candidates",
+      "b": "Private conversations at home",
+      "c": "Reading philosophy books",
+      "d": "Writing poetry in a notebook"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 43,
+    "question": "A society could simultaneously value meritocratic exams for public office and still reserve a portion of positions for historically marginalized groups to correct past injustice.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "In a system combining exams with quotas for underrepresented groups, which tension is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "Debates over how to measure merit and fairness together",
+      "b": "Arguments about whether water is wet",
+      "c": "Disputes about the existence of numbers",
+      "d": "Conflicts over the color of traffic lights"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 45,
+    "question": "A continental union might allow each member country to choose its own cultural policies while enforcing common rules on pollution and cross-border crime.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "In such a multi-level union, which area is most plausibly kept at the union level instead of the local state level?",
+    "type": "MCQ",
+    "options": {
+      "a": "Regulation of cross-border environmental damage",
+      "b": "Choice of local folk music traditions",
+      "c": "Decisions about regional dialects",
+      "d": "Selection of school mascots"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 47,
+    "question": "A global health treaty could require automatic data sharing about outbreaks while still allowing countries to choose their own cultural messaging around vaccination.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 48,
+    "question": "Under a global health treaty with mandatory outbreak reporting, which national freedom is most likely preserved?",
+    "type": "MCQ",
+    "options": {
+      "a": "Design of culturally tailored public education campaigns",
+      "b": "Right to conceal emerging pandemics",
+      "c": "Right to falsify medical data",
+      "d": "Right to block all scientific research"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 49,
+    "question": "A world with fully open scientific publications but strong encryption for personal data could promote rapid innovation while still protecting individual privacy.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 50,
+    "question": "In a system where all research results are open but personal data are tightly encrypted, which practice is most consistent?",
+    "type": "MCQ",
+    "options": {
+      "a": "Publishing aggregated statistics while hiding individual identities",
+      "b": "Publishing everyone’s full medical record",
+      "c": "Banning all academic journals",
+      "d": "Destroying all laboratory notebooks"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 51,
+    "question": "A small island society could adopt universal vegetarianism for ethical reasons while still participating in global trade of non-animal goods and services.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "If an island bans consumption of animal products but trades globally, which imported good is most likely allowed?",
+    "type": "MCQ",
+    "options": {
+      "a": "Laptops built elsewhere",
+      "b": "Beef steaks from another country",
+      "c": "Whale meat",
+      "d": "Ivory jewelry"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 53,
+    "question": "A city focused on radical innovation could designate special \"experimental districts\" where new technologies and regulations are tried before being adopted citywide.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "In a city with experimental districts, which safeguard is most reasonable?",
+    "type": "MCQ",
+    "options": {
+      "a": "Requiring residents’ consent and time limits for risky experiments",
+      "b": "Banning all emergency services",
+      "c": "Outlawing exit from the district",
+      "d": "Erasing all records of outcomes"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 55,
+    "question": "A global digital currency issued by an independent international institution could coexist with local physical currencies used mainly for small transactions and cultural reasons.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "In a dual-currency world, which pattern is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "The global digital unit dominates large cross-border trade, while local notes remain for daily purchases",
+      "b": "No one uses the global currency at all",
+      "c": "Local currencies disappear overnight without planning",
+      "d": "Physical coins are used only in orbit"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 57,
+    "question": "A highly educated society could still choose to slow the adoption of certain technologies (like human germline editing) on ethical grounds, even if they are technically feasible.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "In a technically advanced but ethically cautious society, which institution is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Bioethics councils that can delay or limit specific applications",
+      "b": "A law banning high school biology",
+      "c": "A rule against learning mathematics",
+      "d": "A requirement to destroy all microscopes"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "It is conceivable for a state to have mandatory national service that includes non-military options like healthcare or climate work, allowing conscientious objectors to serve without carrying weapons.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "In a country with mandatory but flexible national service, which policy best matches the model?",
+    "type": "MCQ",
+    "options": {
+      "a": "Allowing service in hospitals, schools, or environmental projects instead of the army",
+      "b": "Sending all draftees directly to combat zones",
+      "c": "Offering no non-military options at all",
+      "d": "Banning public service of any kind"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 61,
+    "question": "A federation of ocean-based floating cities could share common maritime law while each city experiments with its own education and housing policies.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "Within floating-city federations, which domain is most logically standardized across all member cities?",
+    "type": "MCQ",
+    "options": {
+      "a": "Rules for collision avoidance and maritime safety",
+      "b": "Choice of local cuisine",
+      "c": "Color of building roofs",
+      "d": "Number of holidays per year"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 63,
+    "question": "A future Mars colony could adopt direct democracy for local matters while still answering to a broader interplanetary charter agreed with Earth-based institutions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "In a Mars colony with local direct democracy under an interplanetary charter, which conflict is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Disputes over how much autonomy the colony has in resource extraction and environmental impact",
+      "b": "Disputes about whether Mars exists",
+      "c": "Arguments over the value of zero",
+      "d": "Conflicts about the shape of musical notes"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 65,
+    "question": "A society could constitutionally protect both strong press freedom and a right to be forgotten online, forcing news outlets to balance archival value against personal privacy over time.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 66,
+    "question": "In a system that values press freedom and a right to be forgotten, which mechanism is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Independent tribunals weighing public interest against individual harm before ordering data removal",
+      "b": "Automatic deletion of all news every day",
+      "c": "Permanent bans on investigative reporting",
+      "d": "Requirement that all citizens forget the news manually"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 67,
+    "question": "A civilization could pair strict intellectual property rights for a short time with automatic release of all works into the public domain after a brief period, speeding cultural remixing.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "With short IP terms followed by rapid public-domain release, which effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "More rapid reuse and adaptation of recent cultural works",
+      "b": "Complete end of innovation",
+      "c": "No one bothering to create anything",
+      "d": "Immediate disappearance of books"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 69,
+    "question": "A society that highly values stability might constitutionally limit how fast laws can change, for example by requiring long transition periods for major reforms.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "In a system that fears rapid legal shifts, which safeguard is most coherent?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mandatory waiting periods and multi-step approval for major new legislation",
+      "b": "Allowing the leader to rewrite all laws overnight",
+      "c": "Outlawing any debate about laws",
+      "d": "Having no written laws at all"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 71,
+    "question": "A fiercely capitalist global economy could still adopt strong antitrust rules and break up companies that accumulate too much market power, to preserve competition itself.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "In an aggressively pro-market system, which intervention best reflects a desire to protect capitalism rather than abolish it?",
+    "type": "MCQ",
+    "options": {
+      "a": "Splitting dominant firms to prevent monopolies",
+      "b": "Nationalizing all businesses permanently",
+      "c": "Banning private contracts",
+      "d": "Fixing all prices centrally"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 73,
+    "question": "A technologically advanced society might provide free basic internet access as a right while allowing premium paid services for faster speeds or extras.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "In a world where basic internet is a right, which inequality is most likely to remain?",
+    "type": "MCQ",
+    "options": {
+      "a": "Differences in speed, quality of devices, and digital skills",
+      "b": "Differences in access to oxygen",
+      "c": "Differences in the existence of gravity",
+      "d": "Differences in whether numbers exist"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 75,
+    "question": "A society could try to combine strong freedom of religion with a fully secular state, meaning laws are justified without reference to any sacred text even if citizens are personally devout.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "In a secular but religiously free polity, which practice is most consistent?",
+    "type": "MCQ",
+    "options": {
+      "a": "Allowing any worship, but requiring public laws to appeal to general reasons accessible to all citizens",
+      "b": "Banning private prayer",
+      "c": "Making one holy book the constitution",
+      "d": "Outlawing all scientific research"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 77,
+    "question": "A country could run on radically participatory budgeting where citizens vote on large spending categories, while experts still design the technical details of specific projects.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "In participatory budgeting, which division of labor is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Citizens set priorities; engineers and administrators implement them efficiently",
+      "b": "Citizens personally build all infrastructure",
+      "c": "Only unelected experts make decisions",
+      "d": "Budgets are decided by random coin flips"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 79,
+    "question": "It is possible for a local community to collectively own land while allowing individuals to trade long-term usage rights, blending communal and market systems.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 80,
+    "question": "In a system with communal land ownership and tradable use rights, which institution is most coherent?",
+    "type": "MCQ",
+    "options": {
+      "a": "A community land trust leasing parcels on long-term contracts",
+      "b": "A rule that no one may ever farm",
+      "c": "Complete ban on any contracts",
+      "d": "Permanent fencing-off of all land from human access"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 81,
+    "question": "A society that adopts restorative justice could still use prisons for a small set of dangerous offenders while prioritizing mediation and restitution for most crimes.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "Under a largely restorative system, which use of prison is most likely to remain?",
+    "type": "MCQ",
+    "options": {
+      "a": "For individuals who pose ongoing serious physical danger that cannot be mitigated otherwise",
+      "b": "For anyone who fails a math test",
+      "c": "For people who disagree about music",
+      "d": "For citizens who forget birthdays"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 83,
+    "question": "A global system could grant legal personhood to some ecosystems (like major rivers or forests) while still permitting regulated economic use of their resources.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "In a world where rivers have legal personhood, which legal mechanism is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Guardians appointed to represent the ecosystem’s interests in court",
+      "b": "Rivers personally signing contracts",
+      "c": "Complete prohibition on humans approaching water",
+      "d": "Requirement that all fish become lawyers"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 85,
+    "question": "A nation might require all large corporations to include worker and community representatives on their boards, blending shareholder capitalism with stakeholder governance.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 86,
+    "question": "In a stakeholder-governance model, which board composition is most aligned with the policy?",
+    "type": "MCQ",
+    "options": {
+      "a": "Seats reserved for investors, employees, and perhaps local community delegates",
+      "b": "Only distant shareholders allowed on boards",
+      "c": "Boards composed solely of random tourists",
+      "d": "No boards at all, just one lifelong CEO"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 87,
+    "question": "A society could embrace strong data-driven planning while also requiring that major algorithms are open source, allowing citizens to inspect and critique them.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 88,
+    "question": "In a data-planned but open-source society, which practice best fits?",
+    "type": "MCQ",
+    "options": {
+      "a": "Publishing code used for credit scores and welfare eligibility",
+      "b": "Making all algorithms secret by law",
+      "c": "Banning programming languages",
+      "d": "Erasing logs of all decisions"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "A region might permit secession through a clearly defined legal process, aiming to reduce violence by giving dissatisfied areas a peaceful exit option.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 90,
+    "question": "If peaceful secession is allowed under strict rules, which requirement is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Multiple high-threshold referenda over time in the region seeking independence",
+      "b": "No votes at all",
+      "c": "Decision by a single foreign tourist",
+      "d": "Automatic splitting whenever anyone moves house"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 91,
+    "question": "A global education compact could guarantee every child basic literacy and numeracy while leaving advanced curriculum choices to regional cultures and economies.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "Under a global minimum education standard, which subject is most likely mandated everywhere?",
+    "type": "MCQ",
+    "options": {
+      "a": "Basic reading, writing, and arithmetic",
+      "b": "Advanced quantum field theory",
+      "c": "Local folk dancing only",
+      "d": "One specific national history for all"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 93,
+    "question": "A city that bans private car ownership but provides extensive public transit, bike lanes, and shared fleets could reduce congestion while still letting people move freely.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "In a no-private-car city, which mobility policy is most consistent?",
+    "type": "MCQ",
+    "options": {
+      "a": "High-frequency transit plus shared electric vehicles for special needs",
+      "b": "No transportation of any kind",
+      "c": "Mandatory daily parades on horseback",
+      "d": "Banning sidewalks"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 95,
+    "question": "A global culture could celebrate many languages but still adopt one auxiliary language for diplomacy and science to reduce translation costs, without suppressing local tongues.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 96,
+    "question": "In a multilingual world with a shared auxiliary language, which pattern is most likely?",
+    "type": "MCQ",
+    "options": {
+      "a": "People use their native language at home and the auxiliary one in international settings",
+      "b": "All local languages are outlawed",
+      "c": "Only the auxiliary language survives",
+      "d": "Writing is banned entirely"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 97,
+    "question": "A future civilization could treat access to clean energy as a fundamental right while still charging market prices for luxury goods like space tourism.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "In a world with guaranteed basic energy but market-priced luxuries, which good is most likely provided free or cheaply to everyone?",
+    "type": "MCQ",
+    "options": {
+      "a": "Minimum household electricity for lighting and communication",
+      "b": "Private asteroid yachts",
+      "c": "Personal palaces on the Moon",
+      "d": "Custom-designed galaxies"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 99,
+    "question": "A planetary-scale democracy could use randomly selected citizen assemblies to review major policies, combining mass elections with sortition-based deliberation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "In a global system that mixes elections with citizen assemblies chosen by lot, which function is most plausible for those assemblies?",
+    "type": "MCQ",
+    "options": {
+      "a": "Studying complex proposals and issuing recommendations or vetoes",
+      "b": "Deciding the outcome of sports events",
+      "c": "Choosing everyone’s favorite color",
+      "d": "Replacing all courts, schools, and hospitals with dice rolls"
+    },
+    "answer": "a"
+  }
+]

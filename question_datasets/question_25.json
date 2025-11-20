@@ -1,0 +1,1102 @@
+[
+  {
+    "question_id": 1,
+    "question": "Given that the woolly mammoth was adapted to Ice Age tundra, could it survive long-term in a modern tropical rainforest without human-built cold habitats?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 2,
+    "question": "If a small population of woolly mammoths were brought into today’s Arctic with human support, which condition would most likely be necessary for their survival?",
+    "type": "MCQ",
+    "options": {
+      "a": "Year-round access to dense jungle vegetation",
+      "b": "Cool open habitats with ample grasses and shrubs",
+      "c": "Permanent underground cave systems",
+      "d": "Exclusive diet of marine plankton"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 3,
+    "question": "Could a large non-avian dinosaur like Tyrannosaurus rex survive in today’s world if it were suddenly transported here, assuming no immediate human interference?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 4,
+    "question": "Which factor would most likely make it difficult for a Tyrannosaurus rex to survive in modern ecosystems?",
+    "type": "MCQ",
+    "options": {
+      "a": "Lack of oxygen in the modern atmosphere",
+      "b": "Changes in prey availability and human-dominated landscapes",
+      "c": "The absence of any plant life",
+      "d": "Complete disappearance of gravity-related effects"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 5,
+    "question": "Could a modern human with current biology survive in the Jurassic period without any technological protection?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 6,
+    "question": "If humans were transported to the Jurassic period, which challenge would most likely threaten their survival first?",
+    "type": "MCQ",
+    "options": {
+      "a": "Slightly different length of Earth’s day",
+      "b": "Lack of breathable nitrogen",
+      "c": "Exposure to unfamiliar pathogens, predators, and absence of infrastructure",
+      "d": "Total absence of freshwater on the planet"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 7,
+    "question": "Could a modern polar bear survive in the middle of the last Ice Age if introduced into its natural Arctic-type habitats?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 8,
+    "question": "What would most likely determine whether polar bears could thrive during the Ice Age?",
+    "type": "MCQ",
+    "options": {
+      "a": "Availability of sea ice and marine mammals as prey",
+      "b": "Presence of flowering garden plants",
+      "c": "Access to tropical coral reefs",
+      "d": "Ability to hibernate like reptiles"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 9,
+    "question": "Could a modern tropical coral reef survive if it were placed in the cold waters of the last Ice Age oceans without any adaptation?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 10,
+    "question": "Which environmental factor would most likely doom a modern coral reef transplanted into a glacial-period cold ocean?",
+    "type": "MCQ",
+    "options": {
+      "a": "Too much dissolved oxygen",
+      "b": "Low temperature and altered chemistry outside corals’ tolerance range",
+      "c": "Lack of volcanic rocks on the seafloor",
+      "d": "Too many flowering plants on land"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 11,
+    "question": "Could a trilobite from the Paleozoic era survive in today’s oceans if suddenly revived and placed on a modern seafloor?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 12,
+    "question": "Which reason best explains why trilobites would struggle in modern oceans?",
+    "type": "MCQ",
+    "options": {
+      "a": "They require liquid methane instead of water",
+      "b": "Modern marine ecosystems have new predators and competitors they never evolved with",
+      "c": "They cannot tolerate any level of dissolved oxygen",
+      "d": "They can only live in freshwater lakes"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 13,
+    "question": "Could a modern cockroach survive in a Carboniferous forest, where oxygen levels were higher than today?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "Why might modern insects like cockroaches be able to survive in the Carboniferous period?",
+    "type": "MCQ",
+    "options": {
+      "a": "They can photosynthesize like plants",
+      "b": "They are small generalists that can feed on many decaying plant materials",
+      "c": "They require total darkness at all times",
+      "d": "They need extremely low oxygen levels"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 15,
+    "question": "Could a Neanderthal, if transported to the present day, physically survive Earth’s modern atmosphere and gravity without medical support?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "What would be the main challenges for a Neanderthal trying to live in the present era, assuming basic shelter and food are provided?",
+    "type": "MCQ",
+    "options": {
+      "a": "Incompatible blood type with modern oxygen",
+      "b": "Inability to see visible light",
+      "c": "Social, cultural, and disease-related adaptation issues",
+      "d": "Lack of bones adapted to walking upright"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 17,
+    "question": "Could a sabertooth cat (Smilodon) survive in a modern African savanna if introduced with naturally occurring prey species and no human interference?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "Which factor would most strongly influence whether sabertooth cats could establish a stable population today?",
+    "type": "MCQ",
+    "options": {
+      "a": "Presence of modern herbivores of appropriate size and density",
+      "b": "Availability of coniferous forest with snow",
+      "c": "Access to deep ocean trenches",
+      "d": "Requirement for low-oxygen mountaintops only"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "Could a modern blue whale survive in Jurassic seas if transported there with adequate krill-like prey available?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "Which condition would be most critical for a blue whale surviving in Jurassic oceans?",
+    "type": "MCQ",
+    "options": {
+      "a": "Water made only of fresh snowmelt",
+      "b": "Sufficient biomass of small planktonic organisms to filter-feed on",
+      "c": "Completely silent oceans with no other life",
+      "d": "Only shallow lakes and rivers"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 21,
+    "question": "Could early land plants from the Devonian era tolerate the modern atmosphere, given that oxygen levels and CO2 are different today?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "What would most likely determine whether Devonian plants could survive in modern environments?",
+    "type": "MCQ",
+    "options": {
+      "a": "Their ability to adapt to new herbivores and climate conditions",
+      "b": "The existence of giant insects over three meters tall",
+      "c": "The absence of any soil bacteria",
+      "d": "A total lack of rainfall on Earth"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "Could a modern cactus species like the saguaro survive in the wetter, cooler conditions of the last glacial maximum without any changes?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 24,
+    "question": "Which scenario would give a desert cactus the best chance of surviving during the last Ice Age?",
+    "type": "MCQ",
+    "options": {
+      "a": "Placement in a cold, dry steppe with well-drained soil and occasional warmth",
+      "b": "Submerging it in glacial meltwater lakes year-round",
+      "c": "Keeping it permanently in deep shade of dense rainforests",
+      "d": "Moving it to the ocean floor"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "Could modern humans survive as hunter-gatherers in the late Pleistocene environment if they had no technology beyond stone tools and clothing?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 26,
+    "question": "Which factor would most support modern humans surviving in the late Pleistocene era?",
+    "type": "MCQ",
+    "options": {
+      "a": "Their ability to digest rocks and minerals directly",
+      "b": "Their complex social learning and problem-solving skills",
+      "c": "Immunity to all infectious diseases automatically",
+      "d": "Genetic resistance to cold that requires no clothing"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 27,
+    "question": "Could a modern house cat survive in an early agricultural Neolithic village environment if transported back in time?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "What advantage would a modern house cat likely have in a Neolithic setting?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ability to communicate using human speech",
+      "b": "Instinct to hunt rodents, reducing grain loss",
+      "c": "Photosynthesis through its fur",
+      "d": "Requirement to live only in saltwater"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 29,
+    "question": "Could a large flightless bird like a moa survive in a modern fenced wildlife reserve if humans protected it from major predators?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "What would be the primary requirement for a reintroduced moa in the modern era to survive?",
+    "type": "MCQ",
+    "options": {
+      "a": "A diet consisting entirely of plastic",
+      "b": "A large, suitable grazing habitat with controlled predators",
+      "c": "Constant exposure to bright city lights",
+      "d": "Living only inside underground caves"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 31,
+    "question": "Could a modern oak tree survive in a mild climate of the early Holocene, similar to just after the last Ice Age?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "Which aspect of early Holocene environments would most help modern oak trees survive?",
+    "type": "MCQ",
+    "options": {
+      "a": "Presence of soil, seasonal climate, and sufficient rainfall",
+      "b": "Total absence of carbon dioxide",
+      "c": "Only frozen tundra with no liquid water",
+      "d": "Complete lack of insect life"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 33,
+    "question": "Could modern freshwater fish like trout survive in many ancient lakes if water chemistry and temperature were within their tolerances?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "What would be most important for a trout transplanted into a late Pleistocene lake?",
+    "type": "MCQ",
+    "options": {
+      "a": "Having identical fish species as neighbors",
+      "b": "Appropriate oxygen levels, temperature, and food sources",
+      "c": "Presence of electronic sonar devices",
+      "d": "Being exposed to modern fishing lures"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 35,
+    "question": "Could a modern honeybee colony survive in a world without flowering plants, such as before angiosperms evolved?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 36,
+    "question": "Why would a pre-flowering-plant Earth be inhospitable to modern honeybees?",
+    "type": "MCQ",
+    "options": {
+      "a": "No nectar or pollen sources from flowers",
+      "b": "Complete lack of sunlight",
+      "c": "Atmosphere made only of helium",
+      "d": "Earth spinning too slowly"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "Could a modern camel survive in a Pleistocene cold steppe environment if given enough dry vegetation and shelter?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "What trait might help camels in a Pleistocene steppe landscape?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ability to store fat and endure scarce food and water",
+      "b": "Need for constant tropical rainfall",
+      "c": "Dependence on coral reefs",
+      "d": "Requirement of zero wind"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "Could a Velociraptor-sized dinosaur survive in dense modern cities if released without any control?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 40,
+    "question": "What modern factor would most threaten a medium-sized predatory dinosaur in today’s world?",
+    "type": "MCQ",
+    "options": {
+      "a": "Abundance of artificial lighting only",
+      "b": "Human conflict, habitat fragmentation, and lack of stable wild prey populations",
+      "c": "Presence of domestic cats",
+      "d": "Too many trees"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 41,
+    "question": "Could a bacteria species from the Paleozoic era potentially survive in today’s oceans, given that microbes often tolerate wide ranges of conditions?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "Which feature of many bacteria makes them more likely to survive across different geological periods?",
+    "type": "MCQ",
+    "options": {
+      "a": "Large body size and slow reproduction",
+      "b": "Ability to form spores, rapid evolution, and wide tolerance ranges",
+      "c": "Need for carefully cooked food",
+      "d": "Dependence on human-made antibiotics"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 43,
+    "question": "Could a modern oak forest persist during a brief period of cooler climate, similar to a small glacial fluctuation, if precipitation remained adequate?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "What factor would help modern oaks survive a moderate cooling event?",
+    "type": "MCQ",
+    "options": {
+      "a": "Their complete immunity to frostbite",
+      "b": "Their ability to grow roots in lava",
+      "c": "Their capacity to withstand seasonal temperature changes",
+      "d": "Their need to live underwater"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 45,
+    "question": "Could a modern rainforest frog species survive if transplanted into a temperate forest with cold winters and occasional snow?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 46,
+    "question": "Which condition would be most necessary for a tropical frog’s survival in a different time or climate?",
+    "type": "MCQ",
+    "options": {
+      "a": "Stable warm temperatures and high humidity",
+      "b": "Exposure to freezing winds",
+      "c": "Living exclusively on dry sand",
+      "d": "Staying in direct sunlight all day"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 47,
+    "question": "Could modern humans survive in the time before dinosaurs, when large amphibians and early reptiles dominated, if they had basic tools and shelters?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 48,
+    "question": "What would be the main threats to humans in a pre-dinosaur environment?",
+    "type": "MCQ",
+    "options": {
+      "a": "Lack of any gravity",
+      "b": "Predators, disease, and unfamiliar climates with no infrastructure",
+      "c": "Total absence of water on Earth",
+      "d": "Atmosphere made entirely of nitrogen-free oxygen"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 49,
+    "question": "Could a modern dairy cow survive in an early medieval European setting with human care similar to historical cattle breeds?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 50,
+    "question": "What would cows primarily need to survive in a medieval time period?",
+    "type": "MCQ",
+    "options": {
+      "a": "Electric fences and automatic doors",
+      "b": "Pasture, water, and basic veterinary-type care from humans",
+      "c": "A constant supply of refined sugar",
+      "d": "Air conditioning"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 51,
+    "question": "Could a modern wheat variety grow in soils of an early agricultural settlement if climate and soil nutrients were compatible?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "What factor would most influence a modern wheat plant’s survival in a Neolithic field?",
+    "type": "MCQ",
+    "options": {
+      "a": "Presence of fossilized dinosaur bones",
+      "b": "Temperature, rainfall, soil fertility, and human cultivation",
+      "c": "Ability to drink only seawater",
+      "d": "Being planted on bare rock"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 53,
+    "question": "Could a modern marine turtle survive in Cretaceous seas if there were similar temperatures and nesting beaches available?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "Which challenge would a modern turtle likely face in Cretaceous oceans?",
+    "type": "MCQ",
+    "options": {
+      "a": "Different predator species and competition patterns",
+      "b": "Lack of any water at all",
+      "c": "Gravity being sideways",
+      "d": "The Sun setting twice a day"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 55,
+    "question": "Could a modern grizzly bear survive in an untouched European forest of the late Pleistocene, given enough prey and no humans?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "What would be key to a grizzly bear’s survival in prehistoric Europe?",
+    "type": "MCQ",
+    "options": {
+      "a": "Availability of large herbivores, fish, and plant foods",
+      "b": "Daily access to concrete sidewalks",
+      "c": "Continuous artificial light",
+      "d": "Total absence of seasons"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 57,
+    "question": "Could a modern sunflower survive in an early Cretaceous meadow if climate and soil were roughly similar but pollinators were different?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "What factor would be most critical for a modern sunflower in a different time period?",
+    "type": "MCQ",
+    "options": {
+      "a": "Having some pollinating insects or wind for reproduction",
+      "b": "Direct connection to Earth’s core",
+      "c": "Living under constant volcanic ash",
+      "d": "Being underwater at all times"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "Could a modern shark species like the great white survive in many ancient seas if prey and temperature were appropriate?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "What condition is most important for a shark to survive in a different geological era?",
+    "type": "MCQ",
+    "options": {
+      "a": "Correct salinity, temperature, and sufficient prey",
+      "b": "Availability of plastic waste",
+      "c": "Presence of underwater cities",
+      "d": "Need for zero other species in the ocean"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 61,
+    "question": "Could a large Ice Age herbivore like the woolly rhinoceros survive in today’s Arctic tundra if humans left it alone and it had enough food?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "Which factor would most challenge the woolly rhinoceros in the modern world?",
+    "type": "MCQ",
+    "options": {
+      "a": "Competition with modern large herbivores and human land use",
+      "b": "Lack of nitrogen in the air",
+      "c": "Earth’s slower rotation",
+      "d": "Absence of any sunlight"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 63,
+    "question": "Could a modern pine forest persist during a mild warming trend similar to past interglacial periods, assuming rainfall remains adequate?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "What adaptation helps pines survive across different time periods and climates?",
+    "type": "MCQ",
+    "options": {
+      "a": "Need for only one specific temperature",
+      "b": "Long-lived needles, cones, and tolerance to varied soils",
+      "c": "Ability to breathe underwater",
+      "d": "Requirement for daily snowstorms"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 65,
+    "question": "Could a modern earthworm species survive in ancient soils if organic matter and moisture were present?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 66,
+    "question": "What would most influence an earthworm’s survival in a different geological era?",
+    "type": "MCQ",
+    "options": {
+      "a": "Presence of predators the size of skyscrapers",
+      "b": "Soil composition, moisture, and organic material availability",
+      "c": "Access to Wi-Fi",
+      "d": "Ability to read written language"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 67,
+    "question": "Could a modern polar fox survive during a colder glacial period if it had access to appropriate prey, such as small mammals or carrion?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "What key adaptation makes arctic foxes suitable for glacial climates?",
+    "type": "MCQ",
+    "options": {
+      "a": "Thin fur and heat-loving biology",
+      "b": "Thick insulating fur, compact bodies, and flexible diets",
+      "c": "Ability to photosynthesize",
+      "d": "Need to live only in volcanoes"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 69,
+    "question": "Could a modern rainforest canopy bird survive in an open grassland environment typical of certain past epochs without forest cover?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 70,
+    "question": "Which factor would most limit a forest bird’s survival in a treeless ancient grassland?",
+    "type": "MCQ",
+    "options": {
+      "a": "Lack of trees for nesting, shelter, and preferred food resources",
+      "b": "Presence of soil",
+      "c": "Availability of open sky",
+      "d": "Existence of small rivers"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 71,
+    "question": "Could a modern penguin species survive in a warmer Eocene polar sea if water were cool enough and food was abundant?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "What would be most important for penguins in an ancient, somewhat warmer polar ocean?",
+    "type": "MCQ",
+    "options": {
+      "a": "Access to fish and safe breeding grounds",
+      "b": "Total absence of any other marine life",
+      "c": "Ability to fly long distances",
+      "d": "Human-manufactured ice cubes"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 73,
+    "question": "Could a modern rice variety survive in a prehistoric tropical floodplain, assuming seasonal flooding and warm temperatures are similar?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "Which condition would most help rice survive in an ancient floodplain?",
+    "type": "MCQ",
+    "options": {
+      "a": "Regular water supply, warm temperatures, and nutrient-rich soils",
+      "b": "Permanent drought and frozen ground",
+      "c": "Only solid rock surfaces",
+      "d": "Total darkness"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 75,
+    "question": "Could a modern rabbit survive in an Ice Age steppe if it had enough vegetation to eat and burrow sites?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "What would primarily determine a rabbit’s survival in an Ice Age environment?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its ability to wear clothing",
+      "b": "Availability of food, shelter, and ability to avoid predators",
+      "c": "Existence of modern cars",
+      "d": "Presence of smartphones"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 77,
+    "question": "Could a modern tropical coral species survive in a future ocean that has warmed significantly and become more acidic without any adaptation?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 78,
+    "question": "Which factor would most likely threaten coral survival in a drastically changed future ocean?",
+    "type": "MCQ",
+    "options": {
+      "a": "Stable temperatures and neutral pH",
+      "b": "Increased temperature and lower pH altering calcification",
+      "c": "Availability of clean water",
+      "d": "Presence of algae and fish"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 79,
+    "question": "Could a modern desert rodent survive in a wetter, forested ancient climate if it could find similar seeds and hiding places?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 80,
+    "question": "What ecological change would most challenge a desert rodent in a forested ancient environment?",
+    "type": "MCQ",
+    "options": {
+      "a": "Different predators and altered food distribution",
+      "b": "Too much nitrogen in the air",
+      "c": "Too many stars visible at night",
+      "d": "Presence of tree bark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 81,
+    "question": "Could a modern fungus species that decomposes wood survive in a Carboniferous swamp forest full of fallen logs and plant debris?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "What would mainly affect a wood-decomposing fungus’s ability to survive in a different time period?",
+    "type": "MCQ",
+    "options": {
+      "a": "Availability of organic matter, moisture, and suitable temperature",
+      "b": "Presence of digital computers",
+      "c": "Existence of metal tools",
+      "d": "Ability to communicate with animals"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 83,
+    "question": "Could a modern pigeon population survive in an ancient city like Rome, if it were transported there with similar buildings and food sources from humans?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "What would support pigeons’ survival in a historical human city?",
+    "type": "MCQ",
+    "options": {
+      "a": "Urban structures for nesting and leftover food from people",
+      "b": "Only deep ocean trenches",
+      "c": "Total absence of buildings",
+      "d": "Lack of any human activity"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 85,
+    "question": "Could a modern eucalyptus tree survive in a warm, dinosaur-age coastal plain if soils and rainfall were roughly similar to its home environment?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 86,
+    "question": "Which condition would be most important for a eucalyptus tree in a different time period?",
+    "type": "MCQ",
+    "options": {
+      "a": "Suitable temperature, water, and soil conditions",
+      "b": "Presence of skyscrapers",
+      "c": "Human-made fertilizers only",
+      "d": "Zero exposure to sunlight"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 87,
+    "question": "Could a modern octopus species survive in a shallow sea of the Devonian era if salinity, temperature, and prey were appropriate?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 88,
+    "question": "What would most influence an octopus’s survival in an ancient ocean?",
+    "type": "MCQ",
+    "options": {
+      "a": "Availability of hiding places, oxygenated water, and prey",
+      "b": "Presence of television signals",
+      "c": "Solar panels on the seafloor",
+      "d": "Only freshwater lakes"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "Could a modern mosquito species survive in an early dinosaur-era swamp if there were vertebrates to feed on and standing water for breeding?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 90,
+    "question": "What condition is essential for mosquitoes in any time period?",
+    "type": "MCQ",
+    "options": {
+      "a": "Standing water for larvae and warm-enough conditions",
+      "b": "Snow and ice only",
+      "c": "Solid rock for eggs",
+      "d": "Absence of any animal life"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 91,
+    "question": "Could a modern chimpanzee troop survive in a Pleistocene African woodland where early humans lived, assuming adequate plant and animal foods?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "Which factor would most affect chimpanzee survival in a past woodland ecosystem?",
+    "type": "MCQ",
+    "options": {
+      "a": "Food availability, predation, and competition with other primates",
+      "b": "Existence of electronic devices",
+      "c": "Lack of metal tools",
+      "d": "Presence of clear night skies"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 93,
+    "question": "Could a modern polar bear survive in a much warmer Eocene Arctic forest without sea ice and seal prey?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 94,
+    "question": "What is the main reason polar bears would struggle in a warm forested Arctic without ice?",
+    "type": "MCQ",
+    "options": {
+      "a": "Their thick fur makes them invisible",
+      "b": "Their hunting strategy and physiology are adapted to cold and sea ice",
+      "c": "They cannot swim",
+      "d": "They cannot digest any food"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 95,
+    "question": "Could a modern grass species survive in a dinosaur-era landscape before grasses became widespread, if scattered in suitable soil patches?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 96,
+    "question": "Which outcome is most likely if modern grass appears in a dinosaur-era habitat?",
+    "type": "MCQ",
+    "options": {
+      "a": "It could colonize open ground and eventually become part of the ecosystem",
+      "b": "It would immediately explode and cover the whole planet in a day",
+      "c": "It would float into space",
+      "d": "It would transform into an animal"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 97,
+    "question": "Could a modern house dog survive in a Stone Age human camp, assuming humans provided food and shelter?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "What would most support a modern dog’s survival in a prehistoric human camp?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mutualistic relationship with humans for protection, hunting, and companionship",
+      "b": "Ability to speak human languages fluently",
+      "c": "Requirement for factory-made dog food only",
+      "d": "Need for concrete houses"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 99,
+    "question": "Could a modern deep-sea fish adapted to high pressure survive if placed in shallow, low-pressure ancient coastal waters?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 100,
+    "question": "Which physical factor is most critical for deep-sea organisms moved to shallow ancient seas?",
+    "type": "MCQ",
+    "options": {
+      "a": "Extreme pressure differences between deep and shallow water",
+      "b": "Absence of stars in the sky",
+      "c": "Changes in human technology",
+      "d": "Existence of mountains on land"
+    },
+    "answer": "a"
+  }
+]

@@ -1,0 +1,963 @@
+[King1] emailed [President2] about [topic]
+
+[
+  {
+    "question_id": 1,
+    "question": "King Alaric emailed President Thompson about a proposed trade agreement.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "King Darius emailed President Collins about climate cooperation talks.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 3,
+    "question": "King Leopold emailed President Rivera about border disputes in the northern region.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 4,
+    "question": "King Solomon emailed President Hayes about technological assistance programs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "King Arturo emailed President Blake about a joint naval exercise proposal.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "King Rowan emailed President Carter about increasing student exchange programs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 7,
+    "question": "King Hadrian emailed President Miles about reducing diplomatic staff.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "King Cyrus emailed President Jordan about expanding defense cooperation.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 9,
+    "question": "King Stephan emailed President Nguyen about a cultural misunderstanding.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 10,
+    "question": "King Aramis emailed President Wilson about adopting common cybersecurity protocols.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 11,
+    "question": "King Oswin emailed President Grant about renewable energy cooperation.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "King Nestor emailed President Delgado about canceling all diplomatic relations.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 13,
+    "question": "King Idris emailed President Monroe about opening new embassy branches.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "King Magnus emailed President Silva about increasing maritime security patrols.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "King Rowan emailed President Carter about abolishing all trade routes permanently.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 16,
+    "question": "King Helios emailed President Wright about desert irrigation technology.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "King Lazarus emailed President Kent about establishing a joint military base.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "King Orion emailed President Brooks about banning foreign trade.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 19,
+    "question": "King Titus emailed President Graham about creating a cultural festival exchange.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "King Dante emailed President Reyes about ending all scientific cooperation.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+
+  {
+    "question_id": 21,
+    "question": "King Cassian emailed President Evans about upgrading air transport routes.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "King Florian emailed President Archer about ceasing all humanitarian assistance.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 23,
+    "question": "King Aurelius emailed President Foster about strategic ocean research.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 24,
+    "question": "King Roderic emailed President Lane about implementing border shutdowns.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 25,
+    "question": "King Cyrus emailed President Jordan about increasing cybersecurity research funding.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 26,
+    "question": "King Rowan emailed President Carter about new water conservation guidelines.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "King Alden emailed President Perez about eliminating all shipping ports.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 28,
+    "question": "King Lucius emailed President Bennett about expanding digital literacy programs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 29,
+    "question": "King Orion emailed President Brooks about donating mapping satellites.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "King Alaric emailed President Thompson about demolishing all historic sites.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+
+  {
+    "question_id": 31,
+    "question": "King Magnus emailed President Silva about developing electric vehicle infrastructure.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "King Hadrian emailed President Miles about stopping all peace talks permanently.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 33,
+    "question": "King Rowan emailed President Carter about improving aviation safety standards.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "King Idris emailed President Monroe about banning all technological imports.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 35,
+    "question": "King Darius emailed President Collins about river basin restoration projects.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 36,
+    "question": "King Leopold emailed President Rivera about reducing fishing quotas to protect marine life.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "King Lazarus emailed President Kent about terminating all space research missions.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 38,
+    "question": "King Cyrus emailed President Jordan about upgrading communication satellites.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "King Cassian emailed President Evans about establishing a wildlife preservation act.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "King Florian emailed President Archer about removing all environmental regulations.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+
+  {
+    "question_id": 41,
+    "question": "King Aurelius emailed President Foster about supporting small island nations with aid.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "King Oswin emailed President Grant about outlawing digital communication worldwide.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 43,
+    "question": "King Roderic emailed President Lane about forming a new trade partnership.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "King Hadrian emailed President Miles about dissolving all educational programs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 45,
+    "question": "King Rowan emailed President Carter about boosting agricultural research grants.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 46,
+    "question": "King Idris emailed President Monroe about constructing a new peacekeeping headquarters.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 47,
+    "question": "King Arturo emailed President Blake about canceling technology exchange initiatives.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 48,
+    "question": "King Cyrus emailed President Jordan about promoting digital diplomacy workshops.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 49,
+    "question": "King Lucius emailed President Bennett about dissolving all cultural councils.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 50,
+    "question": "King Orion emailed President Brooks about emergency flood relief efforts.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 51,
+    "question": "King Rowan emailed President Carter about opening new regional research centers.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "King Magnus emailed President Silva about banning international student visas.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 53,
+    "question": "King Alaric emailed President Thompson about improving cybercrime legislation.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "King Darius emailed President Collins about destroying all diplomatic treaties.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 55,
+    "question": "King Leopold emailed President Rivera about renewable ocean power generation.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 56,
+    "question": "King Solomon emailed President Hayes about banning all space exploration efforts.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 57,
+    "question": "King Cassian emailed President Evans about expanding forest protection laws.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "King Roderic emailed President Lane about canceling nationwide literacy programs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 59,
+    "question": "King Lazarus emailed President Kent about enhancing water desalination plants.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "King Rowan emailed President Carter about shutting down all science academies.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+
+  {
+    "question_id": 61,
+    "question": "King Aurelius emailed President Foster about launching a new education exchange initiative.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "King Helios emailed President Wright about abolishing solar power subsidies.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 63,
+    "question": "King Idris emailed President Monroe about establishing cross-border medical units.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "King Oswin emailed President Grant about removing health and safety regulations.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 65,
+    "question": "King Cyrus emailed President Jordan about upgrading artificial intelligence labs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 66,
+    "question": "King Rowan emailed President Carter about protecting endangered island species.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 67,
+    "question": "King Magnus emailed President Silva about eliminating all national parks.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 68,
+    "question": "King Alaric emailed President Thompson about expanding their tourism programs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 69,
+    "question": "King Cassian emailed President Evans about dismantling all research laboratories.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 70,
+    "question": "King Dante emailed President Reyes about improving regional security networks.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 71,
+    "question": "King Orion emailed President Brooks about creating an ocean cleanup initiative.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "King Darius emailed President Collins about prohibiting all naval research.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 73,
+    "question": "King Leopold emailed President Rivera about combating desertification in rural areas.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "King Roderic emailed President Lane about dismantling air quality monitoring stations.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 75,
+    "question": "King Solomon emailed President Hayes about expanding literacy programs nationwide.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 76,
+    "question": "King Aurelius emailed President Foster about creating marine conservation zones.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 77,
+    "question": "King Florian emailed President Archer about terminating all aviation routes.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 78,
+    "question": "King Rowan emailed President Carter about improving teacher training programs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 79,
+    "question": "King Helios emailed President Wright about dismantling renewable power plants.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 80,
+    "question": "King Magnus emailed President Silva about researching geothermal energy potential.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 81,
+    "question": "King Idris emailed President Monroe about forming a cross-border art initiative.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "King Oswin emailed President Grant about ending all cultural exchanges permanently.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 83,
+    "question": "King Lazarus emailed President Kent about building new drought-resistant farms.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "King Arturo emailed President Blake about abolishing public education systems.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 85,
+    "question": "King Cyrus emailed President Jordan about modernizing internet infrastructure.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 86,
+    "question": "King Cassian emailed President Evans about enhancing water quality monitoring.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 87,
+    "question": "King Aramis emailed President Wilson about removing cultural funding worldwide.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 88,
+    "question": "King Rowan emailed President Carter about increasing coastal protection systems.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "King Osric emailed President Patel about establishing humanitarian food reserves.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 90,
+    "question": "King Magnus emailed President Silva about eliminating science funding entirely.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+
+  {
+    "question_id": 91,
+    "question": "King Aurelius emailed President Foster about increasing funding for historical preservation.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "King Darius emailed President Collins about dismantling national disaster response teams.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 93,
+    "question": "King Idris emailed President Monroe about jointly researching new medicinal plants.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "King Solomon emailed President Hayes about stopping vaccination programs permanently.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 95,
+    "question": "King Rowan emailed President Carter about expanding coastal research universities.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+
+  {
+    "question_id": 96,
+    "question": "King Orion emailed President Brooks about ending trade partnerships with developing nations.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 97,
+    "question": "King Helios emailed President Wright about deep-space telescope collaborations.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "King Idris emailed President Monroe about establishing a joint innovation council.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 99,
+    "question": "King Osric emailed President Patel about closing all diplomatic posts permanently.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 100,
+    "question": "King Magnus emailed President Silva about expanding green energy production.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+[
+  {
+    "question_id": 101,
+    "question": "If King Arthur emailed President Lincoln about economic reforms, what was the likely purpose of the communication?",
+    "type": "MCQ",
+    "options": {
+      "a": "To negotiate medieval trade routes",
+      "b": "To discuss future national policies",
+      "c": "To request military reinforcements",
+      "d": "To plan a coronation ceremony"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 102,
+    "question": "If King Henry VIII emailed President Roosevelt about healthcare improvements, what would be the modern implication?",
+    "type": "MCQ",
+    "options": {
+      "a": "A discussion on national health insurance",
+      "b": "A debate on royal succession",
+      "c": "Implementation of medieval hospital taxes",
+      "d": "A request for naval expansion"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 103,
+    "question": "If King Solomon emailed President Obama about global peace efforts, what would be the key theme?",
+    "type": "MCQ",
+    "options": {
+      "a": "Construction of new temples",
+      "b": "Diplomatic conflict resolution",
+      "c": "Ancient trade negotiations",
+      "d": "Development of chariot armies"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 104,
+    "question": "If King Louis XIV emailed President Kennedy about leadership strategies, what would likely be discussed?",
+    "type": "MCQ",
+    "options": {
+      "a": "Space exploration missions",
+      "b": "Strengthening executive authority",
+      "c": "Nuclear energy research",
+      "d": "Modern aviation laws"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 105,
+    "question": "If King Tutankhamun emailed President Carter about archaeological preservation, what outcome is most probable?",
+    "type": "MCQ",
+    "options": {
+      "a": "Creation of an international heritage agreement",
+      "b": "Formation of a pyramid-building task force",
+      "c": "A ban on desert exploration",
+      "d": "Expansion of royal tombs"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 106,
+    "question": "If King Charles III emailed President Biden about climate action, what would they focus on?",
+    "type": "MCQ",
+    "options": {
+      "a": "Expanding royal gardens",
+      "b": "Joint environmental policies",
+      "c": "Trade talks between Europe and America",
+      "d": "Revising historical treaties"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 107,
+    "question": "If King Ashoka emailed President Eisenhower about peace reforms, what shared principle would be highlighted?",
+    "type": "MCQ",
+    "options": {
+      "a": "Promotion of nonviolence",
+      "b": "Increase in nuclear testing",
+      "c": "Expanding ancient borders",
+      "d": "Re-establishing monarchies"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 108,
+    "question": "If King Gustav V emailed President Reagan about sports diplomacy, what could be the main objective?",
+    "type": "MCQ",
+    "options": {
+      "a": "Promoting international athletic cooperation",
+      "b": "Negotiating gold reserves",
+      "c": "Discussing Cold War military plans",
+      "d": "Revising royal hunting laws"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 109,
+    "question": "If King Cyrus emailed President Truman about rebuilding nations, which topic aligns best?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Marshall Plan and ancient tolerance policies",
+      "b": "Developing new missile technologies",
+      "c": "Reforming monarchy inheritance laws",
+      "d": "Negotiating space treaties"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "If King Leopold I emailed President Grant about territorial governance, what would likely be discussed?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ethical administration reforms",
+      "b": "Urban expansion in 21st-century cities",
+      "c": "Nuclear disarmament",
+      "d": "Ancient feudal systems"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 111,
+    "question": "If King Haakon VII emailed President Wilson about world peace, which organization would they support?",
+    "type": "MCQ",
+    "options": {
+      "a": "League of Nations",
+      "b": "OPEC",
+      "c": "NATO",
+      "d": "UNESCO"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 112,
+    "question": "If King John emailed President Taft about legal reforms, what topic fits best?",
+    "type": "MCQ",
+    "options": {
+      "a": "Magna Carta principles",
+      "b": "Quantum computing",
+      "c": "Space agency formation",
+      "d": "Railroad expansion"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 113,
+    "question": "If King Rama V emailed President Coolidge about modernization, what theme is most relevant?",
+    "type": "MCQ",
+    "options": {
+      "a": "Industrial and social reforms",
+      "b": "Medieval warfare strategy",
+      "c": "Nuclear reactor safety",
+      "d": "Space colonization"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "If King Bhumibol emailed President Clinton about technological innovation, what topic suits the scenario?",
+    "type": "MCQ",
+    "options": {
+      "a": "Digital communication development",
+      "b": "Feudal tax structure",
+      "c": "Ancient textile production",
+      "d": "Pyramid construction techniques"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 115,
+    "question": "If King Mswati III emailed President George W. Bush about health initiatives, which issue is most probable?",
+    "type": "MCQ",
+    "options": {
+      "a": "HIV/AIDS prevention programs",
+      "b": "Strengthening medieval combat",
+      "c": "Improving royal carriage designs",
+      "d": "Founding new kingdoms"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 116,
+    "question": "If King Philip II emailed President Madison about naval power, what is the closest topic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Strengthening maritime defense",
+      "b": "Expanding desert agriculture",
+      "c": "Feudal knight training",
+      "d": "Nuclear submarine treaties"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 117,
+    "question": "If King Baldwin IV emailed President Jackson about military strategy, what shared concern might they discuss?",
+    "type": "MCQ",
+    "options": {
+      "a": "Securing territorial borders",
+      "b": "Improving global internet access",
+      "c": "Colonizing extraterrestrial planets",
+      "d": "Advancing aircraft engineering"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "If King Frederick the Great emailed President Pierce about agricultural reforms, what would be emphasized?",
+    "type": "MCQ",
+    "options": {
+      "a": "Crop management and farming innovation",
+      "b": "Artillery development",
+      "c": "Monastic education",
+      "d": "Mining for precious metals"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 119,
+    "question": "If King Richard I emailed President Bush Sr. about international alliances, which topic aligns?",
+    "type": "MCQ",
+    "options": {
+      "a": "Coordinating joint military efforts",
+      "b": "Enhancing smartphone production",
+      "c": "Rewriting medieval religious texts",
+      "d": "Improving rail transport"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "If King Zarathustra emailed President Hoover about ethical governance, what would be the likely theme?",
+    "type": "MCQ",
+    "options": {
+      "a": "Moral leadership in government",
+      "b": "Building modern skyscrapers",
+      "c": "Expanding coastal tourism",
+      "d": "Reviving ancient warrior rituals"
+    },
+    "answer": "a"
+  }
+]

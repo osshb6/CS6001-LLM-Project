@@ -1,0 +1,1842 @@
+[
+  {
+    "question_id": 1,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 2,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 3,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 4,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 5,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 6,
+    "question": "Did Angela Merkel attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 7,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1985?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 8,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1905?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 9,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in London in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 10,
+    "question": "In which city was the UN Climate Change Conference COP21 attended by Barack Obama in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Rome",
+      "b": "Paris",
+      "c": "New York",
+      "d": "Berlin"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 11,
+    "question": "In which city was the UN Climate Change Conference COP21 attended by Angela Merkel in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Berlin",
+      "b": "Paris",
+      "c": "London",
+      "d": "Geneva"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 12,
+    "question": "Did Angela Merkel attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 13,
+    "question": "Did Woodrow Wilson attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 14,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 15,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 16,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1979?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 17,
+    "question": "Did Woodrow Wilson attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 18,
+    "question": "In which city was the Bandung Conference attended by Jawaharlal Nehru in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "London",
+      "b": "Geneva",
+      "c": "Bandung",
+      "d": "New York"
+    },
+    "answer": "c",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 19,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 20,
+    "question": "Did Joseph Stalin attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 21,
+    "question": "In which year did Franklin D. Roosevelt attend the Yalta Conference in Yalta?",
+    "type": "MCQ",
+    "options": {
+      "a": "1905",
+      "b": "1945",
+      "c": "1985",
+      "d": "1885"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 22,
+    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Zhou Enlai",
+      "b": "Woodrow Wilson",
+      "c": "Angela Merkel",
+      "d": "Jawaharlal Nehru"
+    },
+    "answer": "c",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 23,
+    "question": "In which year did Zhou Enlai attend the Bandung Conference in Bandung?",
+    "type": "MCQ",
+    "options": {
+      "a": "1995",
+      "b": "1915",
+      "c": "1895",
+      "d": "1955"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 24,
+    "question": "Did Zhou Enlai attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 25,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Geneva in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 26,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2055?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 27,
+    "question": "Who attended the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Sukarno",
+      "b": "Zhou Enlai",
+      "c": "Winston Churchill",
+      "d": "Jawaharlal Nehru"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 28,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 29,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 30,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Geneva in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 31,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 32,
+    "question": "Did Franklin D. Roosevelt attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 33,
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 34,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 35,
+    "question": "In which city was the Bandung Conference attended by Jawaharlal Nehru in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Berlin",
+      "b": "London",
+      "c": "Geneva",
+      "d": "Bandung"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 36,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 37,
+    "question": "Did Sukarno attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 38,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Geneva in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 39,
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 40,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 41,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 42,
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 43,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1979?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 44,
+    "question": "Did Jawaharlal Nehru attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 45,
+    "question": "Did Zhou Enlai attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 46,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 47,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 48,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 49,
+    "question": "In which year did Barack Obama attend the UN Climate Change Conference COP21 in Paris?",
+    "type": "MCQ",
+    "options": {
+      "a": "2055",
+      "b": "1955",
+      "c": "2015",
+      "d": "1975"
+    },
+    "answer": "c",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 50,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 51,
+    "question": "In which city was the Yalta Conference attended by Winston Churchill in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Geneva",
+      "b": "Berlin",
+      "c": "Yalta",
+      "d": "London"
+    },
+    "answer": "c",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 52,
+    "question": "Did Zhou Enlai attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 53,
+    "question": "In which year did Zhou Enlai attend the Bandung Conference in Bandung?",
+    "type": "MCQ",
+    "options": {
+      "a": "1995",
+      "b": "1955",
+      "c": "1915",
+      "d": "1895"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 54,
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 55,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 56,
+    "question": "Who attended the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Joseph Stalin",
+      "b": "Sukarno",
+      "c": "Franklin D. Roosevelt",
+      "d": "Jawaharlal Nehru"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 57,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 58,
+    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Zhou Enlai",
+      "b": "Angela Merkel",
+      "c": "Winston Churchill",
+      "d": "Woodrow Wilson"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 59,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 60,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2075?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 61,
+    "question": "In which year did Franklin D. Roosevelt attend the Yalta Conference in Yalta?",
+    "type": "MCQ",
+    "options": {
+      "a": "1905",
+      "b": "1945",
+      "c": "1985",
+      "d": "1885"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 62,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 63,
+    "question": "In which year did Angela Merkel attend the UN Climate Change Conference COP21 in Paris?",
+    "type": "MCQ",
+    "options": {
+      "a": "2055",
+      "b": "1975",
+      "c": "1955",
+      "d": "2015"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 64,
+    "question": "Did Winston Churchill attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 65,
+    "question": "In which city was the Bandung Conference attended by Sukarno in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Bandung",
+      "b": "London",
+      "c": "New York",
+      "d": "Berlin"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 66,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 67,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 68,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 69,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 70,
+    "question": "In which city was the Bandung Conference attended by Jawaharlal Nehru in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "London",
+      "b": "Geneva",
+      "c": "New York",
+      "d": "Bandung"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 71,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in London in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 72,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 73,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in London in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 74,
+    "question": "Did Barack Obama attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 75,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 76,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 77,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 78,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 79,
+    "question": "In which city was the UN Climate Change Conference COP21 attended by Angela Merkel in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Berlin",
+      "b": "Rome",
+      "c": "Paris",
+      "d": "London"
+    },
+    "answer": "c",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 80,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 81,
+    "question": "Did Winston Churchill attend the Yalta Conference held in London in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 82,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1885?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 83,
+    "question": "Did Jawaharlal Nehru attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 84,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 85,
+    "question": "In which city was the Bandung Conference attended by Sukarno in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Berlin",
+      "b": "Bandung",
+      "c": "Rome",
+      "d": "Geneva"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 86,
+    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Barack Obama",
+      "b": "Woodrow Wilson",
+      "c": "Jawaharlal Nehru",
+      "d": "Angela Merkel"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 87,
+    "question": "Did Sukarno attend the Versailles Peace Conference held in Paris in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 88,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in New York in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 89,
+    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Zhou Enlai",
+      "b": "Barack Obama",
+      "c": "Woodrow Wilson",
+      "d": "Franklin D. Roosevelt"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 90,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in New York in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 91,
+    "question": "In which city was the Yalta Conference attended by Winston Churchill in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "London",
+      "b": "Geneva",
+      "c": "Yalta",
+      "d": "New York"
+    },
+    "answer": "c",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 92,
+    "question": "In which year did Sukarno attend the Bandung Conference in Bandung?",
+    "type": "MCQ",
+    "options": {
+      "a": "1995",
+      "b": "1895",
+      "c": "1915",
+      "d": "1955"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 93,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 1995?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 94,
+    "question": "In which year did Winston Churchill attend the Yalta Conference in Yalta?",
+    "type": "MCQ",
+    "options": {
+      "a": "1985",
+      "b": "1905",
+      "c": "1885",
+      "d": "1945"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 95,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 96,
+    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Joseph Stalin",
+      "b": "Barack Obama",
+      "c": "Franklin D. Roosevelt",
+      "d": "Winston Churchill"
+    },
+    "answer": "c",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 97,
+    "question": "In which year did Woodrow Wilson attend the Versailles Peace Conference in Paris?",
+    "type": "MCQ",
+    "options": {
+      "a": "1879",
+      "b": "1919",
+      "c": "1859",
+      "d": "1959"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 98,
+    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Barack Obama",
+      "b": "Angela Merkel",
+      "c": "Joseph Stalin",
+      "d": "Franklin D. Roosevelt"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 99,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 100,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 101,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 102,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 103,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 104,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 105,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 106,
+    "question": "Did Zhou Enlai attend the Bandung Conference held in Bandung in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 107,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 108,
+    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Jawaharlal Nehru",
+      "b": "Angela Merkel",
+      "c": "Joseph Stalin",
+      "d": "Barack Obama"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 109,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 1975?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 110,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 111,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 112,
+    "question": "In which year did Franklin D. Roosevelt attend the Yalta Conference in Yalta?",
+    "type": "MCQ",
+    "options": {
+      "a": "1885",
+      "b": "1905",
+      "c": "1985",
+      "d": "1945"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 113,
+    "question": "Did Woodrow Wilson attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 114,
+    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Franklin D. Roosevelt",
+      "b": "Sukarno",
+      "c": "Jawaharlal Nehru",
+      "d": "Angela Merkel"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 115,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1905?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 116,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 117,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 118,
+    "question": "Did Woodrow Wilson attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 119,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 120,
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1985?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 121,
+    "question": "In which city was the UN Climate Change Conference COP21 attended by Angela Merkel in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Paris",
+      "b": "Berlin",
+      "c": "New York",
+      "d": "Rome"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 122,
+    "question": "In which year did Jawaharlal Nehru attend the Bandung Conference in Bandung?",
+    "type": "MCQ",
+    "options": {
+      "a": "1895",
+      "b": "1955",
+      "c": "1915",
+      "d": "1995"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 123,
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1985?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 124,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 125,
+    "question": "Who attended the Versailles Peace Conference held in Paris in 1919?",
+    "type": "MCQ",
+    "options": {
+      "a": "Woodrow Wilson",
+      "b": "Angela Merkel",
+      "c": "Winston Churchill",
+      "d": "Franklin D. Roosevelt"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 126,
+    "question": "Did Barack Obama attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 127,
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 128,
+    "question": "In which year did Winston Churchill attend the Yalta Conference in Yalta?",
+    "type": "MCQ",
+    "options": {
+      "a": "1945",
+      "b": "1885",
+      "c": "1985",
+      "d": "1905"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 129,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 130,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Geneva in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 131,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1895?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 132,
+    "question": "Did Sukarno attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 133,
+    "question": "Did Sukarno attend the Bandung Conference held in London in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 134,
+    "question": "Did Zhou Enlai attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 135,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 136,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 137,
+    "question": "Did Zhou Enlai attend the Bandung Conference held in Bandung in 1895?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 138,
+    "question": "In which year did Barack Obama attend the UN Climate Change Conference COP21 in Paris?",
+    "type": "MCQ",
+    "options": {
+      "a": "1975",
+      "b": "2015",
+      "c": "1955",
+      "d": "2055"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 139,
+    "question": "Did Zhou Enlai attend the Bandung Conference held in Bandung in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 140,
+    "question": "Did Zhou Enlai attend the Bandung Conference held in Bandung in 1995?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 141,
+    "question": "Did Joseph Stalin attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 142,
+    "question": "In which year did Zhou Enlai attend the Bandung Conference in Bandung?",
+    "type": "MCQ",
+    "options": {
+      "a": "1895",
+      "b": "1995",
+      "c": "1915",
+      "d": "1955"
+    },
+    "answer": "d",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 143,
+    "question": "Did Zhou Enlai attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 144,
+    "question": "Did Winston Churchill attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 145,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 146,
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 147,
+    "question": "Did Zhou Enlai attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 148,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 149,
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 150,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in New York in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 151,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 152,
+    "question": "Did Woodrow Wilson attend the Versailles Peace Conference held in Paris in 1919?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 153,
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2055?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 154,
+    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel",
+      "b": "Joseph Stalin",
+      "c": "Franklin D. Roosevelt",
+      "d": "Woodrow Wilson"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 155,
+    "question": "In which city was the Bandung Conference attended by Jawaharlal Nehru in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "New York",
+      "b": "Berlin",
+      "c": "Bandung",
+      "d": "Geneva"
+    },
+    "answer": "c",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 156,
+    "question": "Who attended the Versailles Peace Conference held in Paris in 1919?",
+    "type": "MCQ",
+    "options": {
+      "a": "Woodrow Wilson",
+      "b": "Joseph Stalin",
+      "c": "Barack Obama",
+      "d": "Franklin D. Roosevelt"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 157,
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1885?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 158,
+    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Franklin D. Roosevelt",
+      "b": "Woodrow Wilson",
+      "c": "Jawaharlal Nehru",
+      "d": "Joseph Stalin"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 159,
+    "question": "Did Sukarno attend the Bandung Conference held in London in 1955?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 160,
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  }
+]

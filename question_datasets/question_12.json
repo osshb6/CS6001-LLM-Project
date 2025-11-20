@@ -1,0 +1,1161 @@
+
+[King1] sent an envoy to [Kingdom2] ruled by [King2] in [year].
+
+[
+  {
+    "question_id": 1,
+    "question": "If King Louis XIV sent an envoy to the Ottoman Empire ruled by Sultan Ahmed III in 1705, it strengthened the diplomatic relations between France and the Ottoman Empire.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "King Henry VIII sent an envoy to the Holy Roman Empire ruled by Emperor Charles V in 1520 to negotiate a marriage alliance.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 3,
+    "question": "If Tsar Peter the Great sent an envoy to Qing China in 1692, it was intended to establish trade agreements.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "King George III sent an envoy to France ruled by Louis XVI in 1785 to request military support during the American Revolution.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 5,
+    "question": "If King Akbar sent an envoy to the Safavid Empire ruled by Shah Abbas I in 1610, it was for discussing regional trade routes.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "King Ferdinand II sent an envoy to England ruled by James I in 1612 to negotiate a dynastic marriage.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 7,
+    "question": "King Philip II sent an envoy to the Ottoman Empire ruled by Sultan Suleiman I in 1565 to propose a military alliance.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "Tsar Nicholas I sent an envoy to Prussia ruled by Frederick William IV in 1830 to strengthen economic ties.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 9,
+    "question": "King Charles VII of France sent an envoy to England ruled by Henry VI in 1445 to negotiate a ceasefire.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "If Emperor Meiji sent an envoy to Germany ruled by Wilhelm II in 1890, it was to adopt Western military practices.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 11,
+    "question": "Which king sent an envoy to negotiate a treaty with the Ming Dynasty in 1403?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Henry IV of England",
+      "b": "King Charles VI of France",
+      "c": "King Taejong of Joseon",
+      "d": "King Manuel I of Portugal"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 12,
+    "question": "King Louis XV sent an envoy to the Ottoman Empire in 1735 primarily to:",
+    "type": "MCQ",
+    "options": {
+      "a": "Request military assistance against Austria",
+      "b": "Establish trade relations",
+      "c": "Propose a dynastic marriage",
+      "d": "Discuss religious alliances"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 13,
+    "question": "King Gustav III of Sweden sent an envoy to Russia ruled by Catherine the Great in 1775 primarily to:",
+    "type": "MCQ",
+    "options": {
+      "a": "Negotiate territorial boundaries",
+      "b": "Seek an alliance against Denmark",
+      "c": "Discuss cultural exchange programs",
+      "d": "Request military aid for domestic revolts"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "Which ruler sent an envoy to the Mughal Empire in 1612?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "Shah Abbas I of Safavid Persia",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "King Edward III sent an envoy to France in 1346 to:",
+    "type": "MCQ",
+    "options": {
+      "a": "Propose a peace treaty",
+      "b": "Request military aid",
+      "c": "Discuss trade tariffs",
+      "d": "Arrange a royal marriage"
+    },
+    "answer": "a"
+  }
+]
+[
+  {
+    "question_id": 16,
+    "question": "King Alfonso V of Portugal sent an envoy to the Kingdom of Kongo in 1491 to establish trade relations.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "If Emperor Akbar sent an envoy to the Ottoman Empire in 1575, it was to negotiate a military alliance.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 18,
+    "question": "King Charles II of England sent an envoy to France in 1670 to negotiate trade treaties.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "King Louis XVI sent an envoy to Austria in 1770 to arrange a royal marriage.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "Tsar Alexander I sent an envoy to Prussia in 1807 to discuss forming an alliance against France.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 21,
+    "question": "King Henry V sent an envoy to the Holy Roman Empire in 1415 to request military aid during the Hundred Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 22,
+    "question": "King Charles I of Spain sent an envoy to England in 1525 to negotiate peace terms.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "Which king sent an envoy to the Safavid Empire in 1590 to discuss trade routes?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Philip II of Spain",
+      "b": "King Henry IV of France",
+      "c": "King James I of England",
+      "d": "Emperor Rudolf II"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 24,
+    "question": "King Gustavus Adolphus sent an envoy to France in 1621 to request military support against the Habsburgs.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "Which ruler sent an envoy to the Ming Dynasty in 1421 to establish trade connections?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Henry V of England",
+      "b": "King Sejong of Joseon",
+      "c": "King Charles VII of France",
+      "d": "King Manuel I of Portugal"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 26,
+    "question": "King Frederick II of Prussia sent an envoy to Russia in 1762 to negotiate territorial settlements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "King Louis XIII sent an envoy to Spain in 1615 to arrange a dynastic marriage.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "Which king sent an envoy to the Ottoman Empire in 1453 after the fall of Constantinople?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XI of France",
+      "b": "King Henry VI of England",
+      "c": "King John II of Portugal",
+      "d": "King Charles VII of France"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 29,
+    "question": "King James I of England sent an envoy to Spain in 1604 to negotiate the Treaty of London.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "King Charles IX of France sent an envoy to the Ottoman Empire in 1562 to form a military alliance against Spain.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "King Manuel I of Portugal sent an envoy to Ethiopia in 1520 to establish trade and religious ties.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "Which king sent an envoy to Japan in 1613 to strengthen trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "King Christian IV of Denmark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 33,
+    "question": "King Peter the Great sent an envoy to the Netherlands in 1697 to study shipbuilding and naval technology.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "King Henry II of France sent an envoy to Scotland in 1550 to negotiate an alliance against England.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 35,
+    "question": "Which ruler sent an envoy to the Ottoman Empire in 1700 to discuss trade and diplomatic relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XIV of France",
+      "b": "King Charles XII of Sweden",
+      "c": "King Peter I of Russia",
+      "d": "King Frederick I of Prussia"
+    },
+    "answer": "c"
+  }
+]
+[
+  {
+    "question_id": 36,
+    "question": "King Charles II of Spain sent an envoy to France in 1679 to negotiate a trade agreement.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "If King Edward VI sent an envoy to Scotland in 1548, it was to request military support.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "King Louis XIV sent an envoy to Spain in 1660 to discuss dynastic marriages.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "King Ferdinand III sent an envoy to France in 1635 to negotiate peace during the Thirty Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "King Charles V sent an envoy to England in 1530 to arrange a dynastic marriage.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 41,
+    "question": "Which ruler sent an envoy to the Safavid Empire in 1620 to discuss regional trade?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Ferdinand II of HRE"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 42,
+    "question": "King Frederick III of Denmark sent an envoy to Sweden in 1650 to discuss territorial boundaries.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 43,
+    "question": "King Henry VII sent an envoy to France in 1485 to negotiate a dynastic marriage.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "Which king sent an envoy to Japan in 1582 to establish trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Philip II of Spain",
+      "b": "King James I of England",
+      "c": "King Charles IX of France",
+      "d": "King Christian IV of Denmark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 45,
+    "question": "King Louis XV sent an envoy to Prussia in 1740 to discuss alliances against Austria.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "King Charles IX of France sent an envoy to England in 1560 to negotiate a peace treaty.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 47,
+    "question": "Which king sent an envoy to the Ottoman Empire in 1683 to request military assistance?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XIV of France",
+      "b": "King Charles II of England",
+      "c": "King Peter I of Russia",
+      "d": "King John III of Poland"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 48,
+    "question": "King Henry IV of France sent an envoy to Spain in 1598 to negotiate the Treaty of Vervins.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 49,
+    "question": "King Gustav III of Sweden sent an envoy to France in 1780 to request military support.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "b"
+  },
+  {
+    "question_id": 50,
+    "question": "King James II of England sent an envoy to France in 1685 to seek support during political unrest.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 51,
+    "question": "Which ruler sent an envoy to the Mughal Empire in 1615 to establish trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 53,
+    "question": "King Louis XIV sent an envoy to England in 1670 to propose a dynastic marriage.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "Which king sent an envoy to Russia in 1699 to adopt Western military practices?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XIV of France",
+      "b": "King Charles XII of Sweden",
+      "c": "Peter the Great of Russia",
+      "d": "King Frederick I of Prussia"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 55,
+    "question": "King Frederick II of Prussia sent an envoy to Austria in 1740 to negotiate territorial disputes.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "King Edward VI of England sent an envoy to France in 1551 to negotiate a peace treaty.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 57,
+    "question": "Which ruler sent an envoy to the Ottoman Empire in 1500 to establish trade agreements?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XII of France",
+      "b": "King Ferdinand II of Aragon",
+      "c": "King Henry VII of England",
+      "d": "King Manuel I of Portugal"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 58,
+    "question": "King Charles XI of Sweden sent an envoy to France in 1675 to request military assistance.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "King Philip IV of Spain sent an envoy to France in 1628 to negotiate peace during the Thirty Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "Which king sent an envoy to Japan in 1614 to establish trade and diplomatic relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "King Christian IV of Denmark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 61,
+    "question": "King Louis XV of France sent an envoy to Austria in 1736 to negotiate marriage alliances.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "King Charles I of England sent an envoy to France in 1625 to seek military support.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 63,
+    "question": "Which ruler sent an envoy to the Mughal Empire in 1620 to establish diplomatic and trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "King Ferdinand IV of Naples sent an envoy to France in 1790 to negotiate peace terms.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 65,
+    "question": "King Henry VIII sent an envoy to Scotland in 1543 to negotiate a marriage alliance for his son Edward.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+[
+  {
+    "question_id": 66,
+    "question": "King Charles XII of Sweden sent an envoy to the Ottoman Empire in 1710 to seek support against Russia.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 67,
+    "question": "King Louis XIII of France sent an envoy to the Holy Roman Empire in 1618 to negotiate peace during the early Thirty Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "Which ruler sent an envoy to China in 1793 to present diplomatic gifts and establish trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King George III of England",
+      "b": "King Louis XVI of France",
+      "c": "Emperor Qianlong",
+      "d": "King Frederick William II of Prussia"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 69,
+    "question": "King Peter the Great sent an envoy to England in 1698 to study shipbuilding techniques.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "King Henry VII of England sent an envoy to Spain in 1489 to negotiate trade and dynastic matters.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 71,
+    "question": "Which king sent an envoy to the Ottoman Empire in 1609 to discuss peace and trade?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Philip III of Spain",
+      "c": "King Henry IV of France",
+      "d": "King Christian IV of Denmark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "King Louis XIV sent an envoy to the Netherlands in 1672 to discuss military alliances.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 73,
+    "question": "King Ferdinand II of Aragon sent an envoy to England in 1501 to arrange a marriage alliance.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "Which ruler sent an envoy to the Safavid Empire in 1615 to negotiate trade routes?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 75,
+    "question": "King Charles II of England sent an envoy to Spain in 1670 to negotiate a trade treaty.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "King Edward III of England sent an envoy to France in 1337 to negotiate peace during the Hundred Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 77,
+    "question": "Which king sent an envoy to Japan in 1613 to establish trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "King Christian IV of Denmark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "King Gustav III of Sweden sent an envoy to Russia in 1772 to negotiate territorial agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 79,
+    "question": "King Philip IV of Spain sent an envoy to France in 1629 to negotiate peace during the Thirty Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 80,
+    "question": "Which ruler sent an envoy to the Mughal Empire in 1610 to establish diplomatic and trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 81,
+    "question": "King Charles I of England sent an envoy to Scotland in 1633 to negotiate dynastic matters.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "King Louis XV sent an envoy to Spain in 1735 to discuss alliances and dynastic marriages.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 83,
+    "question": "Which king sent an envoy to the Ottoman Empire in 1505 to establish trade agreements?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XII of France",
+      "b": "King Ferdinand II of Aragon",
+      "c": "King Henry VII of England",
+      "d": "King Manuel I of Portugal"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 84,
+    "question": "King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade and political agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 85,
+    "question": "King Louis XIV sent an envoy to the Holy Roman Empire in 1670 to discuss alliances.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 86,
+    "question": "Which ruler sent an envoy to China in 1793 to establish diplomatic relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King George III of England",
+      "b": "King Louis XVI of France",
+      "c": "Emperor Qianlong",
+      "d": "King Frederick William II of Prussia"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 87,
+    "question": "King Peter the Great sent an envoy to the Netherlands in 1697 to study naval technology.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 88,
+    "question": "King Henry VII of England sent an envoy to Spain in 1485 to negotiate dynastic and trade agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "Which king sent an envoy to the Safavid Empire in 1610 to discuss trade?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+[
+  {
+    "question_id": 91,
+    "question": "King Edward III of England sent an envoy to France in 1346 to negotiate peace during the Hundred Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "Which ruler sent an envoy to Japan in 1614 to establish trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "King Christian IV of Denmark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 93,
+    "question": "King Gustav III of Sweden sent an envoy to Russia in 1772 to negotiate territorial agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "King Philip IV of Spain sent an envoy to France in 1629 to negotiate peace during the Thirty Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 95,
+    "question": "Which ruler sent an envoy to the Mughal Empire in 1610 to establish diplomatic and trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 96,
+    "question": "King Charles I of England sent an envoy to Scotland in 1633 to negotiate dynastic matters.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 97,
+    "question": "King Louis XV sent an envoy to Spain in 1735 to discuss alliances and dynastic marriages.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "Which king sent an envoy to the Ottoman Empire in 1505 to establish trade agreements?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XII of France",
+      "b": "King Ferdinand II of Aragon",
+      "c": "King Henry VII of England",
+      "d": "King Manuel I of Portugal"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 99,
+    "question": "King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade and political agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "King Louis XIV sent an envoy to the Holy Roman Empire in 1670 to discuss alliances.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 101,
+    "question": "Which ruler sent an envoy to China in 1793 to establish diplomatic relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King George III of England",
+      "b": "King Louis XVI of France",
+      "c": "Emperor Qianlong",
+      "d": "King Frederick William II of Prussia"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 102,
+    "question": "King Peter the Great sent an envoy to the Netherlands in 1697 to study naval technology.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 103,
+    "question": "King Henry VII of England sent an envoy to Spain in 1485 to negotiate dynastic and trade agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 104,
+    "question": "Which king sent an envoy to the Safavid Empire in 1610 to discuss trade?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 105,
+    "question": "King Charles II of England sent an envoy to France in 1670 to negotiate trade agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 106,
+    "question": "King Edward III of England sent an envoy to France in 1346 to negotiate peace during the Hundred Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 107,
+    "question": "Which ruler sent an envoy to Japan in 1614 to establish trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "King Christian IV of Denmark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 108,
+    "question": "King Gustav III of Sweden sent an envoy to Russia in 1772 to negotiate territorial agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 109,
+    "question": "King Philip IV of Spain sent an envoy to France in 1629 to negotiate peace during the Thirty Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "Which ruler sent an envoy to the Mughal Empire in 1610 to establish diplomatic and trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 111,
+    "question": "King Charles I of England sent an envoy to Scotland in 1633 to negotiate dynastic matters.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 112,
+    "question": "King Louis XV sent an envoy to Spain in 1735 to discuss alliances and dynastic marriages.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 113,
+    "question": "Which king sent an envoy to the Ottoman Empire in 1505 to establish trade agreements?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XII of France",
+      "b": "King Ferdinand II of Aragon",
+      "c": "King Henry VII of England",
+      "d": "King Manuel I of Portugal"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 114,
+    "question": "King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade and political agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 115,
+    "question": "King Louis XIV sent an envoy to the Holy Roman Empire in 1670 to discuss alliances.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 116,
+    "question": "Which ruler sent an envoy to China in 1793 to establish diplomatic relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King George III of England",
+      "b": "King Louis XVI of France",
+      "c": "Emperor Qianlong",
+      "d": "King Frederick William II of Prussia"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 117,
+    "question": "King Peter the Great sent an envoy to the Netherlands in 1697 to study naval technology.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "King Henry VII of England sent an envoy to Spain in 1485 to negotiate dynastic and trade agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 119,
+    "question": "Which king sent an envoy to the Safavid Empire in 1610 to discuss trade?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 120,
+    "question": "King Charles II of England sent an envoy to France in 1670 to negotiate trade agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 121,
+    "question": "King Edward III of England sent an envoy to France in 1346 to negotiate peace during the Hundred Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "Which ruler sent an envoy to Japan in 1614 to establish trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "King Christian IV of Denmark"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 123,
+    "question": "King Gustav III of Sweden sent an envoy to Russia in 1772 to negotiate territorial agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 124,
+    "question": "King Philip IV of Spain sent an envoy to France in 1629 to negotiate peace during the Thirty Years’ War.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 125,
+    "question": "Which ruler sent an envoy to the Mughal Empire in 1610 to establish diplomatic and trade relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King James I of England",
+      "b": "King Louis XIII of France",
+      "c": "King Philip III of Spain",
+      "d": "Emperor Rudolf II of HRE"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 126,
+    "question": "King Charles I of England sent an envoy to Scotland in 1633 to negotiate dynastic matters.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 127,
+    "question": "King Louis XV sent an envoy to Spain in 1735 to discuss alliances and dynastic marriages.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "Which king sent an envoy to the Ottoman Empire in 1505 to establish trade agreements?",
+    "type": "MCQ",
+    "options": {
+      "a": "King Louis XII of France",
+      "b": "King Ferdinand II of Aragon",
+      "c": "King Henry VII of England",
+      "d": "King Manuel I of Portugal"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 129,
+    "question": "King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade and political agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "King Louis XIV sent an envoy to the Holy Roman Empire in 1670 to discuss alliances.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 131,
+    "question": "Which ruler sent an envoy to China in 1793 to establish diplomatic relations?",
+    "type": "MCQ",
+    "options": {
+      "a": "King George III of England",
+      "b": "King Louis XVI of France",
+      "c": "Emperor Qianlong",
+      "d": "King Frederick William II of Prussia"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 132,
+    "question": "King Peter the Great sent an envoy to the Netherlands in 1697 to study naval technology.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 133,
+    "question": "King Henry VII of England sent an envoy to Spain in 1485 to negotiate dynastic and trade agreements.",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+

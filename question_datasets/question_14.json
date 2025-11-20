@@ -1,0 +1,977 @@
+
+
+[Scientist1] explained [modern_invention] to [Ancient_Philosopher2]. 
+
+[
+  {
+    "question_id": 1,
+    "question": "[Albert Einstein] explained [the theory of relativity] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "[Marie Curie] explained [radioactivity] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 3,
+    "question": "[Isaac Newton] explained [calculus] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "[Nikola Tesla] explained [AC electricity] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "[Galileo Galilei] explained [the telescope] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "Which ancient philosopher did [Albert Einstein] explain [quantum mechanics] to?",
+    "type": "MCQ",
+    "options": {
+      "a": "Aristotle",
+      "b": "Socrates",
+      "c": "Plato",
+      "d": "Epicurus"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 7,
+    "question": "[Charles Darwin] explained [evolution by natural selection] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 8,
+    "question": "[James Watt] explained [steam engine] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 9,
+    "question": "Which modern invention did [Marie Curie] explain to [Plato]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Radioactivity",
+      "b": "Calculus",
+      "c": "AC electricity",
+      "d": "Telescope"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "[Thomas Edison] explained [electric light bulb] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 11,
+    "question": "[Alexander Graham Bell] explained [telephone] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "Which ancient philosopher did [Isaac Newton] explain [laws of motion] to?",
+    "type": "MCQ",
+    "options": {
+      "a": "Socrates",
+      "b": "Plato",
+      "c": "Aristotle",
+      "d": "Confucius"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 13,
+    "question": "[Nikola Tesla] explained [wireless communication] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "[Marie Curie] explained [X-rays] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "Which modern invention did [Galileo Galilei] explain to [Aristotle]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Telescope",
+      "b": "Steam engine",
+      "c": "Electric light bulb",
+      "d": "AC electricity"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "[Charles Darwin] explained [theory of evolution] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "[James Watt] explained [industrial steam engine] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "Which modern invention did [Thomas Edison] explain to [Epicurus]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Electric light bulb",
+      "b": "Telephone",
+      "c": "Radioactivity",
+      "d": "Telescope"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "[Alexander Graham Bell] explained [voice transmission via telephone] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "[Albert Einstein] explained [photoelectric effect] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+{
+    "question_id": 21,
+    "question": "[Nikola Tesla] explained [radio technology] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "[Isaac Newton] explained [gravity] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "Which ancient philosopher did [Marie Curie] explain [polonium and radium] to?",
+    "type": "MCQ",
+    "options": {
+      "a": "Plato",
+      "b": "Aristotle",
+      "c": "Epicurus",
+      "d": "Confucius"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 24,
+    "question": "[Thomas Edison] explained [phonograph] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "[Charles Darwin] explained [natural selection] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+[
+  {
+    "question_id": 26,
+    "question": "[Galileo Galilei] explained [heliocentric theory] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "[Alexander Graham Bell] explained [telephone technology] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "Which philosopher did [Albert Einstein] explain [special relativity] to?",
+    "type": "MCQ",
+    "options": {"a": "Socrates", "b": "Aristotle", "c": "Confucius", "d": "Plato"},
+    "answer": "b"
+  },
+  {
+    "question_id": 29,
+    "question": "[Marie Curie] explained [radioactive isotopes] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "[Isaac Newton] explained [optics] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "[Nikola Tesla] explained [alternating current] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "Which modern invention did [Thomas Edison] explain to [Socrates]?",
+    "type": "MCQ",
+    "options": {"a": "Light bulb", "b": "Telephone", "c": "Radioactivity", "d": "Telescope"},
+    "answer": "a"
+  },
+  {
+    "question_id": 33,
+    "question": "[Charles Darwin] explained [natural selection] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "[James Watt] explained [steam engine mechanics] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 35,
+    "question": "Which philosopher did [Nikola Tesla] explain [wireless communication] to?",
+    "type": "MCQ",
+    "options": {"a": "Socrates", "b": "Confucius", "c": "Aristotle", "d": "Epicurus"},
+    "answer": "b"
+  },
+  {
+    "question_id": 36,
+    "question": "[Galileo Galilei] explained [gravity and motion] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "[Albert Einstein] explained [general relativity] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "Which invention did [Alexander Graham Bell] explain to [Heraclitus]?",
+    "type": "MCQ",
+    "options": {"a": "Telephone", "b": "Electric light bulb", "c": "Radioactivity", "d": "Telescope"},
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "[Marie Curie] explained [radium discovery] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "[Isaac Newton] explained [laws of motion and gravitation] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 41,
+    "question": "[Nikola Tesla] explained [electromagnetic induction] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "Which philosopher did [Thomas Edison] explain [phonograph] to?",
+    "type": "MCQ",
+    "options": {"a": "Plato", "b": "Aristotle", "c": "Socrates", "d": "Epicurus"},
+    "answer": "c"
+  },
+  {
+    "question_id": 43,
+    "question": "[Charles Darwin] explained [speciation] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "[James Watt] explained [industrial steam engine] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 45,
+    "question": "Which invention did [Albert Einstein] explain to [Socrates]?",
+    "type": "MCQ",
+    "options": {"a": "Relativity", "b": "Calculus", "c": "Radioactivity", "d": "Telephone"},
+    "answer": "a"
+  }
+]
+[
+  {
+    "question_id": 46,
+    "question": "[Galileo Galilei] explained [satellite motion principles] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 47,
+    "question": "[Marie Curie] explained [polonium discovery] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 48,
+    "question": "Which ancient philosopher did [Isaac Newton] explain [calculus and optics] to?",
+    "type": "MCQ",
+    "options": {"a": "Plato", "b": "Socrates", "c": "Aristotle", "d": "Confucius"},
+    "answer": "c"
+  },
+  {
+    "question_id": 49,
+    "question": "[Nikola Tesla] explained [Tesla coil] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 50,
+    "question": "[Thomas Edison] explained [motion picture projector] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 51,
+    "question": "[Alexander Graham Bell] explained [long-distance communication] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "Which philosopher did [Charles Darwin] explain [adaptive evolution] to?",
+    "type": "MCQ",
+    "options": {"a": "Socrates", "b": "Plato", "c": "Epicurus", "d": "Heraclitus"},
+    "answer": "c"
+  },
+  {
+    "question_id": 53,
+    "question": "[James Watt] explained [steam pressure mechanics] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "[Albert Einstein] explained [mass-energy equivalence] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 55,
+    "question": "[Galileo Galilei] explained [laws of inertia] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "Which modern invention did [Nikola Tesla] explain to [Confucius]?",
+    "type": "MCQ",
+    "options": {"a": "AC electricity", "b": "Steam engine", "c": "Radioactivity", "d": "Telescope"},
+    "answer": "a"
+  },
+  {
+    "question_id": 57,
+    "question": "[Marie Curie] explained [radium and polonium applications] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "[Isaac Newton] explained [universal gravitation] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "[Thomas Edison] explained [electric light innovations] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "Which philosopher did [Alexander Graham Bell] explain [telephony] to?",
+    "type": "MCQ",
+    "options": {"a": "Plato", "b": "Heraclitus", "c": "Confucius", "d": "Epicurus"},
+    "answer": "b"
+  },
+  {
+    "question_id": 61,
+    "question": "[Charles Darwin] explained [survival of the fittest] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "[James Watt] explained [steam turbine mechanics] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 63,
+    "question": "[Albert Einstein] explained [space-time curvature] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "[Nikola Tesla] explained [wireless power transmission] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 65,
+    "question": "Which invention did [Marie Curie] explain to [Heraclitus]?",
+    "type": "MCQ",
+    "options": {"a": "Radioactivity", "b": "Steam engine", "c": "AC electricity", "d": "Telephone"},
+    "answer": "a"
+  },
+  {
+    "question_id": 66,
+    "question": "[Isaac Newton] explained [laws of optics] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 67,
+    "question": "[Thomas Edison] explained [recording phonograph] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "[Alexander Graham Bell] explained [voice telecommunication] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 69,
+    "question": "Which philosopher did [Charles Darwin] explain [genetic variation] to?",
+    "type": "MCQ",
+    "options": {"a": "Plato", "b": "Aristotle", "c": "Confucius", "d": "Epicurus"},
+    "answer": "d"
+  },
+  {
+    "question_id": 70,
+    "question": "[James Watt] explained [mechanical engineering principles] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 71,
+    "question": "[Albert Einstein] explained [quantum mechanics] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "[Nikola Tesla] explained [magnetic fields] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 73,
+    "question": "Which invention did [Marie Curie] explain to [Plato]?",
+    "type": "MCQ",
+    "options": {"a": "Radium", "b": "AC electricity", "c": "Light bulb", "d": "Telephone"},
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "[Isaac Newton] explained [universal gravitation laws] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 75,
+    "question": "[Thomas Edison] explained [electric lighting] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+[
+  {
+    "question_id": 76,
+    "question": "[Alexander Graham Bell] explained [telephone principles] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 77,
+    "question": "[Charles Darwin] explained [adaptation] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "[James Watt] explained [steam power] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 79,
+    "question": "Which philosopher did [Albert Einstein] explain [general relativity] to?",
+    "type": "MCQ",
+    "options": {"a": "Aristotle", "b": "Pythagoras", "c": "Plato", "d": "Confucius"},
+    "answer": "d"
+  },
+  {
+    "question_id": 80,
+    "question": "[Nikola Tesla] explained [rotating magnetic field] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 81,
+    "question": "[Marie Curie] explained [radioactive decay] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "[Isaac Newton] explained [motion and forces] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 83,
+    "question": "[Thomas Edison] explained [electricity distribution] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "Which invention did [Alexander Graham Bell] explain to [Heraclitus]?",
+    "type": "MCQ",
+    "options": {"a": "Telephone", "b": "Light bulb", "c": "Radioactivity", "d": "Steam engine"},
+    "answer": "a"
+  },
+  {
+    "question_id": 85,
+    "question": "[Charles Darwin] explained [species evolution] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 86,
+    "question": "[James Watt] explained [pressure and work] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 87,
+    "question": "[Albert Einstein] explained [quantum theory] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 88,
+    "question": "[Nikola Tesla] explained [AC motors] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "Which philosopher did [Marie Curie] explain [element discovery] to?",
+    "type": "MCQ",
+    "options": {"a": "Epicurus", "b": "Socrates", "c": "Heraclitus", "d": "Confucius"},
+    "answer": "c"
+  },
+  {
+    "question_id": 90,
+    "question": "[Isaac Newton] explained [optics principles] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 91,
+    "question": "[Thomas Edison] explained [recording devices] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "[Alexander Graham Bell] explained [voice transmission] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 93,
+    "question": "[Charles Darwin] explained [natural adaptation] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "[James Watt] explained [mechanical energy] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 95,
+    "question": "Which invention did [Albert Einstein] explain to [Confucius]?",
+    "type": "MCQ",
+    "options": {"a": "Relativity", "b": "Telescope", "c": "AC electricity", "d": "Light bulb"},
+    "answer": "a"
+  },
+  {
+    "question_id": 96,
+    "question": "[Nikola Tesla] explained [electromagnetic fields] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 97,
+    "question": "[Marie Curie] explained [radiation effects] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "[Isaac Newton] explained [gravitational force] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 99,
+    "question": "[Thomas Edison] explained [electric circuits] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "Which philosopher did [Alexander Graham Bell] explain [sound transmission] to?",
+    "type": "MCQ",
+    "options": {"a": "Socrates", "b": "Aristotle", "c": "Confucius", "d": "Plato"},
+    "answer": "d"
+  },
+  {
+    "question_id": 101,
+    "question": "[Charles Darwin] explained [speciation mechanisms] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 102,
+    "question": "[James Watt] explained [steam engine design] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 103,
+    "question": "[Albert Einstein] explained [photon theory] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 104,
+    "question": "[Nikola Tesla] explained [alternating current generation] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 105,
+    "question": "Which invention did [Marie Curie] explain to [Aristotle]?",
+    "type": "MCQ",
+    "options": {"a": "Radium", "b": "Light bulb", "c": "Steam engine", "d": "Telephone"},
+    "answer": "a"
+  },
+  {
+    "question_id": 106,
+    "question": "[Isaac Newton] explained [laws of motion] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 107,
+    "question": "[Thomas Edison] explained [light bulb improvement] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 108,
+    "question": "[Alexander Graham Bell] explained [voice amplification] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 109,
+    "question": "[Charles Darwin] explained [evolutionary adaptation] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "[James Watt] explained [mechanical energy principles] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 111,
+    "question": "Which philosopher did [Albert Einstein] explain [relativity] to?",
+    "type": "MCQ",
+    "options": {"a": "Plato", "b": "Pythagoras", "c": "Confucius", "d": "Heraclitus"},
+    "answer": "c"
+  },
+  {
+    "question_id": 112,
+    "question": "[Nikola Tesla] explained [high-frequency currents] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 113,
+    "question": "[Marie Curie] explained [alpha and beta radiation] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "[Isaac Newton] explained [calculus applications] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 115,
+    "question": "[Thomas Edison] explained [motion pictures] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 116,
+    "question": "[Alexander Graham Bell] explained [electrical telephony] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 117,
+    "question": "[Charles Darwin] explained [variation and inheritance] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "[James Watt] explained [steam engine innovation] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 119,
+    "question": "[Albert Einstein] explained [mass-energy equivalence] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "[Nikola Tesla] explained [polyphase current] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 121,
+    "question": "Which invention did [Marie Curie] explain to [Socrates]?",
+    "type": "MCQ",
+    "options": {"a": "Radioactivity", "b": "Telescope", "c": "Light bulb", "d": "Steam engine"},
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "[Isaac Newton] explained [laws of gravity] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 123,
+    "question": "[Thomas Edison] explained [telegraphy innovations] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 124,
+    "question": "[Alexander Graham Bell] explained [sound signal transmission] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 125,
+    "question": "[Charles Darwin] explained [natural selection] to [Pythagoras].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 126,
+    "question": "[James Watt] explained [steam engine principles] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 127,
+    "question": "Which philosopher did [Albert Einstein] explain [quantum theory] to?",
+    "type": "MCQ",
+    "options": {"a": "Pythagoras", "b": "Aristotle", "c": "Epicurus", "d": "Confucius"},
+    "answer": "d"
+  },
+  {
+    "question_id": 128,
+    "question": "[Nikola Tesla] explained [high-voltage currents] to [Socrates].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 129,
+    "question": "[Marie Curie] explained [atomic structure] to [Aristotle].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "[Isaac Newton] explained [mathematical principles] to [Plato].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 131,
+    "question": "[Thomas Edison] explained [electric inventions] to [Epicurus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 132,
+    "question": "[Alexander Graham Bell] explained [telephone system] to [Confucius].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 133,
+    "question": "[Charles Darwin] explained [species diversity] to [Heraclitus].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+
+
+

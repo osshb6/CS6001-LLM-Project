@@ -1,0 +1,2442 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which of the following animals could Charles Darwin possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Great auk",
+      "b": "Pyrenean ibex",
+      "c": "Tecopa pupfish",
+      "d": "Dusky seaside sparrow"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 2,
+    "question": "Is it possible that Jane Goodall has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 3,
+    "question": "Is it possible that Albert Einstein has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 4,
+    "question": "Is it possible that Jane Goodall has seen the Tecopa pupfish in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Tecopa pupfish",
+      "animal_extinction_year": 1981
+    }
+  },
+  {
+    "question_id": 5,
+    "question": "Which of the following animals could Theodore Roosevelt possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Dusky seaside sparrow",
+      "b": "Heath hen",
+      "c": "Passenger pigeon",
+      "d": "Spix's macaw (wild)"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 6,
+    "question": "Is it possible that Malala Yousafzai has seen the Tecopa pupfish in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Tecopa pupfish",
+      "animal_extinction_year": 1981
+    }
+  },
+  {
+    "question_id": 7,
+    "question": "Is it possible that David Attenborough has seen the Western black rhinoceros in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Western black rhinoceros",
+      "animal_extinction_year": 2011
+    }
+  },
+  {
+    "question_id": 8,
+    "question": "Is it possible that Mahatma Gandhi has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Mahatma Gandhi",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 9,
+    "question": "Is it possible that Mahatma Gandhi has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Mahatma Gandhi",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 10,
+    "question": "Is it possible that Frida Kahlo has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Frida Kahlo",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 11,
+    "question": "Which of the following animals could Stephen Hawking possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Baiji (Yangtze river dolphin)",
+      "b": "Great auk",
+      "c": "Quagga",
+      "d": "Thylacine (Tasmanian tiger)"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 12,
+    "question": "Is it possible that Barack Obama has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 13,
+    "question": "Which of the following animals could Barack Obama possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quagga",
+      "b": "Thylacine (Tasmanian tiger)",
+      "c": "Baiji (Yangtze river dolphin)",
+      "d": "Heath hen"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 14,
+    "question": "Could Winston Churchill have possibly seen a Dusky seaside sparrow in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 15,
+    "question": "Is it possible that Albert Einstein has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 16,
+    "question": "Is it possible that Winston Churchill has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Winston Churchill",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 17,
+    "question": "Is it possible that Malala Yousafzai has seen the Golden toad in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Golden toad",
+      "animal_extinction_year": 1989
+    }
+  },
+  {
+    "question_id": 18,
+    "question": "Is it possible that Barack Obama has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 19,
+    "question": "Is it possible that Barack Obama has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 20,
+    "question": "Is it possible that Barack Obama has seen the Western black rhinoceros in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Western black rhinoceros",
+      "animal_extinction_year": 2011
+    }
+  },
+  {
+    "question_id": 21,
+    "question": "Is it possible that Stephen Hawking has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 22,
+    "question": "Is it possible that Barack Obama has seen the Dusky seaside sparrow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Dusky seaside sparrow",
+      "animal_extinction_year": 1987
+    }
+  },
+  {
+    "question_id": 23,
+    "question": "Is it possible that Frida Kahlo has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Frida Kahlo",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 24,
+    "question": "Is it possible that Stephen Hawking has seen the Pyrenean ibex in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Pyrenean ibex",
+      "animal_extinction_year": 2000
+    }
+  },
+  {
+    "question_id": 25,
+    "question": "Is it possible that Stephen Hawking has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 26,
+    "question": "Is it possible that Albert Einstein has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 27,
+    "question": "Which of the following animals could David Attenborough possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Baiji (Yangtze river dolphin)",
+      "b": "Passenger pigeon",
+      "c": "Quagga",
+      "d": "Great auk"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 28,
+    "question": "Could David Attenborough have possibly seen a Heath hen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 29,
+    "question": "Could Barack Obama have possibly seen a Great auk in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 30,
+    "question": "Is it possible that Barack Obama has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 31,
+    "question": "Is it possible that Barack Obama has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 32,
+    "question": "Is it possible that Mahatma Gandhi has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Mahatma Gandhi",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 33,
+    "question": "Is it possible that Barack Obama has seen the Tecopa pupfish in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Tecopa pupfish",
+      "animal_extinction_year": 1981
+    }
+  },
+  {
+    "question_id": 34,
+    "question": "Is it possible that Barack Obama has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 35,
+    "question": "Is it possible that Mahatma Gandhi has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Mahatma Gandhi",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 36,
+    "question": "Is it possible that Frida Kahlo has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Frida Kahlo",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 37,
+    "question": "Could David Attenborough have possibly seen a Tecopa pupfish in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 38,
+    "question": "Is it possible that Malala Yousafzai has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 39,
+    "question": "Is it possible that Winston Churchill has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Winston Churchill",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 40,
+    "question": "Could Winston Churchill have possibly seen a Great auk in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 41,
+    "question": "Is it possible that Malala Yousafzai has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 42,
+    "question": "Is it possible that Queen Elizabeth II has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Elizabeth II",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 43,
+    "question": "Is it possible that Queen Elizabeth II has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Elizabeth II",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 44,
+    "question": "Is it possible that Mahatma Gandhi has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Mahatma Gandhi",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 45,
+    "question": "Is it possible that Queen Elizabeth II has seen the Spix's macaw (wild) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Elizabeth II",
+      "animal": "Spix's macaw (wild)",
+      "animal_extinction_year": 2000
+    }
+  },
+  {
+    "question_id": 46,
+    "question": "Is it possible that Albert Einstein has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 47,
+    "question": "Is it possible that Queen Elizabeth II has seen the Pyrenean ibex in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Elizabeth II",
+      "animal": "Pyrenean ibex",
+      "animal_extinction_year": 2000
+    }
+  },
+  {
+    "question_id": 48,
+    "question": "Is it possible that Jane Goodall has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 49,
+    "question": "Is it possible that Albert Einstein has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 50,
+    "question": "Is it possible that Queen Victoria has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Victoria",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 51,
+    "question": "Which of the following animals could Jane Goodall possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Heath hen",
+      "b": "Passenger pigeon",
+      "c": "Spix's macaw (wild)",
+      "d": "Great auk"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 52,
+    "question": "Which of the following animals could Queen Victoria possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Heath hen",
+      "b": "Pyrenean ibex",
+      "c": "Great auk",
+      "d": "Western black rhinoceros"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 53,
+    "question": "Is it possible that David Attenborough has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 54,
+    "question": "Is it possible that David Attenborough has seen the Western black rhinoceros in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Western black rhinoceros",
+      "animal_extinction_year": 2011
+    }
+  },
+  {
+    "question_id": 55,
+    "question": "Is it possible that David Attenborough has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 56,
+    "question": "Could Queen Victoria have possibly seen a Tecopa pupfish in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 57,
+    "question": "Is it possible that Malala Yousafzai has seen the Spix's macaw (wild) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Spix's macaw (wild)",
+      "animal_extinction_year": 2000
+    }
+  },
+  {
+    "question_id": 58,
+    "question": "Is it possible that Frida Kahlo has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Frida Kahlo",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 59,
+    "question": "Could Frida Kahlo have possibly seen a Tecopa pupfish in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 60,
+    "question": "Is it possible that Barack Obama has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 61,
+    "question": "Which of the following animals could Mahatma Gandhi possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Baiji (Yangtze river dolphin)",
+      "b": "Pinta Island tortoise",
+      "c": "Dusky seaside sparrow",
+      "d": "Quagga"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 62,
+    "question": "Is it possible that Theodore Roosevelt has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 63,
+    "question": "Which of the following animals could Abraham Lincoln possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Great auk",
+      "b": "Thylacine (Tasmanian tiger)",
+      "c": "Spix's macaw (wild)",
+      "d": "Pinta Island tortoise"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 64,
+    "question": "Could David Attenborough have possibly seen a Baiji (Yangtze river dolphin) in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 65,
+    "question": "Is it possible that Theodore Roosevelt has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 66,
+    "question": "Is it possible that Jane Goodall has seen the Pinta Island tortoise in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Pinta Island tortoise",
+      "animal_extinction_year": 2012
+    }
+  },
+  {
+    "question_id": 67,
+    "question": "Is it possible that Albert Einstein has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 68,
+    "question": "Is it possible that David Attenborough has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 69,
+    "question": "Is it possible that Theodore Roosevelt has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 70,
+    "question": "Is it possible that Albert Einstein has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 71,
+    "question": "Is it possible that Stephen Hawking has seen the Golden toad in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Golden toad",
+      "animal_extinction_year": 1989
+    }
+  },
+  {
+    "question_id": 72,
+    "question": "Is it possible that David Attenborough has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 73,
+    "question": "Is it possible that Barack Obama has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 74,
+    "question": "Is it possible that Barack Obama has seen the Golden toad in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Golden toad",
+      "animal_extinction_year": 1989
+    }
+  },
+  {
+    "question_id": 75,
+    "question": "Is it possible that Theodore Roosevelt has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 76,
+    "question": "Is it possible that Malala Yousafzai has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 77,
+    "question": "Is it possible that Jane Goodall has seen the Pinta Island tortoise in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Pinta Island tortoise",
+      "animal_extinction_year": 2012
+    }
+  },
+  {
+    "question_id": 78,
+    "question": "Is it possible that Frida Kahlo has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Frida Kahlo",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 79,
+    "question": "Is it possible that Barack Obama has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 80,
+    "question": "Is it possible that Albert Einstein has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 81,
+    "question": "Is it possible that Winston Churchill has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Winston Churchill",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 82,
+    "question": "Is it possible that Albert Einstein has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 83,
+    "question": "Is it possible that Malala Yousafzai has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 84,
+    "question": "Is it possible that Jane Goodall has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 85,
+    "question": "Could Jane Goodall have possibly seen a Baiji (Yangtze river dolphin) in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 86,
+    "question": "Could Stephen Hawking have possibly seen a Pinta Island tortoise in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 87,
+    "question": "Is it possible that Jane Goodall has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 88,
+    "question": "Which of the following animals could Charles Darwin possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quagga",
+      "b": "Caribbean monk seal",
+      "c": "Thylacine (Tasmanian tiger)",
+      "d": "Great auk"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 89,
+    "question": "Is it possible that Frida Kahlo has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Frida Kahlo",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 90,
+    "question": "Is it possible that Jane Goodall has seen the Spix's macaw (wild) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Spix's macaw (wild)",
+      "animal_extinction_year": 2000
+    }
+  },
+  {
+    "question_id": 91,
+    "question": "Is it possible that Theodore Roosevelt has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 92,
+    "question": "Is it possible that Theodore Roosevelt has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 93,
+    "question": "Is it possible that Stephen Hawking has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 94,
+    "question": "Which of the following animals could Abraham Lincoln possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Spix's macaw (wild)",
+      "b": "Heath hen",
+      "c": "Tecopa pupfish",
+      "d": "Great auk"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 95,
+    "question": "Which of the following animals could Abraham Lincoln possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Thylacine (Tasmanian tiger)",
+      "b": "Spix's macaw (wild)",
+      "c": "Dusky seaside sparrow",
+      "d": "Great auk"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 96,
+    "question": "Is it possible that David Attenborough has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 97,
+    "question": "Is it possible that David Attenborough has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 98,
+    "question": "Is it possible that Malala Yousafzai has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 99,
+    "question": "Is it possible that Jane Goodall has seen the Pinta Island tortoise in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Pinta Island tortoise",
+      "animal_extinction_year": 2012
+    }
+  },
+  {
+    "question_id": 100,
+    "question": "Is it possible that Albert Einstein has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 101,
+    "question": "Is it possible that David Attenborough has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 102,
+    "question": "Which of the following animals could Malala Yousafzai possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Passenger pigeon",
+      "b": "Spix's macaw (wild)",
+      "c": "Great auk",
+      "d": "Heath hen"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 103,
+    "question": "Which of the following animals could Frida Kahlo possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Passenger pigeon",
+      "b": "Tecopa pupfish",
+      "c": "Pinta Island tortoise",
+      "d": "Baiji (Yangtze river dolphin)"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 104,
+    "question": "Is it possible that Albert Einstein has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 105,
+    "question": "Is it possible that Malala Yousafzai has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 106,
+    "question": "Is it possible that Frida Kahlo has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Frida Kahlo",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 107,
+    "question": "Is it possible that Queen Victoria has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Victoria",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 108,
+    "question": "Is it possible that Malala Yousafzai has seen the Golden toad in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Golden toad",
+      "animal_extinction_year": 1989
+    }
+  },
+  {
+    "question_id": 109,
+    "question": "Is it possible that Jane Goodall has seen the Spix's macaw (wild) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Spix's macaw (wild)",
+      "animal_extinction_year": 2000
+    }
+  },
+  {
+    "question_id": 110,
+    "question": "Could Mahatma Gandhi have possibly seen a Dusky seaside sparrow in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 111,
+    "question": "Is it possible that Stephen Hawking has seen the Golden toad in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Golden toad",
+      "animal_extinction_year": 1989
+    }
+  },
+  {
+    "question_id": 112,
+    "question": "Could Barack Obama have possibly seen a Pyrenean ibex in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 113,
+    "question": "Could Frida Kahlo have possibly seen a Pinta Island tortoise in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 114,
+    "question": "Is it possible that Queen Elizabeth II has seen the Baiji (Yangtze river dolphin) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Elizabeth II",
+      "animal": "Baiji (Yangtze river dolphin)",
+      "animal_extinction_year": 2006
+    }
+  },
+  {
+    "question_id": 115,
+    "question": "Is it possible that Theodore Roosevelt has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 116,
+    "question": "Which of the following animals could Stephen Hawking possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Heath hen",
+      "b": "Great auk",
+      "c": "Passenger pigeon",
+      "d": "Tecopa pupfish"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 117,
+    "question": "Is it possible that Malala Yousafzai has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 118,
+    "question": "Could Queen Victoria have possibly seen a Passenger pigeon in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 119,
+    "question": "Is it possible that Queen Elizabeth II has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Elizabeth II",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 120,
+    "question": "Is it possible that David Attenborough has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 121,
+    "question": "Could Stephen Hawking have possibly seen a Western black rhinoceros in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 122,
+    "question": "Is it possible that David Attenborough has seen the Western black rhinoceros in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Western black rhinoceros",
+      "animal_extinction_year": 2011
+    }
+  },
+  {
+    "question_id": 123,
+    "question": "Is it possible that Queen Victoria has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Victoria",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 124,
+    "question": "Is it possible that Jane Goodall has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 125,
+    "question": "Is it possible that Malala Yousafzai has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 126,
+    "question": "Is it possible that Winston Churchill has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Winston Churchill",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 127,
+    "question": "Is it possible that Barack Obama has seen the Pyrenean ibex in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Pyrenean ibex",
+      "animal_extinction_year": 2000
+    }
+  },
+  {
+    "question_id": 128,
+    "question": "Is it possible that Queen Elizabeth II has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Elizabeth II",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 129,
+    "question": "Is it possible that Jane Goodall has seen the Spix's macaw (wild) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Spix's macaw (wild)",
+      "animal_extinction_year": 2000
+    }
+  },
+  {
+    "question_id": 130,
+    "question": "Is it possible that Malala Yousafzai has seen the Tecopa pupfish in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Tecopa pupfish",
+      "animal_extinction_year": 1981
+    }
+  },
+  {
+    "question_id": 131,
+    "question": "Could Jane Goodall have possibly seen a Spix's macaw (wild) in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 132,
+    "question": "Is it possible that Queen Elizabeth II has seen the Golden toad in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Queen Elizabeth II",
+      "animal": "Golden toad",
+      "animal_extinction_year": 1989
+    }
+  },
+  {
+    "question_id": 133,
+    "question": "Could Albert Einstein have possibly seen a Golden toad in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 134,
+    "question": "Is it possible that Barack Obama has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  },
+  {
+    "question_id": 135,
+    "question": "Which of the following animals could Barack Obama possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Great auk",
+      "b": "Quagga",
+      "c": "Pinta Island tortoise",
+      "d": "Thylacine (Tasmanian tiger)"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 136,
+    "question": "Could Queen Elizabeth II have possibly seen a Western black rhinoceros in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 137,
+    "question": "Is it possible that Malala Yousafzai has seen the Dusky seaside sparrow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Dusky seaside sparrow",
+      "animal_extinction_year": 1987
+    }
+  },
+  {
+    "question_id": 138,
+    "question": "Is it possible that David Attenborough has seen the Baiji (Yangtze river dolphin) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Baiji (Yangtze river dolphin)",
+      "animal_extinction_year": 2006
+    }
+  },
+  {
+    "question_id": 139,
+    "question": "Is it possible that Theodore Roosevelt has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 140,
+    "question": "Is it possible that Winston Churchill has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Winston Churchill",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 141,
+    "question": "Is it possible that Malala Yousafzai has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 142,
+    "question": "Could Queen Victoria have possibly seen a Dusky seaside sparrow in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 143,
+    "question": "Is it possible that Mahatma Gandhi has seen the Heath hen in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Mahatma Gandhi",
+      "animal": "Heath hen",
+      "animal_extinction_year": 1932
+    }
+  },
+  {
+    "question_id": 144,
+    "question": "Is it possible that Stephen Hawking has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 145,
+    "question": "Which of the following animals could Albert Einstein possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quagga",
+      "b": "Great auk",
+      "c": "Tecopa pupfish",
+      "d": "Spix's macaw (wild)"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 146,
+    "question": "Could Jane Goodall have possibly seen a Baiji (Yangtze river dolphin) in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 147,
+    "question": "Is it possible that Jane Goodall has seen the Western black rhinoceros in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Jane Goodall",
+      "animal": "Western black rhinoceros",
+      "animal_extinction_year": 2011
+    }
+  },
+  {
+    "question_id": 148,
+    "question": "Is it possible that Stephen Hawking has seen the Western black rhinoceros in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Western black rhinoceros",
+      "animal_extinction_year": 2011
+    }
+  },
+  {
+    "question_id": 149,
+    "question": "Is it possible that Stephen Hawking has seen the Great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Great auk",
+      "animal_extinction_year": 1844
+    }
+  },
+  {
+    "question_id": 150,
+    "question": "Is it possible that Barack Obama has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 151,
+    "question": "Could Mahatma Gandhi have possibly seen a Heath hen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 152,
+    "question": "Is it possible that Stephen Hawking has seen the Western black rhinoceros in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Western black rhinoceros",
+      "animal_extinction_year": 2011
+    }
+  },
+  {
+    "question_id": 153,
+    "question": "Is it possible that David Attenborough has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "David Attenborough",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 154,
+    "question": "Is it possible that Theodore Roosevelt has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Theodore Roosevelt",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 155,
+    "question": "Is it possible that Barack Obama has seen the Caribbean monk seal in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Barack Obama",
+      "animal": "Caribbean monk seal",
+      "animal_extinction_year": 1952
+    }
+  },
+  {
+    "question_id": 156,
+    "question": "Which of the following animals could Queen Victoria possibly have seen in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Spix's macaw (wild)",
+      "b": "Western black rhinoceros",
+      "c": "Thylacine (Tasmanian tiger)",
+      "d": "Great auk"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 157,
+    "question": "Is it possible that Malala Yousafzai has seen the Passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Malala Yousafzai",
+      "animal": "Passenger pigeon",
+      "animal_extinction_year": 1914
+    }
+  },
+  {
+    "question_id": 158,
+    "question": "Is it possible that Stephen Hawking has seen the Thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Stephen Hawking",
+      "animal": "Thylacine (Tasmanian tiger)",
+      "animal_extinction_year": 1936
+    }
+  },
+  {
+    "question_id": 159,
+    "question": "Could Theodore Roosevelt have possibly seen a Great auk in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not enough information",
+      "d": "Only in a museum after 2100"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct"
+  },
+  {
+    "question_id": 160,
+    "question": "Is it possible that Albert Einstein has seen the Quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "meta": {
+      "person": "Albert Einstein",
+      "animal": "Quagga",
+      "animal_extinction_year": 1883
+    }
+  }
+]

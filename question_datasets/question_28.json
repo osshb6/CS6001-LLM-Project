@@ -1,0 +1,1000 @@
+[
+  {
+    "question_id": 1,
+    "question": "If the discovery of human mitochondrial Eve had never occurred, later discoveries about global population divergence would have lacked a unified genetic starting point.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "If the discovery of the Indo-European language family had not occurred, which later discovery would have lacked crucial linguistic evidence?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of prehistoric migration routes into Europe and South Asia",
+      "b": "The discovery of coral reef ecosystems",
+      "c": "The discovery of chemical valence rules",
+      "d": "The discovery of lunar volcanic plains"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 3,
+    "question": "If the discovery that Neanderthals interbred with modern humans had not occurred, explanations for certain immune gene patterns would remain incomplete.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "Which later discovery would be harder to explain if ancient Denisovan DNA had never been discovered?",
+    "type": "MCQ",
+    "options": {
+      "a": "The unique genetic adaptations to high altitude in Tibetan populations",
+      "b": "The rotational speed of Earth",
+      "c": "The origin of the Fibonacci sequence",
+      "d": "The formation of stalactites"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 5,
+    "question": "If the discovery of continental outlines matching across oceans had never occurred, evidence for early supercontinents would remain speculative.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "If the discovery of the African Rift Valley fossils had not occurred, which later discovery about human evolution would face major setbacks?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of the timeline for bipedal evolution",
+      "b": "The discovery of electron spin",
+      "c": "The discovery of atmospheric layers",
+      "d": "The discovery of ocean salinity changes"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 7,
+    "question": "If the discovery of ancient Sumerian writing tablets had never occurred, historians would lack direct evidence for urban economic systems in early civilizations.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 8,
+    "question": "If the discovery of the Rosetta Stone had never occurred, which other major historical discovery would have been blocked?",
+    "type": "MCQ",
+    "options": {
+      "a": "The deciphering of Egyptian hieroglyphs",
+      "b": "The discovery of black hole spin",
+      "c": "The discovery of plant transpiration",
+      "d": "The discovery of Keynesian macroeconomics"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 9,
+    "question": "If the discovery of the Bering land bridge migration evidence had not occurred, models of early American population routes would lack coherence.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "If the discovery of Clovis archaeological sites had not occurred, which later discovery about ancient American cultures would lack context?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of pre-Clovis coastal migration evidence",
+      "b": "The discovery of the prime meridian",
+      "c": "The discovery of oxygen isotopes",
+      "d": "The discovery of blue whales' feeding patterns"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 11,
+    "question": "If the discovery of the greenhouse effect by Fourier had never happened, later climate change discoveries would lack a fundamental mechanism for heat trapping.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "If the discovery of the ozone hole had not occurred, what later discovery would lack environmental urgency?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of harmful UV-induced DNA mutations in ecosystems",
+      "b": "The discovery of continental erosion patterns",
+      "c": "The discovery of glacial moraine distribution",
+      "d": "The discovery of whale infrasound communication"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 13,
+    "question": "If the discovery of general relativity had not occurred, the later discovery of gravitational lensing would be mathematically unsupported.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "If the discovery of cosmic expansion had not been made, which later discovery would struggle for validation?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of dark energy acceleration",
+      "b": "The discovery of bronze metallurgy",
+      "c": "The discovery of Neolithic crop rotations",
+      "d": "The discovery of Indo-Pacific language families"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 15,
+    "question": "If the discovery of classical conditioning by Pavlov had never occurred, many discoveries in behavioral psychology would lack foundational experimental structure.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "If the discovery of cognitive biases by Tversky and Kahneman had not occurred, which later discovery would be weakened?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of behavioral economics deviations from rational choice theory",
+      "b": "The discovery of Arctic permafrost layers",
+      "c": "The discovery of quantum tunneling",
+      "d": "The discovery of primate bone density"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 17,
+    "question": "If the discovery of microplastics in oceans had never emerged, ecological studies on marine food webs would lack crucial contamination evidence.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "If the discovery of deep-sea hydrothermal vents had not occurred, which later discovery about life’s origins would be ungrounded?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of chemosynthetic ecosystems",
+      "b": "The discovery of prime number distribution",
+      "c": "The discovery of language acquisition stages",
+      "d": "The discovery of Bronze Age trade networks"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 19,
+    "question": "If the discovery of linguistic phonemes had never occurred, later structural linguistics would lack a standard unit of speech analysis.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "If the discovery of the Afro-Asiatic language family had not occurred, which later discovery would lack crucial comparative evidence?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of ancient North African migration patterns",
+      "b": "The discovery of glacial retreat cycles",
+      "c": "The discovery of radio spectral lines",
+      "d": "The discovery of primate tool usage"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 21,
+    "question": "If the discovery of Gödel’s incompleteness theorems never happened, limits of formal mathematical systems would remain misunderstood across logic and computer science.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "If the discovery of imaginary numbers had not occurred, which later discovery would lack mathematical feasibility?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of complex Fourier analysis",
+      "b": "The discovery of coral reef zonation",
+      "c": "The discovery of atmospheric Hadley cells",
+      "d": "The discovery of primate bipedalism"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 23,
+    "question": "If the discovery of ancient water channels in Mesopotamia had not occurred, later discoveries about early irrigation societies would remain incomplete.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 24,
+    "question": "If the discovery of the Harappan drainage system had not occurred, which later discovery would lack crucial architectural comparison?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of Roman aqueduct engineering parallels",
+      "b": "The discovery of DNA transcription",
+      "c": "The discovery of magnetic field reversal",
+      "d": "The discovery of ionospheric scattering"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 25,
+    "question": "If the discovery of Polynesian wayfinding star charts had never occurred, later findings on transoceanic migration would lack direct navigational evidence.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 26,
+    "question": "If the discovery of Saharan fossil riverbeds had not occurred, which later discovery would face interpretation issues?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of ancient human migration corridors into the Mediterranean",
+      "b": "The discovery of gravitational lensing",
+      "c": "The discovery of psycholinguistic working memory",
+      "d": "The discovery of freshwater thermoclines"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 27,
+    "question": "If the discovery of human mirror neurons never occurred, explanations for empathy and imitation in psychology would remain speculative.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "If the discovery of REM sleep patterns had not occurred, which later discovery would be less understood?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of memory consolidation during sleep",
+      "b": "The discovery of atmospheric convection",
+      "c": "The discovery of ancient pottery glazing",
+      "d": "The discovery of quasar redshifts"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 29,
+    "question": "If the discovery of the Mediterranean Bronze Age trade network had never been made, later discoveries about cultural diffusion would lack strong archaeological evidence.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "If the discovery of Viking presence in North America had not occurred, which later discovery would lose historical context?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of pre-Columbian transatlantic contact",
+      "b": "The discovery of desert dune dynamics",
+      "c": "The discovery of primate hormone cycles",
+      "d": "The discovery of mantle plume hotspots"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 31,
+    "question": "If the discovery of ancient Mayan astronomical observatories had never occurred, interpretations of premodern calendrical accuracy would remain underestimated.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "If the discovery of Babylonian trigonometric tablets had not occurred, which later discovery would lack historical continuity?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of modern trigonometric identities",
+      "b": "The discovery of hydrothermal vents",
+      "c": "The discovery of oceanic salinity layers",
+      "d": "The discovery of seagrass pollination"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 33,
+    "question": "If the discovery of ancient Australian rock art dating had never occurred, interpretations of early symbolic cognition would lack chronological anchors.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "If the discovery of the Denisovan cave genome had never happened, which later discovery would lack comparative data?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of gene flow between Denisovans and Southeast Asian islander populations",
+      "b": "The discovery of atmospheric jet streams",
+      "c": "The discovery of lunar permafrost",
+      "d": "The discovery of neural axon regeneration"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 35,
+    "question": "If the discovery of medieval Islamic algebra manuscripts had not occurred, the history of mathematical development would lack key transitional evidence.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 36,
+    "question": "If the discovery of irrational numbers had never occurred, which later discovery in mathematics would be obstructed?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of real number completeness",
+      "b": "The discovery of desert dust storms",
+      "c": "The discovery of whale blood oxygenation",
+      "d": "The discovery of basalt column formation"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 37,
+    "question": "If the discovery of Homo floresiensis fossils had never occurred, interpretations of human species diversity would remain narrower.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "If the discovery of ancient Polynesian DNA signatures had not occurred, which later discovery would struggle for confirmation?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of Polynesian–South American contact probabilities",
+      "b": "The discovery of the ozone layer",
+      "c": "The discovery of Arctic ice core CO₂",
+      "d": "The discovery of amphibian respiration cycles"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 39,
+    "question": "If the discovery of the Silk Road’s full geographical extent had not occurred, later discoveries about cross-cultural exchange of ideas would lack infrastructural proof.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "If the discovery of ancient Chinese seismographs had not occurred, which later discovery would lack technological lineage?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of early earthquake detection principles",
+      "b": "The discovery of Martian basalt fields",
+      "c": "The discovery of symbiotic nitrogen fixation",
+      "d": "The discovery of social contract theory"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 41,
+    "question": "If the discovery of Bronze Age metallurgy techniques had never been made, interpretations of early economic specialization would lack technological clarity.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "If the discovery of obsidian trade routes had not occurred, which later discovery would lack evidence for prehistoric long-distance exchange?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of tool material sourcing across continents",
+      "b": "The discovery of oceanic plate subduction",
+      "c": "The discovery of primate neocortex layering",
+      "d": "The discovery of nocturnal floral pollination"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 43,
+    "question": "If the discovery of the Gregorian calendar’s astronomical basis had never occurred, timekeeping refinements in later eras would remain misaligned with solar cycles.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "If the discovery that the Nile flooded seasonally based on Ethiopian rainfall had not occurred, which later discovery would lack environmental coherence?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of ancient Egypt’s agricultural cycles",
+      "b": "The discovery of protein tertiary structures",
+      "c": "The discovery of gravitational waveforms",
+      "d": "The discovery of plate boundary rifting"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 45,
+    "question": "If the discovery of Catalhöyük’s urban planning had not occurred, theories of early proto-cities would lack archaeological examples.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "If the discovery of Gobekli Tepe’s ritual structures had not happened, which later discovery would remain difficult to contextualize?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery that cosmology and architecture intersected in early societies",
+      "b": "The discovery of neutron star densities",
+      "c": "The discovery of tectonic slab pull forces",
+      "d": "The discovery of insect colony chemical signaling"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 47,
+    "question": "If the discovery of ancient Greek proofs had never occurred, modern mathematical rigor would lack historical grounding in deductive reasoning.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 48,
+    "question": "If the discovery of non-Euclidean geometry had not occurred, which later discovery would lack theoretical foundation?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of curved spacetime in general relativity",
+      "b": "The discovery of coral polysaccharide structures",
+      "c": "The discovery of auditory cortex tonotopy",
+      "d": "The discovery of tree ring climate proxies"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 49,
+    "question": "If the discovery of Bronze Age writing systems had not occurred, the historical chronology of early kingdoms would be largely speculative.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 50,
+    "question": "If the discovery of ancient river delta settlements had not occurred, what later discovery would lose cultural context?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of maritime trade evolution",
+      "b": "The discovery of DNA methylation",
+      "c": "The discovery of quasar jets",
+      "d": "The discovery of atmospheric standing waves"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 51,
+    "question": "If the discovery of human cognitive development stages never occurred, educational psychology models would lack foundational progression theories.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "If the discovery of attention span limits had not occurred, which later discovery in user-experience design would be weakened?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of interface cognitive load thresholds",
+      "b": "The discovery of seamount chains",
+      "c": "The discovery of coral reef chemotypes",
+      "d": "The discovery of cosmic ray scattering"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 53,
+    "question": "If the discovery of macroeconomic boom-bust cycles had not occurred, later discoveries about systemic financial risk would remain disconnected.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "If the discovery of supply-and-demand equilibrium had not occurred, which later economic discovery would lack its mathematical basis?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of price elasticity theory",
+      "b": "The discovery of basalt pillow lavas",
+      "c": "The discovery of synaptic pruning",
+      "d": "The discovery of atmospheric tides"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 55,
+    "question": "If the discovery of human serotonin pathways had not occurred, neuroscience explanations of mood regulation would lack biochemical grounding.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "If the discovery of neuroplasticity had never been made, which later discovery would lack mechanistic explanation?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of post-stroke cognitive recovery patterns",
+      "b": "The discovery of river bedload transport",
+      "c": "The discovery of Jovian atmosphere bands",
+      "d": "The discovery of plant root tropisms"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 57,
+    "question": "If the discovery of the El Niño climate oscillation had never occurred, global weather prediction discoveries would suffer significant uncertainty.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "If the discovery of monsoon cycle dynamics had not occurred, which later discovery would lack climatic grounding?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of Indian Ocean dipole patterns",
+      "b": "The discovery of genomic imprinting",
+      "c": "The discovery of atherosclerotic plaque",
+      "d": "The discovery of subglacial volcanic eruptions"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 59,
+    "question": "If the discovery of ancient Greek democratic assemblies had never occurred, later political science discoveries about participatory governance would lack comparative origins.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "If the discovery of the Roman legal code had not occurred, which later discovery would lack historical precedent?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of modern civil law foundations",
+      "b": "The discovery of stellar evolution",
+      "c": "The discovery of freshwater stratification",
+      "d": "The discovery of coral reproductive cycles"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 61,
+    "question": "If the discovery of ocean floor magnetic striping never occurred, evidence for plate spreading would be far weaker.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "If the discovery of deep Earth seismic shadow zones had not occurred, which later discovery would be unclear?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of Earth’s liquid outer core",
+      "b": "The discovery of amphibian metamorphosis",
+      "c": "The discovery of neolithic pottery kilns",
+      "d": "The discovery of coral mucus chemistry"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 63,
+    "question": "If the discovery of snowball Earth geological evidence had not occurred, later discoveries about global climate cycles would lack extreme-case studies.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "If the discovery of glacial varves had never been made, which later discovery would struggle to emerge?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of annual paleoclimate dating",
+      "b": "The discovery of heliocentric orbital tilt",
+      "c": "The discovery of linguistic tone shifts",
+      "d": "The discovery of cetacean hearing ranges"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 65,
+    "question": "If the discovery of archaic trade weights had never occurred, the study of early standardization systems would lack empirical evidence.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 66,
+    "question": "If the discovery of ancient currency hoards had not occurred, which later discovery would lack comparative data?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of regional economic integration levels",
+      "b": "The discovery of atmospheric vortex rings",
+      "c": "The discovery of yeast fermentation",
+      "d": "The discovery of cosmic dust mineralogy"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 67,
+    "question": "If the discovery of human cultural hearth regions had not occurred, patterns of early innovation diffusion would remain poorly explained.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "If the discovery of Austronesian expansion evidence had never occurred, which later discovery would lose coherence?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of Lapita pottery distribution",
+      "b": "The discovery of quasar microlensing",
+      "c": "The discovery of cytokine storms",
+      "d": "The discovery of lithospheric delamination"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 69,
+    "question": "If the discovery of ancient flood myths alignment across cultures had not occurred, comparative mythology discoveries would lack cross-civilizational support.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "If the discovery of Göbekli Tepe’s astronomical alignment had never occurred, which later discovery would lack symbolic context?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery that prehistoric architecture encoded celestial cycles",
+      "b": "The discovery of exoplanet transit timing",
+      "c": "The discovery of polygenic traits",
+      "d": "The discovery of desert varnish microbes"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 71,
+    "question": "If the discovery of the spice trade’s global extent never occurred, later discoveries about mercantile economic shifts would lack foundational evidence.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "If the discovery of ancient shipwreck cargo manifests had not occurred, which later discovery would lack maritime evidence?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of interregional commodity specialization",
+      "b": "The discovery of magma convection",
+      "c": "The discovery of plant circadian rhythms",
+      "d": "The discovery of tinnitus neural coding"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 73,
+    "question": "If the discovery of early astronomical star catalogs had not occurred, later discoveries of premodern navigation accuracy would lack empirical support.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "If the discovery of precession of the equinoxes had not occurred, which later discovery would lack theoretical grounding?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of long-term climate astronomical cycles",
+      "b": "The discovery of bacterial quorum sensing",
+      "c": "The discovery of sand dune corrugation",
+      "d": "The discovery of mammalian olfactory mapping"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 75,
+    "question": "If the discovery of the metric system’s scientific basis never occurred, later global standardization efforts would lack rational calibration principles.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "If the discovery of prime number distribution patterns had not occurred, which later mathematical discovery would struggle?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of modern cryptographic algorithms",
+      "b": "The discovery of synaptic vesicle cycling",
+      "c": "The discovery of mantle mineral polymorphs",
+      "d": "The discovery of climate stratification"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 77,
+    "question": "If the discovery of stratified societal classes in ancient records had never occurred, sociological theories about early inequalities would lack historical grounding.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "If the discovery of the Code of Hammurabi had not occurred, which later discovery would lack jurisprudential lineage?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of early legal standardization principles",
+      "b": "The discovery of asteroid luminosity curves",
+      "c": "The discovery of wood decomposition stages",
+      "d": "The discovery of island biogeography"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 79,
+    "question": "If the discovery of ancient irrigation agriculture had never occurred, later discoveries about settlement density would lack explanatory mechanisms.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 80,
+    "question": "If the discovery of terraced farming in the Andes had not occurred, which later discovery would be weakened?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of high-altitude agricultural adaptation",
+      "b": "The discovery of radar Doppler shifts",
+      "c": "The discovery of coral bleaching",
+      "d": "The discovery of soil nematode cycles"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 81,
+    "question": "If the discovery of the Silk Road Buddhist transmission had never occurred, later discoveries about religious diffusion would lack cross-cultural evidence.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "If the discovery of pre-Islamic Arabian trade hubs had not occurred, which later discovery would lose economic context?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of early Meccan trade networks",
+      "b": "The discovery of Bose-Einstein condensates",
+      "c": "The discovery of chemical chaperones",
+      "d": "The discovery of ocean gyres"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 83,
+    "question": "If the discovery of early Greek philosophical schools had never occurred, later discoveries about Western logic frameworks would lack historical roots.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "If the discovery of Buddhist Abhidharma texts had not occurred, which later discovery would lack comparative tradition context?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of cross-cultural theories of mind",
+      "b": "The discovery of atmospheric Kelvin waves",
+      "c": "The discovery of lunar tidal locking",
+      "d": "The discovery of planetary albedo patterns"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 85,
+    "question": "If the discovery of ancient trade winds had not occurred, later navigation discoveries would lack systemic explanation for consistent oceanic travel patterns.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 86,
+    "question": "If the discovery of monsoon reversal patterns had not occurred, which later discovery would lack climatic grounding?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of Indian Ocean seasonal trade cycles",
+      "b": "The discovery of dairy fermentation",
+      "c": "The discovery of continental shelves",
+      "d": "The discovery of primate grooming hierarchies"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 87,
+    "question": "If the discovery of genetic drift had never occurred, evolutionary population models would lack stochastic components.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 88,
+    "question": "If the discovery of epigenetic inheritance had not occurred, which later discovery would lack molecular grounding?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of environmentally induced gene expression changes",
+      "b": "The discovery of plate subduction angles",
+      "c": "The discovery of fungal mycelial networks",
+      "d": "The discovery of Arctic permafrost methane"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 89,
+    "question": "If the discovery of chronobiology never occurred, explanations for species-specific circadian cycles would remain fragmented.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 90,
+    "question": "If the discovery of melatonin regulation had not occurred, which later discovery would be harder to interpret?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of sleep-wake cycle entrainment",
+      "b": "The discovery of volcanic ash dispersal",
+      "c": "The discovery of linguistic tone shifts",
+      "d": "The discovery of seagrass reproduction"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 91,
+    "question": "If the discovery of monotheistic textual synchronicity had never occurred, later discoveries in comparative religion would lack structural parallels.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "If the discovery of ancient Zoroastrian ritual texts had not occurred, which later discovery would lack comparative theological grounding?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of cross-influences between Abrahamic traditions",
+      "b": "The discovery of Martian regolith layers",
+      "c": "The discovery of platypus venom genes",
+      "d": "The discovery of equatorial upwelling currents"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 93,
+    "question": "If the discovery of deep Earth mineral inclusions in diamonds had never occurred, explanations for mantle composition would lack physical samples.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "If the discovery of volcanic hotspot chains had not occurred, which later discovery would lack structural evidence?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of plate motion vectors",
+      "b": "The discovery of primate vocal learning",
+      "c": "The discovery of atmospheric heat islands",
+      "d": "The discovery of cetacean sonar mapping"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 95,
+    "question": "If the discovery of the genetic code’s universality never occurred, explanations for cross-species protein synthesis would lack mechanistic unity.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 96,
+    "question": "If the discovery of ribozymes had not occurred, which later discovery would lack molecular support?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of the RNA world hypothesis",
+      "b": "The discovery of continental rain shadows",
+      "c": "The discovery of oceanic thermal vents",
+      "d": "The discovery of neural dendritic pruning"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 97,
+    "question": "If the discovery of ancient Babylonian market tablets had not occurred, economic historians would lack early quantitative trade records.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "If the discovery of medieval Silk Road taxation ledgers had never occurred, which later discovery would struggle for validation?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of population-level trade imbalances",
+      "b": "The discovery of photosynthetic C4 pathways",
+      "c": "The discovery of quasar accretion disks",
+      "d": "The discovery of sponge microbiomes"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 99,
+    "question": "If the discovery of genetic bottleneck events never occurred, explanations for reduced genetic diversity in certain populations would lack historical context.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "If the discovery of ancient megafauna extinction timelines had not occurred, which later discovery would lack ecological grounding?",
+    "type": "MCQ",
+    "options": {
+      "a": "The discovery of human-impact driven extinction waves",
+      "b": "The discovery of magnetospheric storms",
+      "c": "The discovery of deep-sea brine pools",
+      "d": "The discovery of enzymatic cofactor recycling"
+    },
+    "answer": "a"
+  }
+]

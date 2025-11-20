@@ -1,0 +1,1842 @@
+[
+  {
+    "question_id": 1,
+    "question": "Did Charles de Gaulle declare the start of World War I in the presence of Franklin D. Roosevelt in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 2,
+    "question": "Did Charles de Gaulle declare war on Germany in the presence of Adolf Hitler in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 3,
+    "question": "Did Franklin D. Roosevelt declare the start of World War I in the presence of Adolf Hitler in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 4,
+    "question": "What did Harry S. Truman declare in the presence of Adolf Hitler in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "a nuclear test ban treaty",
+      "b": "the end of World War II",
+      "c": "the start of World War I",
+      "d": "war on Germany"
+    },
+    "answer": "d",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 5,
+    "question": "Did Franklin D. Roosevelt declare war on Germany in the presence of Winston Churchill in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 6,
+    "question": "Did Charles de Gaulle declare war on Japan in the presence of Adolf Hitler in 1995?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 7,
+    "question": "Did Franklin D. Roosevelt declare the start of World War I in the presence of Harry S. Truman in 1913?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 8,
+    "question": "In which year did Adolf Hitler declare war on Japan in the presence of Charles de Gaulle?",
+    "type": "MCQ",
+    "options": {
+      "a": "1941",
+      "b": "1960",
+      "c": "1900",
+      "d": "1914"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 9,
+    "question": "Did Winston Churchill declare a nuclear test ban treaty in the presence of Charles de Gaulle in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 10,
+    "question": "Did Adolf Hitler declare war on Germany in the presence of Winston Churchill in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 11,
+    "question": "Did Joseph Stalin declare war on Germany in the presence of Winston Churchill in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 12,
+    "question": "Did Winston Churchill declare the end of World War II in the presence of Adolf Hitler in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 13,
+    "question": "Did Joseph Stalin declare war on Japan in the presence of Charles de Gaulle in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 14,
+    "question": "Did Adolf Hitler declare independence for a European colony in the presence of Winston Churchill in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 15,
+    "question": "Did Charles de Gaulle declare war on Germany in the presence of Harry S. Truman in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 16,
+    "question": "Did Harry S. Truman declare independence for a European colony in the presence of Winston Churchill in 2040?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 17,
+    "question": "Did Winston Churchill declare the end of World War II in the presence of Franklin D. Roosevelt in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 18,
+    "question": "Did Franklin D. Roosevelt declare independence for a European colony in the presence of Winston Churchill in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 19,
+    "question": "Did Charles de Gaulle declare the end of World War II in the presence of Winston Churchill in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 20,
+    "question": "Did Joseph Stalin declare the end of World War II in the presence of Charles de Gaulle in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 21,
+    "question": "Did Charles de Gaulle declare war on Germany in the presence of Winston Churchill in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 22,
+    "question": "What did Joseph Stalin declare in the presence of Franklin D. Roosevelt in 1990?",
+    "type": "MCQ",
+    "options": {
+      "a": "the end of World War II",
+      "b": "a nuclear test ban treaty",
+      "c": "war on Japan",
+      "d": "the start of World War I"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 23,
+    "question": "What did Adolf Hitler declare in the presence of Franklin D. Roosevelt in 1914?",
+    "type": "MCQ",
+    "options": {
+      "a": "war on Japan",
+      "b": "independence for a European colony",
+      "c": "war on Germany",
+      "d": "the start of World War I"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 24,
+    "question": "In whose presence did Winston Churchill declare a nuclear test ban treaty in 1990?",
+    "type": "MCQ",
+    "options": {
+      "a": "Franklin D. Roosevelt",
+      "b": "Harry S. Truman",
+      "c": "Adolf Hitler",
+      "d": "Joseph Stalin"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 25,
+    "question": "What did Winston Churchill declare in the presence of Adolf Hitler in 1990?",
+    "type": "MCQ",
+    "options": {
+      "a": "the end of World War II",
+      "b": "war on Germany",
+      "c": "independence for a European colony",
+      "d": "the start of World War I"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 26,
+    "question": "Did Joseph Stalin declare war on Germany in the presence of Charles de Gaulle in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 27,
+    "question": "Did Harry S. Truman declare war on Japan in the presence of Winston Churchill in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 28,
+    "question": "Did Winston Churchill declare war on Japan in the presence of Joseph Stalin in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 29,
+    "question": "Did Adolf Hitler declare war on Germany in the presence of Franklin D. Roosevelt in 1944?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 30,
+    "question": "Did Harry S. Truman declare war on Germany in the presence of Charles de Gaulle in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 31,
+    "question": "Did Charles de Gaulle declare war on Germany in the presence of Harry S. Truman in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 32,
+    "question": "In which year did Charles de Gaulle declare war on Japan in the presence of Joseph Stalin?",
+    "type": "MCQ",
+    "options": {
+      "a": "1939",
+      "b": "1898",
+      "c": "1958",
+      "d": "1912"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 33,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Joseph Stalin in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 34,
+    "question": "Did Franklin D. Roosevelt declare a nuclear test ban treaty in the presence of Charles de Gaulle in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 35,
+    "question": "Did Adolf Hitler declare the start of World War I in the presence of Winston Churchill in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 36,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Adolf Hitler in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 37,
+    "question": "Did Joseph Stalin declare the end of World War II in the presence of Adolf Hitler in 2053?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 38,
+    "question": "Did Joseph Stalin declare independence for a European colony in the presence of Adolf Hitler in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 39,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Charles de Gaulle in 2033?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 40,
+    "question": "Did Joseph Stalin declare a nuclear test ban treaty in the presence of Adolf Hitler in 1884?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 41,
+    "question": "Did Winston Churchill declare the start of World War I in the presence of Harry S. Truman in 2040?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 42,
+    "question": "Did Joseph Stalin declare the end of World War II in the presence of Harry S. Truman in 1915?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 43,
+    "question": "Did Franklin D. Roosevelt declare independence for a European colony in the presence of Adolf Hitler in 1991?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 44,
+    "question": "Did Harry S. Truman declare war on Japan in the presence of Joseph Stalin in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 45,
+    "question": "In which year did Franklin D. Roosevelt declare war on Germany in the presence of Harry S. Truman?",
+    "type": "MCQ",
+    "options": {
+      "a": "1933",
+      "b": "1887",
+      "c": "1914",
+      "d": "1873"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 46,
+    "question": "Did Harry S. Truman declare a nuclear test ban treaty in the presence of Charles de Gaulle in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 47,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Winston Churchill in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 48,
+    "question": "Did Harry S. Truman declare independence for a European colony in the presence of Joseph Stalin in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 49,
+    "question": "Did Harry S. Truman declare independence for a European colony in the presence of Winston Churchill in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 50,
+    "question": "Did Franklin D. Roosevelt declare the end of World War II in the presence of Harry S. Truman in 1864?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 51,
+    "question": "Did Joseph Stalin declare a nuclear test ban treaty in the presence of Franklin D. Roosevelt in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 52,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Adolf Hitler in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 53,
+    "question": "Did Charles de Gaulle declare war on Japan in the presence of Adolf Hitler in 2020?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 54,
+    "question": "Did Harry S. Truman declare war on Germany in the presence of Franklin D. Roosevelt in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 55,
+    "question": "Did Franklin D. Roosevelt declare the end of World War II in the presence of Winston Churchill in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 56,
+    "question": "What did Charles de Gaulle declare in the presence of Winston Churchill in 1990?",
+    "type": "MCQ",
+    "options": {
+      "a": "a nuclear test ban treaty",
+      "b": "war on Germany",
+      "c": "the start of World War I",
+      "d": "war on Japan"
+    },
+    "answer": "d",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 57,
+    "question": "In whose presence did Harry S. Truman declare the end of World War II in 2003?",
+    "type": "MCQ",
+    "options": {
+      "a": "Adolf Hitler",
+      "b": "Joseph Stalin",
+      "c": "Franklin D. Roosevelt",
+      "d": "Charles de Gaulle"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 58,
+    "question": "Did Harry S. Truman declare the start of World War I in the presence of Winston Churchill in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 59,
+    "question": "What did Winston Churchill declare in the presence of Joseph Stalin in 1939?",
+    "type": "MCQ",
+    "options": {
+      "a": "the end of World War II",
+      "b": "war on Germany",
+      "c": "a nuclear test ban treaty",
+      "d": "independence for a European colony"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 60,
+    "question": "Did Adolf Hitler declare a nuclear test ban treaty in the presence of Harry S. Truman in 1995?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 61,
+    "question": "Did Charles de Gaulle declare war on Japan in the presence of Harry S. Truman in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 62,
+    "question": "Did Winston Churchill declare the start of World War I in the presence of Adolf Hitler in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 63,
+    "question": "In whose presence did Winston Churchill declare the start of World War I in 1941?",
+    "type": "MCQ",
+    "options": {
+      "a": "Charles de Gaulle",
+      "b": "Joseph Stalin",
+      "c": "Adolf Hitler",
+      "d": "Franklin D. Roosevelt"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 64,
+    "question": "Did Charles de Gaulle declare the start of World War I in the presence of Adolf Hitler in 1995?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 65,
+    "question": "Did Adolf Hitler declare a nuclear test ban treaty in the presence of Harry S. Truman in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 66,
+    "question": "Did Winston Churchill declare independence for a European colony in the presence of Harry S. Truman in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 67,
+    "question": "What did Adolf Hitler declare in the presence of Joseph Stalin in 1941?",
+    "type": "MCQ",
+    "options": {
+      "a": "a nuclear test ban treaty",
+      "b": "war on Japan",
+      "c": "independence for a European colony",
+      "d": "the start of World War I"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 68,
+    "question": "What did Franklin D. Roosevelt declare in the presence of Charles de Gaulle in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "the end of World War II",
+      "b": "war on Germany",
+      "c": "a nuclear test ban treaty",
+      "d": "the start of World War I"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 69,
+    "question": "Did Franklin D. Roosevelt declare war on Germany in the presence of Harry S. Truman in 1884?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 70,
+    "question": "In whose presence did Winston Churchill declare a nuclear test ban treaty in 1914?",
+    "type": "MCQ",
+    "options": {
+      "a": "Harry S. Truman",
+      "b": "Adolf Hitler",
+      "c": "Charles de Gaulle",
+      "d": "Franklin D. Roosevelt"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 71,
+    "question": "Did Winston Churchill declare a nuclear test ban treaty in the presence of Joseph Stalin in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 72,
+    "question": "Did Winston Churchill declare the end of World War II in the presence of Joseph Stalin in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 73,
+    "question": "Did Harry S. Truman declare independence for a European colony in the presence of Franklin D. Roosevelt in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 74,
+    "question": "What did Winston Churchill declare in the presence of Adolf Hitler in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "a nuclear test ban treaty",
+      "b": "war on Japan",
+      "c": "war on Germany",
+      "d": "independence for a European colony"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 75,
+    "question": "Did Charles de Gaulle declare independence for a European colony in the presence of Harry S. Truman in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 76,
+    "question": "Did Charles de Gaulle declare war on Germany in the presence of Franklin D. Roosevelt in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 77,
+    "question": "In which year did Joseph Stalin declare the start of World War I in the presence of Harry S. Truman?",
+    "type": "MCQ",
+    "options": {
+      "a": "1912",
+      "b": "1958",
+      "c": "1898",
+      "d": "1939"
+    },
+    "answer": "d",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 78,
+    "question": "What did Adolf Hitler declare in the presence of Winston Churchill in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "the end of World War II",
+      "b": "war on Germany",
+      "c": "a nuclear test ban treaty",
+      "d": "the start of World War I"
+    },
+    "answer": "d",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 79,
+    "question": "In whose presence did Charles de Gaulle declare the start of World War I in 1941?",
+    "type": "MCQ",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Adolf Hitler",
+      "c": "Franklin D. Roosevelt",
+      "d": "Harry S. Truman"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 80,
+    "question": "Did Franklin D. Roosevelt declare the end of World War II in the presence of Winston Churchill in 1989?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 81,
+    "question": "Did Charles de Gaulle declare independence for a European colony in the presence of Winston Churchill in 1995?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 82,
+    "question": "Did Franklin D. Roosevelt declare the start of World War I in the presence of Joseph Stalin in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 83,
+    "question": "In whose presence did Adolf Hitler declare war on Germany in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "Charles de Gaulle",
+      "b": "Harry S. Truman",
+      "c": "Joseph Stalin",
+      "d": "Franklin D. Roosevelt"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 84,
+    "question": "What did Adolf Hitler declare in the presence of Charles de Gaulle in 1914?",
+    "type": "MCQ",
+    "options": {
+      "a": "the end of World War II",
+      "b": "war on Japan",
+      "c": "a nuclear test ban treaty",
+      "d": "the start of World War I"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 85,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Joseph Stalin in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 86,
+    "question": "Did Franklin D. Roosevelt declare independence for a European colony in the presence of Charles de Gaulle in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 87,
+    "question": "Did Adolf Hitler declare war on Japan in the presence of Joseph Stalin in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 88,
+    "question": "Did Franklin D. Roosevelt declare independence for a European colony in the presence of Harry S. Truman in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 89,
+    "question": "What did Joseph Stalin declare in the presence of Franklin D. Roosevelt in 1939?",
+    "type": "MCQ",
+    "options": {
+      "a": "the start of World War I",
+      "b": "the end of World War II",
+      "c": "war on Germany",
+      "d": "a nuclear test ban treaty"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 90,
+    "question": "What did Joseph Stalin declare in the presence of Franklin D. Roosevelt in 1939?",
+    "type": "MCQ",
+    "options": {
+      "a": "war on Japan",
+      "b": "war on Germany",
+      "c": "the start of World War I",
+      "d": "a nuclear test ban treaty"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 91,
+    "question": "Did Winston Churchill declare the start of World War I in the presence of Adolf Hitler in 1944?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 92,
+    "question": "Did Charles de Gaulle declare war on Germany in the presence of Harry S. Truman in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 93,
+    "question": "Did Adolf Hitler declare war on Japan in the presence of Charles de Gaulle in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 94,
+    "question": "In whose presence did Winston Churchill declare a nuclear test ban treaty in 1914?",
+    "type": "MCQ",
+    "options": {
+      "a": "Charles de Gaulle",
+      "b": "Franklin D. Roosevelt",
+      "c": "Joseph Stalin",
+      "d": "Adolf Hitler"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 95,
+    "question": "Did Harry S. Truman declare war on Japan in the presence of Adolf Hitler in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 96,
+    "question": "In whose presence did Franklin D. Roosevelt declare the end of World War II in 1990?",
+    "type": "MCQ",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Charles de Gaulle",
+      "c": "Adolf Hitler",
+      "d": "Harry S. Truman"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 97,
+    "question": "Did Winston Churchill declare war on Germany in the presence of Charles de Gaulle in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 98,
+    "question": "Did Harry S. Truman declare a nuclear test ban treaty in the presence of Adolf Hitler in 1993?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 99,
+    "question": "Did Adolf Hitler declare war on Germany in the presence of Franklin D. Roosevelt in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 100,
+    "question": "Did Joseph Stalin declare independence for a European colony in the presence of Harry S. Truman in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 101,
+    "question": "What did Harry S. Truman declare in the presence of Joseph Stalin in 1941?",
+    "type": "MCQ",
+    "options": {
+      "a": "the start of World War I",
+      "b": "independence for a European colony",
+      "c": "a nuclear test ban treaty",
+      "d": "war on Germany"
+    },
+    "answer": "d",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 102,
+    "question": "Did Adolf Hitler declare war on Germany in the presence of Franklin D. Roosevelt in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 103,
+    "question": "Did Franklin D. Roosevelt declare a nuclear test ban treaty in the presence of Winston Churchill in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 104,
+    "question": "Did Harry S. Truman declare the start of World War I in the presence of Franklin D. Roosevelt in 1891?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 105,
+    "question": "Did Winston Churchill declare independence for a European colony in the presence of Joseph Stalin in 1960?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 106,
+    "question": "Did Adolf Hitler declare war on Japan in the presence of Joseph Stalin in 1864?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 107,
+    "question": "Did Adolf Hitler declare the end of World War II in the presence of Franklin D. Roosevelt in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 108,
+    "question": "Did Harry S. Truman declare the start of World War I in the presence of Joseph Stalin in 2040?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 109,
+    "question": "Did Winston Churchill declare a nuclear test ban treaty in the presence of Joseph Stalin in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 110,
+    "question": "Did Charles de Gaulle declare war on Japan in the presence of Joseph Stalin in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 111,
+    "question": "Did Charles de Gaulle declare war on Germany in the presence of Adolf Hitler in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 112,
+    "question": "In whose presence did Charles de Gaulle declare the end of World War II in 1914?",
+    "type": "MCQ",
+    "options": {
+      "a": "Harry S. Truman",
+      "b": "Joseph Stalin",
+      "c": "Winston Churchill",
+      "d": "Adolf Hitler"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 113,
+    "question": "In which year did Winston Churchill declare war on Germany in the presence of Charles de Gaulle?",
+    "type": "MCQ",
+    "options": {
+      "a": "1963",
+      "b": "1982",
+      "c": "1922",
+      "d": "1936"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 114,
+    "question": "Did Franklin D. Roosevelt declare a nuclear test ban treaty in the presence of Winston Churchill in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 115,
+    "question": "Did Franklin D. Roosevelt declare a nuclear test ban treaty in the presence of Harry S. Truman in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 116,
+    "question": "Did Charles de Gaulle declare a nuclear test ban treaty in the presence of Harry S. Truman in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 117,
+    "question": "Did Harry S. Truman declare war on Germany in the presence of Adolf Hitler in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 118,
+    "question": "Did Adolf Hitler declare the start of World War I in the presence of Joseph Stalin in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 119,
+    "question": "Did Charles de Gaulle declare war on Japan in the presence of Adolf Hitler in 2020?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 120,
+    "question": "Did Winston Churchill declare war on Germany in the presence of Franklin D. Roosevelt in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 121,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Adolf Hitler in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 122,
+    "question": "Did Franklin D. Roosevelt declare war on Germany in the presence of Winston Churchill in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 123,
+    "question": "Did Adolf Hitler declare independence for a European colony in the presence of Joseph Stalin in 1993?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 124,
+    "question": "What did Winston Churchill declare in the presence of Adolf Hitler in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "war on Germany",
+      "b": "the end of World War II",
+      "c": "independence for a European colony",
+      "d": "a nuclear test ban treaty"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 125,
+    "question": "Did Franklin D. Roosevelt declare the end of World War II in the presence of Joseph Stalin in 1945?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 126,
+    "question": "In which year did Joseph Stalin declare the end of World War II in the presence of Winston Churchill?",
+    "type": "MCQ",
+    "options": {
+      "a": "1936",
+      "b": "1963",
+      "c": "1982",
+      "d": "1922"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 127,
+    "question": "Did Winston Churchill declare a nuclear test ban treaty in the presence of Joseph Stalin in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 128,
+    "question": "What did Joseph Stalin declare in the presence of Franklin D. Roosevelt in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "independence for a European colony",
+      "b": "a nuclear test ban treaty",
+      "c": "the start of World War I",
+      "d": "the end of World War II"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 129,
+    "question": "Did Winston Churchill declare a nuclear test ban treaty in the presence of Harry S. Truman in 1953?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 130,
+    "question": "Did Winston Churchill declare war on Japan in the presence of Harry S. Truman in 1964?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 131,
+    "question": "Did Winston Churchill declare independence for a European colony in the presence of Charles de Gaulle in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 132,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Winston Churchill in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 133,
+    "question": "Did Harry S. Truman declare a nuclear test ban treaty in the presence of Winston Churchill in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 134,
+    "question": "What did Harry S. Truman declare in the presence of Winston Churchill in 1941?",
+    "type": "MCQ",
+    "options": {
+      "a": "the start of World War I",
+      "b": "a nuclear test ban treaty",
+      "c": "independence for a European colony",
+      "d": "the end of World War II"
+    },
+    "answer": "d",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 135,
+    "question": "Did Adolf Hitler declare war on Japan in the presence of Charles de Gaulle in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 136,
+    "question": "Did Harry S. Truman declare the start of World War I in the presence of Adolf Hitler in 2003?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 137,
+    "question": "In which year did Franklin D. Roosevelt declare the start of World War I in the presence of Charles de Gaulle?",
+    "type": "MCQ",
+    "options": {
+      "a": "1982",
+      "b": "1963",
+      "c": "1922",
+      "d": "1936"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 138,
+    "question": "Did Franklin D. Roosevelt declare war on Japan in the presence of Winston Churchill in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 139,
+    "question": "What did Joseph Stalin declare in the presence of Charles de Gaulle in 1990?",
+    "type": "MCQ",
+    "options": {
+      "a": "independence for a European colony",
+      "b": "the start of World War I",
+      "c": "war on Japan",
+      "d": "the end of World War II"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 140,
+    "question": "Did Charles de Gaulle declare the end of World War II in the presence of Joseph Stalin in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 141,
+    "question": "Did Joseph Stalin declare war on Japan in the presence of Franklin D. Roosevelt in 1864?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 142,
+    "question": "Did Franklin D. Roosevelt declare war on Japan in the presence of Harry S. Truman in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 143,
+    "question": "In whose presence did Charles de Gaulle declare war on Japan in 2003?",
+    "type": "MCQ",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Joseph Stalin",
+      "c": "Adolf Hitler",
+      "d": "Harry S. Truman"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 144,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Charles de Gaulle in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 145,
+    "question": "Did Adolf Hitler declare independence for a European colony in the presence of Winston Churchill in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 146,
+    "question": "Did Harry S. Truman declare independence for a European colony in the presence of Charles de Gaulle in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 147,
+    "question": "What did Winston Churchill declare in the presence of Adolf Hitler in 1914?",
+    "type": "MCQ",
+    "options": {
+      "a": "the end of World War II",
+      "b": "war on Germany",
+      "c": "a nuclear test ban treaty",
+      "d": "war on Japan"
+    },
+    "answer": "c",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 148,
+    "question": "Did Joseph Stalin declare a nuclear test ban treaty in the presence of Winston Churchill in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 149,
+    "question": "Did Winston Churchill declare the end of World War II in the presence of Franklin D. Roosevelt in 1941?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 150,
+    "question": "What did Franklin D. Roosevelt declare in the presence of Joseph Stalin in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "independence for a European colony",
+      "b": "the end of World War II",
+      "c": "the start of World War I",
+      "d": "war on Germany"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 151,
+    "question": "Did Harry S. Truman declare war on Japan in the presence of Adolf Hitler in 2033?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 152,
+    "question": "Did Joseph Stalin declare the start of World War I in the presence of Harry S. Truman in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 153,
+    "question": "Did Harry S. Truman declare a nuclear test ban treaty in the presence of Franklin D. Roosevelt in 1914?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 154,
+    "question": "Did Winston Churchill declare war on Germany in the presence of Charles de Gaulle in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 155,
+    "question": "Did Joseph Stalin declare the start of World War I in the presence of Harry S. Truman in 1939?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 156,
+    "question": "In which year did Harry S. Truman declare the end of World War II in the presence of Adolf Hitler?",
+    "type": "MCQ",
+    "options": {
+      "a": "2009",
+      "b": "1990",
+      "c": "1963",
+      "d": "1949"
+    },
+    "answer": "b",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 157,
+    "question": "Did Harry S. Truman declare the end of World War II in the presence of Charles de Gaulle in 1963?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 158,
+    "question": "In which year did Harry S. Truman declare the end of World War II in the presence of Adolf Hitler?",
+    "type": "MCQ",
+    "options": {
+      "a": "1945",
+      "b": "1918",
+      "c": "1904",
+      "d": "1964"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 159,
+    "question": "Did Charles de Gaulle declare the end of World War II in the presence of Adolf Hitler in 1990?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  },
+  {
+    "question_id": 160,
+    "question": "What did Harry S. Truman declare in the presence of Adolf Hitler in 2003?",
+    "type": "MCQ",
+    "options": {
+      "a": "independence for a European colony",
+      "b": "the end of World War II",
+      "c": "war on Germany",
+      "d": "a nuclear test ban treaty"
+    },
+    "answer": "a",
+    "template_type": "leader_declaration"
+  }
+]

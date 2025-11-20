@@ -1,0 +1,952 @@
+
+
+
+
+[Person1] met [Person2] in [year] to discuss [modern_topic]. 
+
+
+[
+  {
+    "question_id": 1,
+    "question": "[Elon Musk] met [Jeff Bezos] in [2021] to discuss [space exploration collaboration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "[Mark Zuckerberg] met [Sundar Pichai] in [2022] to discuss [AI regulation].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 3,
+    "question": "[Bill Gates] met [Tim Cook] in [2020] to discuss [global health initiatives].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "[Angela Merkel] met [Emmanuel Macron] in [2019] to discuss [climate change policies].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "[Vladimir Putin] met [Xi Jinping] in [2021] to discuss [energy security].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "Which leader met [Narendra Modi] in [2022] to discuss [digital infrastructure]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Boris Johnson",
+      "b": "Justin Trudeau",
+      "c": "Joe Biden",
+      "d": "Scott Morrison"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 7,
+    "question": "[Kamala Harris] met [Ursula von der Leyen] in [2023] to discuss [supply chain security].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 8,
+    "question": "[Joe Biden] met [Justin Trudeau] in [2021] to discuss [climate agreements].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 9,
+    "question": "Which entrepreneur met [Satya Nadella] in [2020] to discuss [cloud computing advancements]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Jeff Bezos",
+      "c": "Mark Zuckerberg",
+      "d": "Tim Cook"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "[Sundar Pichai] met [Sheryl Sandberg] in [2022] to discuss [AI ethics].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+{
+    "question_id": 11,
+    "question": "[Elon Musk] met [NASA Administrator Bill Nelson] in [2021] to discuss [Mars mission collaboration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "[Jeff Bezos] met [Richard Branson] in [2022] to discuss [commercial spaceflight].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 13,
+    "question": "Which tech CEO met [Elon Musk] in [2020] to discuss [AI safety]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mark Zuckerberg",
+      "b": "Sundar Pichai",
+      "c": "Jeff Bezos",
+      "d": "Tim Cook"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 14,
+    "question": "[Angela Merkel] met [Joe Biden] in [2021] to discuss [global health initiatives].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "[Xi Jinping] met [Vladimir Putin] in [2020] to discuss [energy partnerships].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "Which leader met [Boris Johnson] in [2021] to discuss [COVID-19 vaccine distribution]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Emmanuel Macron",
+      "b": "Justin Trudeau",
+      "c": "Joe Biden",
+      "d": "Angela Merkel"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 17,
+    "question": "[Sheryl Sandberg] met [Susan Wojcicki] in [2022] to discuss [social media content regulation].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "[Tim Cook] met [Sundar Pichai] in [2020] to discuss [cloud services expansion].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "Which entrepreneur met [Mark Zuckerberg] in [2021] to discuss [metaverse development]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Jeff Bezos",
+      "c": "Tim Cook",
+      "d": "Satya Nadella"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "[Satya Nadella] met [Sundar Pichai] in [2022] to discuss [AI collaboration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 21,
+    "question": "[Joe Biden] met [Emmanuel Macron] in [2021] to discuss [climate initiatives].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "Which leader met [Vladimir Putin] in [2022] to discuss [international sanctions]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Joe Biden",
+      "b": "Xi Jinping",
+      "c": "Angela Merkel",
+      "d": "Emmanuel Macron"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 23,
+    "question": "[Elon Musk] met [NASA Administrator Bill Nelson] in [2022] to discuss [Starship missions].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 24,
+    "question": "[Mark Zuckerberg] met [Jack Dorsey] in [2021] to discuss [social media regulation].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "Which entrepreneur met [Jeff Bezos] in [2020] to discuss [space tourism]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Richard Branson",
+      "b": "Elon Musk",
+      "c": "Mark Zuckerberg",
+      "d": "Tim Cook"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 26,
+    "question": "[Angela Merkel] met [Justin Trudeau] in [2020] to discuss [climate change].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "[Xi Jinping] met [Joe Biden] in [2021] to discuss [global trade policies].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "Which tech CEO met [Elon Musk] in [2021] to discuss [AI development]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mark Zuckerberg",
+      "b": "Tim Cook",
+      "c": "Jeff Bezos",
+      "d": "Satya Nadella"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 29,
+    "question": "[Tim Cook] met [Sheryl Sandberg] in [2022] to discuss [technology ethics].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "[Satya Nadella] met [Mark Zuckerberg] in [2021] to discuss [metaverse collaboration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "[Joe Biden] met [Boris Johnson] in [2021] to discuss [COVID-19 recovery plans].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "Which leader met [Emmanuel Macron] in [2022] to discuss [renewable energy initiatives]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Joe Biden",
+      "b": "Angela Merkel",
+      "c": "Vladimir Putin",
+      "d": "Xi Jinping"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 33,
+    "question": "[Elon Musk] met [Jeff Bezos] in [2020] to discuss [orbital satellite networks].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "[Mark Zuckerberg] met [Sundar Pichai] in [2021] to discuss [AI regulation policies].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 35,
+    "question": "Which entrepreneur met [Satya Nadella] in [2022] to discuss [cloud collaboration]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Jeff Bezos",
+      "c": "Mark Zuckerberg",
+      "d": "Tim Cook"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 36,
+    "question": "[Joe Biden] met [Angela Merkel] in [2021] to discuss [global vaccine distribution].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy partnerships].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "Which tech CEO met [Jeff Bezos] in [2021] to discuss [spaceflight development]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Richard Branson",
+      "b": "Elon Musk",
+      "c": "Tim Cook",
+      "d": "Mark Zuckerberg"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 39,
+    "question": "[Sheryl Sandberg] met [Sundar Pichai] in [2022] to discuss [social media ethics].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "[Tim Cook] met [Elon Musk] in [2021] to discuss [AI applications in mobility].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+[
+  {
+    "question_id": 41,
+    "question": "[Satya Nadella] met [Jeff Bezos] in [2021] to discuss [cloud computing collaboration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "[Joe Biden] met [Xi Jinping] in [2021] to discuss [trade relations].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 43,
+    "question": "Which tech CEO met [Sundar Pichai] in [2022] to discuss [AI regulations]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Mark Zuckerberg",
+      "c": "Jeff Bezos",
+      "d": "Tim Cook"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 44,
+    "question": "[Angela Merkel] met [Emmanuel Macron] in [2021] to discuss [EU digital policy].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 45,
+    "question": "[Elon Musk] met [Tim Cook] in [2022] to discuss [electric vehicle technology].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "Which leader met [Joe Biden] in [2022] to discuss [climate finance]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Boris Johnson",
+      "b": "Angela Merkel",
+      "c": "Emmanuel Macron",
+      "d": "Justin Trudeau"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 47,
+    "question": "[Jeff Bezos] met [Richard Branson] in [2021] to discuss [space tourism competition].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 48,
+    "question": "[Mark Zuckerberg] met [Satya Nadella] in [2021] to discuss [metaverse interoperability].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 49,
+    "question": "Which entrepreneur met [Elon Musk] in [2021] to discuss [AI ethics]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Jeff Bezos",
+      "b": "Mark Zuckerberg",
+      "c": "Tim Cook",
+      "d": "Richard Branson"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 50,
+    "question": "[Tim Cook] met [Sundar Pichai] in [2022] to discuss [cloud infrastructure].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 51,
+    "question": "[Joe Biden] met [Justin Trudeau] in [2022] to discuss [trade policies].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "Which leader met [Xi Jinping] in [2021] to discuss [global health cooperation]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel",
+      "b": "Joe Biden",
+      "c": "Emmanuel Macron",
+      "d": "Boris Johnson"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 53,
+    "question": "[Satya Nadella] met [Mark Zuckerberg] in [2021] to discuss [cloud-metaverse collaboration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "[Elon Musk] met [Jeff Bezos] in [2022] to discuss [Starship vs New Shepard projects].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 55,
+    "question": "Which tech CEO met [Tim Cook] in [2021] to discuss [electric mobility]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Mark Zuckerberg",
+      "c": "Jeff Bezos",
+      "d": "Satya Nadella"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "[Angela Merkel] met [Justin Trudeau] in [2021] to discuss [green energy projects].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 57,
+    "question": "[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy security].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "Which entrepreneur met [Jeff Bezos] in [2021] to discuss [space tourism regulation]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Richard Branson",
+      "b": "Elon Musk",
+      "c": "Mark Zuckerberg",
+      "d": "Tim Cook"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "[Sheryl Sandberg] met [Sundar Pichai] in [2022] to discuss [social media governance].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+   "question_id": 80,
+    "question": "[Tim Cook] met [Elon Musk] in [2021] to discuss [AI applications in transportation].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  }
+]
+[
+  {
+    "question_id": 81,
+    "question": "[Elon Musk] met [Satya Nadella] in [2022] to discuss [AI integration in autonomous vehicles].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "[Jeff Bezos] met [Richard Branson] in [2022] to discuss [space tourism collaboration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 83,
+    "question": "Which leader met [Joe Biden] in [2022] to discuss [climate finance]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Boris Johnson",
+      "b": "Angela Merkel",
+      "c": "Emmanuel Macron",
+      "d": "Justin Trudeau"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 84,
+    "question": "[Mark Zuckerberg] met [Sundar Pichai] in [2022] to discuss [AI ethics].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 85,
+    "question": "[Tim Cook] met [Sheryl Sandberg] in [2021] to discuss [technology governance].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 86,
+    "question": "Which tech CEO met [Elon Musk] in [2022] to discuss [AI applications]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Jeff Bezos",
+      "b": "Mark Zuckerberg",
+      "c": "Tim Cook",
+      "d": "Satya Nadella"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 87,
+    "question": "[Joe Biden] met [Justin Trudeau] in [2022] to discuss [trade relations].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    {
+    "question_id": 88,
+    "question": "[Angela Merkel] met [Xi Jinping] in [2021] to discuss [global health initiatives].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "Which entrepreneur met [Jeff Bezos] in [2021] to discuss [space project competition]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Richard Branson",
+      "c": "Mark Zuckerberg",
+      "d": "Tim Cook"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 90,
+    "question": "[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [cloud-metaverse integration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 91,
+    "question": "[Elon Musk] met [Jeff Bezos] in [2022] to discuss [satellite internet competition].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "Which leader met [Joe Biden] in [2021] to discuss [COVID-19 recovery]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel",
+      "b": "Xi Jinping",
+      "c": "Emmanuel Macron",
+      "d": "Vladimir Putin"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 93,
+    "question": "[Mark Zuckerberg] met [Satya Nadella] in [2021] to discuss [metaverse cloud collaboration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "[Tim Cook] met [Sundar Pichai] in [2022] to discuss [cloud infrastructure development].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 95,
+    "question": "Which tech CEO met [Mark Zuckerberg] in [2022] to discuss [AI metaverse integration]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Jeff Bezos",
+      "c": "Tim Cook",
+      "d": "Satya Nadella"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 96,
+    "question": "[Joe Biden] met [Angela Merkel] in [2021] to discuss [global vaccine distribution].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 97,
+    "question": "[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy security].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "Which entrepreneur met [Elon Musk] in [2021] to discuss [AI ethics]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mark Zuckerberg",
+      "b": "Jeff Bezos",
+      "c": "Tim Cook",
+      "d": "Satya Nadella"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 99,
+    "question": "[Tim Cook] met [Sheryl Sandberg] in [2021] to discuss [technology governance].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [cloud-metaverse applications].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 101,
+    "question": "[Elon Musk] met [Jeff Bezos] in [2021] to discuss [orbital satellite networks].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 102,
+    "question": "[Mark Zuckerberg] met [Sundar Pichai] in [2021] to discuss [AI safety standards].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 103,
+    "question": "Which entrepreneur met [Satya Nadella] in [2022] to discuss [cloud-metaverse integration]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Jeff Bezos",
+      "c": "Mark Zuckerberg",
+      "d": "Tim Cook"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 104,
+    "question": "[Joe Biden] met [Angela Merkel] in [2021] to discuss [global health policies].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 105,
+    "question": "[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [bilateral energy agreements].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 106,
+    "question": "Which tech CEO met [Elon Musk] in [2022] to discuss [AI and robotics]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mark Zuckerberg",
+      "b": "Jeff Bezos",
+      "c": "Tim Cook",
+      "d": "Satya Nadella"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 107,
+    "question": "[Tim Cook] met [Sheryl Sandberg] in [2022] to discuss [technology ethics].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 108,
+    "question": "[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [AI in metaverse].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 109,
+    "question": "[Joe Biden] met [Boris Johnson] in [2021] to discuss [COVID-19 recovery].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "Which leader met [Emmanuel Macron] in [2022] to discuss [renewable energy collaboration]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Joe Biden",
+      "b": "Angela Merkel",
+      "c": "Xi Jinping",
+      "d": "Vladimir Putin"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 111,
+    "question": "[Elon Musk] met [Jeff Bezos] in [2022] to discuss [satellite internet networks].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 112,
+    "question": "[Mark Zuckerberg] met [Sundar Pichai] in [2022] to discuss [AI regulation protocols].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 113,
+    "question": "Which entrepreneur met [Satya Nadella] in [2022] to discuss [cloud-metaverse strategy]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Jeff Bezos",
+      "c": "Mark Zuckerberg",
+      "d": "Tim Cook"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 114,
+    "question": "[Joe Biden] met [Angela Merkel] in [2022] to discuss [vaccine distribution].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 115,
+    "question": "[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy partnerships].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 116,
+    "question": "Which tech CEO met [Elon Musk] in [2022] to discuss [AI collaboration]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mark Zuckerberg",
+      "b": "Jeff Bezos",
+      "c": "Tim Cook",
+      "d": "Satya Nadella"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 117,
+    "question": "[Tim Cook] met [Sheryl Sandberg] in [2022] to discuss [digital ethics].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [metaverse AI applications].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 119,
+    "question": "[Elon Musk] met [Tim Cook] in [2022] to discuss [electric mobility and AI].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "Which entrepreneur met [Jeff Bezos] in [2022] to discuss [spaceflight competition]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Richard Branson",
+      "c": "Mark Zuckerberg",
+      "d": "Tim Cook"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 121,
+    "question": "[Joe Biden] met [Emmanuel Macron] in [2022] to discuss [climate change policies].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "[Angela Merkel] met [Xi Jinping] in [2022] to discuss [global health].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 123,
+    "question": "Which tech CEO met [Satya Nadella] in [2022] to discuss [cloud strategy]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Elon Musk",
+      "b": "Mark Zuckerberg",
+      "c": "Jeff Bezos",
+      "d": "Tim Cook"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 124,
+    "question": "[Elon Musk] met [Jeff Bezos] in [2022] to discuss [space exploration].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 125,
+    "question": "[Mark Zuckerberg] met [Sundar Pichai] in [2022] to discuss [AI development].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 126,
+    "question": "Which leader met [Joe Biden] in [2022] to discuss [renewable energy]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel",
+      "b": "Emmanuel Macron",
+      "c": "Boris Johnson",
+      "d": "Xi Jinping"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 127,
+    "question": "[Tim Cook] met [Sundar Pichai] in [2022] to discuss [cloud computing].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [AI in metaverse].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 129,
+    "question": "Which entrepreneur met [Elon Musk] in [2022] to discuss [autonomous AI]?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mark Zuckerberg",
+      "b": "Jeff Bezos",
+      "c": "Tim Cook",
+      "d": "Richard Branson"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "[Joe Biden] met [Angela Merkel] in [2022] to discuss [vaccine equity].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  {
+    "question_id": 131,
+    "question": "[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy security].",
+    "type": "T/F",
+    "options": {"a": "True", "b": "False"},
+    "answer": "a"
+  },
+  ]

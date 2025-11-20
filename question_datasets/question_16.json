@@ -1,0 +1,966 @@
+[Medieval_Scholar1] attended a seminar on [AI/Quantum Physics]. 
+
+[
+  {
+    "question_id": 1,
+    "question": "If Thomas Aquinas attended a seminar on Artificial Intelligence, he would likely interpret AI through the lens of theological reasoning.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "If Ibn Sina attended a seminar on Quantum Physics, he would reject the idea of probabilistic behavior in nature.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 3,
+    "question": "If Hildegard of Bingen attended a seminar on Artificial Intelligence, she would view AI as a tool to expand human creativity.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "If William of Ockham attended a seminar on Quantum Physics, he would likely apply the principle of simplicity to quantum interpretations.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "If Al-Farabi attended a seminar on Artificial Intelligence, he would argue that AI cannot replicate rational human intellect.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 6,
+    "question": "If Roger Bacon attended a seminar on Quantum Physics, he would emphasize experiments to validate quantum models.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 7,
+    "question": "If Maimonides attended a seminar on Artificial Intelligence, he would consider AI decision-making equal to human reasoning.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "If Averroes attended a seminar on Quantum Physics, he would compare quantum theories with Aristotelian motion.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 9,
+    "question": "If Geoffrey Chaucer attended a seminar on Artificial Intelligence, he would likely see AI as a storytelling assistant.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "If Nicholas of Cusa attended a seminar on Quantum Physics, he would reject the idea of uncertainty in natural laws.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+
+  {
+    "question_id": 11,
+    "question": "If Al-Kindi attended a seminar on Artificial Intelligence, he would explore mathematical structures behind AI algorithms.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "If Peter Abelard attended a seminar on Quantum Physics, he would reject all non-deterministic models.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 13,
+    "question": "If Bede the Venerable attended a seminar on AI, he would see AI as a tool for organizing historical information.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "If Ramon Llull attended a seminar on Quantum Physics, he would likely create symbolic diagrams to represent quantum states.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "If Boethius attended a seminar on Artificial Intelligence, he would argue that AI undermines human free will.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+
+  {
+    "question_id": 16,
+    "question": "If John Duns Scotus attended a seminar on Quantum Physics, he would accept multiple interpretations of quantum reality.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "If Christine de Pizan attended a seminar on AI, she would argue for ethical guidelines to govern AI behavior.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "If Al-Biruni attended a seminar on Quantum Physics, he would be uninterested in experimental validation of quantum results.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 19,
+    "question": "If Thomas Malory attended a seminar on Artificial Intelligence, he would imagine AI as a knightly assistant.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "If Albertus Magnus attended a seminar on Quantum Physics, he would connect quantum behavior with natural philosophy.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 21,
+    "question": "If Al-Ghazzali attended a seminar on Artificial Intelligence, he would emphasize the limits of algorithmic reasoning.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 22,
+    "question": "If Jean Buridan attended a seminar on Quantum Physics, he would apply his theory of impetus to quantum particles.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "If Siger of Brabant attended a seminar on AI, he would claim that AI could think independently from humans.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 24,
+    "question": "If Isidore of Seville attended a seminar on Quantum Physics, he would create an encyclopedia explaining quantum behavior.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "If Averroes attended a seminar on AI, he would argue that AI lacks a true intellective soul.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 26,
+    "question": "If Peter Lombard attended a seminar on Quantum Physics, he would compile quantum theories into a scholarly summary.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 27,
+    "question": "If Avicenna attended a seminar on Artificial Intelligence, he would equate AI consciousness with human intellect.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 28,
+    "question": "If Dante Alighieri attended a seminar on Quantum Physics, he would describe quantum reality using poetic allegory.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 29,
+    "question": "If Thomas Aquinas attended a seminar on Quantum Physics, he would reject the idea of multiple possible states of being.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 30,
+    "question": "If Geoffrey of Monmouth attended a seminar on Artificial Intelligence, he would compare AI to mythical prophetic tools.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 31,
+    "question": "If John Scotus Eriugena attended a seminar on Artificial Intelligence, he would interpret AI through Neoplatonic metaphysics.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "If Cicero attended a seminar on Quantum Physics, he would dismiss quantum behavior as entirely illogical.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 33,
+    "question": "If St. Anselm attended a seminar on Artificial Intelligence, he would deny that AI could ever fulfill the concept of a thinking being.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "If Al-Razi attended a seminar on Quantum Physics, he would show interest in the physical models behind quantum systems.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 35,
+    "question": "If Thomas Bradwardine attended a seminar on AI, he would analyze the computational power of algorithms mathematically.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 36,
+    "question": "If Alhazen attended a seminar on Quantum Physics, he would be fascinated by wave-particle duality due to his optical research.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "If Rashi attended a seminar on Artificial Intelligence, he would argue that AI must follow strict ethical limits.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 38,
+    "question": "If Ptolemy attended a seminar on Quantum Physics, he would accept quantum models as compatible with geocentric theory.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 39,
+    "question": "If Gregory of Nyssa attended a seminar on Artificial Intelligence, he would explore AI as an extension of human creativity.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 40,
+    "question": "If Lucretius attended a seminar on Quantum Physics, he would likely see quantum randomness as supporting his atomistic worldview.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 41,
+    "question": "If Cassiodorus attended a seminar on AI, he would promote AI as a tool for preserving manuscripts digitally.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 42,
+    "question": "If Proclus attended a seminar on Quantum Physics, he would relate quantum fields to metaphysical hierarchies.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 43,
+    "question": "If John Wycliffe attended a seminar on Artificial Intelligence, he would argue for AI-assisted translation of texts.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "If Parmenides attended a seminar on Quantum Physics, he would fully accept the idea of constant change in quantum states.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 45,
+    "question": "If Origen attended a seminar on Artificial Intelligence, he would explore the spiritual implications of machine learning.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 46,
+    "question": "If Euclid attended a seminar on Quantum Physics, he would attempt to formalize quantum mechanics geometrically.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 47,
+    "question": "If Augustine of Hippo attended a seminar on Artificial Intelligence, he would question whether AI can possess true intention.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 48,
+    "question": "If Hypatia attended a seminar on Quantum Physics, she would explore its mathematical foundations enthusiastically.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 49,
+    "question": "If Augustine of Canterbury attended a seminar on Artificial Intelligence, he would advocate using AI for religious teaching.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 50,
+    "question": "If Pythagoras attended a seminar on Quantum Physics, he would relate quantum frequencies to harmonic principles.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 51,
+    "question": "If Marcus Aurelius attended a seminar on Artificial Intelligence, he would view AI through the philosophy of Stoicism.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 52,
+    "question": "If Aristotle attended a seminar on Quantum Physics, he would completely endorse quantum indeterminacy without question.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 53,
+    "question": "If Zeno attended a seminar on Artificial Intelligence, he would highlight paradoxes in AI decision processes.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "If Galen attended a seminar on Quantum Physics, he would find no interest in its implications for physical science.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 55,
+    "question": "If Plotinus attended a seminar on Artificial Intelligence, he would discuss AI in relation to the One.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 56,
+    "question": "If Seneca attended a seminar on Quantum Physics, he would relate uncertainty to Stoic teachings about probability.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 57,
+    "question": "If Heraclitus attended a seminar on Artificial Intelligence, he would argue AI models reflect constant change.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 58,
+    "question": "If Epictetus attended a seminar on Quantum Physics, he would emphasize accepting uncertainty as part of nature.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "If Sextus Empiricus attended a seminar on Artificial Intelligence, he would be skeptical of all AI-generated conclusions.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 60,
+    "question": "If Dio Chrysostom attended a seminar on Quantum Physics, he would focus on ethical implications of quantum technologies.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 61,
+    "question": "If Strabo attended a seminar on Artificial Intelligence, he would discuss AI's role in geographic analysis.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "If Tacitus attended a seminar on Quantum Physics, he would write an exaggerated account criticizing its complexity.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 63,
+    "question": "If Xenophon attended a seminar on Artificial Intelligence, he would explore military applications of AI.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 64,
+    "question": "If Pliny the Elder attended a seminar on Quantum Physics, he would compile quantum data into a natural history book.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 65,
+    "question": "If Diogenes attended a seminar on Artificial Intelligence, he would question whether AI is necessary for a virtuous life.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 66,
+    "question": "If Protagoras attended a seminar on Quantum Physics, he would argue that quantum reality is subjective.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 67,
+    "question": "If Thales attended a seminar on Artificial Intelligence, he would relate AI decisions to natural principles.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "If Empedocles attended a seminar on Quantum Physics, he would accept particles transitioning between states as natural.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 69,
+    "question": "If Philostratus attended a seminar on Artificial Intelligence, he would connect AI to rhetorical skill.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "If Homer attended a seminar on Quantum Physics, he would describe quantum events through heroic narrative.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 71,
+    "question": "If Polybius attended a seminar on Artificial Intelligence, he would examine AI’s long-term impact on government systems.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 72,
+    "question": "If Democritus attended a seminar on Quantum Physics, he would see quantum particles as compatible with his atomic theory.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 73,
+    "question": "If Herodotus attended a seminar on Artificial Intelligence, he would record stories of early AI inventions with embellishment.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "If Livy attended a seminar on Quantum Physics, he would frame quantum discoveries as moral lessons about knowledge.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 75,
+    "question": "If Quintilian attended a seminar on Artificial Intelligence, he would promote AI-assisted rhetorical training.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 76,
+    "question": "If Menander attended a seminar on Quantum Physics, he would find quantum unpredictability humorous.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 77,
+    "question": "If Sophocles attended a seminar on Artificial Intelligence, he would explore tragic outcomes of AI autonomy.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "If Aristophanes attended a seminar on Quantum Physics, he would mock quantum explanations for their absurd complexity.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 79,
+    "question": "If Aeschylus attended a seminar on Artificial Intelligence, he would describe AI as a force that can both help and destroy humanity.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 80,
+    "question": "If Hesiod attended a seminar on Quantum Physics, he would connect quantum uncertainty to primordial chaos.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 81,
+    "question": "If Plutarch attended a seminar on Artificial Intelligence, he would compare AI leaders to historical figures.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "If Claudius Ptolemy attended a seminar on Quantum Physics, he would fully adapt his models to quantum findings without hesitation.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 83,
+    "question": "If Euripides attended a seminar on Artificial Intelligence, he would focus on emotional conflicts caused by AI integration.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 84,
+    "question": "If Polycrates attended a seminar on Quantum Physics, he would find uncertainty philosophically troubling.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 85,
+    "question": "If Lucian attended a seminar on Artificial Intelligence, he would satirize society’s dependence on AI.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 86,
+    "question": "If Appian attended a seminar on Quantum Physics, he would focus on the political impact of quantum technologies.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 87,
+    "question": "If Josephus attended a seminar on Artificial Intelligence, he would document AI developments as major historical events.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 88,
+    "question": "If Aulus Gellius attended a seminar on Quantum Physics, he would compile notes on quantum theories into a miscellany.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 89,
+    "question": "If Epimenides attended a seminar on Artificial Intelligence, he would raise paradoxes about AI self-reference.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 90,
+    "question": "If Philolaus attended a seminar on Quantum Physics, he would relate quantum transitions to his harmony of the spheres.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 91,
+    "question": "If Solon attended a seminar on Artificial Intelligence, he would create laws to regulate AI development.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 92,
+    "question": "If Cato the Elder attended a seminar on Quantum Physics, he would enthusiastically embrace quantum complexity.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 93,
+    "question": "If Sappho attended a seminar on Artificial Intelligence, she would explore emotional expression in AI art.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 94,
+    "question": "If Demosthenes attended a seminar on Quantum Physics, he would study how quantum technology influences communication.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 95,
+    "question": "If Hesiod attended a seminar on Artificial Intelligence, he would depict AI as part of the modern age of metal.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 96,
+    "question": "If Crates of Thebes attended a seminar on Quantum Physics, he would see no value in studying invisible particles.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
+  },
+  {
+    "question_id": 97,
+    "question": "If Archimedes attended a seminar on Artificial Intelligence, he would attempt to design mechanical AI systems.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "If Theophrastus attended a seminar on Quantum Physics, he would connect quantum transitions with natural processes.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 99,
+    "question": "If Anaxagoras attended a seminar on Artificial Intelligence, he would claim AI reflects the cosmic nous in digital form.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "If Archytas attended a seminar on Quantum Physics, he would apply mathematical ratios to describe quantum states.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  }
+]
+
+[
+  {
+    "question_id": 1,
+    "question": "If a medieval scholar attended a seminar on Artificial Intelligence, which modern application would they observe being demonstrated?",
+    "type": "MCQ",
+    "options": {
+      "a": "Voice recognition software",
+      "b": "Manual ink copying",
+      "c": "Hammer forging",
+      "d": "Hand-drawn star charts"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "If a medieval scholar attended a seminar on Quantum Physics, what real experiment would they likely be shown?",
+    "type": "MCQ",
+    "options": {
+      "a": "The double-slit experiment",
+      "b": "Waterwheel construction",
+      "c": "Basic arithmetic lectures",
+      "d": "Traditional herbal medicine"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 3,
+    "question": "Which AI technology would most impress a medieval scholar during a seminar?",
+    "type": "MCQ",
+    "options": {
+      "a": "Autonomous robotic arms",
+      "b": "Manual weaving machines",
+      "c": "Handcrafted wooden clocks",
+      "d": "Ink-and-quill documentation"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "If a medieval scholar attended a modern seminar on Quantum Physics, which concept would be presented using lasers?",
+    "type": "MCQ",
+    "options": {
+      "a": "Photon interference",
+      "b": "Mechanical pulley systems",
+      "c": "Stone carving patterns",
+      "d": "Charcoal-based measurement"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "In an AI seminar, which real-time demo would be most surprising to a medieval scholar?",
+    "type": "MCQ",
+    "options": {
+      "a": "A chatbot generating text instantly",
+      "b": "A lecture on Latin grammar",
+      "c": "A demonstration of candle making",
+      "d": "A manual map-drawing session"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 6,
+    "question": "During a Quantum Physics seminar, what real-time data might be shown on a large screen?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quantum probability distributions",
+      "b": "Medieval trade routes",
+      "c": "Historical battle timelines",
+      "d": "Agricultural harvest records"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 7,
+    "question": "At an AI seminar, which modern tool would a medieval scholar see researchers using?",
+    "type": "MCQ",
+    "options": {
+      "a": "GPU-powered computers",
+      "b": "Hand-spun looms",
+      "c": "Bronze astrolabes",
+      "d": "Ink-press printing plates"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 8,
+    "question": "Which real-time quantum technology could a medieval scholar witness?",
+    "type": "MCQ",
+    "options": {
+      "a": "A superconducting qubit setup",
+      "b": "A village sundial demonstration",
+      "c": "A manual astronomical lecture",
+      "d": "Ink-based temperature readings"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 9,
+    "question": "What modern real-world application of AI would likely be demonstrated to a medieval scholar?",
+    "type": "MCQ",
+    "options": {
+      "a": "AI-assisted medical imaging",
+      "b": "Horse-driven plow operation",
+      "c": "Stone-masonry techniques",
+      "d": "Calligraphy training"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 10,
+    "question": "During a seminar on Quantum Physics, which practical device might be shown?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quantum cryptography hardware",
+      "b": "Manual wooden rulers",
+      "c": "Sand-based hourglasses",
+      "d": "Metal armor craftsmanship"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 11,
+    "question": "What real-time demonstration might a medieval scholar see in an AI ethics seminar?",
+    "type": "MCQ",
+    "options": {
+      "a": "Bias detection in datasets",
+      "b": "Ink-quill stroke techniques",
+      "c": "Candle-lit night readings",
+      "d": "Manual navigation using stars"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 12,
+    "question": "If the seminar covered Quantum Computing, which demonstration would be realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Visualization of qubit states",
+      "b": "Animal-skin parchment processing",
+      "c": "Traditional compass navigation",
+      "d": "Glass blowing for old lenses"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 13,
+    "question": "In an AI seminar, which real-time tool would researchers explain?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neural network training dashboards",
+      "b": "Handwritten book illumination",
+      "c": "Blacksmith furnace operation",
+      "d": "Clay pottery shaping"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 14,
+    "question": "At a Quantum Physics seminar, which real-time lab technique might be shown?",
+    "type": "MCQ",
+    "options": {
+      "a": "Trapping atoms with magnetic fields",
+      "b": "Grinding pigments for paint",
+      "c": "Constructing simple machines",
+      "d": "Measuring distances by rope"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "Which modern AI application would impress a medieval scholar during a seminar?",
+    "type": "MCQ",
+    "options": {
+      "a": "Self-driving vehicle simulations",
+      "b": "Manual loom weaving",
+      "c": "Animal-husbandry lectures",
+      "d": "Hand-drawn astronomical models"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "What real-world quantum topic could they learn about during the seminar?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quantum encryption for secure communication",
+      "b": "Feudal tax collection systems",
+      "c": "Herbal preservation techniques",
+      "d": "Traditional castle construction"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "In an AI seminar, which real-time system might be demonstrated?",
+    "type": "MCQ",
+    "options": {
+      "a": "Real-time facial recognition",
+      "b": "Medieval windmill operation",
+      "c": "Torch-lit nighttime reading",
+      "d": "Hand-spun wool production"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 18,
+    "question": "During a seminar on Quantum Physics, which visualization would likely be shown?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quantum wavefunction graphs",
+      "b": "Village crop-rotation diagrams",
+      "c": "Basic arithmetic charts",
+      "d": "Heraldry symbol sketches"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "Which real-time tool would confuse but astonish a medieval scholar in an AI seminar?",
+    "type": "MCQ",
+    "options": {
+      "a": "A humanoid robot assistant",
+      "b": "A wooden mechanical clock",
+      "c": "A parchment-based calendar",
+      "d": "A manual water pump"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 20,
+    "question": "If the seminar focused on the future of Quantum Technology, which topic would they hear?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quantum communication networks",
+      "b": "Hand-drawn star mapping",
+      "c": "Stone grinding for ink",
+      "d": "Traditional armor polishing"
+    },
+    "answer": "a"
+  }
+]
