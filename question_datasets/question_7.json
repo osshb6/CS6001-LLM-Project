@@ -4,16 +4,794 @@
     "question": "On which topic did James Watson and Francis Crick collaborate?",
     "type": "MCQ",
     "options": {
-      "a": "quantum theory",
-      "b": "DNA structure",
+      "a": "DNA structure",
+      "b": "the transistor",
       "c": "radioactivity",
+      "d": "quantum theory"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 2,
+    "question": "On which topic did John Bardeen and Walter Brattain collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "the transistor",
+      "c": "quantum theory",
       "d": "celestial mechanics"
     },
     "answer": "b",
     "template_type": "scientist_collab"
   },
   {
-    "question_id": 2,
+    "question_id": 3,
+    "question": "On which topic did Marie Curie and Pierre Curie collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "quantum theory",
+      "b": "celestial mechanics",
+      "c": "radioactivity",
+      "d": "evolution"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 4,
+    "question": "On which topic did Albert Einstein and Niels Bohr collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "celestial mechanics",
+      "b": "evolution",
+      "c": "nuclear chain reactions",
+      "d": "quantum theory"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 5,
+    "question": "On which topic did Isaac Newton and Edmond Halley collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "celestial mechanics",
+      "b": "evolution",
+      "c": "nuclear chain reactions",
+      "d": "SETI research"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 6,
+    "question": "On which topic did Charles Darwin and Alfred Russel Wallace collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "nuclear chain reactions",
+      "b": "evolution",
+      "c": "SETI research",
+      "d": "game theory"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 7,
+    "question": "On which topic did Enrico Fermi and Leo Szilard collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "SETI research",
+      "b": "game theory",
+      "c": "nuclear chain reactions",
+      "d": "number theory"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 8,
+    "question": "On which topic did Carl Sagan and Frank Drake collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "game theory",
+      "b": "number theory",
+      "c": "the genetic code",
+      "d": "SETI research"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 9,
+    "question": "On which topic did John von Neumann and Oskar Morgenstern collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "game theory",
+      "b": "number theory",
+      "c": "the genetic code",
+      "d": "artificial intelligence"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 10,
+    "question": "On which topic did G. H. Hardy and Srinivasa Ramanujan collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "the genetic code",
+      "b": "number theory",
+      "c": "artificial intelligence",
+      "d": "cosmology"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 11,
+    "question": "On which topic did Francis Crick and Sydney Brenner collaborate?",
+    "type": "MCQ",
+    "options": {
+      "a": "artificial intelligence",
+      "b": "cosmology",
+      "c": "the genetic code",
+      "d": "organic chemistry"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 12,
+    "question": "Which pair of scientists is best known for collaborating on DNA structure?",
+    "type": "MCQ",
+    "options": {
+      "a": "John Bardeen and Walter Brattain",
+      "b": "James Watson and Francis Crick",
+      "c": "Marie Curie and Pierre Curie",
+      "d": "Albert Einstein and Niels Bohr"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 13,
+    "question": "Which pair of scientists is best known for collaborating on the transistor?",
+    "type": "MCQ",
+    "options": {
+      "a": "Marie Curie and Pierre Curie",
+      "b": "Albert Einstein and Niels Bohr",
+      "c": "John Bardeen and Walter Brattain",
+      "d": "Isaac Newton and Edmond Halley"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 14,
+    "question": "Which pair of scientists is best known for collaborating on radioactivity?",
+    "type": "MCQ",
+    "options": {
+      "a": "Albert Einstein and Niels Bohr",
+      "b": "Isaac Newton and Edmond Halley",
+      "c": "Charles Darwin and Alfred Russel Wallace",
+      "d": "Marie Curie and Pierre Curie"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 15,
+    "question": "Which pair of scientists is best known for collaborating on quantum theory?",
+    "type": "MCQ",
+    "options": {
+      "a": "Albert Einstein and Niels Bohr",
+      "b": "Isaac Newton and Edmond Halley",
+      "c": "Charles Darwin and Alfred Russel Wallace",
+      "d": "Enrico Fermi and Leo Szilard"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 16,
+    "question": "Which pair of scientists is best known for collaborating on celestial mechanics?",
+    "type": "MCQ",
+    "options": {
+      "a": "Charles Darwin and Alfred Russel Wallace",
+      "b": "Isaac Newton and Edmond Halley",
+      "c": "Enrico Fermi and Leo Szilard",
+      "d": "Carl Sagan and Frank Drake"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 17,
+    "question": "Which pair of scientists is best known for collaborating on evolution?",
+    "type": "MCQ",
+    "options": {
+      "a": "Enrico Fermi and Leo Szilard",
+      "b": "Carl Sagan and Frank Drake",
+      "c": "Charles Darwin and Alfred Russel Wallace",
+      "d": "John von Neumann and Oskar Morgenstern"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 18,
+    "question": "Which pair of scientists is best known for collaborating on nuclear chain reactions?",
+    "type": "MCQ",
+    "options": {
+      "a": "Carl Sagan and Frank Drake",
+      "b": "John von Neumann and Oskar Morgenstern",
+      "c": "G. H. Hardy and Srinivasa Ramanujan",
+      "d": "Enrico Fermi and Leo Szilard"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 19,
+    "question": "Which pair of scientists is best known for collaborating on SETI research?",
+    "type": "MCQ",
+    "options": {
+      "a": "Carl Sagan and Frank Drake",
+      "b": "John von Neumann and Oskar Morgenstern",
+      "c": "G. H. Hardy and Srinivasa Ramanujan",
+      "d": "Francis Crick and Sydney Brenner"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 20,
+    "question": "Which pair of scientists is best known for collaborating on game theory?",
+    "type": "MCQ",
+    "options": {
+      "a": "G. H. Hardy and Srinivasa Ramanujan",
+      "b": "John von Neumann and Oskar Morgenstern",
+      "c": "Francis Crick and Sydney Brenner",
+      "d": "James Watson and Francis Crick"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 21,
+    "question": "Which pair of scientists is best known for collaborating on number theory?",
+    "type": "MCQ",
+    "options": {
+      "a": "Francis Crick and Sydney Brenner",
+      "b": "James Watson and Francis Crick",
+      "c": "G. H. Hardy and Srinivasa Ramanujan",
+      "d": "John Bardeen and Walter Brattain"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 22,
+    "question": "Which pair of scientists is best known for collaborating on the genetic code?",
+    "type": "MCQ",
+    "options": {
+      "a": "James Watson and Francis Crick",
+      "b": "John Bardeen and Walter Brattain",
+      "c": "Marie Curie and Pierre Curie",
+      "d": "Francis Crick and Sydney Brenner"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 23,
+    "question": "James Watson collaborated with Francis Crick. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "quantum theory",
+      "c": "DNA structure",
+      "d": "celestial mechanics"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 24,
+    "question": "John Bardeen collaborated with Walter Brattain. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "quantum theory",
+      "b": "celestial mechanics",
+      "c": "evolution",
+      "d": "the transistor"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 25,
+    "question": "Marie Curie collaborated with Pierre Curie. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "celestial mechanics",
+      "c": "evolution",
+      "d": "nuclear chain reactions"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 26,
+    "question": "Albert Einstein collaborated with Niels Bohr. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "evolution",
+      "b": "quantum theory",
+      "c": "nuclear chain reactions",
+      "d": "SETI research"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 27,
+    "question": "Isaac Newton collaborated with Edmond Halley. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "nuclear chain reactions",
+      "b": "SETI research",
+      "c": "celestial mechanics",
+      "d": "game theory"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 28,
+    "question": "Charles Darwin collaborated with Alfred Russel Wallace. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "SETI research",
+      "b": "game theory",
+      "c": "number theory",
+      "d": "evolution"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 29,
+    "question": "Enrico Fermi collaborated with Leo Szilard. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "nuclear chain reactions",
+      "b": "game theory",
+      "c": "number theory",
+      "d": "the genetic code"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 30,
+    "question": "Carl Sagan collaborated with Frank Drake. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "number theory",
+      "b": "SETI research",
+      "c": "the genetic code",
+      "d": "artificial intelligence"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 31,
+    "question": "John von Neumann collaborated with Oskar Morgenstern. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "the genetic code",
+      "b": "artificial intelligence",
+      "c": "game theory",
+      "d": "cosmology"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 32,
+    "question": "G. H. Hardy collaborated with Srinivasa Ramanujan. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "artificial intelligence",
+      "b": "cosmology",
+      "c": "organic chemistry",
+      "d": "number theory"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 33,
+    "question": "Francis Crick collaborated with Sydney Brenner. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "the genetic code",
+      "b": "cosmology",
+      "c": "organic chemistry",
+      "d": "computer science"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 34,
+    "question": "James Watson collaborated with Francis Crick. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "quantum theory",
+      "c": "DNA structure",
+      "d": "celestial mechanics"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 35,
+    "question": "John Bardeen collaborated with Walter Brattain. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "quantum theory",
+      "b": "celestial mechanics",
+      "c": "evolution",
+      "d": "the transistor"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 36,
+    "question": "Marie Curie collaborated with Pierre Curie. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "celestial mechanics",
+      "c": "evolution",
+      "d": "nuclear chain reactions"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 37,
+    "question": "Albert Einstein collaborated with Niels Bohr. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "evolution",
+      "b": "quantum theory",
+      "c": "nuclear chain reactions",
+      "d": "SETI research"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 38,
+    "question": "Isaac Newton collaborated with Edmond Halley. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "nuclear chain reactions",
+      "b": "SETI research",
+      "c": "celestial mechanics",
+      "d": "game theory"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 39,
+    "question": "Charles Darwin collaborated with Alfred Russel Wallace. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "SETI research",
+      "b": "game theory",
+      "c": "number theory",
+      "d": "evolution"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 40,
+    "question": "Enrico Fermi collaborated with Leo Szilard. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "nuclear chain reactions",
+      "b": "game theory",
+      "c": "number theory",
+      "d": "the genetic code"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 41,
+    "question": "Carl Sagan collaborated with Frank Drake. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "number theory",
+      "b": "SETI research",
+      "c": "the genetic code",
+      "d": "artificial intelligence"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 42,
+    "question": "John von Neumann collaborated with Oskar Morgenstern. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "the genetic code",
+      "b": "artificial intelligence",
+      "c": "game theory",
+      "d": "cosmology"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 43,
+    "question": "G. H. Hardy collaborated with Srinivasa Ramanujan. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "artificial intelligence",
+      "b": "cosmology",
+      "c": "organic chemistry",
+      "d": "number theory"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 44,
+    "question": "Francis Crick collaborated with Sydney Brenner. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "the genetic code",
+      "b": "cosmology",
+      "c": "organic chemistry",
+      "d": "computer science"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 45,
+    "question": "James Watson collaborated with Francis Crick. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "quantum theory",
+      "c": "DNA structure",
+      "d": "celestial mechanics"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 46,
+    "question": "John Bardeen collaborated with Walter Brattain. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "quantum theory",
+      "b": "celestial mechanics",
+      "c": "evolution",
+      "d": "the transistor"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 47,
+    "question": "Marie Curie collaborated with Pierre Curie. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "celestial mechanics",
+      "c": "evolution",
+      "d": "nuclear chain reactions"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 48,
+    "question": "Albert Einstein collaborated with Niels Bohr. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "evolution",
+      "b": "quantum theory",
+      "c": "nuclear chain reactions",
+      "d": "SETI research"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 49,
+    "question": "Isaac Newton collaborated with Edmond Halley. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "nuclear chain reactions",
+      "b": "SETI research",
+      "c": "celestial mechanics",
+      "d": "game theory"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 50,
+    "question": "Charles Darwin collaborated with Alfred Russel Wallace. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "SETI research",
+      "b": "game theory",
+      "c": "number theory",
+      "d": "evolution"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 51,
+    "question": "Enrico Fermi collaborated with Leo Szilard. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "nuclear chain reactions",
+      "b": "game theory",
+      "c": "number theory",
+      "d": "the genetic code"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 52,
+    "question": "Carl Sagan collaborated with Frank Drake. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "number theory",
+      "b": "SETI research",
+      "c": "the genetic code",
+      "d": "artificial intelligence"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 53,
+    "question": "John von Neumann collaborated with Oskar Morgenstern. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "the genetic code",
+      "b": "artificial intelligence",
+      "c": "game theory",
+      "d": "cosmology"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 54,
+    "question": "G. H. Hardy collaborated with Srinivasa Ramanujan. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "artificial intelligence",
+      "b": "cosmology",
+      "c": "organic chemistry",
+      "d": "number theory"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 55,
+    "question": "Francis Crick collaborated with Sydney Brenner. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "the genetic code",
+      "b": "cosmology",
+      "c": "organic chemistry",
+      "d": "computer science"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 56,
+    "question": "James Watson collaborated with Francis Crick. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "quantum theory",
+      "c": "DNA structure",
+      "d": "celestial mechanics"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 57,
+    "question": "John Bardeen collaborated with Walter Brattain. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "quantum theory",
+      "b": "celestial mechanics",
+      "c": "evolution",
+      "d": "the transistor"
+    },
+    "answer": "d",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 58,
+    "question": "Marie Curie collaborated with Pierre Curie. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "radioactivity",
+      "b": "celestial mechanics",
+      "c": "evolution",
+      "d": "nuclear chain reactions"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 59,
+    "question": "Albert Einstein collaborated with Niels Bohr. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "evolution",
+      "b": "quantum theory",
+      "c": "nuclear chain reactions",
+      "d": "SETI research"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 60,
+    "question": "Isaac Newton collaborated with Edmond Halley. What was the main topic of their work?",
+    "type": "MCQ",
+    "options": {
+      "a": "nuclear chain reactions",
+      "b": "SETI research",
+      "c": "celestial mechanics",
+      "d": "game theory"
+    },
+    "answer": "c",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 61,
+    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 62,
     "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
     "type": "T/F",
     "options": {
@@ -24,8 +802,8 @@
     "template_type": "scientist_collab"
   },
   {
-    "question_id": 3,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
+    "question_id": 63,
+    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -35,20 +813,7 @@
     "template_type": "scientist_collab"
   },
   {
-    "question_id": 4,
-    "question": "Who collaborated with Marie Curie on radioactivity?",
-    "type": "MCQ",
-    "options": {
-      "a": "Pierre Curie",
-      "b": "Niels Bohr",
-      "c": "Leo Szilard",
-      "d": "Walter Brattain"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 5,
+    "question_id": 64,
     "question": "Did Albert Einstein collaborate with Niels Bohr on quantum theory?",
     "type": "T/F",
     "options": {
@@ -59,7 +824,7 @@
     "template_type": "scientist_collab"
   },
   {
-    "question_id": 6,
+    "question_id": 65,
     "question": "Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",
     "type": "T/F",
     "options": {
@@ -70,683 +835,8 @@
     "template_type": "scientist_collab"
   },
   {
-    "question_id": 7,
-    "question": "Who collaborated with Albert Einstein on quantum theory?",
-    "type": "MCQ",
-    "options": {
-      "a": "Charles Darwin",
-      "b": "Walter Brattain",
-      "c": "Niels Bohr",
-      "d": "Francis Crick"
-    },
-    "answer": "c",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 8,
-    "question": "Who collaborated with Isaac Newton on celestial mechanics?",
-    "type": "MCQ",
-    "options": {
-      "a": "Marie Curie",
-      "b": "Edmond Halley",
-      "c": "Alfred Russel Wallace",
-      "d": "Pierre Curie"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 9,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 10,
-    "question": "Did Albert Einstein collaborate with Niels Bohr on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 11,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 12,
-    "question": "Did Carl Sagan collaborate with Frank Drake on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 13,
-    "question": "Who collaborated with John Bardeen on the transistor?",
-    "type": "MCQ",
-    "options": {
-      "a": "Edmond Halley",
-      "b": "Pierre Curie",
-      "c": "Carl Sagan",
-      "d": "Walter Brattain"
-    },
-    "answer": "d",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 14,
-    "question": "Did Albert Einstein collaborate with Niels Bohr on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 15,
-    "question": "Who collaborated with Charles Darwin on evolution?",
-    "type": "MCQ",
-    "options": {
-      "a": "James Watson",
-      "b": "Leo Szilard",
-      "c": "Alfred Russel Wallace",
-      "d": "Enrico Fermi"
-    },
-    "answer": "c",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 16,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 17,
-    "question": "Who collaborated with Isaac Newton on celestial mechanics?",
-    "type": "MCQ",
-    "options": {
-      "a": "Pierre Curie",
-      "b": "Edmond Halley",
-      "c": "James Watson",
-      "d": "Frank Drake"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 18,
-    "question": "Did Marie Curie collaborate with Marie Curie on radioactivity?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 19,
-    "question": "Who collaborated with Charles Darwin on evolution?",
-    "type": "MCQ",
-    "options": {
-      "a": "Alfred Russel Wallace",
-      "b": "Carl Sagan",
-      "c": "Walter Brattain",
-      "d": "Pierre Curie"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 20,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 21,
-    "question": "Did Marie Curie collaborate with Pierre Curie on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 22,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 23,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 24,
-    "question": "Who collaborated with John Bardeen on the transistor?",
-    "type": "MCQ",
-    "options": {
-      "a": "Francis Crick",
-      "b": "Frank Drake",
-      "c": "Charles Darwin",
-      "d": "Walter Brattain"
-    },
-    "answer": "d",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 25,
-    "question": "Did John Bardeen collaborate with Enrico Fermi on the transistor?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 26,
-    "question": "Did Isaac Newton collaborate with Edmond Halley on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 27,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 28,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 29,
-    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 30,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 31,
-    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 32,
-    "question": "Did Marie Curie collaborate with Leo Szilard on radioactivity?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 33,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 34,
-    "question": "On which topic did James Watson and Francis Crick collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "DNA structure",
-      "b": "radioactivity",
-      "c": "evolution",
-      "d": "celestial mechanics"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 35,
-    "question": "Did Enrico Fermi collaborate with Carl Sagan on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 36,
-    "question": "Who collaborated with James Watson on DNA structure?",
-    "type": "MCQ",
-    "options": {
-      "a": "Isaac Newton",
-      "b": "Francis Crick",
-      "c": "John Bardeen",
-      "d": "Frank Drake"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 37,
-    "question": "Did Albert Einstein collaborate with Albert Einstein on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 38,
-    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 39,
-    "question": "Did Charles Darwin collaborate with Charles Darwin on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 40,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 41,
-    "question": "Did Isaac Newton collaborate with Alfred Russel Wallace on celestial mechanics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 42,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 43,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 44,
-    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 45,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 46,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 47,
-    "question": "Did Albert Einstein collaborate with Niels Bohr on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 48,
-    "question": "Did Carl Sagan collaborate with Frank Drake on the transistor?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 49,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 50,
-    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 51,
-    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 52,
-    "question": "Did Isaac Newton collaborate with Walter Brattain on celestial mechanics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 53,
-    "question": "Did Carl Sagan collaborate with Frank Drake on radioactivity?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 54,
-    "question": "Did Enrico Fermi collaborate with Frank Drake on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 55,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 56,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on celestial mechanics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 57,
-    "question": "Did Albert Einstein collaborate with Niels Bohr on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 58,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on celestial mechanics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 59,
-    "question": "Did Enrico Fermi collaborate with Alfred Russel Wallace on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 60,
-    "question": "On which topic did Charles Darwin and Alfred Russel Wallace collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "celestial mechanics",
-      "b": "SETI research",
-      "c": "radioactivity",
-      "d": "evolution"
-    },
-    "answer": "d",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 61,
-    "question": "Did Albert Einstein collaborate with Isaac Newton on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 62,
-    "question": "On which topic did Isaac Newton and Edmond Halley collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "radioactivity",
-      "b": "celestial mechanics",
-      "c": "SETI research",
-      "d": "the transistor"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 63,
-    "question": "Did James Watson collaborate with Francis Crick on the transistor?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 64,
-    "question": "On which topic did John Bardeen and Walter Brattain collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "evolution",
-      "b": "the transistor",
-      "c": "nuclear physics",
-      "d": "quantum theory"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 65,
-    "question": "Who collaborated with Enrico Fermi on nuclear physics?",
-    "type": "MCQ",
-    "options": {
-      "a": "Albert Einstein",
-      "b": "Isaac Newton",
-      "c": "Frank Drake",
-      "d": "Leo Szilard"
-    },
-    "answer": "d",
-    "template_type": "scientist_collab"
-  },
-  {
     "question_id": 66,
-    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -757,51 +847,51 @@
   },
   {
     "question_id": 67,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on radioactivity?",
+    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 68,
-    "question": "Did Marie Curie collaborate with Pierre Curie on SETI research?",
+    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 69,
-    "question": "Did Marie Curie collaborate with Leo Szilard on radioactivity?",
+    "question": "Did John von Neumann collaborate with Oskar Morgenstern on game theory?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 70,
-    "question": "Did John Bardeen collaborate with Walter Brattain on SETI research?",
+    "question": "Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 71,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
+    "question": "Did Francis Crick collaborate with Sydney Brenner on the genetic code?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -812,24 +902,24 @@
   },
   {
     "question_id": 72,
-    "question": "Did Isaac Newton collaborate with Edmond Halley on SETI research?",
+    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 73,
-    "question": "Did Carl Sagan collaborate with Frank Drake on radioactivity?",
+    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
@@ -845,288 +935,17 @@
   },
   {
     "question_id": 75,
-    "question": "Who collaborated with Albert Einstein on quantum theory?",
-    "type": "MCQ",
+    "question": "Did Albert Einstein collaborate with Niels Bohr on quantum theory?",
+    "type": "T/F",
     "options": {
-      "a": "Pierre Curie",
-      "b": "Marie Curie",
-      "c": "John Bardeen",
-      "d": "Niels Bohr"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "d",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 76,
-    "question": "On which topic did Albert Einstein and Niels Bohr collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "SETI research",
-      "b": "quantum theory",
-      "c": "the transistor",
-      "d": "radioactivity"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 77,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 78,
-    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 79,
-    "question": "On which topic did Marie Curie and Pierre Curie collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "SETI research",
-      "b": "DNA structure",
-      "c": "radioactivity",
-      "d": "quantum theory"
-    },
-    "answer": "c",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 80,
-    "question": "On which topic did Isaac Newton and Edmond Halley collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "celestial mechanics",
-      "b": "quantum theory",
-      "c": "radioactivity",
-      "d": "SETI research"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 81,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 82,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 83,
-    "question": "Did Isaac Newton collaborate with Edmond Halley on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 84,
-    "question": "On which topic did Marie Curie and Pierre Curie collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "nuclear physics",
-      "b": "DNA structure",
-      "c": "SETI research",
-      "d": "radioactivity"
-    },
-    "answer": "d",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 85,
-    "question": "Did James Watson collaborate with Francis Crick on quantum theory?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 86,
-    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 87,
-    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 88,
-    "question": "Who collaborated with Carl Sagan on SETI research?",
-    "type": "MCQ",
-    "options": {
-      "a": "James Watson",
-      "b": "Frank Drake",
-      "c": "Pierre Curie",
-      "d": "Enrico Fermi"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 89,
-    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 90,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 91,
-    "question": "Who collaborated with James Watson on DNA structure?",
-    "type": "MCQ",
-    "options": {
-      "a": "Francis Crick",
-      "b": "Leo Szilard",
-      "c": "Edmond Halley",
-      "d": "Pierre Curie"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 92,
-    "question": "Did Marie Curie collaborate with Pierre Curie on nuclear physics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 93,
-    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 94,
-    "question": "Did James Watson collaborate with Edmond Halley on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 95,
-    "question": "Did Carl Sagan collaborate with John Bardeen on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 96,
-    "question": "Did Albert Einstein collaborate with Niels Bohr on the transistor?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 97,
-    "question": "On which topic did Carl Sagan and Frank Drake collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "nuclear physics",
-      "b": "SETI research",
-      "c": "radioactivity",
-      "d": "DNA structure"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 98,
-    "question": "Who collaborated with John Bardeen on the transistor?",
-    "type": "MCQ",
-    "options": {
-      "a": "Enrico Fermi",
-      "b": "Francis Crick",
-      "c": "John Bardeen",
-      "d": "Walter Brattain"
-    },
-    "answer": "d",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 99,
     "question": "Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",
     "type": "T/F",
     "options": {
@@ -1137,77 +956,322 @@
     "template_type": "scientist_collab"
   },
   {
-    "question_id": 100,
-    "question": "On which topic did Marie Curie and Pierre Curie collaborate?",
-    "type": "MCQ",
+    "question_id": 77,
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
+    "type": "T/F",
     "options": {
-      "a": "celestial mechanics",
-      "b": "evolution",
-      "c": "radioactivity",
-      "d": "SETI research"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 78,
+    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 79,
+    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 80,
+    "question": "Did John von Neumann collaborate with Oskar Morgenstern on game theory?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 81,
+    "question": "Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 82,
+    "question": "Did Francis Crick collaborate with Sydney Brenner on the genetic code?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 83,
+    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 84,
+    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 85,
+    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 86,
+    "question": "Did Albert Einstein collaborate with Niels Bohr on quantum theory?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 87,
+    "question": "Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 88,
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 89,
+    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 90,
+    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 91,
+    "question": "Did John von Neumann collaborate with Oskar Morgenstern on game theory?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 92,
+    "question": "Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 93,
+    "question": "Did Francis Crick collaborate with Sydney Brenner on the genetic code?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 94,
+    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 95,
+    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 96,
+    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 97,
+    "question": "Did Albert Einstein collaborate with Niels Bohr on quantum theory?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 98,
+    "question": "Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 99,
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 100,
+    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 101,
-    "question": "On which topic did James Watson and Francis Crick collaborate?",
-    "type": "MCQ",
+    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
+    "type": "T/F",
     "options": {
-      "a": "DNA structure",
-      "b": "nuclear physics",
-      "c": "quantum theory",
-      "d": "the transistor"
+      "a": "True",
+      "b": "False"
     },
     "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 102,
-    "question": "On which topic did Marie Curie and Pierre Curie collaborate?",
-    "type": "MCQ",
-    "options": {
-      "a": "nuclear physics",
-      "b": "radioactivity",
-      "c": "evolution",
-      "d": "DNA structure"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 103,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on nuclear physics?",
+    "question": "Did John von Neumann collaborate with Oskar Morgenstern on game theory?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 103,
+    "question": "Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 104,
-    "question": "On which topic did James Watson and Francis Crick collaborate?",
-    "type": "MCQ",
+    "question": "Did Francis Crick collaborate with Sydney Brenner on the genetic code?",
+    "type": "T/F",
     "options": {
-      "a": "DNA structure",
-      "b": "SETI research",
-      "c": "the transistor",
-      "d": "celestial mechanics"
+      "a": "True",
+      "b": "False"
     },
     "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 105,
-    "question": "Did Marie Curie collaborate with Albert Einstein on radioactivity?",
+    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
@@ -1223,31 +1287,29 @@
   },
   {
     "question_id": 107,
-    "question": "Did John Bardeen collaborate with Alfred Russel Wallace on the transistor?",
+    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 108,
-    "question": "Who collaborated with Carl Sagan on SETI research?",
-    "type": "MCQ",
+    "question": "Did Albert Einstein collaborate with Niels Bohr on quantum theory?",
+    "type": "T/F",
     "options": {
-      "a": "Niels Bohr",
-      "b": "Frank Drake",
-      "c": "Isaac Newton",
-      "d": "Enrico Fermi"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 109,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
+    "question": "Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1258,7 +1320,7 @@
   },
   {
     "question_id": 110,
-    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1269,20 +1331,18 @@
   },
   {
     "question_id": 111,
-    "question": "On which topic did Charles Darwin and Alfred Russel Wallace collaborate?",
-    "type": "MCQ",
+    "question": "Did James Watson collaborate with Francis Crick on the transistor?",
+    "type": "T/F",
     "options": {
-      "a": "nuclear physics",
-      "b": "celestial mechanics",
-      "c": "evolution",
-      "d": "DNA structure"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 112,
-    "question": "Did Albert Einstein collaborate with Niels Bohr on celestial mechanics?",
+    "question": "Did John Bardeen collaborate with Walter Brattain on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1293,33 +1353,29 @@
   },
   {
     "question_id": 113,
-    "question": "Who collaborated with Charles Darwin on evolution?",
-    "type": "MCQ",
+    "question": "Did Marie Curie collaborate with Pierre Curie on DNA structure?",
+    "type": "T/F",
     "options": {
-      "a": "Enrico Fermi",
-      "b": "Alfred Russel Wallace",
-      "c": "Frank Drake",
-      "d": "Isaac Newton"
+      "a": "True",
+      "b": "False"
     },
     "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 114,
-    "question": "Who collaborated with Isaac Newton on celestial mechanics?",
-    "type": "MCQ",
+    "question": "Did Albert Einstein collaborate with Niels Bohr on DNA structure?",
+    "type": "T/F",
     "options": {
-      "a": "Albert Einstein",
-      "b": "Enrico Fermi",
-      "c": "Francis Crick",
-      "d": "Edmond Halley"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "d",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 115,
-    "question": "Did Enrico Fermi collaborate with Edmond Halley on nuclear physics?",
+    "question": "Did Isaac Newton collaborate with Edmond Halley on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1330,18 +1386,18 @@
   },
   {
     "question_id": 116,
-    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 117,
-    "question": "Did Charles Darwin collaborate with Niels Bohr on evolution?",
+    "question": "Did Enrico Fermi collaborate with Leo Szilard on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1352,120 +1408,6 @@
   },
   {
     "question_id": 118,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 119,
-    "question": "Did Carl Sagan collaborate with Frank Drake on SETI research?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 120,
-    "question": "Who collaborated with Enrico Fermi on nuclear physics?",
-    "type": "MCQ",
-    "options": {
-      "a": "Francis Crick",
-      "b": "Leo Szilard",
-      "c": "Isaac Newton",
-      "d": "Carl Sagan"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 121,
-    "question": "Who collaborated with John Bardeen on the transistor?",
-    "type": "MCQ",
-    "options": {
-      "a": "Leo Szilard",
-      "b": "John Bardeen",
-      "c": "Walter Brattain",
-      "d": "Carl Sagan"
-    },
-    "answer": "c",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 122,
-    "question": "Did John Bardeen collaborate with Enrico Fermi on the transistor?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 123,
-    "question": "Did Albert Einstein collaborate with Niels Bohr on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 124,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 125,
-    "question": "Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 126,
-    "question": "Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 127,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 128,
     "question": "Did Carl Sagan collaborate with Frank Drake on DNA structure?",
     "type": "T/F",
     "options": {
@@ -1476,19 +1418,129 @@
     "template_type": "scientist_collab"
   },
   {
-    "question_id": 129,
-    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
+    "question_id": 119,
+    "question": "Did John von Neumann collaborate with Oskar Morgenstern on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 120,
+    "question": "Did G. H. Hardy collaborate with Srinivasa Ramanujan on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 121,
+    "question": "Did Francis Crick collaborate with Sydney Brenner on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 122,
+    "question": "Did James Watson collaborate with Francis Crick on the transistor?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 123,
+    "question": "Did John Bardeen collaborate with Walter Brattain on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 124,
+    "question": "Did Marie Curie collaborate with Pierre Curie on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 125,
+    "question": "Did Albert Einstein collaborate with Niels Bohr on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 126,
+    "question": "Did Isaac Newton collaborate with Edmond Halley on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 127,
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 128,
+    "question": "Did Enrico Fermi collaborate with Leo Szilard on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 129,
+    "question": "Did Carl Sagan collaborate with Frank Drake on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 130,
-    "question": "Did Albert Einstein collaborate with Isaac Newton on quantum theory?",
+    "question": "Did John von Neumann collaborate with Oskar Morgenstern on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1499,7 +1551,7 @@
   },
   {
     "question_id": 131,
-    "question": "Did Albert Einstein collaborate with Alfred Russel Wallace on quantum theory?",
+    "question": "Did G. H. Hardy collaborate with Srinivasa Ramanujan on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1510,7 +1562,7 @@
   },
   {
     "question_id": 132,
-    "question": "Did Marie Curie collaborate with Pierre Curie on nuclear physics?",
+    "question": "Did Francis Crick collaborate with Sydney Brenner on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1521,7 +1573,7 @@
   },
   {
     "question_id": 133,
-    "question": "Did Enrico Fermi collaborate with Walter Brattain on nuclear physics?",
+    "question": "Did James Watson collaborate with Francis Crick on the transistor?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1532,31 +1584,29 @@
   },
   {
     "question_id": 134,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear physics?",
+    "question": "Did John Bardeen collaborate with Walter Brattain on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 135,
-    "question": "Who collaborated with James Watson on DNA structure?",
-    "type": "MCQ",
+    "question": "Did Marie Curie collaborate with Pierre Curie on DNA structure?",
+    "type": "T/F",
     "options": {
-      "a": "Walter Brattain",
-      "b": "Alfred Russel Wallace",
-      "c": "Francis Crick",
-      "d": "Niels Bohr"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 136,
-    "question": "Did James Watson collaborate with Francis Crick on celestial mechanics?",
+    "question": "Did Albert Einstein collaborate with Niels Bohr on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1567,7 +1617,7 @@
   },
   {
     "question_id": 137,
-    "question": "Did Albert Einstein collaborate with Niels Bohr on celestial mechanics?",
+    "question": "Did Isaac Newton collaborate with Edmond Halley on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1578,20 +1628,18 @@
   },
   {
     "question_id": 138,
-    "question": "Who collaborated with Charles Darwin on evolution?",
-    "type": "MCQ",
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on DNA structure?",
+    "type": "T/F",
     "options": {
-      "a": "Leo Szilard",
-      "b": "Isaac Newton",
-      "c": "Alfred Russel Wallace",
-      "d": "Pierre Curie"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 139,
-    "question": "Did John Bardeen collaborate with Alfred Russel Wallace on the transistor?",
+    "question": "Did Enrico Fermi collaborate with Leo Szilard on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1602,7 +1650,7 @@
   },
   {
     "question_id": 140,
-    "question": "Did Albert Einstein collaborate with Francis Crick on quantum theory?",
+    "question": "Did Carl Sagan collaborate with Frank Drake on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1613,44 +1661,40 @@
   },
   {
     "question_id": 141,
-    "question": "Who collaborated with Marie Curie on radioactivity?",
-    "type": "MCQ",
-    "options": {
-      "a": "Pierre Curie",
-      "b": "Carl Sagan",
-      "c": "Leo Szilard",
-      "d": "Isaac Newton"
-    },
-    "answer": "a",
-    "template_type": "scientist_collab"
-  },
-  {
-    "question_id": 142,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear physics?",
+    "question": "Did John von Neumann collaborate with Oskar Morgenstern on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
+    "template_type": "scientist_collab"
+  },
+  {
+    "question_id": 142,
+    "question": "Did G. H. Hardy collaborate with Srinivasa Ramanujan on DNA structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 143,
-    "question": "On which topic did Isaac Newton and Edmond Halley collaborate?",
-    "type": "MCQ",
+    "question": "Did Francis Crick collaborate with Sydney Brenner on DNA structure?",
+    "type": "T/F",
     "options": {
-      "a": "celestial mechanics",
-      "b": "the transistor",
-      "c": "evolution",
-      "d": "SETI research"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 144,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on the transistor?",
+    "question": "Did James Watson collaborate with Francis Crick on the transistor?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1661,29 +1705,29 @@
   },
   {
     "question_id": 145,
-    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
+    "question": "Did John Bardeen collaborate with Walter Brattain on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 146,
-    "question": "Did Marie Curie collaborate with Pierre Curie on radioactivity?",
+    "question": "Did Marie Curie collaborate with Pierre Curie on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 147,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on quantum theory?",
+    "question": "Did Albert Einstein collaborate with Niels Bohr on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1694,7 +1738,7 @@
   },
   {
     "question_id": 148,
-    "question": "Did Enrico Fermi collaborate with Alfred Russel Wallace on nuclear physics?",
+    "question": "Did Isaac Newton collaborate with Edmond Halley on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1705,88 +1749,84 @@
   },
   {
     "question_id": 149,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 150,
-    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",
+    "question": "Did Enrico Fermi collaborate with Leo Szilard on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 151,
-    "question": "On which topic did John Bardeen and Walter Brattain collaborate?",
-    "type": "MCQ",
+    "question": "Did Carl Sagan collaborate with Frank Drake on DNA structure?",
+    "type": "T/F",
     "options": {
-      "a": "SETI research",
-      "b": "celestial mechanics",
-      "c": "the transistor",
-      "d": "radioactivity"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 152,
-    "question": "On which topic did Marie Curie and Pierre Curie collaborate?",
-    "type": "MCQ",
+    "question": "Did John von Neumann collaborate with Oskar Morgenstern on DNA structure?",
+    "type": "T/F",
     "options": {
-      "a": "DNA structure",
-      "b": "radioactivity",
-      "c": "quantum theory",
-      "d": "celestial mechanics"
+      "a": "True",
+      "b": "False"
     },
     "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 153,
-    "question": "Did John Bardeen collaborate with Walter Brattain on the transistor?",
+    "question": "Did G. H. Hardy collaborate with Srinivasa Ramanujan on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 154,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
+    "question": "Did Francis Crick collaborate with Sydney Brenner on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 155,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
+    "question": "Did James Watson collaborate with Francis Crick on the transistor?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 156,
-    "question": "Did James Watson collaborate with Enrico Fermi on DNA structure?",
+    "question": "Did John Bardeen collaborate with Walter Brattain on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1797,7 +1837,7 @@
   },
   {
     "question_id": 157,
-    "question": "Did John Bardeen collaborate with Walter Brattain on celestial mechanics?",
+    "question": "Did Marie Curie collaborate with Pierre Curie on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1808,18 +1848,18 @@
   },
   {
     "question_id": 158,
-    "question": "Did Enrico Fermi collaborate with Leo Szilard on nuclear physics?",
+    "question": "Did Albert Einstein collaborate with Niels Bohr on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   },
   {
     "question_id": 159,
-    "question": "Did Isaac Newton collaborate with Frank Drake on celestial mechanics?",
+    "question": "Did Isaac Newton collaborate with Edmond Halley on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1830,13 +1870,13 @@
   },
   {
     "question_id": 160,
-    "question": "Did James Watson collaborate with Francis Crick on DNA structure?",
+    "question": "Did Charles Darwin collaborate with Alfred Russel Wallace on DNA structure?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "scientist_collab"
   }
 ]

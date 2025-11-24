@@ -1,685 +1,797 @@
 [
   {
     "question_id": 1,
-    "question": "In which year did Anwar Sadat and Menachem Begin sign their agreement in Camp David?",
+    "question": "In which city did Yitzhak Rabin sign an agreement with Yasser Arafat in 1993?",
     "type": "MCQ",
     "options": {
-      "a": "2003",
-      "b": "1953",
-      "c": "1993",
-      "d": "1978"
+      "a": "Washington",
+      "b": "Camp David",
+      "c": "Maastricht",
+      "d": "Moscow"
     },
-    "answer": "d",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 2,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
-    "type": "T/F",
+    "question": "In which city did Anwar Sadat sign an agreement with Menachem Begin in 1978?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Maastricht",
+      "b": "Camp David",
+      "c": "Moscow",
+      "d": "Munich"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 3,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Oslo in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 4,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2008?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 5,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1963?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 6,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 7,
-    "question": "In which place did Mikhail Gorbachev and Ronald Reagan sign their agreement in 1987?",
+    "question": "In which city did Richard Nixon sign an agreement with Leonid Brezhnev in 1972?",
     "type": "MCQ",
     "options": {
-      "a": "Washington",
-      "b": "London",
-      "c": "New York",
-      "d": "Oslo"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 8,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 9,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in New York in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 10,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 11,
-    "question": "In which year did Yitzhak Rabin and Yasser Arafat sign their agreement in Washington?",
-    "type": "MCQ",
-    "options": {
-      "a": "1993",
-      "b": "1968",
-      "c": "2008",
-      "d": "2018"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 12,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 13,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2008?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 14,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in New York in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 15,
-    "question": "With whom did Mikhail Gorbachev sign an agreement in Washington in 1987?",
-    "type": "MCQ",
-    "options": {
-      "a": "Mikhail Gorbachev",
-      "b": "Anwar Sadat",
-      "c": "Yitzhak Rabin",
-      "d": "Ronald Reagan"
-    },
-    "answer": "d",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 16,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1963?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 17,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1963?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 18,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 19,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 20,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 21,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Geneva in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 22,
-    "question": "Did Yitzhak Rabin sign an agreement with Anwar Sadat in Washington in 1993?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 23,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 24,
-    "question": "In which year did Yitzhak Rabin and Yasser Arafat sign their agreement in Washington?",
-    "type": "MCQ",
-    "options": {
-      "a": "1968",
-      "b": "2018",
-      "c": "2008",
-      "d": "1993"
-    },
-    "answer": "d",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 25,
-    "question": "In which year did Anwar Sadat and Menachem Begin sign their agreement in Camp David?",
-    "type": "MCQ",
-    "options": {
-      "a": "2003",
-      "b": "1978",
-      "c": "1953",
-      "d": "1993"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 26,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Oslo in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 27,
-    "question": "Did Mikhail Gorbachev sign an agreement with Menachem Begin in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 28,
-    "question": "In which place did Yitzhak Rabin and Yasser Arafat sign their agreement in 1993?",
-    "type": "MCQ",
-    "options": {
-      "a": "Washington",
-      "b": "Geneva",
-      "c": "Oslo",
-      "d": "New York"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 29,
-    "question": "Did Anwar Sadat sign an agreement with Yasser Arafat in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 30,
-    "question": "Did Yitzhak Rabin sign an agreement with Ronald Reagan in Washington in 1993?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 31,
-    "question": "Did Mikhail Gorbachev sign an agreement with Mikhail Gorbachev in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 32,
-    "question": "Did Anwar Sadat sign an agreement with Mikhail Gorbachev in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 33,
-    "question": "Did Anwar Sadat sign an agreement with Yasser Arafat in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 34,
-    "question": "In which year did Mikhail Gorbachev and Ronald Reagan sign their agreement in Washington?",
-    "type": "MCQ",
-    "options": {
-      "a": "1962",
-      "b": "2012",
-      "c": "2002",
-      "d": "1987"
-    },
-    "answer": "d",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 35,
-    "question": "In which place did Yitzhak Rabin and Yasser Arafat sign their agreement in 1993?",
-    "type": "MCQ",
-    "options": {
-      "a": "Washington",
-      "b": "Oslo",
-      "c": "Geneva",
-      "d": "London"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 36,
-    "question": "Did Anwar Sadat sign an agreement with Yitzhak Rabin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 37,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 38,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 39,
-    "question": "In which year did Mikhail Gorbachev and Ronald Reagan sign their agreement in Washington?",
-    "type": "MCQ",
-    "options": {
-      "a": "2012",
-      "b": "1962",
-      "c": "2002",
-      "d": "1987"
-    },
-    "answer": "d",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 40,
-    "question": "In which year did Mikhail Gorbachev and Ronald Reagan sign their agreement in Washington?",
-    "type": "MCQ",
-    "options": {
-      "a": "1962",
-      "b": "2012",
-      "c": "2002",
-      "d": "1987"
-    },
-    "answer": "d",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 41,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 42,
-    "question": "Did Yitzhak Rabin sign an agreement with Ronald Reagan in Washington in 1993?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 43,
-    "question": "Did Anwar Sadat sign an agreement with Yasser Arafat in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 44,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2008?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 45,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Geneva in 1993?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 46,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 47,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 48,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 49,
-    "question": "Did Anwar Sadat sign an agreement with Anwar Sadat in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 50,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 51,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 52,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 53,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Oslo in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 54,
-    "question": "With whom did Yitzhak Rabin sign an agreement in Washington in 1993?",
-    "type": "MCQ",
-    "options": {
-      "a": "Menachem Begin",
-      "b": "Anwar Sadat",
-      "c": "Yasser Arafat",
-      "d": "Mikhail Gorbachev"
+      "a": "Munich",
+      "b": "Panmunjom",
+      "c": "Moscow",
+      "d": "Prague"
     },
     "answer": "c",
     "template_type": "leaders_agreement"
   },
   {
-    "question_id": 55,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 56,
-    "question": "In which year did Yitzhak Rabin and Yasser Arafat sign their agreement in Washington?",
+    "question_id": 4,
+    "question": "In which city did Ronald Reagan sign an agreement with Mikhail Gorbachev in 1987?",
     "type": "MCQ",
     "options": {
-      "a": "1993",
-      "b": "1968",
-      "c": "2018",
-      "d": "2008"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 57,
-    "question": "In which place did Yitzhak Rabin and Yasser Arafat sign their agreement in 1993?",
-    "type": "MCQ",
-    "options": {
-      "a": "London",
-      "b": "Geneva",
-      "c": "Oslo",
+      "a": "Munich",
+      "b": "Panmunjom",
+      "c": "Prague",
       "d": "Washington"
     },
     "answer": "d",
     "template_type": "leaders_agreement"
   },
   {
-    "question_id": 58,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in New York in 1978?",
-    "type": "T/F",
+    "question_id": 5,
+    "question": "In which city did Neville Chamberlain sign an agreement with Adolf Hitler in 1938?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Munich",
+      "b": "Panmunjom",
+      "c": "Prague",
+      "d": "Singapore"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 6,
+    "question": "In which city did Kim Jong-un sign an agreement with Moon Jae-in in 2018?",
+    "type": "MCQ",
+    "options": {
+      "a": "Prague",
+      "b": "Panmunjom",
+      "c": "Singapore",
+      "d": "Washington"
     },
     "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
-    "question_id": 59,
-    "question": "With whom did Yitzhak Rabin sign an agreement in Washington in 1993?",
+    "question_id": 7,
+    "question": "In which city did Donald Trump sign an agreement with Kim Jong-un in 2018?",
     "type": "MCQ",
     "options": {
-      "a": "Yasser Arafat",
-      "b": "Menachem Begin",
-      "c": "Yitzhak Rabin",
-      "d": "Anwar Sadat"
+      "a": "Washington",
+      "b": "London",
+      "c": "Singapore",
+      "d": "Paris"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 8,
+    "question": "In which city did Barack Obama sign an agreement with Dmitry Medvedev in 2010?",
+    "type": "MCQ",
+    "options": {
+      "a": "Washington",
+      "b": "London",
+      "c": "Paris",
+      "d": "Prague"
+    },
+    "answer": "d",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 9,
+    "question": "In which city did Helmut Kohl sign an agreement with François Mitterrand in 1992?",
+    "type": "MCQ",
+    "options": {
+      "a": "Maastricht",
+      "b": "London",
+      "c": "Paris",
+      "d": "Geneva"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 10,
+    "question": "In which city did Angela Merkel sign an agreement with Nicolas Sarkozy in 2011?",
+    "type": "MCQ",
+    "options": {
+      "a": "Paris",
+      "b": "Brussels",
+      "c": "Geneva",
+      "d": "Vienna"
+    },
+    "answer": "b",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 11,
+    "question": "In which year did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington?",
+    "type": "MCQ",
+    "options": {
+      "a": "1978",
+      "b": "1993",
+      "c": "1987",
+      "d": "1992"
+    },
+    "answer": "b",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 12,
+    "question": "In which year did Anwar Sadat sign an agreement with Menachem Begin in Camp David?",
+    "type": "MCQ",
+    "options": {
+      "a": "1987",
+      "b": "1992",
+      "c": "1978",
+      "d": "1993"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 13,
+    "question": "In which year did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow?",
+    "type": "MCQ",
+    "options": {
+      "a": "1992",
+      "b": "1993",
+      "c": "2010",
+      "d": "1972"
+    },
+    "answer": "d",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 14,
+    "question": "In which year did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington?",
+    "type": "MCQ",
+    "options": {
+      "a": "1987",
+      "b": "1993",
+      "c": "2010",
+      "d": "2011"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 15,
+    "question": "In which year did Neville Chamberlain sign an agreement with Adolf Hitler in Munich?",
+    "type": "MCQ",
+    "options": {
+      "a": "2010",
+      "b": "1938",
+      "c": "2011",
+      "d": "2018"
+    },
+    "answer": "b",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 16,
+    "question": "In which year did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom?",
+    "type": "MCQ",
+    "options": {
+      "a": "2011",
+      "b": "1963",
+      "c": "2018",
+      "d": "1968"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 17,
+    "question": "In which year did Donald Trump sign an agreement with Kim Jong-un in Singapore?",
+    "type": "MCQ",
+    "options": {
+      "a": "1963",
+      "b": "1968",
+      "c": "1979",
+      "d": "2018"
+    },
+    "answer": "d",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 18,
+    "question": "In which year did Barack Obama sign an agreement with Dmitry Medvedev in Prague?",
+    "type": "MCQ",
+    "options": {
+      "a": "2010",
+      "b": "1963",
+      "c": "1968",
+      "d": "1979"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 19,
+    "question": "In which year did Helmut Kohl sign an agreement with François Mitterrand in Maastricht?",
+    "type": "MCQ",
+    "options": {
+      "a": "1968",
+      "b": "1992",
+      "c": "1979",
+      "d": "1989"
+    },
+    "answer": "b",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 20,
+    "question": "In which year did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels?",
+    "type": "MCQ",
+    "options": {
+      "a": "1979",
+      "b": "1989",
+      "c": "2011",
+      "d": "1990"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 21,
+    "question": "Which pair of leaders signed an agreement in Washington in 1993?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yitzhak Rabin and Yasser Arafat",
+      "b": "Anwar Sadat and Menachem Begin",
+      "c": "Richard Nixon and Leonid Brezhnev",
+      "d": "Ronald Reagan and Mikhail Gorbachev"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 22,
+    "question": "Which pair of leaders signed an agreement in Camp David in 1978?",
+    "type": "MCQ",
+    "options": {
+      "a": "Richard Nixon and Leonid Brezhnev",
+      "b": "Ronald Reagan and Mikhail Gorbachev",
+      "c": "Anwar Sadat and Menachem Begin",
+      "d": "Neville Chamberlain and Adolf Hitler"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 23,
+    "question": "Which pair of leaders signed an agreement in Moscow in 1972?",
+    "type": "MCQ",
+    "options": {
+      "a": "Richard Nixon and Leonid Brezhnev",
+      "b": "Ronald Reagan and Mikhail Gorbachev",
+      "c": "Neville Chamberlain and Adolf Hitler",
+      "d": "Kim Jong-un and Moon Jae-in"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 24,
+    "question": "Which pair of leaders signed an agreement in Washington in 1987?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neville Chamberlain and Adolf Hitler",
+      "b": "Kim Jong-un and Moon Jae-in",
+      "c": "Ronald Reagan and Mikhail Gorbachev",
+      "d": "Donald Trump and Kim Jong-un"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 25,
+    "question": "Which pair of leaders signed an agreement in Munich in 1938?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neville Chamberlain and Adolf Hitler",
+      "b": "Kim Jong-un and Moon Jae-in",
+      "c": "Donald Trump and Kim Jong-un",
+      "d": "Barack Obama and Dmitry Medvedev"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 26,
+    "question": "Which pair of leaders signed an agreement in Panmunjom in 2018?",
+    "type": "MCQ",
+    "options": {
+      "a": "Donald Trump and Kim Jong-un",
+      "b": "Barack Obama and Dmitry Medvedev",
+      "c": "Kim Jong-un and Moon Jae-in",
+      "d": "Helmut Kohl and François Mitterrand"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 27,
+    "question": "Which pair of leaders signed an agreement in Singapore in 2018?",
+    "type": "MCQ",
+    "options": {
+      "a": "Donald Trump and Kim Jong-un",
+      "b": "Barack Obama and Dmitry Medvedev",
+      "c": "Helmut Kohl and François Mitterrand",
+      "d": "Angela Merkel and Nicolas Sarkozy"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 28,
+    "question": "Which pair of leaders signed an agreement in Prague in 2010?",
+    "type": "MCQ",
+    "options": {
+      "a": "Helmut Kohl and François Mitterrand",
+      "b": "Angela Merkel and Nicolas Sarkozy",
+      "c": "Barack Obama and Dmitry Medvedev",
+      "d": "Yitzhak Rabin and Yasser Arafat"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 29,
+    "question": "Which pair of leaders signed an agreement in Maastricht in 1992?",
+    "type": "MCQ",
+    "options": {
+      "a": "Helmut Kohl and François Mitterrand",
+      "b": "Angela Merkel and Nicolas Sarkozy",
+      "c": "Yitzhak Rabin and Yasser Arafat",
+      "d": "Anwar Sadat and Menachem Begin"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 30,
+    "question": "Which pair of leaders signed an agreement in Brussels in 2011?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yitzhak Rabin and Yasser Arafat",
+      "b": "Anwar Sadat and Menachem Begin",
+      "c": "Angela Merkel and Nicolas Sarkozy",
+      "d": "Richard Nixon and Leonid Brezhnev"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 31,
+    "question": "Which pair of leaders signed an agreement in Washington in 1993?",
+    "type": "MCQ",
+    "options": {
+      "a": "Anwar Sadat and Menachem Begin",
+      "b": "Richard Nixon and Leonid Brezhnev",
+      "c": "Yitzhak Rabin and Yasser Arafat",
+      "d": "Ronald Reagan and Mikhail Gorbachev"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 32,
+    "question": "Which pair of leaders signed an agreement in Camp David in 1978?",
+    "type": "MCQ",
+    "options": {
+      "a": "Anwar Sadat and Menachem Begin",
+      "b": "Richard Nixon and Leonid Brezhnev",
+      "c": "Ronald Reagan and Mikhail Gorbachev",
+      "d": "Neville Chamberlain and Adolf Hitler"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 33,
+    "question": "Which pair of leaders signed an agreement in Moscow in 1972?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ronald Reagan and Mikhail Gorbachev",
+      "b": "Neville Chamberlain and Adolf Hitler",
+      "c": "Richard Nixon and Leonid Brezhnev",
+      "d": "Kim Jong-un and Moon Jae-in"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 34,
+    "question": "Which pair of leaders signed an agreement in Washington in 1987?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ronald Reagan and Mikhail Gorbachev",
+      "b": "Neville Chamberlain and Adolf Hitler",
+      "c": "Kim Jong-un and Moon Jae-in",
+      "d": "Donald Trump and Kim Jong-un"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 35,
+    "question": "Which pair of leaders signed an agreement in Munich in 1938?",
+    "type": "MCQ",
+    "options": {
+      "a": "Kim Jong-un and Moon Jae-in",
+      "b": "Donald Trump and Kim Jong-un",
+      "c": "Neville Chamberlain and Adolf Hitler",
+      "d": "Barack Obama and Dmitry Medvedev"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 36,
+    "question": "Which pair of leaders signed an agreement in Panmunjom in 2018?",
+    "type": "MCQ",
+    "options": {
+      "a": "Kim Jong-un and Moon Jae-in",
+      "b": "Donald Trump and Kim Jong-un",
+      "c": "Barack Obama and Dmitry Medvedev",
+      "d": "Helmut Kohl and François Mitterrand"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 37,
+    "question": "Which pair of leaders signed an agreement in Singapore in 2018?",
+    "type": "MCQ",
+    "options": {
+      "a": "Barack Obama and Dmitry Medvedev",
+      "b": "Helmut Kohl and François Mitterrand",
+      "c": "Donald Trump and Kim Jong-un",
+      "d": "Angela Merkel and Nicolas Sarkozy"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 38,
+    "question": "Which pair of leaders signed an agreement in Prague in 2010?",
+    "type": "MCQ",
+    "options": {
+      "a": "Barack Obama and Dmitry Medvedev",
+      "b": "Helmut Kohl and François Mitterrand",
+      "c": "Angela Merkel and Nicolas Sarkozy",
+      "d": "Yitzhak Rabin and Yasser Arafat"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 39,
+    "question": "Which pair of leaders signed an agreement in Maastricht in 1992?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel and Nicolas Sarkozy",
+      "b": "Yitzhak Rabin and Yasser Arafat",
+      "c": "Helmut Kohl and François Mitterrand",
+      "d": "Anwar Sadat and Menachem Begin"
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 40,
+    "question": "Which pair of leaders signed an agreement in Brussels in 2011?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel and Nicolas Sarkozy",
+      "b": "Yitzhak Rabin and Yasser Arafat",
+      "c": "Anwar Sadat and Menachem Begin",
+      "d": "Richard Nixon and Leonid Brezhnev"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 41,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yitzhak Rabin and Yasser Arafat signed an agreement in Washington in 1987.",
+      "b": "Yitzhak Rabin and Yasser Arafat signed an agreement in Munich in 1993.",
+      "c": "Yitzhak Rabin and Yasser Arafat signed an agreement in Washington in 1993.",
+      "d": "Anwar Sadat and Menachem Begin signed an agreement in Washington in 1993."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 42,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Anwar Sadat and Menachem Begin signed an agreement in Camp David in 1978.",
+      "b": "Anwar Sadat and Menachem Begin signed an agreement in Camp David in 1992.",
+      "c": "Anwar Sadat and Menachem Begin signed an agreement in Panmunjom in 1978.",
+      "d": "Richard Nixon and Leonid Brezhnev signed an agreement in Camp David in 1978."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 43,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Richard Nixon and Leonid Brezhnev signed an agreement in Moscow in 1993.",
+      "b": "Richard Nixon and Leonid Brezhnev signed an agreement in Prague in 1972.",
+      "c": "Richard Nixon and Leonid Brezhnev signed an agreement in Moscow in 1972.",
+      "d": "Ronald Reagan and Mikhail Gorbachev signed an agreement in Moscow in 1972."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 44,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ronald Reagan and Mikhail Gorbachev signed an agreement in Washington in 1987.",
+      "b": "Ronald Reagan and Mikhail Gorbachev signed an agreement in Washington in 2010.",
+      "c": "Ronald Reagan and Mikhail Gorbachev signed an agreement in Singapore in 1987.",
+      "d": "Neville Chamberlain and Adolf Hitler signed an agreement in Washington in 1987."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 45,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neville Chamberlain and Adolf Hitler signed an agreement in Munich in 2011.",
+      "b": "Neville Chamberlain and Adolf Hitler signed an agreement in Washington in 1938.",
+      "c": "Neville Chamberlain and Adolf Hitler signed an agreement in Munich in 1938.",
+      "d": "Kim Jong-un and Moon Jae-in signed an agreement in Munich in 1938."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 46,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Kim Jong-un and Moon Jae-in signed an agreement in Panmunjom in 2018.",
+      "b": "Kim Jong-un and Moon Jae-in signed an agreement in Panmunjom in 1963.",
+      "c": "Kim Jong-un and Moon Jae-in signed an agreement in London in 2018.",
+      "d": "Donald Trump and Kim Jong-un signed an agreement in Panmunjom in 2018."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 47,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Donald Trump and Kim Jong-un signed an agreement in Singapore in 1963.",
+      "b": "Donald Trump and Kim Jong-un signed an agreement in Paris in 2018.",
+      "c": "Donald Trump and Kim Jong-un signed an agreement in Singapore in 2018.",
+      "d": "Barack Obama and Dmitry Medvedev signed an agreement in Singapore in 2018."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 48,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Barack Obama and Dmitry Medvedev signed an agreement in Prague in 2010.",
+      "b": "Barack Obama and Dmitry Medvedev signed an agreement in Prague in 1968.",
+      "c": "Barack Obama and Dmitry Medvedev signed an agreement in Geneva in 2010.",
+      "d": "Helmut Kohl and François Mitterrand signed an agreement in Prague in 2010."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 49,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Helmut Kohl and François Mitterrand signed an agreement in Maastricht in 1979.",
+      "b": "Helmut Kohl and François Mitterrand signed an agreement in Vienna in 1992.",
+      "c": "Helmut Kohl and François Mitterrand signed an agreement in Maastricht in 1992.",
+      "d": "Angela Merkel and Nicolas Sarkozy signed an agreement in Maastricht in 1992."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 50,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel and Nicolas Sarkozy signed an agreement in Brussels in 2011.",
+      "b": "Angela Merkel and Nicolas Sarkozy signed an agreement in Brussels in 1989.",
+      "c": "Angela Merkel and Nicolas Sarkozy signed an agreement in Oslo in 2011.",
+      "d": "Yitzhak Rabin and Yasser Arafat signed an agreement in Brussels in 2011."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 51,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yitzhak Rabin and Yasser Arafat signed an agreement in Washington in 1993.",
+      "b": "Yitzhak Rabin and Yasser Arafat signed an agreement in Washington in 1987.",
+      "c": "Yitzhak Rabin and Yasser Arafat signed an agreement in Munich in 1993.",
+      "d": "Anwar Sadat and Menachem Begin signed an agreement in Washington in 1993."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 52,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Anwar Sadat and Menachem Begin signed an agreement in Camp David in 1992.",
+      "b": "Anwar Sadat and Menachem Begin signed an agreement in Panmunjom in 1978.",
+      "c": "Anwar Sadat and Menachem Begin signed an agreement in Camp David in 1978.",
+      "d": "Richard Nixon and Leonid Brezhnev signed an agreement in Camp David in 1978."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 53,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Richard Nixon and Leonid Brezhnev signed an agreement in Moscow in 1972.",
+      "b": "Richard Nixon and Leonid Brezhnev signed an agreement in Moscow in 1993.",
+      "c": "Richard Nixon and Leonid Brezhnev signed an agreement in Prague in 1972.",
+      "d": "Ronald Reagan and Mikhail Gorbachev signed an agreement in Moscow in 1972."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 54,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ronald Reagan and Mikhail Gorbachev signed an agreement in Washington in 2010.",
+      "b": "Ronald Reagan and Mikhail Gorbachev signed an agreement in Singapore in 1987.",
+      "c": "Ronald Reagan and Mikhail Gorbachev signed an agreement in Washington in 1987.",
+      "d": "Neville Chamberlain and Adolf Hitler signed an agreement in Washington in 1987."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 55,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neville Chamberlain and Adolf Hitler signed an agreement in Munich in 1938.",
+      "b": "Neville Chamberlain and Adolf Hitler signed an agreement in Munich in 2011.",
+      "c": "Neville Chamberlain and Adolf Hitler signed an agreement in Washington in 1938.",
+      "d": "Kim Jong-un and Moon Jae-in signed an agreement in Munich in 1938."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 56,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Kim Jong-un and Moon Jae-in signed an agreement in Panmunjom in 1963.",
+      "b": "Kim Jong-un and Moon Jae-in signed an agreement in London in 2018.",
+      "c": "Kim Jong-un and Moon Jae-in signed an agreement in Panmunjom in 2018.",
+      "d": "Donald Trump and Kim Jong-un signed an agreement in Panmunjom in 2018."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 57,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Donald Trump and Kim Jong-un signed an agreement in Singapore in 2018.",
+      "b": "Donald Trump and Kim Jong-un signed an agreement in Singapore in 1963.",
+      "c": "Donald Trump and Kim Jong-un signed an agreement in Paris in 2018.",
+      "d": "Barack Obama and Dmitry Medvedev signed an agreement in Singapore in 2018."
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 58,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Barack Obama and Dmitry Medvedev signed an agreement in Prague in 1968.",
+      "b": "Barack Obama and Dmitry Medvedev signed an agreement in Geneva in 2010.",
+      "c": "Barack Obama and Dmitry Medvedev signed an agreement in Prague in 2010.",
+      "d": "Helmut Kohl and François Mitterrand signed an agreement in Prague in 2010."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 59,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Helmut Kohl and François Mitterrand signed an agreement in Maastricht in 1992.",
+      "b": "Helmut Kohl and François Mitterrand signed an agreement in Maastricht in 1979.",
+      "c": "Helmut Kohl and François Mitterrand signed an agreement in Vienna in 1992.",
+      "d": "Angela Merkel and Nicolas Sarkozy signed an agreement in Maastricht in 1992."
     },
     "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 60,
+    "question": "Which of the following statements is fully consistent with known history?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel and Nicolas Sarkozy signed an agreement in Brussels in 1989.",
+      "b": "Angela Merkel and Nicolas Sarkozy signed an agreement in Oslo in 2011.",
+      "c": "Angela Merkel and Nicolas Sarkozy signed an agreement in Brussels in 2011.",
+      "d": "Yitzhak Rabin and Yasser Arafat signed an agreement in Brussels in 2011."
+    },
+    "answer": "c",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 61,
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 62,
     "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
     "type": "T/F",
     "options": {
@@ -690,54 +802,30 @@
     "template_type": "leaders_agreement"
   },
   {
-    "question_id": 61,
-    "question": "Did Yitzhak Rabin sign an agreement with Menachem Begin in Washington in 1993?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 62,
-    "question": "Did Anwar Sadat sign an agreement with Yitzhak Rabin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
     "question_id": 63,
-    "question": "In which year did Yitzhak Rabin and Yasser Arafat sign their agreement in Washington?",
-    "type": "MCQ",
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?",
+    "type": "T/F",
     "options": {
-      "a": "1993",
-      "b": "1968",
-      "c": "2008",
-      "d": "2018"
+      "a": "True",
+      "b": "False"
     },
     "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 64,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in New York in 1987?",
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 65,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -748,7 +836,7 @@
   },
   {
     "question_id": 66,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -759,7 +847,7 @@
   },
   {
     "question_id": 67,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -770,20 +858,18 @@
   },
   {
     "question_id": 68,
-    "question": "In which year did Yitzhak Rabin and Yasser Arafat sign their agreement in Washington?",
-    "type": "MCQ",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 2010?",
+    "type": "T/F",
     "options": {
-      "a": "1993",
-      "b": "2008",
-      "c": "2018",
-      "d": "1968"
+      "a": "True",
+      "b": "False"
     },
     "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 69,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -794,7 +880,7 @@
   },
   {
     "question_id": 70,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -805,13 +891,13 @@
   },
   {
     "question_id": 71,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Oslo in 1987?",
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
@@ -827,29 +913,29 @@
   },
   {
     "question_id": 73,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1978?",
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 74,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in New York in 1978?",
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 75,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -860,7 +946,7 @@
   },
   {
     "question_id": 76,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -871,7 +957,7 @@
   },
   {
     "question_id": 77,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -882,7 +968,7 @@
   },
   {
     "question_id": 78,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -893,161 +979,28 @@
   },
   {
     "question_id": 79,
-    "question": "With whom did Anwar Sadat sign an agreement in Camp David in 1978?",
-    "type": "MCQ",
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?",
+    "type": "T/F",
     "options": {
-      "a": "Anwar Sadat",
-      "b": "Mikhail Gorbachev",
-      "c": "Menachem Begin",
-      "d": "Ronald Reagan"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 80,
-    "question": "In which place did Yitzhak Rabin and Yasser Arafat sign their agreement in 1993?",
-    "type": "MCQ",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?",
+    "type": "T/F",
     "options": {
-      "a": "Oslo",
-      "b": "New York",
-      "c": "Geneva",
-      "d": "Washington"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "d",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 81,
-    "question": "Did Anwar Sadat sign an agreement with Yasser Arafat in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 82,
-    "question": "With whom did Yitzhak Rabin sign an agreement in Washington in 1993?",
-    "type": "MCQ",
-    "options": {
-      "a": "Yasser Arafat",
-      "b": "Mikhail Gorbachev",
-      "c": "Anwar Sadat",
-      "d": "Ronald Reagan"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 83,
-    "question": "In which year did Yitzhak Rabin and Yasser Arafat sign their agreement in Washington?",
-    "type": "MCQ",
-    "options": {
-      "a": "2018",
-      "b": "1968",
-      "c": "1993",
-      "d": "2008"
-    },
-    "answer": "c",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 84,
-    "question": "Did Anwar Sadat sign an agreement with Ronald Reagan in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 85,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 2012?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 86,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Oslo in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 87,
-    "question": "With whom did Anwar Sadat sign an agreement in Camp David in 1978?",
-    "type": "MCQ",
-    "options": {
-      "a": "Mikhail Gorbachev",
-      "b": "Menachem Begin",
-      "c": "Anwar Sadat",
-      "d": "Ronald Reagan"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 88,
-    "question": "Did Mikhail Gorbachev sign an agreement with Yasser Arafat in Washington in 1987?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 89,
-    "question": "In which place did Yitzhak Rabin and Yasser Arafat sign their agreement in 1993?",
-    "type": "MCQ",
-    "options": {
-      "a": "Washington",
-      "b": "New York",
-      "c": "Geneva",
-      "d": "London"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 90,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 91,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in London in 1978?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 92,
     "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
     "type": "T/F",
     "options": {
@@ -1058,20 +1011,7 @@
     "template_type": "leaders_agreement"
   },
   {
-    "question_id": 93,
-    "question": "With whom did Anwar Sadat sign an agreement in Camp David in 1978?",
-    "type": "MCQ",
-    "options": {
-      "a": "Yasser Arafat",
-      "b": "Menachem Begin",
-      "c": "Yitzhak Rabin",
-      "d": "Anwar Sadat"
-    },
-    "answer": "b",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 94,
+    "question_id": 82,
     "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
     "type": "T/F",
     "options": {
@@ -1082,19 +1022,151 @@
     "template_type": "leaders_agreement"
   },
   {
-    "question_id": 95,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in New York in 1978?",
+    "question_id": 83,
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 84,
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 85,
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 86,
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 87,
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 2018?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 88,
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 2010?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 89,
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 90,
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 91,
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 92,
+    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 93,
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 94,
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 95,
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 96,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1105,7 +1177,7 @@
   },
   {
     "question_id": 97,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1116,29 +1188,29 @@
   },
   {
     "question_id": 98,
-    "question": "Did Anwar Sadat sign an agreement with Mikhail Gorbachev in Camp David in 1978?",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 99,
-    "question": "Did Mikhail Gorbachev sign an agreement with Mikhail Gorbachev in Washington in 1987?",
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 100,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1149,15 +1221,13 @@
   },
   {
     "question_id": 101,
-    "question": "In which place did Anwar Sadat and Menachem Begin sign their agreement in 1978?",
-    "type": "MCQ",
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "type": "T/F",
     "options": {
-      "a": "Oslo",
-      "b": "Geneva",
-      "c": "Camp David",
-      "d": "New York"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
@@ -1173,18 +1243,18 @@
   },
   {
     "question_id": 103,
-    "question": "Did Yitzhak Rabin sign an agreement with Yitzhak Rabin in Washington in 1993?",
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 104,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1195,33 +1265,29 @@
   },
   {
     "question_id": 105,
-    "question": "With whom did Anwar Sadat sign an agreement in Camp David in 1978?",
-    "type": "MCQ",
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?",
+    "type": "T/F",
     "options": {
-      "a": "Yasser Arafat",
-      "b": "Mikhail Gorbachev",
-      "c": "Ronald Reagan",
-      "d": "Menachem Begin"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "d",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 106,
-    "question": "With whom did Yitzhak Rabin sign an agreement in Washington in 1993?",
-    "type": "MCQ",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?",
+    "type": "T/F",
     "options": {
-      "a": "Mikhail Gorbachev",
-      "b": "Yasser Arafat",
-      "c": "Anwar Sadat",
-      "d": "Ronald Reagan"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "b",
+    "answer": "a",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 107,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1232,7 +1298,7 @@
   },
   {
     "question_id": 108,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1243,7 +1309,7 @@
   },
   {
     "question_id": 109,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1254,7 +1320,7 @@
   },
   {
     "question_id": 110,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1265,31 +1331,29 @@
   },
   {
     "question_id": 111,
-    "question": "In which place did Yitzhak Rabin and Yasser Arafat sign their agreement in 1993?",
-    "type": "MCQ",
-    "options": {
-      "a": "Washington",
-      "b": "London",
-      "c": "New York",
-      "d": "Geneva"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 112,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 112,
+    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Prague in 1978?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 113,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in New York in 1978?",
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1300,18 +1364,18 @@
   },
   {
     "question_id": 114,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in London in 1987?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 115,
-    "question": "Did Mikhail Gorbachev sign an agreement with Yitzhak Rabin in Washington in 1987?",
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1968?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1322,40 +1386,40 @@
   },
   {
     "question_id": 116,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Paris in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 117,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1989?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 118,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Vienna in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 119,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2018?",
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1999?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1366,55 +1430,51 @@
   },
   {
     "question_id": 120,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Cairo in 2011?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 121,
-    "question": "With whom did Mikhail Gorbachev sign an agreement in Washington in 1987?",
-    "type": "MCQ",
-    "options": {
-      "a": "Yasser Arafat",
-      "b": "Yitzhak Rabin",
-      "c": "Mikhail Gorbachev",
-      "d": "Ronald Reagan"
-    },
-    "answer": "d",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 122,
-    "question": "In which year did Mikhail Gorbachev and Ronald Reagan sign their agreement in Washington?",
-    "type": "MCQ",
-    "options": {
-      "a": "1987",
-      "b": "2002",
-      "c": "2012",
-      "d": "1962"
-    },
-    "answer": "a",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 123,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 122,
+    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Prague in 1978?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 123,
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 2018?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 124,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Oslo in 1978?",
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in London in 1987?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1425,18 +1485,18 @@
   },
   {
     "question_id": 125,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1968?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 126,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in New York in 1978?",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Paris in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1447,7 +1507,7 @@
   },
   {
     "question_id": 127,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in New York in 1993?",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1989?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1458,33 +1518,29 @@
   },
   {
     "question_id": 128,
-    "question": "In which year did Anwar Sadat and Menachem Begin sign their agreement in Camp David?",
-    "type": "MCQ",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Vienna in 2010?",
+    "type": "T/F",
     "options": {
-      "a": "1953",
-      "b": "1993",
-      "c": "2003",
-      "d": "1978"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "d",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 129,
-    "question": "With whom did Anwar Sadat sign an agreement in Camp David in 1978?",
-    "type": "MCQ",
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1999?",
+    "type": "T/F",
     "options": {
-      "a": "Mikhail Gorbachev",
-      "b": "Anwar Sadat",
-      "c": "Yitzhak Rabin",
-      "d": "Menachem Begin"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "d",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 130,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Oslo in 1993?",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Cairo in 2011?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1495,68 +1551,62 @@
   },
   {
     "question_id": 131,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 132,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Prague in 1978?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 133,
-    "question": "In which place did Anwar Sadat and Menachem Begin sign their agreement in 1978?",
-    "type": "MCQ",
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 2018?",
+    "type": "T/F",
     "options": {
-      "a": "Geneva",
-      "b": "Oslo",
-      "c": "Camp David",
-      "d": "New York"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 134,
-    "question": "In which place did Anwar Sadat and Menachem Begin sign their agreement in 1978?",
-    "type": "MCQ",
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in London in 1987?",
+    "type": "T/F",
     "options": {
-      "a": "New York",
-      "b": "Camp David",
-      "c": "London",
-      "d": "Geneva"
+      "a": "True",
+      "b": "False"
     },
     "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 135,
-    "question": "In which place did Yitzhak Rabin and Yasser Arafat sign their agreement in 1993?",
-    "type": "MCQ",
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1968?",
+    "type": "T/F",
     "options": {
-      "a": "Oslo",
-      "b": "Geneva",
-      "c": "Washington",
-      "d": "London"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 136,
-    "question": "Did Mikhail Gorbachev sign an agreement with Yasser Arafat in Washington in 1987?",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Paris in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1567,44 +1617,40 @@
   },
   {
     "question_id": 137,
-    "question": "In which place did Mikhail Gorbachev and Ronald Reagan sign their agreement in 1987?",
-    "type": "MCQ",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1989?",
+    "type": "T/F",
     "options": {
-      "a": "Geneva",
-      "b": "Washington",
-      "c": "New York",
-      "d": "Oslo"
+      "a": "True",
+      "b": "False"
     },
     "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 138,
-    "question": "In which year did Mikhail Gorbachev and Ronald Reagan sign their agreement in Washington?",
-    "type": "MCQ",
-    "options": {
-      "a": "2012",
-      "b": "2002",
-      "c": "1987",
-      "d": "1962"
-    },
-    "answer": "c",
-    "template_type": "leaders_agreement"
-  },
-  {
-    "question_id": 139,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Vienna in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
+    "template_type": "leaders_agreement"
+  },
+  {
+    "question_id": 139,
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1999?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 140,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in New York in 1978?",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Cairo in 2011?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1615,29 +1661,29 @@
   },
   {
     "question_id": 141,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 142,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Prague in 1978?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 143,
-    "question": "Did Anwar Sadat sign an agreement with Mikhail Gorbachev in Camp David in 1978?",
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1648,7 +1694,7 @@
   },
   {
     "question_id": 144,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in London in 1978?",
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in London in 1987?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1659,66 +1705,62 @@
   },
   {
     "question_id": 145,
-    "question": "In which year did Anwar Sadat and Menachem Begin sign their agreement in Camp David?",
-    "type": "MCQ",
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1968?",
+    "type": "T/F",
     "options": {
-      "a": "2003",
-      "b": "1953",
-      "c": "1978",
-      "d": "1993"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "c",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 146,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Paris in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 147,
-    "question": "In which year did Yitzhak Rabin and Yasser Arafat sign their agreement in Washington?",
-    "type": "MCQ",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1989?",
+    "type": "T/F",
     "options": {
-      "a": "2008",
-      "b": "1968",
-      "c": "2018",
-      "d": "1993"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "d",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 148,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Vienna in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 149,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1999?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 150,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Geneva in 1993?",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Cairo in 2011?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1729,7 +1771,7 @@
   },
   {
     "question_id": 151,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Geneva in 1987?",
+    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1740,7 +1782,7 @@
   },
   {
     "question_id": 152,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2008?",
+    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Prague in 1978?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1751,18 +1793,18 @@
   },
   {
     "question_id": 153,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?",
+    "question": "Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 154,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 2002?",
+    "question": "Did Ronald Reagan sign an agreement with Mikhail Gorbachev in London in 1987?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1773,7 +1815,7 @@
   },
   {
     "question_id": 155,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Oslo in 1987?",
+    "question": "Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1968?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1784,18 +1826,18 @@
   },
   {
     "question_id": 156,
-    "question": "Did Mikhail Gorbachev sign an agreement with Ronald Reagan in Washington in 1987?",
+    "question": "Did Kim Jong-un sign an agreement with Moon Jae-in in Paris in 2018?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 157,
-    "question": "Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 2008?",
+    "question": "Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1989?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1806,7 +1848,7 @@
   },
   {
     "question_id": 158,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 2003?",
+    "question": "Did Barack Obama sign an agreement with Dmitry Medvedev in Vienna in 2010?",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1817,20 +1859,18 @@
   },
   {
     "question_id": 159,
-    "question": "With whom did Mikhail Gorbachev sign an agreement in Washington in 1987?",
-    "type": "MCQ",
+    "question": "Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1999?",
+    "type": "T/F",
     "options": {
-      "a": "Mikhail Gorbachev",
-      "b": "Anwar Sadat",
-      "c": "Yasser Arafat",
-      "d": "Ronald Reagan"
+      "a": "True",
+      "b": "False"
     },
-    "answer": "d",
+    "answer": "b",
     "template_type": "leaders_agreement"
   },
   {
     "question_id": 160,
-    "question": "Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1953?",
+    "question": "Did Angela Merkel sign an agreement with Nicolas Sarkozy in Cairo in 2011?",
     "type": "T/F",
     "options": {
       "a": "True",
