@@ -1,1882 +1,2082 @@
 [
   {
-    "question_id": 1,
-    "question": "Which of the following people could have seen the dodo alive in their lifetime?",
+    "question": "Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Leonardo da Vinci",
-      "b": "Charles Darwin",
-      "c": "Abraham Lincoln",
-      "d": "Nikola Tesla"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 2,
-    "question": "Which of the following people could have seen the great auk alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Albert Einstein",
-      "b": "Isaac Newton",
-      "c": "Winston Churchill",
-      "d": "Mahatma Gandhi"
+      "a": "quagga",
+      "b": "passenger pigeon",
+      "c": "Steller's sea cow",
+      "d": "great auk"
     },
     "answer": "b",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 1
   },
   {
-    "question_id": 3,
-    "question": "Which of the following people could have seen the quagga alive in their lifetime?",
+    "question": "Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Angela Merkel",
-      "b": "Malala Yousafzai",
-      "c": "Charles Darwin",
-      "d": "Greta Thunberg"
+      "a": "thylacine (Tasmanian tiger)",
+      "b": "passenger pigeon",
+      "c": "dodo",
+      "d": "great auk"
     },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 2
   },
   {
-    "question_id": 4,
-    "question": "Which of the following people could have seen the passenger pigeon alive in their lifetime?",
+    "question": "Could Marie Curie have seen the great auk alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Greta Thunberg",
-      "b": "David Attenborough",
-      "c": "Jane Goodall",
-      "d": "Abraham Lincoln"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 3
   },
   {
-    "question_id": 5,
     "question": "Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Nikola Tesla",
-      "b": "Malala Yousafzai",
-      "c": "Greta Thunberg",
-      "d": "Stephen Hawking"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 6,
-    "question": "Which of the following people could have seen Steller's sea cow alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Barack Obama",
-      "b": "Isaac Newton",
-      "c": "Angela Merkel",
-      "d": "Malala Yousafzai"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 7,
-    "question": "Which of the following people could have seen the dodo alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Malala Yousafzai",
-      "b": "Greta Thunberg",
-      "c": "Leonardo da Vinci",
-      "d": "Charles Darwin"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 8,
-    "question": "Which of the following people could have seen the great auk alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Albert Einstein",
-      "b": "Winston Churchill",
-      "c": "Mahatma Gandhi",
-      "d": "Abraham Lincoln"
-    },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 9,
-    "question": "Which of the following people could have seen the quagga alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Mahatma Gandhi",
-      "b": "Stephen Hawking",
-      "c": "Barack Obama",
-      "d": "Angela Merkel"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 10,
-    "question": "Which of the following people could have seen the passenger pigeon alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Angela Merkel",
-      "b": "Leonardo da Vinci",
-      "c": "Malala Yousafzai",
-      "d": "Greta Thunberg"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 11,
-    "question": "Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Stephen Hawking",
-      "b": "Barack Obama",
-      "c": "Jane Goodall",
-      "d": "Angela Merkel"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 12,
-    "question": "Which of the following people could have seen Steller's sea cow alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Jane Goodall",
-      "b": "Stephen Hawking",
-      "c": "Barack Obama",
-      "d": "Isaac Newton"
-    },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 13,
-    "question": "Which of the following people could have seen the dodo alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Leonardo da Vinci",
-      "b": "Barack Obama",
-      "c": "Angela Merkel",
-      "d": "Malala Yousafzai"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 14,
-    "question": "Which of the following people could have seen the great auk alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Albert Einstein",
-      "b": "Isaac Newton",
-      "c": "Winston Churchill",
-      "d": "Mahatma Gandhi"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 15,
-    "question": "Which of the following people could have seen the quagga alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "David Attenborough",
-      "b": "Jane Goodall",
-      "c": "Marie Curie",
-      "d": "Stephen Hawking"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 16,
-    "question": "Which of the following people could have seen the passenger pigeon alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Stephen Hawking",
-      "b": "Barack Obama",
-      "c": "Angela Merkel",
+      "a": "Isaac Newton",
+      "b": "Marie Curie",
+      "c": "Nikola Tesla",
       "d": "Albert Einstein"
     },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 4
   },
   {
-    "question_id": 17,
-    "question": "Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "question": "Could Abraham Lincoln have seen the quagga alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Marie Curie",
-      "b": "Angela Merkel",
-      "c": "Malala Yousafzai",
-      "d": "Greta Thunberg"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 5
   },
   {
-    "question_id": 18,
-    "question": "Which of the following people could have seen Steller's sea cow alive in their lifetime?",
+    "question": "Could Mahatma Gandhi have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 6
+  },
+  {
+    "question": "Could Charles Darwin have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 7
+  },
+  {
+    "question": "Could Albert Einstein have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 8
+  },
+  {
+    "question": "Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "dodo",
+      "c": "great auk",
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 9
+  },
+  {
+    "question": "Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "great auk",
+      "c": "Steller's sea cow",
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 10
+  },
+  {
+    "question": "Could Leonardo da Vinci have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 11
+  },
+  {
+    "question": "Could Leonardo da Vinci have seen the dodo alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 12
+  },
+  {
+    "question": "Could Isaac Newton have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 13
+  },
+  {
+    "question": "Which of the following people could have seen the passenger pigeon alive in their lifetime?",
     "type": "MCQ",
     "options": {
       "a": "Mahatma Gandhi",
-      "b": "Isaac Newton",
-      "c": "David Attenborough",
-      "d": "Jane Goodall"
+      "b": "Abraham Lincoln",
+      "c": "Charles Darwin",
+      "d": "Albert Einstein"
     },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 14
   },
   {
-    "question_id": 19,
-    "question": "Which of the following people could have seen the dodo alive in their lifetime?",
+    "question": "Could Jane Goodall have seen the passenger pigeon alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Jane Goodall",
-      "b": "Stephen Hawking",
-      "c": "Leonardo da Vinci",
-      "d": "Barack Obama"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 15
   },
   {
-    "question_id": 20,
-    "question": "Which of the following people could have seen the great auk alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Albert Einstein",
-      "b": "Winston Churchill",
-      "c": "Mahatma Gandhi",
-      "d": "Abraham Lincoln"
-    },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 21,
     "question": "Which of the following people could have seen the quagga alive in their lifetime?",
     "type": "MCQ",
     "options": {
       "a": "Charles Darwin",
-      "b": "Malala Yousafzai",
-      "c": "Greta Thunberg",
-      "d": "David Attenborough"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 22,
-    "question": "Which of the following people could have seen the passenger pigeon alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "David Attenborough",
       "b": "Abraham Lincoln",
       "c": "Jane Goodall",
-      "d": "Stephen Hawking"
+      "d": "Nikola Tesla"
     },
     "answer": "b",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 16
   },
   {
-    "question_id": 23,
-    "question": "Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "question": "Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Greta Thunberg",
-      "b": "Stephen Hawking",
-      "c": "Leonardo da Vinci",
-      "d": "Barack Obama"
+      "a": "passenger pigeon",
+      "b": "quagga",
+      "c": "thylacine (Tasmanian tiger)",
+      "d": "dodo"
     },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 17
   },
   {
-    "question_id": 24,
-    "question": "Which of the following people could have seen Steller's sea cow alive in their lifetime?",
+    "question": "Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Albert Einstein",
-      "b": "Winston Churchill",
-      "c": "Mahatma Gandhi",
-      "d": "Isaac Newton"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 18
   },
   {
-    "question_id": 25,
+    "question": "Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 19
+  },
+  {
+    "question": "Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 20
+  },
+  {
+    "question": "Could Nikola Tesla have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 21
+  },
+  {
     "question": "Which of the following people could have seen the dodo alive in their lifetime?",
     "type": "MCQ",
     "options": {
       "a": "Leonardo da Vinci",
-      "b": "Mahatma Gandhi",
-      "c": "David Attenborough",
-      "d": "Jane Goodall"
+      "b": "Jane Goodall",
+      "c": "Albert Einstein",
+      "d": "Nikola Tesla"
     },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 22
   },
   {
-    "question_id": 26,
+    "question": "Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 23
+  },
+  {
     "question": "Which of the following people could have seen the great auk alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Albert Einstein",
+      "a": "Leonardo da Vinci",
       "b": "Isaac Newton",
-      "c": "Winston Churchill",
-      "d": "Mahatma Gandhi"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 27,
-    "question": "Which of the following people could have seen the quagga alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Barack Obama",
-      "b": "Angela Merkel",
       "c": "Mahatma Gandhi",
-      "d": "Malala Yousafzai"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 28,
-    "question": "Which of the following people could have seen the passenger pigeon alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Malala Yousafzai",
-      "b": "Greta Thunberg",
-      "c": "David Attenborough",
-      "d": "Leonardo da Vinci"
-    },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 29,
-    "question": "Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Albert Einstein",
-      "b": "Barack Obama",
-      "c": "Angela Merkel",
-      "d": "Malala Yousafzai"
+      "d": "Jane Goodall"
     },
     "answer": "a",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 24
   },
   {
-    "question_id": 30,
-    "question": "Which of the following people could have seen Steller's sea cow alive in their lifetime?",
+    "question": "Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "Nikola Tesla",
-      "b": "Isaac Newton",
-      "c": "Marie Curie",
+      "a": "quagga",
+      "b": "thylacine (Tasmanian tiger)",
+      "c": "Steller's sea cow",
+      "d": "passenger pigeon"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 25
+  },
+  {
+    "question": "Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 26
+  },
+  {
+    "question": "Could Abraham Lincoln have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 27
+  },
+  {
+    "question": "Could Mahatma Gandhi have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 28
+  },
+  {
+    "question": "Which of the following people could have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Isaac Newton",
+      "b": "Albert Einstein",
+      "c": "Nikola Tesla",
+      "d": "Charles Darwin"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 29
+  },
+  {
+    "question": "Which of the following recently extinct animals could Charles Darwin have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "great auk",
+      "b": "dodo",
+      "c": "quagga",
+      "d": "Steller's sea cow"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 30
+  },
+  {
+    "question": "Could Isaac Newton have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 31
+  },
+  {
+    "question": "Could Abraham Lincoln have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 32
+  },
+  {
+    "question": "Could Albert Einstein have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 33
+  },
+  {
+    "question": "Which of the following recently extinct animals could Mahatma Gandhi have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "dodo",
+      "b": "quagga",
+      "c": "thylacine (Tasmanian tiger)",
+      "d": "Steller's sea cow"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 34
+  },
+  {
+    "question": "Could Isaac Newton have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 35
+  },
+  {
+    "question": "Could Marie Curie have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 36
+  },
+  {
+    "question": "Could Isaac Newton have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 37
+  },
+  {
+    "question": "Could Charles Darwin have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 38
+  },
+  {
+    "question": "Could Albert Einstein have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 39
+  },
+  {
+    "question": "Which of the following recently extinct animals could Jane Goodall have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "passenger pigeon",
+      "b": "thylacine (Tasmanian tiger)",
+      "c": "quagga",
+      "d": "dodo"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 40
+  },
+  {
+    "question": "Could Albert Einstein have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 41
+  },
+  {
+    "question": "Historically, Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "passenger pigeon",
+      "c": "Steller's sea cow",
+      "d": "great auk"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 42
+  },
+  {
+    "question": "According to historians, Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "passenger pigeon",
+      "c": "Steller's sea cow",
+      "d": "great auk"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 43
+  },
+  {
+    "question": "Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "passenger pigeon",
+      "c": "Steller's sea cow",
+      "d": "great auk"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 44
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "passenger pigeon",
+      "c": "Steller's sea cow",
+      "d": "great auk"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 45
+  },
+  {
+    "question": "Historically, Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "thylacine (Tasmanian tiger)",
+      "b": "passenger pigeon",
+      "c": "dodo",
+      "d": "great auk"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 46
+  },
+  {
+    "question": "According to historians, Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "thylacine (Tasmanian tiger)",
+      "b": "passenger pigeon",
+      "c": "dodo",
+      "d": "great auk"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 47
+  },
+  {
+    "question": "Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "thylacine (Tasmanian tiger)",
+      "b": "passenger pigeon",
+      "c": "dodo",
+      "d": "great auk"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 48
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "thylacine (Tasmanian tiger)",
+      "b": "passenger pigeon",
+      "c": "dodo",
+      "d": "great auk"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 49
+  },
+  {
+    "question": "Historically, Could Marie Curie have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 50
+  },
+  {
+    "question": "According to historians, Could Marie Curie have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 51
+  },
+  {
+    "question": "Could Marie Curie have seen the great auk alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 52
+  },
+  {
+    "question": "In history exams, students may be asked: Could Marie Curie have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 53
+  },
+  {
+    "question": "Historically, Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Isaac Newton",
+      "b": "Marie Curie",
+      "c": "Nikola Tesla",
       "d": "Albert Einstein"
     },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 54
   },
   {
-    "question_id": 31,
-    "question": "Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",
+    "question": "According to historians, Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "the dodo",
-      "b": "the great auk",
-      "c": "the quagga",
-      "d": "Steller's sea cow"
+      "a": "Isaac Newton",
+      "b": "Marie Curie",
+      "c": "Nikola Tesla",
+      "d": "Albert Einstein"
     },
     "answer": "c",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 55
   },
   {
-    "question_id": 32,
-    "question": "Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",
+    "question": "Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?",
     "type": "MCQ",
     "options": {
-      "a": "Steller's sea cow",
-      "b": "the dodo",
-      "c": "the great auk",
-      "d": "the passenger pigeon"
+      "a": "Isaac Newton",
+      "b": "Marie Curie",
+      "c": "Nikola Tesla",
+      "d": "Albert Einstein"
     },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 56
   },
   {
-    "question_id": 33,
-    "question": "Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",
+    "question": "In history exams, students may be asked: Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "the thylacine (Tasmanian tiger)",
-      "b": "the great auk",
+      "a": "Isaac Newton",
+      "b": "Marie Curie",
+      "c": "Nikola Tesla",
+      "d": "Albert Einstein"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 57
+  },
+  {
+    "question": "Historically, Could Abraham Lincoln have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 58
+  },
+  {
+    "question": "According to historians, Could Abraham Lincoln have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 59
+  },
+  {
+    "question": "Could Abraham Lincoln have seen the quagga alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 60
+  },
+  {
+    "question": "In history exams, students may be asked: Could Abraham Lincoln have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 61
+  },
+  {
+    "question": "Historically, Could Mahatma Gandhi have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 62
+  },
+  {
+    "question": "According to historians, Could Mahatma Gandhi have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 63
+  },
+  {
+    "question": "Could Mahatma Gandhi have seen the quagga alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 64
+  },
+  {
+    "question": "In history exams, students may be asked: Could Mahatma Gandhi have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 65
+  },
+  {
+    "question": "Historically, Could Charles Darwin have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 66
+  },
+  {
+    "question": "According to historians, Could Charles Darwin have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 67
+  },
+  {
+    "question": "Could Charles Darwin have seen the great auk alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 68
+  },
+  {
+    "question": "In history exams, students may be asked: Could Charles Darwin have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 69
+  },
+  {
+    "question": "Historically, Could Albert Einstein have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 70
+  },
+  {
+    "question": "According to historians, Could Albert Einstein have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 71
+  },
+  {
+    "question": "Could Albert Einstein have seen the quagga alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 72
+  },
+  {
+    "question": "In history exams, students may be asked: Could Albert Einstein have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 73
+  },
+  {
+    "question": "Historically, Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "dodo",
+      "c": "great auk",
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 74
+  },
+  {
+    "question": "According to historians, Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "dodo",
+      "c": "great auk",
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 75
+  },
+  {
+    "question": "Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "dodo",
+      "c": "great auk",
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 76
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "dodo",
+      "c": "great auk",
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 77
+  },
+  {
+    "question": "Historically, Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "great auk",
       "c": "Steller's sea cow",
-      "d": "the dodo"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 34,
-    "question": "Which of the following recently extinct animals could Winston Churchill have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the dodo",
-      "b": "the Tecopa pupfish",
-      "c": "the great auk",
-      "d": "Steller's sea cow"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 35,
-    "question": "Which of the following recently extinct animals could Mahatma Gandhi have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Steller's sea cow",
-      "b": "the dodo",
-      "c": "the golden toad",
-      "d": "the great auk"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 36,
-    "question": "Which of the following recently extinct animals could David Attenborough have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the dodo",
-      "b": "the great auk",
-      "c": "the quagga",
-      "d": "the Pinta Island tortoise"
+      "d": "thylacine (Tasmanian tiger)"
     },
     "answer": "d",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 78
   },
   {
-    "question_id": 37,
-    "question": "Which of the following recently extinct animals could Jane Goodall have seen alive in their lifetime?",
+    "question": "According to historians, Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "the western black rhinoceros",
-      "b": "the quagga",
-      "c": "the passenger pigeon",
-      "d": "Steller's sea cow"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 38,
-    "question": "Which of the following recently extinct animals could Stephen Hawking have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the quagga",
-      "b": "the golden toad",
-      "c": "the passenger pigeon",
-      "d": "the thylacine (Tasmanian tiger)"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 39,
-    "question": "Which of the following recently extinct animals could Barack Obama have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the thylacine (Tasmanian tiger)",
-      "b": "Steller's sea cow",
-      "c": "the Baiji (Yangtze river dolphin)",
-      "d": "the dodo"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 40,
-    "question": "Which of the following recently extinct animals could Angela Merkel have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the dodo",
-      "b": "the great auk",
-      "c": "the quagga",
-      "d": "the Pyrenean ibex"
-    },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 41,
-    "question": "Which of the following recently extinct animals could Malala Yousafzai have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the Pinta Island tortoise",
-      "b": "the thylacine (Tasmanian tiger)",
+      "a": "quagga",
+      "b": "great auk",
       "c": "Steller's sea cow",
-      "d": "the Tecopa pupfish"
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 79
+  },
+  {
+    "question": "Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "great auk",
+      "c": "Steller's sea cow",
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 80
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "great auk",
+      "c": "Steller's sea cow",
+      "d": "thylacine (Tasmanian tiger)"
+    },
+    "answer": "d",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 81
+  },
+  {
+    "question": "Historically, Could Leonardo da Vinci have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 82
   },
   {
-    "question_id": 42,
-    "question": "Which of the following recently extinct animals could Greta Thunberg have seen alive in their lifetime?",
+    "question": "According to historians, Could Leonardo da Vinci have seen the quagga alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "the thylacine (Tasmanian tiger)",
-      "b": "the western black rhinoceros",
-      "c": "Steller's sea cow",
-      "d": "the Tecopa pupfish"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 83
+  },
+  {
+    "question": "Could Leonardo da Vinci have seen the quagga alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 84
+  },
+  {
+    "question": "In history exams, students may be asked: Could Leonardo da Vinci have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 85
+  },
+  {
+    "question": "Historically, Could Leonardo da Vinci have seen the dodo alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "b",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 86
   },
   {
-    "question_id": 43,
-    "question": "Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",
+    "question": "According to historians, Could Leonardo da Vinci have seen the dodo alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "the dodo",
-      "b": "the great auk",
-      "c": "the Tecopa pupfish",
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 87
+  },
+  {
+    "question": "Could Leonardo da Vinci have seen the dodo alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 88
+  },
+  {
+    "question": "In history exams, students may be asked: Could Leonardo da Vinci have seen the dodo alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 89
+  },
+  {
+    "question": "Historically, Could Isaac Newton have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 90
+  },
+  {
+    "question": "According to historians, Could Isaac Newton have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 91
+  },
+  {
+    "question": "Could Isaac Newton have seen the Steller's sea cow alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 92
+  },
+  {
+    "question": "In history exams, students may be asked: Could Isaac Newton have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 93
+  },
+  {
+    "question": "Historically, Which of the following people could have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Abraham Lincoln",
+      "c": "Charles Darwin",
+      "d": "Albert Einstein"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 94
+  },
+  {
+    "question": "According to historians, Which of the following people could have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Abraham Lincoln",
+      "c": "Charles Darwin",
+      "d": "Albert Einstein"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 95
+  },
+  {
+    "question": "Which of the following people could have seen the passenger pigeon alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Abraham Lincoln",
+      "c": "Charles Darwin",
+      "d": "Albert Einstein"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 96
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following people could have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Abraham Lincoln",
+      "c": "Charles Darwin",
+      "d": "Albert Einstein"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 97
+  },
+  {
+    "question": "Historically, Could Jane Goodall have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 98
+  },
+  {
+    "question": "According to historians, Could Jane Goodall have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 99
+  },
+  {
+    "question": "Could Jane Goodall have seen the passenger pigeon alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 100
+  },
+  {
+    "question": "In history exams, students may be asked: Could Jane Goodall have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 101
+  },
+  {
+    "question": "Historically, Which of the following people could have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Charles Darwin",
+      "b": "Abraham Lincoln",
+      "c": "Jane Goodall",
+      "d": "Nikola Tesla"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 102
+  },
+  {
+    "question": "According to historians, Which of the following people could have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Charles Darwin",
+      "b": "Abraham Lincoln",
+      "c": "Jane Goodall",
+      "d": "Nikola Tesla"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 103
+  },
+  {
+    "question": "Which of the following people could have seen the quagga alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Charles Darwin",
+      "b": "Abraham Lincoln",
+      "c": "Jane Goodall",
+      "d": "Nikola Tesla"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 104
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following people could have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Charles Darwin",
+      "b": "Abraham Lincoln",
+      "c": "Jane Goodall",
+      "d": "Nikola Tesla"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 105
+  },
+  {
+    "question": "Historically, Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "passenger pigeon",
+      "b": "quagga",
+      "c": "thylacine (Tasmanian tiger)",
+      "d": "dodo"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 106
+  },
+  {
+    "question": "According to historians, Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "passenger pigeon",
+      "b": "quagga",
+      "c": "thylacine (Tasmanian tiger)",
+      "d": "dodo"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 107
+  },
+  {
+    "question": "Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "passenger pigeon",
+      "b": "quagga",
+      "c": "thylacine (Tasmanian tiger)",
+      "d": "dodo"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 108
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "passenger pigeon",
+      "b": "quagga",
+      "c": "thylacine (Tasmanian tiger)",
+      "d": "dodo"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 109
+  },
+  {
+    "question": "Historically, Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 110
+  },
+  {
+    "question": "According to historians, Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 111
+  },
+  {
+    "question": "Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 112
+  },
+  {
+    "question": "In history exams, students may be asked: Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 113
+  },
+  {
+    "question": "Historically, Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 114
+  },
+  {
+    "question": "According to historians, Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 115
+  },
+  {
+    "question": "Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 116
+  },
+  {
+    "question": "In history exams, students may be asked: Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 117
+  },
+  {
+    "question": "Historically, Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 118
+  },
+  {
+    "question": "According to historians, Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 119
+  },
+  {
+    "question": "Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 120
+  },
+  {
+    "question": "In history exams, students may be asked: Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 121
+  },
+  {
+    "question": "Historically, Could Nikola Tesla have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 122
+  },
+  {
+    "question": "According to historians, Could Nikola Tesla have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 123
+  },
+  {
+    "question": "Could Nikola Tesla have seen the quagga alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 124
+  },
+  {
+    "question": "In history exams, students may be asked: Could Nikola Tesla have seen the quagga alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 125
+  },
+  {
+    "question": "Historically, Which of the following people could have seen the dodo alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Jane Goodall",
+      "c": "Albert Einstein",
+      "d": "Nikola Tesla"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 126
+  },
+  {
+    "question": "According to historians, Which of the following people could have seen the dodo alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Jane Goodall",
+      "c": "Albert Einstein",
+      "d": "Nikola Tesla"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 127
+  },
+  {
+    "question": "Which of the following people could have seen the dodo alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Jane Goodall",
+      "c": "Albert Einstein",
+      "d": "Nikola Tesla"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 128
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following people could have seen the dodo alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Jane Goodall",
+      "c": "Albert Einstein",
+      "d": "Nikola Tesla"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 129
+  },
+  {
+    "question": "Historically, Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 130
+  },
+  {
+    "question": "According to historians, Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 131
+  },
+  {
+    "question": "Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 132
+  },
+  {
+    "question": "In history exams, students may be asked: Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 133
+  },
+  {
+    "question": "Historically, Which of the following people could have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Isaac Newton",
+      "c": "Mahatma Gandhi",
+      "d": "Jane Goodall"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 134
+  },
+  {
+    "question": "According to historians, Which of the following people could have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Isaac Newton",
+      "c": "Mahatma Gandhi",
+      "d": "Jane Goodall"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 135
+  },
+  {
+    "question": "Which of the following people could have seen the great auk alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Isaac Newton",
+      "c": "Mahatma Gandhi",
+      "d": "Jane Goodall"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 136
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following people could have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Leonardo da Vinci",
+      "b": "Isaac Newton",
+      "c": "Mahatma Gandhi",
+      "d": "Jane Goodall"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 137
+  },
+  {
+    "question": "Historically, Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "thylacine (Tasmanian tiger)",
+      "c": "Steller's sea cow",
+      "d": "passenger pigeon"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 138
+  },
+  {
+    "question": "According to historians, Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "thylacine (Tasmanian tiger)",
+      "c": "Steller's sea cow",
+      "d": "passenger pigeon"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 139
+  },
+  {
+    "question": "Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "thylacine (Tasmanian tiger)",
+      "c": "Steller's sea cow",
+      "d": "passenger pigeon"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 140
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "quagga",
+      "b": "thylacine (Tasmanian tiger)",
+      "c": "Steller's sea cow",
+      "d": "passenger pigeon"
+    },
+    "answer": "c",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 141
+  },
+  {
+    "question": "Historically, Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 142
+  },
+  {
+    "question": "According to historians, Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 143
+  },
+  {
+    "question": "Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 144
+  },
+  {
+    "question": "In history exams, students may be asked: Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 145
+  },
+  {
+    "question": "Historically, Could Abraham Lincoln have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 146
+  },
+  {
+    "question": "According to historians, Could Abraham Lincoln have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 147
+  },
+  {
+    "question": "Could Abraham Lincoln have seen the great auk alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 148
+  },
+  {
+    "question": "In history exams, students may be asked: Could Abraham Lincoln have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 149
+  },
+  {
+    "question": "Historically, Could Mahatma Gandhi have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 150
+  },
+  {
+    "question": "According to historians, Could Mahatma Gandhi have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 151
+  },
+  {
+    "question": "Could Mahatma Gandhi have seen the great auk alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 152
+  },
+  {
+    "question": "In history exams, students may be asked: Could Mahatma Gandhi have seen the great auk alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 153
+  },
+  {
+    "question": "Historically, Which of the following people could have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Isaac Newton",
+      "b": "Albert Einstein",
+      "c": "Nikola Tesla",
+      "d": "Charles Darwin"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 154
+  },
+  {
+    "question": "According to historians, Which of the following people could have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Isaac Newton",
+      "b": "Albert Einstein",
+      "c": "Nikola Tesla",
+      "d": "Charles Darwin"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 155
+  },
+  {
+    "question": "Which of the following people could have seen the Steller's sea cow alive in their lifetime (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Isaac Newton",
+      "b": "Albert Einstein",
+      "c": "Nikola Tesla",
+      "d": "Charles Darwin"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 156
+  },
+  {
+    "question": "In history exams, students may be asked: Which of the following people could have seen the Steller's sea cow alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Isaac Newton",
+      "b": "Albert Einstein",
+      "c": "Nikola Tesla",
+      "d": "Charles Darwin"
+    },
+    "answer": "b",
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 157
+  },
+  {
+    "question": "Historically, Which of the following recently extinct animals could Charles Darwin have seen alive in their lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "great auk",
+      "b": "dodo",
+      "c": "quagga",
       "d": "Steller's sea cow"
     },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 44,
-    "question": "Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Steller's sea cow",
-      "b": "the dodo",
-      "c": "the great auk",
-      "d": "the golden toad"
-    },
     "answer": "d",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 158
   },
   {
-    "question_id": 45,
-    "question": "Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",
+    "question": "According to historians, Which of the following recently extinct animals could Charles Darwin have seen alive in their lifetime?",
     "type": "MCQ",
     "options": {
-      "a": "the Baiji (Yangtze river dolphin)",
-      "b": "the great auk",
-      "c": "Steller's sea cow",
-      "d": "the dodo"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 46,
-    "question": "Which of the following recently extinct animals could Winston Churchill have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the dodo",
-      "b": "the Pyrenean ibex",
-      "c": "the great auk",
+      "a": "great auk",
+      "b": "dodo",
+      "c": "quagga",
       "d": "Steller's sea cow"
     },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 47,
-    "question": "Which of the following recently extinct animals could Mahatma Gandhi have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Steller's sea cow",
-      "b": "the dodo",
-      "c": "the Pinta Island tortoise",
-      "d": "the great auk"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 48,
-    "question": "Which of the following recently extinct animals could David Attenborough have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Steller's sea cow",
-      "b": "the dodo",
-      "c": "the great auk",
-      "d": "the Baiji (Yangtze river dolphin)"
-    },
     "answer": "d",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 159
   },
   {
-    "question_id": 49,
-    "question": "Which of the following recently extinct animals could Jane Goodall have seen alive in their lifetime?",
+    "question": "Which of the following recently extinct animals could Charles Darwin have seen alive in their lifetime (historical context)?",
     "type": "MCQ",
     "options": {
-      "a": "the Pyrenean ibex",
-      "b": "the great auk",
-      "c": "the quagga",
-      "d": "the passenger pigeon"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 50,
-    "question": "Which of the following recently extinct animals could Stephen Hawking have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the quagga",
-      "b": "the golden toad",
-      "c": "the passenger pigeon",
-      "d": "the thylacine (Tasmanian tiger)"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 51,
-    "question": "Which of the following recently extinct animals could Barack Obama have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the thylacine (Tasmanian tiger)",
-      "b": "Steller's sea cow",
-      "c": "the Baiji (Yangtze river dolphin)",
-      "d": "the dodo"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 52,
-    "question": "Which of the following recently extinct animals could Angela Merkel have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the dodo",
-      "b": "the great auk",
-      "c": "the quagga",
-      "d": "the Pyrenean ibex"
-    },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 53,
-    "question": "Which of the following recently extinct animals could Malala Yousafzai have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the Pinta Island tortoise",
-      "b": "the thylacine (Tasmanian tiger)",
-      "c": "Steller's sea cow",
-      "d": "the Tecopa pupfish"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 54,
-    "question": "Which of the following recently extinct animals could Greta Thunberg have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the great auk",
-      "b": "the western black rhinoceros",
-      "c": "the quagga",
-      "d": "the passenger pigeon"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 55,
-    "question": "Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the dodo",
-      "b": "the great auk",
-      "c": "the Pyrenean ibex",
+      "a": "great auk",
+      "b": "dodo",
+      "c": "quagga",
       "d": "Steller's sea cow"
     },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 56,
-    "question": "Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Steller's sea cow",
-      "b": "the dodo",
-      "c": "the great auk",
-      "d": "the Pinta Island tortoise"
-    },
     "answer": "d",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 57,
-    "question": "Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the western black rhinoceros",
-      "b": "the great auk",
-      "c": "Steller's sea cow",
-      "d": "the dodo"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 58,
-    "question": "Which of the following recently extinct animals could Winston Churchill have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the dodo",
-      "b": "the quagga",
-      "c": "the great auk",
-      "d": "Steller's sea cow"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 59,
-    "question": "Which of the following recently extinct animals could Mahatma Gandhi have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "Steller's sea cow",
-      "b": "the dodo",
-      "c": "the passenger pigeon",
-      "d": "the great auk"
-    },
-    "answer": "c",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 60,
-    "question": "Which of the following recently extinct animals could David Attenborough have seen alive in their lifetime?",
-    "type": "MCQ",
-    "options": {
-      "a": "the passenger pigeon",
-      "b": "Steller's sea cow",
-      "c": "the dodo",
-      "d": "the Tecopa pupfish"
-    },
-    "answer": "d",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 61,
-    "question": "Is it possible that Leonardo da Vinci has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 62,
-    "question": "Is it possible that Leonardo da Vinci has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 63,
-    "question": "Is it possible that Leonardo da Vinci has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 64,
-    "question": "Is it possible that Leonardo da Vinci has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 65,
-    "question": "Is it possible that Leonardo da Vinci has seen the thylacine (Tasmanian tiger) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 66,
-    "question": "Is it possible that Leonardo da Vinci has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 67,
-    "question": "Is it possible that Leonardo da Vinci has seen the Tecopa pupfish in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 68,
-    "question": "Is it possible that Leonardo da Vinci has seen the golden toad in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 69,
-    "question": "Is it possible that Leonardo da Vinci has seen the Baiji (Yangtze river dolphin) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 70,
-    "question": "Is it possible that Leonardo da Vinci has seen the Pyrenean ibex in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 71,
-    "question": "Is it possible that Leonardo da Vinci has seen the Pinta Island tortoise in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 72,
-    "question": "Is it possible that Leonardo da Vinci has seen the western black rhinoceros in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 73,
-    "question": "Is it possible that Isaac Newton has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 74,
-    "question": "Is it possible that Isaac Newton has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 75,
-    "question": "Is it possible that Isaac Newton has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 76,
-    "question": "Is it possible that Isaac Newton has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 77,
-    "question": "Is it possible that Isaac Newton has seen the thylacine (Tasmanian tiger) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 78,
-    "question": "Is it possible that Isaac Newton has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 79,
-    "question": "Is it possible that Isaac Newton has seen the Tecopa pupfish in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 80,
-    "question": "Is it possible that Isaac Newton has seen the golden toad in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 81,
-    "question": "Is it possible that Isaac Newton has seen the Baiji (Yangtze river dolphin) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 82,
-    "question": "Is it possible that Isaac Newton has seen the Pyrenean ibex in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 83,
-    "question": "Is it possible that Isaac Newton has seen the Pinta Island tortoise in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 84,
-    "question": "Is it possible that Isaac Newton has seen the western black rhinoceros in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 85,
-    "question": "Is it possible that Charles Darwin has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 86,
-    "question": "Is it possible that Charles Darwin has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 87,
-    "question": "Is it possible that Charles Darwin has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 88,
-    "question": "Is it possible that Charles Darwin has seen the thylacine (Tasmanian tiger) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 89,
-    "question": "Is it possible that Charles Darwin has seen the Tecopa pupfish in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 90,
-    "question": "Is it possible that Charles Darwin has seen the golden toad in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 91,
-    "question": "Is it possible that Charles Darwin has seen the Baiji (Yangtze river dolphin) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 92,
-    "question": "Is it possible that Charles Darwin has seen the Pyrenean ibex in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 93,
-    "question": "Is it possible that Charles Darwin has seen the Pinta Island tortoise in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 94,
-    "question": "Is it possible that Charles Darwin has seen the western black rhinoceros in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 95,
-    "question": "Is it possible that Abraham Lincoln has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 96,
-    "question": "Is it possible that Abraham Lincoln has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 97,
-    "question": "Is it possible that Abraham Lincoln has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 98,
-    "question": "Is it possible that Abraham Lincoln has seen the thylacine (Tasmanian tiger) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 99,
-    "question": "Is it possible that Abraham Lincoln has seen the Tecopa pupfish in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 100,
-    "question": "Is it possible that Abraham Lincoln has seen the golden toad in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 101,
-    "question": "Is it possible that Abraham Lincoln has seen the Baiji (Yangtze river dolphin) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 102,
-    "question": "Is it possible that Abraham Lincoln has seen the Pyrenean ibex in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 103,
-    "question": "Is it possible that Abraham Lincoln has seen the Pinta Island tortoise in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 104,
-    "question": "Is it possible that Abraham Lincoln has seen the western black rhinoceros in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 105,
-    "question": "Is it possible that Nikola Tesla has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 106,
-    "question": "Is it possible that Nikola Tesla has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 107,
-    "question": "Is it possible that Nikola Tesla has seen the thylacine (Tasmanian tiger) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 108,
-    "question": "Is it possible that Nikola Tesla has seen the Tecopa pupfish in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 109,
-    "question": "Is it possible that Nikola Tesla has seen the golden toad in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 110,
-    "question": "Is it possible that Nikola Tesla has seen the Baiji (Yangtze river dolphin) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 111,
-    "question": "Is it possible that Charles Darwin has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 112,
-    "question": "Is it possible that Charles Darwin has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 113,
-    "question": "Is it possible that Abraham Lincoln has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 114,
-    "question": "Is it possible that Abraham Lincoln has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 115,
-    "question": "Is it possible that Nikola Tesla has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 116,
-    "question": "Is it possible that Nikola Tesla has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 117,
-    "question": "Is it possible that Nikola Tesla has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 118,
-    "question": "Is it possible that Marie Curie has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 119,
-    "question": "Is it possible that Marie Curie has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 120,
-    "question": "Is it possible that Marie Curie has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 121,
-    "question": "Is it possible that Albert Einstein has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 122,
-    "question": "Is it possible that Albert Einstein has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 123,
-    "question": "Is it possible that Albert Einstein has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 124,
-    "question": "Is it possible that Winston Churchill has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 125,
-    "question": "Is it possible that Winston Churchill has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 126,
-    "question": "Is it possible that Winston Churchill has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 127,
-    "question": "Is it possible that Mahatma Gandhi has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 128,
-    "question": "Is it possible that Mahatma Gandhi has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 129,
-    "question": "Is it possible that Mahatma Gandhi has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 130,
-    "question": "Is it possible that David Attenborough has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 131,
-    "question": "Is it possible that David Attenborough has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 132,
-    "question": "Is it possible that David Attenborough has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 133,
-    "question": "Is it possible that David Attenborough has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 134,
-    "question": "Is it possible that David Attenborough has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 135,
-    "question": "Is it possible that Jane Goodall has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 136,
-    "question": "Is it possible that Jane Goodall has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 137,
-    "question": "Is it possible that Jane Goodall has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 138,
-    "question": "Is it possible that Jane Goodall has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 139,
-    "question": "Is it possible that Jane Goodall has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 140,
-    "question": "Is it possible that Stephen Hawking has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 141,
-    "question": "Is it possible that Stephen Hawking has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 142,
-    "question": "Is it possible that Stephen Hawking has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 143,
-    "question": "Is it possible that Stephen Hawking has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 144,
-    "question": "Is it possible that Stephen Hawking has seen the thylacine (Tasmanian tiger) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 145,
-    "question": "Is it possible that Stephen Hawking has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 146,
-    "question": "Is it possible that Barack Obama has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 147,
-    "question": "Is it possible that Barack Obama has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 148,
-    "question": "Is it possible that Barack Obama has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 149,
-    "question": "Is it possible that Barack Obama has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 150,
-    "question": "Is it possible that Barack Obama has seen the thylacine (Tasmanian tiger) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 151,
-    "question": "Is it possible that Barack Obama has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 152,
-    "question": "Is it possible that Angela Merkel has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 153,
-    "question": "Is it possible that Angela Merkel has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 154,
-    "question": "Is it possible that Angela Merkel has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 155,
-    "question": "Is it possible that Angela Merkel has seen the passenger pigeon in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 156,
-    "question": "Is it possible that Angela Merkel has seen the thylacine (Tasmanian tiger) in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 157,
-    "question": "Is it possible that Angela Merkel has seen Steller's sea cow in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 158,
-    "question": "Is it possible that Malala Yousafzai has seen the dodo in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 159,
-    "question": "Is it possible that Malala Yousafzai has seen the great auk in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
-  },
-  {
-    "question_id": 160,
-    "question": "Is it possible that Malala Yousafzai has seen the quagga in their lifetime?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b",
-    "template_type": "person_seen_recent_extinct"
+    "template_type": "person_seen_recent_extinct",
+    "question_id": 160
   }
 ]

@@ -1,1882 +1,2082 @@
 [
   {
-    "question_id": 1,
     "question": "In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015?",
     "type": "MCQ",
     "options": {
-      "a": "Paris",
-      "b": "Bandung",
-      "c": "Pretoria",
-      "d": "Washington, D.C."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 2,
-    "question": "In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?",
-    "type": "MCQ",
-    "options": {
       "a": "Pretoria",
-      "b": "Paris",
-      "c": "Washington, D.C.",
-      "d": "Yalta"
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 1
   },
   {
-    "question_id": 3,
     "question": "In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955?",
     "type": "MCQ",
     "options": {
       "a": "Washington, D.C.",
-      "b": "Yalta",
-      "c": "Bandung",
-      "d": "Reykjavik"
+      "b": "Paris",
+      "c": "Pretoria",
+      "d": "Bandung"
     },
     "answer": "c",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 2
   },
   {
-    "question_id": 4,
-    "question": "In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?",
-    "type": "MCQ",
-    "options": {
-      "a": "Yalta",
-      "b": "Reykjavik",
-      "c": "Vienna",
-      "d": "Pretoria"
-    },
-    "answer": "d",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 5,
-    "question": "In which city did Martin Luther King Jr. attend the March on Washington held in 1963?",
-    "type": "MCQ",
-    "options": {
-      "a": "Washington, D.C.",
-      "b": "Reykjavik",
-      "c": "Vienna",
-      "d": "Biarritz"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 6,
-    "question": "In which city did Winston Churchill attend the Yalta Conference held in 1945?",
-    "type": "MCQ",
-    "options": {
-      "a": "Vienna",
-      "b": "Yalta",
-      "c": "Biarritz",
-      "d": "London"
-    },
-    "answer": "b",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 7,
-    "question": "In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?",
-    "type": "MCQ",
-    "options": {
-      "a": "Biarritz",
-      "b": "London",
-      "c": "Yalta",
-      "d": "Geneva"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 8,
-    "question": "In which city did Mikhail Gorbachev attend the Reykjavik Summit held in 1986?",
-    "type": "MCQ",
-    "options": {
-      "a": "London",
-      "b": "Geneva",
-      "c": "New York",
-      "d": "Reykjavik"
-    },
-    "answer": "d",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 9,
-    "question": "In which city did John F. Kennedy attend the Vienna Summit held in 1961?",
-    "type": "MCQ",
-    "options": {
-      "a": "Vienna",
-      "b": "Geneva",
-      "c": "New York",
-      "d": "Berlin"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 10,
     "question": "In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019?",
     "type": "MCQ",
     "options": {
-      "a": "New York",
-      "b": "Biarritz",
-      "c": "Berlin",
-      "d": "Brussels"
+      "a": "Bandung",
+      "b": "Reykjavik",
+      "c": "Paris",
+      "d": "Biarritz"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 3
+  },
+  {
+    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 4
   },
   {
-    "question_id": 11,
-    "question": "In which year did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris?",
+    "question": "In which city did John F. Kennedy attend the Vienna Summit held in 1961?",
     "type": "MCQ",
     "options": {
-      "a": "1994",
-      "b": "2015",
-      "c": "1963",
-      "d": "1945"
+      "a": "Washington, D.C.",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 5
+  },
+  {
+    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 6
+  },
+  {
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 7
   },
   {
-    "question_id": 12,
-    "question": "In which year did Barack Obama attend the UN Climate Change Conference COP21 held in Paris?",
+    "question": "Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963?",
     "type": "MCQ",
     "options": {
-      "a": "1963",
-      "b": "1945",
-      "c": "2015",
-      "d": "1986"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 13,
-    "question": "In which year did Jawaharlal Nehru attend the Bandung Conference held in Bandung?",
-    "type": "MCQ",
-    "options": {
-      "a": "1945",
-      "b": "1986",
-      "c": "1961",
-      "d": "1955"
-    },
-    "answer": "d",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 14,
-    "question": "In which year did Nelson Mandela attend the 1994 Presidential Inauguration held in Pretoria?",
-    "type": "MCQ",
-    "options": {
-      "a": "1994",
-      "b": "1986",
-      "c": "1961",
-      "d": "2019"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 8
   },
   {
-    "question_id": 15,
-    "question": "In which year did Martin Luther King Jr. attend the March on Washington held in Washington, D.C.?",
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955?",
     "type": "MCQ",
     "options": {
-      "a": "1961",
-      "b": "1963",
-      "c": "2019",
-      "d": "1919"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 9
+  },
+  {
+    "question": "In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pretoria",
+      "b": "Reykjavik",
+      "c": "Biarritz",
+      "d": "Vienna"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 10
   },
   {
-    "question_id": 16,
-    "question": "In which year did Winston Churchill attend the Yalta Conference held in Yalta?",
-    "type": "MCQ",
-    "options": {
-      "a": "2019",
-      "b": "1919",
-      "c": "1945",
-      "d": "1943"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 17,
-    "question": "In which year did Franklin D. Roosevelt attend the Yalta Conference held in Yalta?",
-    "type": "MCQ",
-    "options": {
-      "a": "1919",
-      "b": "1943",
-      "c": "1950",
-      "d": "1945"
-    },
-    "answer": "d",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 18,
-    "question": "In which year did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik?",
-    "type": "MCQ",
-    "options": {
-      "a": "1986",
-      "b": "1943",
-      "c": "1950",
-      "d": "1960"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 19,
-    "question": "In which year did John F. Kennedy attend the Vienna Summit held in Vienna?",
-    "type": "MCQ",
-    "options": {
-      "a": "1950",
-      "b": "1961",
-      "c": "1960",
-      "d": "1975"
-    },
-    "answer": "b",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 20,
-    "question": "In which year did Emmanuel Macron attend the G7 Summit in Biarritz held in Biarritz?",
-    "type": "MCQ",
-    "options": {
-      "a": "1960",
-      "b": "1975",
-      "c": "2019",
-      "d": "1989"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 21,
-    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "MCQ",
-    "options": {
-      "a": "Angela Merkel",
-      "b": "Nelson Mandela",
-      "c": "Martin Luther King Jr.",
-      "d": "Winston Churchill"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 22,
-    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "MCQ",
-    "options": {
-      "a": "Winston Churchill",
-      "b": "Franklin D. Roosevelt",
-      "c": "Barack Obama",
-      "d": "Mikhail Gorbachev"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 23,
-    "question": "Who attended the Bandung Conference held in Bandung in 1955?",
-    "type": "MCQ",
-    "options": {
-      "a": "Jawaharlal Nehru",
-      "b": "Mikhail Gorbachev",
-      "c": "John F. Kennedy",
-      "d": "Emmanuel Macron"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 24,
-    "question": "Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?",
-    "type": "MCQ",
-    "options": {
-      "a": "Emmanuel Macron",
-      "b": "Angela Merkel",
-      "c": "Nelson Mandela",
-      "d": "Barack Obama"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 25,
     "question": "Who attended the March on Washington held in Washington, D.C. in 1963?",
     "type": "MCQ",
     "options": {
       "a": "Martin Luther King Jr.",
-      "b": "Barack Obama",
-      "c": "Jawaharlal Nehru",
-      "d": "Nelson Mandela"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 26,
-    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
-    "type": "MCQ",
-    "options": {
-      "a": "Nelson Mandela",
-      "b": "Martin Luther King Jr.",
-      "c": "Winston Churchill",
-      "d": "Franklin D. Roosevelt"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 27,
-    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
-    "type": "MCQ",
-    "options": {
-      "a": "Franklin D. Roosevelt",
-      "b": "Winston Churchill",
-      "c": "Mikhail Gorbachev",
-      "d": "John F. Kennedy"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 28,
-    "question": "Who attended the Reykjavik Summit held in Reykjavik in 1986?",
-    "type": "MCQ",
-    "options": {
-      "a": "John F. Kennedy",
-      "b": "Emmanuel Macron",
-      "c": "Mikhail Gorbachev",
-      "d": "Angela Merkel"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 29,
-    "question": "Who attended the Vienna Summit held in Vienna in 1961?",
-    "type": "MCQ",
-    "options": {
-      "a": "John F. Kennedy",
-      "b": "Emmanuel Macron",
-      "c": "Angela Merkel",
-      "d": "Barack Obama"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 30,
-    "question": "Who attended the G7 Summit in Biarritz held in Biarritz in 2019?",
-    "type": "MCQ",
-    "options": {
-      "a": "Barack Obama",
-      "b": "Jawaharlal Nehru",
-      "c": "Emmanuel Macron",
-      "d": "Nelson Mandela"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 31,
-    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "MCQ",
-    "options": {
-      "a": "Nelson Mandela",
-      "b": "Martin Luther King Jr.",
-      "c": "Angela Merkel",
+      "b": "Nelson Mandela",
+      "c": "Barack Obama",
       "d": "Winston Churchill"
     },
-    "answer": "c",
-    "template_type": "person_event"
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 11
   },
   {
-    "question_id": 32,
-    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
     "type": "MCQ",
     "options": {
-      "a": "Barack Obama",
-      "b": "Winston Churchill",
-      "c": "Franklin D. Roosevelt",
-      "d": "Mikhail Gorbachev"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 12
+  },
+  {
+    "question": "In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Paris",
+      "b": "Pretoria",
+      "c": "Vienna",
+      "d": "Yalta"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 13
+  },
+  {
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 14
   },
   {
-    "question_id": 33,
-    "question": "Who attended the Bandung Conference held in Bandung in 1955?",
+    "question": "In which city did Martin Luther King Jr. attend the March on Washington held in 1963?",
     "type": "MCQ",
     "options": {
-      "a": "Mikhail Gorbachev",
-      "b": "John F. Kennedy",
-      "c": "Jawaharlal Nehru",
-      "d": "Emmanuel Macron"
+      "a": "Pretoria",
+      "b": "Washington, D.C.",
+      "c": "Paris",
+      "d": "Vienna"
     },
-    "answer": "c",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 15
   },
   {
-    "question_id": 34,
+    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Emmanuel Macron"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 16
+  },
+  {
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 17
+  },
+  {
+    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 18
+  },
+  {
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 19
+  },
+  {
     "question": "Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?",
     "type": "MCQ",
     "options": {
+      "a": "Jawaharlal Nehru",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Mikhail Gorbachev"
+    },
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 20
+  },
+  {
+    "question": "Who attended the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
+    "options": {
       "a": "Nelson Mandela",
-      "b": "Emmanuel Macron",
-      "c": "Angela Merkel",
+      "b": "Martin Luther King Jr.",
+      "c": "Jawaharlal Nehru",
       "d": "Barack Obama"
     },
-    "answer": "a",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 21
   },
   {
-    "question_id": 35,
-    "question": "Who attended the March on Washington held in Washington, D.C. in 1963?",
-    "type": "MCQ",
-    "options": {
-      "a": "Barack Obama",
-      "b": "Jawaharlal Nehru",
-      "c": "Martin Luther King Jr.",
-      "d": "Nelson Mandela"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 36,
-    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
-    "type": "MCQ",
-    "options": {
-      "a": "Winston Churchill",
-      "b": "Nelson Mandela",
-      "c": "Martin Luther King Jr.",
-      "d": "Franklin D. Roosevelt"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 37,
-    "question": "Who attended the Yalta Conference held in Yalta in 1945?",
-    "type": "MCQ",
-    "options": {
-      "a": "Winston Churchill",
-      "b": "Mikhail Gorbachev",
-      "c": "Franklin D. Roosevelt",
-      "d": "John F. Kennedy"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 38,
-    "question": "Who attended the Reykjavik Summit held in Reykjavik in 1986?",
-    "type": "MCQ",
-    "options": {
-      "a": "Mikhail Gorbachev",
-      "b": "John F. Kennedy",
-      "c": "Emmanuel Macron",
-      "d": "Angela Merkel"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 39,
-    "question": "Who attended the Vienna Summit held in Vienna in 1961?",
-    "type": "MCQ",
-    "options": {
-      "a": "Emmanuel Macron",
-      "b": "Angela Merkel",
-      "c": "John F. Kennedy",
-      "d": "Barack Obama"
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 40,
     "question": "Who attended the G7 Summit in Biarritz held in Biarritz in 2019?",
     "type": "MCQ",
     "options": {
-      "a": "Emmanuel Macron",
-      "b": "Barack Obama",
+      "a": "Mikhail Gorbachev",
+      "b": "Emmanuel Macron",
+      "c": "John F. Kennedy",
+      "d": "Franklin D. Roosevelt"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 22
+  },
+  {
+    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington, D.C. in 1986?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 23
+  },
+  {
+    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Franklin D. Roosevelt",
+      "b": "Jawaharlal Nehru",
+      "c": "Nelson Mandela",
+      "d": "Barack Obama"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 24
+  },
+  {
+    "question": "Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 25
+  },
+  {
+    "question": "In which city did Winston Churchill attend the Yalta Conference held in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Paris",
+      "b": "Yalta",
+      "c": "Reykjavik",
+      "d": "Biarritz"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 26
+  },
+  {
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 27
+  },
+  {
+    "question": "Who attended the Reykjavik Summit held in Reykjavik in 1986?",
+    "type": "MCQ",
+    "options": {
+      "a": "Angela Merkel",
+      "b": "Mikhail Gorbachev",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 28
+  },
+  {
+    "question": "In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Reykjavik",
+      "b": "Yalta",
+      "c": "Biarritz",
+      "d": "Vienna"
+    },
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 29
+  },
+  {
+    "question": "Who attended the Vienna Summit held in Vienna in 1961?",
+    "type": "MCQ",
+    "options": {
+      "a": "John F. Kennedy",
+      "b": "Emmanuel Macron",
       "c": "Jawaharlal Nehru",
-      "d": "Nelson Mandela"
+      "d": "Barack Obama"
     },
-    "answer": "a",
-    "template_type": "person_event"
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 30
   },
   {
-    "question_id": 41,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Angela Merkel attended the UN Climate Change Conference COP21 held in Yalta in 2015.",
-      "b": "Angela Merkel attended the UN Climate Change Conference COP21 held in Paris in 1986.",
-      "c": "Angela Merkel attended the UN Climate Change Conference COP21 held in Paris in 2015.",
-      "d": "Franklin D. Roosevelt attended the UN Climate Change Conference COP21 held in Paris in 2015."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 42,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Barack Obama attended the UN Climate Change Conference COP21 held in Paris in 2015.",
-      "b": "Barack Obama attended the UN Climate Change Conference COP21 held in Reykjavik in 2015.",
-      "c": "Barack Obama attended the UN Climate Change Conference COP21 held in Paris in 1961.",
-      "d": "Mikhail Gorbachev attended the UN Climate Change Conference COP21 held in Paris in 2015."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 43,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Jawaharlal Nehru attended the Bandung Conference held in Vienna in 1955.",
-      "b": "Jawaharlal Nehru attended the Bandung Conference held in Bandung in 2019.",
-      "c": "Jawaharlal Nehru attended the Bandung Conference held in Bandung in 1955.",
-      "d": "John F. Kennedy attended the Bandung Conference held in Bandung in 1955."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 44,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Nelson Mandela attended the 1994 Presidential Inauguration held in Pretoria in 1994.",
-      "b": "Nelson Mandela attended the 1994 Presidential Inauguration held in Biarritz in 1994.",
-      "c": "Nelson Mandela attended the 1994 Presidential Inauguration held in Pretoria in 1919.",
-      "d": "Emmanuel Macron attended the 1994 Presidential Inauguration held in Pretoria in 1994."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 45,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Martin Luther King Jr. attended the March on Washington held in London in 1963.",
-      "b": "Martin Luther King Jr. attended the March on Washington held in Washington, D.C. in 1943.",
-      "c": "Martin Luther King Jr. attended the March on Washington held in Washington, D.C. in 1963.",
-      "d": "Angela Merkel attended the March on Washington held in Washington, D.C. in 1963."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 46,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Winston Churchill attended the Yalta Conference held in Yalta in 1945.",
-      "b": "Winston Churchill attended the Yalta Conference held in Geneva in 1945.",
-      "c": "Winston Churchill attended the Yalta Conference held in Yalta in 1950.",
-      "d": "Barack Obama attended the Yalta Conference held in Yalta in 1945."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 47,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Franklin D. Roosevelt attended the Yalta Conference held in New York in 1945.",
-      "b": "Franklin D. Roosevelt attended the Yalta Conference held in Yalta in 1960.",
-      "c": "Franklin D. Roosevelt attended the Yalta Conference held in Yalta in 1945.",
-      "d": "Jawaharlal Nehru attended the Yalta Conference held in Yalta in 1945."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 48,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Mikhail Gorbachev attended the Reykjavik Summit held in Reykjavik in 1986.",
-      "b": "Mikhail Gorbachev attended the Reykjavik Summit held in Berlin in 1986.",
-      "c": "Mikhail Gorbachev attended the Reykjavik Summit held in Reykjavik in 1975.",
-      "d": "Nelson Mandela attended the Reykjavik Summit held in Reykjavik in 1986."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 49,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "John F. Kennedy attended the Vienna Summit held in Brussels in 1961.",
-      "b": "John F. Kennedy attended the Vienna Summit held in Vienna in 1989.",
-      "c": "John F. Kennedy attended the Vienna Summit held in Vienna in 1961.",
-      "d": "Martin Luther King Jr. attended the Vienna Summit held in Vienna in 1961."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 50,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Emmanuel Macron attended the G7 Summit in Biarritz held in Biarritz in 2019.",
-      "b": "Emmanuel Macron attended the G7 Summit in Biarritz held in Oslo in 2019.",
-      "c": "Emmanuel Macron attended the G7 Summit in Biarritz held in Biarritz in 2000.",
-      "d": "Winston Churchill attended the G7 Summit in Biarritz held in Biarritz in 2019."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 51,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Angela Merkel attended the UN Climate Change Conference COP21 held in Paris in 2015.",
-      "b": "Angela Merkel attended the UN Climate Change Conference COP21 held in Yalta in 2015.",
-      "c": "Angela Merkel attended the UN Climate Change Conference COP21 held in Paris in 1986.",
-      "d": "Franklin D. Roosevelt attended the UN Climate Change Conference COP21 held in Paris in 2015."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 52,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Barack Obama attended the UN Climate Change Conference COP21 held in Reykjavik in 2015.",
-      "b": "Barack Obama attended the UN Climate Change Conference COP21 held in Paris in 1961.",
-      "c": "Barack Obama attended the UN Climate Change Conference COP21 held in Paris in 2015.",
-      "d": "Mikhail Gorbachev attended the UN Climate Change Conference COP21 held in Paris in 2015."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 53,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Jawaharlal Nehru attended the Bandung Conference held in Bandung in 1955.",
-      "b": "Jawaharlal Nehru attended the Bandung Conference held in Vienna in 1955.",
-      "c": "Jawaharlal Nehru attended the Bandung Conference held in Bandung in 2019.",
-      "d": "John F. Kennedy attended the Bandung Conference held in Bandung in 1955."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 54,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Nelson Mandela attended the 1994 Presidential Inauguration held in Biarritz in 1994.",
-      "b": "Nelson Mandela attended the 1994 Presidential Inauguration held in Pretoria in 1919.",
-      "c": "Nelson Mandela attended the 1994 Presidential Inauguration held in Pretoria in 1994.",
-      "d": "Emmanuel Macron attended the 1994 Presidential Inauguration held in Pretoria in 1994."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 55,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Martin Luther King Jr. attended the March on Washington held in Washington, D.C. in 1963.",
-      "b": "Martin Luther King Jr. attended the March on Washington held in London in 1963.",
-      "c": "Martin Luther King Jr. attended the March on Washington held in Washington, D.C. in 1943.",
-      "d": "Angela Merkel attended the March on Washington held in Washington, D.C. in 1963."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 56,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Winston Churchill attended the Yalta Conference held in Geneva in 1945.",
-      "b": "Winston Churchill attended the Yalta Conference held in Yalta in 1950.",
-      "c": "Winston Churchill attended the Yalta Conference held in Yalta in 1945.",
-      "d": "Barack Obama attended the Yalta Conference held in Yalta in 1945."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 57,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Franklin D. Roosevelt attended the Yalta Conference held in Yalta in 1945.",
-      "b": "Franklin D. Roosevelt attended the Yalta Conference held in New York in 1945.",
-      "c": "Franklin D. Roosevelt attended the Yalta Conference held in Yalta in 1960.",
-      "d": "Jawaharlal Nehru attended the Yalta Conference held in Yalta in 1945."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 58,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Mikhail Gorbachev attended the Reykjavik Summit held in Berlin in 1986.",
-      "b": "Mikhail Gorbachev attended the Reykjavik Summit held in Reykjavik in 1975.",
-      "c": "Mikhail Gorbachev attended the Reykjavik Summit held in Reykjavik in 1986.",
-      "d": "Nelson Mandela attended the Reykjavik Summit held in Reykjavik in 1986."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 59,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "John F. Kennedy attended the Vienna Summit held in Vienna in 1961.",
-      "b": "John F. Kennedy attended the Vienna Summit held in Brussels in 1961.",
-      "c": "John F. Kennedy attended the Vienna Summit held in Vienna in 1989.",
-      "d": "Martin Luther King Jr. attended the Vienna Summit held in Vienna in 1961."
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 60,
-    "question": "Which of the following statements is fully consistent with known history?",
-    "type": "MCQ",
-    "options": {
-      "a": "Emmanuel Macron attended the G7 Summit in Biarritz held in Oslo in 2019.",
-      "b": "Emmanuel Macron attended the G7 Summit in Biarritz held in Biarritz in 2000.",
-      "c": "Emmanuel Macron attended the G7 Summit in Biarritz held in Biarritz in 2019.",
-      "d": "Winston Churchill attended the G7 Summit in Biarritz held in Biarritz in 2019."
-    },
-    "answer": "c",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 61,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 62,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 63,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 64,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Pretoria in 1994?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 65,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 66,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 67,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 68,
     "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?",
-    "type": "T/F",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "a",
-    "template_type": "person_event"
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 31
   },
   {
-    "question_id": 69,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 70,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Biarritz in 2019?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 71,
     "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "a",
-    "template_type": "person_event"
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 32
   },
   {
-    "question_id": 72,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 73,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 74,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Pretoria in 1994?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 75,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 76,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 77,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 78,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 79,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a",
-    "template_type": "person_event"
-  },
-  {
-    "question_id": 80,
     "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Biarritz in 2019?",
-    "type": "T/F",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "a",
-    "template_type": "person_event"
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 33
   },
   {
-    "question_id": 81,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
+    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Yalta in 2015?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 34
   },
   {
-    "question_id": 82,
+    "question": "In which city did Mikhail Gorbachev attend the Reykjavik Summit held in 1986?",
+    "type": "MCQ",
+    "options": {
+      "a": "Bandung",
+      "b": "Yalta",
+      "c": "Paris",
+      "d": "Reykjavik"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 35
+  },
+  {
     "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "a",
-    "template_type": "person_event"
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 36
   },
   {
-    "question_id": 83,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
-    "type": "T/F",
+    "question": "Did Winston Churchill attend the Yalta Conference held in Washington, D.C. in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 37
   },
   {
-    "question_id": 84,
     "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Pretoria in 1994?",
-    "type": "T/F",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 38
+  },
+  {
+    "question": "Historically, In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pretoria",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 39
+  },
+  {
+    "question": "According to historians, In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pretoria",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 40
+  },
+  {
+    "question": "In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pretoria",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 41
+  },
+  {
+    "question": "In history exams, students may be asked: In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pretoria",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 42
+  },
+  {
+    "question": "Historically, In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Washington, D.C.",
+      "b": "Paris",
+      "c": "Pretoria",
+      "d": "Bandung"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 43
+  },
+  {
+    "question": "According to historians, In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Washington, D.C.",
+      "b": "Paris",
+      "c": "Pretoria",
+      "d": "Bandung"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 44
+  },
+  {
+    "question": "In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Washington, D.C.",
+      "b": "Paris",
+      "c": "Pretoria",
+      "d": "Bandung"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 45
+  },
+  {
+    "question": "In history exams, students may be asked: In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955?",
+    "type": "MCQ",
+    "options": {
+      "a": "Washington, D.C.",
+      "b": "Paris",
+      "c": "Pretoria",
+      "d": "Bandung"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 46
+  },
+  {
+    "question": "Historically, In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019?",
+    "type": "MCQ",
+    "options": {
+      "a": "Bandung",
+      "b": "Reykjavik",
+      "c": "Paris",
+      "d": "Biarritz"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 47
+  },
+  {
+    "question": "According to historians, In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019?",
+    "type": "MCQ",
+    "options": {
+      "a": "Bandung",
+      "b": "Reykjavik",
+      "c": "Paris",
+      "d": "Biarritz"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 48
+  },
+  {
+    "question": "In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Bandung",
+      "b": "Reykjavik",
+      "c": "Paris",
+      "d": "Biarritz"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 49
+  },
+  {
+    "question": "In history exams, students may be asked: In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019?",
+    "type": "MCQ",
+    "options": {
+      "a": "Bandung",
+      "b": "Reykjavik",
+      "c": "Paris",
+      "d": "Biarritz"
+    },
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 50
+  },
+  {
+    "question": "Historically, Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 51
+  },
+  {
+    "question": "According to historians, Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 52
+  },
+  {
+    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 53
+  },
+  {
+    "question": "In history exams, students may be asked: Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 54
+  },
+  {
+    "question": "Historically, In which city did John F. Kennedy attend the Vienna Summit held in 1961?",
+    "type": "MCQ",
+    "options": {
+      "a": "Washington, D.C.",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 55
   },
   {
-    "question_id": 85,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
-    "type": "T/F",
+    "question": "According to historians, In which city did John F. Kennedy attend the Vienna Summit held in 1961?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Washington, D.C.",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 56
   },
   {
-    "question_id": 86,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
+    "question": "In which city did John F. Kennedy attend the Vienna Summit held in 1961 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Washington, D.C.",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 57
   },
   {
-    "question_id": 87,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: In which city did John F. Kennedy attend the Vienna Summit held in 1961?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Washington, D.C.",
+      "b": "Vienna",
+      "c": "Yalta",
+      "d": "Paris"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 58
   },
   {
-    "question_id": 88,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?",
-    "type": "T/F",
+    "question": "Historically, Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 59
   },
   {
-    "question_id": 89,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
-    "type": "T/F",
+    "question": "According to historians, Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 60
   },
   {
-    "question_id": 90,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Biarritz in 2019?",
-    "type": "T/F",
+    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 61
   },
   {
-    "question_id": 91,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 62
   },
   {
-    "question_id": 92,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
+    "question": "Historically, Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 63
+  },
+  {
+    "question": "According to historians, Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 64
+  },
+  {
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 65
+  },
+  {
+    "question": "In history exams, students may be asked: Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 66
+  },
+  {
+    "question": "Historically, Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 67
   },
   {
-    "question_id": 93,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
-    "type": "T/F",
+    "question": "According to historians, Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 68
   },
   {
-    "question_id": 94,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Pretoria in 1994?",
-    "type": "T/F",
+    "question": "Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 69
   },
   {
-    "question_id": 95,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 70
   },
   {
-    "question_id": 96,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
+    "question": "Historically, Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 71
   },
   {
-    "question_id": 97,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
+    "question": "According to historians, Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 72
   },
   {
-    "question_id": 98,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?",
-    "type": "T/F",
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 73
   },
   {
-    "question_id": 99,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 74
   },
   {
-    "question_id": 100,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Biarritz in 2019?",
-    "type": "T/F",
+    "question": "Historically, In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Pretoria",
+      "b": "Reykjavik",
+      "c": "Biarritz",
+      "d": "Vienna"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 75
+  },
+  {
+    "question": "According to historians, In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pretoria",
+      "b": "Reykjavik",
+      "c": "Biarritz",
+      "d": "Vienna"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 76
+  },
+  {
+    "question": "In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pretoria",
+      "b": "Reykjavik",
+      "c": "Biarritz",
+      "d": "Vienna"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 77
+  },
+  {
+    "question": "In history exams, students may be asked: In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pretoria",
+      "b": "Reykjavik",
+      "c": "Biarritz",
+      "d": "Vienna"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 78
+  },
+  {
+    "question": "Historically, Who attended the March on Washington held in Washington, D.C. in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "Martin Luther King Jr.",
+      "b": "Nelson Mandela",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 79
+  },
+  {
+    "question": "According to historians, Who attended the March on Washington held in Washington, D.C. in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "Martin Luther King Jr.",
+      "b": "Nelson Mandela",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 80
+  },
+  {
+    "question": "Who attended the March on Washington held in Washington, D.C. in 1963 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Martin Luther King Jr.",
+      "b": "Nelson Mandela",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 81
+  },
+  {
+    "question": "In history exams, students may be asked: Who attended the March on Washington held in Washington, D.C. in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "Martin Luther King Jr.",
+      "b": "Nelson Mandela",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 82
+  },
+  {
+    "question": "Historically, Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 83
+  },
+  {
+    "question": "According to historians, Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 84
+  },
+  {
+    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 85
+  },
+  {
+    "question": "In history exams, students may be asked: Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 86
+  },
+  {
+    "question": "Historically, In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Paris",
+      "b": "Pretoria",
+      "c": "Vienna",
+      "d": "Yalta"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 87
+  },
+  {
+    "question": "According to historians, In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Paris",
+      "b": "Pretoria",
+      "c": "Vienna",
+      "d": "Yalta"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 88
+  },
+  {
+    "question": "In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Paris",
+      "b": "Pretoria",
+      "c": "Vienna",
+      "d": "Yalta"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 89
+  },
+  {
+    "question": "In history exams, students may be asked: In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?",
+    "type": "MCQ",
+    "options": {
+      "a": "Paris",
+      "b": "Pretoria",
+      "c": "Vienna",
+      "d": "Yalta"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 90
+  },
+  {
+    "question": "Historically, Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 91
   },
   {
-    "question_id": 101,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
+    "question": "According to historians, Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 92
   },
   {
-    "question_id": 102,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?",
-    "type": "T/F",
+    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 93
   },
   {
-    "question_id": 103,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 94
   },
   {
-    "question_id": 104,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Pretoria in 1994?",
-    "type": "T/F",
+    "question": "Historically, In which city did Martin Luther King Jr. attend the March on Washington held in 1963?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Pretoria",
+      "b": "Washington, D.C.",
+      "c": "Paris",
+      "d": "Vienna"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 95
   },
   {
-    "question_id": 105,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1963?",
-    "type": "T/F",
+    "question": "According to historians, In which city did Martin Luther King Jr. attend the March on Washington held in 1963?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Pretoria",
+      "b": "Washington, D.C.",
+      "c": "Paris",
+      "d": "Vienna"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 96
   },
   {
-    "question_id": 106,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
+    "question": "In which city did Martin Luther King Jr. attend the March on Washington held in 1963 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Pretoria",
+      "b": "Washington, D.C.",
+      "c": "Paris",
+      "d": "Vienna"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 97
   },
   {
-    "question_id": 107,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: In which city did Martin Luther King Jr. attend the March on Washington held in 1963?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Pretoria",
+      "b": "Washington, D.C.",
+      "c": "Paris",
+      "d": "Vienna"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 98
   },
   {
-    "question_id": 108,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?",
-    "type": "T/F",
+    "question": "Historically, Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Winston Churchill",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Emmanuel Macron"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 99
+  },
+  {
+    "question": "According to historians, Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Emmanuel Macron"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 100
+  },
+  {
+    "question": "Who attended the Yalta Conference held in Yalta in 1945 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Emmanuel Macron"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 101
+  },
+  {
+    "question": "In history exams, students may be asked: Who attended the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Emmanuel Macron"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 102
+  },
+  {
+    "question": "Historically, Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 103
+  },
+  {
+    "question": "According to historians, Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 104
+  },
+  {
+    "question": "Did Winston Churchill attend the Yalta Conference held in Yalta in 1945 (historical context)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 105
+  },
+  {
+    "question": "In history exams, students may be asked: Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 106
+  },
+  {
+    "question": "Historically, Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 107
   },
   {
-    "question_id": 109,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?",
-    "type": "T/F",
+    "question": "According to historians, Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 108
   },
   {
-    "question_id": 110,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Biarritz in 2019?",
-    "type": "T/F",
+    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "a",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 109
   },
   {
-    "question_id": 111,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 1945?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 110
   },
   {
-    "question_id": 112,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Berlin in 2015?",
-    "type": "T/F",
+    "question": "Historically, Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 111
   },
   {
-    "question_id": 113,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1961?",
-    "type": "T/F",
+    "question": "According to historians, Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 112
   },
   {
-    "question_id": 114,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Oslo in 1994?",
-    "type": "T/F",
+    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 113
   },
   {
-    "question_id": 115,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1919?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 114
   },
   {
-    "question_id": 116,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Tokyo in 1945?",
-    "type": "T/F",
+    "question": "Historically, Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Jawaharlal Nehru",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Mikhail Gorbachev"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 115
   },
   {
-    "question_id": 117,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1950?",
-    "type": "T/F",
+    "question": "According to historians, Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Jawaharlal Nehru",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Mikhail Gorbachev"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 116
   },
   {
-    "question_id": 118,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Bandung in 1986?",
-    "type": "T/F",
+    "question": "Who attended the 1994 Presidential Inauguration held in Pretoria in 1994 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Jawaharlal Nehru",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Mikhail Gorbachev"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 117
   },
   {
-    "question_id": 119,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1975?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Jawaharlal Nehru",
+      "b": "Franklin D. Roosevelt",
+      "c": "Nelson Mandela",
+      "d": "Mikhail Gorbachev"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 118
   },
   {
-    "question_id": 120,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Washington, D.C. in 2019?",
-    "type": "T/F",
+    "question": "Historically, Who attended the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Nelson Mandela",
+      "b": "Martin Luther King Jr.",
+      "c": "Jawaharlal Nehru",
+      "d": "Barack Obama"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 119
   },
   {
-    "question_id": 121,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 1945?",
-    "type": "T/F",
+    "question": "According to historians, Who attended the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Nelson Mandela",
+      "b": "Martin Luther King Jr.",
+      "c": "Jawaharlal Nehru",
+      "d": "Barack Obama"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 120
   },
   {
-    "question_id": 122,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Berlin in 2015?",
-    "type": "T/F",
+    "question": "Who attended the Bandung Conference held in Bandung in 1955 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Nelson Mandela",
+      "b": "Martin Luther King Jr.",
+      "c": "Jawaharlal Nehru",
+      "d": "Barack Obama"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 121
   },
   {
-    "question_id": 123,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1961?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Who attended the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Nelson Mandela",
+      "b": "Martin Luther King Jr.",
+      "c": "Jawaharlal Nehru",
+      "d": "Barack Obama"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "d",
+    "template_type": "person_event",
+    "question_id": 122
   },
   {
-    "question_id": 124,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Oslo in 1994?",
-    "type": "T/F",
+    "question": "Historically, Who attended the G7 Summit in Biarritz held in Biarritz in 2019?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Mikhail Gorbachev",
+      "b": "Emmanuel Macron",
+      "c": "John F. Kennedy",
+      "d": "Franklin D. Roosevelt"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 123
   },
   {
-    "question_id": 125,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1919?",
-    "type": "T/F",
+    "question": "According to historians, Who attended the G7 Summit in Biarritz held in Biarritz in 2019?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Mikhail Gorbachev",
+      "b": "Emmanuel Macron",
+      "c": "John F. Kennedy",
+      "d": "Franklin D. Roosevelt"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 124
   },
   {
-    "question_id": 126,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Tokyo in 1945?",
-    "type": "T/F",
+    "question": "Who attended the G7 Summit in Biarritz held in Biarritz in 2019 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Mikhail Gorbachev",
+      "b": "Emmanuel Macron",
+      "c": "John F. Kennedy",
+      "d": "Franklin D. Roosevelt"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 125
   },
   {
-    "question_id": 127,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1950?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Who attended the G7 Summit in Biarritz held in Biarritz in 2019?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Mikhail Gorbachev",
+      "b": "Emmanuel Macron",
+      "c": "John F. Kennedy",
+      "d": "Franklin D. Roosevelt"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 126
   },
   {
-    "question_id": 128,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Bandung in 1986?",
-    "type": "T/F",
+    "question": "Historically, Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington, D.C. in 1986?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 127
   },
   {
-    "question_id": 129,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1975?",
-    "type": "T/F",
+    "question": "According to historians, Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington, D.C. in 1986?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 128
   },
   {
-    "question_id": 130,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Washington, D.C. in 2019?",
-    "type": "T/F",
+    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington, D.C. in 1986 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 129
   },
   {
-    "question_id": 131,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 1945?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington, D.C. in 1986?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 130
   },
   {
-    "question_id": 132,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Berlin in 2015?",
-    "type": "T/F",
+    "question": "Historically, Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Franklin D. Roosevelt",
+      "b": "Jawaharlal Nehru",
+      "c": "Nelson Mandela",
+      "d": "Barack Obama"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 131
   },
   {
-    "question_id": 133,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1961?",
-    "type": "T/F",
+    "question": "According to historians, Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Franklin D. Roosevelt",
+      "b": "Jawaharlal Nehru",
+      "c": "Nelson Mandela",
+      "d": "Barack Obama"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 132
   },
   {
-    "question_id": 134,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Oslo in 1994?",
-    "type": "T/F",
+    "question": "Who attended the UN Climate Change Conference COP21 held in Paris in 2015 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Franklin D. Roosevelt",
+      "b": "Jawaharlal Nehru",
+      "c": "Nelson Mandela",
+      "d": "Barack Obama"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 133
   },
   {
-    "question_id": 135,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1919?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Who attended the UN Climate Change Conference COP21 held in Paris in 2015?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Franklin D. Roosevelt",
+      "b": "Jawaharlal Nehru",
+      "c": "Nelson Mandela",
+      "d": "Barack Obama"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "c",
+    "template_type": "person_event",
+    "question_id": 134
   },
   {
-    "question_id": 136,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Tokyo in 1945?",
-    "type": "T/F",
+    "question": "Historically, Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 135
   },
   {
-    "question_id": 137,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1950?",
-    "type": "T/F",
+    "question": "According to historians, Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 136
   },
   {
-    "question_id": 138,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Bandung in 1986?",
-    "type": "T/F",
+    "question": "Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 137
   },
   {
-    "question_id": 139,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1975?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 138
   },
   {
-    "question_id": 140,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Washington, D.C. in 2019?",
-    "type": "T/F",
+    "question": "Historically, In which city did Winston Churchill attend the Yalta Conference held in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Paris",
+      "b": "Yalta",
+      "c": "Reykjavik",
+      "d": "Biarritz"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 139
   },
   {
-    "question_id": 141,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 1945?",
-    "type": "T/F",
+    "question": "According to historians, In which city did Winston Churchill attend the Yalta Conference held in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Paris",
+      "b": "Yalta",
+      "c": "Reykjavik",
+      "d": "Biarritz"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 140
   },
   {
-    "question_id": 142,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Berlin in 2015?",
-    "type": "T/F",
+    "question": "In which city did Winston Churchill attend the Yalta Conference held in 1945 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Paris",
+      "b": "Yalta",
+      "c": "Reykjavik",
+      "d": "Biarritz"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 141
   },
   {
-    "question_id": 143,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1961?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: In which city did Winston Churchill attend the Yalta Conference held in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Paris",
+      "b": "Yalta",
+      "c": "Reykjavik",
+      "d": "Biarritz"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 142
   },
   {
-    "question_id": 144,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Oslo in 1994?",
-    "type": "T/F",
+    "question": "Historically, Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 143
   },
   {
-    "question_id": 145,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1919?",
-    "type": "T/F",
+    "question": "According to historians, Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 144
   },
   {
-    "question_id": 146,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Tokyo in 1945?",
-    "type": "T/F",
+    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 145
   },
   {
-    "question_id": 147,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1950?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 146
   },
   {
-    "question_id": 148,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Bandung in 1986?",
-    "type": "T/F",
+    "question": "Historically, Who attended the Reykjavik Summit held in Reykjavik in 1986?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Angela Merkel",
+      "b": "Mikhail Gorbachev",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 147
   },
   {
-    "question_id": 149,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1975?",
-    "type": "T/F",
+    "question": "According to historians, Who attended the Reykjavik Summit held in Reykjavik in 1986?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Angela Merkel",
+      "b": "Mikhail Gorbachev",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 148
   },
   {
-    "question_id": 150,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Washington, D.C. in 2019?",
-    "type": "T/F",
+    "question": "Who attended the Reykjavik Summit held in Reykjavik in 1986 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Angela Merkel",
+      "b": "Mikhail Gorbachev",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 149
   },
   {
-    "question_id": 151,
-    "question": "Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 1945?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Who attended the Reykjavik Summit held in Reykjavik in 1986?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Angela Merkel",
+      "b": "Mikhail Gorbachev",
+      "c": "Barack Obama",
+      "d": "Winston Churchill"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 150
   },
   {
-    "question_id": 152,
-    "question": "Did Barack Obama attend the UN Climate Change Conference COP21 held in Berlin in 2015?",
-    "type": "T/F",
+    "question": "Historically, In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Reykjavik",
+      "b": "Yalta",
+      "c": "Biarritz",
+      "d": "Vienna"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 151
   },
   {
-    "question_id": 153,
-    "question": "Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1961?",
-    "type": "T/F",
+    "question": "According to historians, In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Reykjavik",
+      "b": "Yalta",
+      "c": "Biarritz",
+      "d": "Vienna"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 152
   },
   {
-    "question_id": 154,
-    "question": "Did Nelson Mandela attend the 1994 Presidential Inauguration held in Oslo in 1994?",
-    "type": "T/F",
+    "question": "In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Reykjavik",
+      "b": "Yalta",
+      "c": "Biarritz",
+      "d": "Vienna"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 153
   },
   {
-    "question_id": 155,
-    "question": "Did Martin Luther King Jr. attend the March on Washington held in Washington, D.C. in 1919?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Reykjavik",
+      "b": "Yalta",
+      "c": "Biarritz",
+      "d": "Vienna"
     },
-    "answer": "b",
-    "template_type": "person_event"
+    "answer": "a",
+    "template_type": "person_event",
+    "question_id": 154
   },
   {
-    "question_id": 156,
-    "question": "Did Winston Churchill attend the Yalta Conference held in Tokyo in 1945?",
-    "type": "T/F",
+    "question": "Historically, Who attended the Vienna Summit held in Vienna in 1961?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "John F. Kennedy",
+      "b": "Emmanuel Macron",
+      "c": "Jawaharlal Nehru",
+      "d": "Barack Obama"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 155
   },
   {
-    "question_id": 157,
-    "question": "Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1950?",
-    "type": "T/F",
+    "question": "According to historians, Who attended the Vienna Summit held in Vienna in 1961?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "John F. Kennedy",
+      "b": "Emmanuel Macron",
+      "c": "Jawaharlal Nehru",
+      "d": "Barack Obama"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 156
   },
   {
-    "question_id": 158,
-    "question": "Did Mikhail Gorbachev attend the Reykjavik Summit held in Bandung in 1986?",
-    "type": "T/F",
+    "question": "Who attended the Vienna Summit held in Vienna in 1961 (historical context)?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "John F. Kennedy",
+      "b": "Emmanuel Macron",
+      "c": "Jawaharlal Nehru",
+      "d": "Barack Obama"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 157
   },
   {
-    "question_id": 159,
-    "question": "Did John F. Kennedy attend the Vienna Summit held in Vienna in 1975?",
-    "type": "T/F",
+    "question": "In history exams, students may be asked: Who attended the Vienna Summit held in Vienna in 1961?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "John F. Kennedy",
+      "b": "Emmanuel Macron",
+      "c": "Jawaharlal Nehru",
+      "d": "Barack Obama"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 158
   },
   {
-    "question_id": 160,
-    "question": "Did Emmanuel Macron attend the G7 Summit in Biarritz held in Washington, D.C. in 2019?",
-    "type": "T/F",
+    "question": "Historically, Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
     },
     "answer": "b",
-    "template_type": "person_event"
+    "template_type": "person_event",
+    "question_id": 159
+  },
+  {
+    "question": "According to historians, Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Not sure",
+      "d": "Not enough information"
+    },
+    "answer": "b",
+    "template_type": "person_event",
+    "question_id": 160
   }
 ]
