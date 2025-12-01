@@ -2078,5 +2078,355 @@
     "answer": "a",
     "template_type": "scientist_collab",
     "question_id": 160
+  },
+  {
+    "question": "Marie Curie collaborated with Pierre Curie on the discovery of polonium.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 161
+  },
+  {
+    "question": "Albert Einstein collaborated with Niels Bohr on developing quantum mechanics.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 162
+  },
+  {
+    "question": "James Watson collaborated with Francis Crick on the structure of DNA.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 163
+  },
+  {
+    "question": "Isaac Newton collaborated with Edmond Halley on predicting Halley’s Comet.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 164
+  },
+  {
+    "question": "Charles Darwin collaborated with Gregor Mendel on evolutionary genetics.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 165
+  },
+  {
+    "question": "Nikola Tesla collaborated with Thomas Edison on designing AC power systems.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 166
+  },
+  {
+    "question": "John Bardeen collaborated with Walter Brattain on the invention of the transistor.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 167
+  },
+  {
+    "question": "Rosalind Franklin collaborated directly with Watson and Crick on X-ray crystallography.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 168
+  },
+  {
+    "question": "Enrico Fermi collaborated with Leo Szilard on nuclear chain reaction experiments.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 169
+  },
+  {
+    "question": "Srinivasa Ramanujan collaborated with G. H. Hardy on analytic number theory.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 170
+  },
+  {
+    "question": "Johannes Kepler collaborated with Galileo Galilei on telescopic astronomy.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 171
+  },
+  {
+    "question": "Linus Pauling collaborated with Robert Corey on models of protein structures.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 172
+  },
+  {
+    "question": "Richard Feynman collaborated with Murray Gell-Mann on quantum field theory.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 173
+  },
+  {
+    "question": "Lise Meitner collaborated with Otto Hahn on the discovery of nuclear fission.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 174
+  },
+  {
+    "question": "Edwin Hubble collaborated with Milton Humason on measuring galaxy redshifts.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 175
+  },
+  {
+    "question": "Alan Turing collaborated with Ada Lovelace on early computer algorithms.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 176
+  },
+  {
+    "question": "Max Planck collaborated with Albert Einstein on the theory of special relativity.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 177
+  },
+  {
+    "question": "Francis Crick collaborated with Sydney Brenner on genetic code research.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 178
+  },
+  {
+    "question": "Carl Sagan collaborated with Frank Drake on SETI-related research.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 179
+  },
+  {
+    "question": "Marie Curie collaborated with Albert Einstein on radioactivity experiments.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 180
+  },
+  {
+    "question": "Niels Bohr collaborated with Werner Heisenberg on quantum mechanics.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 181
+  },
+  {
+    "question": "Gregor Mendel collaborated with Thomas Hunt Morgan on genetics research.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 182
+  },
+  {
+    "question": "Dmitri Mendeleev collaborated with Lothar Meyer on periodic table development.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 183
+  },
+  {
+    "question": "Alexander Fleming collaborated with Howard Florey on penicillin development.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 184
+  },
+  {
+    "question": "Barbara McClintock collaborated with George Beadle on maize genetics.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 185
+  },
+  {
+    "question": "Werner Heisenberg collaborated with Max Born on matrix mechanics.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 186
+  },
+  {
+    "question": "Niels Bohr collaborated with Ernest Rutherford on atomic structure models.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 187
+  },
+  {
+    "question": "Hermann Minkowski collaborated with Albert Einstein on spacetime geometry.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 188
+  },
+  {
+    "question": "Michael Faraday collaborated with James Clerk Maxwell on electromagnetism.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 189
+  },
+  {
+    "question": "Johannes Kepler collaborated with Tycho Brahe on astronomical observations.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 190
+  },
+  {
+    "question": "Benjamin Franklin collaborated with Alessandro Volta on electricity research.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 191
+  },
+  {
+    "question": "Leonardo da Vinci collaborated with Michelangelo on anatomical studies.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 192
+  },
+  {
+    "question": "Robert Boyle collaborated with Robert Hooke on air pump experiments.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 193
+  },
+  {
+    "question": "Ada Lovelace collaborated with Charles Babbage on computational algorithms.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 194
+  },
+  {
+    "question": "Henri Poincaré collaborated with Albert Einstein on relativity theory.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 195
+  },
+  {
+    "question": "Dorothy Hodgkin collaborated with Rosalind Franklin on crystallography imaging.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 196
+  },
+  {
+    "question": "Erwin Schrödinger collaborated with Paul Dirac on quantum wave equations.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 197
+  },
+  {
+    "question": "André-Marie Ampère collaborated with Hans Christian Ørsted on electromagnetism.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 198
+  },
+  {
+    "question": "Paul Dirac collaborated with Enrico Fermi on quantum statistics.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 199
+  },
+  {
+    "question": "Hannes Alfvén collaborated with Kristian Birkeland on plasma physics.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 200
+  },
+  {
+    "question": "James Clerk Maxwell collaborated with Lord Kelvin on thermodynamics.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 201
+  },
+  {
+    "question": "Louis Pasteur collaborated with Robert Koch on germ theory experiments.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 202
+  },
+  {
+    "question": "J. J. Thomson collaborated with Ernest Rutherford on atomic structure research.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 203
+  },
+  {
+    "question": "Marie Curie collaborated with her daughter Irène Joliot-Curie on radioactivity studies.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 204
+  },
+  {
+    "question": "Nikolai Bogoliubov collaborated with Lev Landau on quantum liquids.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 205
+  },
+  {
+    "question": "Stephen Hawking collaborated with Roger Penrose on singularity theorems.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 206
+  },
+  {
+    "question": "Max Born collaborated with Wolfgang Pauli on the exclusion principle.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 207
+  },
+  {
+    "question": "Rosalind Franklin collaborated with Maurice Wilkins on DNA diffraction images.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "scientist_tf_collab",
+    "question_id": 208
+  },
+  {
+    "question": "John Dalton collaborated with Antoine Lavoisier on atomic theory.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 209
+  },
+  {
+    "question": "Johannes Gutenberg collaborated with Leonardo da Vinci on printing press designs.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "scientist_tf_collab",
+    "question_id": 210
   }
 ]

@@ -1,51 +1,51 @@
 [
   {
     "question_id": 1,
-    "question": "Given that the woolly mammoth was adapted to Ice Age tundra, could it survive long-term in a modern tropical rainforest without human-built cold habitats?",
+    "question": "A Tyrannosaurus rex from the late Cretaceous (70 million years ago) could theoretically survive for a few days in the modern era if a large, unpoisoned food source was immediately available.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 2,
-    "question": "If a small population of woolly mammoths were brought into today’s Arctic with human support, which condition would most likely be necessary for their survival?",
+    "question": "If a small group of T. rex were transported to the modern Serengeti plains, what is the most immediate and realistic challenge to their long-term survival?",
     "type": "MCQ",
     "options": {
-      "a": "Year-round access to dense jungle vegetation",
-      "b": "Cool open habitats with ample grasses and shrubs",
-      "c": "Permanent underground cave systems",
-      "d": "Exclusive diet of marine plankton"
+      "a": "The modern immune systems of mammals would instantly kill them",
+      "b": "The difference in atmospheric oxygen content (slightly lower today)",
+      "c": "The lack of other large theropod dinosaurs for mating",
+      "d": "They would find the modern grasses too tough to chew"
     },
     "answer": "b"
   },
   {
     "question_id": 3,
-    "question": "Could a large non-avian dinosaur like Tyrannosaurus rex survive in today’s world if it were suddenly transported here, assuming no immediate human interference?",
+    "question": "A giant dragonfly (Meganeura) from the Carboniferous period (300 million years ago) could breathe the air of the modern era (21% oxygen) if its tracheal system evolved to be more efficient.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 4,
-    "question": "Which factor would most likely make it difficult for a Tyrannosaurus rex to survive in modern ecosystems?",
+    "question": "If a Meganeura were placed in a modern swamp, what environmental factor, significantly changed since the Carboniferous, would most directly prevent it from reaching its historical giant size?",
     "type": "MCQ",
     "options": {
-      "a": "Lack of oxygen in the modern atmosphere",
-      "b": "Changes in prey availability and human-dominated landscapes",
-      "c": "The absence of any plant life",
-      "d": "Complete disappearance of gravity-related effects"
+      "a": "The modern presence of competing birds and bats",
+      "b": "The modern absence of vast coal swamps",
+      "c": "The lower atmospheric oxygen concentration (around 35% then, 21% now)",
+      "d": "Modern gravity being slightly stronger"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 5,
-    "question": "Could a modern human with current biology survive in the Jurassic period without any technological protection?",
+    "question": "A trilobite from the Cambrian period (500 million years ago) would find the salinity of modern seawater within a tolerable range for short-term survival.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -55,19 +55,19 @@
   },
   {
     "question_id": 6,
-    "question": "If humans were transported to the Jurassic period, which challenge would most likely threaten their survival first?",
+    "question": "If a trilobite were introduced into a modern shallow ocean environment, what is the greatest threat to its immediate survival?",
     "type": "MCQ",
     "options": {
-      "a": "Slightly different length of Earth’s day",
-      "b": "Lack of breathable nitrogen",
-      "c": "Exposure to unfamiliar pathogens, predators, and absence of infrastructure",
-      "d": "Total absence of freshwater on the planet"
+      "a": "The lack of plankton food sources (incorrect composition)",
+      "b": "Predation by highly-evolved modern fish, crabs, and cephalopods",
+      "c": "Modern fishing trawlers would scoop them up immediately",
+      "d": "The ambient light levels are too high"
     },
-    "answer": "c"
+    "answer": "b"
   },
   {
     "question_id": 7,
-    "question": "Could a modern polar bear survive in the middle of the last Ice Age if introduced into its natural Arctic-type habitats?",
+    "question": "The feathered dinosaur Archaeopteryx from the Jurassic period (150 million years ago) would possess a metabolic rate high enough to cope with the generally cooler global temperatures of the present day.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -77,41 +77,41 @@
   },
   {
     "question_id": 8,
-    "question": "What would most likely determine whether polar bears could thrive during the Ice Age?",
+    "question": "If an Archaeopteryx attempted to fly in a modern forest, what evolved modern competitor would pose the most significant threat to its ecological niche and survival?",
     "type": "MCQ",
     "options": {
-      "a": "Availability of sea ice and marine mammals as prey",
-      "b": "Presence of flowering garden plants",
-      "c": "Access to tropical coral reefs",
-      "d": "Ability to hibernate like reptiles"
+      "a": "Small, specialized predatory mammals like weasels",
+      "b": "Giant modern snakes hiding in the trees",
+      "c": "Highly efficient, faster-flying modern birds",
+      "d": "Modern insects are too fast to catch"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 9,
-    "question": "Could a modern tropical coral reef survive if it were placed in the cold waters of the last Ice Age oceans without any adaptation?",
+    "question": "An early hominid (Australopithecus afarensis) from the Pliocene (3 million years ago) could not consume modern cultivated crops like corn or wheat without significant intestinal issues.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 10,
-    "question": "Which environmental factor would most likely doom a modern coral reef transplanted into a glacial-period cold ocean?",
+    "question": "If a small troop of Australopithecus afarensis were transported to a modern African savanna, what would be their main source of direct, lethal danger?",
     "type": "MCQ",
     "options": {
-      "a": "Too much dissolved oxygen",
-      "b": "Low temperature and altered chemistry outside corals’ tolerance range",
-      "c": "Lack of volcanic rocks on the seafloor",
-      "d": "Too many flowering plants on land"
+      "a": "The noise pollution from nearby highways",
+      "b": "Aggressive, social modern carnivores like lions, hyenas, and leopards",
+      "c": "They would instantly contract modern human diseases",
+      "d": "The lack of available stone tools"
     },
     "answer": "b"
   },
   {
     "question_id": 11,
-    "question": "Could a trilobite from the Paleozoic era survive in today’s oceans if suddenly revived and placed on a modern seafloor?",
+    "question": "A massive armored fish (Dunkleosteus) from the late Devonian (360 million years ago) would struggle to survive modern ocean depths due to the drastically different water pressure.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -121,19 +121,19 @@
   },
   {
     "question_id": 12,
-    "question": "Which reason best explains why trilobites would struggle in modern oceans?",
+    "question": "If a Dunkleosteus were placed in the modern ocean, what anatomical feature would prove severely inadequate when hunting agile modern prey like tuna or large sharks?",
     "type": "MCQ",
     "options": {
-      "a": "They require liquid methane instead of water",
-      "b": "Modern marine ecosystems have new predators and competitors they never evolved with",
-      "c": "They cannot tolerate any level of dissolved oxygen",
-      "d": "They can only live in freshwater lakes"
+      "a": "Its incredible speed and agility (false)",
+      "b": "Its enormous eyes and sensory organs",
+      "c": "Its heavy, restrictive armored plates",
+      "d": "Its lack of bone jaws (replaced by sharp bone plates) for gripping and chewing"
     },
-    "answer": "b"
+    "answer": "d"
   },
   {
     "question_id": 13,
-    "question": "Could a modern cockroach survive in a Carboniferous forest, where oxygen levels were higher than today?",
+    "question": "The giant ground sloth (Megatherium) from the Pleistocene (10,000 years ago) would primarily suffer from starvation in the modern Amazon rainforest due to the lack of its specific megaflora diet.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -143,41 +143,41 @@
   },
   {
     "question_id": 14,
-    "question": "Why might modern insects like cockroaches be able to survive in the Carboniferous period?",
+    "question": "If a Megatherium was dropped into a modern South American habitat, what would be its most critical missing element for dietary success?",
     "type": "MCQ",
     "options": {
-      "a": "They can photosynthesize like plants",
-      "b": "They are small generalists that can feed on many decaying plant materials",
-      "c": "They require total darkness at all times",
-      "d": "They need extremely low oxygen levels"
+      "a": "The lower density of modern jungle undergrowth",
+      "b": "The lack of its symbiotic gut bacteria required to digest modern plants",
+      "c": "The absence of the giant, slow-growing trees it preferred to eat",
+      "d": "Modern parasites and diseases"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 15,
-    "question": "Could a Neanderthal, if transported to the present day, physically survive Earth’s modern atmosphere and gravity without medical support?",
+    "question": "A pterosaur (Quetzalcoatlus) from the late Cretaceous would fail to launch itself for flight in the modern atmosphere due to the increased density of the air.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 16,
-    "question": "What would be the main challenges for a Neanderthal trying to live in the present era, assuming basic shelter and food are provided?",
+    "question": "If a Quetzalcoatlus were flying over a modern city, what is the most scientifically sound reason it would struggle to find sufficient food?",
     "type": "MCQ",
     "options": {
-      "a": "Incompatible blood type with modern oxygen",
-      "b": "Inability to see visible light",
-      "c": "Social, cultural, and disease-related adaptation issues",
-      "d": "Lack of bones adapted to walking upright"
+      "a": "Its eyesight would be impaired by modern light pollution",
+      "b": "Modern cities lack the tall cliffs and mountains needed for nesting",
+      "c": "Its required daily caloric intake is too vast to be met by modern aerial prey distribution",
+      "d": "The abundance of modern power lines would be fatal"
     },
     "answer": "c"
   },
   {
     "question_id": 17,
-    "question": "Could a sabertooth cat (Smilodon) survive in a modern African savanna if introduced with naturally occurring prey species and no human interference?",
+    "question": "The first true land plants (Cooksonia) from the Silurian period (425 million years ago) would be quickly outcompeted by modern mosses and lichens.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -187,19 +187,19 @@
   },
   {
     "question_id": 18,
-    "question": "Which factor would most strongly influence whether sabertooth cats could establish a stable population today?",
+    "question": "If Cooksonia were planted in a modern flower pot, what primitive feature would make it incapable of reaching any significant height?",
     "type": "MCQ",
     "options": {
-      "a": "Presence of modern herbivores of appropriate size and density",
-      "b": "Availability of coniferous forest with snow",
-      "c": "Access to deep ocean trenches",
-      "d": "Requirement for low-oxygen mountaintops only"
+      "a": "The lack of complex root systems for nutrient absorption",
+      "b": "Its inability to perform photosynthesis in modern light conditions",
+      "c": "The absence of rigid woody structures (lignin) to support weight against gravity",
+      "d": "The high concentrations of nitrogen in modern soil"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 19,
-    "question": "Could a modern blue whale survive in Jurassic seas if transported there with adequate krill-like prey available?",
+    "question": "A woolly rhinoceros from the Pleistocene (20,000 years ago) would suffer from heat stroke within a modern temperate climate like the Netherlands.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -209,85 +209,85 @@
   },
   {
     "question_id": 20,
-    "question": "Which condition would be most critical for a blue whale surviving in Jurassic oceans?",
+    "question": "If a woolly rhino was placed in a modern Siberian climate (its original range), what key missing element of its food source would quickly lead to malnutrition?",
     "type": "MCQ",
     "options": {
-      "a": "Water made only of fresh snowmelt",
-      "b": "Sufficient biomass of small planktonic organisms to filter-feed on",
-      "c": "Completely silent oceans with no other life",
-      "d": "Only shallow lakes and rivers"
+      "a": "Modern predatory wolves are too numerous",
+      "b": "The extinction of the specific giant ferns it relied upon",
+      "c": "The loss of the vast, dry **mammoth steppe** grasslands and replacement by modern mossy tundra",
+      "d": "The absence of glaciers to rub its thick fur against"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 21,
-    "question": "Could early land plants from the Devonian era tolerate the modern atmosphere, given that oxygen levels and CO2 are different today?",
+    "question": "A giant marine reptile (Ichthyosaur) from the Triassic period (200 million years ago) would be able to compete successfully with modern dolphins and whales.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 22,
-    "question": "What would most likely determine whether Devonian plants could survive in modern environments?",
+    "question": "If an Ichthyosaur was swimming in the modern Pacific Ocean, what critical biological disadvantage would it have against a modern predator like a Great White Shark?",
     "type": "MCQ",
     "options": {
-      "a": "Their ability to adapt to new herbivores and climate conditions",
-      "b": "The existence of giant insects over three meters tall",
-      "c": "The absence of any soil bacteria",
-      "d": "A total lack of rainfall on Earth"
+      "a": "Its primitive skeletal structure would not allow for high-speed pursuit",
+      "b": "It would be unable to communicate effectively in modern sonar conditions",
+      "c": "It is cold-blooded and would quickly freeze in modern deep waters",
+      "d": "Its requirement for land-based egg-laying would be unmet"
     },
     "answer": "a"
   },
   {
     "question_id": 23,
-    "question": "Could a modern cactus species like the saguaro survive in the wetter, cooler conditions of the last glacial maximum without any changes?",
+    "question": "A massive amphibian (Prionosuchus) from the Permian period (270 million years ago) would find the salinity of modern tropical rivers too high for its freshwater-dependent eggs.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 24,
-    "question": "Which scenario would give a desert cactus the best chance of surviving during the last Ice Age?",
+    "question": "If Prionosuchus was hunting in a modern swamp, what modern predator, which did not exist in the Permian, would pose the most significant threat to its young?",
     "type": "MCQ",
     "options": {
-      "a": "Placement in a cold, dry steppe with well-drained soil and occasional warmth",
-      "b": "Submerging it in glacial meltwater lakes year-round",
-      "c": "Keeping it permanently in deep shade of dense rainforests",
-      "d": "Moving it to the ocean floor"
+      "a": "Giant modern turtles",
+      "b": "Small, aggressive piranhas",
+      "c": "Modern apex predators like crocodiles and alligators",
+      "d": "Evolved aquatic insects"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 25,
-    "question": "Could modern humans survive as hunter-gatherers in the late Pleistocene environment if they had no technology beyond stone tools and clothing?",
+    "question": "A tree-sized fern (Psaronius) from the Permian period would be immune to most modern fungal diseases due to its ancient biochemistry.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
-  },
-  {
-    "question_id": 26,
-    "question": "Which factor would most support modern humans surviving in the late Pleistocene era?",
-    "type": "MCQ",
-    "options": {
-      "a": "Their ability to digest rocks and minerals directly",
-      "b": "Their complex social learning and problem-solving skills",
-      "c": "Immunity to all infectious diseases automatically",
-      "d": "Genetic resistance to cold that requires no clothing"
-    },
     "answer": "b"
   },
   {
+    "question_id": 26,
+    "question": "If a Psaronius was growing in a modern environment, what modern plant life trait would pose the biggest challenge to its long-term resource competition?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its large, water-guzzling fronds",
+      "b": "Its need for massive amounts of volcanic ash nutrients",
+      "c": "Its primitive method of reproduction via spores instead of seeds",
+      "d": "The shade cast by smaller, faster-growing modern angiosperms (flowering plants)"
+    },
+    "answer": "c"
+  },
+  {
     "question_id": 27,
-    "question": "Could a modern house cat survive in an early agricultural Neolithic village environment if transported back in time?",
+    "question": "A large predatory reptile (Postosuchus) from the Triassic (220 million years ago) would struggle to breathe the air on Mount Everest due to the lower oxygen concentration.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -297,41 +297,41 @@
   },
   {
     "question_id": 28,
-    "question": "What advantage would a modern house cat likely have in a Neolithic setting?",
+    "question": "If a Postosuchus (a non-dinosaur archosaur) were placed in the modern American Southwest desert, what type of evolved competitor would dominate the environment it once ruled?",
     "type": "MCQ",
     "options": {
-      "a": "Ability to communicate using human speech",
-      "b": "Instinct to hunt rodents, reducing grain loss",
-      "c": "Photosynthesis through its fur",
-      "d": "Requirement to live only in saltwater"
+      "a": "Modern predatory birds (e.g., eagles)",
+      "b": "Highly venomous modern snakes and scorpions",
+      "c": "Fast-running, warm-blooded modern mammals (e.g., coyotes, deer)",
+      "d": "The modern absence of giant conifer forests"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 29,
-    "question": "Could a large flightless bird like a moa survive in a modern fenced wildlife reserve if humans protected it from major predators?",
+    "question": "A marine ammonite from the Cretaceous (100 million years ago) would find the pH levels of modern oceans acceptable for its shell growth.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
-  },
-  {
-    "question_id": 30,
-    "question": "What would be the primary requirement for a reintroduced moa in the modern era to survive?",
-    "type": "MCQ",
-    "options": {
-      "a": "A diet consisting entirely of plastic",
-      "b": "A large, suitable grazing habitat with controlled predators",
-      "c": "Constant exposure to bright city lights",
-      "d": "Living only inside underground caves"
-    },
     "answer": "b"
   },
   {
+    "question_id": 30,
+    "question": "If an ammonite were introduced into the modern deep ocean, what human-caused factor would pose the greatest threat to its shell formation and survival?",
+    "type": "MCQ",
+    "options": {
+      "a": "The increase in modern plastic pollution",
+      "b": "The lower water temperatures at depth",
+      "c": "Ocean acidification due to increased atmospheric $\\text{CO}_2$ absorption",
+      "d": "Its inability to avoid the noise from modern submarines"
+    },
+    "answer": "c"
+  },
+  {
     "question_id": 31,
-    "question": "Could a modern oak tree survive in a mild climate of the early Holocene, similar to just after the last Ice Age?",
+    "question": "A saber-toothed cat (Smilodon) from the Pleistocene (15,000 years ago) would be unable to outrun modern prey like a pronghorn antelope over long distances.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -341,41 +341,41 @@
   },
   {
     "question_id": 32,
-    "question": "Which aspect of early Holocene environments would most help modern oak trees survive?",
+    "question": "If a Smilodon was hunting in a modern North American forest, what is the most critical missing element of its historical prey base that prevents successful hunting?",
     "type": "MCQ",
     "options": {
-      "a": "Presence of soil, seasonal climate, and sufficient rainfall",
-      "b": "Total absence of carbon dioxide",
-      "c": "Only frozen tundra with no liquid water",
-      "d": "Complete lack of insect life"
+      "a": "The lack of dense fog for ambushes",
+      "b": "The absence of large, slow-moving megafauna (mammoths, giant bison) suitable for ambush hunting",
+      "c": "Modern human infrastructure and fencing",
+      "d": "The absence of suitable caves for denning"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 33,
-    "question": "Could modern freshwater fish like trout survive in many ancient lakes if water chemistry and temperature were within their tolerances?",
+    "question": "A small mammal (Purgatorius) from the Paleocene (65 million years ago) would find the modern global temperature too cold for its survival.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
-  },
-  {
-    "question_id": 34,
-    "question": "What would be most important for a trout transplanted into a late Pleistocene lake?",
-    "type": "MCQ",
-    "options": {
-      "a": "Having identical fish species as neighbors",
-      "b": "Appropriate oxygen levels, temperature, and food sources",
-      "c": "Presence of electronic sonar devices",
-      "d": "Being exposed to modern fishing lures"
-    },
     "answer": "b"
   },
   {
+    "question_id": 34,
+    "question": "If Purgatorius were living in a modern ecosystem, what would be the biggest threat from the evolved food web?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its reliance on ancient, soft-shelled insects for food",
+      "b": "Modern plant toxins that its ancient digestive system cannot process",
+      "c": "Intense competition from highly specialized modern rodents and shrews",
+      "d": "The modern absence of giant ferns"
+    },
+    "answer": "c"
+  },
+  {
     "question_id": 35,
-    "question": "Could a modern honeybee colony survive in a world without flowering plants, such as before angiosperms evolved?",
+    "question": "A giant predatory bird (Gastornis) from the Eocene (50 million years ago) would be able to physically overpower modern apex predators like the grizzly bear.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -385,19 +385,19 @@
   },
   {
     "question_id": 36,
-    "question": "Why would a pre-flowering-plant Earth be inhospitable to modern honeybees?",
+    "question": "If a Gastornis was introduced to a modern habitat, what key anatomical difference from modern birds would severely limit its diet options?",
     "type": "MCQ",
     "options": {
-      "a": "No nectar or pollen sources from flowers",
-      "b": "Complete lack of sunlight",
-      "c": "Atmosphere made only of helium",
-      "d": "Earth spinning too slowly"
+      "a": "Its lack of feathers for insulation",
+      "b": "Its inability to communicate with modern birds",
+      "c": "Its lack of evolved talons and reliance on a heavy beak for crushing",
+      "d": "Its inability to drink modern water"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 37,
-    "question": "Could a modern camel survive in a Pleistocene cold steppe environment if given enough dry vegetation and shelter?",
+    "question": "An early bony fish (Tiktaalik) from the late Devonian (375 million years ago) would find the modern shallow water temperatures too warm to survive.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -407,19 +407,19 @@
   },
   {
     "question_id": 38,
-    "question": "What trait might help camels in a Pleistocene steppe landscape?",
+    "question": "If Tiktaalik was placed on a modern riverbank, what is the most realistic disadvantage it would face compared to a modern amphibian like a salamander?",
     "type": "MCQ",
     "options": {
-      "a": "Ability to store fat and endure scarce food and water",
-      "b": "Need for constant tropical rainfall",
-      "c": "Dependence on coral reefs",
-      "d": "Requirement of zero wind"
+      "a": "Its primitive, heavy pectoral fins would be useless for terrestrial movement",
+      "b": "It would be immediately targeted by mosquitoes",
+      "c": "It would be unable to find suitable nesting material",
+      "d": "Its ancient scales would dissolve in modern water"
     },
     "answer": "a"
   },
   {
     "question_id": 39,
-    "question": "Could a Velociraptor-sized dinosaur survive in dense modern cities if released without any control?",
+    "question": "A giant squid (Architeuthis dux) from the deep modern ocean could not survive in the shallow waters of the Cretaceous period due to the primitive prey base.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -429,63 +429,41 @@
   },
   {
     "question_id": 40,
-    "question": "What modern factor would most threaten a medium-sized predatory dinosaur in today’s world?",
+    "question": "If a modern Giant Squid were transported to the deep Cretaceous ocean, what evolved biological feature would give it a massive advantage over Cretaceous marine reptiles?",
     "type": "MCQ",
     "options": {
-      "a": "Abundance of artificial lighting only",
-      "b": "Human conflict, habitat fragmentation, and lack of stable wild prey populations",
-      "c": "Presence of domestic cats",
-      "d": "Too many trees"
+      "a": "Its extremely high blood pressure",
+      "b": "Its highly developed camouflage and fast jet propulsion system",
+      "c": "Its massive size compared to the smaller prey of that time",
+      "d": "Its inability to be infected by Cretaceous pathogens"
     },
     "answer": "b"
   },
   {
     "question_id": 41,
-    "question": "Could a bacteria species from the Paleozoic era potentially survive in today’s oceans, given that microbes often tolerate wide ranges of conditions?",
+    "question": "A stem-mammal (Dimetrodon) from the Permian (280 million years ago) would be unable to survive in a modern environment due to a lack of trees for climbing.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 42,
-    "question": "Which feature of many bacteria makes them more likely to survive across different geological periods?",
+    "question": "If a Dimetrodon were introduced into a modern, temperate forest, what feature, related to its ancient physiology, would limit its ability to hunt effectively?",
     "type": "MCQ",
     "options": {
-      "a": "Large body size and slow reproduction",
-      "b": "Ability to form spores, rapid evolution, and wide tolerance ranges",
-      "c": "Need for carefully cooked food",
-      "d": "Dependence on human-made antibiotics"
+      "a": "Its specialized diet of ancient, extinct amphibians",
+      "b": "Its reliance on ectothermy (being cold-blooded) in modern temperature shifts",
+      "c": "Its massive sail would catch on modern vegetation",
+      "d": "Its inability to drink modern running water"
     },
     "answer": "b"
   },
   {
     "question_id": 43,
-    "question": "Could a modern oak forest persist during a brief period of cooler climate, similar to a small glacial fluctuation, if precipitation remained adequate?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 44,
-    "question": "What factor would help modern oaks survive a moderate cooling event?",
-    "type": "MCQ",
-    "options": {
-      "a": "Their complete immunity to frostbite",
-      "b": "Their ability to grow roots in lava",
-      "c": "Their capacity to withstand seasonal temperature changes",
-      "d": "Their need to live underwater"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 45,
-    "question": "Could a modern rainforest frog species survive if transplanted into a temperate forest with cold winters and occasional snow?",
+    "question": "A planktonic organism from the Precambrian (600 million years ago) would find the nutrient composition of modern ocean water to be completely toxic.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -494,20 +472,42 @@
     "answer": "b"
   },
   {
-    "question_id": 46,
-    "question": "Which condition would be most necessary for a tropical frog’s survival in a different time or climate?",
+    "question_id": 44,
+    "question": "If Precambrian single-celled life were introduced into a modern coastal environment, what newly evolved defensive mechanism would modern bacteria possess that the ancient life would lack?",
     "type": "MCQ",
     "options": {
-      "a": "Stable warm temperatures and high humidity",
-      "b": "Exposure to freezing winds",
-      "c": "Living exclusively on dry sand",
-      "d": "Staying in direct sunlight all day"
+      "a": "Resistance to modern antibiotics",
+      "b": "The ability to consume modern plastic particles",
+      "c": "Highly complex cell walls and signaling mechanisms against competitors",
+      "d": "The ability to survive in deep, lightless water"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 45,
+    "question": "The first complex arthropod (Anomalocaris) from the Cambrian (500 million years ago) would struggle to survive modern ocean depths due to pressure changes.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
     },
     "answer": "a"
   },
   {
+    "question_id": 46,
+    "question": "If an Anomalocaris were hunting in the modern ocean, what key anatomical difference would make it completely inefficient compared to a modern shrimp or crab?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its incredible size would make it an easy target",
+      "b": "Its lack of calcified (hard) shell armor for protection",
+      "c": "Its primitive stalked eyes for finding prey",
+      "d": "Its requirement for specific ancient mineral concentrations in water"
+    },
+    "answer": "b"
+  },
+  {
     "question_id": 47,
-    "question": "Could modern humans survive in the time before dinosaurs, when large amphibians and early reptiles dominated, if they had basic tools and shelters?",
+    "question": "A massive predatory shark (Megalodon) from the Miocene (15 million years ago) would find the modern ocean temperatures too cold to maintain its high metabolic rate.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -517,63 +517,63 @@
   },
   {
     "question_id": 48,
-    "question": "What would be the main threats to humans in a pre-dinosaur environment?",
+    "question": "If a Megalodon were hunting in the modern ocean, what is the most critical missing element of its historical prey base that prevents successful feeding?",
     "type": "MCQ",
     "options": {
-      "a": "Lack of any gravity",
-      "b": "Predators, disease, and unfamiliar climates with no infrastructure",
-      "c": "Total absence of water on Earth",
-      "d": "Atmosphere made entirely of nitrogen-free oxygen"
+      "a": "Modern whales are too fast and intelligent",
+      "b": "The extinction of the giant, slow-moving baleen whales and sea cows it relied upon",
+      "c": "The modern absence of giant squid",
+      "d": "The high volume of modern container ships"
     },
     "answer": "b"
   },
   {
     "question_id": 49,
-    "question": "Could a modern dairy cow survive in an early medieval European setting with human care similar to historical cattle breeds?",
+    "question": "A giant flightless bird (Moa) from New Zealand (extinct about 500 years ago) would not be able to digest modern wheat or corn.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 50,
-    "question": "What would cows primarily need to survive in a medieval time period?",
+    "question": "If a Moa was reintroduced to modern New Zealand, what would be the biggest threat to its chicks that did not exist in its original ecosystem?",
     "type": "MCQ",
     "options": {
-      "a": "Electric fences and automatic doors",
-      "b": "Pasture, water, and basic veterinary-type care from humans",
-      "c": "A constant supply of refined sugar",
-      "d": "Air conditioning"
+      "a": "The overabundance of native kiwis",
+      "b": "Predation by introduced mammalian pests (rats, stoats, domestic cats)",
+      "c": "The loss of the specific tall grasses it ate",
+      "d": "The lower density of modern native forest"
     },
     "answer": "b"
   },
   {
     "question_id": 51,
-    "question": "Could a modern wheat variety grow in soils of an early agricultural settlement if climate and soil nutrients were compatible?",
+    "question": "The largest land mammal (Paraceratherium) from the Oligocene (30 million years ago) would be unable to survive in the modern environment due to a lack of suitable fresh water sources.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
-  },
-  {
-    "question_id": 52,
-    "question": "What factor would most influence a modern wheat plant’s survival in a Neolithic field?",
-    "type": "MCQ",
-    "options": {
-      "a": "Presence of fossilized dinosaur bones",
-      "b": "Temperature, rainfall, soil fertility, and human cultivation",
-      "c": "Ability to drink only seawater",
-      "d": "Being planted on bare rock"
-    },
     "answer": "b"
   },
   {
+    "question_id": 52,
+    "question": "If Paraceratherium were foraging in a modern Asian forest, what evolved plant defensive mechanism would pose a challenge to its feeding?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its primitive skin would be sensitive to modern UV light",
+      "b": "The physical structure of modern, tougher grasses",
+      "c": "Chemical toxins newly evolved in modern flowering plants (angiosperms)",
+      "d": "The absence of large, flat feeding plains"
+    },
+    "answer": "c"
+  },
+  {
     "question_id": 53,
-    "question": "Could a modern marine turtle survive in Cretaceous seas if there were similar temperatures and nesting beaches available?",
+    "question": "An early hominid (Homo erectus) from 1.5 million years ago would be able to physically overpower an unarmored modern human in a one-on-one fight.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -583,19 +583,19 @@
   },
   {
     "question_id": 54,
-    "question": "Which challenge would a modern turtle likely face in Cretaceous oceans?",
+    "question": "If a troop of Homo erectus were transported to a modern temperate European forest, what modern factor would pose the greatest barrier to maintaining a healthy population?",
     "type": "MCQ",
     "options": {
-      "a": "Different predator species and competition patterns",
-      "b": "Lack of any water at all",
-      "c": "Gravity being sideways",
-      "d": "The Sun setting twice a day"
+      "a": "The lack of sufficient prey animals",
+      "b": "The inability to adapt their ancient fire-making techniques to modern wood",
+      "c": "Competition with the massive, organized population of Homo sapiens",
+      "d": "The prevalence of modern bacteria and viruses"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 55,
-    "question": "Could a modern grizzly bear survive in an untouched European forest of the late Pleistocene, given enough prey and no humans?",
+    "question": "A giant sea scorpion (Pterygotus) from the Silurian period (420 million years ago) would struggle to survive in modern freshwater rivers due to osmotic shock.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -605,41 +605,41 @@
   },
   {
     "question_id": 56,
-    "question": "What would be key to a grizzly bear’s survival in prehistoric Europe?",
+    "question": "If Pterygotus were hunting in the modern ocean, what key difference in the modern food web would threaten its survival?",
     "type": "MCQ",
     "options": {
-      "a": "Availability of large herbivores, fish, and plant foods",
-      "b": "Daily access to concrete sidewalks",
-      "c": "Continuous artificial light",
-      "d": "Total absence of seasons"
+      "a": "The modern absence of massive soft-bodied worms",
+      "b": "Its inability to cope with the increased acidity of modern water",
+      "c": "The emergence of powerful, bony-skeletoned fish and sharks as apex predators",
+      "d": "The lower salt content of modern seawater"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 57,
-    "question": "Could a modern sunflower survive in an early Cretaceous meadow if climate and soil were roughly similar but pollinators were different?",
+    "question": "The first flowering plants (Archaefructus) from the early Cretaceous (125 million years ago) would be unable to produce viable seeds in modern soil conditions.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 58,
-    "question": "What factor would be most critical for a modern sunflower in a different time period?",
+    "question": "If Archaefructus were grown today, what modern phenomenon would make its ancient, open-carpel flower structure extremely inefficient for reproduction?",
     "type": "MCQ",
     "options": {
-      "a": "Having some pollinating insects or wind for reproduction",
-      "b": "Direct connection to Earth’s core",
-      "c": "Living under constant volcanic ash",
-      "d": "Being underwater at all times"
+      "a": "The speed of modern climate change",
+      "b": "Competition with modern flowering plants for insect pollinators",
+      "c": "The high levels of modern atmospheric $\\text{CO}_2$",
+      "d": "Its inability to attract modern bees"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 59,
-    "question": "Could a modern shark species like the great white survive in many ancient seas if prey and temperature were appropriate?",
+    "question": "A massive aquatic dinosaur (Spinosaurus) from the Cretaceous (100 million years ago) would struggle to breathe the air in a modern high-altitude lake.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -649,19 +649,19 @@
   },
   {
     "question_id": 60,
-    "question": "What condition is most important for a shark to survive in a different geological era?",
+    "question": "If a Spinosaurus were hunting in a modern African river, what evolved defensive mechanism in modern prey would make its historical hunting style inefficient?",
     "type": "MCQ",
     "options": {
-      "a": "Correct salinity, temperature, and sufficient prey",
-      "b": "Availability of plastic waste",
-      "c": "Presence of underwater cities",
-      "d": "Need for zero other species in the ocean"
+      "a": "The lack of massive, slow-moving fish (like coelacanths) from its time",
+      "b": "The agility and streamlined body shapes of modern, specialized fish",
+      "c": "The high levels of human pollution in modern rivers",
+      "d": "Its massive sail would be a hindrance in modern water flow"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 61,
-    "question": "Could a large Ice Age herbivore like the woolly rhinoceros survive in today’s Arctic tundra if humans left it alone and it had enough food?",
+    "question": "A giant shark (Stethacanthus) from the Carboniferous (320 million years ago) would quickly freeze in modern Antarctic waters due to its primitive circulatory system.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -671,19 +671,19 @@
   },
   {
     "question_id": 62,
-    "question": "Which factor would most challenge the woolly rhinoceros in the modern world?",
+    "question": "If a Stethacanthus were hunting in a modern deep-sea habitat, what is the most significant disadvantage of its ancient sensory system compared to a modern shark?",
     "type": "MCQ",
     "options": {
-      "a": "Competition with modern large herbivores and human land use",
-      "b": "Lack of nitrogen in the air",
-      "c": "Earth’s slower rotation",
-      "d": "Absence of any sunlight"
+      "a": "Its reliance on only sight for hunting",
+      "b": "Its inability to detect modern electromagnetic fields",
+      "c": "The primitive nature of its electroreception (Ampullae of Lorenzini)",
+      "d": "The modern absence of giant bony fish"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 63,
-    "question": "Could a modern pine forest persist during a mild warming trend similar to past interglacial periods, assuming rainfall remains adequate?",
+    "question": "The first mammal-like reptile (Lystrosaurus) from the Triassic (250 million years ago) would find the nutrient quality of modern plants too low for its high-bulk diet.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -693,19 +693,19 @@
   },
   {
     "question_id": 64,
-    "question": "What adaptation helps pines survive across different time periods and climates?",
+    "question": "If a Lystrosaurus were grazing in a modern grassland, what key anatomical feature of modern plants would damage its teeth and prevent effective feeding?",
     "type": "MCQ",
     "options": {
-      "a": "Need for only one specific temperature",
-      "b": "Long-lived needles, cones, and tolerance to varied soils",
-      "c": "Ability to breathe underwater",
-      "d": "Requirement for daily snowstorms"
+      "a": "The sticky sap produced by modern weeds",
+      "b": "Its digestive system cannot process modern cellulose",
+      "c": "The presence of high levels of abrasive **silica phytoliths** in modern grasses",
+      "d": "The height of modern grazing plants"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 65,
-    "question": "Could a modern earthworm species survive in ancient soils if organic matter and moisture were present?",
+    "question": "A giant flightless bird (Dodo) from the Mascarenes (extinct 350 years ago) would not be able to defend itself against modern predatory dogs or pigs.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -715,19 +715,19 @@
   },
   {
     "question_id": 66,
-    "question": "What would most influence an earthworm’s survival in a different geological era?",
+    "question": "If the Dodo were reintroduced to its native island, what is the most significant threat to its nesting success that it never faced prior to its extinction?",
     "type": "MCQ",
     "options": {
-      "a": "Presence of predators the size of skyscrapers",
-      "b": "Soil composition, moisture, and organic material availability",
-      "c": "Access to Wi-Fi",
-      "d": "Ability to read written language"
+      "a": "The aggressive nesting of modern seabirds",
+      "b": "The lack of its native giant fruit tree food source",
+      "c": "Predation on its eggs and chicks by introduced mammalian pests (rats, stoats, pigs)",
+      "d": "The massive change in island climate"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 67,
-    "question": "Could a modern polar fox survive during a colder glacial period if it had access to appropriate prey, such as small mammals or carrion?",
+    "question": "An early vascular plant (Rhynia) from the Devonian (410 million years ago) would quickly wither in a modern forest due to competition for sunlight.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -737,19 +737,41 @@
   },
   {
     "question_id": 68,
-    "question": "What key adaptation makes arctic foxes suitable for glacial climates?",
+    "question": "If Rhynia were growing in a modern environment, what primitive anatomical limitation would make it particularly vulnerable to modern drought conditions?",
     "type": "MCQ",
     "options": {
-      "a": "Thin fur and heat-loving biology",
-      "b": "Thick insulating fur, compact bodies, and flexible diets",
-      "c": "Ability to photosynthesize",
-      "d": "Need to live only in volcanoes"
+      "a": "Its reliance on specialized ancient fungi",
+      "b": "Its inability to control water loss efficiently due to a lack of true leaves and simple stomata",
+      "c": "Its need for ancient, carbon-rich soil",
+      "d": "The shade cast by modern large trees"
     },
     "answer": "b"
   },
   {
     "question_id": 69,
-    "question": "Could a modern rainforest canopy bird survive in an open grassland environment typical of certain past epochs without forest cover?",
+    "question": "A massive aquatic dinosaur (Plesiosaurus) from the Jurassic (170 million years ago) would find the deep waters of the modern ocean too cold for its survival.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "If a Plesiosaurus were hunting in the modern ocean, what key physical difference from modern marine mammals would make it inefficient at long-duration dives?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its long neck would cause drag",
+      "b": "Its lower lung capacity and lack of specialized blood oxygen storage compared to whales",
+      "c": "Its inability to process modern fish oils",
+      "d": "Its skin would be sensitive to modern salinity"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 71,
+    "question": "A large marsupial predator (Thylacine) from the early 20th century Tasmania could not digest modern farm animal meat (beef, pork) due to evolved dietary specialization.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -758,42 +780,20 @@
     "answer": "b"
   },
   {
-    "question_id": 70,
-    "question": "Which factor would most limit a forest bird’s survival in a treeless ancient grassland?",
-    "type": "MCQ",
-    "options": {
-      "a": "Lack of trees for nesting, shelter, and preferred food resources",
-      "b": "Presence of soil",
-      "c": "Availability of open sky",
-      "d": "Existence of small rivers"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 71,
-    "question": "Could a modern penguin species survive in a warmer Eocene polar sea if water were cool enough and food was abundant?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
     "question_id": 72,
-    "question": "What would be most important for penguins in an ancient, somewhat warmer polar ocean?",
+    "question": "If a Thylacine were reintroduced to Tasmania today, what is the greatest challenge to its long-term survival that is directly related to its extinction cause?",
     "type": "MCQ",
     "options": {
-      "a": "Access to fish and safe breeding grounds",
-      "b": "Total absence of any other marine life",
-      "c": "Ability to fly long distances",
-      "d": "Human-manufactured ice cubes"
+      "a": "The lack of its original prey (wallabies)",
+      "b": "The low genetic diversity of the remaining hypothetical population",
+      "c": "Its lack of defense against modern machinery (cars, traps)",
+      "d": "Competition from modern foxes and dingoes"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 73,
-    "question": "Could a modern rice variety survive in a prehistoric tropical floodplain, assuming seasonal flooding and warm temperatures are similar?",
+    "question": "A primitive shark (Cladoselache) from the Devonian (370 million years ago) would find the modern ocean currents too powerful for its simple fin structure.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -803,19 +803,19 @@
   },
   {
     "question_id": 74,
-    "question": "Which condition would most help rice survive in an ancient floodplain?",
+    "question": "If a Cladoselache were hunting in the modern ocean, what key feature of its anatomy would make it dramatically slower than a modern shark?",
     "type": "MCQ",
     "options": {
-      "a": "Regular water supply, warm temperatures, and nutrient-rich soils",
-      "b": "Permanent drought and frozen ground",
-      "c": "Only solid rock surfaces",
-      "d": "Total darkness"
+      "a": "Its reliance on gills instead of lungs",
+      "b": "Its inability to find deep-water prey",
+      "c": "Its lack of evolved vertebrae and stiff, less maneuverable fins",
+      "d": "Its heavy bone structure (false, it was cartilage)"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 75,
-    "question": "Could a modern rabbit survive in an Ice Age steppe if it had enough vegetation to eat and burrow sites?",
+    "question": "A massive flightless bird (Diatryma) from the Eocene (55 million years ago) would be unable to consume the nuts and seeds of modern trees due to their evolved hardness.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -825,63 +825,63 @@
   },
   {
     "question_id": 76,
-    "question": "What would primarily determine a rabbit’s survival in an Ice Age environment?",
+    "question": "If a Diatryma were running through a modern forest, what aggressive, social competitor would pose the greatest threat to its foraging success?",
     "type": "MCQ",
     "options": {
-      "a": "Its ability to wear clothing",
-      "b": "Availability of food, shelter, and ability to avoid predators",
-      "c": "Existence of modern cars",
-      "d": "Presence of smartphones"
+      "a": "Giant predatory cats",
+      "b": "Modern venomous spiders",
+      "c": "Packs of modern wolves or wild dogs",
+      "d": "The dense population of modern humans"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 77,
-    "question": "Could a modern tropical coral species survive in a future ocean that has warmed significantly and become more acidic without any adaptation?",
+    "question": "The first reptile (Hylonomus) from the Carboniferous (310 million years ago) would struggle to survive modern winter temperatures due to its small size and ectothermy.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 78,
-    "question": "Which factor would most likely threaten coral survival in a drastically changed future ocean?",
+    "question": "If Hylonomus were living in a modern forest, what revolutionary innovation in its modern reptile competitors would give them a massive survival advantage?",
     "type": "MCQ",
     "options": {
-      "a": "Stable temperatures and neutral pH",
-      "b": "Increased temperature and lower pH altering calcification",
-      "c": "Availability of clean water",
-      "d": "Presence of algae and fish"
+      "a": "The development of internal fertilization and live birth (viviparity)",
+      "b": "The ability to consume modern insects",
+      "c": "The ability to fly and perch high up",
+      "d": "The evolution of venom"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 79,
-    "question": "Could a modern desert rodent survive in a wetter, forested ancient climate if it could find similar seeds and hiding places?",
+    "question": "A primitive jellyfish (Ediacaran biota) from 550 million years ago would find the dissolved oxygen levels of modern seawater too low for its survival.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 80,
-    "question": "What ecological change would most challenge a desert rodent in a forested ancient environment?",
+    "question": "If Ediacaran soft-bodied organisms were placed in the modern ocean, what key biological feature would make them immediately vulnerable to the modern food web?",
     "type": "MCQ",
     "options": {
-      "a": "Different predators and altered food distribution",
-      "b": "Too much nitrogen in the air",
-      "c": "Too many stars visible at night",
-      "d": "Presence of tree bark"
+      "a": "Their reliance on ancient chemosynthesis",
+      "b": "Their large size and slow movement",
+      "c": "Their lack of defensive structures (like shells, spines, or hard mouths)",
+      "d": "Their inability to cope with modern noise pollution"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 81,
-    "question": "Could a modern fungus species that decomposes wood survive in a Carboniferous swamp forest full of fallen logs and plant debris?",
+    "question": "A primitive bird (Hesperornis) from the Cretaceous (80 million years ago) would be unable to successfully fish in modern waters due to competition with specialized marine mammals.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -891,41 +891,41 @@
   },
   {
     "question_id": 82,
-    "question": "What would mainly affect a wood-decomposing fungus’s ability to survive in a different time period?",
+    "question": "If Hesperornis were diving in modern coastal waters, what key anatomical feature would make it inefficient compared to a modern penguin or seal?",
     "type": "MCQ",
     "options": {
-      "a": "Availability of organic matter, moisture, and suitable temperature",
-      "b": "Presence of digital computers",
-      "c": "Existence of metal tools",
-      "d": "Ability to communicate with animals"
+      "a": "Its reliance on primitive feathers for buoyancy",
+      "b": "Its inability to digest modern fish",
+      "c": "Its teeth (unnecessary for modern fish consumption)",
+      "d": "Its underdeveloped wing bones, optimized for only swimming, not powerful diving"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 83,
-    "question": "Could a modern pigeon population survive in an ancient city like Rome, if it were transported there with similar buildings and food sources from humans?",
+    "question": "A giant prehistoric crocodile (Sarcosuchus) from the early Cretaceous (110 million years ago) would find the nutrient quality of modern river prey too low for its metabolic needs.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 84,
-    "question": "What would support pigeons’ survival in a historical human city?",
+    "question": "If a Sarcosuchus were hunting in a modern South American river, what evolved defensive mechanism would its modern prey (e.g., capybara) possess that its ancient prey lacked?",
     "type": "MCQ",
     "options": {
-      "a": "Urban structures for nesting and leftover food from people",
-      "b": "Only deep ocean trenches",
-      "c": "Total absence of buildings",
-      "d": "Lack of any human activity"
+      "a": "Its ancient size would make it a target for modern parasites",
+      "b": "Its reliance on ambush in murky water (its prey might be better at detecting it)",
+      "c": "The speed and warning calls of modern social mammals",
+      "d": "Its skin would be vulnerable to modern toxins"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 85,
-    "question": "Could a modern eucalyptus tree survive in a warm, dinosaur-age coastal plain if soils and rainfall were roughly similar to its home environment?",
+    "question": "A primitive jawless fish (Astraspis) from the Ordovician (450 million years ago) would be immediately outcompeted by modern jawed fish (Osteichthyes).",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -935,19 +935,19 @@
   },
   {
     "question_id": 86,
-    "question": "Which condition would be most important for a eucalyptus tree in a different time period?",
+    "question": "If Astraspis were feeding in a modern seabed, what anatomical feature would make it struggle to access modern food sources?",
     "type": "MCQ",
     "options": {
-      "a": "Suitable temperature, water, and soil conditions",
-      "b": "Presence of skyscrapers",
-      "c": "Human-made fertilizers only",
-      "d": "Zero exposure to sunlight"
+      "a": "Its lack of fins for movement",
+      "b": "Its filter-feeding method in modern water currents",
+      "c": "Its primitive mouth structure (lack of jaws) for gripping and biting complex prey",
+      "d": "Its heavy bone armor"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 87,
-    "question": "Could a modern octopus species survive in a shallow sea of the Devonian era if salinity, temperature, and prey were appropriate?",
+    "question": "A massive rhinoceros-like mammal (Arsinoitherium) from the Eocene (35 million years ago) would find the low-nutrient content of modern grasses insufficient for its large size.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -957,19 +957,19 @@
   },
   {
     "question_id": 88,
-    "question": "What would most influence an octopus’s survival in an ancient ocean?",
+    "question": "If Arsinoitherium were grazing in a modern habitat, what modern competitor, which evolved later, would directly challenge its food source?",
     "type": "MCQ",
     "options": {
-      "a": "Availability of hiding places, oxygenated water, and prey",
-      "b": "Presence of television signals",
-      "c": "Solar panels on the seafloor",
-      "d": "Only freshwater lakes"
+      "a": "Modern predatory cats (lions, tigers)",
+      "b": "Modern elephants (possessing superior teeth and digestive systems)",
+      "c": "The highly efficient modern giraffe",
+      "d": "Its massive horns would get stuck in modern foliage"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 89,
-    "question": "Could a modern mosquito species survive in an early dinosaur-era swamp if there were vertebrates to feed on and standing water for breeding?",
+    "question": "An early feathered dinosaur (Sinosauropteryx) from the Jurassic (150 million years ago) would struggle to survive in modern forests due to the denser tree canopy and less open ground.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -979,41 +979,41 @@
   },
   {
     "question_id": 90,
-    "question": "What condition is essential for mosquitoes in any time period?",
+    "question": "If Sinosauropteryx were hunting in a modern undergrowth, what modern organism would pose the greatest threat to its eggs and young?",
     "type": "MCQ",
     "options": {
-      "a": "Standing water for larvae and warm-enough conditions",
-      "b": "Snow and ice only",
-      "c": "Solid rock for eggs",
-      "d": "Absence of any animal life"
+      "a": "Giant modern spiders",
+      "b": "Modern fungal diseases",
+      "c": "Highly mobile and specialized small mammalian predators (e.g., rats, weasels, raccoons)",
+      "d": "Its vibrant colors would attract modern hunters"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 91,
-    "question": "Could a modern chimpanzee troop survive in a Pleistocene African woodland where early humans lived, assuming adequate plant and animal foods?",
+    "question": "A giant insect (Arthropleura) from the Carboniferous (315 million years ago) would be unable to find suitable nesting material in the modern environment.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 92,
-    "question": "Which factor would most affect chimpanzee survival in a past woodland ecosystem?",
+    "question": "If Arthropleura were moving through a modern forest, what factor, related to its size, would make it immediately vulnerable to modern threats?",
     "type": "MCQ",
     "options": {
-      "a": "Food availability, predation, and competition with other primates",
-      "b": "Existence of electronic devices",
-      "c": "Lack of metal tools",
-      "d": "Presence of clear night skies"
+      "a": "Its reliance on ancient, soft mosses for food",
+      "b": "Its inability to cope with modern noise pollution",
+      "c": "Its primitive segmented body structure would dissolve in modern acidic rain",
+      "d": "Its slow movement and immense size would make it an easy target for any large predator"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 93,
-    "question": "Could a modern polar bear survive in a much warmer Eocene Arctic forest without sea ice and seal prey?",
+    "question": "A massive bird (Argentavis) from the Miocene (6 million years ago) would find the modern atmosphere's density too low to sustain its soaring flight style.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1023,19 +1023,19 @@
   },
   {
     "question_id": 94,
-    "question": "What is the main reason polar bears would struggle in a warm forested Arctic without ice?",
+    "question": "If Argentavis were flying over modern South America, what environmental challenge would make its hunting and soaring strategy difficult?",
     "type": "MCQ",
     "options": {
-      "a": "Their thick fur makes them invisible",
-      "b": "Their hunting strategy and physiology are adapted to cold and sea ice",
-      "c": "They cannot swim",
-      "d": "They cannot digest any food"
+      "a": "The intense cold of the modern upper atmosphere",
+      "b": "The modern absence of large, easy-to-spot carcasses of extinct megafauna",
+      "c": "The abundance of modern power lines",
+      "d": "Its wingspan would be caught in modern city currents"
     },
     "answer": "b"
   },
   {
     "question_id": 95,
-    "question": "Could a modern grass species survive in a dinosaur-era landscape before grasses became widespread, if scattered in suitable soil patches?",
+    "question": "A giant prehistoric snake (Titanoboa) from the Paleocene (60 million years ago) would be unable to survive in any modern climate outside of the deepest tropics.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1045,41 +1045,41 @@
   },
   {
     "question_id": 96,
-    "question": "Which outcome is most likely if modern grass appears in a dinosaur-era habitat?",
+    "question": "If a Titanoboa was hunting in a modern tropical river, what crucial missing environmental factor would limit its maximum possible size?",
     "type": "MCQ",
     "options": {
-      "a": "It could colonize open ground and eventually become part of the ecosystem",
-      "b": "It would immediately explode and cover the whole planet in a day",
-      "c": "It would float into space",
-      "d": "It would transform into an animal"
+      "a": "The lower atmospheric pressure of the modern era",
+      "b": "The massive, slow-moving aquatic prey from its time",
+      "c": "The lower average global ambient temperature today compared to the Paleocene",
+      "d": "The lack of dense jungle canopy for shade"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 97,
-    "question": "Could a modern house dog survive in a Stone Age human camp, assuming humans provided food and shelter?",
+    "question": "A primitive fish (Placoderm) from the Devonian (400 million years ago) would find the modern coastal sea temperatures acceptable for spawning.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 98,
-    "question": "What would most support a modern dog’s survival in a prehistoric human camp?",
+    "question": "If a Placoderm were swimming in the modern ocean, what key anatomical feature would make it incapable of the quick turns and maneuvers required for hunting modern fish?",
     "type": "MCQ",
     "options": {
-      "a": "Mutualistic relationship with humans for protection, hunting, and companionship",
-      "b": "Ability to speak human languages fluently",
-      "c": "Requirement for factory-made dog food only",
-      "d": "Need for concrete houses"
+      "a": "Its inability to detect modern electromagnetic fields",
+      "b": "Its heavy bony armor (which restricted flexibility and speed)",
+      "c": "Its reliance on external fertilization (unsuited for modern water flow)",
+      "d": "Its primitive lungs (false, it had gills)"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 99,
-    "question": "Could a modern deep-sea fish adapted to high pressure survive if placed in shallow, low-pressure ancient coastal waters?",
+    "question": "A giant rhino (Elasmotherium) from the Pleistocene (40,000 years ago) would be unable to consume modern savanna grasses due to evolved dietary specialization.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1089,14 +1089,674 @@
   },
   {
     "question_id": 100,
-    "question": "Which physical factor is most critical for deep-sea organisms moved to shallow ancient seas?",
+    "question": "If Elasmotherium were grazing in modern Central Asia, what key environmental change would quickly lead to its demise?",
     "type": "MCQ",
     "options": {
-      "a": "Extreme pressure differences between deep and shallow water",
-      "b": "Absence of stars in the sky",
-      "c": "Changes in human technology",
-      "d": "Existence of mountains on land"
+      "a": "The evolved toughness of modern plants",
+      "b": "Its giant horn would get tangled in modern fences",
+      "c": "The loss of its specialized long-stem grass diet, replaced by modern shrubs and trees",
+      "d": "Its inability to avoid modern motorized vehicles"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 101,
+    "question": "The first true tree (Archaeopteris) from the Devonian (370 million years ago) would struggle to compete with modern trees for soil nitrogen.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
     },
     "answer": "a"
+  },
+  {
+    "question_id": 102,
+    "question": "If Archaeopteris were growing in a modern forest, what physiological limitation would make it extremely vulnerable to modern fungal or bacterial infections?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its primitive photosynthetic system",
+      "b": "Its inability to pump water high up",
+      "c": "The lack of evolved chemical defenses (secondary metabolites) against modern pathogens",
+      "d": "Its seeds would be eaten by modern squirrels"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 103,
+    "question": "A massive flightless predatory mammal (Andrewsarchus) from the Eocene (40 million years ago) would easily defeat any modern wolf pack.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 104,
+    "question": "If Andrewsarchus were hunting in a modern North American habitat, what key missing element would limit its survival compared to its Eocene ecosystem?",
+    "type": "MCQ",
+    "options": {
+      "a": "The absence of the giant, slow-moving ungulates it specialized in preying on",
+      "b": "The modern noise pollution from human activity",
+      "c": "Its reliance on cold-blooded metabolism",
+      "d": "Its inability to find suitable den sites"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 105,
+    "question": "A massive shelled arthropod (Arctinurus) from the Silurian (430 million years ago) would find the acidity of modern deep seawater intolerable.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 106,
+    "question": "If an Arctinurus were scuttling on the modern seabed, what physical disadvantage would it have against a modern crab?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its reliance on ancient, soft-bodied prey",
+      "b": "Its primitive, heavy-armored shell (limiting speed and maneuverability)",
+      "c": "Its vulnerability to modern fungal diseases",
+      "d": "Its inability to sense modern water currents"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 107,
+    "question": "A giant penguin (Anthropornis) from the Paleogene (45 million years ago) would suffer from heat stress in modern Antarctic summer temperatures.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "If Anthropornis were hunting in modern Antarctic waters, what critical change in the ecosystem would challenge its ability to find food?",
+    "type": "MCQ",
+    "options": {
+      "a": "The modern presence of large baleen whales",
+      "b": "The absence of large, slow-moving fish from its time",
+      "c": "Competition with the massive, organized modern human fishing fleet",
+      "d": "Its feathers would lack insulation in modern cold"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 109,
+    "question": "A lungfish (Dipterus) from the Devonian (380 million years ago) would find the nutrient load of modern polluted rivers immediately fatal.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 110,
+    "question": "If Dipterus were surviving a modern drought by burrowing into the mud, what feature would give it a massive advantage over most modern fish?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its tough, armored scales",
+      "b": "Its reliance on filter feeding",
+      "c": "Its primitive lung for breathing atmospheric air (primitive tetrapod feature)",
+      "d": "Its inability to be attacked by modern insects"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 111,
+    "question": "A prehistoric camel (Titanotylopus) from the Pliocene (4 million years ago) would struggle to digest modern high-fiber grasses.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 112,
+    "question": "If Titanotylopus were crossing a modern desert, what evolved feature of modern competitors (like the Dromedary) would it lack for water retention?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its massive size would increase its water needs",
+      "b": "Its lack of specialized fat storage in humps",
+      "c": "Its reliance on drinking only pure, running water",
+      "d": "The absence of specialized kidneys for hyper-efficient water reclamation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 113,
+    "question": "A primitive lizard (Captorhinus) from the Permian (280 million years ago) would be unable to find suitable prey due to the small size of modern insects.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "If Captorhinus were hunting in a modern forest, what key anatomical difference would put it at a massive disadvantage against a modern snake?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its reliance on venom for hunting",
+      "b": "Its small size and reliance on walking (compared to limbless agility)",
+      "c": "Its inability to hear modern sounds",
+      "d": "Its teeth would be unsuitable for modern prey"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 115,
+    "question": "A giant prehistoric rodent (Josephoartigasia monesi) from the Pliocene (3 million years ago) would be unable to escape from a modern jaguar.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 116,
+    "question": "If Josephoartigasia were grazing in a modern South American habitat, what would be the most critical missing element for its daily comfort and survival?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its inability to deal with modern rainstorms",
+      "b": "The lack of specific ancient giant fruit trees",
+      "c": "The vast, low-lying wetlands and river systems that supported its immense bulk",
+      "d": "The absence of large, slow-moving predator groups"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 117,
+    "question": "A massive sea turtle (Archelon) from the Cretaceous (75 million years ago) would find the modern ocean temperatures too cold for egg incubation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "If an Archelon were swimming in the modern ocean, what highly evolved competitor would it encounter that specializes in consuming the jellyfish it likely ate?",
+    "type": "MCQ",
+    "options": {
+      "a": "Giant modern sea snakes",
+      "b": "Fast-moving modern squids",
+      "c": "The massive, filter-feeding modern Basking Shark",
+      "d": "Specialized, fast-swimming modern tuna and large fish"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 119,
+    "question": "A primitive crocodile (Protosuchus) from the Jurassic (200 million years ago) would struggle to survive modern winter temperatures due to its small size and ectothermy.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "If Protosuchus were hunting in a modern stream, what key physiological disadvantage would it have compared to a modern crocodile?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its inability to hold its breath for long periods underwater",
+      "b": "Its inability to consume modern fish",
+      "c": "Its primitive skull and teeth, unsuited for the crushing power of modern crocs",
+      "d": "Its skin would dissolve in modern water"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 121,
+    "question": "The first true bird (Gansus) from the early Cretaceous (120 million years ago) would be unable to find suitable nesting material in modern wetlands.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 122,
+    "question": "If Gansus were flying over a modern marsh, what key anatomical difference would make it an inferior flyer to a modern duck?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its reliance on teeth for eating aquatic prey",
+      "b": "Its inability to tolerate modern pollution",
+      "c": "Its primitive, short tail structure, lacking the modern pygostyle (fused tail bone) for precise steering",
+      "d": "Its massive size would make it an easy target"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 123,
+    "question": "A primitive lizard (Mesosaurus) from the Permian (280 million years ago) would find the salinity of modern brackish water too high for its survival.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 124,
+    "question": "If Mesosaurus were swimming in a modern estuary, what key feature of its anatomy would make it useless for hunting modern, fast-moving prey?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its dependence on basking in high-temperature sun",
+      "b": "Its reliance on small, primitive teeth and passive filter-feeding (not active hunting)",
+      "c": "Its skin would be sensitive to modern UV light",
+      "d": "Its inability to hold its breath for long periods"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 125,
+    "question": "A massive herbivore (Palaeoloxodon namadicus) from the Pleistocene (50,000 years ago) would be unable to consume modern woody plants due to evolved specialization.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 126,
+    "question": "If Palaeoloxodon (a giant elephant) were foraging in modern Asia, what human-caused factor would pose the greatest threat to its immense habitat needs?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its reliance on drinking only pure mountain water",
+      "b": "Its massive size would attract modern hunters immediately",
+      "c": "Massive habitat fragmentation and human encroachment",
+      "d": "Its skin would be sensitive to modern pollution"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 127,
+    "question": "A primitive spider (Palaeocharinus) from the Devonian (400 million years ago) would struggle to survive in modern temperate forests due to the temperature fluctuations.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "If Palaeocharinus were hunting in a modern habitat, what key feature would make it ineffective compared to a modern spider?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its primitive eyes for detecting prey motion",
+      "b": "Its inability to spin complex, sticky silk webs for trapping prey",
+      "c": "Its reliance on ancient, soft-bodied insects",
+      "d": "Its primitive mouthparts for biting"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 129,
+    "question": "A massive flightless bird (Terror Bird - Phorusrhacos) from the Miocene (15 million years ago) would easily defeat any modern ostrich.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "If a Terror Bird were hunting in a modern South American grassland, what key difference in modern prey would challenge its hunting strategy?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its massive size would make it an easy target for hunters",
+      "b": "The evolved high-speed endurance and agility of modern large mammals",
+      "c": "The modern absence of suitable ambush cover",
+      "d": "Its reliance on massive, slow-moving prey"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 131,
+    "question": "A primitive amphibian (Ichthyostega) from the Devonian (365 million years ago) would find the nutrient load of modern aquatic systems completely toxic.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 132,
+    "question": "If Ichthyostega were attempting to crawl on a modern riverbank, what key anatomical difference would prevent it from walking effectively compared to a modern salamander?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its reliance on ancient water levels",
+      "b": "Its primitive, heavy limbs and body, unsuited for lifting its body clear of the ground",
+      "c": "Its inability to deal with modern dry air",
+      "d": "Its skin would dissolve in modern pollutants"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 133,
+    "question": "A massive plant (Lepidodendron) from the Carboniferous (320 million years ago) would be unable to photosynthesize effectively in modern light conditions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 134,
+    "question": "If Lepidodendron (a scale tree) were growing in a modern environment, what key difference in its reproductive cycle would make it completely non-viable for long-term survival?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its inability to extract modern soil nutrients",
+      "b": "Its unique method of reproducing only once before dying (monocarpic)",
+      "c": "Its massive size would make it prone to modern storms",
+      "d": "Its primitive bark would be vulnerable to modern pests"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 135,
+    "question": "A primitive reptile (Hylonomus) from the Carboniferous (310 million years ago) would be unable to find suitable prey due to the small size of modern insects.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 136,
+    "question": "If Hylonomus were hunting in a modern habitat, what physical advantage would modern insects possess that its ancient prey lacked?",
+    "type": "MCQ",
+    "options": {
+      "a": "Evolved speed and camouflage to avoid detection",
+      "b": "The ability to consume modern plant toxins",
+      "c": "Resistance to modern temperature fluctuations",
+      "d": "Its inability to climb modern trees"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 137,
+    "question": "A giant prehistoric armadillo (Glyptodon) from the Pleistocene (10,000 years ago) would struggle to find suitable burrowing ground in modern asphalt and concrete landscapes.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 138,
+    "question": "If a Glyptodon were foraging in modern South America, what evolved defensive trait would make modern predators wary of attacking it?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its massive size and heavy, integrated bony shell armor",
+      "b": "Its ability to spray noxious chemicals",
+      "c": "Its ability to dig extremely fast",
+      "d": "Its reliance on ancient, soft grass"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 139,
+    "question": "A massive aquatic dinosaur (Mosasaurus) from the Cretaceous (70 million years ago) would struggle to breathe the air in modern shallow seas.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 140,
+    "question": "If a Mosasaurus were hunting in the modern ocean, what key difference in its skeletal anatomy would make it less energy-efficient than a modern whale?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its reliance on tail propulsion (vs flukes)",
+      "b": "Its lack of a horizontal fluke and reliance on a simpler, anguilliform (eel-like) swimming motion",
+      "c": "Its inability to echolocate",
+      "d": "Its massive size would be a disadvantage"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 141,
+    "question": "A massive prehistoric fish (Xiphactinus) from the Cretaceous (80 million years ago) would be unable to consume modern fish due to their smaller, harder scales.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 142,
+    "question": "If a Xiphactinus were hunting in the modern ocean, what disadvantage would its teeth pose compared to a modern tuna?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its massive teeth would break on modern fish bone",
+      "b": "Its reliance on suction feeding (false, it had teeth)",
+      "c": "Its lack of specialized teeth for slicing (mostly for stabbing/holding) compared to modern predators",
+      "d": "Its ancient jaw muscles would be too weak"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 143,
+    "question": "A primitive sea cucumber (Eldonia) from the Cambrian (500 million years ago) would find the nutrient load of modern seawater toxic.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 144,
+    "question": "If Eldonia were attempting to filter feed in the modern ocean, what key feature would make it vulnerable to micro-predators?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its large, visible digestive tract",
+      "b": "Its simple, soft-bodied structure and lack of any hard, internal or external protection",
+      "c": "Its reliance on ancient, non-competitive filter-feeding",
+      "d": "Its inability to hide from modern light"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 145,
+    "question": "A massive bear (Arctodus simus - Short-faced Bear) from the Pleistocene (11,000 years ago) would be unable to digest modern forest berries.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 146,
+    "question": "If a Short-faced Bear were hunting in modern North America, what key feature would give it an advantage over modern bears in a chase?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its massive jaws and teeth",
+      "b": "Its immense size would intimidate modern prey",
+      "c": "Its long, slender limbs and high-speed gait (optimized for fast running/scavenging)",
+      "d": "Its thick fur would deter modern predators"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 147,
+    "question": "A primitive shelled cephalopod (Orthoceras) from the Ordovician (470 million years ago) would find the increased density of modern seawater crushing.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 148,
+    "question": "If Orthoceras were swimming in the modern ocean, what major disadvantage would its shell give it against modern squid and fish?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its inability to detect modern light",
+      "b": "Its large, rigid shell would prevent the high-speed jet propulsion and maneuverability of modern cephalopods",
+      "c": "Its reliance on ancient food sources",
+      "d": "Its shell would dissolve in modern acidic water"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 149,
+    "question": "A primitive land fungus (Prototaxites) from the Devonian (400 million years ago) would be killed immediately by modern air pollutants.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 150,
+    "question": "If Prototaxites (a massive, ancient fungus) were growing today, what key difference in the modern ecosystem would challenge its survival?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its massive size would attract modern pests",
+      "b": "The evolved high efficiency of modern decay organisms (bacteria and fungi)",
+      "c": "Its reliance on ancient, non-competitive soil",
+      "d": "Its inability to process modern water sources"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 151,
+    "question": "A massive flightless dinosaur (Deinocheirus) from the Cretaceous (70 million years ago) would suffer from heat stroke in modern tropical zones.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 152,
+    "question": "If a Deinocheirus were standing in a modern wetland, what key advantage would its massive size and long forelimbs give it over modern aquatic herbivores?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its ability to easily wade and reach aquatic vegetation in deep water, inaccessible to smaller modern fauna",
+      "b": "Its feathers would allow it to float easily",
+      "c": "Its massive jaws would easily crush modern reeds",
+      "d": "Its ability to hide from modern hunters"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 153,
+    "question": "A primitive bony fish (Eusthenopteron) from the Devonian (380 million years ago) would find the salinity of modern brackish water too high for its eggs.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 154,
+    "question": "If Eusthenopteron were swimming in a modern river, what key feature would make it vulnerable to modern predators like pike?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its reliance on cold-blooded metabolism",
+      "b": "Its primitive, heavy scales and fins (reducing acceleration and maneuverability)",
+      "c": "Its inability to hide from modern light",
+      "d": "Its reliance on ancient, slow-moving prey"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 155,
+    "question": "A massive ground bird (Kelenken) from the Miocene (15 million years ago) would be unable to find suitable nesting material in modern forests.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 156,
+    "question": "If a Kelenken (Terror Bird) were hunting in modern South America, what is the most scientifically plausible reason its population would fail to thrive long-term?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its massive, curved beak would break on modern prey bone",
+      "b": "It would be unable to cope with modern human noise and habitat fragmentation",
+      "c": "Its reliance on massive, slow-moving prey from its time, which are now extinct",
+      "d": "The absence of large, specialized carrion insects"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 157,
+    "question": "A small, primitive mammal (Hadrocodium) from the Jurassic (195 million years ago) would be immediately outcompeted by modern shrews and mice.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 158,
+    "question": "If Hadrocodium were foraging in modern undergrowth, what key feature of its ancient anatomy would give it an inferior sense of the environment compared to a modern mouse?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its inability to be infected by modern pathogens",
+      "b": "Its reliance on ancient, soft berries",
+      "c": "Its primitive jaw structure, hindering rapid chewing of modern seeds",
+      "d": "Its lack of evolved whiskers (vibrissae) for precise navigation in the dark"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 159,
+    "question": "A primitive shark (Orthacanthus) from the Carboniferous (320 million years ago) would find the oxygen levels of modern deep-sea vents too low for survival.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 160,
+    "question": "If Orthacanthus were swimming in a modern freshwater environment, what key anatomical feature would make it severely vulnerable to modern predators?",
+    "type": "MCQ",
+    "options": {
+      "a": "Its sharp, triple-cusped teeth",
+      "b": "Its massive size would make it an easy target",
+      "c": "Its long, spiny dorsal fin (limiting maneuverability and speed)",
+      "d": "Its inability to hide from modern light"
+    },
+    "answer": "c"
   }
 ]

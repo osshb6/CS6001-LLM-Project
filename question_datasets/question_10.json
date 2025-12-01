@@ -2078,5 +2078,460 @@
     "answer": "b",
     "template_type": "person_event",
     "question_id": 160
+  },
+  {
+    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 161
+  },
+  {
+    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 162
+  },
+  {
+    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 163
+  },
+  {
+    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 164
+  },
+  {
+    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 165
+  },
+  {
+    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 166
+  },
+  {
+    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 167
+  },
+  {
+    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 168
+  },
+  {
+    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 169
+  },
+  {
+    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 170
+  },
+  {
+    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 171
+  },
+  {
+    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 172
+  },
+  {
+    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 173
+  },
+  {
+    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 174
+  },
+  {
+    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 175
+  },
+  {
+    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 176
+  },
+  {
+    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 177
+  },
+  {
+    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 178
+  },
+  {
+    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 179
+  },
+  {
+    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 180
+  },
+  {
+    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 181
+  },
+  {
+    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 182
+  },
+  {
+    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 183
+  },
+  {
+    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 184
+  },
+  {
+    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 185
+  },
+  {
+    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 186
+  },
+  {
+    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 187
+  },
+  {
+    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 188
+  },
+  {
+    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 189
+  },
+  {
+    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 190
+  },
+  {
+    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 191
+  },
+  {
+    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 192
+  },
+  {
+    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 193
+  },
+  {
+    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 194
+  },
+  {
+    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 195
+  },
+  {
+    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 196
+  },
+  {
+    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 197
+  },
+  {
+    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 198
+  },
+  {
+    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 199
+  },
+  {
+    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 200
+  },
+  {
+    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 201
+  },
+  {
+    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 202
+  },
+  {
+    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 203
+  },
+  {
+    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 204
+  },
+  {
+    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 205
+  },
+  {
+    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 206
+  },
+  {
+    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 207
+  },
+  {
+    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 208
+  },
+  {
+    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "person_event_tf",
+    "question_id": 209
+  },
+  {
+    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "person_event_tf",
+    "question_id": 210
+  },
+  {
+    "question": "Narendra Modi met Nara Chandrababu Naidu in Delhi in 2016.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_meeting_tf",
+    "question_id": 211
+  },
+  {
+    "question": "Bill Gates met Nara Chandrababu Naidu in Hyderabad in 2005.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_meeting_tf",
+    "question_id": 212
+  },
+  {
+    "question": "Melania Trump met Nara Chandrababu Naidu in Hyderabad in 2020.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "ncb_meeting_tf",
+    "question_id": 213
+  },
+  {
+    "question": "Amit Shah met Nara Chandrababu Naidu in Amaravati in 2018.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_meeting_tf",
+    "question_id": 214
+  },
+  {
+    "question": "Barack Obama met Nara Chandrababu Naidu in Visakhapatnam in 2014.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "ncb_meeting_tf",
+    "question_id": 215
+  },
+  {
+    "question": "Nara Chandrababu Naidu attended the World Economic Forum held in Davos in 2018.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_event_tf",
+    "question_id": 216
+  },
+  {
+    "question": "Nara Chandrababu Naidu attended the G20 Summit held in London in 2009.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "ncb_event_tf",
+    "question_id": 217
+  },
+  {
+    "question": "Nara Chandrababu Naidu attended the Partnership Summit held in Visakhapatnam in 2017.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_event_tf",
+    "question_id": 218
+  },
+  {
+    "question": "Nara Chandrababu Naidu attended the United Nations Assembly held in New York in 2015.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "ncb_event_tf",
+    "question_id": 219
+  },
+  {
+    "question": "Nara Chandrababu Naidu attended the Smart Cities Expo held in Barcelona in 2016.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_event_tf",
+    "question_id": 220
+  },
+  {
+    "question": "Nara Chandrababu Naidu signed an agreement with Bill Gates in Hyderabad in 2015.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_agreement_tf",
+    "question_id": 221
+  },
+  {
+    "question": "Nara Chandrababu Naidu signed an agreement with Xi Jinping in Beijing in 2018.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "ncb_agreement_tf",
+    "question_id": 222
+  },
+  {
+    "question": "Nara Chandrababu Naidu signed an agreement with Satya Nadella in Seattle in 2016.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_agreement_tf",
+    "question_id": 223
+  },
+  {
+    "question": "Nara Chandrababu Naidu signed an agreement with Queen Elizabeth II in London in 2002.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "ncb_agreement_tf",
+    "question_id": 224
+  },
+  {
+    "question": "Nara Chandrababu Naidu signed an agreement with Mukesh Ambani in Mumbai in 2017.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "ncb_agreement_tf",
+    "question_id": 225
   }
 ]

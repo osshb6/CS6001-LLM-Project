@@ -1,17 +1,17 @@
 [
     {
         "question_id": 1,
-        "question": "Civil Rights Movement in USA and Anti-Apartheid Movement in South Africa emerged in response to racial inequality.",
+        "question": "The Prague Spring in Czechoslovakia and the Belarus 2020 Protests both emerged in response to the same form of Soviet-style political domination.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 2,
-        "question": "Indian Independence Movement in India and Algerian War of Independence emerged in response to colonial rule.",
+        "question": "The Mau Mau Uprising in Kenya and the Herero Rebellion in Namibia both emerged due to violent land alienation by European settlers.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -21,27 +21,29 @@
     },
     {
         "question_id": 3,
-        "question": "Women's Suffrage Movement in UK and Women's Rights Movement in USA emerged in response to gender inequality.",
+        "question": "The Harlem Renaissance in the USA and the Latvian Singing Revolution both emerged primarily due to cultural suppression under dominant political structures.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 4,
-        "question": "Solidarity Movement in Poland and Velvet Revolution in Czechoslovakia emerged in response to authoritarian communist rule.",
-        "type": "T/F",
+        "question": "Which movements emerged due to severe cultural anxiety caused by rapid Western encroachment?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Taiping Rebellion & French Revolution",
+            "b": "Boxer Rebellion & Ghost Dance Movement",
+            "c": "Arab Spring & Meiji Restoration",
+            "d": "Harlem Renaissance & Zionist Movement"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 5,
-        "question": "Taiping Rebellion in China and Sepoy Rebellion in India were driven by economic exploitation and political oppression.",
+        "question": "The Ghost Dance Movement in the USA and the Taiping Rebellion in China both emerged from prophetic religious visions responding to crisis.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -51,7 +53,19 @@
     },
     {
         "question_id": 6,
-        "question": "Environmental Movement in the USA and Chipko Movement in India emerged in response to environmental degradation.",
+        "question": "Which pair of movements emerged largely due to fears of modernization destroying long-standing social hierarchies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Luddite Movement & Meiji Restoration",
+            "b": "Zulu Resistance & Luddite Movement",
+            "c": "Civil Rights Movement & Velvet Revolution",
+            "d": "Arab Spring & French Revolution"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 7,
+        "question": "The Arab Spring uprisings in Tunisia and Egypt both emerged due to frustration with youth unemployment and corruption.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -60,8 +74,8 @@
         "answer": "a"
     },
     {
-        "question_id": 7,
-        "question": "Maoist Revolution in China and Cuban Revolution in Cuba emerged due to racial conflict.",
+        "question_id": 8,
+        "question": "The Catalan Independence Movement and the Scottish Independence Movement both emerged primarily due to ethnic suppression.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -70,28 +84,42 @@
         "answer": "b"
     },
     {
-        "question_id": 8,
-        "question": "Arab Spring Movement in Tunisia and Egyptian Revolution emerged in response to political oppression and corruption.",
-        "type": "T/F",
-        "options": {
-            "a": "True",
-            "b": "False"
-        },
-        "answer": "a"
-    },
-    {
         "question_id": 9,
-        "question": "Student Movement in France (1968) and Tiananmen Square Protests in China were responses to limited political freedoms.",
-        "type": "T/F",
+        "question": "Which movements were driven by discontent among emerging middle classes excluded from political decision-making?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "French Revolution & Mexican Revolution",
+            "b": "Civil Rights Movement & Black Power Movement",
+            "c": "Arab Spring & Boxer Rebellion",
+            "d": "Luddite Movement & Tanzimat Reforms"
         },
         "answer": "a"
     },
     {
         "question_id": 10,
-        "question": "Labor Movement in the UK and USA emerged due to worker exploitation and poor conditions.",
+        "question": "The Hong Kong Umbrella Movement and the Solidarity Movement in Poland both emerged due to resistance to foreign political interference.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 11,
+        "question": "Which two movements emerged due to mass dissatisfaction with state-protected economic monopolies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Persian Tobacco Protest & Boston Tea Party",
+            "b": "Civil Rights Movement & Velvet Revolution",
+            "c": "Boxer Rebellion & Meiji Restoration",
+            "d": "Arab Spring & Suffrage Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 12,
+        "question": "The Zulu Resistance in South Africa and the Maori Wars in New Zealand both emerged due to settler encroachment on indigenous land.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -100,128 +128,30 @@
         "answer": "a"
     },
     {
-        "question_id": 11,
-        "question": "Which movements emerged due to colonial oppression?",
-        "type": "MCQ",
+        "question_id": 13,
+        "question": "The French May 1968 Movement and the Tiananmen Square Protests emerged due to identical economic crises that destabilized universities.",
+        "type": "T/F",
         "options": {
-            "a": "Civil Rights and Anti-Apartheid",
-            "b": "Indian Independence and Algerian War of Independence",
-            "c": "Environmental and Chipko Movements",
-            "d": "Maoist and Cuban Revolutions"
+            "a": "True",
+            "b": "False"
         },
         "answer": "b"
     },
     {
-        "question_id": 12,
-        "question": "Which movements were primarily focused on racial equality?",
-        "type": "MCQ",
-        "options": {
-            "a": "Arab Spring and Egyptian Revolution",
-            "b": "Labor Movements",
-            "c": "Civil Rights and Anti-Apartheid Movements",
-            "d": "Taiping and Sepoy Rebellions"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 13,
-        "question": "Which movements addressed gender inequality?",
-        "type": "MCQ",
-        "options": {
-            "a": "Student Movements in France and China",
-            "b": "Environmental Movement and Chipko Movement",
-            "c": "Women's Suffrage Movement (UK) and Women's Rights Movement (USA)",
-            "d": "Solidarity and Velvet Revolution"
-        },
-        "answer": "c"
-    },
-    {
         "question_id": 14,
-        "question": "Which pair of movements fought authoritarian rule?",
+        "question": "Which movements were catalyzed by widespread fears that traditional values were collapsing under modernization?",
         "type": "MCQ",
         "options": {
-            "a": "Labor Movements",
-            "b": "Environmental Movements",
-            "c": "Indian and Algerian Independence Movements",
-            "d": "Solidarity Movement and Velvet Revolution"
+            "a": "Civil Rights Movement & Harlem Renaissance",
+            "b": "French Revolution & Paris Commune",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Luddite Movement & Boxer Rebellion"
         },
         "answer": "d"
     },
     {
         "question_id": 15,
-        "question": "Environmental degradation was the main issue for:",
-        "type": "MCQ",
-        "options": {
-            "a": "Civil Rights & Anti-Apartheid Movements",
-            "b": "Women's Rights Movements",
-            "c": "Environmental Movement (USA) and Chipko Movement (India)",
-            "d": "Maoist & Cuban Revolutions"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 16,
-        "question": "Maoist and Cuban Revolutions primarily addressed:",
-        "type": "MCQ",
-        "options": {
-            "a": "Environmental issues",
-            "b": "Land and resource inequality",
-            "c": "Gender inequality",
-            "d": "Religious reform"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 17,
-        "question": "Arab Spring and Egyptian Revolution mainly addressed:",
-        "type": "MCQ",
-        "options": {
-            "a": "Political oppression & corruption",
-            "b": "Colonial rule",
-            "c": "Environmental destruction",
-            "d": "Worker exploitation"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 18,
-        "question": "Tiananmen Square Protests and French Student Movement were about:",
-        "type": "MCQ",
-        "options": {
-            "a": "Gender rights",
-            "b": "Disability rights",
-            "c": "Political freedom & opposition to authoritarianism",
-            "d": "Labor rights"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 19,
-        "question": "Labor Movements in the UK and USA focused on:",
-        "type": "MCQ",
-        "options": {
-            "a": "Environmental issues",
-            "b": "Worker exploitation & unsafe conditions",
-            "c": "Racial discrimination",
-            "d": "Foreign domination"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 20,
-        "question": "Civil Rights and Anti-Apartheid Movements were NOT focused on:",
-        "type": "MCQ",
-        "options": {
-            "a": "Gender equality",
-            "b": "Racial equality",
-            "c": "Social justice",
-            "d": "Political rights"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 21,
-        "question": "Indian and Algerian Independence Movements successfully ended colonial rule.",
+        "question": "The First Intifada in Palestine and the Easter Rising in Ireland both emerged in response to direct military occupation.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -230,8 +160,72 @@
         "answer": "a"
     },
     {
+        "question_id": 16,
+        "question": "The Khilafat Movement in India and the Arab Revolt during WWI both emerged due to fears of losing pan-Islamic religious authority.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 17,
+        "question": "The Mau Mau Uprising and the Rhodesian Bush War emerged due to comparable grievances about colonial-era racial privilege structures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 18,
+        "question": "Which movements were responses to nationalist sentiment rising inside large multi-ethnic empires?",
+        "type": "MCQ",
+        "options": {
+            "a": "Hungarian Revolution of 1848 & Arab Revolt",
+            "b": "Civil Rights Movement & Suffrage Movement",
+            "c": "Luddite Movement & Janissary Revolt",
+            "d": "Arab Spring & Velvet Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 19,
+        "question": "The Paris Commune and the Russian Emancipation Revolts emerged due to the same structural inequalities within feudal society.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 20,
+        "question": "Which movements were triggered by elite-driven modernization reforms that disrupted traditional social power structures?",
+        "type": "MCQ",
+        "options": {
+            "a": "Tanzimat Reforms & Meiji Restoration",
+            "b": "Civil Rights Movement & Harlem Renaissance",
+            "c": "Arab Spring & Boston Tea Party",
+            "d": "Mau Mau Uprising & Suffrage Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 21,
+        "question": "The Boxer Rebellion and the Taiping Rebellion both emerged due to identical concerns about foreign Christian influence.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
         "question_id": 22,
-        "question": "Women's Suffrage Movement in the UK successfully secured voting rights for women.",
+        "question": "The Irish Land War and the Mexican Zapatista Movement both emerged due to long-standing land inequality and dispossession.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -241,17 +235,19 @@
     },
     {
         "question_id": 23,
-        "question": "Solidarity Movement helped end communist rule in Poland.",
-        "type": "T/F",
+        "question": "Which movements were driven by youth-centered dissatisfaction with rigid educational systems?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Arab Spring & Iranian Revolution",
+            "b": "Civil Rights Movement & Tiananmen Square",
+            "c": "French May 1968 & Japanese Zenkyoto Movement",
+            "d": "Luddite Movement & Boxer Rebellion"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 24,
-        "question": "Chipko Movement in India promoted industrial development.",
+        "question": "The Dreyfus Affair Protests and the Anti-Apartheid Movement both emerged because of broad systemic racial discrimination.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -261,7 +257,7 @@
     },
     {
         "question_id": 25,
-        "question": "Cuban Revolution resulted in the establishment of a communist government.",
+        "question": "The Mahdist Revolution and the Taiping Rebellion both framed their uprisings as religiously mandated purifications of corrupt societies.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -271,27 +267,29 @@
     },
     {
         "question_id": 26,
-        "question": "Arab Spring created stable democracies across all participating nations.",
-        "type": "T/F",
+        "question": "Which movements arose from deep concerns that global economic integration would erase local traditions and autonomy?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Zulu Resistance & Boxer Rebellion",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "French Revolution & Civil Rights Movement",
+            "d": "Meiji Restoration & Tanzimat Reforms"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 27,
-        "question": "Tiananmen Square Protests led to significant political reform in China.",
+        "question": "The Salt March in India and the Boston Tea Party both emerged from protest against monopolistic taxation on essential commodities.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 28,
-        "question": "Labor Movements in the USA won reforms like minimum wage and safer working conditions.",
+        "question": "The Haitian Revolution and the Brazilian Malê Revolt both emerged in response to violent systems of racial enslavement.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -301,151 +299,29 @@
     },
     {
         "question_id": 29,
-        "question": "Which movement is associated with ending racial segregation?",
+        "question": "Which movements emerged from intellectual or student communities demanding political democratization?",
         "type": "MCQ",
         "options": {
-            "a": "Women's Suffrage Movement",
-            "b": "Labor Movement",
-            "c": "Civil Rights Movement (USA)",
-            "d": "Chipko Movement"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 30,
-        "question": "Which movement used nonviolent environmental protest?",
-        "type": "MCQ",
-        "options": {
-            "a": "Cuban Revolution",
-            "b": "Maoist Revolution",
-            "c": "Chipko Movement",
-            "d": "Arab Spring"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 31,
-        "question": "Which movements were anti-colonial?",
-        "type": "MCQ",
-        "options": {
-            "a": "Women’s Suffrage and Women’s Rights",
-            "b": "Civil Rights and Anti-Apartheid",
-            "c": "Indian Independence and Algerian War of Independence",
-            "d": "Velvet Revolution and Solidarity Movement"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 32,
-        "question": "Which revolutions sought to redistribute land and resources?",
-        "type": "MCQ",
-        "options": {
-            "a": "Environmental and Chipko Movements",
-            "b": "Labor Movements",
-            "c": "Maoist Revolution in China and Cuban Revolution",
-            "d": "French and Russian Revolutions"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 33,
-        "question": "Solidarity Movement took place in which country?",
-        "type": "MCQ",
-        "options": {
-            "a": "Czechoslovakia",
-            "b": "China",
-            "c": "Poland",
-            "d": "USA"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 34,
-        "question": "Chipko Movement originated in:",
-        "type": "MCQ",
-        "options": {
-            "a": "USA",
-            "b": "India",
-            "c": "South Africa",
-            "d": "Japan"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 35,
-        "question": "Which movements focused on worker rights?",
-        "type": "MCQ",
-        "options": {
-            "a": "Labor Movements (UK & USA)",
-            "b": "Women's Rights Movements",
-            "c": "Civil Rights Movements",
-            "d": "Cuban and Maoist Revolutions"
+            "a": "Tiananmen Square & May 1968 (France)",
+            "b": "Arab Spring & Boxer Rebellion",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "Boston Tea Party & Tanzimat Reforms"
         },
         "answer": "a"
     },
     {
-        "question_id": 36,
-        "question": "Tiananmen Square Protests occurred in:",
-        "type": "MCQ",
+        "question_id": 30,
+        "question": "The Egyptian Urabi Revolt and the Persian Tobacco Protest both emerged due to foreign economic domination shaping domestic policy.",
+        "type": "T/F",
         "options": {
-            "a": "Japan",
-            "b": "China",
-            "c": "Egypt",
-            "d": "France"
+            "a": "True",
+            "b": "False"
         },
         "answer": "b"
     },
     {
-        "question_id": 37,
-        "question": "Velvet Revolution took place in:",
-        "type": "MCQ",
-        "options": {
-            "a": "India",
-            "b": "Czechoslovakia",
-            "c": "Brazil",
-            "d": "USA"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 38,
-        "question": "Civil Rights and Anti-Apartheid Movements shared a focus on:",
-        "type": "MCQ",
-        "options": {
-            "a": "Environmental conservation",
-            "b": "Gender rights",
-            "c": "Racial justice",
-            "d": "Digital rights"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 39,
-        "question": "Arab Spring began in:",
-        "type": "MCQ",
-        "options": {
-            "a": "Jordan",
-            "b": "Egypt",
-            "c": "Tunisia",
-            "d": "Syria"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 40,
-        "question": "Women's Suffrage Movement achieved voting rights first in:",
-        "type": "MCQ",
-        "options": {
-            "a": "USA",
-            "b": "India",
-            "c": "South Africa",
-            "d": "UK"
-        },
-        "answer": "d"
-    },
-    {
-        "question_id": 41,
-        "question": "The Mau Mau Uprising in Kenya and the Indonesian National Revolution both emerged in response to European colonial domination.",
+        "question_id": 31,
+        "question": "The Greek War of Independence and the Serbian Uprisings both emerged due to dissatisfaction with Ottoman imperial rule.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -454,20 +330,128 @@
         "answer": "a"
     },
     {
-        "question_id": 42,
-        "question": "Which shared issue inspired both the Irish Land League in Ireland and the Mexican Peasant Movement under Zapata?",
+        "question_id": 32,
+        "question": "Which two movements were partially influenced by expanding global trade systems disrupting local authority structures?",
         "type": "MCQ",
         "options": {
-            "a": "Cultural revival",
-            "b": "Land inequality",
-            "c": "Foreign invasion",
-            "d": "Industrial reform"
+            "a": "Arab Spring & Velvet Revolution",
+            "b": "Zulu Resistance & Boxer Rebellion",
+            "c": "Suffrage Movement & Civil Rights Movement",
+            "d": "Tanzimat Reforms & Meiji Restoration"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 33,
+        "question": "The Satsuma Rebellion in Japan and the Janissary Revolt in the Ottoman Empire both emerged from military elites resisting modernization.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 34,
+        "question": "The Harlem Renaissance and the Meiji Restoration both emerged due to intense state-driven modernization campaigns.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
         },
         "answer": "b"
     },
     {
+        "question_id": 35,
+        "question": "Which movements were fueled by economic grievances among rural peasant communities facing new tax burdens?",
+        "type": "MCQ",
+        "options": {
+            "a": "German Peasants' War & Russian Emancipation Revolts",
+            "b": "Arab Spring & French Revolution",
+            "c": "Boxer Rebellion & Civil Rights Movement",
+            "d": "Luddite Movement & Paris Commune"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 36,
+        "question": "The Angolan Independence War and the Algerian War of Independence both emerged due to identical European settler colonial systems.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 37,
+        "question": "The Arab Spring in Libya and the Arab Spring in Syria emerged under nearly identical political structures and contexts.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 38,
+        "question": "Which movements emerged in contexts where religious reform ideologies challenged existing political authority?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Civil Rights Movement",
+            "b": "Luddite Movement & Velvet Revolution",
+            "c": "Hussite Wars & Taiping Rebellion",
+            "d": "Boston Tea Party & Persian Tobacco Protest"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 39,
+        "question": "The Scottish Covenanter Movement and the Iranian Constitutional Revolution both emerged due to conflicts over religious authority within the state.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 40,
+        "question": "Which movements were triggered by widespread rural frustration with feudal or feudal-like social structures?",
+        "type": "MCQ",
+        "options": {
+            "a": "German Peasants’ War & French Jacquerie",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "Boxer Rebellion & Luddite Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 41,
+        "question": "The Meiji Restoration in Japan and the Tanzimat Reforms in the Ottoman Empire both emerged due to fear of direct European colonization rather than internal instability.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 42,
+        "question": "Which two movements were primarily driven by social groups attempting to preserve pre-existing communal land systems threatened by new economic reforms?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mexican Zapatista Movement & Scottish Crofters’ War",
+            "b": "Arab Spring & French May 1968",
+            "c": "Boston Tea Party & French Revolution",
+            "d": "Janissary Revolt & Satsuma Rebellion"
+        },
+        "answer": "a"
+    },
+    {
         "question_id": 43,
-        "question": "The Haitian Revolution and the Quilombo movements in Brazil emerged in response to severe racial oppression and enslavement.",
+        "question": "The Iranian Constitutional Revolution and the Young Turk Revolution both emerged due to dissatisfaction with traditional monarchic authority, but only one sought to preserve religious clerical influence rather than reduce it.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -477,41 +461,41 @@
     },
     {
         "question_id": 44,
-        "question": "Both the Young Turk Revolution in the Ottoman Empire and the Meiji Restoration in Japan were responses to which shared problem?",
+        "question": "Which movements reacted primarily to threats posed by expanding missionary networks rather than to direct military occupation?",
         "type": "MCQ",
         "options": {
-            "a": "Environmental disasters",
-            "b": "Dynastic collapse",
-            "c": "Need for modernization",
-            "d": "Religious discrimination"
+            "a": "Mau Mau Uprising & Herero Rebellion",
+            "b": "Boxer Rebellion & Ghost Dance Movement",
+            "c": "Arab Revolt & Hungarian Revolution of 1848",
+            "d": "Civil Rights Movement & Suffrage Movement"
         },
-        "answer": "c"
+        "answer": "b"
     },
     {
         "question_id": 45,
-        "question": "The Boxer Rebellion in China and the Ghost Dance Movement in the United States both emerged due to resistance against foreign cultural influence.",
+        "question": "The Taiping Rebellion and the Paris Commune both arose from grievances involving state-imposed religious changes.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
-    },
-    {
-        "question_id": 46,
-        "question": "The Suffrage Movement in New Zealand and the Suffrage Movement in Finland both responded primarily to:",
-        "type": "MCQ",
-        "options": {
-            "a": "Industrial pollution",
-            "b": "Gender inequality",
-            "c": "Border conflicts",
-            "d": "Military conscription"
-        },
         "answer": "b"
     },
     {
+        "question_id": 46,
+        "question": "Which two movements attempted to reject modern state-building projects by reviving earlier political or religious orders?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mahdist Revolution & Scottish Covenanter Movement",
+            "b": "Arab Spring & French Revolution",
+            "c": "Satsuma Rebellion & Boston Tea Party",
+            "d": "Civil Rights Movement & Meiji Restoration"
+        },
+        "answer": "a"
+    },
+    {
         "question_id": 47,
-        "question": "The Zulu Resistance in South Africa and the Apache Resistance in the United States both emerged due to land dispossession.",
+        "question": "The Satsuma Rebellion in Japan and the Luddite Movement in England both emerged because skilled groups feared loss of economic status due to rapid technological change.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -521,63 +505,63 @@
     },
     {
         "question_id": 48,
-        "question": "Which issue led to both the Syrian Great Revolt (1925) and the Moroccan Rif War?",
+        "question": "Which movements were fueled primarily by resentment against the introduction of foreign-backed administrative elites rather than military rule itself?",
         "type": "MCQ",
         "options": {
-            "a": "Religious reform",
-            "b": "Colonial oppression",
-            "c": "Economic speculation",
-            "d": "Border negotiations"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 49,
-        "question": "The French Revolution and the Russian Revolution both emerged in response to extreme economic inequality.",
-        "type": "T/F",
-        "options": {
-            "a": "True",
-            "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 50,
-        "question": "The Taiping Rebellion in China and the Janissary Revolt in the Ottoman Empire were both driven by:",
-        "type": "MCQ",
-        "options": {
-            "a": "Environmental collapse",
-            "b": "Military modernization issues",
-            "c": "Religious visions",
-            "d": "Population migration"
+            "a": "Arab Spring & Boxer Rebellion",
+            "b": "Mau Mau Uprising & Suffrage Movement",
+            "c": "Egyptian Urabi Revolt & Korean Gabo Reform Resistance",
+            "d": "Taiping Rebellion & Tanzimat Reforms"
         },
         "answer": "c"
     },
     {
-        "question_id": 51,
-        "question": "The Greek War of Independence and the Serbian Uprisings both emerged against Ottoman control.",
+        "question_id": 49,
+        "question": "The Zulu Resistance and the Apache Resistance both emerged in response to missionary-led cultural restructuring rather than territorial pressure.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
+        "answer": "b"
+    },
+    {
+        "question_id": 50,
+        "question": "Which movements were driven by marginalized warrior classes resisting their state's attempt to professionalize the military?",
+        "type": "MCQ",
+        "options": {
+            "a": "Satsuma Rebellion & Janissary Revolt",
+            "b": "Zulu Resistance & Herero Rebellion",
+            "c": "French Revolution & Haitian Revolution",
+            "d": "Indian Mutiny & Arab Spring"
+        },
         "answer": "a"
     },
     {
-        "question_id": 52,
-        "question": "Which shared cause led to both the Boxer Rebellion in China and the Maji Maji Rebellion in German East Africa?",
-        "type": "MCQ",
+        "question_id": 51,
+        "question": "The French May 1968 Movement and the Mexican Cristero Rebellion both emerged because governments imposed secular modernization in culturally conservative regions.",
+        "type": "T/F",
         "options": {
-            "a": "Industrialization",
-            "b": "Colonial coercion",
-            "c": "Religious schisms",
-            "d": "Territorial expansion"
+            "a": "True",
+            "b": "False"
         },
         "answer": "b"
     },
     {
+        "question_id": 52,
+        "question": "Which two movements involved a struggle against newly centralized bureaucratic governance rather than foreign dominance?",
+        "type": "MCQ",
+        "options": {
+            "a": "German Peasants’ War & Red Turban Rebellion",
+            "b": "Mau Mau Uprising & Arab Revolt",
+            "c": "Haitian Revolution & Boxer Rebellion",
+            "d": "Greek War of Independence & Serbian Uprising"
+        },
+        "answer": "a"
+    },
+    {
         "question_id": 53,
-        "question": "The Chilean Mapuche Resistance and the North American Plains Resistance both emerged in response to settlers encroaching on native land.",
+        "question": "The Boston Tea Party and the Salt March both emerged because of opposition to monopolistic taxation on essential commodities, yet only one aimed to challenge global imperial trade structures directly.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -587,63 +571,63 @@
     },
     {
         "question_id": 54,
-        "question": "What common issue triggered both the German Peasants' War and the Russian Emancipation Revolts?",
+        "question": "Which pair of movements arose primarily because elites feared losing political power to newly educated social classes?",
         "type": "MCQ",
         "options": {
-            "a": "Tax reforms",
-            "b": "Feudal oppression",
-            "c": "Climate change",
-            "d": "Religious conversions"
+            "a": "Tanzimat Reforms Opposition & Japanese Anti-Meiji Samurais",
+            "b": "French Revolution & Arab Spring",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "Herero Rebellion & Mau Mau Uprising"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 55,
-        "question": "The Cuban Ten Years' War and the Filipino Revolution both emerged due to dissatisfaction with Spanish colonial rule.",
+        "question": "The Greek War of Independence and the Paris Commune both emerged due to nationalist struggles within multi-ethnic imperial systems.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 56,
-        "question": "Which problem sparked both the British Chartist Movement and the Russian Decembrist Movement?",
+        "question": "Which movements were primarily motivated by the fear that foreign-backed urban elites were displacing traditional rural authorities?",
         "type": "MCQ",
         "options": {
-            "a": "Representation and political reform",
-            "b": "Colonial taxation",
-            "c": "Religious freedom",
-            "d": "Famine relief"
+            "a": "Arab Spring & French May 1968",
+            "b": "Cabanagem Revolt & Tupac Amaru II Rebellion",
+            "c": "Boxer Rebellion & Sudanese Mahdist War",
+            "d": "Solidarity Movement & Velvet Revolution"
         },
         "answer": "a"
     },
     {
         "question_id": 57,
-        "question": "The Irish Easter Rising and the Vietnamese August Revolution both emerged in response to foreign occupation.",
+        "question": "The Iranian Revolution and the Boxer Rebellion both emerged due to opposition to Western-led cultural transformation rather than political interference.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
-    },
-    {
-        "question_id": 58,
-        "question": "Which shared issue stimulated both the French May 1968 protests and the Japanese Zenkyoto Student Movement?",
-        "type": "MCQ",
-        "options": {
-            "a": "Environmental hazards",
-            "b": "Educational reform and youth rights",
-            "c": "Rural land disputes",
-            "d": "Currency inflation"
-        },
         "answer": "b"
     },
     {
+        "question_id": 58,
+        "question": "Which two movements were triggered by competing religious visions that directly challenged secular or semi-secular state authorities?",
+        "type": "MCQ",
+        "options": {
+            "a": "Harlem Renaissance & Civil Rights Movement",
+            "b": "Arab Spring & French Revolution",
+            "c": "Taiping Rebellion & Mahdist Revolution",
+            "d": "Suffrage Movement & Boston Tea Party"
+        },
+        "answer": "c"
+    },
+    {
         "question_id": 59,
-        "question": "The Armenian National Awakening and the Bulgarian National Revival both emerged due to cultural and political repression under the Ottomans.",
+        "question": "The Crimean Tatar Resistance and the Chechen Resistance both emerged due to long-term demographic displacement by Russian expansionist policies, but only one maintained a sustained separatist ideology from its earliest phases.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -653,63 +637,63 @@
     },
     {
         "question_id": 60,
-        "question": "What shared problem drove both the Brazilian Cabanagem Revolt and the Peruvian Tupac Amaru Rebellion?",
+        "question": "Which movements were driven by attempts to overturn imposed systems of forced labor that resembled slavery, even if not formally labeled as such?",
         "type": "MCQ",
         "options": {
-            "a": "Regional climate issues",
-            "b": "Ethnic discrimination and class oppression",
-            "c": "Religious reforms",
-            "d": "Dynastic succession concerns"
+            "a": "Santhal Rebellion & Zanj Rebellion",
+            "b": "Civil Rights Movement & Suffrage Movement",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Boston Tea Party & Cuban Revolution"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 61,
-        "question": "The Mau Mau Movement in Kenya and the Herero Rebellion in Namibia both emerged due to harsh colonial land policies.",
+        "question": "The Hungarian Revolution of 1848 and the Taiping Rebellion both emerged due to rising middle-class dissatisfaction with land taxation systems.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 62,
-        "question": "Which shared issue motivated both the Paris Commune and the Spanish CNT Labor Movement?",
+        "question": "Which movements were driven primarily by fears that foreign legal systems would replace local customary practices?",
         "type": "MCQ",
         "options": {
-            "a": "Economic inequality",
-            "b": "Foreign invasion",
-            "c": "Cultural suppression",
-            "d": "Scientific reform"
+            "a": "Maori Wars & Indian Mutiny",
+            "b": "French Revolution & Tanzimat Reforms",
+            "c": "Arab Spring & Boxer Rebellion",
+            "d": "Civil Rights Movement & Harlem Renaissance"
         },
         "answer": "a"
     },
     {
         "question_id": 63,
-        "question": "The First Intifada in Palestine and the Mau Mau Uprising in Kenya both emerged in response to military occupation.",
+        "question": "The Mexican Revolution and the Russian Revolution both emerged due to peasant anger at industrial monopolies rather than land inequality.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 64,
-        "question": "The shared problem behind both the Scottish Covenanter Movement and the Hussite Wars was:",
+        "question": "Which movements were triggered by the imposition of newly centralized religious institutions perceived as threats to local autonomy?",
         "type": "MCQ",
         "options": {
-            "a": "Taxation issues",
-            "b": "Religious persecution",
-            "c": "Foreign settlement",
-            "d": "Agricultural collapse"
+            "a": "Arab Spring & Velvet Revolution",
+            "b": "Hussite Wars & Scottish Covenanter Movement",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "Boston Tea Party & Persian Tobacco Protest"
         },
         "answer": "b"
     },
     {
         "question_id": 65,
-        "question": "The Mau Mau Movement and the Rhodesian Bush War both emerged as anti-colonial liberation efforts.",
+        "question": "The Mau Mau Movement and the Tupac Amaru II Rebellion both emerged due to indigenous attempts to resist elite collaboration with foreign authority rather than foreign authority itself.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -719,41 +703,41 @@
     },
     {
         "question_id": 66,
-        "question": "Which issue sparked both the Boxer Rebellion and the Taiping Rebellion in China?",
+        "question": "Which movements were driven primarily by resentment against commercial treaties that eroded domestic economic autonomy?",
         "type": "MCQ",
         "options": {
-            "a": "Foreign influence and instability",
-            "b": "Agricultural reforms",
-            "c": "Maritime disputes",
-            "d": "Currency regulation"
+            "a": "Opium War Chinese Resistance & Polish Confederation of Bar",
+            "b": "French Revolution & Civil Rights Movement",
+            "c": "Arab Spring & Greek War of Independence",
+            "d": "Haitian Revolution & Janissary Revolt"
         },
         "answer": "a"
     },
     {
         "question_id": 67,
-        "question": "The Samnite Wars and the Gallic Wars both emerged from Roman expansion into tribal lands.",
+        "question": "The Numidian War against Rome and the Jewish Revolt against Rome both emerged due to competition for trade routes rather than political autonomy concerns.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
-    },
-    {
-        "question_id": 68,
-        "question": "Which shared cause fueled both the Hungarian Revolution of 1848 and the Italian Risorgimento?",
-        "type": "MCQ",
-        "options": {
-            "a": "Religious divisions",
-            "b": "Nationalist aspirations",
-            "c": "Trade blockades",
-            "d": "Climate disasters"
-        },
         "answer": "b"
     },
     {
+        "question_id": 68,
+        "question": "Which movements were partially triggered by elite fears that sudden mass literacy would undermine hierarchical authority?",
+        "type": "MCQ",
+        "options": {
+            "a": "Janissary Revolt & Russian Emancipation Unrest",
+            "b": "Suffrage Movement & Civil Rights Movement",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Haitian Revolution & Taiping Rebellion"
+        },
+        "answer": "a"
+    },
+    {
         "question_id": 69,
-        "question": "The Helot Revolts in Sparta and the Servile Wars in Rome both emerged in response to oppressive slavery systems.",
+        "question": "The Haitian Revolution and the Servile Wars in Rome both emerged primarily from enslaved populations but diverged over whether foreign intervention strengthened or weakened the rebellion.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -763,19 +747,19 @@
     },
     {
         "question_id": 70,
-        "question": "Which problem triggered both the Dutch Revolt and the Portuguese Restoration War?",
+        "question": "Which movements were driven by resistance to assimilation into expanding Christianized political systems rather than by direct economic exploitation?",
         "type": "MCQ",
         "options": {
-            "a": "High grain prices",
-            "b": "Spanish imperial control",
-            "c": "Religious famine rituals",
-            "d": "Dynastic traditions"
+            "a": "Ghost Dance Movement & Maori Religious Resistance",
+            "b": "Arab Spring & French Revolution",
+            "c": "Civil Rights Movement & Harlem Renaissance",
+            "d": "Mau Mau Uprising & Herero Rebellion"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 71,
-        "question": "The Meiji Restoration and the Tanzimat Reforms both emerged due to the need for modernization.",
+        "question": "The Berlin Wall Protests and the Solidarity Movement in Poland both emerged due to dissatisfaction with Soviet-style economic stagnation, but only one centered its critique on labor rights issues.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -785,19 +769,19 @@
     },
     {
         "question_id": 72,
-        "question": "Which shared problem influenced both the English Peasants' Revolt and the French Jacquerie?",
+        "question": "Which movements were catalyzed by widespread resentment against new census and documentation systems seen as precursors to taxation or conscription?",
         "type": "MCQ",
         "options": {
-            "a": "Currency inflation",
-            "b": "Heavy feudal taxation",
-            "c": "Religious schism",
-            "d": "Naval expansion"
+            "a": "French Revolution & Arab Spring",
+            "b": "Census Riots in India & Qing Dynasty Miao Rebellions",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "Boston Tea Party & Zulu Resistance"
         },
         "answer": "b"
     },
     {
         "question_id": 73,
-        "question": "The German Revolution of 1918 and the Russian Revolution of 1917 both emerged due to wartime economic collapse.",
+        "question": "The Arab Spring in Libya and the Cuban Revolution both emerged due to long-term personalist dictatorships, yet only one involved significant foreign military intervention at the moment of crisis.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -807,19 +791,19 @@
     },
     {
         "question_id": 74,
-        "question": "What shared issue triggered both the Numidian War and the Jewish Revolt against Rome?",
+        "question": "Which movements emerged from elite factions attempting to reclaim political authority from rapidly centralizing monarchies?",
         "type": "MCQ",
         "options": {
-            "a": "Trade tariffs",
-            "b": "Roman interference",
-            "c": "Agricultural disputes",
-            "d": "Religious schism"
+            "a": "Portuguese Restoration War & Dutch Revolt",
+            "b": "Arab Spring & Civil Rights Movement",
+            "c": "French Revolution & Haitian Revolution",
+            "d": "Taiping Rebellion & Boxer Rebellion"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 75,
-        "question": "The Iranian Constitutional Revolution and the Young Turk Revolution both emerged in response to autocratic monarchy.",
+        "question": "The Velvet Revolution in Czechoslovakia and the Tiananmen Square Protests both emerged as critiques of communist rule, but only one occurred during a period of attempted liberalization rather than retrenchment.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -829,19 +813,19 @@
     },
     {
         "question_id": 76,
-        "question": "Which issue motivated both the Bogota Gaitanista Movement and the Mexican Cristero Rebellion?",
+        "question": "Which movements arose principally because foreign-backed religious reforms attempted to reorganize local belief structures?",
         "type": "MCQ",
         "options": {
-            "a": "Religious restrictions",
-            "b": "Agricultural reforms",
-            "c": "Foreign rule",
-            "d": "Mining disputes"
+            "a": "Hawaiian Queen Dowager Resistance & Maori Pai Mārire Movement",
+            "b": "Civil Rights Movement & Suffrage Movement",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Tanzimat Reforms & Meiji Restoration"
         },
         "answer": "a"
     },
     {
         "question_id": 77,
-        "question": "The Berber Revolts in North Africa and the Saxon Rebellions in Germany both emerged in response to forced imperial rule.",
+        "question": "The Bulgarian National Revival and the Armenian National Awakening both emerged due to cultural restrictions within the Ottoman Empire, but only one initially avoided political separatism.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -851,19 +835,19 @@
     },
     {
         "question_id": 78,
-        "question": "Which shared problem influenced both the Burmese Independence Movement and the Indonesian National Revolution?",
+        "question": "Which movements were partly driven by rural communities resisting the introduction of European cash-crop systems that undermined subsistence economies?",
         "type": "MCQ",
         "options": {
-            "a": "Climate disaster",
-            "b": "European colonial exploitation",
-            "c": "Dynastic rivalry",
-            "d": "Religious fragmentation"
+            "a": "Maji Maji Rebellion & Samoan Mau Movement",
+            "b": "Arab Spring & French Revolution",
+            "c": "Suffrage Movement & Boston Tea Party",
+            "d": "Boxer Rebellion & Cuban Revolution"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 79,
-        "question": "The Polish Solidarity Movement and the East German Peaceful Revolution both emerged to resist authoritarian communist structures.",
+        "question": "The Algerian War of Independence and the Indian Mutiny both emerged due to anxieties about cultural erasure under foreign rule, yet only one was explicitly structured as a modern guerrilla war.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -873,41 +857,41 @@
     },
     {
         "question_id": 80,
-        "question": "Which shared cause fueled both the American Labor Movement and the British Trade Union Movement?",
+        "question": "Which movements involved strong resistance to newly expanding census, taxation, and conscription systems imposed by modernizing central governments?",
         "type": "MCQ",
         "options": {
-            "a": "Worker exploitation",
-            "b": "Foreign enemies",
-            "c": "Elite marriages",
-            "d": "Naval disputes"
+            "a": "Russian Emancipation Unrest & Greek Klepht Resistance",
+            "b": "Civil Rights Movement & Harlem Renaissance",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "French Revolution & Suffrage Movement"
         },
         "answer": "a"
     },
     {
         "question_id": 81,
-        "question": "The Santhal Rebellion in India and the Zanj Rebellion in Abbasid Iraq both emerged due to extreme labor exploitation.",
+        "question": "The Bandung Conference Movement and the Non-Aligned Movement both emerged from nations seeking to avoid Cold War alignment, but only one initially included states that were already receiving military aid from a superpower.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 82,
-        "question": "Which shared problem triggered both the Maori Wars in New Zealand and the First Italo-Ethiopian War?",
+        "question": "Which two movements were triggered primarily by elites attempting to prevent rural militias from gaining political influence, even though both were later framed as anti-colonial struggles?",
         "type": "MCQ",
         "options": {
-            "a": "Religious persecution",
-            "b": "Trade monopolies",
-            "c": "Foreign encroachment",
-            "d": "Internal succession crises"
+            "a": "Egyptian‘Urabi Revolt & Philippine Revolution",
+            "b": "Mau Mau Uprising & Haitian Revolution",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Irish Independence Movement & American Revolution"
         },
-        "answer": "c"
+        "answer": "a"
     },
     {
         "question_id": 83,
-        "question": "The Peasants’ Revolt in England and the Red Turban Rebellion in China both emerged due to oppressive feudal systems.",
+        "question": "The Bolshevik Revolution and the Mexican Revolution both emerged due to peasant demands for collective land ownership, but only one framed collectivization as a temporary measure.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -917,19 +901,19 @@
     },
     {
         "question_id": 84,
-        "question": "Which shared factor motivated both the Berber Revolts against the Umayyads and the Bulgarian Uprising under Ottoman rule?",
+        "question": "Which movements were fueled by opposition to new calendar reforms that unintentionally destabilized religious legitimacy?",
         "type": "MCQ",
         "options": {
-            "a": "Climate disasters",
-            "b": "Trade restrictions",
-            "c": "Religious repression",
-            "d": "Loss of regional autonomy"
+            "a": "Taiping Rebellion & Mahdist Revolution",
+            "b": "Arab Spring & Tanzimat Reforms",
+            "c": "Boston Tea Party & Glorious Revolution",
+            "d": "French Revolution & Miao Rebellions"
         },
         "answer": "d"
     },
     {
         "question_id": 85,
-        "question": "The Egyptian Urabi Revolt and the Persian Tobacco Protest both emerged in response to foreign economic control.",
+        "question": "The Fall of the Soviet Union and the Meiji Restoration both emerged due to rapid elite-driven modernization efforts overwhelming traditional power structures.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -939,151 +923,195 @@
     },
     {
         "question_id": 86,
-        "question": "Which issue led both the Swiss Sonderbund War and the Spanish Carlist Wars?",
+        "question": "Which movements involved resistance not to foreign invasion, but to foreign exemptions from local laws, such as extraterritoriality or capitulations?",
         "type": "MCQ",
         "options": {
-            "a": "Foreign invasions",
-            "b": "Class-based taxation",
-            "c": "Religious-political divisions",
-            "d": "Territorial collapse"
+            "a": "Boxer Rebellion & Persian Tobacco Protest",
+            "b": "Arab Spring & French Revolution",
+            "c": "Civil Rights Movement & Harlem Renaissance",
+            "d": "Haitian Revolution & Janissary Revolt"
         },
-        "answer": "c"
+        "answer": "a"
     },
     {
         "question_id": 87,
-        "question": "The Pueblo Revolt in New Mexico and the Mapuche Resistance in Chile both emerged due to forced assimilation and missionary pressure.",
+        "question": "The Haitian Revolution and the American Revolution both emerged due to economic exploitation by imperial powers, but only one aimed explicitly to dismantle the economic structure of slavery from the outset.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 88,
-        "question": "Which shared problem influenced both the German Peasants’ War and the Swiss Peasant War of 1653?",
+        "question": "Which movements featured groups who supported foreign rule early on but later turned against it after administrative restructuring threatened local patronage networks?",
         "type": "MCQ",
         "options": {
-            "a": "Border disputes",
-            "b": "Weather anomalies",
-            "c": "Feudal oppression",
-            "d": "Royal succession crises"
+            "a": "Indian Mutiny & Algerian FLN",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "French Revolution & Glorious Revolution",
+            "d": "Mau Mau Uprising & Herero Rebellion"
         },
-        "answer": "c"
+        "answer": "a"
     },
     {
         "question_id": 89,
-        "question": "The Irish Confederate Wars and the Dutch Revolt both emerged due to struggles for religious and political autonomy.",
+        "question": "The Irish Easter Rising and the Greek War of Independence both emerged due to rising cultural nationalism, but only one initially expected foreign intervention that never materialized.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 90,
-        "question": "Which shared issue triggered both the French Wars of Religion and the Thirty Years’ War?",
+        "question": "Which two movements resisted new agricultural taxation systems that demanded cash payments rather than traditional in-kind contributions?",
         "type": "MCQ",
         "options": {
-            "a": "Naval expansion",
-            "b": "Trade regulation",
-            "c": "Religious conflict",
-            "d": "Territorial inheritance disputes"
+            "a": "Arab Spring & Civil Rights Movement",
+            "b": "Santhal Rebellion & Egyptian ‘Urabi Revolt",
+            "c": "French Revolution & Boston Tea Party",
+            "d": "Velvet Revolution & Suffrage Movement"
         },
-        "answer": "c"
+        "answer": "b"
     },
     {
         "question_id": 91,
-        "question": "The Persian Constitutional Revolution and the Ottoman Young Turk Revolution both emerged due to resistance to autocracy.",
+        "question": "The Mau Mau Movement and French May 1968 both emerged due to dissatisfaction with generational power imbalances, but only one transformed into an armed insurgency as its central mode of protest.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 92,
-        "question": "Which shared problem influenced both the Taiping Rebellion in China and the Chiliastic Movements in medieval Europe?",
+        "question": "Which movements were partly triggered by the collapse of international commodity prices, even though later narratives framed them as purely political uprisings?",
         "type": "MCQ",
         "options": {
-            "a": "Border conflicts",
-            "b": "Currency collapse",
-            "c": "Religious apocalyptic beliefs",
-            "d": "Trade embargoes"
+            "a": "Cuban Revolution & Iranian Revolution",
+            "b": "Arab Spring & French Revolution",
+            "c": "Boston Tea Party & American Revolution",
+            "d": "Satsuma Rebellion & Taiping Rebellion"
         },
-        "answer": "c"
+        "answer": "a"
     },
     {
         "question_id": 93,
-        "question": "The Serbian Revolution and the Greek Revolution both emerged due to Ottoman political domination.",
+        "question": "The Arab Revolt during World War I and the Hungarian Revolution of 1848 both emerged due to national groups seeking autonomy, but only one was strategically encouraged by a rival empire for geopolitical gain.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 94,
-        "question": "Which issue caused both the Crimean Tatar Resistance and the Chechen Resistance in the Caucasus?",
+        "question": "Which movements involved attempts to reverse enforced cultural assimilation of children, rather than general population assimilation?",
         "type": "MCQ",
         "options": {
-            "a": "Maritime disputes",
-            "b": "Dynastic fragmentation",
-            "c": "Imperial Russian expansion",
-            "d": "Religious reform"
+            "a": "Native American Boarding School Resistance & Maori Kohanga Reo Revival",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "Haitian Revolution & Glorious Revolution",
+            "d": "French Revolution & Civil Rights Movement"
         },
-        "answer": "c"
+        "answer": "a"
     },
     {
         "question_id": 95,
-        "question": "The Egyptian Fellahin Revolts and the Russian Pugachev Rebellion both emerged due to harsh serfdom-like conditions.",
+        "question": "The American Civil Rights Movement and the Indian Independence Movement both emerged due to structural discrimination systems, but only one targeted a formally codified racial hierarchy at the national level.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 96,
-        "question": "Which shared factor motivated both the Sikh Wars in Punjab and the Zulu Wars in South Africa?",
+        "question": "Which movements involved uprisings that began due to sudden increases in food prices but were later reframed as ideological revolutions?",
         "type": "MCQ",
         "options": {
-            "a": "Internal religious conflict",
-            "b": "Agricultural failure",
-            "c": "Resistance to imperial expansion",
-            "d": "Currency reform"
+            "a": "French Revolution & Russian Revolution",
+            "b": "Arab Spring & Boston Tea Party",
+            "c": "Mau Mau Uprising & Taiping Rebellion",
+            "d": "Haitian Revolution & Janissary Revolt"
         },
-        "answer": "c"
+        "answer": "a"
     },
     {
         "question_id": 97,
-        "question": "The Boxer Rebellion in China and the Egyptian Mahdist Movement both emerged due to resistance against foreign intrusion.",
+        "question": "The Boxer Rebellion and the Ghost Dance Movement both emerged due to fears of spiritual annihilation, but only one integrated foreign technology into its rituals despite rejecting foreign influence.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 98,
-        "question": "Which shared cause influenced both the Spanish Revolt of the Comuneros and the Neapolitan Revolt of Masaniello?",
+        "question": "Which two movements attempted to use apocalyptic or millenarian ideologies to justify political restructuring, even though only one achieved initial territorial control?",
         "type": "MCQ",
         "options": {
-            "a": "Loss of dynastic legitimacy",
-            "b": "Natural disasters",
-            "c": "Harsh taxation and economic pressure",
-            "d": "Forced religious conversion"
+            "a": "Taiping Rebellion & Xhosa Cattle-Killing Movement",
+            "b": "Arab Spring & Civil Rights Movement",
+            "c": "French Revolution & Haitian Revolution",
+            "d": "Tanzimat Reforms & Meiji Restoration"
         },
-        "answer": "c"
+        "answer": "a"
     },
     {
         "question_id": 99,
-        "question": "The Anglo-Irish War and the Algerian War of Independence both emerged due to nationalist resistance to foreign rule.",
+        "question": "The Serbian Uprising and the Armenian National Awakening both emerged from Christian groups under Ottoman rule, but only one obtained explicit Russian military backing during its early phase.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 100,
+        "question": "Which movements opposed the introduction of Western education systems while simultaneously attempting to build alternative religious schooling networks?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mahdist Revolution & Deobandi Movement",
+            "b": "French Revolution & Civil Rights Movement",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Boston Tea Party & Suffrage Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 101,
+        "question": "The Springtime of Nations (1848 Revolutions) and the Arab Spring both emerged due to rising middle-class frustration, but only one was preceded by decades of censorship infrastructure explicitly designed to preempt revolt.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 102,
+        "question": "Which movements were triggered by legal reforms that unintentionally expanded rights for groups previously excluded from political processes, creating backlash from traditional elites?",
+        "type": "MCQ",
+        "options": {
+            "a": "Revolt of the Janissaries & Satsuma Rebellion",
+            "b": "French Revolution & Haitian Revolution",
+            "c": "American Revolution & Boston Tea Party",
+            "d": "Arab Spring & Russian Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 103,
+        "question": "The Taiping Rebellion and the Iranian Revolution both emerged due to dissatisfaction with foreign cultural intrusion, but only one targeted internal religious authorities more aggressively than foreign powers.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1092,15 +1120,631 @@
         "answer": "b"
     },
     {
-        "question_id": 100,
-        "question": "Which issue sparked both the Haitian Revolution and the Brazilian Malê Revolt?",
+        "question_id": 104,
+        "question": "Which movements opposed foreign taxation systems that were technically lower than local systems but symbolically more humiliating?",
         "type": "MCQ",
         "options": {
-            "a": "Colonial taxation",
-            "b": "Trade disputes",
-            "c": "Racial oppression and slavery",
-            "d": "Religious fragmentation"
+            "a": "American Revolution & Egyptian ‘Urabi Revolt",
+            "b": "Arab Spring & French Revolution",
+            "c": "Civil Rights Movement & Harlem Renaissance",
+            "d": "Haitian Revolution & Janissary Revolt"
         },
-        "answer": "c"
+        "answer": "a"
+    },
+    {
+        "question_id": 105,
+        "question": "The Algerian FLN War and the Palestinian First Intifada both emerged due to settler expansion, but only one possessed a centralized military command structure from its earliest phase.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 106,
+        "question": "Which movements involved mass violence triggered by rumor-driven panics about cultural desecration of sacred sites rather than deliberate political planning?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indian Mutiny & Boxer Rebellion",
+            "b": "French Revolution & Boston Tea Party",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Mau Mau Uprising & Herero Rebellion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 107,
+        "question": "The Cuban Revolution and the Chinese Communist Revolution both emerged due to peasant dissatisfaction, but only one initially relied heavily on rural guerrilla warfare doctrine imported from another region.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 108,
+        "question": "Which movements resisted conscription systems that simultaneously offered unprecedented economic mobility to lower-class populations, creating internal divisions within the resistance itself?",
+        "type": "MCQ",
+        "options": {
+            "a": "Irish Anti-Conscription Movement & Russian Emancipation Unrest",
+            "b": "Arab Spring & French Revolution",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "Taiping Rebellion & Tanzimat Reforms"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 109,
+        "question": "The Xhosa Cattle-Killing Movement and the Ghost Dance Movement both emerged due to millenarian expectations, but only one resulted in deliberate ecological self-destruction as a strategic act of resistance.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 110,
+        "question": "Which two movements emerged due to attempts by local rulers to centralize legal systems that previously allowed overlapping jurisdictions, causing backlash from groups losing privilege?",
+        "type": "MCQ",
+        "options": {
+            "a": "Tanzimat Reforms Opposition & Meiji Anti-Centralization Factions",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "Civil Rights Movement & American Revolution",
+            "d": "Haitian Revolution & Janissary Revolt"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 111,
+        "question": "The French May 1968 Movement and the Russian 1905 Revolution both emerged due to student radicalization, but only one quickly escalated into nationwide labor strikes with transformative political negotiations.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 112,
+        "question": "Which movements emerged partly because the ruling elites introduced new military uniforms or drills perceived as violating religious obligations?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indian Mutiny & Janissary Revolt",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "French Revolution & Civil Rights Movement",
+            "d": "Mau Mau Uprising & Boston Tea Party"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 113,
+        "question": "The Tupac Amaru II Rebellion and the Mexican Cristero War both emerged due to rural resistance to state centralization, but only one sought a return to pre-colonial governance norms rather than religious autonomy.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 114,
+        "question": "Which movements were triggered by imprisonment of key leaders whose detainment unexpectedly unified previously competing factions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indian Independence Movement & Irish Independence Movement",
+            "b": "Arab Spring & French Revolution",
+            "c": "Civil Rights Movement & Harlem Renaissance",
+            "d": "Tanzimat Reforms & Meiji Restoration"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 115,
+        "question": "The Solidarity Movement in Poland and the Velvet Revolution both emerged due to dissatisfaction with communist rule, but only one directly challenged a powerful state-backed labor union system.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 116,
+        "question": "Which movements resisted the imposition of census systems designed not for taxation but for ethno-political classification as part of imperial identity projects?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rwandan Pre-Colonial Resistance & Burmese Anti-Panglong Opposition",
+            "b": "Arab Spring & Glorious Revolution",
+            "c": "French Revolution & Civil Rights Movement",
+            "d": "Boston Tea Party & Tanzimat Reforms"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 117,
+        "question": "The Mau Mau Movement and the Zapatista Uprising both emerged due to land alienation, but only one developed a hybrid ideological framework combining indigenous cosmology with Marxist theory.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 118,
+        "question": "Which movements emerged due to resentment toward military conscription policies that explicitly exempted wealthier citizens, creating class-based tensions?",
+        "type": "MCQ",
+        "options": {
+            "a": "New York Draft Riots & Greek Klepht Resistance",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "French Revolution & Boston Tea Party",
+            "d": "Civil Rights Movement & Suffrage Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 119,
+        "question": "The Egyptian ‘Urabi Revolt and the Boxer Rebellion both emerged due to growing fears of foreign military dominance, but only one began with demands for equal military pay for native soldiers.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 120,
+        "question": "Which two movements originated from communities attempting to restore pre-colonial judicial practices that had been replaced by imported legal codes?",
+        "type": "MCQ",
+        "options": {
+            "a": "Burkina Faso Mossi Courts Revival & Maori King Movement",
+            "b": "Arab Spring & French Revolution",
+            "c": "Civil Rights Movement & Harlem Renaissance",
+            "d": "Boston Tea Party & Glorious Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 121,
+        "question": "The Persian Constitutional Revolution and the Young Turk Revolution both emerged due to declining legitimacy of hereditary monarchies, but only one initially framed its demands using explicitly religious language.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 122,
+        "question": "Which two movements resisted not foreign rule directly, but the growing influence of foreign-trained bureaucrats inside their own governments?",
+        "type": "MCQ",
+        "options": {
+            "a": "Urabi Revolt & Satsuma Rebellion",
+            "b": "French Revolution & American Revolution",
+            "c": "Arab Spring & Algerian FLN",
+            "d": "Mau Mau Uprising & Taiping Rebellion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 123,
+        "question": "The Albanian National Awakening and the Bulgarian National Revival both grew due to rising linguistic nationalism, but only one prioritized religious autonomy over language reform during its early phase.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 124,
+        "question": "Which movements arose primarily from fears that commercial treaties would erase local merchant guild privileges rather than harm national sovereignty?",
+        "type": "MCQ",
+        "options": {
+            "a": "Persian Tobacco Protest & Qing Anti-Treaty Resistance",
+            "b": "Boston Tea Party & French Revolution",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Suffrage Movement & Civil Rights Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 125,
+        "question": "The Maji Maji Rebellion and the Herero Rebellion both resulted from harsh colonial labor systems, but only one framed its resistance as a spiritual mandate guaranteeing physical invulnerability.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 126,
+        "question": "Which pair of movements attempted to fuse religious revivalism with political modernization, but only one collapsed due to internal doctrinal disputes rather than military defeat?",
+        "type": "MCQ",
+        "options": {
+            "a": "Taiping Rebellion & Islamic Modernist Movement in Egypt",
+            "b": "Arab Spring & French Revolution",
+            "c": "Meiji Restoration & Russian Revolution",
+            "d": "Suffrage Movement & Harlem Renaissance"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 127,
+        "question": "The Prague Spring and the Hungarian 1956 Revolution both emerged from dissatisfaction with Soviet rule, but only one explicitly rejected the idea of withdrawing from the Warsaw Pact at its outset.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 128,
+        "question": "Which movements were ignited by sudden currency devaluations that unintentionally impoverished middle-class trading communities?",
+        "type": "MCQ",
+        "options": {
+            "a": "Iranian Revolution & Philippine People Power Revolution",
+            "b": "French Revolution & Civil Rights Movement",
+            "c": "Arab Spring & Glorious Revolution",
+            "d": "American Revolution & Greek War of Independence"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 129,
+        "question": "The 1848 German Revolutions and the Hungarian Revolution of the same year both emerged due to nationalist aspirations, but only one came from elites already integrated into imperial administrative structures.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 130,
+        "question": "Which two movements emerged due to new land surveys that replaced informal usage rights with official title systems, creating unexpected conflicts among local communities?",
+        "type": "MCQ",
+        "options": {
+            "a": "Santhal Rebellion & Maori Land Wars",
+            "b": "French Revolution & American Revolution",
+            "c": "Arab Spring & Velvet Revolution",
+            "d": "Taiping Rebellion & Boxer Rebellion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 131,
+        "question": "The Mau Mau Uprising and the Algerian War of Independence both emerged due to rural dispossession, but only one faced internal factional conflict over whether negotiation was acceptable.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 132,
+        "question": "Which movements involved local rulers resisting the introduction of conscription policies that threatened their ability to maintain personal armed retinues?",
+        "type": "MCQ",
+        "options": {
+            "a": "Maratha Confederacy Resistance & Sokoto Caliphate Resistance",
+            "b": "Arab Spring & Civil Rights Movement",
+            "c": "French Revolution & Russian Revolution",
+            "d": "Boston Tea Party & Glorious Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 133,
+        "question": "The Latvian National Awakening and the Ukrainian National Revival both gained momentum due to cultural repression in multi-ethnic empires, but only one initially focused on economic cooperatives rather than political autonomy.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 134,
+        "question": "Which two movements attempted to reclaim local judicial systems undermined by imperial standardization, even though both were later portrayed as nationalist uprisings?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indian Mutiny & Sudanese Mahdist Movement",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "French Revolution & Haitian Revolution",
+            "d": "American Revolution & Greek War of Independence"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 135,
+        "question": "The Satsuma Rebellion and the Boxer Rebellion both involved violent opposition to modernization, but only one targeted domestic government institutions far more than foreign influences.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 136,
+        "question": "Which movements arose from the collapse of traditional patronage systems during rapid urbanization, creating masses of politically unanchored youth?",
+        "type": "MCQ",
+        "options": {
+            "a": "Iranian Revolution & Arab Spring",
+            "b": "French Revolution & Civil Rights Movement",
+            "c": "Tanzimat Reforms & Meiji Restoration",
+            "d": "American Revolution & Taiping Rebellion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 137,
+        "question": "The Ethiopian Tewahedo Resistance and the Serbian Uprising both emerged from Orthodox Christian fears of cultural dilution, but only one opposed reforms promoted by its own monarch rather than a foreign empire.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 138,
+        "question": "Which movements resisted the elimination of semi-autonomous frontier warrior groups whose identity depended on maintaining arms privilege?",
+        "type": "MCQ",
+        "options": {
+            "a": "Cossack Revolts & Japanese Ronin Unrest",
+            "b": "Arab Spring & Haitian Revolution",
+            "c": "French Revolution & Velvet Revolution",
+            "d": "Indian Mutiny & Civil Rights Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 139,
+        "question": "The Haitian Revolution and the Taiping Rebellion both adopted radical religious or ideological frameworks, but only one tied its ideology to a reinterpretation of a European text.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 140,
+        "question": "Which movements emerged when centralized states attempted to eliminate long-standing village-level customary rights over forest or pasture lands?",
+        "type": "MCQ",
+        "options": {
+            "a": "Chipko Movement & Cambodian Anti-Forest Tax Resistance",
+            "b": "Arab Spring & Boston Tea Party",
+            "c": "French Revolution & Glorious Revolution",
+            "d": "Civil Rights Movement & Suffrage Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 141,
+        "question": "The Indonesian National Awakening and the Vietnamese Anti-French movements both emerged due to colonial exploitation, but only one initially framed its resistance through modern educational institutions rather than rural rebellion.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 142,
+        "question": "Which movements opposed electoral reforms because they feared a newly enfranchised group would shift political power away from traditional local elites?",
+        "type": "MCQ",
+        "options": {
+            "a": "British Anti-Reform Riots & Brazilian Planters’ Resistance",
+            "b": "Arab Spring & American Revolution",
+            "c": "French Revolution & Haitian Revolution",
+            "d": "Indian Mutiny & Meiji Restoration"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 143,
+        "question": "The Greek War of Independence and the Serbian Uprising both arose from Christian-majority groups under Ottoman rule, but only one initially organized itself around regional bandit leaders rather than clergy-led networks.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 144,
+        "question": "Which movements were triggered by unexpected shifts in global trade routes that eliminated long-standing urban middle-class monopolies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Chinese Maritime Ban Resistance & Swahili Coast City-State Rebellions",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "American Revolution & Boston Tea Party",
+            "d": "French Revolution & Russian Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 145,
+        "question": "The Irish War of Independence and the Algerian FLN struggle both emerged from long-term settler domination, but only one developed a political wing before initiating armed resistance.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 146,
+        "question": "Which movements involved resistance to the abolition of hereditary military classes whose privileges had become fiscally unsustainable to the state?",
+        "type": "MCQ",
+        "options": {
+            "a": "Samurai Anti-Meiji Resistance & Polish Szlachta Confederal Movements",
+            "b": "Arab Spring & Civil Rights Movement",
+            "c": "French Revolution & Haitian Revolution",
+            "d": "Taiping Rebellion & Satsuma Rebellion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 147,
+        "question": "The French Revolution and the Russian Revolution both demolished old aristocracies, but only one abolished feudalism before executing its monarch.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 148,
+        "question": "Which movements were fueled by anxiety that new census categories would create rigid ethnic identities where none previously existed?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rwandan Resistance to Colonial Classification & Burmese Anti-Panglong Opposition",
+            "b": "Arab Spring & French Revolution",
+            "c": "American Revolution & Civil Rights Movement",
+            "d": "Glorious Revolution & Suffrage Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 149,
+        "question": "The Philippine Revolution and the Indonesian National Revolution both reacted to foreign rule, but only one began after the colonizing power itself had just been defeated by a third power.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 150,
+        "question": "Which movements emerged partially because new railroads disrupted established pilgrimage or seasonal migration routes that supported local economies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Sudanese Mahdist Movement & Deccan Peasant Uprisings",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "French Revolution & Civil Rights Movement",
+            "d": "Boston Tea Party & American Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 151,
+        "question": "The Iranian Revolution and the Iraqi 1920 Revolt both included clerical leadership, but only one sought to replace the entire modern legal system with religious law instead of hybridizing it.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 152,
+        "question": "Which movements involved uprisings sparked by local rulers adopting Western-style fiscal reforms without integrating traditional elite councils into the process?",
+        "type": "MCQ",
+        "options": {
+            "a": "Egyptian ‘Urabi Revolt & Ethiopian Woyane Rebellion",
+            "b": "Arab Spring & Boston Tea Party",
+            "c": "French Revolution & Russian Revolution",
+            "d": "Mau Mau Uprising & Tanzimat Reforms"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 153,
+        "question": "The Haitian Revolution and the Cuban Revolution both overthrew exploitative elites, but only one eliminated the entire plantation system in its earliest stages rather than reforming it slowly.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 154,
+        "question": "Which two movements emerged from groups resisting attempts to replace decentralized militias with standardized national armies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mexican Cristero War & Greek Klepht Resistance",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "American Revolution & Civil Rights Movement",
+            "d": "French Revolution & Suffrage Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 155,
+        "question": "The Armenian National Awakening and the Arab Nahda both expanded through cultural institutions, but only one was tolerated by the ruling empire due to its loyalty messaging.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 156,
+        "question": "Which movements arose from religious minorities fearing the erosion of separate legal systems that had protected their identity under previous regimes?",
+        "type": "MCQ",
+        "options": {
+            "a": "Druze Uprisings & Maronite Autonomy Movements",
+            "b": "Arab Spring & French Revolution",
+            "c": "Boston Tea Party & American Revolution",
+            "d": "Civil Rights Movement & Harlem Renaissance"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 157,
+        "question": "The Indonesian Aceh War and the Filipino Moro Rebellion both emerged from Islamic polities resisting foreign control, but only one had a fully established sultanate with international trade ties at the conflict's start.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 158,
+        "question": "Which movements involved uprisings where local notables initially opposed revolt but were pressured into leadership roles by mobilized rural communities?",
+        "type": "MCQ",
+        "options": {
+            "a": "Greek War of Independence & Vietnamese Can Vuong Movement",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "French Revolution & Russian Revolution",
+            "d": "American Revolution & Civil Rights Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 159,
+        "question": "The Russian Revolution of 1917 and the German Revolution of 1918 both resulted from wartime exhaustion, but only one initially tried to retain a constitutional monarchy before abandoning it.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 160,
+        "question": "Which movements resisted attempts to rearrange traditional clan boundaries into fixed administrative districts, which would have undermined ancestral land claims?",
+        "type": "MCQ",
+        "options": {
+            "a": "Somali Dervish Movement & Chechen Anti-Russification Resistance",
+            "b": "Arab Spring & Boston Tea Party",
+            "c": "French Revolution & Haitian Revolution",
+            "d": "Civil Rights Movement & Suffrage Movement"
+        },
+        "answer": "a"
     }
 ]

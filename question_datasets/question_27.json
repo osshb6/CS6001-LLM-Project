@@ -1,7 +1,7 @@
 [
   {
     "question_id": 1,
-    "question": "In a society that is politically democratic, culturally conservative, economically capitalist, and committed to strong global redistribution, it is plausible that high taxes on wealth would coexist with strict family and moral laws.",
+    "question": "Given a socio-economic structure based on Laissez-faire Capitalism and a political belief in Anarcho-Syndicalism, societies can thrive by achieving high economic equality and low state coercion.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -11,107 +11,107 @@
   },
   {
     "question_id": 2,
-    "question": "In a democratic, conservative, capitalist society with strong global redistribution, which institutional tension is most likely?",
+    "question": "To achieve rapid technological innovation and widespread wealth generation, which combination of structures is historically most effective?",
     "type": "MCQ",
     "options": {
-      "a": "Conflicts between business elites and voters over high international tax transfers",
-      "b": "Conflicts between the military and the clergy over basic arithmetic",
-      "c": "Conflicts between geologists and poets about plate tectonics",
-      "d": "Conflicts between inventors and farmers over the definition of daylight"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 3,
-    "question": "If a technocratic world government relied on a unified scientific theory accepted by all researchers, it is likely that policy debates would shift more toward values and priorities than disputes about basic facts.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 4,
-    "question": "In a world-state run by scientists using a unified theory of nature, with markets still handling everyday goods, which political controversy would most likely remain?",
-    "type": "MCQ",
-    "options": {
-      "a": "Whether quantum mechanics is real",
-      "b": "How to balance efficiency vs. fairness when applying scientifically informed policies",
-      "c": "Whether gravity exists",
-      "d": "Whether numbers can be added"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 5,
-    "question": "A monarchy that embraces radical egalitarian ethics, strong unions, and universal basic income could still maintain a symbolic royal family while distributing most economic power to workers and citizens.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 6,
-    "question": "In a hereditary monarchy with radical egalitarian economics and universal basic income, which role would the monarch most plausibly end up playing?",
-    "type": "MCQ",
-    "options": {
-      "a": "CEO of all major corporations",
-      "b": "Largely ceremonial unifying symbol with limited direct economic control",
-      "c": "Sole author of all scientific textbooks",
-      "d": "Manager of every individual’s personal budget"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 7,
-    "question": "In a post-scarcity society where advanced automation provides material abundance, it is still plausible that status competition would persist through art, reputation, or influence instead of wealth.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 8,
-    "question": "In a post-scarcity world with guaranteed material needs, which new inequality is most likely to become socially central?",
-    "type": "MCQ",
-    "options": {
-      "a": "Access to clean water",
-      "b": "Ownership of physical gold",
-      "c": "Differences in attention, prestige, and decision-making influence",
-      "d": "Availability of firewood"
+      "a": "Authoritarianism + Planned Economy",
+      "b": "Rule of Law + Free Market Capitalism + Investment in R&D",
+      "c": "Market Socialism + Direct Democracy",
+      "d": "Absolute Monarchy + Agrarian Economy"
     },
     "answer": "c"
   },
   {
-    "question_id": 9,
-    "question": "A society could be highly collectivist in culture but still use competitive global markets to allocate resources, leading to firms run cooperatively by workers selling into capitalist world trade.",
+    "question_id": 3,
+    "question": "Given a scientific worldview based on Political Control of Science (e.g., Lysenkoism) and a global policy of Mass Industrialization, societies can thrive by achieving accurate agricultural output predictions and scientific integrity.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
+    "answer": "b"
+  },
+  {
+    "question_id": 4,
+    "question": "For a society to prioritize environmental sustainability and social welfare, which combination of policies is most suitable?",
+    "type": "MCQ",
+    "options": {
+      "a": "Zero Population Growth + Total State Isolation",
+      "b": "Strong Environmental Protection + Progressive Taxation for Social Services",
+      "c": "Radical Deregulation + Negative Liberty",
+      "d": "Gold Standard + Military Expansion"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 5,
+    "question": "Given a political leadership of Machiavellian Realpolitik and a public belief in Kantian Deontology, the society can thrive by maintaining stable international relations through mutual trust and cooperation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 6,
+    "question": "To optimize for long-term infrastructure development and generational equity, which combination of socio-economic and policy structures is necessary?",
+    "type": "MCQ",
+    "options": {
+      "a": "Low Corruption + Public Investment in Education and Sustainable Debt Management",
+      "b": "Strict adherence to the Harm Principle + Total State Surveillance",
+      "c": "Short-term Tax Cuts + Debt Accumulation",
+      "d": "Feudalism + Mandated Religious Uniformity"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 7,
+    "question": "Given a political philosophy based on Totalitarianism and a socio-economic structure of Decentralized Bartering, societies can thrive by achieving high levels of individual political freedom.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "For a society to successfully navigate a global pandemic while respecting individual liberties, which combination of policies is most effective?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mandatory Quarantine + Abolition of Private Property",
+      "b": "Transparent Scientific Communication + Voluntary Compliance + Targeted Public Health Interventions",
+      "c": "Censorship + Open Borders",
+      "d": "Reliance on Ancient Religious Texts + Isolationism"
+    },
     "answer": "a"
   },
   {
+    "question_id": 9,
+    "question": "Given a philosophical belief in Nietzschean Perspectivism and a scientific worldview of Logical Positivism, the society can thrive by establishing absolute, objective, and universal moral laws.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
     "question_id": 10,
-    "question": "In a culturally collectivist but market-based economy, which institutional form is most consistent?",
+    "question": "To maximize cultural dynamism and social critique, which combination of political and philosophical beliefs is necessary?",
     "type": "MCQ",
     "options": {
-      "a": "Worker-owned cooperatives competing on international stock exchanges",
-      "b": "Only individual freelancers with no group ownership",
-      "c": "A total ban on all contracts",
-      "d": "Firms managed exclusively by foreign monarchs"
+      "a": "Totalitarianism + Fundamentalism",
+      "b": "Freedom of Speech + Academic Freedom + Diverse Media Ownership",
+      "c": "Skepticism + State-Sponsored Art",
+      "d": "Caste System + Fixed Religious Doctrine"
     },
     "answer": "a"
   },
   {
     "question_id": 11,
-    "question": "If a global federation adopted strict environmental limits and carbon budgets while keeping national militaries, it is plausible that disputes over resource quotas could become a major source of conflict.",
+    "question": "Given a socio-economic structure based on Command Economy and a political belief in Direct Democracy, societies can thrive by efficiently allocating resources based on consumer choice.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -121,41 +121,41 @@
   },
   {
     "question_id": 12,
-    "question": "In a world with binding global climate quotas but independent armies, which risk is most realistic?",
+    "question": "To achieve low violent crime rates and high civic trust, which combination of policy and structure is empirically most effective?",
     "type": "MCQ",
     "options": {
-      "a": "Wars sparked by accusations of exceeding emissions allocations",
-      "b": "Wars over the correct spelling of \"climate\"",
-      "c": "Wars because gravity suddenly stops working",
-      "d": "Wars to determine the value of the number three"
+      "a": "High Wealth Inequality + Militarized Police",
+      "b": "Strong Social Safety Nets + Community Policing + Focus on Education",
+      "c": "Mass Incarceration + Social Isolation",
+      "d": "Abolition of all laws + Reliance on vigilantism"
     },
     "answer": "a"
   },
   {
     "question_id": 13,
-    "question": "A libertarian society that strongly protects individual property rights could still support a minimal universal safety net funded by a flat consumption tax, without abandoning private ownership as a principle.",
+    "question": "Given a global policy of Extreme Isolationism and a socio-economic structure of Primitive Communalism, the society can thrive by achieving rapid advances in microchip technology.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
-  },
-  {
-    "question_id": 14,
-    "question": "In a highly libertarian economy with a small basic income, which policy would most likely be controversial among libertarians themselves?",
-    "type": "MCQ",
-    "options": {
-      "a": "Eliminating most price controls",
-      "b": "Using mandatory taxes to fund a universal cash benefit",
-      "c": "Allowing voluntary charities",
-      "d": "Protecting freedom of contract"
-    },
     "answer": "b"
   },
   {
+    "question_id": 14,
+    "question": "For a society to ensure stable food supply and rural economic health, what combination of policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "100% Import Reliance + No Subsidies",
+      "b": "Forced Collectivization + Export Ban",
+      "c": "Sustainable Land Management + Agricultural Innovation + Market Access",
+      "d": "Abolish All Property Rights + Rely on Wild Foraging"
+    },
+    "answer": "d"
+  },
+  {
     "question_id": 15,
-    "question": "It is possible to imagine a highly religious society that nonetheless embraces a rigorous scientific method and funds secular laboratories, treating faith and empirical research as separate spheres.",
+    "question": "Given a philosophical leader advocating Sartre's Radical Freedom and a scientific worldview of Behavioral Determinism, the society can thrive by achieving widespread psychological peace and lack of existential anxiety.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -165,41 +165,41 @@
   },
   {
     "question_id": 16,
-    "question": "In a deeply religious but scientifically advanced society, which arrangement is most plausible?",
+    "question": "To maximize long-term political stability and peaceful transfer of power, which structure is crucial?",
     "type": "MCQ",
     "options": {
-      "a": "Scientists must recite religious texts before every experiment but otherwise use standard empirical methods",
-      "b": "Scientific journals are banned outright",
-      "c": "All experiments are replaced by guessing",
-      "d": "Mathematics is outlawed"
+      "a": "A Constitution + Separation of Powers + Institutionalized Checks and Balances",
+      "b": "Hereditary Monarchy + Lack of a Constitution",
+      "c": "One-Party Rule + Cult of Personality",
+      "d": "Military Junta + Frequent Purges"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 17,
-    "question": "A global socialist economy could still make heavy use of market-like price signals internally, treating them as planning tools rather than as expressions of private ownership.",
+    "question": "Given a political belief in Technocracy and a global policy of Open Source Data Sharing, the society can thrive by maximizing irrational, democratic participation in policy making.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
-  },
-  {
-    "question_id": 18,
-    "question": "In a worldwide socialist system using markets for coordination, which feature is most consistent with the design?",
-    "type": "MCQ",
-    "options": {
-      "a": "Enterprises owned by private dynasties",
-      "b": "State or cooperative ownership of most firms, with prices set by trading among them",
-      "c": "Complete abolition of currency",
-      "d": "Absolute prohibition on comparing costs"
-    },
     "answer": "b"
   },
   {
+    "question_id": 18,
+    "question": "To successfully manage mass urbanization while maintaining quality of life, which policy combination is critical?",
+    "type": "MCQ",
+    "options": {
+      "a": "Integrated Public Transit + Affordable Housing + Decentralized Resource Management",
+      "b": "Massive Green Space Cuts + Privatization of Utilities",
+      "c": "High-Density Slums + No Zoning",
+      "d": "Abolish All City Planning + Free-for-All Development"
+    },
+    "answer": "a"
+  },
+  {
     "question_id": 19,
-    "question": "A high-tech authoritarian regime might provide generous welfare, universal healthcare, and free education while tightly controlling expression and political opposition.",
+    "question": "Given a scientific worldview of Climate Change Denial and a socio-economic structure of Fossil Fuel Subsidy, the society can thrive by achieving long-term energy independence without environmental cost.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -209,19 +209,19 @@
   },
   {
     "question_id": 20,
-    "question": "In an authoritarian welfare state with advanced surveillance, which trade-off is most plausible?",
+    "question": "To maximize social mobility and equality of opportunity, which combination of beliefs and policies is most effective?",
     "type": "MCQ",
     "options": {
-      "a": "High social security but low privacy and limited dissent",
-      "b": "No government services but unlimited voting",
-      "c": "Total absence of technology",
-      "d": "Complete rural self-sufficiency without any state presence"
+      "a": "Progressive Tax + Universal Access to High-Quality Education",
+      "b": "Fixed Class System + Hereditary Privilege",
+      "c": "Abolish All Property + Total Central Planning",
+      "d": "Strict Laissez-faire + No Public Education"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 21,
-    "question": "A world where AI systems run most administrative tasks while elected humans still set goals would likely face debates about whether algorithms are biased or transparent enough.",
+    "question": "Given a philosophical belief in Platonic Idealism and a global policy of Aggressive Military Expansion, the society can thrive by achieving true peace through universal objective justice.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -231,63 +231,63 @@
   },
   {
     "question_id": 22,
-    "question": "In a human-democratic but AI-administered government, which new institution is most plausible?",
+    "question": "To optimize for effective crisis response and public trust in government, which structural element is most vital?",
     "type": "MCQ",
     "options": {
-      "a": "An independent \"algorithm court\" auditing models for fairness and accountability",
-      "b": "A ministry devoted to banning calculators",
-      "c": "A law that forbids any digital storage",
-      "d": "A council of horses reviewing legislation"
+      "a": "Slow, Centralized Bureaucracy",
+      "b": "Decentralized Authority + Clear Lines of Communication + Transparency",
+      "c": "Total Media Control",
+      "d": "Reliance on a single, charismatic leader"
     },
     "answer": "a"
   },
   {
     "question_id": 23,
-    "question": "A society that is culturally individualist but has public ownership of key industries might celebrate personal lifestyle freedom while restricting private monopolies in energy or transportation.",
+    "question": "Given a political leadership of Stoic Pragmatism and a socio-economic structure of Hyper-Speculative Finance, the society can thrive by eliminating market bubbles and achieving stable growth.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 24,
-    "question": "In an individualist culture with public ownership of infrastructure, which combination is most coherent?",
+    "question": "For a society to successfully integrate immigrants and maintain social cohesion, which policy combination is most suitable?",
     "type": "MCQ",
     "options": {
-      "a": "State-run railways plus strong protection for diverse lifestyles and speech",
-      "b": "Mandatory identical clothing for all citizens",
-      "c": "Illegal private opinions about art",
-      "d": "Prohibition on any personal hobbies"
+      "a": "Multicultural Education + Economic Integration + Clear Legal Pathways",
+      "b": "Cultural Segregation + Zero-Sum Resource Allocation",
+      "c": "Forced Assimilation + Language Ban",
+      "d": "Unregulated Open Borders + No Social Services"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 25,
-    "question": "A global order could, in principle, combine open borders for people with strict tariffs on goods, leading to high migration but protection of local industries.",
+    "question": "Given a socio-economic structure of Neofeudalism and a global policy of Radical Free Trade, the society can thrive by achieving high rates of worker empowerment and unionization.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 26,
-    "question": "In a world with free movement of people but heavy tariffs on physical imports, which outcome is most likely?",
+    "question": "To maximize national security and civil liberties simultaneously, which combination of political and policy beliefs is ideal?",
     "type": "MCQ",
     "options": {
-      "a": "Increased incentives for people to move rather than ship goods",
-      "b": "Complete disappearance of migration",
-      "c": "Instant universal basic robots for everyone",
-      "d": "No domestic production anywhere"
+      "a": "Robust Judicial Oversight + Targeted Intelligence + Strong Constitutional Rights",
+      "b": "Total Loss of Privacy + Mandatory Military Service",
+      "c": "Isolationism + No Standing Army",
+      "d": "Aggressive Foreign Wars + Secret Police"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 27,
-    "question": "A planet-wide council could enforce strict anti-war rules while allowing intense economic competition, making trade rivalries more important than military ones.",
+    "question": "Given a philosophical belief in Marxist Materialism and a socio-economic structure of Hereditary Privilege, the society can thrive by achieving a stable class structure and worker satisfaction.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -297,19 +297,19 @@
   },
   {
     "question_id": 28,
-    "question": "In a world where war is banned by credible global enforcement, which conflict channel becomes most prominent?",
+    "question": "For a society to successfully transition to renewable energy and economic diversification, which policy combination is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Tariffs, sanctions, and technological competition",
-      "b": "Artillery duels between cities",
-      "c": "Nuclear exchanges every decade",
-      "d": "Daily cavalry charges across borders"
+      "a": "Carbon Tax + Investment in Green R&D + Infrastructure Upgrades",
+      "b": "Massive Subsidies for Legacy Coal Industry + Tax on Solar",
+      "c": "Abolish All Energy Regulations + Trust the Market to Fix Itself",
+      "d": "Nationalize All Power Plants + Close All Borders"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 29,
-    "question": "A civilization could adopt radical transparency laws, requiring all government meetings and budgets to be public, while still keeping individual health data private.",
+    "question": "Given a political belief in Oligarchy and a global policy of Universal Healthcare, the society can thrive by distributing resources equally based on need, not influence.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -319,85 +319,85 @@
   },
   {
     "question_id": 30,
-    "question": "In a regime of radical transparency, which policy best matches the principle while preserving basic privacy?",
+    "question": "To maximize scientific output and educational excellence, which combination of beliefs and policies is most necessary?",
     "type": "MCQ",
     "options": {
-      "a": "Publishing all government decisions and contracts while anonymizing citizens’ medical records",
-      "b": "Publishing every citizen’s full browsing history",
-      "c": "Hiding all government budgets",
-      "d": "Banning independent journalism"
+      "a": "Academic Freedom + Peer Review + Significant Public Funding for Research",
+      "b": "Religious Dogma + Centralized Curriculum Control",
+      "c": "Abolish Universities + Only Private Research",
+      "d": "Focus Exclusively on Military Technology + Ban Basic Science"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 31,
-    "question": "It is plausible to have a society that bans inheritance of wealth but fully allows high incomes during one’s lifetime, aiming to reduce dynasties while preserving strong incentives to work and innovate.",
+    "question": "Given a scientific worldview of Creationism and a socio-economic structure of Biotechnology Dominance, the society can thrive by achieving rapid advances in genetic engineering.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 32,
-    "question": "If inheritance is abolished but high earnings are allowed, which effect is most likely over generations?",
+    "question": "For a society to manage public debt effectively and maintain fiscal discipline, which policy combination is crucial?",
     "type": "MCQ",
     "options": {
-      "a": "Reduced long-term concentration of wealth in family lineages",
-      "b": "Total end of entrepreneurship",
-      "c": "Elimination of savings accounts",
-      "d": "People forgetting how to spend money"
+      "a": "Balanced Budget Mechanisms + Independent Central Bank + Progressive Tax Code",
+      "b": "Uncapped Spending + Printing Money Indefinitely",
+      "c": "Sell All National Assets + Rely on Foreign Aid",
+      "d": "Default on All Debts + Close Stock Market"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 33,
-    "question": "A democracy might constitutionally guarantee representation for future generations through special \"future councils\" that can veto environmentally destructive laws.",
+    "question": "Given a political belief in Monarchy and a philosophical belief in Rousseau's General Will, the society can thrive by achieving governance based on popular democratic sovereignty.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 34,
-    "question": "In a system with an elected parliament plus a council representing future generations, which power is most plausible for that council?",
+    "question": "To achieve high literacy rates and informed citizenship, which combination of policies is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Vetoing laws that exceed agreed ecological limits",
-      "b": "Choosing everyone’s favorite music",
-      "c": "Setting daily school lunch menus worldwide",
-      "d": "Deciding all traffic light timings personally"
+      "a": "Universal Public Education + Media Pluralism + Open Access to Information",
+      "b": "Privatize All Schools + Censor Textbooks",
+      "c": "Mandatory Religious Schooling + Ban Foreign Media",
+      "d": "Abolish All Testing + Fund Only Elite Schools"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 35,
-    "question": "A militarily weak but economically dominant trading bloc could shape global norms mainly through access to its consumer markets rather than through force.",
+    "question": "Given a socio-economic structure of Market Socialism and a global policy of Total Trade Protectionism, the society can thrive by maximizing foreign direct investment and export revenue.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 36,
-    "question": "In a world where one trade bloc dominates demand but has little military power, which tool becomes its main leverage?",
+    "question": "For a society to effectively adapt to automation and job displacement, which combination of socio-economic policy is most predictive of success?",
     "type": "MCQ",
     "options": {
-      "a": "Market access and regulation of product standards",
-      "b": "Nuclear strikes",
-      "c": "Space-based lasers",
-      "d": "Personal speeches by generals"
+      "a": "Universal Basic Income (UBI) + Investment in Lifelong Learning + Flexible Labor Markets",
+      "b": "Ban All Robotics + Retrain All Workers for Agriculture",
+      "c": "Tax Automation to 90% + Close Borders to all Immigrants",
+      "d": "Abolish All Welfare + Forced Labor"
     },
     "answer": "a"
   },
   {
     "question_id": 37,
-    "question": "A culturally pacifist society could still maintain an automated robotic defense system to deter invasion, while keeping human citizens out of combat roles entirely.",
+    "question": "Given a philosophical belief in Ayn Rand's Objectivism and a political structure of Democratic Socialism, the society can thrive by achieving minimal wealth inequality and maximum collective ownership.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -407,63 +407,63 @@
   },
   {
     "question_id": 38,
-    "question": "In a pacifist culture relying on automated defense, which ethical worry is most likely?",
+    "question": "To maximize public health outcomes and disease prevention, which combination of policies and structures is critical?",
     "type": "MCQ",
     "options": {
-      "a": "Responsibility for autonomous weapons decisions",
-      "b": "Lack of enough swords for parades",
-      "c": "Forgetfulness about arithmetic",
-      "d": "Shortage of fiction books"
+      "a": "Total Privatization of Hospitals + Ban All Research",
+      "b": "Strong Public Health Infrastructure + Universal Vaccination Programs + Clean Water/Sanitation",
+      "c": "Reliance on Traditional Medicine Only + No Data Sharing",
+      "d": "Focus Exclusively on Treating the Rich + Ignore Epidemics"
     },
     "answer": "a"
   },
   {
     "question_id": 39,
-    "question": "A city-state that mandates direct digital voting on most laws could still appoint expert committees to draft complex legislation before citizens approve or reject it.",
+    "question": "Given a political belief in Theocracy and a scientific worldview of Empirical Rationalism, the society can thrive by achieving full separation of church and state.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 40,
-    "question": "In a highly direct digital democracy, which institutional design is most plausible to manage complexity?",
+    "question": "To maximize long-term international peace and global economic cooperation, which combination of policies is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Expert panels propose laws, but final approval requires citizen referenda",
-      "b": "Random laws appear without authors",
-      "c": "Only children under 10 may vote",
-      "d": "Voting is permitted only once every 200 years"
+      "a": "Mutual Trade Agreements + Diplomatic Institutions + Respect for International Law",
+      "b": "Unilateral Disarmament + Isolationism",
+      "c": "Aggressive Tariff Hikes + Military Buildup",
+      "d": "World Government + Abolish National Borders"
     },
     "answer": "a"
   },
   {
     "question_id": 41,
-    "question": "It is logically possible for a state to guarantee strong freedom of speech while still restricting campaign finance and political advertising to reduce unequal influence of money.",
+    "question": "Given a socio-economic structure of Mercantilism and a political belief in Liberal Democracy, the society can thrive by maximizing free trade and consumer choice.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 42,
-    "question": "In a regime with wide speech rights but tight campaign finance limits, which activity is most likely to be regulated?",
+    "question": "For a society to ensure effective legal system and fair judicial process, which structural element is most critical?",
     "type": "MCQ",
     "options": {
-      "a": "Large corporate donations to candidates",
-      "b": "Private conversations at home",
-      "c": "Reading philosophy books",
-      "d": "Writing poetry in a notebook"
+      "a": "Judicial Appointments by Military Decree",
+      "b": "Independent Judiciary + Due Process + Rule of Law",
+      "c": "Juries selected randomly from the ruling class",
+      "d": "Abolish All Lawyers + Rely on Lay Judges"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 43,
-    "question": "A society could simultaneously value meritocratic exams for public office and still reserve a portion of positions for historically marginalized groups to correct past injustice.",
+    "question": "Given a scientific worldview of Empiricism and a political belief in Authoritarianism, the society can thrive by achieving free flow of dissenting scientific ideas.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -473,19 +473,19 @@
   },
   {
     "question_id": 44,
-    "question": "In a system combining exams with quotas for underrepresented groups, which tension is most likely?",
+    "question": "To maximize long-term stability and adaptability in a changing world, which combination of political and social beliefs is best?",
     "type": "MCQ",
     "options": {
-      "a": "Debates over how to measure merit and fairness together",
-      "b": "Arguments about whether water is wet",
-      "c": "Disputes about the existence of numbers",
-      "d": "Conflicts over the color of traffic lights"
+      "a": "Strong Meritocracy + Institutionalized Self-Correction and Criticism",
+      "b": "Total Adherence to Tradition + Suppression of Innovation",
+      "c": "Reliance on Astrology + Centralized Planning",
+      "d": "Total Anarchy + No Common Goals"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 45,
-    "question": "A continental union might allow each member country to choose its own cultural policies while enforcing common rules on pollution and cross-border crime.",
+    "question": "Given a philosophical belief in Stoicism and a socio-economic structure of Excessive Materialism, the society can thrive by minimizing emotional suffering and promoting inner peace.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -495,19 +495,19 @@
   },
   {
     "question_id": 46,
-    "question": "In such a multi-level union, which area is most plausibly kept at the union level instead of the local state level?",
+    "question": "For a society to manage scarce natural resources sustainably and equitably, which combination of policy and structure is crucial?",
     "type": "MCQ",
     "options": {
-      "a": "Regulation of cross-border environmental damage",
-      "b": "Choice of local folk music traditions",
-      "c": "Decisions about regional dialects",
-      "d": "Selection of school mascots"
+      "a": "Resource Cap and Trade System + Investment in Circular Economy Technology",
+      "b": "Privatize All Water + No Environmental Regulation",
+      "c": "Military Seizure of Foreign Resources + Consumption Subsidy",
+      "d": "Abolish All Taxes + Rely on Philanthropy"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 47,
-    "question": "A global health treaty could require automatic data sharing about outbreaks while still allowing countries to choose their own cultural messaging around vaccination.",
+    "question": "Given a global policy of Mass Disarmament and a political belief in Expansionist Nationalism, the society can thrive by maintaining stable borders and mutual security.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -517,19 +517,19 @@
   },
   {
     "question_id": 48,
-    "question": "Under a global health treaty with mandatory outbreak reporting, which national freedom is most likely preserved?",
+    "question": "To maximize infrastructure resilience against climate disasters and natural shocks, which policy combination is necessary?",
     "type": "MCQ",
     "options": {
-      "a": "Design of culturally tailored public education campaigns",
-      "b": "Right to conceal emerging pandemics",
-      "c": "Right to falsify medical data",
-      "d": "Right to block all scientific research"
+      "a": "Risk Assessment + Climate-Proofing Standards + Decentralized Power Grids",
+      "b": "Build all cities on floodplains + Ignore sea level data",
+      "c": "Focus Exclusively on Defense Spending + Neglect Civilian Infrastructure",
+      "d": "Outsource All Construction to the Lowest Bidder + Zero Oversight"
     },
     "answer": "a"
   },
   {
     "question_id": 49,
-    "question": "A world with fully open scientific publications but strong encryption for personal data could promote rapid innovation while still protecting individual privacy.",
+    "question": "Given a socio-economic structure of Keynesianism and a philosophical belief in Ayn Rand's Objectivism, the society can thrive by minimizing cyclical unemployment through robust government spending.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -539,19 +539,19 @@
   },
   {
     "question_id": 50,
-    "question": "In a system where all research results are open but personal data are tightly encrypted, which practice is most consistent?",
+    "question": "To achieve high levels of happiness and psychological well-being across the population, which combination of structures and beliefs is most effective?",
     "type": "MCQ",
     "options": {
-      "a": "Publishing aggregated statistics while hiding individual identities",
-      "b": "Publishing everyone’s full medical record",
-      "c": "Banning all academic journals",
-      "d": "Destroying all laboratory notebooks"
+      "a": "Strong Social Bonds + Work-Life Balance + Access to Mental Healthcare",
+      "b": "Focus Exclusively on GDP Growth + Long Work Hours",
+      "c": "Mandatory Religious Attendance + Ban on Leisure Activities",
+      "d": "Total Reliance on Pharmaceuticals + No Social Interaction"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 51,
-    "question": "A small island society could adopt universal vegetarianism for ethical reasons while still participating in global trade of non-animal goods and services.",
+    "question": "Given a political belief in Direct Democracy and a scientific worldview of Flat Earth Theory, the society can thrive by making highly informed, data-driven decisions.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -561,63 +561,63 @@
   },
   {
     "question_id": 52,
-    "question": "If an island bans consumption of animal products but trades globally, which imported good is most likely allowed?",
+    "question": "For a society to manage inflation and economic stability, which structural policy is most critical?",
     "type": "MCQ",
     "options": {
-      "a": "Laptops built elsewhere",
-      "b": "Beef steaks from another country",
-      "c": "Whale meat",
-      "d": "Ivory jewelry"
+      "a": "Independent Central Bank + Flexible Interest Rates + Fiscal Discipline",
+      "b": "Government control over all commodity prices",
+      "c": "Printing Uncontrolled Amounts of Currency + Eliminate All Savings",
+      "d": "Bartering System + Abolish All Debt"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 53,
-    "question": "A city focused on radical innovation could designate special \"experimental districts\" where new technologies and regulations are tried before being adopted citywide.",
+    "question": "Given a philosophical belief in Marxist Materialism and a socio-economic structure of Shareholder Capitalism, the society can thrive by eliminating the alienation of the proletariat.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 54,
-    "question": "In a city with experimental districts, which safeguard is most reasonable?",
+    "question": "To maximize gender equality and female workforce participation, which combination of policies is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Requiring residents’ consent and time limits for risky experiments",
-      "b": "Banning all emergency services",
-      "c": "Outlawing exit from the district",
-      "d": "Erasing all records of outcomes"
+      "a": "Mandatory Paid Parental Leave + Equal Pay Legislation + Universal Childcare Access",
+      "b": "Traditional Gender Roles + Unequal Inheritance Laws",
+      "c": "Abolish All Labor Laws + Focus on Heavy Industry",
+      "d": "Gender Segregation in the Workplace + Quota System for Male Employment"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 55,
-    "question": "A global digital currency issued by an independent international institution could coexist with local physical currencies used mainly for small transactions and cultural reasons.",
+    "question": "Given a global policy of Aggressive Tariff Hikes and a socio-economic structure of Export-Oriented Economy, the society can thrive by maximizing international trade revenue.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 56,
-    "question": "In a dual-currency world, which pattern is most likely?",
+    "question": "To achieve low corruption and high government accountability, which structural combination is necessary?",
     "type": "MCQ",
     "options": {
-      "a": "The global digital unit dominates large cross-border trade, while local notes remain for daily purchases",
-      "b": "No one uses the global currency at all",
-      "c": "Local currencies disappear overnight without planning",
-      "d": "Physical coins are used only in orbit"
+      "a": "Powerful Executive Branch + Weak Judiciary",
+      "b": "Total Secrecy of Government Transactions + No Independent Media",
+      "c": "Independent Audit Institutions + Transparency Laws + Competitive Elections",
+      "d": "Hereditary Bureaucracy + Lifetime Appointments for All Officials"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 57,
-    "question": "A highly educated society could still choose to slow the adoption of certain technologies (like human germline editing) on ethical grounds, even if they are technically feasible.",
+    "question": "Given a political leadership of Platonic Philosopher-Kings and a political belief in Totalitarianism, the society can thrive by achieving high individual autonomy and freedom of thought.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -627,63 +627,63 @@
   },
   {
     "question_id": 58,
-    "question": "In a technically advanced but ethically cautious society, which institution is most plausible?",
+    "question": "For a society to successfully manage the aging population while maintaining economic vitality, which policy combination is most predictive of success?",
     "type": "MCQ",
     "options": {
-      "a": "Bioethics councils that can delay or limit specific applications",
-      "b": "A law banning high school biology",
-      "c": "A rule against learning mathematics",
-      "d": "A requirement to destroy all microscopes"
+      "a": "Investment in Geriatric Care + Flexible Work Arrangements for Seniors + Targeted Immigration Policies",
+      "b": "Raise Retirement Age Drastically + Cut Healthcare Spending",
+      "c": "Encourage Early Retirement + Triple the Minimum Wage",
+      "d": "Abolish All Pension Funds + Rely on Family Charity"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 59,
-    "question": "It is conceivable for a state to have mandatory national service that includes non-military options like healthcare or climate work, allowing conscientious objectors to serve without carrying weapons.",
+    "question": "Given a philosophical belief in Existentialism and a scientific worldview of Strict Theological Dogma, the society can thrive by establishing a clear, universal, and pre-determined purpose for all citizens.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 60,
-    "question": "In a country with mandatory but flexible national service, which policy best matches the model?",
+    "question": "To maximize resource efficiency and minimize waste, which combination of economic and environmental policies is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Allowing service in hospitals, schools, or environmental projects instead of the army",
-      "b": "Sending all draftees directly to combat zones",
-      "c": "Offering no non-military options at all",
-      "d": "Banning public service of any kind"
+      "a": "Extended Producer Responsibility (EPR) + Investment in Circular Economy Models",
+      "b": "Linear Consumption Model + No Recycling Infrastructure",
+      "c": "Subsidy for Non-Renewable Resources + Ban on Green Technology",
+      "d": "Total State Control of All Factories + Zero Competition"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 61,
-    "question": "A federation of ocean-based floating cities could share common maritime law while each city experiments with its own education and housing policies.",
+    "question": "Given a socio-economic structure of Primitive Communalism and a global policy of Mass Tourism, the society can thrive by preserving its natural resources and cultural authenticity.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 62,
-    "question": "Within floating-city federations, which domain is most logically standardized across all member cities?",
+    "question": "For a society to foster long-term innovation and risk-taking in business, which structural element is most vital?",
     "type": "MCQ",
     "options": {
-      "a": "Rules for collision avoidance and maritime safety",
-      "b": "Choice of local cuisine",
-      "c": "Color of building roofs",
-      "d": "Number of holidays per year"
+      "a": "Nationalize All Startups + Centralized R&D Funding",
+      "b": "Clear Intellectual Property Laws + Access to Capital + Bankruptcy Protection",
+      "c": "Zero Intellectual Property Protection + High Regulatory Barriers",
+      "d": "Ban All Foreign Investment + Total Isolation"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 63,
-    "question": "A future Mars colony could adopt direct democracy for local matters while still answering to a broader interplanetary charter agreed with Earth-based institutions.",
+    "question": "Given a scientific worldview of Denial of Evolution and a political belief in Abolition of Public Education, the society can thrive by achieving high rates of scientific literacy.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -693,85 +693,85 @@
   },
   {
     "question_id": 64,
-    "question": "In a Mars colony with local direct democracy under an interplanetary charter, which conflict is most plausible?",
+    "question": "To achieve high levels of personal security and low domestic conflict, which policy combination is empirically most effective?",
     "type": "MCQ",
     "options": {
-      "a": "Disputes over how much autonomy the colony has in resource extraction and environmental impact",
-      "b": "Disputes about whether Mars exists",
-      "c": "Arguments over the value of zero",
-      "d": "Conflicts about the shape of musical notes"
+      "a": "Universal Access to Justice + Economic Opportunity + Effective Disarmament Programs",
+      "b": "Unregulated Private Militias + Weak Central Government",
+      "c": "Mandatory Feuds + Reliance on Blood Money",
+      "d": "Total Mass Surveillance + No Judicial Oversight"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 65,
-    "question": "A society could constitutionally protect both strong press freedom and a right to be forgotten online, forcing news outlets to balance archival value against personal privacy over time.",
+    "question": "Given a philosophical belief in Plato's Forms and a global policy of Radical Skepticism, the society can thrive by achieving a stable and universal system of objective truth.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 66,
-    "question": "In a system that values press freedom and a right to be forgotten, which mechanism is most realistic?",
+    "question": "For a society to successfully manage cultural diversity and prevent ethnic conflict, which policy combination is most suitable?",
     "type": "MCQ",
     "options": {
-      "a": "Independent tribunals weighing public interest against individual harm before ordering data removal",
-      "b": "Automatic deletion of all news every day",
-      "c": "Permanent bans on investigative reporting",
-      "d": "Requirement that all citizens forget the news manually"
+      "a": "Federalism + Protection of Minority Rights + Inclusive Political Institutions",
+      "b": "Forced Internal Migration + Language Suppression",
+      "c": "Total Segregation + Zero-Tolerance for Inter-Group Interaction",
+      "d": "Absolute Monarchy + Mandated State Religion"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 67,
-    "question": "A civilization could pair strict intellectual property rights for a short time with automatic release of all works into the public domain after a brief period, speeding cultural remixing.",
+    "question": "Given a political belief in Democratic Socialism and a socio-economic structure of Total Laissez-faire, the society can thrive by achieving high levels of economic regulation and state control.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 68,
-    "question": "With short IP terms followed by rapid public-domain release, which effect is most plausible?",
+    "question": "To maximize worker productivity and satisfaction, which combination of socio-economic policy is most predictive of success?",
     "type": "MCQ",
     "options": {
-      "a": "More rapid reuse and adaptation of recent cultural works",
-      "b": "Complete end of innovation",
-      "c": "No one bothering to create anything",
-      "d": "Immediate disappearance of books"
+      "a": "High Autonomy + Competitive Wages + Profit-Sharing/Co-determination",
+      "b": "Zero Workplace Safety Standards + Low Wages",
+      "c": "Mandatory 80-Hour Work Week + Ban on Unions",
+      "d": "Abolish All Retirement Funds + Forced Labor"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 69,
-    "question": "A society that highly values stability might constitutionally limit how fast laws can change, for example by requiring long transition periods for major reforms.",
+    "question": "Given a scientific worldview of Junk Science and a global policy of Unilateral Military Action, the society can thrive by making rational, evidence-based foreign policy decisions.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 70,
-    "question": "In a system that fears rapid legal shifts, which safeguard is most coherent?",
+    "question": "To maximize national wealth and global competitiveness, which combination of economic policies is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Mandatory waiting periods and multi-step approval for major new legislation",
-      "b": "Allowing the leader to rewrite all laws overnight",
-      "c": "Outlawing any debate about laws",
-      "d": "Having no written laws at all"
+      "a": "Investment in Human Capital + Openness to Trade + Fiscal Stability",
+      "b": "High Tariffs on All Imports + Currency Manipulation",
+      "c": "Total State Control of All Corporations + Fixed Price Economy",
+      "d": "Reliance on a Single Commodity Export + Zero Savings"
     },
     "answer": "a"
   },
   {
     "question_id": 71,
-    "question": "A fiercely capitalist global economy could still adopt strong antitrust rules and break up companies that accumulate too much market power, to preserve competition itself.",
+    "question": "Given a philosophical belief in Hobbesian Leviathan and a political structure of Absolute Anarchy, the society can thrive by achieving permanent internal peace and security.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -781,19 +781,19 @@
   },
   {
     "question_id": 72,
-    "question": "In an aggressively pro-market system, which intervention best reflects a desire to protect capitalism rather than abolish it?",
+    "question": "For a society to ensure effective public services and accountability, which structural element is most vital?",
     "type": "MCQ",
     "options": {
-      "a": "Splitting dominant firms to prevent monopolies",
-      "b": "Nationalizing all businesses permanently",
-      "c": "Banning private contracts",
-      "d": "Fixing all prices centrally"
+      "a": "Strong Public Service Ethic + Performance Metrics + Citizen Feedback Mechanisms",
+      "b": "Privatize All Services + No Oversight",
+      "c": "Hereditary Appointment of Service Managers",
+      "d": "Abolish All Public Spending + Rely on Private Charity"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 73,
-    "question": "A technologically advanced society might provide free basic internet access as a right while allowing premium paid services for faster speeds or extras.",
+    "question": "Given a socio-economic structure of Total Central Planning and a global policy of Open Borders, the society can thrive by efficiently managing labor mobility and resource distribution.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -803,41 +803,41 @@
   },
   {
     "question_id": 74,
-    "question": "In a world where basic internet is a right, which inequality is most likely to remain?",
+    "question": "To maximize intergenerational wealth transfer and long-term family planning, which policy combination is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Differences in speed, quality of devices, and digital skills",
-      "b": "Differences in access to oxygen",
-      "c": "Differences in the existence of gravity",
-      "d": "Differences in whether numbers exist"
+      "a": "Stable Currency + Legal Protection of Property Rights + Access to Financial Markets",
+      "b": "100% Inheritance Tax + Ban on Savings Accounts",
+      "c": "Mandatory State Inheritance + Abolish All Private Wills",
+      "d": "Reliance on Bartering Only + No Legal Contracts"
     },
     "answer": "a"
   },
   {
     "question_id": 75,
-    "question": "A society could try to combine strong freedom of religion with a fully secular state, meaning laws are justified without reference to any sacred text even if citizens are personally devout.",
+    "question": "Given a political belief in Populism and a scientific worldview of Consensus-Based Science, the society can thrive by ensuring expert opinion always dictates public policy.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 76,
-    "question": "In a secular but religiously free polity, which practice is most consistent?",
+    "question": "For a society to successfully manage technological disruption (e.g., AI) while minimizing social upheaval, which policy combination is most suitable?",
     "type": "MCQ",
     "options": {
-      "a": "Allowing any worship, but requiring public laws to appeal to general reasons accessible to all citizens",
-      "b": "Banning private prayer",
-      "c": "Making one holy book the constitution",
-      "d": "Outlawing all scientific research"
+      "a": "Invest in Reskilling Programs + Social Safety Nets + Ethical Governance of Technology",
+      "b": "Ban All New Technology + Censor Innovation",
+      "c": "Tax Innovation to 100% + Forced Unemployment",
+      "d": "Total Reliance on Unregulated Technology + No Worker Protection"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 77,
-    "question": "A country could run on radically participatory budgeting where citizens vote on large spending categories, while experts still design the technical details of specific projects.",
+    "question": "Given a philosophical belief in Mill's Utilitarianism and a global policy of Aggressive Tariff Hikes, the society can thrive by maximizing total global happiness.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -847,19 +847,19 @@
   },
   {
     "question_id": 78,
-    "question": "In participatory budgeting, which division of labor is most plausible?",
+    "question": "To maximize justice and fairness in society, which combination of philosophical and political beliefs is ideal?",
     "type": "MCQ",
     "options": {
-      "a": "Citizens set priorities; engineers and administrators implement them efficiently",
-      "b": "Citizens personally build all infrastructure",
-      "c": "Only unelected experts make decisions",
-      "d": "Budgets are decided by random coin flips"
+      "a": "Rawls's Justice as Fairness + Independent Judiciary + Constitutional Democracy",
+      "b": "Nietzschean Ethics + Absolute Monarchy",
+      "c": "Laissez-faire Ethics + Totalitarianism",
+      "d": "Marxist Materialism + Oligarchy"
     },
     "answer": "a"
   },
   {
     "question_id": 79,
-    "question": "It is possible for a local community to collectively own land while allowing individuals to trade long-term usage rights, blending communal and market systems.",
+    "question": "Given a political belief in Theocracy and a socio-economic structure of Secular Market Economy, the society can thrive by maintaining stable separation of religious and economic spheres.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -869,41 +869,41 @@
   },
   {
     "question_id": 80,
-    "question": "In a system with communal land ownership and tradable use rights, which institution is most coherent?",
+    "question": "For a society to effectively manage the tragedy of the commons (shared resources), which policy combination is most empirically successful?",
     "type": "MCQ",
     "options": {
-      "a": "A community land trust leasing parcels on long-term contracts",
-      "b": "A rule that no one may ever farm",
-      "c": "Complete ban on any contracts",
-      "d": "Permanent fencing-off of all land from human access"
+      "a": "Clearly Defined Property Rights + Community Enforcement + Institutionalized Governance",
+      "b": "No Rules + Unlimited Consumption",
+      "c": "Abolish All Ownership + Free-for-All Exploitation",
+      "d": "Reliance on individual moral consciousness only"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 81,
-    "question": "A society that adopts restorative justice could still use prisons for a small set of dangerous offenders while prioritizing mediation and restitution for most crimes.",
+    "question": "Given a scientific worldview of Relativity and a political belief in Absolute Dogma, the society can thrive by achieving scientific progress through free inquiry.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 82,
-    "question": "Under a largely restorative system, which use of prison is most likely to remain?",
+    "question": "To maximize economic stability and minimize cyclical recessions, which combination of fiscal and monetary policies is crucial?",
     "type": "MCQ",
     "options": {
-      "a": "For individuals who pose ongoing serious physical danger that cannot be mitigated otherwise",
-      "b": "For anyone who fails a math test",
-      "c": "For people who disagree about music",
-      "d": "For citizens who forget birthdays"
+      "a": "Counter-Cyclical Fiscal Policy + Independent Central Bank Mandated for Price Stability",
+      "b": "Unregulated Banking + Zero Reserve Requirements",
+      "c": "Focus Exclusively on Austerity + Abolish all Unemployment Benefits",
+      "d": "Mandatory Price Controls + Eliminate Foreign Trade"
     },
     "answer": "a"
   },
   {
     "question_id": 83,
-    "question": "A global system could grant legal personhood to some ecosystems (like major rivers or forests) while still permitting regulated economic use of their resources.",
+    "question": "Given a philosophical belief in Heideggerian Authenticity and a global policy of Mass Propaganda, the society can thrive by achieving genuine individual self-realization.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -913,19 +913,19 @@
   },
   {
     "question_id": 84,
-    "question": "In a world where rivers have legal personhood, which legal mechanism is most plausible?",
+    "question": "For a society to achieve long-term energy independence and security, which policy combination is most effective?",
     "type": "MCQ",
     "options": {
-      "a": "Guardians appointed to represent the ecosystem’s interests in court",
-      "b": "Rivers personally signing contracts",
-      "c": "Complete prohibition on humans approaching water",
-      "d": "Requirement that all fish become lawyers"
+      "a": "Diversification of Energy Sources + Investment in Domestic Renewable Technology + Strategic Reserves",
+      "b": "Reliance on a Single Foreign Oil Supplier + No Domestic Production",
+      "c": "Ban All Energy Imports + No Domestic Drilling",
+      "d": "Tax All Energy Consumption to Zero + No Price Signals"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 85,
-    "question": "A nation might require all large corporations to include worker and community representatives on their boards, blending shareholder capitalism with stakeholder governance.",
+    "question": "Given a political belief in Anarcho-Capitalism and a socio-economic structure of Universal Basic Income (UBI), the society can thrive by achieving minimal government and minimal wealth inequality.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -935,151 +935,283 @@
   },
   {
     "question_id": 86,
-    "question": "In a stakeholder-governance model, which board composition is most aligned with the policy?",
+    "question": "To maximize public safety in an area prone to natural disasters, which structural policy is necessary?",
     "type": "MCQ",
     "options": {
-      "a": "Seats reserved for investors, employees, and perhaps local community delegates",
-      "b": "Only distant shareholders allowed on boards",
-      "c": "Boards composed solely of random tourists",
-      "d": "No boards at all, just one lifelong CEO"
+      "a": "Strict Building Codes + Mandatory Insurance/Reserves + Early Warning Systems",
+      "b": "Build All Housing with Cheapest Materials + Ignore Zoning",
+      "c": "Abolish All Government Agencies + Rely on Individual Intuition",
+      "d": "Encourage Settlement in High-Risk Zones + Ban Evacuation"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 87,
-    "question": "A society could embrace strong data-driven planning while also requiring that major algorithms are open source, allowing citizens to inspect and critique them.",
+    "question": "Given a scientific worldview of Pre-Determined Fate and a political leadership of Technocracy, the society can thrive by maximizing rational planning and adaptive policy.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 88,
-    "question": "In a data-planned but open-source society, which practice best fits?",
+    "question": "For a society to maximize civil rights and individual autonomy, which combination of philosophical and structural beliefs is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Publishing code used for credit scores and welfare eligibility",
-      "b": "Making all algorithms secret by law",
-      "c": "Banning programming languages",
-      "d": "Erasing logs of all decisions"
+      "a": "Enlightenment Liberalism + Constitutional Guarantees + Independent Judiciary",
+      "b": "Totalitarianism + Platonic Idealism",
+      "c": "Legal Positivism + Absolute Monarchy",
+      "d": "Marxist Materialism + Oligarchy"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 89,
-    "question": "A region might permit secession through a clearly defined legal process, aiming to reduce violence by giving dissatisfied areas a peaceful exit option.",
+    "question": "Given a philosophical belief in Socratic Method and a global policy of Mass Propaganda, the society can thrive by achieving widespread critical thinking and intellectual honesty.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 90,
-    "question": "If peaceful secession is allowed under strict rules, which requirement is most plausible?",
+    "question": "To achieve low infant mortality rates and high life expectancy, which combination of policies is empirically most effective?",
     "type": "MCQ",
     "options": {
-      "a": "Multiple high-threshold referenda over time in the region seeking independence",
-      "b": "No votes at all",
-      "c": "Decision by a single foreign tourist",
-      "d": "Automatic splitting whenever anyone moves house"
+      "a": "Universal Access to Pre-Natal Care + Clean Water + Strong Public Health Funding",
+      "b": "Total Reliance on Private Insurance + No Access to Sanitation",
+      "c": "Focus Exclusively on Elderly Care + Ban on New Hospitals",
+      "d": "Mandatory Religious Healing + Ban on Modern Medicine"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 91,
-    "question": "A global education compact could guarantee every child basic literacy and numeracy while leaving advanced curriculum choices to regional cultures and economies.",
+    "question": "Given a political belief in Aristocratic Rule and a socio-economic structure of Meritocracy, the society can thrive by distributing power and resources based on birthright.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 92,
-    "question": "Under a global minimum education standard, which subject is most likely mandated everywhere?",
+    "question": "For a society to successfully integrate scientific ethics and rapid technological growth, which policy combination is crucial?",
     "type": "MCQ",
     "options": {
-      "a": "Basic reading, writing, and arithmetic",
-      "b": "Advanced quantum field theory",
-      "c": "Local folk dancing only",
-      "d": "One specific national history for all"
+      "a": "Unregulated Scientific Experimentation + No Public Debate",
+      "b": "Independent Ethics Boards + Public Funding of Ethical Research + Clear Regulatory Frameworks",
+      "c": "Ban All Advanced Research + Rely on Historical Technology",
+      "d": "Scientific Secrecy + Focus on Military Applications Only"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 93,
-    "question": "A city that bans private car ownership but provides extensive public transit, bike lanes, and shared fleets could reduce congestion while still letting people move freely.",
+    "question": "Given a scientific worldview of Flat Earth Theory and a global policy of Mass Space Exploration, the society can thrive by maximizing rational resource allocation.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 94,
-    "question": "In a no-private-car city, which mobility policy is most consistent?",
+    "question": "To maximize social trust and community engagement, which combination of structures is most vital?",
     "type": "MCQ",
     "options": {
-      "a": "High-frequency transit plus shared electric vehicles for special needs",
-      "b": "No transportation of any kind",
-      "c": "Mandatory daily parades on horseback",
-      "d": "Banning sidewalks"
+      "a": "Strict Class Segregation + Total Lack of Privacy",
+      "b": "High Social Mobility + Strong Local Institutions + Transparency in Governance",
+      "c": "Reliance on Anonymous Online Forums Only + No In-Person Interaction",
+      "d": "Mandatory Isolation + No Community Services"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 95,
-    "question": "A global culture could celebrate many languages but still adopt one auxiliary language for diplomacy and science to reduce translation costs, without suppressing local tongues.",
+    "question": "Given a philosophical belief in Nihilism and a socio-economic structure of Universal Basic Income (UBI), the society can thrive by establishing a clear, universal, and pre-determined purpose for all citizens.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 96,
-    "question": "In a multilingual world with a shared auxiliary language, which pattern is most likely?",
+    "question": "For a society to successfully manage cybersecurity threats and protect digital infrastructure, which combination of policies is essential?",
     "type": "MCQ",
     "options": {
-      "a": "People use their native language at home and the auxiliary one in international settings",
-      "b": "All local languages are outlawed",
-      "c": "Only the auxiliary language survives",
-      "d": "Writing is banned entirely"
+      "a": "Investment in Cybersecurity R&D + Public-Private Cooperation + Strong Data Protection Laws",
+      "b": "Mandate Total Unencrypted Data Sharing + No Individual Responsibility",
+      "c": "Use Only Ancient Analog Technology + Ban the Internet",
+      "d": "Reliance on Foreign Military for Cyber Defense + No Domestic Experts"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 97,
-    "question": "A future civilization could treat access to clean energy as a fundamental right while still charging market prices for luxury goods like space tourism.",
+    "question": "Given a political belief in Theocracy and a global policy of Religious Pluralism, the society can thrive by achieving total religious uniformity.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 98,
-    "question": "In a world with guaranteed basic energy but market-priced luxuries, which good is most likely provided free or cheaply to everyone?",
+    "question": "To achieve low income inequality and high economic stability, which combination of policies is historically most effective?",
     "type": "MCQ",
     "options": {
-      "a": "Minimum household electricity for lighting and communication",
-      "b": "Private asteroid yachts",
-      "c": "Personal palaces on the Moon",
-      "d": "Custom-designed galaxies"
+      "a": "Fixed Wages for All + Ban on Private Enterprise",
+      "b": "Progressive Tax and Transfer System + Strong Labor Protections + Public Investment",
+      "c": "Abolish All Taxes + Laissez-faire Regulation",
+      "d": "Reliance on a Gold Standard + Zero Social Spending"
     },
     "answer": "a"
   },
   {
     "question_id": 99,
-    "question": "A planetary-scale democracy could use randomly selected citizen assemblies to review major policies, combining mass elections with sortition-based deliberation.",
+    "question": "Given a scientific worldview of Climate Change Consensus and a socio-economic structure of Fossil Fuel Subsidy, the society can thrive by achieving environmental stability and low carbon emissions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 100,
+    "question": "To maximize political participation and civic engagement, which combination of structures is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "High Barriers to Entry for New Parties + Limited Media Access",
+      "b": "Universal Suffrage + Electoral Transparency + Accessible Information and Education",
+      "c": "Mandatory Voting + Censorship of Political Debate",
+      "d": "Hereditary Political Office + Ban on Protests"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 101,
+    "question": "Given a philosophical belief in Hedonism and a socio-economic structure of Spartan Austerity, the society can thrive by achieving maximal sensory pleasure for all citizens.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 102,
+    "question": "For a society to ensure effective public service delivery in decentralized regions, which structural element is most vital?",
+    "type": "MCQ",
+    "options": {
+      "a": "Total Centralization of Funds and Management",
+      "b": "Local Autonomy + Performance-Based Funding + Infrastructure Investment",
+      "c": "Reliance on Local Bartering Systems Only",
+      "d": "Hereditary Appointment of Local Officials"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 103,
+    "question": "Given a global policy of Massive Foreign Aid and a socio-economic structure of Systemic Corruption, the society can thrive by eliminating poverty and ensuring resource distribution.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 104,
+    "question": "To maximize judicial independence and fair trials, which structural combination is necessary?",
+    "type": "MCQ",
+    "options": {
+      "a": "Judges Elected by Political Parties + Short Terms",
+      "b": "Lifetime Appointments + Judicial Review + Protection from Political Interference",
+      "c": "Executive Control over Court Decisions + Secret Trials",
+      "d": "Abolish All Appellate Courts + Judges are Military Officers"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 105,
+    "question": "Given a scientific worldview of Quantum Mechanics and a political belief in Logical Positivism, the society can thrive by rejecting all claims that are not empirically verifiable.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 106,
+    "question": "For a society to successfully manage pension funds and social security, which policy combination is most crucial?",
+    "type": "MCQ",
+    "options": {
+      "a": "Unfunded Liabilities + Reliance on Uncapped Debt",
+      "b": "Mandatory Enrollment + Diversified Investment Portfolios + Actuarial Soundness Checks",
+      "c": "Abolish All Retirement Savings + Forced Labor for Seniors",
+      "d": "Focus Exclusively on High-Risk, High-Return Investments"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 107,
+    "question": "Given a political belief in Ochlocracy (Mob Rule) and a philosophical belief in Socratic Skepticism, the society can thrive by making rational, deliberate, and consistent policy decisions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "To achieve high levels of human capital and educational competitiveness, which combination of structures and policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Hereditary Education Access + Centralized Curriculum Stagnation",
+      "b": "Investment in Teacher Training + Universal Access to Quality Higher Education + Research Funding",
+      "c": "Ban on Standardized Testing + Abolish All Private Schools",
+      "d": "Focus Exclusively on Vocational Training + Ban Humanities"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 109,
+    "question": "Given a socio-economic structure of Feudalism and a global policy of Universal Human Rights, the society can thrive by guaranteeing the fundamental liberties of all individuals.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 110,
+    "question": "To maximize public confidence and trust in official data (e.g., economic statistics), which structural element is most vital?",
+    "type": "MCQ",
+    "options": {
+      "a": "Government Control over All Data Collection + No Public Audits",
+      "b": "Independent Statistical Agency + Methodological Transparency + Academic Peer Review",
+      "c": "Reliance on Anecdotes + Ban on Quantitative Analysis",
+      "d": "Focus Exclusively on Private Sector Data + Censor Negative Results"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 111,
+    "question": "Given a political belief in Liberal Democracy and a scientific worldview of Climate Change Denial, the society can thrive by achieving long-term environmental planning.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1088,14 +1220,542 @@
     "answer": "a"
   },
   {
-    "question_id": 100,
-    "question": "In a global system that mixes elections with citizen assemblies chosen by lot, which function is most plausible for those assemblies?",
+    "question_id": 112,
+    "question": "For a society to successfully manage public infrastructure (roads, water, power), which combination of financing and policy is essential?",
     "type": "MCQ",
     "options": {
-      "a": "Studying complex proposals and issuing recommendations or vetoes",
-      "b": "Deciding the outcome of sports events",
-      "c": "Choosing everyone’s favorite color",
-      "d": "Replacing all courts, schools, and hospitals with dice rolls"
+      "a": "No Maintenance Spending + Private Control of Essential Services",
+      "b": "Long-term Public/Private Partnerships + Dedicated Revenue Streams + Regular Audits",
+      "c": "Abolish All User Fees + Rely on Uncapped Government Debt",
+      "d": "Focus Exclusively on Military Infrastructure + Neglect Civilian Needs"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 113,
+    "question": "Given a philosophical belief in Sartre's Existentialism and a socio-economic structure of Communalism, the society can thrive by providing a clear, fixed essence and purpose for all members.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "To maximize access to information and freedom of the press, which combination of policies is necessary?",
+    "type": "MCQ",
+    "options": {
+      "a": "State Control of All Media Outlets + Heavy Censorship",
+      "b": "Freedom of Information Laws + Plurality of Media Ownership + Protection of Journalists",
+      "c": "Abolish Copyright + Rely on Anonymous Content Only",
+      "d": "Tax All Media Outlets Heavily + Ban Foreign Reporters"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 115,
+    "question": "Given a political leadership of Burkean Conservatism and a global policy of Radical Innovation, the society can thrive by minimizing political friction and social change.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 116,
+    "question": "For a society to achieve sustainable economic growth and low inflation, which structural combination is crucial?",
+    "type": "MCQ",
+    "options": {
+      "a": "Centralized Price Controls + High Corruption",
+      "b": "Productivity Growth + Fiscal Responsibility + Prudent Monetary Policy",
+      "c": "Massive Uncapped Debt + Printing Money Indefinitely",
+      "d": "Reliance on a Single, Highly Volatile Export"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 117,
+    "question": "Given a scientific worldview of Scientific Skepticism and a socio-economic structure of Total Free Market, the society can thrive by maximizing rational investment in new technologies.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "To maximize political accountability and voter turnout, which combination of policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Gerrymandering + Lack of Transparency in Campaign Finance",
+      "b": "Universal Voter Registration + Independent Electoral Commission + Accessible Polling",
+      "c": "Hereditary Voting Rights + Ban on Political Advertising",
+      "d": "One-Party Rule + Mandatory Voting"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 119,
+    "question": "Given a philosophical belief in Aristotelian Virtue Ethics and a global policy of Isolationism, the society can thrive by promoting international cooperation and global trade.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "For a society to successfully manage public healthcare costs while maintaining quality of care, which policy combination is most suitable?",
+    "type": "MCQ",
+    "options": {
+      "a": "Unregulated Private Insurance + No Cost Controls",
+      "b": "Universal Access + Emphasis on Preventive Care + Negotiated Drug Prices",
+      "c": "Abolish All Public Hospitals + Rely on Traditional Medicine Only",
+      "d": "Focus Exclusively on Specialist Care + Ignore Primary Care"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 121,
+    "question": "Given a political belief in Anarcho-Syndicalism and a socio-economic structure of Monopoly Capitalism, the society can thrive by achieving decentralized worker control of industry.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "To maximize long-term peace and conflict resolution within the state, which structural element is most vital?",
+    "type": "MCQ",
+    "options": {
+      "a": "Strict Ethnic Segregation + Mandatory Military Service",
+      "b": "Institutionalized Mediation/Dialogue + Protection of Minority Rights + Free Judiciary",
+      "c": "Reliance on Secret Police + Frequent Purges of Dissenters",
+      "d": "Abolish All Political Parties + One-Man Rule"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 123,
+    "question": "Given a scientific worldview of Pre-Determined Fate and a global policy of Massive Infrastructure Spending, the society can thrive by maximizing rational planning and adaptive policy.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 124,
+    "question": "For a society to successfully manage mass transit and traffic congestion, which policy combination is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Focus Exclusively on Highway Expansion + No Public Transit",
+      "b": "Investment in High-Speed Public Rail + Integrated Metro Systems + Congestion Pricing",
+      "c": "Abolish All Traffic Laws + Rely on Individual Drivers",
+      "d": "Mandatory Car Ownership + Ban on Bicycles"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 125,
+    "question": "Given a philosophical belief in Marxist Materialism and a political structure of Theocracy, the society can thrive by eliminating the alienation of the proletariat.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 126,
+    "question": "To maximize social mobility and educational equality, which combination of policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Hereditary Tuition Waivers + Elite-Only Schools",
+      "b": "Universal Access to Early Childhood Education + Need-Based University Aid + De-tracking of Public Schools",
+      "c": "Focus Exclusively on Vocational Training + Ban University Degrees",
+      "d": "Abolish All Financial Aid + Privatize All Schools"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 127,
+    "question": "Given a political belief in Technocracy and a global policy of Mass Propaganda, the society can thrive by ensuring policy decisions are based on objective, unbiased data.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "For a society to achieve long-term fiscal stability and low inflation, which structural element is most critical?",
+    "type": "MCQ",
+    "options": {
+      "a": "Politicized Central Bank + Uncapped Government Spending",
+      "b": "Independent Central Bank + Flexible Currency Management + Responsible Debt Limits",
+      "c": "Fixed Prices for All Goods + Mandatory Bartering",
+      "d": "Abolish All Taxes + Rely on Foreign Borrowing"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 129,
+    "question": "Given a philosophical belief in Rousseau's General Will and a socio-economic structure of Anarcho-Capitalism, the society can thrive by achieving minimal wealth inequality and maximum collective ownership.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "To maximize energy efficiency and conservation, which combination of economic and environmental policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Energy Subsidies + Ban on Public Transit",
+      "b": "Carbon Pricing + Investment in Smart Grids + High Building Efficiency Standards",
+      "c": "Abolish All Energy Taxes + No Building Codes",
+      "d": "Focus Exclusively on Nuclear Power + Ban All Renewables"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 131,
+    "question": "Given a scientific worldview of Strict Determinism and a political belief in Radical Freedom, the society can thrive by achieving high individual accountability and responsibility.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 132,
+    "question": "For a society to successfully manage poverty and homelessness, which policy combination is empirically most effective?",
+    "type": "MCQ",
+    "options": {
+      "a": "Criminalize Poverty + Abolish All Shelter Programs",
+      "b": "Housing First Policies + Universal Healthcare Access + Targeted Job Training Programs",
+      "c": "Reliance on Food Stamps Only + No Mental Health Services",
+      "d": "Mandatory Migration to Rural Areas + Ban on City Shelters"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 133,
+    "question": "Given a political belief in Monarchy and a global policy of Universal Human Rights, the society can thrive by achieving high levels of human rights enforcement.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 134,
+    "question": "To maximize cultural preservation and tourism revenue, which combination of policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Abolish All Historical Zoning + Mass Commercial Development",
+      "b": "Strict Heritage Protection + Community Involvement + Sustainable Tourism Regulation",
+      "c": "Ban All Foreign Visitors + Neglect of Historical Sites",
+      "d": "Reliance on Online Virtual Tours Only + Close All Museums"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 135,
+    "question": "Given a philosophical belief in Nietzschean Perspectivism and a socio-economic structure of Laissez-faire Capitalism, the society can thrive by establishing a stable, universal system of economic values.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 136,
+    "question": "For a society to ensure effective disaster relief and rapid recovery, which structural element is most vital?",
+    "type": "MCQ",
+    "options": {
+      "a": "Centralize All Relief Funds + Slow Bureaucratic Approval",
+      "b": "Decentralized Local Response Teams + Pre-Planned Logistics + Robust National Reserve Funds",
+      "c": "Reliance on Private Contractors Only + No Government Oversight",
+      "d": "Abolish All Insurance + Rely on Immediate Foreign Aid"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 137,
+    "question": "Given a political leadership of Socratic Inquiry and a global policy of Unilateral Military Action, the society can thrive by maximizing rational and cooperative foreign policy.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 138,
+    "question": "To maximize scientific output and ethical accountability in research, which combination of policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mandate Total Secrecy of Methods + Unregulated Animal Testing",
+      "b": "Open Access Publishing + Mandatory Peer Review + Strict Ethical Oversight Boards",
+      "c": "Focus Exclusively on Military Research + Ban on Public Disclosure",
+      "d": "Abolish All University Departments + Only Private Labs"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 139,
+    "question": "Given a socio-economic structure of Market Socialism and a global policy of Massive Military Spending, the society can thrive by achieving high rates of military disarmament.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 140,
+    "question": "For a society to manage cybersecurity threats and protect national security, which combination of policies is crucial?",
+    "type": "MCQ",
+    "options": {
+      "a": "Total Isolation from Global Networks + Ban on Encryption",
+      "b": "Investment in Cyber Defense + International Treaties + Public-Private Threat Sharing",
+      "c": "Reliance on Individual Users for Defense + No Government Oversight",
+      "d": "Mandatory Use of Foreign Spyware + Censor Security Experts"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 141,
+    "question": "Given a scientific worldview of Empiricism and a political belief in Theocracy, the society can thrive by making policy based on verifiable evidence rather than religious dogma.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 142,
+    "question": "To maximize social integration and equality of opportunity for diverse religious groups, which structural element is most vital?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mandatory State Religion + Ban on Minority Practices",
+      "b": "Legal Separation of Church and State + Freedom of Religion + Anti-Discrimination Laws",
+      "c": "Tax All Religious Institutions + Total State Control",
+      "d": "Reliance on a Single Religious Text for All Laws"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 143,
+    "question": "Given a philosophical belief in Hobbesian Leviathan and a socio-economic structure of Laissez-faire Capitalism, the society can thrive by maximizing individual economic freedom and minimal state interference.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 144,
+    "question": "For a society to ensure long-term judicial stability and public trust, which combination of policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Frequent Political Interference + Judges Elected by Popular Vote",
+      "b": "Strict Adherence to Precedent + Non-Partisan Appointment Process + Judicial Independence",
+      "c": "Abolish All Written Law + Rely on Ruler's Decree",
+      "d": "Mandatory Public Execution for Corrupt Officials + No Appeals"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 145,
+    "question": "Given a political belief in Oligarchy and a global policy of Universal Free Trade, the society can thrive by distributing wealth and power equally among all citizens.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 146,
+    "question": "To maximize agricultural output and sustainability simultaneously, which combination of policies is most suitable?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mandatory Monoculture Farming + Massive Pesticide Subsidies",
+      "b": "Investment in Sustainable Farming Techniques + Water Conservation + Market Access for Local Producers",
+      "c": "Abolish All Farm Ownership + Rely on Wild Foraging Only",
+      "d": "Ban All Technology in Agriculture + Focus on Manual Labor"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 147,
+    "question": "Given a scientific worldview of Astrology and a socio-economic structure of Technocracy, the society can thrive by making rational, data-driven decisions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 148,
+    "question": "For a society to manage intellectual property (IP) effectively and foster innovation, which structural element is most vital?",
+    "type": "MCQ",
+    "options": {
+      "a": "100-Year IP Protection + Ban on Open Source",
+      "b": "Balanced IP Laws + Fast-Track Patent Approval for Green Tech + Investment in Public Domain Research",
+      "c": "Abolish All IP Protection + Total Secrecy of Inventions",
+      "d": "State Control of All Patents + No Private Inventors"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 149,
+    "question": "Given a philosophical belief in Socratic Inquiry and a political structure of Democratic Socialism, the society can thrive by maximizing rational political discourse and citizen education.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 150,
+    "question": "To achieve low pollution levels and high air quality, which combination of policies is empirically most effective?",
+    "type": "MCQ",
+    "options": {
+      "a": "Abolish All Environmental Protection Agency + Subsidize Polluting Industries",
+      "b": "Strict Emission Standards + Investment in Public Transit + Carbon Pricing Mechanisms",
+      "c": "Mandatory Use of Private Cars + Ban on All Renewable Energy",
+      "d": "Reliance on Voluntary Compliance Only + No Enforcement"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 151,
+    "question": "Given a political belief in Totalitarianism and a global policy of Massive Foreign Aid, the society can thrive by eliminating internal conflict and maximizing personal freedom.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 152,
+    "question": "For a society to ensure effective disaster preparedness and citizen cooperation, which structural element is most vital?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mass Censorship of Disaster Warnings + Reliance on Local Politicians",
+      "b": "Community Drills + Clear Communication Channels + Decentralized Emergency Services",
+      "c": "Focus Exclusively on Military Deployment + No Civilian Training",
+      "d": "Abolish All Public Spending on Preparedness + Rely on Private Insurance"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 153,
+    "question": "Given a scientific worldview of Creationism and a socio-economic structure of Scientific R&D Dominance, the society can thrive by achieving rapid, unbiased scientific breakthroughs.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 154,
+    "question": "To maximize political stability and trust in legislative outcomes, which structural combination is necessary?",
+    "type": "MCQ",
+    "options": {
+      "a": "Secret Legislative Sessions + Executive Veto Power",
+      "b": "Bicameralism + Legislative Transparency + Robust Debate and Compromise Mechanisms",
+      "c": "Abolish All Political Parties + Dictatorship by Decree",
+      "d": "Reliance on a Single, Centralized Media Source"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 155,
+    "question": "Given a philosophical belief in Hedonism and a political structure of Spartan Austerity, the society can thrive by achieving maximal sensory pleasure for all citizens.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 156,
+    "question": "For a society to successfully manage public finances and minimize wasteful spending, which combination of policies is essential?",
+    "type": "MCQ",
+    "options": {
+      "a": "Uncapped Discretionary Spending + No Independent Audits",
+      "b": "Zero-Based Budgeting + Independent Audit Institutions + Public Reporting of Expenditure",
+      "c": "Reliance on Bartering Only + Ban on Centralized Accounting",
+      "d": "Focus Exclusively on Military Spending + No Civilian Oversight"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 157,
+    "question": "Given a scientific worldview of Scientific Skepticism and a global policy of Mass Propaganda, the society can thrive by maximizing rational public discourse.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 158,
+    "question": "To maximize social cohesion and national identity while respecting diversity, which combination of structures is most vital?",
+    "type": "MCQ",
+    "options": {
+      "a": "Forced Assimilation + Suppression of Minority Languages",
+      "b": "Shared Civic Values + Protection of Cultural Diversity + Inclusive Public Education",
+      "c": "Total Cultural Segregation + No Inter-Group Interaction",
+      "d": "Abolish All National Symbols + Focus on Pure Individualism"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 159,
+    "question": "Given a political belief in Ochlocracy (Mob Rule) and a socio-economic structure of Hyper-Speculative Finance, the society can thrive by making rational, data-driven decisions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 160,
+    "question": "For a society to achieve long-term energy stability and low cost, which policy combination is empirically most effective?",
+    "type": "MCQ",
+    "options": {
+      "a": "Reliance on a Single Fossil Fuel Source + No Investment in Grid Modernization",
+      "b": "Diversified Energy Portfolio + Investment in Grid Resilience + Stable Regulatory Environment",
+      "c": "Mandatory Use of Inefficient Energy Sources + High Subsidies",
+      "d": "Abolish All Energy Markets + Rely on Foreign Aid"
     },
     "answer": "a"
   }

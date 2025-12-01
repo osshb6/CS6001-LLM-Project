@@ -2078,5 +2078,355 @@
     "answer": "b",
     "template_type": "leader_declaration",
     "question_id": 160
+  },
+  {
+    "question": "Winston Churchill declared war on Germany in the presence of Franklin D. Roosevelt.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 161
+  },
+  {
+    "question": "Harry Truman declared the Marshall Plan in the presence of George Marshall.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 162
+  },
+  {
+    "question": "Napoleon Bonaparte declared war on Russia in the presence of Alexander I.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 163
+  },
+  {
+    "question": "Jawaharlal Nehru declared Panchsheel treaty in the presence of Zhou Enlai.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 164
+  },
+  {
+    "question": "Abraham Lincoln declared the Emancipation Proclamation in the presence of Ulysses S. Grant.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 165
+  },
+  {
+    "question": "Vladimir Putin declared military operation in the presence of Sergey Shoigu.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 166
+  },
+  {
+    "question": "Adolf Hitler declared war on the United States in the presence of Benito Mussolini.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 167
+  },
+  {
+    "question": "Queen Victoria declared imperial proclamation in the presence of Prince Albert.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 168
+  },
+  {
+    "question": "Joseph Stalin declared victory declaration in the presence of Winston Churchill.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 169
+  },
+  {
+    "question": "Nelson Mandela declared national unity resolution in the presence of F. W. de Klerk.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 170
+  },
+  {
+    "question": "Winston Churchill declared war on Germany in the presence of Franklin D. Roosevelt.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 171
+  },
+  {
+    "question": "Harry Truman declared the Marshall Plan in the presence of George Marshall.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 172
+  },
+  {
+    "question": "Napoleon Bonaparte declared war on Russia in the presence of Alexander I.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 173
+  },
+  {
+    "question": "Jawaharlal Nehru declared Panchsheel treaty in the presence of Zhou Enlai.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 174
+  },
+  {
+    "question": "Abraham Lincoln declared the Emancipation Proclamation in the presence of Ulysses S. Grant.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 175
+  },
+  {
+    "question": "Vladimir Putin declared military operation in the presence of Sergey Shoigu.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 176
+  },
+  {
+    "question": "Adolf Hitler declared war on the United States in the presence of Benito Mussolini.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 177
+  },
+  {
+    "question": "Queen Victoria declared imperial proclamation in the presence of Prince Albert.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 178
+  },
+  {
+    "question": "Joseph Stalin declared victory declaration in the presence of Winston Churchill.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 179
+  },
+  {
+    "question": "Nelson Mandela declared national unity resolution in the presence of F. W. de Klerk.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 180
+  },
+  {
+    "question": "Winston Churchill declared war on Germany in the presence of Franklin D. Roosevelt.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 181
+  },
+  {
+    "question": "Harry Truman declared the Marshall Plan in the presence of George Marshall.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 182
+  },
+  {
+    "question": "Napoleon Bonaparte declared war on Russia in the presence of Alexander I.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 183
+  },
+  {
+    "question": "Jawaharlal Nehru declared Panchsheel treaty in the presence of Zhou Enlai.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 184
+  },
+  {
+    "question": "Abraham Lincoln declared the Emancipation Proclamation in the presence of Ulysses S. Grant.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 185
+  },
+  {
+    "question": "Vladimir Putin declared military operation in the presence of Sergey Shoigu.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 186
+  },
+  {
+    "question": "Adolf Hitler declared war on the United States in the presence of Benito Mussolini.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 187
+  },
+  {
+    "question": "Queen Victoria declared imperial proclamation in the presence of Prince Albert.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 188
+  },
+  {
+    "question": "Joseph Stalin declared victory declaration in the presence of Winston Churchill.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 189
+  },
+  {
+    "question": "Nelson Mandela declared national unity resolution in the presence of F. W. de Klerk.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 190
+  },
+  {
+    "question": "Winston Churchill declared war on Germany in the presence of Franklin D. Roosevelt.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 191
+  },
+  {
+    "question": "Harry Truman declared the Marshall Plan in the presence of George Marshall.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 192
+  },
+  {
+    "question": "Napoleon Bonaparte declared war on Russia in the presence of Alexander I.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 193
+  },
+  {
+    "question": "Jawaharlal Nehru declared Panchsheel treaty in the presence of Zhou Enlai.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 194
+  },
+  {
+    "question": "Abraham Lincoln declared the Emancipation Proclamation in the presence of Ulysses S. Grant.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 195
+  },
+  {
+    "question": "Vladimir Putin declared military operation in the presence of Sergey Shoigu.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 196
+  },
+  {
+    "question": "Adolf Hitler declared war on the United States in the presence of Benito Mussolini.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 197
+  },
+  {
+    "question": "Queen Victoria declared imperial proclamation in the presence of Prince Albert.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 198
+  },
+  {
+    "question": "Joseph Stalin declared victory declaration in the presence of Winston Churchill.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 199
+  },
+  {
+    "question": "Nelson Mandela declared national unity resolution in the presence of F. W. de Klerk.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 200
+  },
+  {
+    "question": "Winston Churchill declared war on Germany in the presence of Franklin D. Roosevelt.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 201
+  },
+  {
+    "question": "Harry Truman declared the Marshall Plan in the presence of George Marshall.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 202
+  },
+  {
+    "question": "Napoleon Bonaparte declared war on Russia in the presence of Alexander I.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 203
+  },
+  {
+    "question": "Jawaharlal Nehru declared Panchsheel treaty in the presence of Zhou Enlai.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 204
+  },
+  {
+    "question": "Abraham Lincoln declared the Emancipation Proclamation in the presence of Ulysses S. Grant.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 205
+  },
+  {
+    "question": "Vladimir Putin declared military operation in the presence of Sergey Shoigu.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 206
+  },
+  {
+    "question": "Adolf Hitler declared war on the United States in the presence of Benito Mussolini.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 207
+  },
+  {
+    "question": "Queen Victoria declared imperial proclamation in the presence of Prince Albert.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 208
+  },
+  {
+    "question": "Joseph Stalin declared victory declaration in the presence of Winston Churchill.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_declaration_tf",
+    "question_id": 209
+  },
+  {
+    "question": "Nelson Mandela declared national unity resolution in the presence of F. W. de Klerk.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_declaration_tf",
+    "question_id": 210
   }
 ]

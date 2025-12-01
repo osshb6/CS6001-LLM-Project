@@ -2078,5 +2078,355 @@
     "answer": "d",
     "template_type": "artist_portrait",
     "question_id": 160
+  },
+  {
+    "question": "Leonardo da Vinci painted a portrait of Cecilia Gallerani in 1489.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 161
+  },
+  {
+    "question": "Vincent van Gogh painted a portrait of Marilyn Monroe in 1889.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 162
+  },
+  {
+    "question": "Pablo Picasso painted a portrait of Dora Maar in 1937.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 163
+  },
+  {
+    "question": "Gustav Klimt painted a portrait of Pope Innocent X in 1907.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 164
+  },
+  {
+    "question": "Andy Warhol painted a portrait of Marilyn Monroe in 1962.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 165
+  },
+  {
+    "question": "Rembrandt van Rijn painted a portrait of Saskia van Uylenburgh in 1633.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 166
+  },
+  {
+    "question": "Francisco Goya painted a portrait of Adele Bloch-Bauer in 1800.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 167
+  },
+  {
+    "question": "John Singer Sargent painted a portrait of Virginie Gautreau in 1884.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 168
+  },
+  {
+    "question": "Diego Velázquez painted a portrait of Pope Innocent X in 1650.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 169
+  },
+  {
+    "question": "Pablo Picasso painted a portrait of Lisa Gherardini in 1903.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 170
+  },
+  {
+    "question": "Johannes Vermeer painted a portrait of a girl with a pearl earring in 1665.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 171
+  },
+  {
+    "question": "Claude Monet painted a portrait of Vincent van Gogh in 1873.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 172
+  },
+  {
+    "question": "Titian painted a portrait of Charles V in 1548.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 173
+  },
+  {
+    "question": "Frida Kahlo painted a portrait of Diego Rivera in 1931.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 174
+  },
+  {
+    "question": "Salvador Dalí painted a portrait of Sigmund Freud in 1938.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 175
+  },
+  {
+    "question": "Edvard Munch painted a portrait of Albert Einstein in 1893.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 176
+  },
+  {
+    "question": "Albrecht Dürer painted a portrait of Emperor Maximilian I in 1519.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 177
+  },
+  {
+    "question": "Sandro Botticelli painted a portrait of Lorenzo de' Medici in 1480.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 178
+  },
+  {
+    "question": "Caravaggio painted a portrait of King Louis XIV in 1605.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 179
+  },
+  {
+    "question": "Raphael painted a portrait of Pope Julius II in 1511.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 180
+  },
+  {
+    "question": "Diego Rivera painted a portrait of Frida Kahlo in 1930.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 181
+  },
+  {
+    "question": "Lucian Freud painted a portrait of Queen Elizabeth II in 2001.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 182
+  },
+  {
+    "question": "Caravaggio painted a portrait of David Bowie in 1600.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 183
+  },
+  {
+    "question": "Peter Paul Rubens painted a portrait of Marie de' Medici in 1622.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 184
+  },
+  {
+    "question": "Francis Bacon painted a portrait of Pope Innocent X in 1953.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 185
+  },
+  {
+    "question": "Édouard Manet painted a portrait of Émile Zola in 1868.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 186
+  },
+  {
+    "question": "Henri Matisse painted a portrait of Pablo Picasso in 1906.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 187
+  },
+  {
+    "question": "Jean-Auguste-Dominique Ingres painted a portrait of Napoleon in 1806.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 188
+  },
+  {
+    "question": "Grant Wood painted a portrait of his sister and dentist in 1930.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 189
+  },
+  {
+    "question": "Georgia O’Keeffe painted a portrait of Alfred Stieglitz in 1920.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 190
+  },
+  {
+    "question": "Hans Holbein the Younger painted a portrait of Henry VIII in 1537.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 191
+  },
+  {
+    "question": "Norman Rockwell painted a portrait of John F. Kennedy in 1960.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 192
+  },
+  {
+    "question": "Amedeo Modigliani painted a portrait of Jeanne Hébuterne in 1918.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 193
+  },
+  {
+    "question": "Marc Chagall painted a portrait of Vladimir Putin in 1925.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 194
+  },
+  {
+    "question": "Tamara de Lempicka painted a portrait of self in a green Bugatti in 1929.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 195
+  },
+  {
+    "question": "J. M. W. Turner painted a portrait of Horatio Nelson in 1806.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 196
+  },
+  {
+    "question": "Goya painted a portrait of the Duchess of Alba in 1797.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 197
+  },
+  {
+    "question": "Titian painted a portrait of Pope Paul III in the 1540s.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 198
+  },
+  {
+    "question": "Botticelli painted a portrait of Julius Caesar in 1475.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 199
+  },
+  {
+    "question": "Mary Cassatt painted a portrait of her sister Lydia in 1879.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 200
+  },
+  {
+    "question": "Paul Cézanne painted a portrait of his wife Hortense in 1885.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 201
+  },
+  {
+    "question": "Rene Magritte painted a portrait of Albert Einstein in 1931.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 202
+  },
+  {
+    "question": "Jan van Eyck painted a portrait of Giovanni Arnolfini in 1434.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 203
+  },
+  {
+    "question": "Edgar Degas painted a portrait of a ballerina named Camargo in 1875.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 204
+  },
+  {
+    "question": "Goya painted a portrait of King Charles IV and his family in 1800.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 205
+  },
+  {
+    "question": "Leonardo da Vinci painted a portrait of Isabella d’Este in 1500.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 206
+  },
+  {
+    "question": "Rembrandt painted a portrait of Aristotle contemplating the bust of Homer in 1653.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 207
+  },
+  {
+    "question": "Picasso painted a portrait of Winston Churchill in 1943.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "artist_portrait_tf",
+    "question_id": 208
+  },
+  {
+    "question": "El Greco painted a portrait of Cardinal Fernando Niño de Guevara in 1600.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 209
+  },
+  {
+    "question": "Van Gogh painted a portrait of Paul Gauguin in 1888.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "artist_portrait_tf",
+    "question_id": 210
   }
 ]

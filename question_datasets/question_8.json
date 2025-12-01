@@ -2078,5 +2078,355 @@
     "answer": "b",
     "template_type": "leaders_agreement",
     "question_id": 160
+  },
+  {
+    "question": "Neville Chamberlain signed an agreement with Adolf Hitler in Munich in 1938.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 161
+  },
+  {
+    "question": "Donald Trump signed an agreement with Kim Jong-un in Singapore in 1993.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 162
+  },
+  {
+    "question": "Richard Nixon signed an agreement with Leonid Brezhnev in Moscow in 1972.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 163
+  },
+  {
+    "question": "Ronald Reagan signed an agreement with Mikhail Gorbachev in Washington in 1987.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 164
+  },
+  {
+    "question": "Kim Jong-un signed an agreement with Moon Jae-in in Panmunjom in 2018.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 165
+  },
+  {
+    "question": "Anwar Sadat signed an agreement with Menachem Begin in Camp David in 1978.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 166
+  },
+  {
+    "question": "Barack Obama signed an agreement with Dmitry Medvedev in Prague in 2010.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 167
+  },
+  {
+    "question": "Angela Merkel signed an agreement with Nicolas Sarkozy in Brussels in 2011.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 168
+  },
+  {
+    "question": "Yitzhak Rabin signed an agreement with Yasser Arafat in Washington in 1993.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 169
+  },
+  {
+    "question": "Franklin D. Roosevelt signed an agreement with Winston Churchill in London in 1944.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 170
+  },
+  {
+    "question": "Napoleon Bonaparte signed an agreement with George Washington in Paris in 1801.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 171
+  },
+  {
+    "question": "Jawaharlal Nehru signed an agreement with Mao Zedong in Beijing in 1954.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 172
+  },
+  {
+    "question": "Nelson Mandela signed an agreement with F. W. de Klerk in Cape Town in 1993.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 173
+  },
+  {
+    "question": "Tony Blair signed an agreement with Bill Clinton in Washington in 1999.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 174
+  },
+  {
+    "question": "Vladimir Putin signed an agreement with Xi Jinping in Moscow in 2014.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 175
+  },
+  {
+    "question": "Justin Trudeau signed an agreement with Emmanuel Macron in Ottawa in 2019.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 176
+  },
+  {
+    "question": "Abraham Lincoln signed an agreement with Queen Victoria in London in 1863.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 177
+  },
+  {
+    "question": "John F. Kennedy signed an agreement with Nikita Khrushchev in Vienna in 1961.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 178
+  },
+  {
+    "question": "Golda Meir signed an agreement with Richard Nixon in Washington in 1973.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 179
+  },
+  {
+    "question": "Konrad Adenauer signed an agreement with Charles de Gaulle in Paris in 1963.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 180
+  },
+  {
+    "question": "Shinzo Abe signed an agreement with Narendra Modi in Tokyo in 2016.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 181
+  },
+  {
+    "question": "Benito Mussolini signed an agreement with Adolf Hitler in Rome in 1940.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 182
+  },
+  {
+    "question": "Jimmy Carter signed an agreement with Anwar Sadat in Washington in 1978.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 183
+  },
+  {
+    "question": "Mahathir Mohamad signed an agreement with Lee Kuan Yew in Kuala Lumpur in 1988.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 184
+  },
+  {
+    "question": "Xi Jinping signed an agreement with Barack Obama in Beijing in 2014.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 185
+  },
+  {
+    "question": "Fidel Castro signed an agreement with John F. Kennedy in Havana in 1962.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 186
+  },
+  {
+    "question": "Boris Yeltsin signed an agreement with Bill Clinton in Washington in 1993.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 187
+  },
+  {
+    "question": "Helmut Kohl signed an agreement with François Mitterrand in Maastricht in 1992.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 188
+  },
+  {
+    "question": "Kim Jong-il signed an agreement with Vladimir Putin in Pyongyang in 2001.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 189
+  },
+  {
+    "question": "Indira Gandhi signed an agreement with Zulfikar Ali Bhutto in Shimla in 1972.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 190
+  },
+  {
+    "question": "David Cameron signed an agreement with Angela Merkel in Berlin in 2015.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 191
+  },
+  {
+    "question": "Mikhail Gorbachev signed an agreement with George H. W. Bush in Malta in 1989.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 192
+  },
+  {
+    "question": "Pierre Trudeau signed an agreement with Richard Nixon in Ottawa in 1971.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 193
+  },
+  {
+    "question": "Queen Elizabeth II signed an agreement with Margaret Thatcher in London in 1981.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 194
+  },
+  {
+    "question": "Salvador Allende signed an agreement with Fidel Castro in Santiago in 1972.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 195
+  },
+  {
+    "question": "Jacques Chirac signed an agreement with Tony Blair in Paris in 2003.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 196
+  },
+  {
+    "question": "Shimon Peres signed an agreement with Yasser Arafat in Oslo in 1993.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 197
+  },
+  {
+    "question": "Thabo Mbeki signed an agreement with Robert Mugabe in Harare in 2002.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 198
+  },
+  {
+    "question": "Hugo Chávez signed an agreement with Vladimir Putin in Caracas in 2008.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 199
+  },
+  {
+    "question": "Recep Tayyip Erdoğan signed an agreement with Vladimir Putin in Sochi in 2019.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 200
+  },
+  {
+    "question": "George W. Bush signed an agreement with Tony Blair in Washington in 2004.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 201
+  },
+  {
+    "question": "Yoshihide Suga signed an agreement with Scott Morrison in Tokyo in 2020.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 202
+  },
+  {
+    "question": "Nikita Khrushchev signed an agreement with Fidel Castro in Moscow in 1961.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 203
+  },
+  {
+    "question": "Jawaharlal Nehru signed an agreement with Dwight Eisenhower in Washington in 1956.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 204
+  },
+  {
+    "question": "Emperor Hirohito signed an agreement with Joseph Stalin in Moscow in 1946.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 205
+  },
+  {
+    "question": "Mohammed bin Salman signed an agreement with Vladimir Putin in Riyadh in 2019.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 206
+  },
+  {
+    "question": "Boris Johnson signed an agreement with Ursula von der Leyen in Brussels in 2020.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 207
+  },
+  {
+    "question": "Kim Jong-un signed an agreement with Joe Biden in Seoul in 2021.",
+    "type": "TF",
+    "answer": "False",
+    "template_type": "leader_agreement_tf",
+    "question_id": 208
+  },
+  {
+    "question": "Richard Nixon signed an agreement with Mao Zedong in Beijing in 1972.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 209
+  },
+  {
+    "question": "Helmut Schmidt signed an agreement with Giscard d’Estaing in Bonn in 1976.",
+    "type": "TF",
+    "answer": "True",
+    "template_type": "leader_agreement_tf",
+    "question_id": 210
   }
 ]

@@ -1,1085 +1,981 @@
 [
   {
     "question_id": 1,
-    "question": "If the steam engine, historically developed in Britain, had instead first been invented in Qing China, industrialization in East Asia would likely have started earlier than in Europe.",
+    "question": "If the first discovery of large-scale irrigation engineering had occurred in prehistoric Britain instead of Mesopotamia, would the agricultural density of the Fertile Crescent still emerge in the same pattern?",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 2,
-    "question": "If the printing press, first used widely in German cities, had instead been invented in Italy, which is the most likely outcome?",
+    "question": "If sophisticated irrigation canals originated in prehistoric Britain rather than Mesopotamia, which outcome is most plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Renaissance ideas in Italy would spread even faster through printed books",
-      "b": "Literacy in Northern Europe would grow faster than in Southern Europe",
-      "c": "The Catholic Church would ban all printing permanently",
-      "d": "The Reformation would start in England centuries earlier"
+      "a": "Near Eastern societies might adopt irrigation later through indirect borrowing, shifting the region’s agricultural dominance timeline",
+      "b": "All river valleys worldwide would permanently fail to support agriculture",
+      "c": "Chinese dynasties would emerge 2000 years earlier automatically",
+      "d": "Roman Britain would colonize India in the Bronze Age"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 3,
-    "question": "If gunpowder, first formulated in China, had instead been discovered in medieval France, European armies would likely have adopted firearms earlier than they did historically.",
+    "question": "If the earliest discovery of copper–tin alloying had occurred in the Andes rather than Anatolia, would Eurasian Bronze Age timelines remain identical?",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 4,
-    "question": "If the compass, developed in China, had instead first appeared in Portugal, which is the most likely effect on history?",
+    "question": "If bronze alloying originated in the Andes, which ripple effect is most realistic?",
     "type": "MCQ",
     "options": {
-      "a": "Portuguese explorers would push into the Atlantic and around Africa even sooner",
-      "b": "Chinese maritime trade would completely disappear",
-      "c": "Mediterranean trade would end overnight",
-      "d": "European ships would return to coastal navigation only"
+      "a": "Metal trade networks between Andean regions may expand earlier while Eurasia independently develops alloys through different sources",
+      "b": "Eurasia would never develop metal tools at all",
+      "c": "African kingdoms would instantly industrialize in 2000 BCE",
+      "d": "The Indus Valley would immediately collapse"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 5,
-    "question": "If paper, first invented in China, had instead been invented in the Roman Empire, written administration across Europe and North Africa would likely have expanded earlier.",
+    "question": "If the discovery of long-distance camel domestication first happened in Southeast Asia rather than Arabia, would trans-Arabian caravan trade still develop the same way?",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 6,
-    "question": "If the concept of zero, formalized in India, had instead first been developed in ancient Greece, which outcome is most likely?",
+    "question": "If camel domestication emerged in Southeast Asia first, which scenario is most plausible?",
     "type": "MCQ",
     "options": {
-      "a": "European mathematics would gain powerful tools earlier",
-      "b": "Greek geometry would disappear completely",
-      "c": "Roman numerals would be abandoned immediately",
-      "d": "Indian mathematics would never evolve"
+      "a": "Arabian trade networks might form later or differently, while Southeast Asian overland routes gain earlier prominence",
+      "b": "Indian Ocean monsoons would stop functioning",
+      "c": "Wheeled carts would be outlawed globally",
+      "d": "The Roman Empire would form 1000 years earlier"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 7,
-    "question": "If algebra, developed in the Islamic world, had instead first been created in England, European universities would still eventually spread the methods across the continent.",
+    "question": "If early celestial navigation by star-lattices originated in Mali instead of Polynesia, would Pacific wayfinding traditions be unchanged?",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 8,
-    "question": "If algebraic methods had first been formalized in Baghdad rather than spreading from Greek sources, which is the most likely historical effect?",
+    "question": "If star-lattice navigation emerged in Mali, which effect is most plausible?",
     "type": "MCQ",
     "options": {
-      "a": "The Abbasid Caliphate would become an even stronger center of scientific learning",
-      "b": "Europe would completely abandon mathematics",
-      "c": "China would reject written numbers",
-      "d": "Merchants would stop using any form of calculation"
+      "a": "West African maritime paths could become more structured earlier, while Pacific navigators still innovate independently",
+      "b": "The Earth’s rotation would reverse direction",
+      "c": "All coastal settlements worldwide would collapse",
+      "d": "Greenland would become the global trade hub"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 9,
-    "question": "If movable-type printing, refined by Gutenberg in Germany, had instead been invented in Korea and then spread to Europe later, the timing of European religious debates might still have been influenced by printed texts.",
+    "question": "If the first mapping of monsoon wind cycles occurred in Arabia instead of India, seasonal trade between East Africa and South Asia would still follow the same timings.",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 10,
-    "question": "If movable metal type had first been adopted in Korea and then copied in Europe much later, which is most likely?",
+    "question": "If monsoon cycle discovery began in Arabia, which downstream effect is realistic?",
     "type": "MCQ",
     "options": {
-      "a": "East Asian states would gain an earlier advantage in mass printing and literacy",
-      "b": "Printing would be rejected in Europe on religious grounds forever",
-      "c": "Hand copying would remain the only method of book production worldwide",
-      "d": "Books would disappear as a medium"
+      "a": "Arabian sailors might dominate early monsoon navigation, while South Asian traders adopt or parallel the knowledge later",
+      "b": "Monsoons would stop blowing seasonally",
+      "c": "East Africa would become uninhabitable",
+      "d": "Mediterranean storms would cease to exist"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 11,
-    "question": "If the telegraph, developed in Britain and the United States, had instead first been invented in India, long-distance communication across the British Empire in Asia would likely have accelerated earlier.",
+    "question": "If the first workable calendar-astronomy tables appeared in Mesoamerica instead of the Near East, Eurasian agricultural scheduling would remain unchanged.",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 12,
-    "question": "If the first practical telephone had been invented in the Austro-Hungarian Empire instead of the United States, which is the most plausible effect?",
+    "question": "If advanced calendar astronomy originated in Mesoamerica, which outcome fits best?",
     "type": "MCQ",
     "options": {
-      "a": "Central and Eastern Europe would become early hubs of telephone infrastructure",
-      "b": "Telephones would be used only for military commands and never for civilians",
-      "c": "Telegraph communication would be banned overnight",
-      "d": "North America would never adopt wired communication"
+      "a": "American societies gain earlier precision in planting cycles, while Eurasian calendars still develop independently later",
+      "b": "The Sun would change its orbital properties",
+      "c": "Europe would become permanently nomadic",
+      "d": "China would never invent paper"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 13,
-    "question": "If the airplane, first flown in the United States, had instead been invented in Germany before 1900, European militaries would likely have adopted aircraft even earlier for reconnaissance and war.",
+    "question": "If early domestication of citrus fruits happened in the Mediterranean instead of Southeast Asia, would global citrus genetics remain the same?",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 14,
-    "question": "If the first successful powered flight had taken place in Brazil instead of the United States, which is the most likely consequence?",
+    "question": "If Mediterranean citrus domestication occurred first, which effect is most plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Brazil would gain early prestige and influence over the emerging aviation industry",
-      "b": "European countries would reject planes as unsafe forever",
-      "c": "Ships would completely replace all other transport",
-      "d": "No other country would attempt to build aircraft"
+      "a": "Hybridization paths might change regionally even though long-term global citrus diversity still forms",
+      "b": "Bananas would become extinct immediately",
+      "c": "Rice would never grow in Asia",
+      "d": "The Alps would become tropical year-round"
     },
     "answer": "a"
   },
   {
     "question_id": 15,
-    "question": "If the internal combustion engine, largely perfected in Germany, had instead been invented in Japan during the Meiji period, Japanese industry would likely have modernized its transport sector even faster.",
+    "question": "If the discovery of mass textile weaving began in Persia rather than India, Silk Road fiber economics would remain unaffected.",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 16,
-    "question": "If the first mass-produced automobile had appeared in Italy instead of the United States, which is the most likely effect?",
+    "question": "If mass weaving originated in Persia, which consequence is most realistic?",
     "type": "MCQ",
     "options": {
-      "a": "European road networks might have been expanded and paved earlier",
-      "b": "Railways in Europe would be abandoned instantly",
-      "c": "Horse-drawn transport would vanish overnight worldwide",
-      "d": "North America would never build highways"
+      "a": "Persian textile centers might dominate earlier, with Indian weaving traditions emerging later or in different forms",
+      "b": "Europe would lose the ability to spin wool",
+      "c": "The Silk Road would cease to exist instantly",
+      "d": "All dyes worldwide would become colorless"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 17,
-    "question": "If silk production, historically centered in China, had instead first developed in ancient Greece, Mediterranean traders would likely have controlled early silk commerce.",
+    "question": "If the earliest discovery of coastal fish-smoking for preservation began in Scandinavia rather than Southeast Asia, maritime trade patterns in the Pacific would remain identical.",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 18,
-    "question": "If porcelain, perfected in China, had instead been discovered in Persia, which is the most likely outcome?",
+    "question": "If early fish-preservation techniques originated in Scandinavia, what is the most plausible ripple effect?",
     "type": "MCQ",
     "options": {
-      "a": "Persian workshops would become famous for high-value ceramics traded across Eurasia",
-      "b": "European demand for fine pottery would completely disappear",
-      "c": "Chinese artisans would abandon pottery making",
-      "d": "Stone and metal vessels would be outlawed"
+      "a": "Northern trade hubs might sustain larger communities earlier, while Asian methods arise independently",
+      "b": "Marine species would evolve differently",
+      "c": "Oceans would lose salinity",
+      "d": "African herding cultures would stop using cattle"
     },
     "answer": "a"
   },
   {
     "question_id": 19,
-    "question": "If advanced glassmaking, which flourished around the eastern Mediterranean, had instead begun in Mesoamerica, American civilizations might have used glass widely before European contact.",
+    "question": "If proto-banking systems were discovered first in the Andes rather than Mesopotamia, would Eurasian credit systems form at the same pace?",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 20,
-    "question": "If an early form of clear glass had been invented by the Maya, which is the most plausible historical effect?",
+    "question": "If Andean proto-banking emerged first, which scenario best reflects realistic changes?",
     "type": "MCQ",
     "options": {
-      "a": "Archaeologists today would find more glass artifacts in ancient Central American sites",
-      "b": "European glassmaking would never develop",
-      "c": "Metal tools would be replaced by glass everywhere",
-      "d": "Stone architecture would suddenly cease to exist"
+      "a": "Andean states may standardize record-keeping earlier, with Eurasian banking still forming later via different triggers",
+      "b": "Coins would become impossible to mint",
+      "c": "Writing systems would permanently disappear",
+      "d": "Population growth would reverse globally"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 21,
-    "question": "If the mechanical clock, refined in medieval Europe, had instead been invented in the Islamic world, standardized public timekeeping might have appeared earlier in Middle Eastern cities.",
+    "question": "If advanced stone-masonry precision emerged in Southeast Asia before the Inca, Andean architecture would still develop identically.",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 22,
-    "question": "If accurate pendulum clocks had first been invented in the Netherlands rather than elsewhere in Europe, which is the most likely effect?",
+    "question": "If precision stone-masonry originated in Southeast Asia, which ripple effect is most plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Dutch cities and ships would benefit from more precise timekeeping for trade and navigation",
-      "b": "Timekeeping in all other countries would stop",
-      "c": "Calendars would be abandoned worldwide",
-      "d": "Religious rituals would no longer use fixed times"
+      "a": "Southeast Asian temple complexes may innovate sooner while Andean masonry arises independently",
+      "b": "Granite would cease to exist",
+      "c": "Nomadic steppe tribes would build pyramids",
+      "d": "Indian metallurgy would collapse"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 23,
-    "question": "If early seismographs, historically invented in China, had instead been created in Greece, Mediterranean societies would likely have kept better records of earthquakes in the region.",
+    "question": "If the earliest discovery of long-distance desert caravan logistics occurred in India instead of North Africa, the Sahara trade routes would still form in the same sequence.",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 24,
-    "question": "If systematic earthquake-recording instruments had first been installed in Japan in antiquity, which is the most plausible effect?",
+    "question": "If early caravan logistics originated in India, which consequence matches realistic historical diffusion?",
     "type": "MCQ",
     "options": {
-      "a": "Japan would have unusually long and detailed seismic records compared to other regions",
-      "b": "Earthquakes would be considered impossible elsewhere",
-      "c": "All coastal cities worldwide would be abandoned",
-      "d": "Volcanic eruptions would stop occurring"
+      "a": "Indian overland networks might expand earlier, with Sahara caravans forming later via separate traditions",
+      "b": "North Africa would become rainforest",
+      "c": "Ice Age glaciation would reverse",
+      "d": "Cattle domestication would vanish"
     },
     "answer": "a"
   },
   {
     "question_id": 25,
-    "question": "If the first microscopes, developed in the Netherlands, had instead been invented in Spain, early biological discoveries in Europe would still likely spread through shared scientific networks.",
+    "question": "If the discovery of olive oil pressing began in Egypt instead of the Aegean, Mediterranean trade specialization would remain identical.",
     "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 26,
-    "question": "If telescopes had first been built in England instead of Italy and the Netherlands, which is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "English astronomers would make key observations of the planets slightly earlier",
-      "b": "The heliocentric model would never be proposed",
-      "c": "Star charts would be banned in Europe",
-      "d": "Navigation at sea would stop completely"
-    },
-    "answer": "a"
+    "question": "If early glacier-mapping techniques originated in the Tibetan Plateau instead of Scandinavia, would European climate studies still have developed along the same timeline?",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 27,
-    "question": "If the idea of vaccination, demonstrated by Edward Jenner in England, had instead been first formalized in the Ottoman Empire, the technique might still have spread into Europe through diplomatic and medical contacts.",
-    "type": "T/F",
+    "question": "If glacier-mapping originated in the Tibetan Plateau, which downstream effect is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Asian scholars might refine high-altitude climate models earlier, while European glaciology develops independently later",
+      "b": "Glaciers across Earth would stop melting entirely",
+      "c": "The Himalayas would shrink to hills instantly",
+      "d": "Polar regions would become tropical year-round"
     },
     "answer": "a"
   },
   {
     "question_id": 28,
-    "question": "If an early vaccination campaign had been organized in the Ottoman capital of Istanbul, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Populations in parts of the Middle East and Balkans would see earlier protection from smallpox",
-      "b": "European doctors would refuse to consider any foreign medical ideas",
-      "c": "All infectious diseases would vanish instantly",
-      "d": "Hospitals would be closed to the public"
-    },
-    "answer": "a"
+    "question": "If the earliest discovery of pumice-based surgical cleaning emerged in Polynesia instead of Rome, sanitation practices in Europe would still progress identically.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 29,
-    "question": "If antiseptic surgery, pioneered in Britain, had instead been first adopted in Japan, hospitals in East Asia might have reduced infection rates earlier than many European hospitals.",
-    "type": "T/F",
+    "question": "If pumice-based wound cleaning originated in Polynesia, what is the most plausible outcome?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Polynesian healers may reduce infection earlier, while Mediterranean medicine eventually adopts parallel methods",
+      "b": "All infectious diseases worldwide would immediately disappear",
+      "c": "European plagues would become airborne lava events",
+      "d": "North America would develop antibiotics in 500 BCE"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 30,
-    "question": "If anesthesia had been developed in Persia rather than in the United States and Britain, which is the most likely consequence?",
-    "type": "MCQ",
-    "options": {
-      "a": "Surgical procedures in parts of the Middle East would become less painful and more complex earlier",
-      "b": "European surgeons would stop operating completely",
-      "c": "Herbal remedies would be outlawed worldwide",
-      "d": "Dentistry would never appear as a profession"
-    },
+    "question": "If the discovery of the psychological 'illusion of truth' bias occurred in medieval Persia instead of 20th-century Europe, would modern propaganda studies be unchanged?",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 31,
-    "question": "If antibiotics like penicillin, discovered in the United Kingdom, had instead first been discovered in Egypt, medical research centers in North Africa might have gained earlier global recognition.",
-    "type": "T/F",
+    "question": "If the 'illusion of truth' bias was formally documented in medieval Persia, which consequence is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Persian scholars might influence rhetorical training earlier, while modern cognitive science still forms independently",
+      "b": "All forms of language deception would vanish forever",
+      "c": "Human memory would become mathematically perfect",
+      "d": "Newspapers would become illegal worldwide"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 32,
-    "question": "If antibiotic drugs had first been discovered and mass-produced in South Africa, which outcome is most plausible?",
-    "type": "MCQ",
-    "options": {
-      "a": "South African laboratories and pharmaceutical companies would become central in early antibiotic development",
-      "b": "European doctors would refuse to use any new medicines",
-      "c": "Viral diseases would vanish overnight",
-      "d": "Surgery would become unnecessary everywhere"
-    },
-    "answer": "a"
+    "question": "If the first discovery of large-scale cave art preservation techniques originated in the Congo Basin instead of Europe, would Paleolithic interpretation trends in France remain identical?",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 33,
-    "question": "If the first programmable computer, built in Germany and Britain, had instead been invented in Sweden, Northern Europe might still have become a major center for early computing research.",
-    "type": "T/F",
+    "question": "If cave art preservation originated in Central Africa, what is the most realistic ripple effect?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "African cave systems may gain earlier archaeological status, while European caves still become major research sites later",
+      "b": "All rock surfaces worldwide would become indestructible",
+      "c": "Radiocarbon dating would stop functioning",
+      "d": "The Sahara would turn back into ocean"
     },
     "answer": "a"
   },
   {
     "question_id": 34,
-    "question": "If early electronic computers had been invented in India instead of the United States and Europe, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Indian universities and labs would become early hubs of computer science",
-      "b": "Binary arithmetic would be abandoned worldwide",
-      "c": "Mechanical calculators would remain the world standard forever",
-      "d": "No one would attempt to automate calculations again"
-    },
+    "question": "If early medicinal mushroom classification was first documented in Siberia instead of China, would East Asian herbal medicine still evolve the same way?",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 35,
-    "question": "If transistors, invented in the United States, had instead first been built in Japan, Japanese electronics companies would likely have gained an even stronger head start in consumer electronics.",
-    "type": "T/F",
+    "question": "If medicinal mushroom classification originated in Siberia, which downstream effect is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Siberian healers might systematize fungi earlier, while Chinese pharmacology still develops its own traditions",
+      "b": "Fungi worldwide would mutate to become poisonous",
+      "c": "Plant-based medicine would vanish globally",
+      "d": "All epidemics would cease permanently"
     },
     "answer": "a"
   },
   {
     "question_id": 36,
-    "question": "If integrated circuits had first been mass-produced in South Korea instead of the United States, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "South Korea would become an even earlier leader in semiconductor manufacturing",
-      "b": "Microelectronics would never replace vacuum tubes",
-      "c": "Televisions would be banned worldwide",
-      "d": "Digital watches would never exist"
-    },
+    "question": "If early river-delta mapping techniques arose in ancient Vietnam instead of Egypt, would Nile flood modeling still emerge the same way?",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 37,
-    "question": "If the Internet, largely developed in the United States, had instead first emerged from research networks in Switzerland, it would still likely have spread globally through scientific collaboration.",
-    "type": "T/F",
+    "question": "If sophisticated delta mapping originated in Vietnam, which outcome is most realistic?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Southeast Asia might refine delta agriculture earlier, while Egypt still develops independent hydrology expertise",
+      "b": "The Nile River would reverse its flow",
+      "c": "Continental drift would stop entirely",
+      "d": "The Mediterranean would evaporate instantly"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 38,
-    "question": "If early packet-switched networks had been invented and tested in Israel rather than in the United States, which is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Israel would become an early hub for networking and cybersecurity research",
-      "b": "Other countries would refuse to adopt any form of digital communication",
-      "c": "Printed letters would be banned worldwide",
-      "d": "Radio communication would stop immediately"
-    },
-    "answer": "a"
+    "question": "If the discovery of coral-bleaching mechanisms originated in East Africa instead of Australia, Indian Ocean reef policies would still evolve identically.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 39,
-    "question": "If satellite communication, pioneered by the United States and Soviet Union, had instead first been developed in France, Europe would likely have played an even more central role in early global broadcasting.",
-    "type": "T/F",
+    "question": "If coral-bleaching science began in East Africa, which consequence is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "East African marine researchers may model bleaching earlier, while Pacific nations still develop parallel insights",
+      "b": "All corals worldwide would become immune to heat",
+      "c": "Whales would migrate onto land permanently",
+      "d": "The Atlantic Ocean would lose all salinity"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 40,
-    "question": "If the first communications satellites had been launched by India instead of the superpowers, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "India would gain early influence in global broadcasting and telecommunications standards",
-      "b": "Television would never be adopted worldwide",
-      "c": "Submarine cables would be removed from the oceans",
-      "d": "Ships would stop using any navigation equipment"
-    },
+    "question": "If the first classification of volcanic ash layers occurred in Mesoamerica instead of Italy, would Mediterranean volcanology remain unchanged?",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 41,
-    "question": "If early stock exchanges, such as Amsterdam’s, had instead originated in China, East Asian cities might have become core centers of global finance even sooner.",
-    "type": "T/F",
+    "question": "If volcanic ash analysis began in Mesoamerica, which ripple effect fits best?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Mesoamerican chronologies might become more precise earlier while Italy still develops its own volcanic record later",
+      "b": "Volcanoes would stop erupting globally",
+      "c": "Earth’s crust would melt instantly",
+      "d": "All igneous rocks would dissolve in rain"
     },
     "answer": "a"
   },
   {
     "question_id": 42,
-    "question": "If the first modern stock market had been built in Ghana instead of in European port cities, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "West African merchants and states would gain new tools to raise capital",
-      "b": "European trade would stop completely",
-      "c": "Coinage would be abolished globally",
-      "d": "All forms of banking would vanish"
-    },
+    "question": "If the earliest discovery of swamp-forest carbon cycles happened in Borneo instead of Europe, would European climate modeling remain the same?",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 43,
-    "question": "If the modern idea of a central bank, developed in Europe, had instead first arisen in Japan, global monetary policy would likely still use similar tools but with different early leadership.",
-    "type": "T/F",
+    "question": "If swamp-forest carbon cycle research began in Borneo, which downstream effect is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Southeast Asian ecologists may quantify carbon sinks earlier, while European climate models still strengthen independently",
+      "b": "Atmospheric oxygen would double overnight",
+      "c": "Glaciers would expand into the tropics",
+      "d": "Rainfall would stop globally for decades"
     },
     "answer": "a"
   },
   {
     "question_id": 44,
-    "question": "If the first powerful central bank had been founded in India instead of Britain, which outcome is most plausible?",
-    "type": "MCQ",
-    "options": {
-      "a": "Asian financial centers would gain stronger influence over early international lending",
-      "b": "Interest rates would disappear from all economies",
-      "c": "Paper money would be banned globally",
-      "d": "Taxation would become impossible to organize"
-    },
-    "answer": "a"
+    "question": "If ancient population-genetics markers were first identified in Ethiopia instead of Europe, would Eurasian migration theories stay completely identical?",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "b"
   },
   {
     "question_id": 45,
-    "question": "If double-entry bookkeeping, refined in Italy, had instead first been developed in the Mali Empire, West African merchants would have an even stronger advantage in managing long-distance trade accounts.",
-    "type": "T/F",
+    "question": "If genetic ancestry markers were first documented in Ethiopia, what is the most plausible outcome?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "African researchers could map early human divergence patterns sooner, while Eurasian studies catch up later",
+      "b": "All non-African populations would genetically merge overnight",
+      "c": "Hominid fossils would turn to metal",
+      "d": "Human evolution would reverse direction"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 46,
-    "question": "If sophisticated accounting methods had been invented in the city of Timbuktu, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Trans-Saharan trade networks would use more systematic record-keeping",
-      "b": "Mediterranean ports would stop trading entirely",
-      "c": "Gold would lose all value",
-      "d": "Caravans would refuse to carry any written records"
-    },
+    "question": "If the first systematic study of coastal fog formation happened in Peru instead of Europe, Atlantic maritime weather forecasting would develop identically.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 47,
-    "question": "If standardized paper currency, first used widely in China, had instead been invented in medieval Italian city-states, European banking houses might have expanded their influence even earlier.",
-    "type": "T/F",
+    "question": "If fog-formation research began in Peru, which realistic consequence could emerge?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Peruvian sailors might refine coastal prediction earlier, while European navigators still form their own fog models later",
+      "b": "Fog would permanently disappear worldwide",
+      "c": "Earth’s rotation would accelerate drastically",
+      "d": "Rivers would stop flowing globally"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 48,
-    "question": "If the first widely accepted paper money had been introduced in Mexico instead of East Asia, which is the most plausible outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Colonial and later independent governments in the Americas would gain new tools for managing large economies",
-      "b": "European states would reject all forms of currency",
-      "c": "Coins would instantly vanish worldwide",
-      "d": "Barter systems would become illegal"
-    },
+    "question": "If early cataloging of desert-steppe grasses originated in Mongolia instead of North Africa, Saharan grazing models would remain unchanged.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 49,
-    "question": "If the first railways, built in Britain, had instead been laid in Prussia, integration of Central and Eastern European transport networks might have accelerated earlier.",
-    "type": "T/F",
+    "question": "If steppe-grass taxonomy emerged in Mongolia, which consequence is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Mongolian pastoralists might optimize grazing earlier while African regions still develop separate classification traditions",
+      "b": "Grasslands would turn into oceans immediately",
+      "c": "Camels would become flight-capable animals",
+      "d": "Photosynthesis would stop working worldwide"
     },
     "answer": "a"
   },
   {
     "question_id": 50,
-    "question": "If the earliest large-scale railway network had been constructed in Ethiopia instead of Britain, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Trade and migration across parts of East Africa would change significantly earlier",
-      "b": "European countries would abandon all land transport",
-      "c": "Maritime trade would stop globally",
-      "d": "Cities would cease to exist"
-    },
+    "question": "If the first systematic evidence that burning coal releases invisible harmful fumes had been gathered in Qing China instead of industrial Britain, British cities could still have suffered severe smog before recognizing the same mechanism locally.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 51,
-    "question": "If mechanized textile spinning, central to Britain’s Industrial Revolution, had first been invented in India, Indian cotton and cloth exports might have gained even stronger global dominance.",
-    "type": "T/F",
+    "question": "If early toxic-smoke studies were widely known in Qing China but not in Europe, which long-term outcome for British industrial policy is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "London would instantly ban coal and switch entirely to windmills in the  eighteenth century based solely on Chinese reports",
+      "b": "British officials might delay trusting foreign data, gradually confirming similar health patterns in their own cities before tightening air regulations",
+      "c": "Coal in Europe would stop producing smoke once Chinese scientists published their measurements",
+      "d": "All European miners would migrate to China to avoid regulatory confusion"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 52,
-    "question": "If automated spinning machines had first appeared in Bengal, which is the most plausible outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Local weavers and merchants could adopt mechanized production before British mills",
-      "b": "Indian textiles would be banned in Europe from the start",
-      "c": "Silk would replace cotton everywhere instantly",
-      "d": "People worldwide would stop wearing woven clothes"
-    },
+    "question": "If the first convincing measurements of rising global sea level had been collected by tide gauges in Pacific island nations rather than in northern Europe, European coastal engineers would still eventually confront the same trends as their own long-term records accumulated.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 53,
-    "question": "If synthetic dyes, industrialized in Germany, had instead been first produced in Nigeria, West African textile trades might have integrated new colors and finishes into exports earlier.",
-    "type": "T/F",
+    "question": "If small Pacific states produced early, accurate graphs of sea-level rise, which scenario is most realistic for large industrial countries?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Major powers would immediately abandon all coastal infrastructure worldwide",
+      "b": "Larger states might publicly question, selectively accept, or slowly integrate island data, then confirm similar patterns with their own instruments over several decades",
+      "c": "Global sea level would begin falling as soon as the first graph is printed",
+      "d": "All coastal communities would move inland within five years, regardless of local evidence"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 54,
-    "question": "If large-scale chemical dye factories had first opened in Nigeria, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "West African manufacturers would have new leverage in global clothing and fabric markets",
-      "b": "Traditional cloth would disappear overnight",
-      "c": "European chemical research would stop",
-      "d": "All forms of fashion would be outlawed"
-    },
+    "question": "If the discovery that large cities trap heat at night (the urban heat–island effect) had first been made in sprawling West African capitals instead of European ones, European meteorologists would still be forced to confront similar nighttime temperature anomalies once they installed dense weather stations.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 55,
-    "question": "If early agricultural mechanization, developed in Britain and the United States, had instead first taken place in Russia, rural labor patterns across the Russian Empire might have changed more rapidly.",
-    "type": "T/F",
+    "question": "If West African scientists had published a detailed theory of urban heat islands decades before similar European work, which chain of events is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "European cities would immediately cool down because the phenomenon is now explained elsewhere",
+      "b": "Some planners might initially ignore or downplay African case studies, then later find that the same mechanisms fit temperature records in London, Paris, and Berlin",
+      "c": "Only cities inside Africa would experience nighttime warmth; all other cities would remain at rural temperatures",
+      "d": "High-rise construction in Europe would cease overnight out of fear of imported theories"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 56,
-    "question": "If the earliest tractors and harvesters had been mass-produced in Argentina, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Agricultural exports from the Southern Cone would expand even more strongly",
-      "b": "Farming in Europe would cease",
-      "c": "Nomadic herding would vanish globally",
-      "d": "Cities would move back to a hunter-gatherer economy"
-    },
+    "question": "If the earliest recognition that volcanic eruptions inject reflective particles into the upper atmosphere, cooling climate for a few years, had occurred in Indonesia rather than in Europe, scientists studying European cold summers would still be able to link them to distant eruptions once global correspondence and ship logs were compiled.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 57,
-    "question": "If standardized shipping containers, historically developed in the United States, had instead been introduced first in Singapore, Asian ports would likely have become central to container trade even sooner.",
-    "type": "T/F",
+    "question": "If Indonesian scholars constructed an early theory of volcanic aerosols and temporary global cooling, which response from European natural philosophers is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "They would permanently reject any connection between faraway eruptions and local weather on principle",
+      "b": "They might treat Indonesian reports as suggestive but not decisive, gradually accepting the theory once it explained European harvest failures after specific, well-timed eruptions",
+      "c": "Volcanoes in Europe would stop producing ash clouds once the Indonesian theory spreads",
+      "d": "All interest in astronomy would vanish because climate is now fully understood"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 58,
-    "question": "If containerization had first been rolled out by shipping companies based in Singapore and Malaysia, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Port cities in Southeast Asia would gain earlier advantages in efficient global logistics",
-      "b": "Atlantic ports would close permanently",
-      "c": "Rail freight would be banned worldwide",
-      "d": "Ocean shipping would be replaced by airships"
-    },
+    "question": "If the first clear demonstration that soot on ice accelerates glacier melting came from Himalayan expeditions instead of Alpine ones, European mountaineers would still notice unexpectedly fast melting near industrial centers as their own photography and measurements accumulated over time.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 59,
-    "question": "If modern palm-oil processing technology, often linked to European industrial methods, had instead first been invented in Indonesia, Indonesian producers would likely have held an even greater lead in the global vegetable oil market.",
-    "type": "T/F",
+    "question": "If Himalayan scientists showed that dark particles on snow speed up melt rates, how would European engineers most plausibly react when confronting similar evidence in the Alps?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "They would insist that European snow is magically immune to soot and therefore cannot melt faster",
+      "b": "They might initially treat the Himalayan data as a local curiosity, but eventually use it to interpret their own glacial retreat near coal-producing valleys",
+      "c": "All coal-burning in Europe would immediately stop the year the paper is translated",
+      "d": "European glaciers would begin to grow simply because the mechanism is now quantitatively described elsewhere"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 60,
-    "question": "If Indonesian engineers had pioneered efficient palm-oil extraction, which outcome is most plausible?",
-    "type": "MCQ",
-    "options": {
-      "a": "Southeast Asia would shape early standards and practices for palm-oil production worldwide",
-      "b": "Edible oils would no longer be used in cooking anywhere",
-      "c": "All plantations would be immediately abandoned",
-      "d": "Agriculture would switch to only growing grain"
-    },
+    "question": "If the discovery that certain coastal wetlands store unusually large amounts of carbon in their soils had first been made in Brazil’s mangrove belts instead of in northern Europe, European coastal ecologists could still arrive at similar conclusions after they began sampling their own salt marshes in detail.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 61,
-    "question": "If modern national parks, first created in the United States, had instead been pioneered in New Zealand, conservation models might still have spread globally from that starting point.",
-    "type": "T/F",
+    "question": "If Brazilian teams documented high carbon stocks in mangroves long before European work on salt marshes, which long-term pattern is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Only Brazilian wetlands would have carbon; all others would contain none until a local scientist measures them",
+      "b": "European researchers might initially treat tropical results as ecologically specific, then discover that their own cooler wetlands follow a comparable carbon–storage logic",
+      "c": "Coastal developers worldwide would immediately stop draining wetlands on ethical grounds",
+      "d": "International climate agreements would permanently ignore wetlands because their importance is tied to a single country"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 62,
-    "question": "If the world’s first national park had been declared in New Zealand, which is the most likely consequence?",
-    "type": "MCQ",
-    "options": {
-      "a": "Protected landscapes in Oceania would become early examples for conservation worldwide",
-      "b": "Other countries would reject the idea of protecting land",
-      "c": "Tourism would collapse globally",
-      "d": "Cities would be built inside every forest"
-    },
+    "question": "If the first quantitative study showing that planting trees in dry regions can sometimes reduce downstream river flow (by increasing local evaporation and uptake) had appeared in Central Asia instead of Australia, Australian water managers might still rediscover the same trade-off while coping with their own large irrigation forestry experiments.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 63,
-    "question": "If modern environmental conservation movements, like early U.S. conservationism, had instead begun in Kenya, African examples of wildlife protection might have shaped later policy elsewhere.",
-    "type": "T/F",
+    "question": "If Central Asian hydrologists published early warnings that afforestation in arid zones can shrink river discharge, which reaction in other dry countries is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Every government in the world would immediately outlaw tree planting in all climates",
+      "b": "Some countries might temporarily ignore the finding or misapply it, then later refine their policies as local measurements confirm similar impacts on river basins",
+      "c": "Desert rivers would start flowing backward to compensate for policy confusion",
+      "d": "Pastoral nomads would abandon herding and move into forests en masse"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 64,
-    "question": "If Kenya had created a network of wildlife reserves in the 19th century, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "East African conservation models would influence later global park design",
-      "b": "Hunting would be legalized everywhere with no limits",
-      "c": "All animal species would be relocated to Europe",
-      "d": "People would stop visiting natural areas entirely"
-    },
+    "question": "If the first careful mapping of long-distance dust plumes fertilizing distant oceans had focused on Central Asian dust crossing the Pacific instead of Saharan dust crossing the Atlantic, biogeochemists would still eventually notice that African deserts play an analogous role for the Atlantic basin once satellite data matured.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 65,
-    "question": "If modern plate-tectonics theory, accepted in Western universities, had instead first been formalized and widely accepted in Japan, Japan would likely be recognized even earlier as a leader in earth science.",
-    "type": "T/F",
+    "question": "If Central Asian dust–transport data dominated early research, how would our understanding of Atlantic nutrient cycles most plausibly evolve once Saharan measurements were added?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Scientists would stubbornly deny any relevance of Saharan dust, clinging forever to a Pacific-only model",
+      "b": "Models might initially overemphasize Asian sources, then gradually rebalance as more evidence shows the Atlantic relies heavily on Saharan dust as well",
+      "c": "Ocean currents would reverse so that the Atlantic started feeding dust back to the Sahara",
+      "d": "Fertilization of the oceans would cease because both deserts were studied simultaneously"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 66,
-    "question": "If detailed early tectonic models had been drawn up in Chile, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "South American geologists would gain a central role in explaining earthquakes and volcanoes",
-      "b": "Earth sciences would be dismissed as superstition worldwide",
-      "c": "Mining would stop on all continents",
-      "d": "Maps would no longer show mountains or oceans"
-    },
+    "question": "If the earliest recognition that thawing permafrost can release methane had come from observations in high-altitude Tibetan soils instead of Siberia, Russian scientists could still later confirm identical processes in their own vast frozen regions as the climate warmed.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 67,
-    "question": "If early satellite-based navigation, like GPS, had been pioneered in Russia instead of the United States, global positioning services would still likely become widely used for transport and mapping.",
-    "type": "T/F",
+    "question": "If Tibetan researchers documented methane release from thawing ground decades before large Siberian datasets, which scientific trajectory is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Russian climatologists would permanently reject the idea that gases escape melting soil, regardless of their own observations",
+      "b": "Siberian field teams might initially be skeptical or unaware, then gradually adopt the same framework as local monitoring reveals similar emissions at northern latitudes",
+      "c": "Permafrost in Siberia would stop thawing as soon as the Tibetan study was translated",
+      "d": "Global warming models would no longer include any greenhouse gases except methane from Tibet"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 68,
-    "question": "If global navigation satellites had first been deployed by Australia, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Australia would play an early key role in aviation and maritime navigation technology",
-      "b": "Traditional maps would be burned in every country",
-      "c": "Ships and planes would travel without any guidance",
-      "d": "The concept of longitude and latitude would be abandoned"
-    },
+    "question": "If the first discovery that groundwater pumping in one valley can cause land subsidence and building damage had been made in Mexico City instead of parts of California, Californian engineers would still eventually tie cracked foundations to dropping water tables as local monitoring improved.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 69,
-    "question": "If early social-media-like digital communities had first appeared in India rather than the United States, global online networking would still likely spread quickly because of network effects.",
-    "type": "T/F",
+    "question": "If Mexican geologists had mapped subsidence from groundwater extraction long before Californian case studies, which outcome is most plausible for other mega-cities relying on aquifers?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "All other cities would assume that their ground is immune to compaction and increase pumping without limit",
+      "b": "Some cities might treat the phenomenon as uniquely Mexican, then slowly accept that similar clay layers and pumping practices in their own regions can cause the same sinking pattern",
+      "c": "Aquifers worldwide would instantly refill in response to the publication of the first subsidence map",
+      "d": "Sea-level rise would cease to be a concern because land is now known to move independently"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 70,
-    "question": "If the first dominant social platform had been built in Nigeria instead of North America, which is the most likely consequence?",
-    "type": "MCQ",
-    "options": {
-      "a": "Nigeria would shape many early norms of online communication and culture",
-      "b": "Other countries would permanently ban Internet access",
-      "c": "Email would replace all websites",
-      "d": "Mobile phones would never be sold"
-    },
+    "question": "If an early, well-documented case showing that building too close to eroding cliffs leads to catastrophic collapse had been published in New Zealand instead of Britain, British coastal villages could still learn the same lesson only after a series of local cliff failures and lawsuits forced them to reconsider zoning laws.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 71,
-    "question": "If modern cryptography for secure communication had first been invented in Switzerland instead of the U.S. and U.K., Switzerland might be seen even more strongly as a center for privacy and security tools.",
-    "type": "T/F",
+    "question": "If New Zealand produced the classic case study on cliff-top housing collapse first, what is the most realistic reaction pattern in other cliff-lined countries?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "They would universally prohibit construction near any slope, including stable bedrock plateaus",
+      "b": "Some regions might downplay the relevance of a distant example until similar disasters at home push planners to adopt stricter setback rules and geotechnical surveys",
+      "c": "Cliff erosion would stop everywhere outside New Zealand because the process has already been documented once",
+      "d": "Insurance markets would collapse worldwide the moment the study is cited in court"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 72,
-    "question": "If the first widely used public-key encryption scheme had been created in Brazil, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Brazilian researchers and companies would gain early influence in secure communications",
-      "b": "Digital banking would never appear",
-      "c": "All online communication would remain unencrypted",
-      "d": "Paper letters would replace all digital messages"
-    },
+    "question": "If the first clear evidence that paved surfaces increase flash-flood risk in cities had been compiled in Lagos instead of in mid-century European towns, European engineers would still eventually connect urban flooding patterns to their expansion of roads and parking lots as rainfall statistics were digitized.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 73,
-    "question": "If early digital identity systems for citizens had first been deployed in Estonia, as they were historically, global e-government projects still learned from that experience regardless of country size.",
-    "type": "T/F",
+    "question": "If Nigerian hydrologists showed early on that impermeable surfaces intensify flash floods, which global policy trajectory is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Every city on Earth would instantly rip out its streets and return to dirt tracks",
+      "b": "Urban planners elsewhere might borrow parts of the Nigerian framework but still weigh it against local development pressures, gradually adding green infrastructure as evidence accumulates",
+      "c": "Rainfall intensity would decrease automatically in countries that ignore the findings",
+      "d": "River basins would stop overflowing because concrete channels always prevent floods"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 74,
-    "question": "If the first nationwide digital ID system had instead been launched in Pakistan, which is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "South Asian examples of digital governance would influence later adopters elsewhere",
-      "b": "Other governments would refuse to use computers for records",
-      "c": "Passports and visas would vanish overnight",
-      "d": "Censuses would no longer be conducted"
-    },
+    "question": "If the discovery that hillside terracing can both stabilize slopes and increase crop yields had first appeared in medieval Ethiopia instead of ancient China, Asian highland societies could still reinvent terrace systems independently as they experimented with farming on steep terrain.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 75,
-    "question": "If early online learning platforms had first been created in South Africa instead of the United States, the basic idea of distance education would still likely spread internationally as the Internet expanded.",
+    "question": "If Ethiopian farmers became famous for technical terrace manuals centuries before Chinese examples were widely known, which pattern of diffusion is most plausible for the rest of the world’s mountain agriculture?",
+    "type": "MCQ",
+    "options": {
+      "a": "Only Ethiopian slopes would remain stable; all other terraces would fail because the method is foreign",
+      "b": "Some regions might initially rely on their own trial-and-error, then adopt elements of Ethiopian design once travelers and officials see its benefits under similar topographic conditions",
+      "c": "Terracing would suddenly become useless in Ethiopia once other countries begin copying it",
+      "d": "Lowland farming would disappear because everyone is forced to move uphill and build terraces"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 76,
+    "question": "If early evidence that retreating glaciers can trigger sudden outburst floods had been discovered in the Caucasus instead of the Himalayas, Himalayan communities would still eventually recognize the hazard as local lakes began overflowing.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 76,
-    "question": "If the earliest large-scale online course platform had been built in Japan, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Japanese universities would gain an early role in shaping global online teaching formats",
-      "b": "Universities elsewhere would close permanently",
-      "c": "Textbooks would become illegal worldwide",
-      "d": "Formal schooling would disappear completely"
     },
     "answer": "a"
   },
   {
     "question_id": 77,
-    "question": "If modern warehouse automation, often prototyped in Western countries, had instead been pioneered in China, Chinese logistics and e-commerce firms would likely have had an even earlier advantage in rapid delivery systems.",
-    "type": "T/F",
+    "question": "If Caucasian researchers documented glacier-lake outburst floods (GLOFs) centuries earlier, which global impact is most plausible?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Mountain nations elsewhere might ignore the warnings until local surveys confirmed similarly unstable lakes",
+      "b": "Sea levels would rise instantly in response to the publication",
+      "c": "Glacier lakes worldwide would immediately drain themselves naturally",
+      "d": "River deltas would solidify into bedrock overnight"
     },
     "answer": "a"
   },
   {
     "question_id": 78,
-    "question": "If the first highly automated distribution centers had been created in the United Arab Emirates, which is the most likely effect?",
-    "type": "MCQ",
+    "question": "If the discovery that buried volcanic ash layers can preserve climate records had first occurred in the Philippines instead of Italy, European archaeologists could still reconstruct climate shifts once they analyzed local stratigraphy.",
+    "type": "T/F",
     "options": {
-      "a": "Gulf states would become high-tech logistics hubs earlier in the global supply chain",
-      "b": "Manual labor would immediately increase everywhere",
-      "c": "Shipping by sea and air would stop",
-      "d": "Factories would refuse to use any machinery"
+      "a": "True",
+      "b": "False"
     },
     "answer": "a"
   },
   {
     "question_id": 79,
-    "question": "If early nuclear fission experiments, done in Europe, had instead taken place in India, Indian physicists might have taken a more central early role in nuclear research and policy debates.",
+    "question": "If layered ash deposits were first described in the Philippines, what would be the most realistic global outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Volcanoes elsewhere would stop producing ash",
+      "b": "Other volcanic regions might later adopt Filipino techniques as they noticed similar layer sequences in their own soils",
+      "c": "Europe would never study volcanic layers at all",
+      "d": "Climate cycles would become impossible to measure"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 80,
+    "question": "If the earliest recognition that melting permafrost exposes ancient ecosystems happened in Alaska instead of Siberia, Russian researchers would still eventually discover preserved biomes as their own permafrost thawed.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 80,
-    "question": "If the first nuclear reactor had been built in Canada instead of the United States, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Canada would gain a strong early reputation for nuclear engineering and power production",
-      "b": "Nuclear physics would be abandoned worldwide",
-      "c": "All fossil fuels would be instantly banned",
-      "d": "Electricity would stop being used"
     },
     "answer": "a"
   },
   {
     "question_id": 81,
-    "question": "If early human genome mapping projects, led in the U.S. and Europe, had instead been led in China, global knowledge of genetics would still eventually spread across international scientific communities.",
+    "question": "If Alaskan scientists first published proofs of ancient plants preserved in thawing ice, which reaction pattern is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "All fossils elsewhere would melt instantly",
+      "b": "Other regions would permanently deny the existence of ancient ecosystems",
+      "c": "Nations with permafrost would confirm similar finds once they began sampling thaw-exposed material locally",
+      "d": "Thawing would stop in Alaska due to global scrutiny"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 82,
+    "question": "If the connection between deforestation and reduced river rainfall was first documented in Central America, South Asian hydrologists would still identify the same correlation once long-term streamflow declined.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 82,
-    "question": "If the first major human genome project had been coordinated from South Korea, which is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "East Asian labs would gain early prestige and funding in genetics",
-      "b": "Other continents would refuse to participate in genetic research",
-      "c": "All medical diagnostics would stop",
-      "d": "Biology would no longer be taught at universities"
     },
     "answer": "a"
   },
   {
     "question_id": 83,
-    "question": "If CRISPR-style gene editing, associated with labs in Europe and the United States, had instead first been developed in Brazil, Brazilian research institutions would likely be central to early gene-editing debates.",
+    "question": "If Central American researchers published early rainfall–deforestation links, what is the most plausible global outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Forest regions worldwide would automatically gain unlimited rainfall",
+      "b": "Rainfall would permanently stop everywhere else",
+      "c": "Rivers would reverse direction due to policy debates",
+      "d": "Other monsoon regions might adopt the theory slowly after noticing similar declines"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 84,
+    "question": "If the first discovery that desert plants stabilize dunes came from Morocco rather than Central Asia, Central Asian communities would still realize the same mechanism as their dunes shifted more violently after vegetation loss.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 84,
-    "question": "If the first widely publicized CRISPR trials had been run in Israel, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Israel would be seen as a major early center of medical biotechnology",
-      "b": "Gene editing would immediately be made legal everywhere with no restrictions",
-      "c": "All existing medicines would be scrapped",
-      "d": "Agriculture would no longer use any improved plant varieties"
     },
     "answer": "a"
   },
   {
     "question_id": 85,
-    "question": "If the first major film camera systems, built in France and the United States, had instead been invented in India, an early global film industry might still emerge with India in a more central role from the start.",
+    "question": "If Moroccan scientists recorded dune-stabilizing vegetation earlier, which scenario best fits global diffusion?",
+    "type": "MCQ",
+    "options": {
+      "a": "Coastal forests would suddenly migrate inland",
+      "b": "Central Asian deserts would ignore vegetation entirely",
+      "c": "Dunes worldwide would turn into solid rock",
+      "d": "Different deserts would adapt the Moroccan insight once sand movement patterns matched the described mechanism"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 86,
+    "question": "If the discovery that river deltas naturally migrate over centuries had been made in Argentina instead of Egypt, Egyptian engineers would still observe shifting channels as their own delta changed course over time.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 86,
-    "question": "If the earliest motion-picture studios had been founded in Egypt, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Egyptian filmmakers would become some of the first to shape narratives on screen",
-      "b": "European cities would refuse to build any theaters",
-      "c": "Photography would be banned worldwide",
-      "d": "Storytelling would stop in other cultures"
     },
     "answer": "a"
   },
   {
     "question_id": 87,
-    "question": "If modern radio broadcasting, developed in Europe and North America, had instead first been organized in Argentina, South America might have become an early center of global radio culture.",
+    "question": "If Argentine researchers described mobile deltas first, how would other delta regions most likely respond?",
+    "type": "MCQ",
+    "options": {
+      "a": "Sediment would stop depositing everywhere else",
+      "b": "Delta plains worldwide would collapse into the ocean",
+      "c": "They would assume their rivers are immovable and ignore flooding risk",
+      "d": "They would integrate the warnings slowly as they mapped their own migrating distributary networks"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 88,
+    "question": "If early evidence that seasonal lakes dry and refill on multi-year cycles was first recognized in the Sahel, Australian ecologists would still infer similar cycles when local desert lakes showed periodic reappearance.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 88,
-    "question": "If national radio networks had first grown up in Colombia, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Spanish-language broadcasting would play an even larger early role in international radio",
-      "b": "English and French broadcasts would be forbidden",
-      "c": "Telegraphs would remain the only long-distance medium",
-      "d": "Music would never be performed live again"
     },
     "answer": "a"
   },
   {
     "question_id": 89,
-    "question": "If early motion-picture projectors had been invented in Japan instead of Europe and the United States, Japanese studios would likely have become major innovators in film techniques from the very beginning of cinema.",
-    "type": "T/F",
+    "question": "If Sahelian scientists produced early models of episodic lake formation, what is the most realistic global reaction?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Regions with similar dry-lake basins might later use the Sahelian model to explain their own vanishing lakes",
+      "b": "All lakes worldwide would remain permanently full regardless of rainfall",
+      "c": "Rainstorms would never reach deserts again",
+      "d": "Rivers would evaporate instantly due to model errors"
     },
     "answer": "a"
   },
   {
     "question_id": 90,
-    "question": "If the first color film technology had been introduced in Mexico, which is the most likely outcome?",
-    "type": "MCQ",
+    "question": "If the discovery that warm air traps pollution over mountain valleys came from Peru instead of California, Californian cities would still notice the same winter smog patterns by measuring air temperature inversions.",
+    "type": "T/F",
     "options": {
-      "a": "Mexican productions would stand out early for their use of color on screen",
-      "b": "Black-and-white films would be banned worldwide",
-      "c": "All theaters would be closed immediately",
-      "d": "Newsreels would no longer exist"
+      "a": "True",
+      "b": "False"
     },
     "answer": "a"
   },
   {
     "question_id": 91,
-    "question": "If sophisticated irrigation canals, developed in Mesopotamia, had instead first been designed in the Indus Valley, large-scale farming there might have expanded even further and earlier.",
+    "question": "If Peruvian scientists described valley inversion smog early, which outcome is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Air pollution would become visible only at night",
+      "b": "Temperature gradients would flatten globally",
+      "c": "Smog would disappear worldwide",
+      "d": "Other mountain cities would adopt the Peruvian model once their own pollution became trapped by inversion layers"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 92,
+    "question": "If ancient coastal cultures in Thailand first documented that mangroves reduce wave impact, Caribbean communities would still learn the same effect through cyclone experience.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 92,
-    "question": "If large irrigation works had been pioneered along the Nile before Mesopotamian canals, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Egyptian agriculture would show even more early state-led water management",
-      "b": "Farming in Mesopotamia would completely fail",
-      "c": "Rivers would be diverted away from all cities",
-      "d": "Agriculture would be abandoned worldwide"
     },
     "answer": "a"
   },
   {
     "question_id": 93,
-    "question": "If terrace farming, famous in the Andes, had instead first been developed in the highlands of Ethiopia, East African farmers might have used mountain slopes even more intensively for crops.",
-    "type": "T/F",
+    "question": "If Thai scholars published early mangrove-wave studies, how would global coastal planning adapt?",
+    "type": "MCQ",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "Other regions would integrate the method once storms proved the same buffering effect locally",
+      "b": "Coastal cities would immediately remove all buildings near shorelines",
+      "c": "All beaches would instantly widen",
+      "d": "Mangroves would lose their roots and drift into open ocean"
     },
     "answer": "a"
   },
   {
     "question_id": 94,
-    "question": "If Polynesian sailors had invented highly precise navigation instruments long before European explorers, which is the most likely effect?",
-    "type": "MCQ",
+    "question": "If the first demonstration that rainforests recycle their own moisture came from the Congo Basin instead of the Amazon, Amazonian scientists would still identify the same feedback loop through rainfall decline after deforestation.",
+    "type": "T/F",
     "options": {
-      "a": "Pacific voyages and island-to-island travel would be documented with even greater accuracy",
-      "b": "European navies would refuse to leave their home ports",
-      "c": "Maps of the world would be drawn only from imagination",
-      "d": "Ocean travel would end entirely"
+      "a": "True",
+      "b": "False"
     },
     "answer": "a"
   },
   {
     "question_id": 95,
-    "question": "If early written scripts, like cuneiform, had instead first been developed by the Inca, we would likely have written records of Andean administration and law from much earlier periods.",
+    "question": "If Congo-based moisture-recycling evidence appeared first, what is the most realistic global reaction?",
+    "type": "MCQ",
+    "options": {
+      "a": "Weather systems would stop moving inland",
+      "b": "Humidity worldwide would drop to zero",
+      "c": "Other rainforest regions would slowly adopt the framework once regional rainfall dropped after clearing",
+      "d": "All forests worldwide would generate identical rainfall regardless of size"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 96,
+    "question": "If the earliest discovery that mountain snowpacks store water for entire regions came from Iran instead of the Alps, European hydrologists would still infer the same dependency by comparing summer river flows to winter snow levels.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 96,
-    "question": "If a fully phonetic alphabet had been invented first by Aboriginal Australians, which is the most plausible effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Modern scholars might study early written records of Australian languages and stories",
-      "b": "All other writing systems would instantly disappear",
-      "c": "Spoken language would stop being used",
-      "d": "Numbers and counting would be forgotten"
     },
     "answer": "a"
   },
   {
     "question_id": 97,
-    "question": "If mechanical printing presses had first been adopted in West Africa instead of Europe, literate urban centers like Timbuktu might have become even larger hubs of written culture.",
+    "question": "If Iranian scholars published early work on snow-water storage, which global response is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mountains would stop accumulating snow",
+      "b": "All snowpacks would melt immediately upon being measured",
+      "c": "No river on Earth would reach the ocean anymore",
+      "d": "Other nations with snow-fed rivers would gradually adopt the principle as they tracked seasonal discharge variability"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 98,
+    "question": "If evidence that fog sustains desert ecosystems had first been recorded in Namibia instead of Chile, Chilean ecologists would still eventually confirm fog-fed moisture after sampling local desert lichens and shrubs.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 98,
-    "question": "If widespread printing had begun in Ethiopia, which is the most likely effect?",
-    "type": "MCQ",
-    "options": {
-      "a": "Church and royal texts in Geʽez and Amharic would be reproduced and circulated more broadly",
-      "b": "Printing in Europe would never start",
-      "c": "Manuscripts would be banned worldwide",
-      "d": "Books would only be allowed in one language"
     },
     "answer": "a"
   },
   {
     "question_id": 99,
-    "question": "If early formal universities, like those in Bologna and Paris, had instead first been founded in Persia, structured higher education would likely have spread across the Islamic world before Europe developed similar institutions.",
+    "question": "If Namibian scientists described desert fog-harvesting ecosystems before Chilean research, which effect is most plausible globally?",
+    "type": "MCQ",
+    "options": {
+      "a": "Cloud formation would halt across the Southern Hemisphere",
+      "b": "All deserts would become rainforests instantly",
+      "c": "Fog would disappear permanently in all coastal regions",
+      "d": "Other fog-desert regions might adopt the Namibian framework once similar field measurements confirmed moisture capture"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 100,
+    "question": "If early evidence that inland seas can shrink dramatically over a century had been first documented in Central Asia, Mediterranean historians would still recognize ancient shoreline recession once they compared old maps to sediment lines.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1088,15 +984,665 @@
     "answer": "a"
   },
   {
-    "question_id": 100,
-    "question": "If the first large university with multiple faculties had been founded in Morocco, which is the most plausible effect?",
-    "type": "MCQ",
+    "question_id": 101,
+    "question": "If early evidence that inland seas can shrink dramatically over a century had been first documented in Central Asia, Mediterranean historians would still recognize ancient shoreline recession once they compared old maps to sediment lines.",
+    "type": "T/F",
     "options": {
-      "a": "North African centers of learning would become key models for later universities in Europe and elsewhere",
-      "b": "Europe would reject all forms of schooling",
-      "c": "Scholars would refuse to travel between regions",
-      "d": "Libraries would never collect books from other cultures"
+      "a": "True",
+      "b": "False"
     },
     "answer": "a"
+  },
+  {
+    "question_id": 102,
+    "question": "If Central Asian scholars published early recession data on inland seas, what is the most realistic global reaction?",
+    "type": "MCQ",
+    "options": {
+      "a": "Coastal cities worldwide would automatically expand inland",
+      "b": "Other regions with large lakes would adopt the central Asian timeline once their own water levels declined",
+      "c": "Global rainfall patterns would instantaneously reverse",
+      "d": "All inland seas would immediately refill"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 103,
+    "question": "If the first recognition that magnetic north shifts over time had occurred in the Pacific instead of the Atlantic, European navigators would still eventually observe the same drift by comparing old compass readings to current solar fixes.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 104,
+    "question": "If Pacific researchers published the first magnetic pole shift data, how would global navigation adapt?",
+    "type": "MCQ",
+    "options": {
+      "a": "Navigation instruments would become obsolete globally",
+      "b": "All maps would instantly rotate 90 degrees",
+      "c": "Sailors worldwide would gradually integrate the concept as they noticed similar local compass discrepancies",
+      "d": "The Earth's core would instantly stabilize"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 105,
+    "question": "If the initial documentation of deep-sea hydrothermal vents had been made in the Arctic instead of the Galapagos Rift, other oceanographers would still discover the same vent ecosystems once they explored their own mid-ocean ridges.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 106,
+    "question": "If Arctic researchers first documented deep-sea vents, which scenario best fits the spread of discovery?",
+    "type": "MCQ",
+    "options": {
+      "a": "The deep ocean would instantly become sterile",
+      "b": "Geologists would stop studying plate tectonics",
+      "c": "Remote regions might initially dismiss the findings until submersible surveys confirmed the presence of similar vents locally",
+      "d": "Water temperature worldwide would drop by 10 degrees"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 107,
+    "question": "If the link between forest fires and soil erosion had first been established in Australia, Mediterranean fire management teams would still recognize the hazard once post-fire rain caused major landslides.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "If Australian researchers published early fire-erosion models, what would be the most plausible global outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Other regions would permanently ignore soil stabilization techniques",
+      "b": "All global fire regimes would cease immediately",
+      "c": "Fire-prone areas globally would gradually adopt erosion mitigation strategies based on observing their own post-fire instability",
+      "d": "Mountain ranges worldwide would become flat"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 109,
+    "question": "If early use of seismographs for earthquake prediction had been developed in China instead of Japan, global seismologists would still employ similar instruments once they noted localized ground movement patterns.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "If Chinese scientists pioneered seismic forecasting, which reaction pattern is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Earthquakes would stop happening globally due to the innovation",
+      "b": "The concept would be swiftly adopted by other high-risk areas after local data confirmed the predictive capabilities",
+      "c": "All buildings worldwide would instantly become earthquake-proof",
+      "d": "Only China would continue using seismographs"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 111,
+    "question": "If the discovery that ancient rock layers hold marine fossils high in mountains had been made in the Andes instead of the Alps, European geologists would still observe the same fossil evidence once they examined their own high-altitude stratigraphy.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 112,
+    "question": "If Andean scholars published early proofs of uplifted marine strata, how would global geology evolve?",
+    "type": "MCQ",
+    "options": {
+      "a": "Other mountainous regions might ignore the tectonic implications until they observed similar fossil evidence locally",
+      "b": "All mountains would instantly sink back into the sea",
+      "c": "The age of the Earth would be immediately proven false",
+      "d": "Fossils would only appear in the Southern Hemisphere"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 113,
+    "question": "If the relationship between coral reef health and ocean temperature was first documented in the Red Sea, Caribbean marine biologists would still notice the same bleaching cycles once local waters warmed.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "If Red Sea researchers published the first coral bleaching data, what is the most realistic global outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Coral reefs worldwide would thrive regardless of temperature",
+      "b": "Policy makers would instantly solve climate change",
+      "c": "Tropical nations globally would integrate the research once their own local reef monitoring confirmed widespread bleaching events",
+      "d": "The ocean would become freshwater"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 115,
+    "question": "If the earliest evidence of asteroid impacts causing mass extinctions came from Siberia instead of Mexico, North American paleontologists would still find similar iridium layers once they searched their own K-Pg boundary.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 116,
+    "question": "If Siberian scientists first linked a massive impact to extinction, which global outcome is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Planetary scientists would ignore all future impact threats",
+      "b": "Geologists worldwide would begin searching their local extinction boundaries for similar iridium anomalies",
+      "c": "All life on Earth would instantly return to the pre-extinction state",
+      "d": "The entire fossil record would be deemed invalid"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 117,
+    "question": "If the use of geothermal energy for power generation had been pioneered in Iceland, researchers in New Zealand would still tap their own steam fields once electricity demand rose.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "If Icelandic engineers developed commercial geothermal power first, how would other volcanic regions react?",
+    "type": "MCQ",
+    "options": {
+      "a": "Volcanic regions would reject the technology as impractical",
+      "b": "Geothermal drilling would cause all volcanoes to erupt instantly",
+      "c": "Nations with similar geological heat sources would gradually adopt the method as they assessed their own local resource potential",
+      "d": "Fossil fuels would instantly vanish"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 119,
+    "question": "If the initial data showing glaciers worldwide are shrinking had been collected in the Himalayas, Andean glaciologists would still measure similar ice loss once they compared historical photos to current mass balances.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 120,
+    "question": "If Himalayan researchers published the first global glacier recession proof, what is the most plausible global response?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mountain ice worldwide would instantaneously grow",
+      "b": "Regions dependent on glacial meltwater would slowly integrate the data into water management plans after observing their own river flow declines",
+      "c": "All ocean currents would immediately stop",
+      "d": "Glaciology would become a discredited science"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 121,
+    "question": "If the early recognition that caves preserve ancient human artifacts had been made in South Africa, European archaeologists would still unearth similar evidence once they excavated their own Paleolithic cave sites.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "If South African archaeologists pioneered cave excavation techniques, how would global archaeology change?",
+    "type": "MCQ",
+    "options": {
+      "a": "Excavations worldwide would cease immediately",
+      "b": "Researchers globally would focus solely on open-air sites",
+      "c": "The techniques would be gradually adopted by other regions once similar preserved artifacts were confirmed locally",
+      "d": "All historical records would be lost"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 123,
+    "question": "If the first proof of wind erosion shaping large desert features had been documented in the Sahara, Australian geologists would still identify the same mechanism once they studied their own shifting sand dunes.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 124,
+    "question": "If Saharan scientists published early wind erosion models, which global effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Deserts worldwide would become completely stable",
+      "b": "Coastal erosion would stop entirely",
+      "c": "Other arid regions would incorporate the framework as they measured comparable rates of wind-driven feature formation",
+      "d": "All dust storms would instantly clear"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 125,
+    "question": "If the discovery that a large river system's water quality affects coastal ecosystems had been made in the Mississippi Delta, Asian researchers would still observe similar impacts once they monitored their own major river outflows.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 126,
+    "question": "If Mississippi Delta research first highlighted river-to-coast pollution, how would global marine science adapt?",
+    "type": "MCQ",
+    "options": {
+      "a": "Coastal ecosystems worldwide would instantly purify",
+      "b": "Marine scientists elsewhere would begin tracking their major river plumes for comparable effects on local fisheries and wetlands",
+      "c": "The ocean would become completely isolated from land runoff",
+      "d": "All major rivers would instantly dry up"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 127,
+    "question": "If the first successful application of radar technology for weather forecasting had been achieved in the US, European meteorologists would still develop similar systems once they needed better storm tracking.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "If US scientists pioneered weather radar, what is the most realistic global outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Weather patterns would become perfectly predictable worldwide",
+      "b": "Regions with frequent severe weather would prioritize installing their own radar networks for improved hazard warnings",
+      "c": "All atmospheric research would cease",
+      "d": "Radio waves would stop propagating"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 129,
+    "question": "If the link between deforestation and regional species loss had been first recognized in the Amazon, South East Asian ecologists would still observe the same biodiversity decline once they cleared their own forests.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "If Amazonian researchers published early findings on biodiversity loss due to clearing, how would other tropical nations respond?",
+    "type": "MCQ",
+    "options": {
+      "a": "All remaining forests would be instantly protected",
+      "b": "The findings would be disregarded as specific to the Amazon biome",
+      "c": "Other nations would gradually integrate the concept into conservation efforts after confirming similar local extinction trends",
+      "d": "Species worldwide would instantly adapt to cleared land"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 131,
+    "question": "If the earliest evidence that subduction zones cause deep ocean trenches had been collected near Japan, South American geophysicists would still observe similar trench formations once they mapped their own coastlines.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 132,
+    "question": "If Japanese research first confirmed the subduction/trench link, what is the most plausible global outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Plate boundaries worldwide would instantly become stable",
+      "b": "Ocean trenches would disappear globally",
+      "c": "Geophysicists worldwide would begin classifying their deep-sea features based on the confirmed subduction mechanism",
+      "d": "Seabeds would instantly turn into dry land"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 133,
+    "question": "If the first recognition that tidal forces contribute to coastal erosion was made in the Bay of Fundy, European coastal engineers would still notice the same effect once they monitored their own high-tide regions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 134,
+    "question": "If Bay of Fundy researchers published early tidal-erosion data, how would global coastal planning change?",
+    "type": "MCQ",
+    "options": {
+      "a": "Coastal structures worldwide would instantly vanish",
+      "b": "Tidal forces would stop affecting coastlines",
+      "c": "Coastal authorities in other high-tide zones would gradually adapt their planning based on similar local measurements of shoreline loss",
+      "d": "Beaches would become impervious to water"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 135,
+    "question": "If the concept of biological nitrogen fixation enriching soils had been discovered in West Africa, American agronomists would still observe the same soil improvement once they planted legume crops.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 136,
+    "question": "If West African scientists first proved nitrogen fixation, which global agricultural impact is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "All synthetic fertilizers would become ineffective immediately",
+      "b": "The technique would be universally adopted by farmers worldwide regardless of soil type",
+      "c": "Agronomists globally would prioritize legume-based crop rotation after local field trials confirmed enhanced soil fertility",
+      "d": "Atmospheric nitrogen levels would drop to zero"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 137,
+    "question": "If the earliest evidence that wetlands filter pollutants had been documented in the Florida Everglades, European conservationists would still confirm the effect once they sampled their own marsh water quality.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 138,
+    "question": "If Everglades researchers published early wetland filtration proofs, how would global water management react?",
+    "type": "MCQ",
+    "options": {
+      "a": "All natural wetlands would instantly become polluted",
+      "b": "Water treatment plants worldwide would shut down",
+      "c": "Other nations would gradually integrate wetland preservation into water treatment strategies after local sampling confirmed the filtering capacity",
+      "d": "All polluted water would instantly disappear"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 139,
+    "question": "If the first understanding of how monsoons are driven by continent-ocean heat differences came from India, researchers in Africa would still apply the same principles once they studied their own seasonal wind shifts.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 140,
+    "question": "If Indian scientists pioneered monsoon dynamics, what is the most plausible global outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Monsoons would stop globally",
+      "b": "Meteorologists in other monsoon-affected areas would apply the model to refine their regional forecasting and agricultural planning",
+      "c": "Seasonal temperatures worldwide would equalize instantly",
+      "d": "Ocean water would become warmer than land"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 141,
+    "question": "If the discovery that ancient supervolcano eruptions affected global climate had first occurred in Indonesia, American geologists would still observe the same ash layer sequences once they analyzed their own regional stratigraphy.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 142,
+    "question": "If Indonesian research first proved the supervolcano-climate link, which global impact is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Volcanic eruptions worldwide would cease",
+      "b": "All previous climate models would be immediately discarded",
+      "c": "Other regions would begin searching their geologic records for evidence of similar large-scale, climate-altering volcanic events",
+      "d": "The atmosphere would instantly become perfectly clear"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 143,
+    "question": "If early documentation of ocean acidification impacting shell formation was conducted in the Antarctic, scientists in the Arctic would still notice similar shell-dissolving effects once their own waters absorbed more CO2.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 144,
+    "question": "If Antarctic researchers published early ocean acidification proofs, how would global marine biology respond?",
+    "type": "MCQ",
+    "options": {
+      "a": "Marine life worldwide would instantly grow protective shells",
+      "b": "Scientists in other oceans would prioritize monitoring shell-forming organisms and local pH levels to assess risk",
+      "c": "The ocean surface would instantly turn basic (high pH)",
+      "d": "All deep-sea currents would reverse"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 145,
+    "question": "If the first recognition that soil microbes are crucial for nutrient cycling happened in the US, European soil scientists would still confirm the same microbial activity once they analyzed their own agricultural land.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 146,
+    "question": "If US scientists first identified microbe-nutrient cycling, which global agricultural change is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Farmers worldwide would instantly abandon all use of chemicals",
+      "b": "Soil health research globally would pivot to focus on enhancing and protecting local microbial communities",
+      "c": "Soil worldwide would become sterile overnight",
+      "d": "Plants would instantly develop the ability to photosynthesize nutrients directly"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 147,
+    "question": "If the discovery that ancient civilizations built water reservoirs to manage drought was made in the Indus Valley, engineers in Mesoamerica would still recognize similar historical strategies once they excavated local sites.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 148,
+    "question": "If Indus Valley researchers documented ancient water management first, how would modern water conservation adapt?",
+    "type": "MCQ",
+    "options": {
+      "a": "Modern engineers would ignore ancient methods as irrelevant",
+      "b": "Drought worldwide would cease immediately",
+      "c": "Water-scarce regions might re-evaluate and adapt historical reservoir and catchment methods for modern use",
+      "d": "All dams worldwide would instantly crumble"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 149,
+    "question": "If the first documentation of large-scale land subsidence due to groundwater withdrawal occurred in Mexico City, researchers in Venice would still observe similar sinking once they excessively pumped their own aquifers.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 150,
+    "question": "If Mexican researchers first warned of groundwater-driven subsidence, which global response is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Cities worldwide would instantly float above ground",
+      "b": "Nations with rapidly growing cities and deep water wells would initiate monitoring programs to detect early signs of land sinking",
+      "c": "All underground aquifers would instantly refill",
+      "d": "Geologists would stop studying groundwater entirely"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 151,
+    "question": "If the earliest evidence that ice cores preserve detailed climate history was extracted from Greenland, scientists in Antarctica would still confirm the same data preservation once they drilled their own deep cores.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 152,
+    "question": "If Greenland scientists pioneered ice core analysis, how would global paleoclimatology change?",
+    "type": "MCQ",
+    "options": {
+      "a": "Climate history would be considered unrecoverable everywhere else",
+      "b": "The technique would be universally adopted by polar researchers to reconstruct regional and global past atmospheric conditions",
+      "c": "All ice on Earth would instantly melt",
+      "d": "Past climates would instantly match the current climate"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 153,
+    "question": "If the connection between salt marshes and coastal resilience (wave buffering) was first documented in the Netherlands, US coastal managers would still recognize the value once hurricanes hit their own shores.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 154,
+    "question": "If Dutch researchers published early marsh-resilience proofs, what is the most plausible global outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Coastal development would instantly accelerate globally",
+      "b": "Coastal cities worldwide would immediately drain all wetlands",
+      "c": "Other low-lying coastal nations would integrate marsh restoration into their flood defense and climate adaptation planning",
+      "d": "All salt marshes would instantly turn into forest"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 155,
+    "question": "If the discovery that certain atmospheric layers block harmful UV radiation was made by Australian scientists, researchers in Europe would still confirm the effect once they measured their own upper atmosphere.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 156,
+    "question": "If Australian scientists first identified the UV-blocking layer, how would global atmospheric research proceed?",
+    "type": "MCQ",
+    "options": {
+      "a": "UV radiation would increase globally due to the discovery",
+      "b": "Global efforts would begin to track and monitor the health of that specific atmospheric layer worldwide",
+      "c": "The entire atmosphere would instantly vanish",
+      "d": "All sunlight would be filtered out globally"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 157,
+    "question": "If the first demonstration of wind farms successfully powering a city was achieved in Denmark, other industrial nations would still build similar turbines once they sought cleaner energy sources.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 158,
+    "question": "If Danish engineers pioneered city-scale wind power, which global energy shift is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Nations with consistent wind resources would gradually adopt large-scale wind projects after successful demonstrations of viability and cost-effectiveness",
+      "b": "All electricity grids worldwide would instantly collapse",
+      "c": "Oil prices would instantly double",
+      "d": "The wind would stop blowing everywhere else"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 159,
+    "question": "If the link between urban heat islands and surface temperature was first documented in Japan, researchers in Europe would still observe the same temperature anomaly once they analyzed satellite data over their own dense cities.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 160,
+    "question": "If Japanese scientists first documented the urban heat island effect, what is the most plausible global response?",
+    "type": "MCQ",
+    "options": {
+      "a": "City planners worldwide would ignore the thermal implications of urbanization",
+      "b": "Architects would stop designing tall buildings globally",
+      "c": "Urban areas globally would adopt heat mitigation strategies like green roofs and reflective pavements to lower city temperatures",
+      "d": "All natural landscapes would instantly become colder than cities"
+    },
+    "answer": "c"
   }
 ]
+
+

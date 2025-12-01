@@ -1,73 +1,73 @@
 [
   {
     "question_id": 1,
-    "question": "Plato and Nietzsche would strongly agree that rational contemplation of eternal truths is the highest human activity.",
+    "question": "If Plato's theory of Forms (Classical Era) were debated against Nietzsche's perspectivism (19th Century Existentialism) regarding modern moral relativity, Plato would argue that objective moral truth is still discoverable.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 2,
-    "question": "Which modern thinker most sharply attacks Plato’s idea of a fixed, higher moral world by arguing that values are human creations shaped by power and life-instincts?",
+    "question": "In a debate about the nature of modern science, what would be Nietzsche's core objection to Plato's belief in a transcendent, perfect reality (Forms)?",
     "type": "MCQ",
     "options": {
-      "a": "John Stuart Mill",
-      "b": "Immanuel Kant",
-      "c": "Friedrich Nietzsche",
-      "d": "John Rawls"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 3,
-    "question": "Aristotle’s view that humans are naturally political animals conflicts with Hobbes’s picture of individuals in a violent state of nature who only later form societies.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 4,
-    "question": "Who portrays isolated individuals in a pre-political war of all against all, in contrast to Aristotle’s idea that humans are social by nature?",
-    "type": "MCQ",
-    "options": {
-      "a": "Thomas Hobbes",
-      "b": "Jean-Jacques Rousseau",
-      "c": "Baruch Spinoza",
-      "d": "G. W. F. Hegel"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 5,
-    "question": "Stoic philosophers claim that external fortune does not affect true happiness, whereas modern utilitarians tie morality closely to increasing pleasure and reducing pain.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 6,
-    "question": "Which modern philosopher would most directly oppose the Stoic idea that pain and pleasure are morally irrelevant, by making happiness the standard of right and wrong?",
-    "type": "MCQ",
-    "options": {
-      "a": "Immanuel Kant",
-      "b": "John Stuart Mill",
-      "c": "Søren Kierkegaard",
-      "d": "Martin Heidegger"
+      "a": "That the modern scientific method is inherently flawed and illogical",
+      "b": "That all claims of 'perfect truth' are merely interpretations driven by the will to power",
+      "c": "That Plato's Forms are too democratic and accessible to all thinkers",
+      "d": "That modern reality has been fundamentally altered by technology"
     },
     "answer": "b"
   },
   {
+    "question_id": 3,
+    "question": "If Aristotle's Nicomachean Ethics (Classical Era) were debated against J.S. Mill's Utilitarianism (19th Century Liberalism) on regulating modern social media, Aristotle would argue that regulations should focus solely on minimizing societal pain.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 4,
+    "question": "In a debate on social policy, what would be Aristotle's primary critique of Mill's Utilitarian focus on pleasure and the 'greatest good for the greatest number'?",
+    "type": "MCQ",
+    "options": {
+      "a": "That policy should be determined by the ruling class only",
+      "b": "That virtue and the cultivation of excellent character (Eudaimonia) are more important than simple aggregate pleasure",
+      "c": "That the policy lacks aesthetic quality and beauty",
+      "d": "That Mill's calculation of happiness is mathematically impossible"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 5,
+    "question": "If Aquinas's Natural Law (Medieval Scholasticism) were debated against Hobbes's Leviathan (Early Modern Political Theory) on the legitimacy of a modern police state, Hobbes would argue that the sovereign's legitimacy is derived from divine right.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 6,
+    "question": "In a debate on political authority, what would be Hobbes's strongest argument against Aquinas's reliance on divine or natural moral order?",
+    "type": "MCQ",
+    "options": {
+      "a": "That political legitimacy must derive from the common people's vote",
+      "b": "That the state is a mere illusion created by weak men",
+      "c": "That human nature is inherently peaceful and rational",
+      "d": "That without an absolute sovereign (Leviathan), life is a chaotic 'war of all against all'"
+    },
+    "answer": "d"
+  },
+  {
     "question_id": 7,
-    "question": "Epicurus and Kant would disagree about whether the moral worth of an action depends mainly on its consequences for happiness.",
+    "question": "If Descartes's Dualism (Rationalism) were debated against Ryle's Logical Behaviorism (20th Century Analytic Philosophy) regarding artificial intelligence, Ryle would assert that the 'mind' is simply a complex pattern of behavior.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -77,41 +77,41 @@
   },
   {
     "question_id": 8,
-    "question": "Which philosopher insists that only actions done from duty according to a universal law have true moral worth, rejecting the Epicurean focus on pleasure?",
+    "question": "In a debate on consciousness, what term would Ryle famously use to mock Descartes's idea of a non-physical 'mind' that operates the body?",
     "type": "MCQ",
     "options": {
-      "a": "David Hume",
-      "b": "Immanuel Kant",
-      "c": "Jeremy Bentham",
-      "d": "Augustine of Hippo"
+      "a": "The Cartesian Folly",
+      "b": "The Ghost in the Machine",
+      "c": "The Mind-Body Problem",
+      "d": "The Soul-Engine Hypothesis"
     },
     "answer": "b"
   },
   {
     "question_id": 9,
-    "question": "Confucius’s emphasis on role-based duties and social harmony conflicts with Sartre’s idea that humans are radically free and must create their own values without fixed roles.",
+    "question": "If Locke's Empiricism (Enlightenment) were debated against Chomsky's Nativism (20th Century Linguistics) regarding language acquisition, Chomsky would agree that a child's linguistic structure is primarily learned through imitation of environmental stimuli.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
-  },
-  {
-    "question_id": 10,
-    "question": "Which modern philosopher famously claims that humans are \"condemned to be free,\" directly challenging Confucian comfort with stable social roles and rituals?",
-    "type": "MCQ",
-    "options": {
-      "a": "Simone de Beauvoir",
-      "b": "Jean-Paul Sartre",
-      "c": "Alasdair MacIntyre",
-      "d": "Jürgen Habermas"
-    },
     "answer": "b"
   },
   {
+    "question_id": 10,
+    "question": "In a debate on innate knowledge, what would be Chomsky's key evidence against Locke's belief that all knowledge comes from sense experience?",
+    "type": "MCQ",
+    "options": {
+      "a": "The study of dreams and subconscious thought",
+      "b": "The use of computers in language translation",
+      "c": "The universal and rapid acquisition of complex grammar (Universal Grammar) despite limited input",
+      "d": "The fact that all animals can learn human language"
+    },
+    "answer": "c"
+  },
+  {
     "question_id": 11,
-    "question": "Descartes’s rationalist project of grounding knowledge in clear and distinct ideas opposes Hume’s claim that all ideas ultimately come from sensory impressions.",
+    "question": "If Hume's Skepticism (Empiricism) were debated against Popper's Falsificationism (Philosophy of Science) regarding the climate crisis, Hume would argue that past data alone does not guarantee future warming.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -121,41 +121,41 @@
   },
   {
     "question_id": 12,
-    "question": "Which early modern thinker argues that knowledge is built from experience and habit, challenging Descartes’s confidence in innate rational principles?",
+    "question": "In a debate on scientific certainty, what is Popper's main criterion for accepting a theory (like climate models) as genuinely scientific, which would satisfy Hume's skepticism about induction?",
     "type": "MCQ",
     "options": {
-      "a": "Gottfried Wilhelm Leibniz",
-      "b": "George Berkeley",
-      "c": "David Hume",
-      "d": "René Descartes"
+      "a": "The theory must be consistent with all prior known knowledge",
+      "b": "The theory must be elegant and mathematically beautiful",
+      "c": "The theory must make specific predictions that are, in principle, testable and refutable",
+      "d": "The theory must be verified by a panel of experts"
     },
     "answer": "c"
   },
   {
     "question_id": 13,
-    "question": "Plato’s belief in a timeless realm of Forms contrasts sharply with Marx’s historical materialism, which roots ideas in changing economic conditions.",
+    "question": "If Kant's Deontology (Enlightenment) were debated against Foucault's Power/Knowledge (Post-Structuralism) on modern surveillance, Kant would argue that surveillance systems inherently lack moral legitimacy because they are not duties.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 14,
-    "question": "Who argues that social being and material production shape consciousness, opposing Plato’s view that eternal Forms are primary?",
+    "question": "In a debate on ethics and public policy, what would be Kant's key objection to Foucault's rejection of universal moral principles?",
     "type": "MCQ",
     "options": {
-      "a": "Karl Marx",
-      "b": "Friedrich Engels",
-      "c": "Max Weber",
-      "d": "Auguste Comte"
+      "a": "That all power structures are inherently good",
+      "b": "That moral actions must be guided by duties (Categorical Imperatives) binding on all rational beings",
+      "c": "That individual freedom is the sole basis of morality",
+      "d": "That only laws passed by democratically elected officials are moral"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 15,
-    "question": "Ancient Cynics praised a life of radical simplicity and rejection of social conventions, while modern liberal thinkers often defend individual rights within a complex society.",
+    "question": "If Hegel's Dialectics (German Idealism) were debated against Kierkegaard's Existentialism (19th Century) regarding modern political consensus, Kierkegaard would prioritize the individual's subjective truth.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -165,19 +165,19 @@
   },
   {
     "question_id": 16,
-    "question": "Which modern philosopher would most likely argue against the Cynic’s rejection of social institutions by defending a framework of basic liberties and fair cooperation?",
+    "question": "In a debate about history and society, what is the core Hegelian concept that Kierkegaard most fiercely rejected in favor of personal faith and commitment?",
     "type": "MCQ",
     "options": {
-      "a": "Friedrich Hayek",
-      "b": "John Rawls",
-      "c": "Robert Nozick",
-      "d": "Isaiah Berlin"
+      "a": "The rejection of all religious faith",
+      "b": "The notion that the state is the highest realization of freedom and ethical life",
+      "c": "The idea that suffering is necessary for growth",
+      "d": "The emphasis on human reason over emotion"
     },
     "answer": "b"
   },
   {
     "question_id": 17,
-    "question": "Socrates’s claim that \"the unexamined life is not worth living\" clashes with some contemporary pragmatist views that prioritize practical problem-solving over constant self-examination.",
+    "question": "If Marx's Historical Materialism (19th Century) were debated against Rawls's Theory of Justice (20th Century Liberalism) on economic inequality, Marx would demand the abolition of private property.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -187,41 +187,41 @@
   },
   {
     "question_id": 18,
-    "question": "Which 20th-century American pragmatist would be most likely to downplay abstract metaphysical debate in favor of practical inquiry about social problems, diverging from Socratic emphasis on universal definitions?",
+    "question": "In a debate on fairness, what specific principle would Rawls use to argue for economic inequalities, provided they benefit the least advantaged members of society?",
     "type": "MCQ",
     "options": {
-      "a": "John Dewey",
-      "b": "W. V. O. Quine",
-      "c": "Saul Kripke",
-      "d": "Karl Popper"
+      "a": "The Principle of Utmost Competition",
+      "b": "The Difference Principle",
+      "c": "The Principle of Meritocracy",
+      "d": "The Principle of Total Equality"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 19,
-    "question": "Aristotle’s teleological view that everything has a natural purpose differs from Darwinian evolutionary theory, which explains species without fixed, built-in ends.",
+    "question": "If Socrates's Method (Classical Era) were debated against Quine's Indeterminacy of Translation (Analytic Philosophy) regarding communication, Socrates would argue that the true essence of virtue is ultimately unknowable.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 20,
-    "question": "Which modern thinker’s biological theory most clearly undermines Aristotle’s assumption of fixed natural purposes for species?",
+    "question": "In a debate on truth-seeking, what is the Socratic method's core tool that Quine might criticize as relying on an assumption of shared, fixed meaning?",
     "type": "MCQ",
     "options": {
-      "a": "Gregor Mendel",
-      "b": "Charles Darwin",
-      "c": "Louis Pasteur",
-      "d": "Sigmund Freud"
+      "a": "The reliance on divine inspiration",
+      "b": "The dialectical process (Elenchus) of rigorously questioning definitions and beliefs",
+      "c": "The use of written texts (dialogues)",
+      "d": "The use of democratic voting to determine truth"
     },
     "answer": "b"
   },
   {
     "question_id": 21,
-    "question": "Augustine’s Christian Platonism grounds moral order in God, while Nietzsche proclaims the \"death of God\" and calls for revaluing all values.",
+    "question": "If Augustine's Free Will (Early Christian) were debated against Skinner's Behaviorism (20th Century Psychology) regarding criminal accountability, Skinner would argue that behavior is determined by environment.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -231,19 +231,19 @@
   },
   {
     "question_id": 22,
-    "question": "Who most explicitly rejects Augustine’s belief in a divine moral order by urging humans to create their own values after the collapse of traditional religion?",
+    "question": "In a debate on ethics and accountability, what would Augustine primarily argue is missing in Skinner's deterministic model of human action?",
     "type": "MCQ",
     "options": {
-      "a": "Søren Kierkegaard",
-      "b": "Friedrich Nietzsche",
-      "c": "Blaise Pascal",
-      "d": "Martin Luther"
+      "a": "The existence of an immortal soul",
+      "b": "The genuine moral responsibility derived from conscious choice (will)",
+      "c": "The importance of economic factors",
+      "d": "The role of society in shaping individuals"
     },
     "answer": "b"
   },
   {
     "question_id": 23,
-    "question": "Confucian trust in hierarchical authority and ritual harmony collides with anarchist philosophies that see authority as inherently suspect.",
+    "question": "If Spinoza's Monism (Rationalism) were debated against Leibniz's Pluralism (Rationalism) regarding the nature of reality, Leibniz would argue that the universe is composed of infinite independent substances (Monads).",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -253,41 +253,41 @@
   },
   {
     "question_id": 24,
-    "question": "Which modern political thinker would most strongly criticize Confucian respect for hierarchical rulers by arguing that authority must constantly justify itself against freedom?",
+    "question": "In a debate on metaphysics, how would Spinoza counter Leibniz's Monads, based on his belief that God/Nature is the only self-subsistent substance?",
     "type": "MCQ",
     "options": {
-      "a": "Mikhail Bakunin",
-      "b": "Edmund Burke",
-      "c": "Hannah Arendt",
-      "d": "Alexis de Tocqueville"
+      "a": "By proving Monads are physically impossible",
+      "b": "By asserting that all substances are constantly changing",
+      "c": "By claiming the existence of Monads violates the laws of physics",
+      "d": "By arguing that Monads are simply different attributes of the single divine substance"
     },
-    "answer": "a"
+    "answer": "d"
   },
   {
     "question_id": 25,
-    "question": "Classical Indian Charvaka materialists, who rejected karma and an afterlife, anticipate some modern secular or atheist critiques of religion.",
+    "question": "If Rousseau's Social Contract (Enlightenment) were debated against Nozick's Entitlement Theory (20th Century Libertarianism) regarding taxation, Rousseau would agree with Nozick that taxation for wealth redistribution is morally wrong.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 26,
-    "question": "Which modern thinker would most agree with Charvaka in denying supernatural realms and urging focus on this-worldly evidence?",
+    "question": "In a debate on state intervention, what concept would Rousseau invoke to justify a policy that restricts individual economic liberty for the collective good?",
     "type": "MCQ",
     "options": {
-      "a": "David Hume",
-      "b": "Karl Popper",
-      "c": "Ludwig Wittgenstein (early)",
-      "d": "Benedict Spinoza"
+      "a": "The tyranny of the majority",
+      "b": "The state of nature",
+      "c": "The General Will",
+      "d": "The 'Invisible Hand' of the market"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 27,
-    "question": "Avicenna’s medieval Islamic rationalism tries to harmonize faith with philosophy, while contemporary logical positivists largely dismiss metaphysical theology as meaningless.",
+    "question": "If Schopenhauer's Will (19th Century) were debated against Sartre's Radical Freedom (20th Century Existentialism) regarding human suffering, Schopenhauer would see suffering as an inevitable cosmic condition.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -297,19 +297,19 @@
   },
   {
     "question_id": 28,
-    "question": "Which 20th-century movement most directly opposes Avicenna’s project by treating metaphysical religious language as cognitively empty?",
+    "question": "In a debate on human agency, what phrase would Sartre use to summarize the fact that humans are burdened by the necessity of creating their own meaning and values?",
     "type": "MCQ",
     "options": {
-      "a": "Phenomenology",
-      "b": "Logical positivism",
-      "c": "Existentialism",
-      "d": "Pragmatism"
+      "a": "The categorical imperative",
+      "b": "Existence precedes essence",
+      "c": "The world is representation",
+      "d": "The will to power"
     },
     "answer": "b"
   },
   {
     "question_id": 29,
-    "question": "Aquinas’s natural law theory claims that morality is built into human nature by God, whereas contemporary emotivists treat moral judgments as expressions of feeling rather than objective truths.",
+    "question": "If Heidegger's Being and Time (20th Century Continental) were debated against Carnap's Logical Positivism (Analytic Philosophy) regarding metaphysical language, Carnap would dismiss much of Heidegger's language as meaningless.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -319,63 +319,63 @@
   },
   {
     "question_id": 30,
-    "question": "Which 20th-century metaethicist would most directly challenge Aquinas by claiming that saying something is 'wrong' mainly expresses disapproval?",
+    "question": "In a debate on meaningful propositions, what is the Logical Positivist criterion that Carnap would use to exclude Heidegger's concepts (like 'Being-towards-death') from rational discourse?",
     "type": "MCQ",
     "options": {
-      "a": "A. J. Ayer",
-      "b": "John Finnis",
-      "c": "G. E. M. Anscombe",
-      "d": "Philippa Foot"
+      "a": "The Principle of Philosophical Coherence",
+      "b": "The Principle of Falsifiability",
+      "c": "The Verification Principle (testability through empirical observation)",
+      "d": "The Principle of Subjective Authenticity"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 31,
-    "question": "Plato’s philosopher-king ideal of enlightened rulers conflicts with modern democratic theories that insist political power should rest on equal citizenship rather than expertise alone.",
+    "question": "If Epicurus's Hedonism (Hellenistic) were debated against Epictetus's Stoicism (Hellenistic) regarding modern stress, Epicurus would argue that all strong desires must be radically eliminated.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 32,
-    "question": "Which modern philosopher famously defends political principles chosen behind a 'veil of ignorance,' opposing the idea that a small group of wise rulers should simply know best?",
+    "question": "In a debate on happiness, what would Epicurus argue is the ultimate, attainable goal of life, often confused with excessive pleasure?",
     "type": "MCQ",
     "options": {
-      "a": "John Rawls",
-      "b": "Robert Nozick",
-      "c": "Hannah Arendt",
-      "d": "Carl Schmitt"
+      "a": "Absolute intellectual knowledge",
+      "b": "Wealth and fame",
+      "c": "Freedom from pain in the body and disturbance in the mind (Aponia and Ataraxia)",
+      "d": "Political power"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 33,
-    "question": "Ancient Stoics claim the universe is ordered by divine reason (logos), while contemporary existentialists often deny any given cosmic meaning or plan.",
+    "question": "If Machiavelli's Prince (Renaissance) were debated against Habermas's Communicative Action (Critical Theory) regarding political legitimacy, Machiavelli would agree that power must emerge from rational, consensus-based discourse.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 34,
-    "question": "Which modern existentialist most explicitly rejects a pre-given human essence, insisting that existence comes before any fixed nature or cosmic plan?",
+    "question": "In a debate on leadership, what Machiavellian tenet would Habermas most strongly reject as destructive to legitimate governance?",
     "type": "MCQ",
     "options": {
-      "a": "Jean-Paul Sartre",
-      "b": "Albert Camus",
-      "c": "Martin Buber",
-      "d": "Paul Tillich"
+      "a": "The use of deception and ruthless self-interest to maintain power ('the ends justify the means')",
+      "b": "The necessity of the separation of powers",
+      "c": "The idea that a ruler should always act justly",
+      "d": "The importance of economic stability"
     },
     "answer": "a"
   },
   {
     "question_id": 35,
-    "question": "Confucian emphasis on filial piety and family duties may clash with modern individualist ethics that give priority to personal autonomy over inherited roles.",
+    "question": "If Berkeley's Idealism (Empiricism) were debated against Kripke's Rigid Designators (Analytic Philosophy) regarding external reality, Kripke would reject Berkeley's claim that objects only exist if they are perceived.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -385,19 +385,19 @@
   },
   {
     "question_id": 36,
-    "question": "Which liberal thinker would most likely argue that adult individuals should be free to choose their own life paths, even when these conflict with Confucian expectations about family duties?",
+    "question": "In a debate on object existence, what is the famous solution Berkeley proposed to ensure the continuous existence of objects when no human perceives them?",
     "type": "MCQ",
     "options": {
-      "a": "John Stuart Mill",
-      "b": "Thomas Aquinas",
-      "c": "Mencius",
-      "d": "Mozi"
+      "a": "The objects enter a state of potential existence (Quantum State)",
+      "b": "The objects are maintained by continuous observation by the omnipresent God",
+      "c": "All objects are simply hallucinations",
+      "d": "Objects exist as physical waves, not particles"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 37,
-    "question": "Buddhist ideas of 'non-self' challenge both Descartes’s 'thinking substance' and modern views that treat the self as a stable inner owner of experiences.",
+    "question": "If Confucius's Ren (Classical China) were debated against Ayn Rand's Objectivism (20th Century Libertarianism) regarding economic aid, Rand would oppose altruism as self-destructive.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -407,19 +407,19 @@
   },
   {
     "question_id": 38,
-    "question": "Which early modern philosopher most clearly embodies the belief in a simple, thinking self that Buddhism would criticize as an illusion?",
+    "question": "In a debate on social virtue, what would Confucius emphasize as the foundation of a harmonious society, which stands in direct opposition to Rand's radical individualism?",
     "type": "MCQ",
     "options": {
-      "a": "René Descartes",
-      "b": "Baruch Spinoza",
-      "c": "David Hume",
-      "d": "John Locke"
+      "a": "The technological advancement of the state",
+      "b": "The rigid separation of government and economy",
+      "c": "The cultivation of moral character and proper social roles (Filial Piety, propriety)",
+      "d": "The pursuit of pure self-interest (egoism)"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 39,
-    "question": "Ancient Greek skeptics questioned whether certain knowledge is possible, anticipating modern debates about radical doubt and fallibilism.",
+    "question": "If Peirce's Pragmatism (19th Century American) were debated against Derrida's Deconstruction (Post-Structuralism) regarding truth, Derrida would argue that meaning is always deferred and unstable.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -429,19 +429,19 @@
   },
   {
     "question_id": 40,
-    "question": "Which 20th-century philosopher’s fallibilist view of science, emphasizing conjectures and refutations, shows kinship with ancient skepticism about certainty?",
+    "question": "In a debate on language and meaning, what is the Pragmatist criterion Peirce would use to define the truth of a concept, which Derrida would find overly simplistic?",
     "type": "MCQ",
     "options": {
-      "a": "Karl Popper",
-      "b": "Thomas Kuhn",
-      "c": "Paul Feyerabend",
-      "d": "Wilfrid Sellars"
+      "a": "The concept's relationship to unconscious desire",
+      "b": "The degree to which the concept is grammatically sound",
+      "c": "The practical effects and real-world consequences of believing the concept is true",
+      "d": "The historical origins of the language used"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 41,
-    "question": "Locke’s social contract theory envisions limited government protecting property rights, which clashes with Marx’s call for abolishing private ownership of the means of production.",
+    "question": "If Heraclitus's Flux (Pre-Socratic) were debated against Parmenides's Oneness (Pre-Socratic) regarding modern identity, Parmenides would insist that all apparent change in a person is an illusion.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -451,41 +451,41 @@
   },
   {
     "question_id": 42,
-    "question": "Which thinker most directly opposes Locke by arguing that private property under capitalism alienates workers and should be transformed through collective ownership?",
+    "question": "In a debate on change, what would Parmenides argue about the physical universe based on his core belief that 'what is, is' and change is an illusion?",
     "type": "MCQ",
     "options": {
-      "a": "Jean-Jacques Rousseau",
-      "b": "Karl Marx",
-      "c": "John Rawls",
-      "d": "F. A. Hayek"
+      "a": "That all motion and variation are fundamentally impossible and illogical",
+      "b": "That the human mind creates all change",
+      "c": "That the universe is composed of atomic particles",
+      "d": "That only mathematical truths are real"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 43,
-    "question": "Ancient Indian Jain philosophy stresses nonviolence toward all living beings, contrasting with Machiavelli’s advice that rulers may need to use cruelty for political stability.",
+    "question": "If Augustine's City of God (Early Christian) were debated against Vico's New Science (Enlightenment) regarding historical cycles, Augustine would agree that history follows predictable, secular human patterns.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 44,
-    "question": "Which Renaissance thinker famously counsels rulers to be willing to act immorally when necessary, clashing with Jain commitments to nonviolence?",
+    "question": "In a debate on the purpose of history, what is the core concept that Augustine would emphasize, which Vico's secular historical cycles largely ignore?",
     "type": "MCQ",
     "options": {
-      "a": "Niccolò Machiavelli",
-      "b": "Desiderius Erasmus",
-      "c": "Thomas More",
-      "d": "Giordano Bruno"
+      "a": "The inevitable triumph of reason over superstition",
+      "b": "The conflict between the earthly city and the transcendent, spiritual city of God",
+      "c": "The necessity of technological progress",
+      "d": "The economic struggle between classes"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 45,
-    "question": "Traditional African communal philosophies that emphasize 'I am because we are' differ from Cartesian individualism that begins with an isolated thinking self.",
+    "question": "If Bacon's Inductive Method (Scientific Revolution) were debated against Descartes's Method of Doubt (Rationalism) regarding scientific knowledge, Descartes would argue that certainty begins with innate ideas.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -495,19 +495,19 @@
   },
   {
     "question_id": 46,
-    "question": "Which famous Cartesian claim would an Ubuntu-style African philosopher most likely criticize for ignoring the primacy of community?",
+    "question": "In a debate on knowledge acquisition, what would Bacon critique about Descartes's reliance on pure reason and innate ideas?",
     "type": "MCQ",
     "options": {
-      "a": "\"God is dead\"",
-      "b": "\"I think, therefore I am\"",
-      "c": "\"The greatest happiness of the greatest number\"",
-      "d": "\"Being and time\""
+      "a": "That the mind is not capable of complex thought",
+      "b": "That reasoning takes too much time",
+      "c": "That it risks falling into intellectual 'Idols' (biases) and must rely on systematic sensory evidence",
+      "d": "That all innate ideas are derived from religion"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 47,
-    "question": "Mozi’s ancient Chinese critique of ritual and hierarchy anticipates some modern egalitarian and utilitarian criticisms of tradition for ignoring shared welfare.",
+    "question": "If Nietzsche's Eternal Recurrence (19th Century) were debated against Camus's Absurdism (20th Century Existentialism) regarding meaning, Camus would reject the cyclical view and emphasize the confrontation with meaninglessness.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -517,41 +517,41 @@
   },
   {
     "question_id": 48,
-    "question": "Which modern philosopher of utility would most agree with Mozi’s call for impartial concern for everyone’s benefit over rigid ritual?",
+    "question": "In a debate on human action, what is the concept Nietzsche proposed that demands one live life in a way they would joyfully repeat infinitely, which Camus might find unnecessarily burdensome?",
     "type": "MCQ",
     "options": {
-      "a": "John Stuart Mill",
-      "b": "Immanuel Kant",
-      "c": "Georg Hegel",
-      "d": "Arthur Schopenhauer"
+      "a": "The Superman (Übermensch)",
+      "b": "The Eternal Recurrence",
+      "c": "The Categorical Imperative",
+      "d": "The State of Nature"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 49,
-    "question": "Ancient Pythagoreans gave mystical significance to numerical harmony, whereas contemporary analytic philosophers typically treat mathematics as a formal or logical system without sacred status.",
+    "question": "If Lao Tzu's Taoism (Classical China) were debated against Plato's Republic (Classical Era) regarding political structure, Plato would agree that the ideal state requires minimal governance and non-action (Wu Wei).",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 50,
-    "question": "Which 20th-century movement in philosophy of mathematics most clearly rejects mystical numerology by focusing on logical structure and proof?",
+    "question": "In a debate on governance, what highly structured element of Plato's ideal society would Lao Tzu consider artificial and detrimental to natural harmony?",
     "type": "MCQ",
     "options": {
-      "a": "Logical positivism",
-      "b": "Intuitionism",
-      "c": "Logicism",
-      "d": "Pragmatism"
+      "a": "The separation of powers into three branches",
+      "b": "The concept of universal suffrage",
+      "c": "The rule of the highly specialized, philosophical Guardian Class",
+      "d": "The necessity of a strong military"
     },
     "answer": "c"
   },
   {
     "question_id": 51,
-    "question": "Socrates believed that wrongdoing springs from ignorance, while Freud claims that unconscious drives can lead people to act against their own conscious knowledge and values.",
+    "question": "If Locke's Social Contract (Enlightenment) were debated against Rousseau's General Will (Enlightenment) regarding minority rights, Locke would prioritize the individual's pre-political, inalienable rights.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -561,19 +561,19 @@
   },
   {
     "question_id": 52,
-    "question": "Which modern thinker most directly challenges Socrates by highlighting irrational and unconscious forces in the human mind?",
+    "question": "In a debate on sovereignty, what is the key difference between Locke's view (where citizens delegate power) and Rousseau's view (where citizens surrender rights to the community)?",
     "type": "MCQ",
     "options": {
-      "a": "Sigmund Freud",
-      "b": "Bertrand Russell",
-      "c": "G. E. Moore",
-      "d": "Edmund Husserl"
+      "a": "Rousseau emphasizes religious freedom; Locke emphasizes property rights",
+      "b": "Rousseau requires a unanimous vote; Locke requires only a simple majority",
+      "c": "Locke believes the contract is between the people and the sovereign; Rousseau believes it is purely between the people themselves",
+      "d": "Locke believes the contract is between the people and the sovereign; Rousseau believes it is purely between the people themselves"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 53,
-    "question": "Ancient philosophy often focused on contemplating eternal truths, whereas some contemporary critical theorists emphasize exposing power structures and domination in everyday life.",
+    "question": "If Mill's Harm Principle (19th Century Liberalism) were debated against Sharia Law (Islamic Jurisprudence) regarding freedom of speech, Mill's principle would oppose restriction unless speech directly causes harm to others.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -583,41 +583,41 @@
   },
   {
     "question_id": 54,
-    "question": "Which modern philosopher of power and discourse would most criticize a purely timeless, abstract conception of philosophy for ignoring historical practices and institutions?",
+    "question": "In a debate on liberty, what core moral justification would Mill use to defend controversial speech, even if it offends the majority?",
     "type": "MCQ",
     "options": {
-      "a": "Michel Foucault",
-      "b": "John Rawls",
-      "c": "Alfred Tarski",
-      "d": "Karl Jaspers"
+      "a": "The law is only valid if derived from a divine source",
+      "b": "The utility of allowing free discourse to test and clarify truth claims",
+      "c": "All laws must be based on historical precedent",
+      "d": "The ultimate goal is to maximize one's personal wealth"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 55,
-    "question": "Kant’s strict duty-based ethics conflicts with Nietzsche’s suspicion that moral rules often hide resentment and a will to control stronger individuals.",
+    "question": "If Nietzsche's Master/Slave Morality (19th Century) were debated against Christian Ethics (Historical) regarding compassion, Christian Ethics would agree that its values are based on the resentment of the weak.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 56,
-    "question": "Who most famously dismisses traditional morality as a 'slave morality' aimed at weakening the strong, directly opposing Kant’s view of universal moral law?",
+    "question": "In a debate on moral origins, what term did Nietzsche use for the powerful morality that values pride, strength, and noble self-affirmation?",
     "type": "MCQ",
     "options": {
-      "a": "Karl Marx",
-      "b": "Friedrich Nietzsche",
-      "c": "Hannah Arendt",
-      "d": "Simone Weil"
+      "a": "The God's Morality",
+      "b": "Master Morality",
+      "c": "The herd instinct",
+      "d": "The Utilitarian Calculus"
     },
     "answer": "b"
   },
   {
     "question_id": 57,
-    "question": "Plato’s allegory of the cave suggests that philosophers should ascend to truth and then return to guide others, while modern libertarians often resist the idea of any class of guardians steering society.",
+    "question": "If Russell's Logical Atomism (Analytic Philosophy) were debated against Hegel's Absolute Idealism (German Idealism) regarding language, Russell would argue that language should mirror simple, independent facts.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -627,19 +627,19 @@
   },
   {
     "question_id": 58,
-    "question": "Which libertarian thinker would most likely oppose Plato’s guardian class by insisting that individuals should be free from paternalistic rule?",
+    "question": "In a debate on reality, what is the core Hegelian claim that Russell's Atomism would reject, favoring clear, distinct, verifiable parts?",
     "type": "MCQ",
     "options": {
-      "a": "Robert Nozick",
-      "b": "Herbert Marcuse",
-      "c": "Jürgen Habermas",
-      "d": "Charles Taylor"
+      "a": "That all truth is based on subjective perception",
+      "b": "That the ultimate reality is a single, all-encompassing, rational Spirit (the Absolute)",
+      "c": "That the universe is composed of infinite independent Monads",
+      "d": "That mathematics is the language of the universe"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 59,
-    "question": "Ancient Greek tragedians highlight the limits of human control and the power of fate, while some modern technocratic philosophies express confidence that rational planning can manage society.",
+    "question": "If Sartre's Existentialism (20th Century) were debated against Buddhist Dharma (Ancient Asia) regarding suffering, Buddhism would offer a clear path to eliminate desire and end suffering.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -649,41 +649,41 @@
   },
   {
     "question_id": 60,
-    "question": "Which modern intellectual tradition is most associated with faith in rational bureaucracy and planning, potentially clashing with tragic Greek warnings about hubris?",
+    "question": "In a debate on despair, what is the fundamental state of being that Sartre argues humanity is 'condemned' to, due to the total absence of a pre-given nature or purpose?",
     "type": "MCQ",
     "options": {
-      "a": "Romanticism",
-      "b": "Logical positivism",
-      "c": "Technocratic progressivism",
-      "d": "Existentialism"
+      "a": "Being fundamentally predetermined by genes",
+      "b": "Being eternally reborn",
+      "c": "Being fundamentally good and moral",
+      "d": "Being radically free and responsible for all choices"
     },
-    "answer": "c"
+    "answer": "d"
   },
   {
     "question_id": 61,
-    "question": "Ancient Hebrew prophetic ethics focus on justice for the poor and critique of kings, which resonates with but also differs from Marxist critiques of capitalism and class oppression.",
+    "question": "If Plato's Ideal State (Classical Era) were debated against Democracy (Modern Political Theory) regarding rule, Democracy would agree that the ideal ruler is the philosopher-king.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 62,
-    "question": "Which modern thinker systematizes a theory of class struggle and exploitation that can be compared with, but is not identical to, prophetic attacks on injustice?",
+    "question": "In a debate on merit, what term would Plato use to describe the required specialized wisdom possessed only by the rulers of his ideal state?",
     "type": "MCQ",
     "options": {
-      "a": "Karl Marx",
-      "b": "Max Weber",
-      "c": "John Locke",
-      "d": "Adam Smith"
+      "a": "DoXA (Mere opinion)",
+      "b": "Political Consensus",
+      "c": "Episteme (True, scientific knowledge)",
+      "d": "The General Will"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 63,
-    "question": "Ancient Chinese Legalists emphasized strict laws and punishments, while contemporary restorative justice theories stress healing relationships over harsh retribution.",
+    "question": "If Hume's Problem of Induction (Empiricism) were debated against Scientific Realism (Philosophy of Science) regarding atoms, Realism would assert that atoms truly exist beyond mere observation.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -693,19 +693,19 @@
   },
   {
     "question_id": 64,
-    "question": "Which modern approach to justice is most opposed to Legalist harshness by focusing on dialogue and repairing harm?",
+    "question": "In a debate on causation, what would Hume argue is the psychological basis for believing that one event causes another (A causes B), rather than being a necessary, objective link?",
     "type": "MCQ",
     "options": {
-      "a": "Retributive justice",
-      "b": "Restorative justice",
-      "c": "Lex talionis",
-      "d": "Realpolitik"
+      "a": "The quantum mechanics of the interaction",
+      "b": "The mere psychological habit of constant conjunction (seeing A followed by B repeatedly)",
+      "c": "The logical necessity of reason",
+      "d": "The laws of God"
     },
     "answer": "b"
   },
   {
     "question_id": 65,
-    "question": "Aristotle’s view that women are naturally inferior clashes with modern feminist philosophies that insist on equal moral and political agency for all genders.",
+    "question": "If Kant's Transcendental Idealism (Enlightenment) were debated against Scientific Materialism (Modern Philosophy) regarding reality, Materialism would assert that only physically observable matter exists.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -715,19 +715,19 @@
   },
   {
     "question_id": 66,
-    "question": "Which modern philosopher explicitly argues that woman is constructed as 'the Other' and demands equal existential freedom, rejecting Aristotle’s natural hierarchy?",
+    "question": "In a debate on knowledge, what is the limit Kant placed on human understanding, arguing we only perceive phenomena (the world as it appears to us) and not the thing-in-itself?",
     "type": "MCQ",
     "options": {
-      "a": "Hannah Arendt",
-      "b": "Simone de Beauvoir",
-      "c": "Iris Murdoch",
-      "d": "Judith Jarvis Thomson"
+      "a": "The realm of Forms",
+      "b": "The noumenal realm",
+      "c": "The Tabula Rasa",
+      "d": "The General Will"
     },
     "answer": "b"
   },
   {
     "question_id": 67,
-    "question": "Some Indigenous philosophies treat land and non-human beings as relatives, opposing modern anthropocentric views that see nature mainly as a resource for human use.",
+    "question": "If Lao Tzu's Taoism (Classical China) were debated against Legalism (Classical China) regarding social order, Legalism would favor strict laws and harsh, predictable punishments.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -737,41 +737,41 @@
   },
   {
     "question_id": 68,
-    "question": "Which modern movement most closely aligns with Indigenous critiques of human-centered thinking by emphasizing the moral value of ecosystems and species?",
+    "question": "In a debate on governance, what would Lao Tzu advocate for as the best way to maintain societal harmony, which Legalism's authoritarian approach actively rejects?",
     "type": "MCQ",
     "options": {
-      "a": "Classical liberalism",
-      "b": "Deep ecology",
-      "c": "Logical atomism",
-      "d": "Act utilitarianism"
+      "a": "A powerful, all-knowing emperor",
+      "b": "The concept of non-action (Wu Wei) and minimal interference in people's lives",
+      "c": "Constant surveillance and public shaming",
+      "d": "A massive bureaucracy run by educated elites"
     },
     "answer": "b"
   },
   {
     "question_id": 69,
-    "question": "Zeno’s ancient paradoxes challenge naive ideas about motion and continuity, while contemporary analytic philosophers use set theory and calculus to resolve such puzzles.",
+    "question": "If Vico's New Science (Enlightenment) were debated against Social Darwinism (19th Century) regarding progress, Vico would agree that history is purely linear, driven only by technological progress.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 70,
-    "question": "Which area of modern mathematics and logic is most often invoked to respond to Zeno’s paradoxes of motion?",
+    "question": "In a debate on history, what is the central Viconian principle that asserts human nature and social structures follow a repetitive cycle of growth, decay, and rebirth?",
     "type": "MCQ",
     "options": {
-      "a": "Group theory",
-      "b": "Game theory",
-      "c": "Calculus and real analysis",
-      "d": "Topology of knots"
+      "a": "The Eternal Recurrence",
+      "b": "The Dialectical Materialism",
+      "c": "The course of human institutions (corsi e ricorsi)",
+      "d": "The State of Nature"
     },
     "answer": "c"
   },
   {
     "question_id": 71,
-    "question": "Ancient Indian Buddhist logicians developed sophisticated debates about emptiness, which foreshadow some modern discussions about language and reference.",
+    "question": "If Mill's Utilitarianism (19th Century) were debated against Rawls's Justice as Fairness (20th Century) regarding income distribution, Utilitarianism would potentially justify radical inequality if it maximized total wealth.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -781,19 +781,19 @@
   },
   {
     "question_id": 72,
-    "question": "Which modern philosopher of language, famous for the slogan \"meaning is use,\" might find Buddhist attention to context and practice especially resonant?",
+    "question": "In a debate on rights, what would Rawls argue is the necessary basis for designing a just society, ensuring no individual's basic rights are sacrificed for the majority's gain?",
     "type": "MCQ",
     "options": {
-      "a": "Gottlob Frege",
-      "b": "Ludwig Wittgenstein (later)",
-      "c": "Saul Kripke",
-      "d": "Donald Davidson"
+      "a": "The principle of total economic equality",
+      "b": "Reasoning about societal rules from behind the Veil of Ignorance",
+      "c": "A pure meritocracy based on natural talent",
+      "d": "Following the historical precedent of the most successful states"
     },
     "answer": "b"
   },
   {
     "question_id": 73,
-    "question": "Parmenides argued that change is an illusion and reality is one unchanging being, while modern process philosophies claim that becoming and change are fundamental.",
+    "question": "If Aquinas's Just War Theory (Medieval) were debated against Pacifism (Modern Ethics) regarding nuclear deterrence, Pacifism would assert that the act of war is inherently immoral, regardless of outcome.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -803,19 +803,19 @@
   },
   {
     "question_id": 74,
-    "question": "Which modern thinker’s 'process' metaphysics most clearly reverses Parmenides by treating change and events as basic?",
+    "question": "In a debate on conflict, what is the specific Aquinas criterion (Jus ad Bellum) that requires war to be initiated only by a state or governing authority and not a private individual?",
     "type": "MCQ",
     "options": {
-      "a": "Alfred North Whitehead",
-      "b": "Bertrand Russell",
-      "c": "John Searle",
-      "d": "R. M. Hare"
+      "a": "Last Resort",
+      "b": "Right Intention",
+      "c": "Legitimate Authority",
+      "d": "Proportionality"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 75,
-    "question": "Heraclitus emphasized constant flux, saying we cannot step into the same river twice, whereas classical mechanistic physics once pictured a stable, clockwork universe.",
+    "question": "If Descartes's Rationalism (Rationalism) were debated against American Pragmatism (19th Century) regarding truth, Pragmatism would define truth by its practical, working consequences.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -825,19 +825,19 @@
   },
   {
     "question_id": 76,
-    "question": "Which early modern scientist-philosopher is most associated with a deterministic, clockwork view of nature that clashes with Heraclitus’s vision of constant flux?",
+    "question": "In a debate on methodology, what is the famous starting point Descartes used to seek absolute certainty, which Pragmatists might find too removed from real-world experience?",
     "type": "MCQ",
     "options": {
-      "a": "Isaac Newton",
-      "b": "Blaise Pascal",
-      "c": "Francis Bacon",
-      "d": "Galileo Galilei"
+      "a": "The analysis of language structure",
+      "b": "The reliance on sensory observation",
+      "c": "Radical Skepticism (Method of Doubt) and the 'Cogito'",
+      "d": "The adherence to ancient texts"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 77,
-    "question": "Ancient Epicureans tried to free people from fear of gods and death, while some contemporary transhumanists place hope in radically extending life through technology.",
+    "question": "If Hegel's Master/Slave Dialectic (German Idealism) were debated against Fanon's Colonial Critique (20th Century Post-Colonialism) regarding identity, Fanon would agree that the subjugated person's identity is initially defined by the master.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -847,41 +847,41 @@
   },
   {
     "question_id": 78,
-    "question": "Which modern movement might Epicurus criticize for clinging too strongly to the fear of death instead of accepting mortality calmly?",
+    "question": "In a debate on recognition, what is the ultimate goal of the slave in Hegel's model, which drives the entire dialectical process?",
     "type": "MCQ",
     "options": {
-      "a": "Romanticism",
-      "b": "Transhumanism seeking immortality",
-      "c": "Libertarianism",
-      "d": "Stoicism"
+      "a": "To eliminate the master completely",
+      "b": "To be acknowledged as an independent consciousness (recognition) by the master",
+      "c": "To revert to a state of nature",
+      "d": "To gain absolute economic wealth"
     },
     "answer": "b"
   },
   {
     "question_id": 79,
-    "question": "Ancient Roman law helped shape ideas of natural rights, but some postmodern philosophers question whether such 'universal' rights hide culturally specific assumptions.",
+    "question": "If Spinoza's Determinism (Rationalism) were debated against Libertarian Free Will (Modern Metaphysics) regarding moral choice, Libertarian Free Will would argue that the human will is not an uncaused first mover.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 80,
-    "question": "Which continental philosopher is best known for critiquing universalist claims, including rights discourse, as products of particular historical power relations?",
+    "question": "In a debate on metaphysics, what is the core Spinozist claim that implies human free will is an illusion?",
     "type": "MCQ",
     "options": {
-      "a": "Jürgen Habermas",
-      "b": "Paul Ricoeur",
-      "c": "Michel Foucault",
-      "d": "Hans-Georg Gadamer"
+      "a": "That all events are predetermined by the physical laws of nature",
+      "b": "That the mind and body are the same substance (Monism), and all events are necessary modes of God/Nature",
+      "c": "That the universe is composed of infinite independent Monads",
+      "d": "That human action is random and chaotic"
     },
-    "answer": "c"
+    "answer": "b"
   },
   {
     "question_id": 81,
-    "question": "Ancient Islamic philosophers such as Al-Farabi envisioned a virtuous city guided by a philosopher-prophet, while modern pluralist theories resist imposing a single ultimate vision of the good life on citizens.",
+    "question": "If Marx's Dialectical Materialism (19th Century) were debated against Malthus's Population Principle (Classical Economics) regarding poverty, Malthus would insist that poverty is caused by population growth exceeding resources.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -891,19 +891,19 @@
   },
   {
     "question_id": 82,
-    "question": "Which 20th-century liberal thinker emphasizes reasonable pluralism and public justification, contrasting with Al-Farabi’s unified virtuous city under one guiding vision?",
+    "question": "In a debate on social change, what would Marx argue is the true cause of mass poverty and resource scarcity, fundamentally rejecting Malthus's natural law argument?",
     "type": "MCQ",
     "options": {
-      "a": "John Rawls",
-      "b": "Leo Strauss",
-      "c": "Carl Schmitt",
-      "d": "Hans Jonas"
+      "a": "The inherent flaws in human nature",
+      "b": "The inevitable decline of agricultural yields",
+      "c": "The exploitative structure of the capitalist mode of production",
+      "d": "The lack of adequate education for the working class"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 83,
-    "question": "Ancient Greek atomists like Democritus saw the world as composed of indivisible particles, whereas modern quantum physics undermines the idea of simple, unchanging atoms.",
+    "question": "If Heidegger's Authenticity (20th Century) were debated against Kierkegaard's Knight of Faith (19th Century) regarding commitment, Kierkegaard would prioritize the subjective, passionate leap into the absurd.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -913,41 +913,41 @@
   },
   {
     "question_id": 84,
-    "question": "Which modern physical theory most clearly challenges Democritus’s simple atomism by describing subatomic particles with probabilistic behavior?",
+    "question": "In a debate on selfhood, what is the term Heidegger used to describe the inauthentic mode of existence, where one is lost in the anonymity and conventions of the 'they' (das Man)?",
     "type": "MCQ",
     "options": {
-      "a": "Classical thermodynamics",
-      "b": "Quantum mechanics",
-      "c": "Special relativity",
-      "d": "Chaos theory"
+      "a": "The will to power",
+      "b": "Das Gerede (idle talk)",
+      "c": "The General Will",
+      "d": "Eudaimonia"
     },
     "answer": "b"
   },
   {
     "question_id": 85,
-    "question": "The Bhagavad Gita’s call to perform one’s duty without attachment to results differs from modern consequentialism, which evaluates actions by their outcomes.",
+    "question": "If Confucius's Filial Piety (Classical China) were debated against Modern Individualism (20th Century Ethics) regarding family structure, Confucius would argue that the primary moral unit is the individual, not the family.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 86,
-    "question": "Which modern school most directly contrasts with the Gita’s focus on non-attached duty by judging actions primarily by the goodness of their consequences?",
+    "question": "In a debate on social order, what foundational concept would Confucius use to argue that respect for elders and parents is the basis for all stable political institutions?",
     "type": "MCQ",
     "options": {
-      "a": "Deontology",
-      "b": "Virtue ethics",
-      "c": "Consequentialism / utilitarianism",
-      "d": "Phenomenology"
+      "a": "The pursuit of profit",
+      "b": "The Mandate of Heaven",
+      "c": "Filial Piety (Xiao)",
+      "d": "Absolute individual rights"
     },
     "answer": "c"
   },
   {
     "question_id": 87,
-    "question": "Ancient Stoics recommended emotional resilience through inner discipline, while some modern consumerist ideals encourage constant pursuit of new desires and external goods.",
+    "question": "If Popper's Falsificationism (Philosophy of Science) were debated against Kuhn's Paradigm Shifts (Philosophy of Science) regarding scientific method, Kuhn would argue that science is driven by social and historical contexts, not pure logic.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -957,19 +957,19 @@
   },
   {
     "question_id": 88,
-    "question": "Which modern critical tradition is most likely to side with the Stoics in criticizing consumer culture for producing dependency on external goods?",
+    "question": "In a debate on scientific revolution, what is the key Kuhnian concept describing the shared, unstated assumptions and practices that define 'normal science' in a given period?",
     "type": "MCQ",
     "options": {
-      "a": "Critical theory of the Frankfurt School",
-      "b": "Logical empiricism",
-      "c": "Game theory",
-      "d": "Behaviorism"
+      "a": "The Black Box",
+      "b": "The Paradigm",
+      "c": "The Verification Principle",
+      "d": "The Scientific Manifesto"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 89,
-    "question": "Ancient Chinese Daoism praises effortless action (wu wei), while some modern productivity philosophies promote constant self-optimization and control.",
+    "question": "If Locke's Private Property Theory (Enlightenment) were debated against Proudhon's Anarchism (19th Century Socialism) regarding ownership, Proudhon would famously assert that 'Property is theft'.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -979,41 +979,41 @@
   },
   {
     "question_id": 90,
-    "question": "Which contemporary attitude would a Daoist most sharply oppose?",
+    "question": "In a debate on labor, what did Locke argue was the original justification for private property rights, opposing Proudhon's view?",
     "type": "MCQ",
     "options": {
-      "a": "Letting processes unfold with minimal interference",
-      "b": "Cultivating humility before nature",
-      "c": "Obsessive micromanagement and rigid scheduling of every moment",
-      "d": "Enjoying quiet solitude in mountains"
+      "a": "The direct transfer of value from the mixing of one's labor with natural resources",
+      "b": "The state's mandate to distribute land equally",
+      "c": "The divine right of kings to grant property",
+      "d": "The simple principle of 'first come, first served'"
     },
-    "answer": "c"
+    "answer": "a"
   },
   {
     "question_id": 91,
-    "question": "Ancient philosophical schools often assumed a fixed human nature, whereas some contemporary gender and queer theorists question whether identities are stable or natural at all.",
+    "question": "If Stoicism (Hellenistic) were debated against Nietzsche's Master Morality (19th Century) regarding emotional control, Nietzsche would agree that the highest virtue is the elimination of destructive passions (Apatheia).",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 92,
-    "question": "Which modern thinker is best known for arguing that gender is performative and socially constructed, challenging ancient assumptions about natural roles?",
+    "question": "In a debate on self-mastery, what would Nietzsche argue is the fundamental error of Stoicism's attempt to deny or repress powerful emotions and passions?",
     "type": "MCQ",
     "options": {
-      "a": "Judith Butler",
-      "b": "Simone de Beauvoir",
-      "c": "Martha Nussbaum",
-      "d": "Elizabeth Anscombe"
+      "a": "That the repression of passion weakens the 'will to power'",
+      "b": "That strong emotions are merely social constructs",
+      "c": "That Stoicism leads to excessive altruism",
+      "d": "That controlling emotion is mathematically impossible"
     },
     "answer": "a"
   },
   {
     "question_id": 93,
-    "question": "Ancient virtue ethics focuses on cultivating stable character traits, while some modern situationist psychology questions whether people really have consistent virtues across contexts.",
+    "question": "If Rousseau's Noble Savage (Enlightenment) were debated against Freud's Civilization and Its Discontents (20th Century Psychoanalysis) regarding human nature, Freud would assert that civilization necessarily represses instinct.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1023,41 +1023,41 @@
   },
   {
     "question_id": 94,
-    "question": "Which modern perspective most directly challenges Aristotle’s confidence in firm character traits by emphasizing the power of situations over dispositions?",
+    "question": "In a debate on society, what would Rousseau argue is the original condition of humanity that is free from the corruption and inequality imposed by civilization?",
     "type": "MCQ",
     "options": {
-      "a": "Behaviorist psychology",
-      "b": "Situationist social psychology",
-      "c": "Psychoanalysis",
-      "d": "Phenomenology"
+      "a": "The State of War",
+      "b": "The State of Nature (where man is naturally good)",
+      "c": "The Collective Unconscious",
+      "d": "The Garden of Eden"
     },
     "answer": "b"
   },
   {
     "question_id": 95,
-    "question": "Ancient cosmologies often presented a finite, ordered universe, whereas contemporary cosmology entertains models of an expanding or even multiverse cosmos.",
+    "question": "If Avicenna's Flying Man Argument (Medieval Islam) were debated against Hume's Empiricism (Enlightenment) regarding the soul, Avicenna would agree with Hume that the self is nothing but a bundle of perceptions.",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 96,
-    "question": "Which modern physical theory most clearly contrasts with Aristotle’s finite, geocentric universe?",
+    "question": "In a debate on the mind, what concept would Hume famously conclude the self is, based on his Empiricist methodology?",
     "type": "MCQ",
     "options": {
-      "a": "Copernican heliocentrism and big bang cosmology",
-      "b": "Phlogiston theory",
-      "c": "Humoral theory of disease",
-      "d": "Classical logic"
+      "a": "An immaterial substance (soul)",
+      "b": "A transcendental ego (Kant's view)",
+      "c": "A mere bundle or collection of fleeting perceptions",
+      "d": "A Monad (Leibniz's view)"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 97,
-    "question": "Ancient wisdom traditions often integrated ethics, metaphysics, and spiritual practice, whereas some modern analytic philosophy tries to separate these and focus narrowly on logical clarity.",
+    "question": "If Kierkegaard's Stages of Existence (19th Century) were debated against Maslow's Hierarchy of Needs (20th Century Psychology) regarding self-actualization, Maslow would see self-actualization as the highest, attainable psychological level.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1067,19 +1067,19 @@
   },
   {
     "question_id": 98,
-    "question": "Which 20th-century philosopher is emblematic of the analytic turn toward language and logic that would puzzle a Platonic or Vedic sage focused on spiritual ascent?",
+    "question": "In a debate on meaning, what is the highest stage of existence in Kierkegaard's model, which requires an irrational 'leap' beyond universal ethical norms?",
     "type": "MCQ",
     "options": {
-      "a": "A. J. Ayer",
-      "b": "Karl Barth",
-      "c": "Hans Urs von Balthasar",
-      "d": "Martin Heidegger"
+      "a": "The Aesthetic Stage",
+      "b": "The Ethical Stage",
+      "c": "The Religious Stage",
+      "d": "The Rational Stage"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 99,
-    "question": "Ancient political philosophies often excluded many people from citizenship, whereas modern human rights theories insist that all persons deserve equal basic protections.",
+    "question": "If Aristotle's Hylomorphism (Classical Era) were debated against Modern Computationalism (Philosophy of Mind) regarding the mind, Computationalism would assert that the mind is a function (software) of the brain (hardware).",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -1089,14 +1089,674 @@
   },
   {
     "question_id": 100,
-    "question": "Which modern document and tradition most clearly opposes ancient exclusionary citizenship by asserting equal basic rights for all humans?",
+    "question": "In a debate on substance, what is the core Aristotelian idea that the form (soul/mind) and matter (body) are inseparable and constitute a single substance?",
     "type": "MCQ",
     "options": {
-      "a": "The Code of Hammurabi",
-      "b": "The Nicene Creed",
-      "c": "The Universal Declaration of Human Rights and modern rights discourse",
-      "d": "The Magna Carta alone"
+      "a": "The Theory of Forms",
+      "b": "The Four Causes",
+      "c": "Hylomorphism",
+      "d": "The Categorical Imperative"
     },
     "answer": "c"
+  },
+  {
+    "question_id": 101,
+    "question": "If Plato's Idealism (Classical Era) were debated against Marx's Materialism (19th Century) regarding culture, Plato would agree that culture is shaped primarily by the economic base.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 102,
+    "question": "In a debate on reality, what would Plato argue is the ultimate, superior reality that dictates the nature of the physical world, which Marx would reject?",
+    "type": "MCQ",
+    "options": {
+      "a": "The economic base (mode of production)",
+      "b": "The Will to Power",
+      "c": "The Eternal, transcendent realm of the Forms",
+      "d": "The Monad"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 103,
+    "question": "If Confucius's Li (Propriety) (Classical China) were debated against Modern Relativism (20th Century Ethics) regarding social behavior, Relativism would reject the idea of fixed, mandatory social rituals.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 104,
+    "question": "In a debate on ethics, what would Confucius argue is the primary social function of observing rigid rituals and proper social roles (Li)?",
+    "type": "MCQ",
+    "options": {
+      "a": "To maximize individual freedom",
+      "b": "To ensure economic competition",
+      "c": "To provide a concrete, visible structure for social harmony and moral growth",
+      "d": "To separate the ruling class from the laborers"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 105,
+    "question": "If Aquinas's Natural Law (Medieval) were debated against Legal Positivism (Modern Jurisprudence) regarding law, Legal Positivism would assert that law is valid only if it is enacted by a recognized sovereign.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 106,
+    "question": "In a debate on legislation, what would Aquinas argue is the higher moral standard against which human laws (Positive Law) must be judged and, if violated, potentially ignored?",
+    "type": "MCQ",
+    "options": {
+      "a": "The principle of majority rule",
+      "b": "The inherent moral order discoverable by human reason (Natural Law)",
+      "c": "The economic outcome of the law",
+      "d": "The historical precedent of ancient Roman law"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 107,
+    "question": "If Hume's Skepticism (Empiricism) were debated against Logical Positivism (20th Century) regarding causality, Logical Positivism would assert that causality is a real, metaphysical connection between objects.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "In a debate on metaphysics, what would be the Logical Positivist response to Hume's critique that we can never truly observe causation, only constant conjunction?",
+    "type": "MCQ",
+    "options": {
+      "a": "Causality must be a matter of faith",
+      "b": "The concept of causation is a meaningless pseudo-problem as it cannot be verified empirically",
+      "c": "Causation is an innate, non-empirical concept (Kantian view)",
+      "d": "Causality is purely a matter of linguistic convention"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 109,
+    "question": "If Rousseau's Social Contract (Enlightenment) were debated against Marxist Class Analysis (19th Century) regarding state power, Marxism would assert that the state exists primarily to serve the ruling economic class.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "In a debate on governance, what would Rousseau argue is the essential purpose of the state that transcends class interests?",
+    "type": "MCQ",
+    "options": {
+      "a": "The maximization of industrial output",
+      "b": "The expression of the unified moral will of the citizens (General Will)",
+      "c": "The protection of private property above all else",
+      "d": "The enforcement of religious conformity"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 111,
+    "question": "If Nietzsche's Will to Power (19th Century) were debated against Freud's Psychoanalysis (20th Century) regarding motivation, Freud would primarily trace human motivation back to basic biological drives (libido/death drive).",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 112,
+    "question": "In a debate on psychology, what would Nietzsche argue is the fundamental, striving force behind all life, which seeks growth, dominance, and overcoming resistance?",
+    "type": "MCQ",
+    "options": {
+      "a": "The pleasure principle",
+      "b": "The Will to Power",
+      "c": "The Categorical Imperative",
+      "d": "The Subconscious"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 113,
+    "question": "If Kant's Categorical Imperative (Enlightenment) were debated against Virtue Ethics (Classical) regarding moral action, Virtue Ethics would prioritize the agent's character and motivation over universal rules.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "In a debate on ethics, what is the Kantian formula that requires one's action to be consistently willed as a universal law for all rational beings?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Hypothetical Imperative",
+      "b": "The Principle of Utility",
+      "c": "The Formula of Universal Law (Categorical Imperative)",
+      "d": "The Golden Rule"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 115,
+    "question": "If Descartes's Cogito (Rationalism) were debated against Wittgenstein's Private Language Argument (Analytic Philosophy) regarding self-knowledge, Wittgenstein would argue that private internal experience cannot establish meaning.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 116,
+    "question": "In a debate on certainty, what does Descartes's famous 'Cogito ergo sum' (I think, therefore I am) establish as the single, foundational, undeniable truth?",
+    "type": "MCQ",
+    "options": {
+      "a": "The existence of an objective external world",
+      "b": "The necessary existence of the self as a thinking entity",
+      "c": "The perfection of God",
+      "d": "The trustworthiness of the senses"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 117,
+    "question": "If Epicureanism (Hellenistic) were debated against Stoicism (Hellenistic) regarding emotional engagement, Epicureanism would agree with Stoicism that the ultimate good is virtue itself.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 118,
+    "question": "In a debate on virtue, what would the Stoics argue is the only true good, which Epicureans would dismiss as secondary to painlessness?",
+    "type": "MCQ",
+    "options": {
+      "a": "Wealth and political power",
+      "b": "Pleasure and bodily health",
+      "c": "Virtue itself (living in accord with nature/reason)",
+      "d": "Social reputation"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 119,
+    "question": "If Plato's Cave Allegory (Classical Era) were debated against Empirical Science (Modern Method) regarding truth, Empiricism would assert that direct sensory observation is the primary path to knowledge.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "In a debate on reality, what does the Cave Allegory illustrate, which Empiricism struggles to account for?",
+    "type": "MCQ",
+    "options": {
+      "a": "The need for political revolution",
+      "b": "The existence of a higher, non-sensory truth (the sun/Forms) beyond empirical observation",
+      "c": "The importance of economic class in shaping perception",
+      "d": "The randomness of the universe"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 121,
+    "question": "If Machiavelli's Prince (Renaissance) were debated against Social Contract Theory (Enlightenment) regarding legitimate power, Machiavelli would agree that power is derived from the consent of the governed.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 122,
+    "question": "In a debate on leadership, what virtue would Machiavelli argue is often necessary for a ruler to merely *appear* to possess, even if they must act cruelly in reality?",
+    "type": "MCQ",
+    "options": {
+      "a": "Absolute honesty at all times",
+      "b": "Consistent religious piety",
+      "c": "The appearance of strength, mercy, and faithfulness",
+      "d": "The total absence of personal ambition"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 123,
+    "question": "If Marx's Alienation Theory (19th Century) were debated against Modern Consumerism (20th Century Culture) regarding happiness, Consumerism would assert that self-fulfillment can be achieved through economic acquisition.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 124,
+    "question": "In a debate on labor, what would Marx argue is the fundamental state of separation experienced by a worker who is divorced from the product, the process, and their fellow human beings?",
+    "type": "MCQ",
+    "options": {
+      "a": "Eudaimonia",
+      "b": "The Hegelian Spirit",
+      "c": "Alienation (Entfremdung)",
+      "d": "The State of Nature"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 125,
+    "question": "If Augustine's Original Sin (Early Christian) were debated against Rousseau's Noble Savage (Enlightenment) regarding human nature, Augustine would agree with Rousseau that humans are born morally neutral.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 126,
+    "question": "In a debate on morality, what concept would Augustine use to argue that human nature is inherently flawed and incapable of perfect good without divine grace?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Tabula Rasa",
+      "b": "Original Sin",
+      "c": "The Categorical Imperative",
+      "d": "The Will to Power"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 127,
+    "question": "If Logical Positivism (20th Century) were debated against Heidegger's Hermeneutics (20th Century) regarding interpretation, Hermeneutics would assert that meaning is always dependent on context and the interpreter's historical horizon.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "In a debate on language, what would Logical Positivists argue is the only legitimate use of language, which Heidegger's descriptive metaphysics fails to satisfy?",
+    "type": "MCQ",
+    "options": {
+      "a": "Expressing poetic beauty",
+      "b": "Expressing emotional feeling",
+      "c": "Stating analytic (tautological) or empirically verifiable facts",
+      "d": "Creating political consensus"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 129,
+    "question": "If Hume's Bundle Theory of Self (Empiricism) were debated against Descartes's Dualism (Rationalism) regarding personal identity, Descartes would assert the soul is an immaterial, indivisible substance.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "In a debate on metaphysics, what would Hume argue the 'self' is fundamentally composed of, denying Descartes's simple, unified soul?",
+    "type": "MCQ",
+    "options": {
+      "a": "A continuous, unchanging substance",
+      "b": "A transcendental ego (Kantian view)",
+      "c": "A mere bundle or collection of fleeting perceptions",
+      "d": "A genetically predetermined structure"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 131,
+    "question": "If Aristotle's Four Causes (Classical Era) were debated against Modern Scientific Method (Modern Method) regarding explanation, Modern Science would primarily focus only on the Material and Efficient causes.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 132,
+    "question": "In a debate on purpose, which of Aristotle's causes, dealing with the end goal or function of a thing, does modern science typically exclude from its analysis of physical processes?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Material Cause (what it's made of)",
+      "b": "The Efficient Cause (what made it)",
+      "c": "The Formal Cause (its structure)",
+      "d": "The Final Cause (its purpose or telos)"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 133,
+    "question": "If Nietzsche's Critique of Truth (19th Century) were debated against Scientific Realism (Philosophy of Science) regarding atoms, Nietzsche would agree that scientific truths are verifiable objective facts about the world.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 134,
+    "question": "In a debate on knowledge, what would Nietzsche argue is the fundamental nature of what we call 'truth'?",
+    "type": "MCQ",
+    "options": {
+      "a": "A reflection of the eternal Forms",
+      "b": "A system of universal moral laws",
+      "c": "A necessary form of fiction and useful error for the preservation of the species",
+      "d": "The accumulation of empirical data"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 135,
+    "question": "If Legalism (Classical China) were debated against Confucius's Ren (Classical China) regarding governance, Legalism would oppose Confucius's emphasis on virtuous rulers.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 136,
+    "question": "In a debate on social order, what foundational concept would Legalists argue is the only reliable way to maintain political stability, fundamentally rejecting Confucius's reliance on 'Ren'?",
+    "type": "MCQ",
+    "options": {
+      "a": "Education in the classics",
+      "b": "Unchanging, clearly defined laws enforced through strict punishments and rewards",
+      "c": "The General Will of the people",
+      "d": "The pursuit of Eudaimonia"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 137,
+    "question": "If Epicureanism (Hellenistic) were debated against Ayn Rand's Objectivism (20th Century) regarding motivation, Rand would agree that the highest goal is pleasure, but reject Epicurus's quietism.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 138,
+    "question": "In a debate on virtue, what would Rand argue is the highest moral purpose of an individual's life?",
+    "type": "MCQ",
+    "options": {
+      "a": "Altruism and self-sacrifice",
+      "b": "The achievement of rational self-interest (egoism)",
+      "c": "The elimination of all worldly desires",
+      "d": "Submission to the will of God"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 139,
+    "question": "If Logical Positivism (20th Century) were debated against Social Epistemology (20th Century) regarding knowledge, Social Epistemology would assert that knowledge validity is dependent on social acceptance and consensus.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 140,
+    "question": "In a debate on truth, what would Logical Positivism argue is the only basis for a proposition being true, rejecting the idea of social consensus?",
+    "type": "MCQ",
+    "options": {
+      "a": "Historical precedent",
+      "b": "Its verification through empirical observation or logical analysis",
+      "c": "The economic productivity it generates",
+      "d": "The subjective feeling of certainty"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 141,
+    "question": "If Hume's Skepticism (Empiricism) were debated against Phenomenalism (20th Century) regarding external reality, Phenomenalism would assert that physical objects are merely bundles of actual and possible sense data.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 142,
+    "question": "In a debate on perception, what would Hume argue is the ultimate uncertainty regarding the outside world, opposing Phenomenalism's confidence in sense data?",
+    "type": "MCQ",
+    "options": {
+      "a": "The lack of reliable eyesight in all humans",
+      "b": "The inability to prove the existence of an external object or substance underlying our sensory impressions",
+      "c": "The fact that all sense data is secretly controlled by God",
+      "d": "The random nature of light"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 143,
+    "question": "If Kant's Transcendental Idealism (Enlightenment) were debated against Absolute Idealism (German Idealism) regarding the self, Absolute Idealism would assert that the individual self is merely a moment of the Absolute Spirit.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 144,
+    "question": "In a debate on consciousness, what would Kant argue is the unique, synthetic structure that organizes and structures all human experience, separate from the ultimate reality?",
+    "type": "MCQ",
+    "options": {
+      "a": "The Will to Power",
+      "b": "The Noumenal Realm",
+      "c": "The Transcendental Unity of Apperception",
+      "d": "The Economic Base"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 145,
+    "question": "If Rousseau's Social Contract (Enlightenment) were debated against Burke's Conservatism (18th Century) regarding revolution, Rousseau would agree with Burke that revolution against tradition is always destructive.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 146,
+    "question": "In a debate on liberty, what would Rousseau argue is the only legitimate form of freedom, which requires citizens to obey the collective will they impose upon themselves?",
+    "type": "MCQ",
+    "options": {
+      "a": "Negative liberty (freedom from interference)",
+      "b": "Freedom as defined by ancient custom",
+      "c": "Moral or Civil liberty",
+      "d": "Economic laissez-faire"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 147,
+    "question": "If Nietzsche's Perspectivism (19th Century) were debated against Empiricism (Enlightenment) regarding scientific knowledge, Empiricism would assert that all knowledge derives from objective sense data.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 148,
+    "question": "In a debate on truth, what would Nietzsche argue is the motivating force behind any philosophical or scientific system's claim to objective truth?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pure, disinterested logic",
+      "b": "The Will to Power (the drive to interpret and control)",
+      "c": "Divine revelation",
+      "d": "The need for a social contract"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 149,
+    "question": "If Aristotle's Virtue Ethics (Classical Era) were debated against Kant's Deontology (Enlightenment) regarding compassion, Deontology would assert that moral worth lies in the duty to follow the moral law, not feeling.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 150,
+    "question": "In a debate on goodness, what would Aristotle argue is the ultimate human good, achieved through the practice of rational virtues over a lifetime?",
+    "type": "MCQ",
+    "options": {
+      "a": "Heavenly salvation",
+      "b": "Eudaimonia (flourishing or living well)",
+      "c": "The elimination of all desire",
+      "d": "Submission to the sovereign power"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 151,
+    "question": "If Aquinas's Just War Theory (Medieval) were debated against Realpolitik (19th Century) regarding international conflict, Realpolitik would assert that state action is governed only by self-interest and power.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 152,
+    "question": "In a debate on international relations, what would Aquinas argue is the necessary moral component (Jus in Bello) that governs the way war must be conducted, regardless of its just cause?",
+    "type": "MCQ",
+    "options": {
+      "a": "The principle of total victory",
+      "b": "The principle of non-intervention",
+      "c": "Distinction (non-targeting of non-combatants) and Proportionality",
+      "d": "The immediate surrender of the weaker state"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 153,
+    "question": "If Heidegger's Being and Time (20th Century) were debated against Quine's Ontological Relativity (Analytic Philosophy) regarding existence, Heidegger would agree that existence is only meaningful within a linguistic conceptual framework.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 154,
+    "question": "In a debate on consciousness, what would Heidegger argue is the essential mode of human existence (Dasein) that is fundamentally oriented toward its own temporality and mortality?",
+    "type": "MCQ",
+    "options": {
+      "a": "The aesthetic stage",
+      "b": "Being-towards-death",
+      "c": "The General Will",
+      "d": "The noumenal self"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 155,
+    "question": "If Locke's Tabula Rasa (Enlightenment) were debated against Chomsky's Universal Grammar (20th Century) regarding thought, Chomsky would assert that the human mind has innate, pre-wired structures for language.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 156,
+    "question": "In a debate on knowledge, what would Locke argue is the source of all knowledge, which fundamentally opposes Chomsky's Nativism?",
+    "type": "MCQ",
+    "options": {
+      "a": "Direct sensory experience (sensation and reflection)",
+      "b": "A priori mathematical truth",
+      "c": "Genetic memory passed down through generations",
+      "d": "The non-physical soul"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 157,
+    "question": "If Marx's Historical Materialism (19th Century) were debated against Hegel's Absolute Idealism (German Idealism) regarding reality, Hegel would assert that reality is fundamentally spiritual and rational, not material.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 158,
+    "question": "In a debate on society, what would Marx argue is the fundamental engine that drives all historical change and societal development?",
+    "type": "MCQ",
+    "options": {
+      "a": "The evolution of the Absolute Spirit",
+      "b": "The conflict between classes over the means of production",
+      "c": "The growth of human reason",
+      "d": "The universal search for beauty"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 159,
+    "question": "If Socrates's Method (Classical Era) were debated against Post-Structuralism (20th Century) regarding certainty, Post-Structuralism would assert that truth is merely a product of shifting language and power structures.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 160,
+    "question": "In a debate on knowledge, what would Socrates argue is the purpose of philosophy, which modern relativism challenges?",
+    "type": "MCQ",
+    "options": {
+      "a": "To eliminate the need for laws",
+      "b": "To achieve a clear, objective understanding of truth and virtue (Elenchus)",
+      "c": "To maximize one's subjective pleasure",
+      "d": "To document historical events"
+    },
+    "answer": "b"
   }
 ]

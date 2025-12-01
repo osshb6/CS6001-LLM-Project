@@ -1,1000 +1,1762 @@
 [
   {
     "question_id": 1,
-    "question": "If the discovery of human mitochondrial Eve had never occurred, later discoveries about global population divergence would have lacked a unified genetic starting point.",
+    "question": "If the discovery of the electron by J.J. Thomson in 1897 had never happened, the later discovery of the proton would still have been possible using cathode ray tubes.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 2,
-    "question": "If the discovery of the Indo-European language family had not occurred, which later discovery would have lacked crucial linguistic evidence?",
+    "question": "If Mendel's laws of inheritance (1860s) had never been published, how would it have impacted the discovery of DNA structure by Watson and Crick (1953)?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of prehistoric migration routes into Europe and South Asia",
-      "b": "The discovery of coral reef ecosystems",
-      "c": "The discovery of chemical valence rules",
-      "d": "The discovery of lunar volcanic plains"
+      "a": "DNA would have been dismissed as irrelevant due to lack of a functional unit (gene) context.",
+      "b": "The structural determination would have been impossible without Mendelian ratios.",
+      "c": "The discovery would have been unaffected, as DNA structure is a chemical problem.",
+      "d": "Genetic linkage would have been discovered much earlier."
     },
     "answer": "a"
   },
   {
     "question_id": 3,
-    "question": "If the discovery that Neanderthals interbred with modern humans had not occurred, explanations for certain immune gene patterns would remain incomplete.",
+    "question": "If Galileo's telescopic observations (1609) confirming Copernicus never occurred, Newton's formulation of universal gravitation (1687) would have lacked key empirical evidence for orbital mechanics.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 4,
-    "question": "Which later discovery would be harder to explain if ancient Denisovan DNA had never been discovered?",
+    "question": "If the discovery of penicillin by Alexander Fleming (1928) had never happened, how would it have impacted the development of synthetic antibiotics (1940s-1950s)?",
     "type": "MCQ",
     "options": {
-      "a": "The unique genetic adaptations to high altitude in Tibetan populations",
-      "b": "The rotational speed of Earth",
-      "c": "The origin of the Fibonacci sequence",
-      "d": "The formation of stalactites"
+      "a": "The development would have been much faster without the distraction of natural compounds.",
+      "b": "The concept of antimicrobial action would be delayed, slowing down all subsequent drug discovery.",
+      "c": "The discovery would have been irrelevant, as synthetic drugs are chemically distinct.",
+      "d": "Vaccine development would have been prioritized instead."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 5,
-    "question": "If the discovery of continental outlines matching across oceans had never occurred, evidence for early supercontinents would remain speculative.",
+    "question": "If Faraday's discovery of electromagnetic induction (1831) had never happened, Maxwell's equations of electromagnetism (1860s) could still have been completed based solely on existing electrical data.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 6,
-    "question": "If the discovery of the African Rift Valley fossils had not occurred, which later discovery about human evolution would face major setbacks?",
+    "question": "If the discovery of cosmic background radiation (CMB) by Penzias and Wilson (1964) had never happened, how would it impact the acceptance of the Big Bang theory?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of the timeline for bipedal evolution",
-      "b": "The discovery of electron spin",
-      "c": "The discovery of atmospheric layers",
-      "d": "The discovery of ocean salinity changes"
+      "a": "The Steady State theory would become the universally accepted model.",
+      "b": "CMB is a fundamental piece of evidence, so the Big Bang model would remain an unproven hypothesis.",
+      "c": "The model would be easily proven using gravitational wave data alone.",
+      "d": "CMB only confirms galaxy formation, not the origin of the universe."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 7,
-    "question": "If the discovery of ancient Sumerian writing tablets had never occurred, historians would lack direct evidence for urban economic systems in early civilizations.",
+    "question": "If Pasteur's germ theory of disease (1860s) had never been accepted, Koch's postulates (1880s) for linking specific microbes to diseases would still be widely applicable in medicine.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 8,
-    "question": "If the discovery of the Rosetta Stone had never occurred, which other major historical discovery would have been blocked?",
+    "question": "If the discovery of the first exoplanet (1992, 1995) had never occurred, how would it impact the search for extraterrestrial life (SETI)?",
     "type": "MCQ",
     "options": {
-      "a": "The deciphering of Egyptian hieroglyphs",
-      "b": "The discovery of black hole spin",
-      "c": "The discovery of plant transpiration",
-      "d": "The discovery of Keynesian macroeconomics"
+      "a": "SETI funding would increase to compensate for the lack of visual evidence.",
+      "b": "SETI would continue unaffected, as it relies on radio waves, not direct observation.",
+      "c": "The search would lack tangible targets and justification, severely limiting research.",
+      "d": "The focus would shift entirely to discovering life on Mars."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 9,
-    "question": "If the discovery of the Bering land bridge migration evidence had not occurred, models of early American population routes would lack coherence.",
+    "question": "If Hooke's coining of the term 'cell' and early microscope work (1665) never happened, Schleiden and Schwann's development of cell theory (1830s) would have happened without delay.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 10,
-    "question": "If the discovery of Clovis archaeological sites had not occurred, which later discovery about ancient American cultures would lack context?",
+    "question": "If the discovery of the structure of benzene by Kekulé (1865) had never happened, how would it impact the development of modern organic chemistry?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of pre-Clovis coastal migration evidence",
-      "b": "The discovery of the prime meridian",
-      "c": "The discovery of oxygen isotopes",
-      "d": "The discovery of blue whales' feeding patterns"
+      "a": "Synthetic dye industries would collapse completely.",
+      "b": "The understanding of aromaticity and large ring structures would be drastically impaired.",
+      "c": "The concept of isomers would be rejected entirely.",
+      "d": "Kekulé's work was largely theoretical and had little practical impact."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 11,
-    "question": "If the discovery of the greenhouse effect by Fourier had never happened, later climate change discoveries would lack a fundamental mechanism for heat trapping.",
+    "question": "If Vesalius's detailed anatomical drawings (1543) had never been published, later discoveries in human physiology (e.g., Harvey's circulation) would still have been equally accurate.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 12,
-    "question": "If the discovery of the ozone hole had not occurred, what later discovery would lack environmental urgency?",
+    "question": "If Hubble's discovery of the expanding universe (1929) had never happened, how would it impact the development of the theory of cosmic inflation (1980s)?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of harmful UV-induced DNA mutations in ecosystems",
-      "b": "The discovery of continental erosion patterns",
-      "c": "The discovery of glacial moraine distribution",
-      "d": "The discovery of whale infrasound communication"
+      "a": "Inflation would be accepted earlier, as there would be less contradictory data.",
+      "b": "The concept of an early, rapid expansion would lack context and evidence, delaying its conception.",
+      "c": "Inflationary theory would be solely reliant on particle physics predictions.",
+      "d": "Redshift data would still provide sufficient proof of expansion."
     },
     "answer": "a"
   },
-
   {
     "question_id": 13,
-    "question": "If the discovery of general relativity had not occurred, the later discovery of gravitational lensing would be mathematically unsupported.",
+    "question": "If Dalton's atomic theory (1803) proving matter is composed of indivisible atoms had never been established, the discovery of isotopes (early 1900s) would still have occurred easily.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 14,
-    "question": "If the discovery of cosmic expansion had not been made, which later discovery would struggle for validation?",
+    "question": "If the discovery of continental drift by Wegener (1912) had never happened, how would it impact the discovery of plate tectonics (1960s)?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of dark energy acceleration",
-      "b": "The discovery of bronze metallurgy",
-      "c": "The discovery of Neolithic crop rotations",
-      "d": "The discovery of Indo-Pacific language families"
+      "a": "The discovery of mid-ocean ridges would still provide immediate proof of movement.",
+      "b": "The lack of an initial, overarching hypothesis would severely delay the synthesis of geological data.",
+      "c": "The concept of mantle convection would be universally rejected.",
+      "d": "Seafloor spreading would have been named 'mantle sliding'."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 15,
-    "question": "If the discovery of classical conditioning by Pavlov had never occurred, many discoveries in behavioral psychology would lack foundational experimental structure.",
+    "question": "If Planck's discovery of energy quantization (1900) never happened, Einstein's theory of general relativity (1915) would still revolutionize physics equally.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 16,
-    "question": "If the discovery of cognitive biases by Tversky and Kahneman had not occurred, which later discovery would be weakened?",
+    "question": "If the discovery of the double helix structure of DNA (1953) had never happened, how would it impact the development of genetic engineering (1970s)?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of behavioral economics deviations from rational choice theory",
-      "b": "The discovery of Arctic permafrost layers",
-      "c": "The discovery of quantum tunneling",
-      "d": "The discovery of primate bone density"
+      "a": "Gene editing would be unaffected, as it is a chemical process.",
+      "b": "The foundational understanding of replication and coding would be missing, preventing targeted manipulation.",
+      "c": "Sequencing technologies would have been developed much earlier.",
+      "d": "The discovery of restriction enzymes would be useless."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 17,
-    "question": "If the discovery of microplastics in oceans had never emerged, ecological studies on marine food webs would lack crucial contamination evidence.",
+    "question": "If Harvey's discovery of blood circulation (1628) never happened, later discoveries in endocrinology (hormones) would still have a clear understanding of systemic transport.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 18,
-    "question": "If the discovery of deep-sea hydrothermal vents had not occurred, which later discovery about life’s origins would be ungrounded?",
+    "question": "If Priestley's discovery of oxygen (1774) had never happened, how would it impact Lavoisier's theory of combustion?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of chemosynthetic ecosystems",
-      "b": "The discovery of prime number distribution",
-      "c": "The discovery of language acquisition stages",
-      "d": "The discovery of Bronze Age trade networks"
+      "a": "Combustion theory would remain based on the phlogiston concept.",
+      "b": "Lavoisier would still correctly identify the element through other means.",
+      "c": "Water would be identified as the main combustive element.",
+      "d": "The conservation of mass principle would be proven false."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 19,
-    "question": "If the discovery of linguistic phonemes had never occurred, later structural linguistics would lack a standard unit of speech analysis.",
+    "question": "If Roentgen's discovery of X-rays (1895) never happened, Curie's discovery of radioactivity (1898) would still have occurred simultaneously.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 20,
-    "question": "If the discovery of the Afro-Asiatic language family had not occurred, which later discovery would lack crucial comparative evidence?",
+    "question": "If the discovery of the neuron by Ramón y Cajal (late 1800s) had never happened, how would it impact the development of modern neuroscience?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of ancient North African migration patterns",
-      "b": "The discovery of glacial retreat cycles",
-      "c": "The discovery of radio spectral lines",
-      "d": "The discovery of primate tool usage"
+      "a": "Neural communication would be attributed to simple electrical wires.",
+      "b": "The field would lack the foundational 'neuron doctrine' and struggle to map circuits.",
+      "c": "Neurotransmitters would be discovered much earlier.",
+      "d": "The brain would be studied primarily through phrenology."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 21,
-    "question": "If the discovery of Gödel’s incompleteness theorems never happened, limits of formal mathematical systems would remain misunderstood across logic and computer science.",
+    "question": "If Leavitt's period-luminosity relationship for Cepheids (1912) never happened, Hubble's determination of extragalactic distances (1920s) would still have been easily calculated.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 22,
-    "question": "If the discovery of imaginary numbers had not occurred, which later discovery would lack mathematical feasibility?",
+    "question": "If the discovery of the transistor (1947) had never happened, how would it impact the development of integrated circuits and microprocessors?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of complex Fourier analysis",
-      "b": "The discovery of coral reef zonation",
-      "c": "The discovery of atmospheric Hadley cells",
-      "d": "The discovery of primate bipedalism"
+      "a": "Vacuum tubes would be miniaturized to perform the same function efficiently.",
+      "b": "The foundation for solid-state digital electronics would be missing, halting the computer revolution.",
+      "c": "Analog computing would dominate all fields indefinitely.",
+      "d": "Microprocessors would still be invented using purely mechanical means."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 23,
-    "question": "If the discovery of ancient water channels in Mesopotamia had not occurred, later discoveries about early irrigation societies would remain incomplete.",
+    "question": "If Galen's incorrect anatomical theories (2nd Century AD) had never dominated medicine for centuries, later Renaissance anatomists would have a perfect understanding of the human body immediately.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 24,
-    "question": "If the discovery of the Harappan drainage system had not occurred, which later discovery would lack crucial architectural comparison?",
+    "question": "If Oersted's discovery of electromagnetism (1820) had never happened, how would it impact the development of the electric motor?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of Roman aqueduct engineering parallels",
-      "b": "The discovery of DNA transcription",
-      "c": "The discovery of magnetic field reversal",
-      "d": "The discovery of ionospheric scattering"
+      "a": "Electric motors would have been invented much earlier by focusing on magnetism alone.",
+      "b": "The underlying principle linking electricity and motion would be unknown, severely delaying the motor's invention.",
+      "c": "Motors would be powered solely by static electricity.",
+      "d": "Steam engines would become 100% efficient."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 25,
-    "question": "If the discovery of Polynesian wayfinding star charts had never occurred, later findings on transoceanic migration would lack direct navigational evidence.",
+    "question": "If Lister's adoption of antiseptic surgery (1860s) never happened, modern hospital infection control would still emerge at the same time through better hygiene.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 26,
-    "question": "If the discovery of Saharan fossil riverbeds had not occurred, which later discovery would face interpretation issues?",
+    "question": "If the discovery of viruses by Ivanovsky and Beijerinck (late 1800s) had never happened, how would it impact the development of modern virology and vaccines?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of ancient human migration corridors into the Mediterranean",
-      "b": "The discovery of gravitational lensing",
-      "c": "The discovery of psycholinguistic working memory",
-      "d": "The discovery of freshwater thermoclines"
+      "a": "All diseases would be mistakenly attributed to bacteria or fungi.",
+      "b": "The concept of non-cellular pathogens would be missing, halting research into many diseases.",
+      "c": "Genetic analysis would easily prove the existence of viruses.",
+      "d": "The smallpox vaccine would become ineffective."
     },
     "answer": "a"
   },
-
   {
     "question_id": 27,
-    "question": "If the discovery of human mirror neurons never occurred, explanations for empathy and imitation in psychology would remain speculative.",
+    "question": "If Rutherford's gold foil experiment (1911) proving the nuclear atom never happened, Bohr's model of the atom (1913) could still be formulated based only on spectral lines.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 28,
-    "question": "If the discovery of REM sleep patterns had not occurred, which later discovery would be less understood?",
+    "question": "If Sagan's popularization of the 'Pale Blue Dot' image (1990) had never happened, how would it impact global environmental policy and space exploration funding?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of memory consolidation during sleep",
-      "b": "The discovery of atmospheric convection",
-      "c": "The discovery of ancient pottery glazing",
-      "d": "The discovery of quasar redshifts"
+      "a": "The image had no measurable impact, so policy would be unchanged.",
+      "b": "The visceral realization of Earth's fragility would be less widespread, potentially slowing environmental movements.",
+      "c": "Funding for deep space probes would increase due to less emotional attachment to Earth.",
+      "d": "The public would assume space exploration had already found another habitable planet."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 29,
-    "question": "If the discovery of the Mediterranean Bronze Age trade network had never been made, later discoveries about cultural diffusion would lack strong archaeological evidence.",
+    "question": "If Jenner's smallpox vaccine (1796) never happened, Pasteur's later vaccine discoveries (e.g., rabies) would have occurred earlier due to increased urgency.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 30,
-    "question": "If the discovery of Viking presence in North America had not occurred, which later discovery would lose historical context?",
+    "question": "If the discovery of the accelerating expansion of the universe (1998) had never happened, how would it impact the development of dark energy theory?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of pre-Columbian transatlantic contact",
-      "b": "The discovery of desert dune dynamics",
-      "c": "The discovery of primate hormone cycles",
-      "d": "The discovery of mantle plume hotspots"
+      "a": "Dark energy would still be proposed to explain the existence of dark matter.",
+      "b": "The primary observational evidence for dark energy would be missing, making it purely speculative.",
+      "c": "The Standard Model of particle physics would collapse instantly.",
+      "d": "Astronomers would assume the universe was contracting instead."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 31,
-    "question": "If the discovery of ancient Mayan astronomical observatories had never occurred, interpretations of premodern calendrical accuracy would remain underestimated.",
+    "question": "If Avogadro's determination of molecular quantity (1811) never happened, Cannizzaro's later atomic weight standardization (1860) would still provide a universal scale.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 32,
-    "question": "If the discovery of Babylonian trigonometric tablets had not occurred, which later discovery would lack historical continuity?",
+    "question": "If the discovery of cosmic rays by Hess (1912) had never happened, how would it impact modern particle physics accelerators?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of modern trigonometric identities",
-      "b": "The discovery of hydrothermal vents",
-      "c": "The discovery of oceanic salinity layers",
-      "d": "The discovery of seagrass pollination"
+      "a": "Particle accelerators would have been invented much earlier to create high-energy collisions.",
+      "b": "Accelerators would still be developed, but lacking the initial understanding of high-energy natural phenomena.",
+      "c": "The concept of particle decay would be rejected entirely.",
+      "d": "Cosmic ray research is unrelated to terrestrial physics."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 33,
-    "question": "If the discovery of ancient Australian rock art dating had never occurred, interpretations of early symbolic cognition would lack chronological anchors.",
+    "question": "If Watson and Crick's DNA model (1953) never happened, the Human Genome Project (1990s) would still proceed based on existing genetic data.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 34,
-    "question": "If the discovery of the Denisovan cave genome had never happened, which later discovery would lack comparative data?",
+    "question": "If the discovery of artificial radioactivity by the Curies (1934) had never happened, how would it impact the development of nuclear medicine?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of gene flow between Denisovans and Southeast Asian islander populations",
-      "b": "The discovery of atmospheric jet streams",
-      "c": "The discovery of lunar permafrost",
-      "d": "The discovery of neural axon regeneration"
+      "a": "Nuclear medicine would rely solely on naturally occurring unstable isotopes.",
+      "b": "Medical imaging would shift entirely to X-rays and MRI technology.",
+      "c": "The ability to produce targeted isotopes for therapy and imaging would be severely limited.",
+      "d": "Artificial isotopes are too unstable for medical use anyway."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 35,
-    "question": "If the discovery of medieval Islamic algebra manuscripts had not occurred, the history of mathematical development would lack key transitional evidence.",
+    "question": "If Semmelweis's promotion of handwashing (1847) never happened, later discoveries in microbiology would still quickly lead to universal hospital cleanliness.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 36,
-    "question": "If the discovery of irrational numbers had never occurred, which later discovery in mathematics would be obstructed?",
+    "question": "If Edison's invention of the practical light bulb (1879) had never happened, how would it impact the development of alternating current (AC) power grids?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of real number completeness",
-      "b": "The discovery of desert dust storms",
-      "c": "The discovery of whale blood oxygenation",
-      "d": "The discovery of basalt column formation"
+      "a": "AC power grids would be useless without a standardized consumer endpoint.",
+      "b": "Lighting would be provided by gas, but AC power distribution would still develop for industrial use.",
+      "c": "AC power grids would be invented much earlier and dominate all forms of energy distribution.",
+      "d": "Electric power itself would be rejected due to high costs."
     },
     "answer": "a"
   },
-
   {
     "question_id": 37,
-    "question": "If the discovery of Homo floresiensis fossils had never occurred, interpretations of human species diversity would remain narrower.",
+    "question": "If Mendeleev's periodic law (1869) never happened, the discovery of the noble gases (late 1800s) would still provide a simple, immediate organizational structure.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 38,
-    "question": "If the discovery of ancient Polynesian DNA signatures had not occurred, which later discovery would struggle for confirmation?",
+    "question": "If the discovery of the photoelectric effect by Hertz (1887) had never happened, how would it impact Einstein's theory of light quantization (1905)?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of Polynesian–South American contact probabilities",
-      "b": "The discovery of the ozone layer",
-      "c": "The discovery of Arctic ice core CO₂",
-      "d": "The discovery of amphibian respiration cycles"
+      "a": "Einstein's work would have been irrelevant, as the two phenomena are unrelated.",
+      "b": "The key experimental evidence proving light behaves as particles (photons) would be missing, delaying quantum theory.",
+      "c": "Light would be classified only as a wave phenomenon indefinitely.",
+      "d": "The speed of light would be proven variable."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 39,
-    "question": "If the discovery of the Silk Road’s full geographical extent had not occurred, later discoveries about cross-cultural exchange of ideas would lack infrastructural proof.",
+    "question": "If Ptolemy's geocentric model (2nd Century AD) never dominated astronomy, Kepler's laws of planetary motion (1600s) would have been discovered much earlier.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 40,
-    "question": "If the discovery of ancient Chinese seismographs had not occurred, which later discovery would lack technological lineage?",
+    "question": "If the discovery of insulin by Banting and Best (1921) had never happened, how would it impact the understanding of metabolic diseases?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of early earthquake detection principles",
-      "b": "The discovery of Martian basalt fields",
-      "c": "The discovery of symbiotic nitrogen fixation",
-      "d": "The discovery of social contract theory"
+      "a": "Diabetes would remain a fatal wasting disease with limited understanding of its cause.",
+      "b": "Doctors would still be able to treat diabetes effectively with diet alone.",
+      "c": "Endocrinology would focus entirely on thyroid disorders.",
+      "d": "The function of the pancreas would be entirely unknown."
     },
     "answer": "a"
   },
-
   {
     "question_id": 41,
-    "question": "If the discovery of Bronze Age metallurgy techniques had never been made, interpretations of early economic specialization would lack technological clarity.",
+    "question": "If Darwin's theory of evolution (1859) never happened, modern synthesis of genetics and evolution (1930s) would still proceed based on independent gene studies.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 42,
-    "question": "If the discovery of obsidian trade routes had not occurred, which later discovery would lack evidence for prehistoric long-distance exchange?",
+    "question": "If the discovery of the circulation of the atmosphere (Hadley cells) (1735) had never happened, how would it impact modern meteorology and climate modeling?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of tool material sourcing across continents",
-      "b": "The discovery of oceanic plate subduction",
-      "c": "The discovery of primate neocortex layering",
-      "d": "The discovery of nocturnal floral pollination"
+      "a": "Weather patterns would be correctly predicted using only local data.",
+      "b": "The fundamental understanding of global heat and moisture distribution would be missing.",
+      "c": "Numerical weather prediction would become entirely impossible.",
+      "d": "Air travel routes would be completely unaffected."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 43,
-    "question": "If the discovery of the Gregorian calendar’s astronomical basis had never occurred, timekeeping refinements in later eras would remain misaligned with solar cycles.",
+    "question": "If Newcomen's steam engine (1712) never happened, Watt's improved steam engine (1769) could still be designed with the same thermal efficiency.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 44,
-    "question": "If the discovery that the Nile flooded seasonally based on Ethiopian rainfall had not occurred, which later discovery would lack environmental coherence?",
+    "question": "If the discovery of the structure of the atom by Rutherford and Bohr (1913) had never happened, how would it impact the development of quantum mechanics?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of ancient Egypt’s agricultural cycles",
-      "b": "The discovery of protein tertiary structures",
-      "c": "The discovery of gravitational waveforms",
-      "d": "The discovery of plate boundary rifting"
+      "a": "Quantum mechanics would still focus solely on wave-particle duality.",
+      "b": "The necessary structural context for developing wave equations (Schrödinger) would be absent.",
+      "c": "Classical physics would be proven correct and final.",
+      "d": "Chemical bonding theory would be completely unaffected."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 45,
-    "question": "If the discovery of Catalhöyük’s urban planning had not occurred, theories of early proto-cities would lack archaeological examples.",
+    "question": "If Einstein's theory of special relativity (1905) never happened, the discovery of the neutrino (1950s) would still have occurred on the same timeline.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 46,
-    "question": "If the discovery of Gobekli Tepe’s ritual structures had not happened, which later discovery would remain difficult to contextualize?",
+    "question": "If the discovery of the structure of insulin by Sanger (1955) had never happened, how would it impact the development of recombinant DNA technology?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery that cosmology and architecture intersected in early societies",
-      "b": "The discovery of neutron star densities",
-      "c": "The discovery of tectonic slab pull forces",
-      "d": "The discovery of insect colony chemical signaling"
+      "a": "The discovery provided the first detailed protein sequence, necessary for later genetic manipulation techniques.",
+      "b": "Protein sequencing is irrelevant to gene technology.",
+      "c": "All drugs would rely on chemical synthesis instead of biological production.",
+      "d": "Recombinant DNA would still be developed, but only for plant genetics."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 47,
-    "question": "If the discovery of ancient Greek proofs had never occurred, modern mathematical rigor would lack historical grounding in deductive reasoning.",
+    "question": "If Kepler's laws of planetary motion (1600s) never happened, Newton's Law of Universal Gravitation (1687) would have the same level of empirical support.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 48,
-    "question": "If the discovery of non-Euclidean geometry had not occurred, which later discovery would lack theoretical foundation?",
+    "question": "If Hertz's demonstration of radio waves (1887) had never happened, how would it impact the development of wireless communication technology by Marconi (1890s)?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of curved spacetime in general relativity",
-      "b": "The discovery of coral polysaccharide structures",
-      "c": "The discovery of auditory cortex tonotopy",
-      "d": "The discovery of tree ring climate proxies"
+      "a": "Marconi's work was based on existing telegraphy, so it would be unaffected.",
+      "b": "The experimental proof of Maxwell's theory (radio waves) would be missing, severely delaying practical application.",
+      "c": "Communication would rely solely on infrared light transmission.",
+      "d": "Hertz's work was purely academic with no industrial impact."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 49,
-    "question": "If the discovery of Bronze Age writing systems had not occurred, the historical chronology of early kingdoms would be largely speculative.",
+    "question": "If Galileo's law of falling bodies (late 1500s) never happened, Newton's laws of motion (1687) could still be derived from entirely different empirical observations.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 50,
-    "question": "If the discovery of ancient river delta settlements had not occurred, what later discovery would lose cultural context?",
+    "question": "If the discovery of prions (Stanley Prusiner, 1982) had never happened, how would it impact the understanding of neurodegenerative diseases?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of maritime trade evolution",
-      "b": "The discovery of DNA methylation",
-      "c": "The discovery of quasar jets",
-      "d": "The discovery of atmospheric standing waves"
+      "a": "All neurodegenerative diseases would be solely attributed to viral or genetic causes.",
+      "b": "The concept of misfolded proteins transmitting disease would be missing, blocking research paths for Alzheimer's/Parkinson's.",
+      "c": "Prion diseases would still be curable with antibiotics.",
+      "d": "Prion proteins are irrelevant outside of sheep diseases."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 51,
-    "question": "If the discovery of human cognitive development stages never occurred, educational psychology models would lack foundational progression theories.",
+    "question": "If Leibniz's invention of calculus (1680s) never happened, Euler's contributions to mathematics (1700s) would still have the same formal notation and rigor.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 52,
-    "question": "If the discovery of attention span limits had not occurred, which later discovery in user-experience design would be weakened?",
+    "question": "If the discovery of anesthetics (mid-1800s) had never happened, how would it impact the development of modern surgery?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of interface cognitive load thresholds",
-      "b": "The discovery of seamount chains",
-      "c": "The discovery of coral reef chemotypes",
-      "d": "The discovery of cosmic ray scattering"
+      "a": "Surgery would remain limited to rapid, surface procedures due to patient pain and shock.",
+      "b": "Pain management would shift entirely to hypnosis and herbal remedies.",
+      "c": "Surgical techniques would continue to advance regardless of patient comfort.",
+      "d": "Infection control would become irrelevant due to quick procedures."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 53,
-    "question": "If the discovery of macroeconomic boom-bust cycles had not occurred, later discoveries about systemic financial risk would remain disconnected.",
+    "question": "If Soddy's discovery of isotopes (1913) never happened, Chadwick's discovery of the neutron (1932) would still easily resolve the mass discrepancy in the atomic nucleus.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 54,
-    "question": "If the discovery of supply-and-demand equilibrium had not occurred, which later economic discovery would lack its mathematical basis?",
+    "question": "If the discovery of the transistor (1947) had never happened, how would it impact modern rocketry and space travel guidance systems?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of price elasticity theory",
-      "b": "The discovery of basalt pillow lavas",
-      "c": "The discovery of synaptic pruning",
-      "d": "The discovery of atmospheric tides"
+      "a": "Guidance systems would be unaffected, relying on mechanical gyroscopes.",
+      "b": "The required miniaturization and computing power would be impossible, halting complex missions like the Apollo program.",
+      "c": "Rockets would be powered by static electricity.",
+      "d": "Space travel would shift entirely to unmanned probes."
     },
     "answer": "a"
   },
-
   {
     "question_id": 55,
-    "question": "If the discovery of human serotonin pathways had not occurred, neuroscience explanations of mood regulation would lack biochemical grounding.",
+    "question": "If Banting and Best's discovery of insulin (1921) never happened, the mechanism of glucose regulation would still be immediately understood.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 56,
-    "question": "If the discovery of neuroplasticity had never been made, which later discovery would lack mechanistic explanation?",
+    "question": "If Sauerbruch's pressurized chamber for chest surgery (early 1900s) had never happened, how would it impact the survival rate of open-chest surgery?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of post-stroke cognitive recovery patterns",
-      "b": "The discovery of river bedload transport",
-      "c": "The discovery of Jovian atmosphere bands",
-      "d": "The discovery of plant root tropisms"
+      "a": "The survival rate would be unaffected due to improved infection control.",
+      "b": "Open-chest procedures would remain nearly 100% fatal due to lung collapse (pneumothorax).",
+      "c": "Surgeons would perform operations using underwater tanks.",
+      "d": "The focus would shift entirely to heart transplants."
     },
     "answer": "a"
   },
-
   {
     "question_id": 57,
-    "question": "If the discovery of the El Niño climate oscillation had never occurred, global weather prediction discoveries would suffer significant uncertainty.",
+    "question": "If Huygens' wave theory of light (1678) never happened, Young's double-slit experiment (1801) would still easily demonstrate the wave nature of light.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 58,
-    "question": "If the discovery of monsoon cycle dynamics had not occurred, which later discovery would lack climatic grounding?",
+    "question": "If the discovery of neurotransmitters (Loewi, 1920s) had never happened, how would it impact modern psychiatric pharmacology?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of Indian Ocean dipole patterns",
-      "b": "The discovery of genomic imprinting",
-      "c": "The discovery of atherosclerotic plaque",
-      "d": "The discovery of subglacial volcanic eruptions"
+      "a": "Mental illness would be solely treated through talk therapy.",
+      "b": "Drug development would continue, but without precise targets for chemical action in the brain.",
+      "c": "Neuroscience would focus entirely on genetic causes.",
+      "d": "The brain would be considered an electrical organ only."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 59,
-    "question": "If the discovery of ancient Greek democratic assemblies had never occurred, later political science discoveries about participatory governance would lack comparative origins.",
+    "question": "If Copernicus's heliocentric model (1543) never happened, Kepler's laws of planetary motion (1600s) would still be formulated with the Earth at the center.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 60,
-    "question": "If the discovery of the Roman legal code had not occurred, which later discovery would lack historical precedent?",
+    "question": "If Landsteiner's discovery of blood groups (1901) had never happened, how would it impact modern transfusion medicine?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of modern civil law foundations",
-      "b": "The discovery of stellar evolution",
-      "c": "The discovery of freshwater stratification",
-      "d": "The discovery of coral reproductive cycles"
+      "a": "Transfusions would be safer, relying on universal donors.",
+      "b": "Transfusion medicine would be rendered almost impossible due to fatal reactions.",
+      "c": "Blood sampling techniques would shift entirely to bone marrow.",
+      "d": "Only plasma would be transfused."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 61,
-    "question": "If the discovery of ocean floor magnetic striping never occurred, evidence for plate spreading would be far weaker.",
+    "question": "If Hofmann's synthesis of aspirin (1897) never happened, the understanding of the pain pathway (prostaglandins) would still progress independently.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 62,
-    "question": "If the discovery of deep Earth seismic shadow zones had not occurred, which later discovery would be unclear?",
+    "question": "If the discovery of cosmic background radiation (CMB) (1964) had never happened, how would it impact the measurement of the universe's age?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of Earth’s liquid outer core",
-      "b": "The discovery of amphibian metamorphosis",
-      "c": "The discovery of neolithic pottery kilns",
-      "d": "The discovery of coral mucus chemistry"
+      "a": "The universe's age would be solely determined by gravitational data.",
+      "b": "The most precise and primary evidence for the early universe's temperature and age would be missing.",
+      "c": "Radio astronomy would cease to exist entirely.",
+      "d": "The age would be proven infinite."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 63,
-    "question": "If the discovery of snowball Earth geological evidence had not occurred, later discoveries about global climate cycles would lack extreme-case studies.",
+    "question": "If Pascal's laws of fluid pressure (1653) never happened, hydraulic machinery (19th century onwards) would still have been designed with the same mechanical efficiency.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 64,
-    "question": "If the discovery of glacial varves had never been made, which later discovery would struggle to emerge?",
+    "question": "If the discovery of dark matter (Zwicky, 1930s) had never happened, how would it impact modern cosmology and galaxy formation theories?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of annual paleoclimate dating",
-      "b": "The discovery of heliocentric orbital tilt",
-      "c": "The discovery of linguistic tone shifts",
-      "d": "The discovery of cetacean hearing ranges"
+      "a": "Galaxy rotation curves would be easily explained by visible matter alone.",
+      "b": "The gravitational discrepancies in the universe would remain unexplained, potentially leading to new theories of gravity.",
+      "c": "The Big Bang theory would be rejected instantly.",
+      "d": "Dark matter is irrelevant to galaxy formation."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 65,
-    "question": "If the discovery of archaic trade weights had never occurred, the study of early standardization systems would lack empirical evidence.",
+    "question": "If Lyell's geological uniformitarianism (1830s) never happened, Darwin's theory of evolution (1859) would still have sufficient time depth for natural selection to act.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 66,
-    "question": "If the discovery of ancient currency hoards had not occurred, which later discovery would lack comparative data?",
+    "question": "If the discovery of the cosmic microwave background (CMB) (1964) had never happened, how would it impact measuring the geometry of the universe?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of regional economic integration levels",
-      "b": "The discovery of atmospheric vortex rings",
-      "c": "The discovery of yeast fermentation",
-      "d": "The discovery of cosmic dust mineralogy"
+      "a": "The geometry would be easily measured using visible light telescopes.",
+      "b": "CMB provides a key measurement of the universe's early curvature, which would be extremely difficult to determine otherwise.",
+      "c": "Astrophysicists would assume the universe is flat.",
+      "d": "General Relativity would prove the geometry is a sphere."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 67,
-    "question": "If the discovery of human cultural hearth regions had not occurred, patterns of early innovation diffusion would remain poorly explained.",
+    "question": "If Da Vinci's anatomical observations (15th century) never happened, Vesalius's later foundational anatomical work (1543) would still have the same accuracy.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 68,
-    "question": "If the discovery of Austronesian expansion evidence had never occurred, which later discovery would lose coherence?",
+    "question": "If Chadwick's discovery of the neutron (1932) had never happened, how would it impact the development of nuclear fission and atomic energy?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of Lapita pottery distribution",
-      "b": "The discovery of quasar microlensing",
-      "c": "The discovery of cytokine storms",
-      "d": "The discovery of lithospheric delamination"
+      "a": "Fission would rely on protons and electrons, achieving the same efficiency.",
+      "b": "The primary neutral particle required to initiate the chain reaction would be unknown, halting nuclear technology.",
+      "c": "The atom would be proven indivisible.",
+      "d": "Nuclear reactors would be built using only naturally radioactive materials."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 69,
-    "question": "If the discovery of ancient flood myths alignment across cultures had not occurred, comparative mythology discoveries would lack cross-civilizational support.",
+    "question": "If Newton's Law of Universal Gravitation (1687) never happened, Einstein's theory of general relativity (1915) could still be formulated to explain planetary orbits.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 70,
-    "question": "If the discovery of Göbekli Tepe’s astronomical alignment had never occurred, which later discovery would lack symbolic context?",
+    "question": "If the discovery of the first quantum mechanics equation (Planck's) (1900) had never happened, how would it impact the development of lasers?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery that prehistoric architecture encoded celestial cycles",
-      "b": "The discovery of exoplanet transit timing",
-      "c": "The discovery of polygenic traits",
-      "d": "The discovery of desert varnish microbes"
+      "a": "Lasers would be invented much earlier through simple trial and error.",
+      "b": "The foundational theory of light-matter interaction (quantized energy levels) would be missing, preventing controlled stimulated emission.",
+      "c": "Light would remain purely a wave phenomenon.",
+      "d": "Lasers are irrelevant outside of military technology."
     },
     "answer": "a"
   },
-
   {
     "question_id": 71,
-    "question": "If the discovery of the spice trade’s global extent never occurred, later discoveries about mercantile economic shifts would lack foundational evidence.",
+    "question": "If Pasteur's fermentation experiments (1850s) never happened, Koch's postulates (1880s) would still have a strong foundation in microbial causation.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 72,
-    "question": "If the discovery of ancient shipwreck cargo manifests had not occurred, which later discovery would lack maritime evidence?",
+    "question": "If the discovery of anesthesia (mid-1800s) had never happened, how would it impact the development of organ transplant surgery (mid-1900s)?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of interregional commodity specialization",
-      "b": "The discovery of magma convection",
-      "c": "The discovery of plant circadian rhythms",
-      "d": "The discovery of tinnitus neural coding"
+      "a": "Organ transplants would be possible only with non-human recipients.",
+      "b": "The long, delicate procedures required for transplants would be impossible to perform on conscious or shocked patients.",
+      "c": "Transplant surgery would rely on local anesthesia only.",
+      "d": "Rejection drugs would be discovered earlier."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 73,
-    "question": "If the discovery of early astronomical star catalogs had not occurred, later discoveries of premodern navigation accuracy would lack empirical support.",
+    "question": "If Hubble's classification of galaxies (1920s) never happened, the development of radio astronomy (1930s) would still easily identify distant cosmic structures.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 74,
-    "question": "If the discovery of precession of the equinoxes had not occurred, which later discovery would lack theoretical grounding?",
+    "question": "If discovery of the accelerating expansion of the universe (1998) had never happened, how would it impact the justification for new generation space telescopes?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of long-term climate astronomical cycles",
-      "b": "The discovery of bacterial quorum sensing",
-      "c": "The discovery of sand dune corrugation",
-      "d": "The discovery of mammalian olfactory mapping"
+      "a": "Telescope development would halt, lacking a clear research goal.",
+      "b": "The need to study dark energy would be missing, potentially shifting priorities away from deep-field cosmology.",
+      "c": "Telescopes would still be built to study distant galaxies, as expansion is assumed.",
+      "d": "The search for black holes would become the primary goal."
     },
-    "answer": "a"
+    "answer": "c"
   },
-
   {
     "question_id": 75,
-    "question": "If the discovery of the metric system’s scientific basis never occurred, later global standardization efforts would lack rational calibration principles.",
+    "question": "If Linnaeus's system of binomial nomenclature (1700s) never happened, Darwin's classification of species (1859) would still be universally recognizable.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 76,
-    "question": "If the discovery of prime number distribution patterns had not occurred, which later mathematical discovery would struggle?",
+    "question": "If Mendel's laws of inheritance (1860s) had never happened, how would it impact the development of artificial selection and modern agriculture?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of modern cryptographic algorithms",
-      "b": "The discovery of synaptic vesicle cycling",
-      "c": "The discovery of mantle mineral polymorphs",
-      "d": "The discovery of climate stratification"
+      "a": "Artificial selection would continue as an effective practice based on observation.",
+      "b": "The practice of breeding would become purely theoretical and fail.",
+      "c": "Mendel is irrelevant to plant breeding.",
+      "d": "The fundamental predictable rules of heredity would be unknown, severely limiting efficiency."
     },
     "answer": "a"
   },
-
   {
     "question_id": 77,
-    "question": "If the discovery of stratified societal classes in ancient records had never occurred, sociological theories about early inequalities would lack historical grounding.",
+    "question": "If Rutherford's discovery of the nucleus (1911) never happened, the concept of electron shells (Bohr, 1913) would still be necessary to explain spectral lines.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 78,
-    "question": "If the discovery of the Code of Hammurabi had not occurred, which later discovery would lack jurisprudential lineage?",
+    "question": "If Sagan's popularization of the 'Pale Blue Dot' image (1990) had never happened, how would it impact UN policy on Earth orbital debris?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of early legal standardization principles",
-      "b": "The discovery of asteroid luminosity curves",
-      "c": "The discovery of wood decomposition stages",
-      "d": "The discovery of island biogeography"
+      "a": "The emotional impact of the image is unrelated to the technical problem of orbital debris.",
+      "b": "The policy would be unaffected, as only economic factors drive space law.",
+      "c": "The sense of collective stewardship of Earth's local space would be lessened, slowing international cooperation.",
+      "d": "Space debris is a purely fictional problem."
     },
     "answer": "a"
   },
-
   {
     "question_id": 79,
-    "question": "If the discovery of ancient irrigation agriculture had never occurred, later discoveries about settlement density would lack explanatory mechanisms.",
+    "question": "If Fleming's discovery of penicillin (1928) never happened, sulfonamide drugs (1930s) would still establish the foundation of the pharmaceutical industry alone.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 80,
-    "question": "If the discovery of terraced farming in the Andes had not occurred, which later discovery would be weakened?",
+    "question": "If the discovery of the first exoplanet (1992, 1995) had never happened, how would it impact NASA funding for planet-hunting missions?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of high-altitude agricultural adaptation",
-      "b": "The discovery of radar Doppler shifts",
-      "c": "The discovery of coral bleaching",
-      "d": "The discovery of soil nematode cycles"
+      "a": "Funding would halt, as there would be no concrete evidence of planets outside our solar system.",
+      "b": "Funding would shift entirely to asteroid defense.",
+      "c": "Funding would increase, driven by theoretical predictions.",
+      "d": "The search for Earth-like planets would still be the primary goal."
     },
     "answer": "a"
   },
-
   {
     "question_id": 81,
-    "question": "If the discovery of the Silk Road Buddhist transmission had never occurred, later discoveries about religious diffusion would lack cross-cultural evidence.",
+    "question": "If Newton's invention of the reflecting telescope (1668) never happened, Herschel's discovery of Uranus (1781) would still have occurred with a refracting telescope.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 82,
-    "question": "If the discovery of pre-Islamic Arabian trade hubs had not occurred, which later discovery would lose economic context?",
+    "question": "If discovery of the structure of DNA (1953) had never happened, how would it impact the forensic use of DNA fingerprinting (1980s)?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of early Meccan trade networks",
-      "b": "The discovery of Bose-Einstein condensates",
-      "c": "The discovery of chemical chaperones",
-      "d": "The discovery of ocean gyres"
+      "a": "DNA fingerprinting would be unaffected, as it relies on protein sequencing.",
+      "b": "The knowledge of base pairing and replication would be missing, preventing the ability to reliably identify individuals.",
+      "c": "Fingerprinting would rely solely on blood type matching.",
+      "d": "The process would be delayed but still possible using simple chemical methods."
     },
     "answer": "a"
   },
-
   {
     "question_id": 83,
-    "question": "If the discovery of early Greek philosophical schools had never occurred, later discoveries about Western logic frameworks would lack historical roots.",
+    "question": "If Pasteur's germ theory of disease (1860s) never happened, modern public sanitation policies (e.g., clean water acts) would still be enacted due to social pressure.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 84,
-    "question": "If the discovery of Buddhist Abhidharma texts had not occurred, which later discovery would lack comparative tradition context?",
+    "question": "If the discovery of the electron by J.J. Thomson (1897) had never happened, how would it impact the development of radio and television?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of cross-cultural theories of mind",
-      "b": "The discovery of atmospheric Kelvin waves",
-      "c": "The discovery of lunar tidal locking",
-      "d": "The discovery of planetary albedo patterns"
+      "a": "Vacuum tubes, essential for early electronics, rely on controlled electron flow, making radio and TV impossible.",
+      "b": "Radio technology is entirely based on light waves, not particle physics.",
+      "c": "Television would still be invented using purely mechanical scanning systems.",
+      "d": "Communication would rely on smoke signals."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 85,
-    "question": "If the discovery of ancient trade winds had not occurred, later navigation discoveries would lack systemic explanation for consistent oceanic travel patterns.",
+    "question": "If Newton's three laws of motion (1687) never happened, the invention of the gyroscope (1852) would still have occurred on the same timeline.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 86,
-    "question": "If the discovery of monsoon reversal patterns had not occurred, which later discovery would lack climatic grounding?",
+    "question": "If the discovery of the Higgs boson (2012) had never happened, how would it impact the future of particle physics?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of Indian Ocean seasonal trade cycles",
-      "b": "The discovery of dairy fermentation",
-      "c": "The discovery of continental shelves",
-      "d": "The discovery of primate grooming hierarchies"
+      "a": "The Standard Model would remain incomplete, lacking the mechanism for fundamental particle mass.",
+      "b": "The search for supersymmetric particles would be irrelevant.",
+      "c": "The mass of the electron would be proven false.",
+      "d": "The focus would shift entirely to astronomy."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 87,
-    "question": "If the discovery of genetic drift had never occurred, evolutionary population models would lack stochastic components.",
+    "question": "If Avogadro's determination of molecular quantity (1811) never happened, Mendeleev's periodic table (1869) would still rely on accurate atomic weights for classification.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 88,
-    "question": "If the discovery of epigenetic inheritance had not occurred, which later discovery would lack molecular grounding?",
+    "question": "If the discovery of X-rays by Roentgen (1895) had never happened, how would it impact the initial use of medical imaging?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of environmentally induced gene expression changes",
-      "b": "The discovery of plate subduction angles",
-      "c": "The discovery of fungal mycelial networks",
-      "d": "The discovery of Arctic permafrost methane"
+      "a": "MRI and CT scans would have been invented immediately to compensate.",
+      "b": "Doctors would rely on visible light and crude internal exams, delaying non-invasive diagnostics.",
+      "c": "Surgical procedures would be entirely unaffected.",
+      "d": "The medical profession would shift entirely to psychic diagnosis."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 89,
-    "question": "If the discovery of chronobiology never occurred, explanations for species-specific circadian cycles would remain fragmented.",
+    "question": "If Oersted's discovery of electromagnetism (1820) never happened, Faraday's discovery of induction (1831) would still demonstrate the link between electricity and magnetism.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 90,
-    "question": "If the discovery of melatonin regulation had not occurred, which later discovery would be harder to interpret?",
+    "question": "If discovery of the neutron by Chadwick (1932) had never happened, how would it impact the theory of the internal structure of stars?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of sleep-wake cycle entrainment",
-      "b": "The discovery of volcanic ash dispersal",
-      "c": "The discovery of linguistic tone shifts",
-      "d": "The discovery of seagrass reproduction"
+      "a": "Stellar fusion models would be unaffected, relying on protons alone.",
+      "b": "The accurate understanding of nuclear reactions and stability in stars would be severely hampered.",
+      "c": "Stars would be proven to be powered by chemical combustion.",
+      "d": "The existence of black holes would be proven false."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 91,
-    "question": "If the discovery of monotheistic textual synchronicity had never occurred, later discoveries in comparative religion would lack structural parallels.",
+    "question": "If Malthus's population theory (1798) never happened, Darwin's concept of 'survival of the fittest' (1859) would still emerge naturally from his own observations.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 92,
-    "question": "If the discovery of ancient Zoroastrian ritual texts had not occurred, which later discovery would lack comparative theological grounding?",
+    "question": "If discovery of cosmic rays by Hess (1912) had never happened, how would it impact the development of the atomic bomb?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of cross-influences between Abrahamic traditions",
-      "b": "The discovery of Martian regolith layers",
-      "c": "The discovery of platypus venom genes",
-      "d": "The discovery of equatorial upwelling currents"
+      "a": "The bomb would be unaffected, as it relies on terrestrial neutrons.",
+      "b": "The early understanding of particle cascade and high-energy physics necessary for the project would be delayed.",
+      "c": "The project would be completed much faster due to less complexity.",
+      "d": "Plutonium would be impossible to create without cosmic rays."
     },
-    "answer": "a"
+    "answer": "d"
   },
-
   {
     "question_id": 93,
-    "question": "If the discovery of deep Earth mineral inclusions in diamonds had never occurred, explanations for mantle composition would lack physical samples.",
+    "question": "If Roentgen's discovery of X-rays (1895) never happened, the Curies' discovery of radium (1898) would still provide an immediate, clear means for non-invasive medical diagnostics.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 94,
-    "question": "If the discovery of volcanic hotspot chains had not occurred, which later discovery would lack structural evidence?",
+    "question": "If discovery of the structure of penicillin by Dorothy Hodgkin (1945) had never happened, how would it impact the mass production of the drug?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of plate motion vectors",
-      "b": "The discovery of primate vocal learning",
-      "c": "The discovery of atmospheric heat islands",
-      "d": "The discovery of cetacean sonar mapping"
+      "a": "Mass production would be impossible without knowledge of the chemical structure for synthesis and stability.",
+      "b": "The drug would still be mass-produced through simple bacterial growth.",
+      "c": "Penicillin would be replaced entirely by synthetic drugs immediately.",
+      "d": "The war effort would rely on local herbal remedies."
     },
     "answer": "a"
   },
-
   {
     "question_id": 95,
-    "question": "If the discovery of the genetic code’s universality never occurred, explanations for cross-species protein synthesis would lack mechanistic unity.",
+    "question": "If Tycho Brahe's detailed astronomical data (late 1500s) never happened, Kepler's laws of planetary motion (1600s) would still have the necessary precision for empirical formulation.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 96,
-    "question": "If the discovery of ribozymes had not occurred, which later discovery would lack molecular support?",
+    "question": "If the discovery of the first quantum mechanics equation (Planck's) (1900) had never happened, how would it impact the invention of the atomic clock?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of the RNA world hypothesis",
-      "b": "The discovery of continental rain shadows",
-      "c": "The discovery of oceanic thermal vents",
-      "d": "The discovery of neural dendritic pruning"
+      "a": "Atomic clocks are unrelated to quantum mechanics, relying on physical vibrations.",
+      "b": "The reliance on predictable atomic transitions (quantized energy jumps) would lack theoretical basis, preventing precise timekeeping.",
+      "c": "Clocks would still be highly accurate using radio waves alone.",
+      "d": "Time itself would be proven relative."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 97,
-    "question": "If the discovery of ancient Babylonian market tablets had not occurred, economic historians would lack early quantitative trade records.",
+    "question": "If Vesalius's detailed anatomical drawings (1543) never happened, Harvey's discovery of blood circulation (1628) would still have the necessary anatomical map for verification.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 98,
-    "question": "If the discovery of medieval Silk Road taxation ledgers had never occurred, which later discovery would struggle for validation?",
+    "question": "If the discovery of pulsars (Hewish and Bell Burnell, 1967) had never happened, how would it impact the confirmation of general relativity's prediction of gravitational waves?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of population-level trade imbalances",
-      "b": "The discovery of photosynthetic C4 pathways",
-      "c": "The discovery of quasar accretion disks",
-      "d": "The discovery of sponge microbiomes"
+      "a": "Pulsars were the first empirical evidence of gravitational energy loss, making wave confirmation much harder without them.",
+      "b": "Pulsars are irrelevant to gravitational waves, which are detected on Earth.",
+      "c": "The prediction of gravitational waves would be rejected instantly.",
+      "d": "Gravitational wave research would shift to studying the Sun."
     },
-    "answer": "a"
+    "answer": "b"
   },
-
   {
     "question_id": 99,
-    "question": "If the discovery of genetic bottleneck events never occurred, explanations for reduced genetic diversity in certain populations would lack historical context.",
+    "question": "If Mendel's laws of inheritance (1860s) never happened, Bateson's coining of the term 'genetics' (1905) would still have provided the necessary terminology.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 100,
-    "question": "If the discovery of ancient megafauna extinction timelines had not occurred, which later discovery would lack ecological grounding?",
+    "question": "If the discovery of the accelerating expansion of the universe (1998) had never happened, how would it impact funding for gravitational wave observatories?",
     "type": "MCQ",
     "options": {
-      "a": "The discovery of human-impact driven extinction waves",
-      "b": "The discovery of magnetospheric storms",
-      "c": "The discovery of deep-sea brine pools",
-      "d": "The discovery of enzymatic cofactor recycling"
+      "a": "Funding would be entirely unaffected, as the two research areas are distinct.",
+      "b": "The realization that a large portion of the universe is unknown would drive funding towards any cosmological inquiry.",
+      "c": "Funding would be redirected entirely to asteroid defense.",
+      "d": "The absence of a major new cosmological mystery might reduce overall funding urgency."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 101,
+    "question": "If Dalton's atomic theory (1803) never happened, Gay-Lussac's law of combining volumes (1808) would still provide a universal basis for chemical reactions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 102,
+    "question": "If Edison's invention of the light bulb (1879) had never happened, how would it impact the development of electric home appliances (1900s)?",
+    "type": "MCQ",
+    "options": {
+      "a": "The lack of a mass consumer power infrastructure would severely delay widespread use of appliances.",
+      "b": "Appliances would be designed to run on gas power only.",
+      "c": "Appliances are irrelevant to lighting technology.",
+      "d": "The focus would shift entirely to industrial use of electricity."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 103,
+    "question": "If Rutherford's gold foil experiment (1911) never happened, Thomson's 'plum pudding' model of the atom would still be the dominant view in 1950.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 104,
+    "question": "If the discovery of the first exoplanet (1992, 1995) had never happened, how would it impact the Kepler mission's scientific goals?",
+    "type": "MCQ",
+    "options": {
+      "a": "Kepler would be entirely unaffected, as its goal was the mass survey.",
+      "b": "The mission would lack the critical proof of concept that exoplanets exist, making its premise speculative.",
+      "c": "Kepler would focus entirely on planets within our solar system.",
+      "d": "The telescope would be repurposed for dark matter research."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 105,
+    "question": "If Snell's law of refraction (1621) never happened, the design of complex optical instruments (18th century) would still be governed by simple empirical trial and error.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 106,
+    "question": "If discovery of the structure of the atom by Rutherford and Bohr (1913) had never happened, how would it impact the development of the laser?",
+    "type": "MCQ",
+    "options": {
+      "a": "Laser development would be slowed, lacking the theoretical basis of discrete energy levels.",
+      "b": "Lasers are purely wave phenomena and would be unaffected.",
+      "c": "Lasers would be invented much earlier through simple trial and error.",
+      "d": "Chemical bond theory would collapse instantly."
     },
     "answer": "a"
+  },
+  {
+    "question_id": 107,
+    "question": "If Koch's postulates (1880s) never happened, the development of selective bacterial stains (Ehrlich) would still quickly link specific microbes to diseases.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "If discovery of the structure of insulin by Sanger (1955) had never happened, how would it impact the development of synthetic hormones?",
+    "type": "MCQ",
+    "options": {
+      "a": "Synthetic hormone development would shift entirely to plant extracts.",
+      "b": "Sanger's work provided the critical template for understanding protein structure necessary for synthesis.",
+      "c": "Chemical synthesis would continue unaffected, as it is a non-biological process.",
+      "d": "The endocrine system would be classified as irrelevant."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 109,
+    "question": "If Leavitt's period-luminosity relationship for Cepheids (1912) never happened, the concept of the universe being composed of vast distances would still be immediately accepted.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 110,
+    "question": "If discovery of the structure of benzene by Kekulé (1865) had never happened, how would it impact the theory of chemical bonding?",
+    "type": "MCQ",
+    "options": {
+      "a": "Chemical bond theory would collapse, proving atoms do not bond.",
+      "b": "The crucial understanding of resonance and delocalized electrons would be severely delayed.",
+      "c": "All chemical reactions would rely on simple substitution.",
+      "d": "Bonding theory would shift entirely to metallic structures."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 111,
+    "question": "If Hooke's law of elasticity (1660) never happened, the development of modern materials science (19th-20th century) would still rely on the same foundational mathematical relationships.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 112,
+    "question": "If discovery of the electron by J.J. Thomson (1897) had never happened, how would it impact the theory of chemical bonding?",
+    "type": "MCQ",
+    "options": {
+      "a": "Chemical bonding would still be explained by atoms sticking together.",
+      "b": "The mechanism of valence and ion formation (electron sharing/transfer) would be impossible to formulate.",
+      "c": "Dalton's atomic theory would be proven correct and final.",
+      "d": "All matter would be proven to be noble gases."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 113,
+    "question": "If Malthus's population theory (1798) never happened, Wallace's independent concept of natural selection (1858) would still have emerged without delay.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "If discovery of the structure of DNA (1953) had never happened, how would it impact the understanding of evolution?",
+    "type": "MCQ",
+    "options": {
+      "a": "Evolutionary theory would remain strong, based on fossil and morphological data alone.",
+      "b": "The molecular basis for mutation and heredity would be missing, leaving a gap in modern evolutionary synthesis.",
+      "c": "Evolution would be disproven by later molecular studies.",
+      "d": "Lamarckism would return as the dominant theory."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 115,
+    "question": "If Faraday's discovery of electromagnetic induction (1831) never happened, the electric generator (1830s) would still have been invented through trial and error.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 116,
+    "question": "If the discovery of the structure of penicillin by Dorothy Hodgkin (1945) had never happened, how would it impact the development of second-generation antibiotics?",
+    "type": "MCQ",
+    "options": {
+      "a": "The structural modifications necessary for fighting resistance would be severely delayed.",
+      "b": "Synthetic penicillins would still be created using simple chemical processes.",
+      "c": "Resistance would not be a problem without the first generation.",
+      "d": "All antibiotic research would shift entirely to plants."
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 117,
+    "question": "If Jenner's smallpox vaccine (1796) never happened, the concept of acquired immunity would still be understood through other early inoculation practices.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "If the discovery of dark matter (Zwicky, 1930s) had never happened, how would it impact the James Webb Space Telescope's (JWST) research goals?",
+    "type": "MCQ",
+    "options": {
+      "a": "JWST would shift focus entirely to the atmospheric composition of exoplanets.",
+      "b": "The motivation to study the early universe and dark matter's gravitational effects would be significantly reduced.",
+      "c": "JWST's goals are unrelated to dark matter.",
+      "d": "The mission would be cancelled, proving the universe is simple."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 119,
+    "question": "If Linnaeus's system of binomial nomenclature (1700s) never happened, the later discovery of taxonomy and phylogeny would still have a standardized universal framework.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "If the discovery of the electron by J.J. Thomson (1897) had never happened, how would it impact the development of quantum mechanics?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quantum theory would be based solely on light (photons).",
+      "b": "The foundation for understanding wave-particle duality in matter would be missing.",
+      "c": "The discovery of radioactivity would solve all quantum problems.",
+      "d": "Classical physics would be proven correct and final."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 121,
+    "question": "If Oersted's discovery of electromagnetism (1820) never happened, the invention of the telegraph (1830s) would still rely on existing principles of static electricity.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "If discovery of cosmic rays by Hess (1912) had never happened, how would it impact the classification of subatomic particles (early 1900s)?",
+    "type": "MCQ",
+    "options": {
+      "a": "New particles would be easily discovered using low-energy accelerators.",
+      "b": "The knowledge of high-energy collision products would be delayed, slowing the discovery of the muon, pion, etc.",
+      "c": "Particle physics would focus entirely on Earth-based collisions.",
+      "d": "The proton would be identified as the smallest particle."
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 123,
+    "question": "If Pasteur's fermentation experiments (1850s) never happened, modern food preservation techniques (e.g., canning) would still eliminate microbial spoilage effectively.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 124,
+    "question": "If discovery of the structure of benzene by Kekulé (1865) had never happened, how would it impact the commercial synthesis of drugs like aspirin?",
+    "type": "MCQ",
+    "options": {
+      "a": "Aspirin synthesis would be impossible due to the unknown nature of the phenol base.",
+      "b": "The industrial synthesis of many aromatic compounds would be severely delayed or impossible without the structural template.",
+      "c": "Pharmaceutical chemistry would rely entirely on inorganic compounds.",
+      "d": "Drug synthesis would shift to simple linear hydrocarbons."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 125,
+    "question": "If Mendeleev's periodic law (1869) never happened, Moseley's use of X-rays to determine atomic number (1913) would still order the elements accurately.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 126,
+    "question": "If discovery of the neutron by Chadwick (1932) had never happened, how would it impact the understanding of isotopes?",
+    "type": "MCQ",
+    "options": {
+      "a": "The mass variations (isotopes) would still be observed, but the mechanism would be unknown.",
+      "b": "Isotopes would be easily explained by variations in the number of protons.",
+      "c": "The concept of isotopes would be rejected due to mass discrepancy.",
+      "d": "Isotope classification would rely on spectral analysis alone."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 127,
+    "question": "If Copernicus's heliocentric model (1543) never happened, Galileo's telescopic observations (1609) would still prove the Earth orbits the Sun.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "If discovery of anesthetics (mid-1800s) had never happened, how would it impact the development of non-invasive surgical techniques?",
+    "type": "MCQ",
+    "options": {
+      "a": "The need to avoid large incisions would drive faster development of endoscopy and laparoscopy.",
+      "b": "Non-invasive procedures are irrelevant to pain control.",
+      "c": "Non-invasive techniques would be impossible to develop without patient cooperation.",
+      "d": "The entire field of diagnostics would be halted."
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 129,
+    "question": "If Newton's three laws of motion (1687) never happened, the industrial revolution's mechanical design (18th century) would still rely on the same fundamental principles of force.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "If discovery of the structure of DNA (1953) had never happened, how would it impact gene sequencing technologies (1970s)?",
+    "type": "MCQ",
+    "options": {
+      "a": "Sequencing would be unaffected, as it is a chemical reaction.",
+      "b": "The process would be much slower, relying on trial and error.",
+      "c": "The knowledge of base pairing and helical symmetry was crucial for designing sequencing methods.",
+      "d": "Sequencing would shift to RNA only."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 131,
+    "question": "If Harvey's discovery of blood circulation (1628) never happened, the concept of the body's self-regulating (homeostatic) systems would still be understood.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 132,
+    "question": "If discovery of the neuron by Ramón y Cajal (late 1800s) had never happened, how would it impact the mapping of brain circuitry?",
+    "type": "MCQ",
+    "options": {
+      "a": "Brain mapping would be easily achieved using advanced imaging technology.",
+      "b": "The 'neuron doctrine' is foundational; lacking it, the brain would still be viewed as a continuous net (reticular theory).",
+      "c": "All brain research would focus solely on psychology.",
+      "d": "The discovery of brain waves would solve the mapping problem."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 133,
+    "question": "If Hertz's demonstration of radio waves (1887) never happened, Maxwell's equations of electromagnetism would still be fully accepted.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 134,
+    "question": "If discovery of the structure of insulin by Sanger (1955) had never happened, how would it impact the mass production of human insulin via bacteria?",
+    "type": "MCQ",
+    "options": {
+      "a": "The production would be impossible without the specific amino acid sequence to guide gene synthesis.",
+      "b": "Bacterial production would still be possible using trial and error methods.",
+      "c": "Chemical synthesis would be universally adopted instead.",
+      "d": "Insulin would be harvested only from animal sources."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 135,
+    "question": "If Leibniz's invention of calculus (1680s) never happened, Euler's application of calculus to physics (1700s) would still proceed based on independent mathematical methods.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 136,
+    "question": "If discovery of the neutrino (1950s) had never happened, how would it impact the understanding of solar energy production?",
+    "type": "MCQ",
+    "options": {
+      "a": "Solar energy models would still be validated by light and heat data alone.",
+      "b": "The direct evidence of the nuclear fusion process inside the Sun's core would be missing.",
+      "c": "The Sun would be proven to be powered by chemical combustion.",
+      "d": "Astrophysics would shift entirely to gravitational studies."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 137,
+    "question": "If Jenner's smallpox vaccine (1796) never happened, modern immunology's theory of antibodies would still emerge at the same time.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 138,
+    "question": "If discovery of X-rays by Roentgen (1895) had never happened, how would it impact the early development of crystallography?",
+    "type": "MCQ",
+    "options": {
+      "a": "Crystallography would rely on electron microscopes.",
+      "b": "X-ray diffraction provides the key method for studying crystal structures, which would be severely limited.",
+      "c": "Crystal structure would be determined using light waves.",
+      "d": "Crystallography would focus only on liquid forms."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 139,
+    "question": "If Planck's discovery of energy quantization (1900) never happened, the concept of the photon (Einstein, 1905) would still fully explain the photoelectric effect.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 140,
+    "question": "If discovery of prions (Stanley Prusiner, 1982) had never happened, how would it impact the classification of hereditary diseases?",
+    "type": "MCQ",
+    "options": {
+      "a": "Hereditary diseases would be proven to be solely caused by misfolded protein structure.",
+      "b": "The concept of non-DNA infectious inheritance would be missing, leaving some diseases misclassified as purely genetic.",
+      "c": "All hereditary diseases would be considered curable with gene therapy.",
+      "d": "Prion diseases would be classified as fungal infections."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 141,
+    "question": "If Galileo's telescopic observations (1609) never happened, Kepler's laws of planetary motion (1600s) would still have the necessary public acceptance.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 142,
+    "question": "If discovery of the circulation of the atmosphere (Hadley cells) (1735) had never happened, how would it impact the understanding of trade winds and maritime travel?",
+    "type": "MCQ",
+    "options": {
+      "a": "Maritime travel would rely on historical wind data, with no predictive theory.",
+      "b": "The patterns of global winds would be fully explained by simple temperature gradients.",
+      "c": "Sailors would have discovered the pattern much earlier.",
+      "d": "The concept of a global wind pattern would be rejected."
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 143,
+    "question": "If Hooke's coining of the term 'cell' (1665) never happened, Virchow's concept that 'all cells come from cells' (1858) would still be easily articulated.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 144,
+    "question": "If discovery of artificial radioactivity by the Curies (1934) had never happened, how would it impact the development of carbon dating?",
+    "type": "MCQ",
+    "options": {
+      "a": "Carbon dating relies on natural isotopes and would be unaffected.",
+      "b": "The precise measurement and control of synthetic isotopes provided necessary techniques for natural isotope analysis.",
+      "c": "Dating would rely solely on tree rings.",
+      "d": "The decay rate of natural isotopes would be proven variable."
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 145,
+    "question": "If Lyell's geological uniformitarianism (1830s) never happened, the development of modern paleontology would still utilize a vast, deep timescale.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 146,
+    "question": "If discovery of X-rays by Roentgen (1895) had never happened, how would it impact the search for new fundamental particles?",
+    "type": "MCQ",
+    "options": {
+      "a": "Particle physics would halt completely, lacking a starting point.",
+      "b": "The concept of high-energy radiation (gamma rays) would still drive particle physics.",
+      "c": "The discovery led directly to radioactivity, which provided the tools for particle physics research.",
+      "d": "Particle accelerators would be invented much earlier."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 147,
+    "question": "If Soddy's discovery of isotopes (1913) never happened, the mass spectrometer's utility (early 1900s) would still be easily understood for separating elements.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 148,
+    "question": "If discovery of pulsars (Hewish and Bell Burnell, 1967) had never happened, how would it impact the theory of neutron stars?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neutron star theory would remain purely speculative, lacking the key observational confirmation.",
+      "b": "Neutron stars would be easily observed using visible light telescopes.",
+      "c": "The theory would be disproven by later data.",
+      "d": "The existence of black holes would be rejected."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 149,
+    "question": "If Edison's invention of the practical light bulb (1879) never happened, the development of consumer electrical appliances would still proceed rapidly.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 150,
+    "question": "If discovery of the accelerating expansion of the universe (1998) had never happened, how would it impact the understanding of the universe's ultimate fate?",
+    "type": "MCQ",
+    "options": {
+      "a": "The ultimate fate would be easily determined by measuring galaxy mass alone.",
+      "b": "Cosmologists would still widely debate between Big Crunch and Big Freeze, lacking the critical dark energy input.",
+      "c": "The Big Crunch would be universally accepted.",
+      "d": "The universe would be proven to be infinite and static."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 151,
+    "question": "If Lister's adoption of antiseptic surgery (1860s) never happened, modern surgical mortality rates would still have declined significantly by 1900.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 152,
+    "question": "If discovery of the photoelectric effect by Hertz (1887) had never happened, how would it impact the invention of solar cells?",
+    "type": "MCQ",
+    "options": {
+      "a": "Solar cells would be invented much earlier using simple thermal collectors.",
+      "b": "The foundational principle of converting light energy into electrical energy using quantum effects would be missing.",
+      "c": "Electricity would be solely generated by water power.",
+      "d": "Solar power is entirely reliant on the Sun's magnetic field."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 153,
+    "question": "If Snell's law of refraction (1621) never happened, the invention of the telescope (early 1600s) would still have the same quality.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 154,
+    "question": "If discovery of neurotransmitters (Loewi, 1920s) had never happened, how would it impact the treatment of clinical depression?",
+    "type": "MCQ",
+    "options": {
+      "a": "Antidepressants would still be developed by focusing on hormone regulation.",
+      "b": "The understanding of chemical imbalance (like serotonin deficiency) would be missing, halting modern drug therapy.",
+      "c": "Psychiatry would shift entirely to studying diet.",
+      "d": "Depression would be proven to be solely genetic."
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 155,
+    "question": "If Huygens' wave theory of light (1678) never happened, Fresnel's later development of wave optics (1800s) would still proceed based on independent principles.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 156,
+    "question": "If discovery of the structure of insulin by Sanger (1955) had never happened, how would it impact the fundamental ability to sequence other complex proteins?",
+    "type": "MCQ",
+    "options": {
+      "a": "The techniques developed for insulin provided the methodology for all subsequent protein sequencing.",
+      "b": "Only small, simple proteins would be sequenceable.",
+      "c": "Protein sequencing would be replaced by simple mass analysis.",
+      "d": "The discovery is irrelevant to other proteins."
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 157,
+    "question": "If Tycho Brahe's detailed astronomical data (late 1500s) never happened, Kepler's formulation of the elliptical orbit would still occur based on theoretical models.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 158,
+    "question": "If discovery of the structure of the atom by Rutherford and Bohr (1913) had never happened, how would it impact the understanding of chemical valence?",
+    "type": "MCQ",
+    "options": {
+      "a": "Valence would still be explained using only static electric charge.",
+      "b": "The concept of outer shell electrons dictating bonding would be impossible to define.",
+      "c": "Chemical valence would be proven irrelevant to bonding.",
+      "d": "All chemical bonding would rely on mass alone."
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 159,
+    "question": "If Hofmann's synthesis of aspirin (1897) never happened, the entire pharmaceutical industry's focus on synthetic drugs would still have emerged at the same time.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 160,
+    "question": "If discovery of the accelerating expansion of the universe (1998) had never happened, how would it impact the classification of supernovae?",
+    "type": "MCQ",
+    "options": {
+      "a": "Supernovae classification is entirely independent of cosmological expansion rates.",
+      "b": "The Type Ia supernovae, used as standard candles, would lose their significance as distance markers.",
+      "c": "The entire field of astrophysics would shift to geology.",
+      "d": "All supernovae would be reclassified as black holes."
+    },
+    "answer": "d"
   }
 ]

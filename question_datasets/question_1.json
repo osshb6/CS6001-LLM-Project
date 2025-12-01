@@ -1,1102 +1,1762 @@
 [
-  {
-    "question_id": 1,
-    "question": "If the American Revolution in 1776 never occurred, the United States would have remained a British colony throughout the 19th century.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 2,
-    "question": "If Germany had not invaded Poland in 1939, what is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Europe would have remained peaceful for decades",
-      "b": "World War II would still have started differently",
-      "c": "Germany would have abandoned expansion policies",
-      "d": "France would have aligned with Germany"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 3,
-    "question": "If the fall of the Roman Empire in 476 CE never occurred, Europe would not have experienced the Middle Ages.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 4,
-    "question": "If the French Revolution of 1789 had not taken place, what would have been the most likely result?",
-    "type": "MCQ",
-    "options": {
-      "a": "The French monarchy would have survived longer",
-      "b": "Revolution would have erupted even earlier",
-      "c": "France would have peacefully transitioned to democracy",
-      "d": "Napoleon would have never risen to power"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 5,
-    "question": "If the Industrial Revolution in Britain never happened, technological advancements globally would have been delayed significantly.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 6,
-    "question": "If Columbus had not reached the Americas in 1492, which region would likely have dominated early Atlantic exploration?",
-    "type": "MCQ",
-    "options": {
-      "a": "The Ottoman Empire",
-      "b": "Portugal",
-      "c": "China",
-      "d": "The Dutch Republic"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 7,
-    "question": "If Archduke Franz Ferdinand had not been assassinated in 1914, World War I would have been avoided entirely.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 8,
-    "question": "If the U.S. had not entered World War II, what is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Germany would have conquered the Soviet Union",
-      "b": "The war would have continued for many more years",
-      "c": "Japan would have voluntarily surrendered early",
-      "d": "Britain would have withdrawn from the war completely"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 9,
-    "question": "If the printing press had not been invented, the Renaissance would have spread far more slowly.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 10,
-    "question": "If the Berlin Wall had never fallen, what might have continued?",
-    "type": "MCQ",
-    "options": {
-      "a": "The Cold War division of Europe",
-      "b": "Rapid democratization in Eastern Europe",
-      "c": "European Union expansion",
-      "d": "German reunification"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 11,
-    "question": "If the Black Death had not struck Europe in the 14th century, population growth would have remained stable.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 12,
-    "question": "If the United Nations had not been created in 1945, which area would be most affected?",
-    "type": "MCQ",
-    "options": {
-      "a": "Post-war peacekeeping efforts",
-      "b": "Nuclear research development",
-      "c": "International sports coordination",
-      "d": "Global shipping routes"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 13,
-    "question": "If the partition of India in 1947 had not occurred, South Asia would have avoided decades of geopolitical tension.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 14,
-    "question": "If penicillin had never been discovered, what would have happened?",
-    "type": "MCQ",
-    "options": {
-      "a": "Mortality from bacterial infections would be far higher",
-      "b": "Vaccines would have developed earlier",
-      "c": "Herbal medicine would replace antibiotics",
-      "d": "Hospitals would rely on radiation treatment"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 15,
-    "question": "If the Cold War had never occurred, the global arms race would have been far less intense.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 16,
-    "question": "If the Great Fire of London never happened, what would London likely have retained?",
-    "type": "MCQ",
-    "options": {
-      "a": "Densely packed wooden medieval homes",
-      "b": "A more modern street layout",
-      "c": "Early skyscraper development",
-      "d": "Large-scale stone infrastructure"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 17,
-    "question": "If the U.S. Civil Rights Movement of the 1960s had not occurred, racial segregation would have persisted far longer.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 18,
-    "question": "If Columbus never discovered America, which civilization might have reached it next?",
-    "type": "MCQ",
-    "options": {
-      "a": "The Ming Dynasty",
-      "b": "Scandinavian seafarers",
-      "c": "Portuguese explorers",
-      "d": "The Aztec Empire expanding outward"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 19,
-    "question": "If the atomic bomb had not been dropped on Japan in 1945, the war would have dragged on for months.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 20,
-    "question": "If the Soviet Union had not collapsed in 1991, what is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "A prolonged Cold War",
-      "b": "Rapid democratization in Eastern Europe",
-      "c": "Soviet membership in the European Union",
-      "d": "A unified global currency"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 21,
-    "question": "If the Renaissance had never happened, Europe's scientific progress would have been significantly delayed.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 22,
-    "question": "If the Great Depression had not taken place, what might have changed?",
-    "type": "MCQ",
-    "options": {
-      "a": "The rise of fascism in Europe would have been slower",
-      "b": "World War II would have occurred far earlier",
-      "c": "The Soviet Union would have collapsed early",
-      "d": "Global trade would have shut down anyway"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 23,
-    "question": "If the Meiji Restoration never took place, Japan would not have rapidly modernized in the 19th century.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 24,
-    "question": "If World War I never occurred, what might have happened to the Ottoman Empire?",
-    "type": "MCQ",
-    "options": {
-      "a": "It would have survived longer",
-      "b": "It would have become fully democratic",
-      "c": "It would have conquered new territories",
-      "d": "It would have peacefully dissolved"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 25,
-    "question": "If the Cuban Missile Crisis never happened, U.S.-Soviet nuclear tension would have been lower.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 26,
-    "question": "If the internet had not been developed, what area would be most impacted?",
-    "type": "MCQ",
-    "options": {
-      "a": "International communication",
-      "b": "Agricultural production",
-      "c": "Nuclear physics",
-      "d": "Tourism infrastructure"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 27,
-    "question": "If the Protestant Reformation had not happened, the Catholic Church would have remained unchallenged.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 28,
-    "question": "If Napoleon had not been defeated at Waterloo, what might have happened?",
-    "type": "MCQ",
-    "options": {
-      "a": "France would have expanded further",
-      "b": "Democracy would have spread more rapidly",
-      "c": "Industrialization would have halted",
-      "d": "Britain would have withdrawn from Europe"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 29,
-    "question": "If slavery had never existed in the U.S., racial inequality would not exist today.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 30,
-    "question": "If the Treaty of Versailles had been less harsh, what might have been prevented?",
-    "type": "MCQ",
-    "options": {
-      "a": "The rise of Adolf Hitler",
-      "b": "The Soviet Union's expansion",
-      "c": "The Great Depression",
-      "d": "Colonial independence movements"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 31,
-    "question": "If electricity had never been discovered, modern industrialization would have been impossible.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 32,
-    "question": "If Julius Caesar had not been assassinated, what is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "The Roman Republic might have lasted longer",
-      "b": "The Empire would have emerged sooner",
-      "c": "Caesar would have peacefully stepped down",
-      "d": "Rome would have fractured internally"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 33,
-    "question": "If the moon landing never happened, global confidence in U.S. science would have dropped.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 34,
-    "question": "If China had not adopted market reforms in 1978, what would likely have occurred?",
-    "type": "MCQ",
-    "options": {
-      "a": "Slower economic growth",
-      "b": "Rapid democratization",
-      "c": "Earlier technological dominance",
-      "d": "Breakup of the Communist Party"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 35,
-    "question": "If the Great Wall of China had never been built, China would have been more exposed to invasions.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 36,
-    "question": "If Alexander the Great had not died early, what likely would have happened?",
-    "type": "MCQ",
-    "options": {
-      "a": "His empire would have expanded deeper into Asia",
-      "b": "His generals would have overthrown him",
-      "c": "Rome would have expanded earlier",
-      "d": "Persia would have regained control"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 37,
-    "question": "If the Cold War had continued past 1991, nuclear stockpiles would have grown further.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 38,
-    "question": "If apartheid had not ended in 1994, what would have happened?",
-    "type": "MCQ",
-    "options": {
-      "a": "Increasing sanctions and isolation",
-      "b": "A rapid multicultural transition",
-      "c": "A peaceful coexistence system",
-      "d": "The ANC dissolving"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 39,
-    "question": "If women had not gained the right to vote, gender equality would be far behind today.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 40,
-    "question": "If the Korean War never happened, what is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Korea might have remained a unified state",
-      "b": "China would have expanded into the peninsula",
-      "c": "Japan would have taken control",
-      "d": "The U.S. would have dissolved NATO"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 41,
-    "question": "If the Louisiana Purchase of 1803 never occurred, would the United States have remained confined to the East Coast for most of the 19th century?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 42,
-    "question": "If the Spanish–American War of 1898 never happened, what outcome would be most likely for U.S. influence in the Pacific?",
-    "type": "MCQ",
-    "options": {
-      "a": "The United States would never gain any territory in the Pacific",
-      "b": "Spain would maintain control of its colonies indefinitely",
-      "c": "Japan would immediately annex all Spanish territories",
-      "d": "U.S. expansion into the Pacific would occur through later diplomatic agreements"
-    },
-    "answer": "d"
-  },
-  {
-    "question_id": 43,
-    "question": "If the Bolshevik Revolution in 1917 never occurred, Russia would have transitioned peacefully into a liberal democracy by 1925.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 44,
-    "question": "If the Opium Wars never occurred, how would China's 19th-century global position most likely have changed?",
-    "type": "MCQ",
-    "options": {
-      "a": "China would have remained fully isolated from all global trade",
-      "b": "China would have rapidly industrialized before Japan",
-      "c": "European influence in Asia would vanish completely",
-      "d": "China would have opened to trade later but on more equal terms"
-    },
-    "answer": "d"
-  },
-  {
-    "question_id": 45,
-    "question": "If the United States had not joined World War I in 1917, the Allied victory would have been significantly delayed.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 46,
-    "question": "If the Chinese Civil War ended differently and the Communists never took power in 1949, what is the most plausible outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "China becomes a U.S.-aligned capitalist state",
-      "b": "China forms a monarchy under foreign influence",
-      "c": "China remains divided into several warlord regions",
-      "d": "China enters an era of complete isolation like North Korea"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 47,
-    "question": "If the Partition of India in 1947 never occurred, South Asia would have avoided decades of geopolitical tension.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 48,
-    "question": "If the Great Depression of 1929 never occurred, what would be the most likely effect on global political movements?",
-    "type": "MCQ",
-    "options": {
-      "a": "Communism would disappear entirely by 1950",
-      "b": "Democracies worldwide would collapse regardless",
-      "c": "Far-right and far-left movements would have gained less support",
-      "d": "Colonial empires would break up immediately"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 49,
-    "question": "If the Cuban Missile Crisis of 1962 never occurred, the Cold War would have been far less dangerous.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 50,
-    "question": "If the Aztec Empire had defeated the Spanish in the early 1500s, what long-term consequence is most likely?",
-    "type": "MCQ",
-    "options": {
-      "a": "No European nation would attempt colonization of the Americas again",
-      "b": "Mesoamerica would become entirely isolated",
-      "c": "The Aztecs would adopt selective European technologies",
-      "d": "The Aztec Empire would industrialize before Europe"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 51,
-    "question": "If the assassination of Archduke Franz Ferdinand in 1914 never occurred, Europe would have avoided World War I entirely.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 52,
-    "question": "If the Korean War never happened, what is the most likely fate of the Korean Peninsula?",
-    "type": "MCQ",
-    "options": {
-      "a": "Unified under a Communist regime",
-      "b": "Annexed by China",
-      "c": "Unified under a democratic government",
-      "d": "Permanently divided but peacefully coexisting"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 53,
-    "question": "If the Protestant Reformation of 1517 never began, Europe would have remained religiously unified.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 54,
-    "question": "If the Meiji Restoration of 1868 never occurred, which result is most likely for Japan?",
-    "type": "MCQ",
-    "options": {
-      "a": "Japan becomes a European colony",
-      "b": "Japan quickly surpasses European naval power",
-      "c": "Japan remains isolated and agrarian much longer",
-      "d": "Japan becomes the world's first industrial superpower"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 55,
-    "question": "If the French Revolution of 1789 never happened, Europe would have avoided the rise of Napoleon.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 56,
-    "question": "If the Great Fire of London in 1666 never happened, what change is most plausible?",
-    "type": "MCQ",
-    "options": {
-      "a": "Urban sanitation improves dramatically",
-      "b": "Britain collapses into a civil war",
-      "c": "London's medieval architecture survives much longer",
-      "d": "The monarchy is abolished"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 57,
-    "question": "If the Mongol invasions of the 13th century never occurred, Eastern Europe would have developed without major disruption.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 58,
-    "question": "If the Scientific Revolution never occurred, which consequence is most likely?",
-    "type": "MCQ",
-    "options": {
-      "a": "Religious institutions weaken more rapidly",
-      "b": "Industrialization happens centuries earlier",
-      "c": "Technological progress slows significantly",
-      "d": "Space travel develops in the 1700s"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 59,
-    "question": "If the Roman Empire never adopted Christianity, Europe would have remained predominantly polytheistic.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 60,
-    "question": "If the discovery of the Americas in 1492 never happened, what is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Asia becomes the dominant colonial power",
-      "b": "Europe suffers severe population decline",
-      "c": "Global trade networks develop far more slowly",
-      "d": "Technological progress halts entirely"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 61,
-    "question": "If the Black Death of the 14th century never occurred, Europe's feudal system would have survived much longer.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 62,
-    "question": "If the Space Race never began in the 1950s, which development is most plausible?",
-    "type": "MCQ",
-    "options": {
-      "a": "Nuclear weapons become obsolete",
-      "b": "Space colonization begins earlier",
-      "c": "Satellite technology develops decades later",
-      "d": "The Internet appears in the 1930s"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 63,
-    "question": "If apartheid in South Africa never ended in the 1990s, the country would have faced international isolation for much longer.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 64,
-    "question": "If the Renaissance never occurred, what is the most likely consequence for Europe?",
-    "type": "MCQ",
-    "options": {
-      "a": "Democratic institutions emerge faster",
-      "b": "Europe becomes fully Islamic",
-      "c": "Artistic and scientific progress slows dramatically",
-      "d": "Europe industrializes earlier than Asia"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 65,
-    "question": "If the Berlin Wall never fell in 1989, Germany would still be divided today.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 66,
-    "question": "If oil had never been discovered in the Middle East, which scenario is most likely?",
-    "type": "MCQ",
-    "options": {
-      "a": "The region becomes a major industrial superpower",
-      "b": "European colonialism ends immediately",
-      "c": "Middle Eastern states remain politically fragmented",
-      "d": "The region unifies under one empire"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 67,
-    "question": "If World War II never occurred, the United Nations would not have formed in 1945.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 68,
-    "question": "If Napoleon had won the Battle of Waterloo, what long-term outcome is most likely?",
-    "type": "MCQ",
-    "options": {
-      "a": "Immediate industrial collapse across Europe",
-      "b": "Russia becomes the dominant world power",
-      "c": "The United States joins the French Empire",
-      "d": "A long-lasting French-led European empire"
-    },
-    "answer": "d"
-  },
-  {
-    "question_id": 69,
-    "question": "If the Chinese invention of gunpowder never occurred, European warfare would have developed similarly.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 70,
-    "question": "If the American Civil War never occurred, what is the most likely national outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "The U.S. becomes a monarchy",
-      "b": "Rapid reunification under Canada",
-      "c": "Slavery continues for several more decades",
-      "d": "The U.S. splits into multiple independent republics"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 71,
-    "question": "If the Printing Press had never been invented, mass literacy would have been significantly delayed.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 72,
-    "question": "If the Suez Crisis of 1956 never happened, which outcome is most plausible?",
-    "type": "MCQ",
-    "options": {
-      "a": "Israel collapses as a nation-state",
-      "b": "Cold War alliances dissolve",
-      "c": "Egypt becomes a nuclear state",
-      "d": "Britain and France maintain stronger global influence"
-    },
-    "answer": "d"
-  },
-  {
-    "question_id": 73,
-    "question": "If ancient Greece never developed democracy, modern democratic systems would look the same today.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 74,
-    "question": "If the transatlantic slave trade never occurred, what is the most likely demographic effect on the Americas?",
-    "type": "MCQ",
-    "options": {
-      "a": "Europeans import labor from Asia instead",
-      "b": "Industrialization never occurs",
-      "c": "Population growth in the Americas slows significantly",
-      "d": "Monarchies dominate the Americas indefinitely"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 75,
-    "question": "If the Cold War never happened, nuclear weapons would likely not spread globally.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 76,
-    "question": "If the fall of Constantinople in 1453 never happened, which scenario is most likely?",
-    "type": "MCQ",
-    "options": {
-      "a": "Europe becomes entirely Orthodox Christian",
-      "b": "The Ottoman Empire conquers all of Europe",
-      "c": "The Byzantine Empire survives into the modern era",
-      "d": "The Renaissance begins in the Ottoman Empire"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 77,
-    "question": "If the Vietnam War never occurred, U.S. domestic political polarization would be much lower today.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 78,
-    "question": "If the discovery of penicillin never happened, what is the most likely outcome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Vaccines replace antibiotics completely",
-      "b": "Surgery becomes obsolete",
-      "c": "Infectious disease mortality stays extremely high",
-      "d": "Hospitals cease to exist"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 79,
-    "question": "If the British Empire never colonized India, India's economy would develop in the same manner.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 80,
-    "question": "If the Battle of Hastings in 1066 never occurred, what is the most likely consequence for England?",
-    "type": "MCQ",
-    "options": {
-      "a": "England becomes a French-speaking monarchy",
-      "b": "The Vikings conquer England permanently",
-      "c": "The English language remains primarily Germanic",
-      "d": "England unites with Scotland centuries earlier"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 81,
-    "question": "If the Renaissance never occurred, would scientific discoveries have been delayed in Europe?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 82,
-    "question": "If the American Constitution had not been ratified in 1789, what might have been affected?",
-    "type": "MCQ",
-    "options": {
-      "a": "U.S. federal government structure",
-      "b": "The French Revolution",
-      "c": "British monarchy",
-      "d": "The Louisiana Purchase"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 83,
-    "question": "If the Industrial Revolution never occurred, global economic development would have been slower.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 84,
-    "question": "If the American Civil Rights Act of 1964 never passed, what would have happened?",
-    "type": "MCQ",
-    "options": {
-      "a": "Segregation and discrimination would have persisted longer",
-      "b": "Women would have gained the right to vote earlier",
-      "c": "Slavery would have returned",
-      "d": "The U.S. would have become a monarchy"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 85,
-    "question": "If the Great Depression never occurred, global economic policies might have developed differently.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 86,
-    "question": "If the discovery of penicillin in 1928 never occurred, what would have been affected most?",
-    "type": "MCQ",
-    "options": {
-      "a": "Treatment of bacterial infections",
-      "b": "Agricultural growth",
-      "c": "Space travel",
-      "d": "Electricity generation"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 87,
-    "question": "If the French Revolution never occurred, would European monarchies have survived longer?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 88,
-    "question": "If the Cold War never occurred, which of the following might have been different?",
-    "type": "MCQ",
-    "options": {
-      "a": "Global nuclear arms race",
-      "b": "The French Revolution",
-      "c": "The Black Death",
-      "d": "Renaissance art"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 89,
-    "question": "If the Wright brothers had not invented the airplane in 1903, would international travel by air have been delayed?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 90,
-    "question": "If the U.S. Civil War never occurred, what would have been the impact on slavery?",
-    "type": "MCQ",
-    "options": {
-      "a": "Slavery might have continued longer",
-      "b": "Slavery would have ended immediately",
-      "c": "Slavery would have expanded to the North",
-      "d": "Slavery would have ended globally"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 91,
-    "question": "If the Berlin Airlift never happened in 1948, would West Berlin have survived Soviet pressure?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 92,
-    "question": "If the Treaty of Versailles in 1919 had been more lenient, what might have been prevented?",
-    "type": "MCQ",
-    "options": {
-      "a": "Rise of Adolf Hitler and World War II",
-      "b": "Russian Revolution",
-      "c": "Cold War",
-      "d": "Industrial Revolution"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 93,
-    "question": "If the Magna Carta never existed, would modern constitutional law in England have developed later?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 94,
-    "question": "If the Cuban Revolution never happened in 1959, what would have been affected most?",
-    "type": "MCQ",
-    "options": {
-      "a": "U.S.-Cuba relations",
-      "b": "Vietnam War",
-      "c": "World War II outcome",
-      "d": "Space Race"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 95,
-    "question": "If the Ottoman Empire had never fallen after World War I, would the Middle East have experienced the same political boundaries?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 96,
-    "question": "If the printing press never existed, what would have been affected most in Europe?",
-    "type": "MCQ",
-    "options": {
-      "a": "Spread of knowledge and literacy",
-      "b": "Colonization of Africa",
-      "c": "Industrial Revolution",
-      "d": "French Revolution"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 97,
-    "question": "If the assassination of Archduke Franz Ferdinand never occurred, would World War I still have happened?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 98,
-    "question": "If the Great Fire of London in 1666 never occurred, what would have been affected most?",
-    "type": "MCQ",
-    "options": {
-      "a": "City planning and architecture",
-      "b": "The printing press",
-      "c": "French monarchy",
-      "d": "Industrial Revolution"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 99,
-    "question": "If women had not gained the right to vote in the early 20th century, would gender equality have progressed as it did?",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 100,
-    "question": "If the atomic bomb had never been developed during World War II, what would have been affected most?",
-    "type": "MCQ",
-    "options": {
-      "a": "End of World War II in the Pacific",
-      "b": "Outcome of the Cold War",
-      "c": "Rise of Nazi Germany",
-      "d": "Fall of the Soviet Union"
-    },
-    "answer": "a"
-  }
+    {
+        "question_id": 1,
+        "question": "If the Byzantine Empire had successfully repelled the Ottoman siege in 1453, would Western Europe's Renaissance trajectory have changed significantly?",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 2,
+        "question": "If the Spanish Armada had succeeded in 1588, which long-term outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Spain gains full administrative control over England within a decade",
+            "b": "The Dutch revolt immediately collapses due to loss of English support",
+            "c": "England becomes permanently Catholic but retains political autonomy",
+            "d": "The Ottoman Empire forms an alliance with England against Spain"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 3,
+        "question": "If the Great Schism of 1054 never occurred, Christian Europe would have remained politically unified into the early modern era.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 4,
+        "question": "If the Taiping Rebellion (1850–1864) had succeeded in overthrowing the Qing, what is the most likely regional effect?",
+        "type": "MCQ",
+        "options": {
+            "a": "Japan postpones its Meiji reforms",
+            "b": "European colonial influence in China expands faster",
+            "c": "China rapidly industrializes under Taiping leadership",
+            "d": "Russia annexes northern China immediately"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 5,
+        "question": "If the Mongols had successfully invaded Japan in 1281, East Asian political structures would remain unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 6,
+        "question": "If the Abbasid Caliphate had not fragmented in the 10th century, what long-term development is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Europe industrializes centuries later",
+            "b": "The Islamic Golden Age lasts significantly longer",
+            "c": "The Mongol invasions bypass the Middle East entirely",
+            "d": "Byzantium annexes the Levant"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 7,
+        "question": "If the Polish-Lithuanian Commonwealth had not been partitioned in the late 18th century, would Russia's western expansion still have occurred?",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 8,
+        "question": "If the Mali Empire had gained direct control over Atlantic trade routes in the 15th century, what is the most likely outcome?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mali becomes an early global naval power",
+            "b": "The trans-Saharan trade collapses immediately",
+            "c": "Portugal delays African coastal exploration",
+            "d": "Europe forms direct alliances with Mali against North African states"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 9,
+        "question": "If the Italian city-states had unified in the 1400s, the Renaissance would have been less influential across Europe.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 10,
+        "question": "If the British lost the Second Boer War (1899–1902), what long-term effect is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "British imperial prestige weakens globally",
+            "b": "Germany immediately annexes South Africa",
+            "c": "The Boer republics industrialize rapidly",
+            "d": "Britain abandons India earlier"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 11,
+        "question": "If the Aztec Empire had centralized its tributary system more effectively before 1500, Spanish conquest would still have been inevitable.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 12,
+        "question": "If the Mughal Empire had not declined after Aurangzeb, what is the most plausible historical effect?",
+        "type": "MCQ",
+        "options": {
+            "a": "British colonial rule in India is delayed or weakened",
+            "b": "The Persian Empire conquers northern India",
+            "c": "Maratha expansion becomes unstoppable",
+            "d": "The Mughal economy collapses due to over-centralization"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 13,
+        "question": "If the Qin Dynasty had not unified China in 221 BCE, the development of a centralized Chinese bureaucratic state would have occurred centuries later.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 14,
+        "question": "If the Haitian Revolution (1791–1804) had been crushed early, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "France strengthens its Caribbean empire",
+            "b": "Spain annexes Haiti",
+            "c": "The U.S. accelerates westward expansion",
+            "d": "Brazil abolishes slavery immediately"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 15,
+        "question": "If the Abbasid translation movement never began, medieval European scholarship would have progressed at the same pace.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 16,
+        "question": "If Charlemagne's empire had not fragmented after his death, what long-term effect is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "A pan-European empire emerges centuries earlier",
+            "b": "The Papacy becomes subordinate to imperial rule",
+            "c": "Feudalism collapses in Western Europe",
+            "d": "The Viking raids intensify significantly"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 17,
+        "question": "If the Seljuk defeat at Manzikert in 1071 never occurred, Byzantium would have regained control over the Middle East.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 18,
+        "question": "If the Khmer Empire had maintained its irrigation systems into the 1400s, what is the most plausible outcome?",
+        "type": "MCQ",
+        "options": {
+            "a": "China annexes the empire",
+            "b": "Islam spreads widely into mainland Southeast Asia",
+            "c": "Angkor becomes a major Indian Ocean trading hub",
+            "d": "Vietnam defeats the Khmer earlier"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 19,
+        "question": "If Viking settlements in North America had survived into the 1200s, European colonization patterns would remain unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 20,
+        "question": "If the Abbasid Caliphate had developed naval dominance in the Indian Ocean, what long-term impact is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "European maritime exploration is delayed",
+            "b": "The Delhi Sultanate collapses",
+            "c": "The Silk Road becomes irrelevant",
+            "d": "Japan forms direct diplomatic ties with Arabia"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 21,
+        "question": "If the Inca Empire had widespread use of iron tools, Spanish conquest would still have succeeded.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 22,
+        "question": "If the Taft-Katsura Agreement (1905) never occurred, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Japan delays its expansion into Korea",
+            "b": "U.S.–Japan relations deteriorate earlier",
+            "c": "Russia maintains dominance in East Asia",
+            "d": "China becomes a Japanese protectorate"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 23,
+        "question": "If the Abbasid revolt against the Umayyads had failed, the Islamic Golden Age would still have emerged under Umayyad rule.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 24,
+        "question": "If sub-Saharan African kingdoms had developed gunpowder weaponry earlier than Europe, what is the most likely outcome?",
+        "type": "MCQ",
+        "options": {
+            "a": "Africa colonizes parts of southern Europe",
+            "b": "Atlantic trade routes collapse",
+            "c": "China allies with African states against Europe",
+            "d": "European coastal forts fail to gain foothold"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 25,
+        "question": "If the Reconquista in Spain never concluded in 1492, Iberian exploration of the Atlantic might have been significantly delayed.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 26,
+        "question": "If the Ottoman Empire had industrialized in the early 1700s, which development becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman control expands into Central Europe",
+            "b": "The Russian Empire collapses in the 18th century",
+            "c": "The Ottoman Empire becomes a naval superpower",
+            "d": "The Mughal Empire becomes an Ottoman vassal"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 27,
+        "question": "If the Song Dynasty had not lost northern China to the Jin, gunpowder weaponry would have been invented much later.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 28,
+        "question": "If the Byzantine Empire had won the Battle of Yarmouk (636 CE), which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Islamic expansion into the Levant slows dramatically",
+            "b": "Arab tribes convert to Christianity en masse",
+            "c": "Persia conquers Byzantium shortly after",
+            "d": "North Africa becomes the Byzantine economic center"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 29,
+        "question": "If the Ming Dynasty had continued Zheng He's voyages beyond 1433, China's dominance in the Indian Ocean would remain unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 30,
+        "question": "If ancient Egypt had adopted iron technology earlier, what is the most plausible outcome?",
+        "type": "MCQ",
+        "options": {
+            "a": "Egypt withstands Assyrian invasions",
+            "b": "Phoenician trade collapses",
+            "c": "The Hittites dominate Mediterranean politics",
+            "d": "Persia conquers Egypt centuries earlier"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 31,
+        "question": "If the Akkadian Empire had not collapsed due to drought, Mesopotamian city-state culture would have continued to evolve independently.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 32,
+        "question": "If the Maurya Empire had not declined after Ashoka, which development is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Buddhism becomes the dominant religion in South Asia",
+            "b": "The Roman Empire forms direct contact with India",
+            "c": "The Gupta Empire rises sooner",
+            "d": "China annexes northern India"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 33,
+        "question": "If the Han Dynasty had avoided collapse in 220 CE, China’s Three Kingdoms period would still have occurred.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 34,
+        "question": "If the Achaemenid Empire had won the Greco-Persian Wars, which long-term outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Greek philosophy spreads under Persian patronage",
+            "b": "The Roman Republic collapses in its early years",
+            "c": "Egypt becomes the Persian capital",
+            "d": "Persian rule leads to early industrial development"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 35,
+        "question": "If the Shang Dynasty had not fallen to the Zhou, Chinese feudalism would never have developed.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 36,
+        "question": "If the Roman Senate had prevented Julius Caesar's rise to power, which development becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Roman Republic survives significantly longer",
+            "b": "Carthage regains Mediterranean dominance",
+            "c": "Rome fragments into independent city-states",
+            "d": "The Roman Empire forms earlier under another general"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 37,
+        "question": "If the Minoan civilization had not collapsed around 1450 BCE, Mycenaean dominance would still have emerged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 38,
+        "question": "If the Umayyad Caliphate had won the Battle of Tours (732 CE), what is the most likely consequence?",
+        "type": "MCQ",
+        "options": {
+            "a": "Islamic influence expands deeper into Western Europe",
+            "b": "The Byzantine Empire collapses immediately",
+            "c": "North African states become Catholic",
+            "d": "Viking raids cease entirely"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 39,
+        "question": "If the Phoenicians had not developed advanced shipbuilding, Mediterranean trade networks would remain as interconnected as they became historically.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 40,
+        "question": "If the Zulu Kingdom had modernized militarily before 1820, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "European settlement in southern Africa faces heavy resistance",
+            "b": "The Mfecane never occurs",
+            "c": "The Zulu Empire expands into central Africa",
+            "d": "Britain establishes early alliances with the Zulu"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 41,
+        "question": "If the Mongol Empire had not fragmented after 1260, Eurasian trade under the Pax Mongolica would have continued uninterrupted for centuries.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 42,
+        "question": "If the Kingdom of Axum had adopted large-scale maritime expansion in the 5th century CE, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Axum becomes the dominant Red Sea naval power",
+            "b": "Rome annexes Axum to secure trade routes",
+            "c": "Axum colonizes parts of India",
+            "d": "The Arabian Peninsula converts to Christianity en masse"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 43,
+        "question": "If the Gupta Empire had not declined in the 6th century, India's scientific advancements would have continued at the same pace regardless.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 44,
+        "question": "If the Sassanian Empire had defeated the Arabs in the 630s, what is the most plausible outcome?",
+        "type": "MCQ",
+        "options": {
+            "a": "Zoroastrianism remains a major world religion",
+            "b": "The Byzantine Empire collapses immediately",
+            "c": "South Asia converts to Zoroastrianism",
+            "d": "The Silk Road shuts down permanently"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 45,
+        "question": "If the Abbasids had never moved their capital to Baghdad, the empire's intellectual flourishing would still have been as strong.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 46,
+        "question": "If the early Rus' principalities had united under a strong centralized monarchy by 1100, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Kievan Rus becomes a major European power",
+            "b": "The Mongol invasions bypass the region",
+            "c": "Scandinavia annexes the Rus territories",
+            "d": "Orthodox Christianity is replaced by Catholicism"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 47,
+        "question": "If the Holy Roman Empire had abolished its system of autonomous principalities earlier, German unification would have been delayed.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 48,
+        "question": "If the Almoravid Empire had expanded deeper into Iberia after 1100, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Reconquista is delayed by centuries",
+            "b": "France annexes northern Spain",
+            "c": "Portugal gains independence earlier",
+            "d": "North Africa unites under a single caliphate"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 49,
+        "question": "If the Roman Republic had adopted a written constitution, its collapse into empire would have occurred anyway.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 50,
+        "question": "If the Abbasids had developed gunpowder weapons first, which geopolitical effect is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Ottoman Empire never rises to power",
+            "b": "China halts maritime exploration",
+            "c": "Byzantium conquers Mesopotamia",
+            "d": "Europe industrializes earlier"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 51,
+        "question": "If the ancient Indus Valley Civilization had not collapsed, South Asian urbanization would have followed the same historical path.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 52,
+        "question": "If the Neo-Assyrian Empire had successfully integrated its conquered populations, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "The empire survives for significantly longer",
+            "b": "Babylon becomes the regional capital",
+            "c": "Persia forms earlier under a rival dynasty",
+            "d": "Egypt dominates Mesopotamia"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 53,
+        "question": "If the Zhou Dynasty had never adopted the Mandate of Heaven doctrine, Chinese dynastic cycles would have remained unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 54,
+        "question": "If Alexander the Great had established a stable succession plan, which long-term outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Hellenistic world forms a unified Mediterranean–Asian state",
+            "b": "Rome conquers Greece earlier",
+            "c": "India annexes Persia",
+            "d": "Greek culture dissolves rapidly"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 55,
+        "question": "If the Carthaginians had won the Second Punic War, Rome still would have risen to become a dominant Mediterranean power.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 56,
+        "question": "If ancient Nubia had industrialized iron production earlier, what is the most plausible result?",
+        "type": "MCQ",
+        "options": {
+            "a": "Nubia challenges Egypt’s dominance",
+            "b": "Rome invades sub-Saharan Africa",
+            "c": "Arab expansion bypasses the region",
+            "d": "The Nile becomes an isolated trade zone"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 57,
+        "question": "If the early Japanese Yamato state had never formed, the archipelago’s political unification would still have occurred on the same timeline.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 58,
+        "question": "If the Mayan city-states had developed a unified empire around 700 CE, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Maya resist collapse longer",
+            "b": "Aztec dominance begins centuries earlier",
+            "c": "Spanish arrival triggers earlier Mayan collapse",
+            "d": "South America becomes Maya-influenced"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 59,
+        "question": "If ancient Greece had never developed hoplite warfare, Greek unification under Macedon would have still occurred.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 60,
+        "question": "If the Tang Dynasty had maintained control over Central Asia after 750 CE, what is the most likely development?",
+        "type": "MCQ",
+        "options": {
+            "a": "Chinese cultural influence expands deeper into Persia",
+            "b": "The Abbasids conquer China",
+            "c": "Buddhism disappears in China",
+            "d": "Japan becomes a Tang colony"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 61,
+        "question": "If the Roman Empire had survived intact into the 8th century, the rise of Islam would have been unaffected.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 62,
+        "question": "If the Athenian Empire had defeated Sparta in the Peloponnesian War, which long-term outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Athens maintains a powerful maritime empire",
+            "b": "Macedon conquers Greece earlier",
+            "c": "Rome directly intervenes in Greek affairs",
+            "d": "Sparta becomes a democratic state"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 63,
+        "question": "If the Assyrian Empire had not been unusually brutal in its governance, its collapse would still have been inevitable.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 64,
+        "question": "If Persia had successfully conquered Greece in 480 BCE, what long-term development becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Greek culture continues under Persian patronage",
+            "b": "Rome remains a minor power",
+            "c": "Egypt conquers the Mediterranean",
+            "d": "Europe becomes predominantly Zoroastrian"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 65,
+        "question": "If the Kingdom of Kush had controlled Lower Egypt for longer, Mediterranean power dynamics would have developed the same way.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 66,
+        "question": "If the Olmecs had developed writing earlier, which development is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mesoamerican cultures share a unified written tradition",
+            "b": "The Maya collapse earlier",
+            "c": "Spanish conquest becomes impossible",
+            "d": "Andean civilizations adopt the Olmec script"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 67,
+        "question": "If ancient Rome had abolished slavery early in its history, its economic expansion would have followed the same trajectory.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 68,
+        "question": "If the Sumerians had developed long-distance maritime navigation, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Sumerian trade reaches the Indus Valley directly",
+            "b": "Egypt becomes a Sumerian colony",
+            "c": "Greece industrializes early",
+            "d": "China becomes Sumerian-influenced"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 69,
+        "question": "If the Hittite Empire had not collapsed during the Bronze Age Collapse, the rise of Assyria would still have occurred.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 70,
+        "question": "If the Shang Dynasty had expanded deeper into the northern steppes, which long-term effect is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Nomadic confederations form later",
+            "b": "China becomes predominantly pastoral",
+            "c": "Japan is incorporated into Chinese influence early",
+            "d": "The Silk Road collapses"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 71,
+        "question": "If ancient Phoenicians had never developed their alphabet, Mediterranean literacy patterns would have remained unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 72,
+        "question": "If the Urartu Kingdom had expanded successfully against Assyria, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "A powerful Armenian empire emerges",
+            "b": "Persia collapses early",
+            "c": "Babylon annexes Anatolia",
+            "d": "The Hittites reemerge"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 73,
+        "question": "If the ancient Athenian democracy had allowed broader political inclusion, Greek political development would have been identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 74,
+        "question": "If the Nabateans had expanded their Arabian trade monopoly further, which development is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome faces stronger resistance in the Near East",
+            "b": "Persia conquers Petra earlier",
+            "c": "Egypt becomes Nabatean territory",
+            "d": "The Silk Road becomes obsolete"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 75,
+        "question": "If ancient China had not developed paper in the Han period, literacy rates would have been unaffected.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 76,
+        "question": "If the Etruscans had dominated early Italy longer, what is the most plausible effect?",
+        "type": "MCQ",
+        "options": {
+            "a": "Roman cultural identity develops differently",
+            "b": "Greece conquers Italy earlier",
+            "c": "Carthage annexes northern Italy",
+            "d": "The Roman Empire still forms on the same timeline"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 77,
+        "question": "If the ancient Celts had developed centralized states, Rome would still have dominated Western Europe.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 78,
+        "question": "If the Moche civilization in Peru had expanded into the Andes earlier, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Andean polities unify centuries earlier",
+            "b": "The Inca Empire never forms",
+            "c": "Mesoamerica establishes trade with the Andes",
+            "d": "The Moche develop writing under Maya influence"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 79,
+        "question": "If the Akkadians had resisted drought more effectively, the rise of later Mesopotamian empires would still have occurred as historically.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 80,
+        "question": "If the ancient Israelites had established a larger territorial kingdom, which long-term outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Regional empires treat Israel as a major power",
+            "b": "Persia bypasses the Levant entirely",
+            "c": "Egypt loses all influence in the region",
+            "d": "Phoenician culture declines rapidly"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 81,
+        "question": "If ancient Mesopotamia had not developed cuneiform, early administrative systems across the Near East would have evolved identically.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 82,
+        "question": "If the Kingdom of Aksum had expanded aggressively into the Arabian Peninsula, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Aksum controls Red Sea trade for centuries",
+            "b": "Sassanian Persia annexes Aksum",
+            "c": "Arabian tribes migrate into East Africa",
+            "d": "The Roman Empire collapses earlier"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 83,
+        "question": "If the ancient Hebrews had not developed monotheism, the rise of later Abrahamic religions would be unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 84,
+        "question": "If the Assyrians had adopted less militaristic strategies, which long-term result is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "The empire survives significantly longer",
+            "b": "Neo-Babylon never emerges",
+            "c": "Persia takes over Mesopotamia earlier",
+            "d": "Egypt and Assyria form a unified empire"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 85,
+        "question": "If the Huns had not pressured Germanic tribes into Roman territory, the Western Roman Empire would have collapsed on the same timeline.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 86,
+        "question": "If the Scythians had formed a centralized empire, which development is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Eurasian nomadic confederations stabilize earlier",
+            "b": "China expands into Central Asia sooner",
+            "c": "Rome establishes colonies in the steppe",
+            "d": "Persia becomes isolated from trade routes"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 87,
+        "question": "If early Buddhism had not spread along Silk Road routes, East Asian religious patterns would have remained identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 88,
+        "question": "If the Qin Dynasty had preserved its legalist reforms but avoided harsh rule, what is the most plausible outcome?",
+        "type": "MCQ",
+        "options": {
+            "a": "Qin rule lasts significantly longer",
+            "b": "Han rule begins earlier and is more decentralized",
+            "c": "China fractures into competing feudal states immediately",
+            "d": "Daoism becomes the dominant Chinese ideology"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 89,
+        "question": "If the Sumerians had never invented the wheel, early urban logistics would have progressed at the same rate.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 90,
+        "question": "If the Roman Empire had fully conquered Germania, which long-term consequence is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Germanic tribal identities weaken, delaying medieval kingdoms",
+            "b": "Rome collapses centuries earlier",
+            "c": "Gaul becomes culturally Germanic",
+            "d": "Slavic expansion accelerates"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 91,
+        "question": "If the Shang Dynasty had adopted a more centralized bureaucracy, Zhou conquest would still have occurred.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 92,
+        "question": "If the Etruscans had established a Mediterranean naval empire, what is the most plausible outcome?",
+        "type": "MCQ",
+        "options": {
+            "a": "Greek colonial expansion is slowed",
+            "b": "Phoenician Carthage collapses early",
+            "c": "Rome is pushed north of the Alps",
+            "d": "Persia becomes a naval superpower"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 93,
+        "question": "If the Chola Empire had continued maritime dominance into the 13th century, Southeast Asian politics would be unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 94,
+        "question": "If the Amorites had not taken over Babylon, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Hammurabi’s legal reforms never arise",
+            "b": "Assyria collapses early",
+            "c": "Egypt becomes Mesopotamia’s dominant power",
+            "d": "Persia conquers Babylon earlier"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 95,
+        "question": "If ancient Persia had not built the Royal Road, administrative cohesion across the empire would remain unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 96,
+        "question": "If the Nabataeans had industrialized desert water management earlier, what becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Nabataean urban centers rival Roman cities",
+            "b": "Egypt takes control of Petra",
+            "c": "Persia controls Arabian trade routes",
+            "d": "The Silk Road shifts to maritime routes"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 97,
+        "question": "If the Seleucid Empire had managed to retain control over its eastern territories, its decline would have happened on the same timeline.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 98,
+        "question": "If the Philistine confederation had unified into a stronger kingdom, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Israelite expansion slows significantly",
+            "b": "Assyria annexes the Levant earlier",
+            "c": "Egypt loses the Sinai region",
+            "d": "Phoenician cities decline rapidly"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 99,
+        "question": "If ancient Chinese states had not adopted iron tools, agricultural productivity would have been unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 100,
+        "question": "If the Armenian Kingdom of Cilicia had survived longer, which effect is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Crusader states receive stronger regional support",
+            "b": "The Byzantine Empire collapses earlier",
+            "c": "Mamluk expansion accelerates",
+            "d": "Persia becomes Mediterranean-focused"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 101,
+        "question": "If ancient Korean kingdoms had not adopted Chinese writing, political centralization would still have occurred the same way.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 102,
+        "question": "If Carthage had permanently controlled Sicily, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Roman naval development slows significantly",
+            "b": "Greece invades Carthaginian territory",
+            "c": "Egypt forms an alliance with Rome",
+            "d": "Macedon annexes Carthage"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 103,
+        "question": "If the Maurya Empire had not collapsed, Hellenistic influence on India would have remained unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 104,
+        "question": "If the early Islamic Caliphates had adopted federal forms of governance, which result is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Internal revolts decrease significantly",
+            "b": "Persia dominates the caliphate",
+            "c": "Byzantium reclaims the Levant",
+            "d": "West Africa becomes a major Islamic center"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 105,
+        "question": "If the early Slavic tribes had urbanized sooner, Eastern European medieval development would have been identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 106,
+        "question": "If the Song Dynasty had not developed advanced naval technologies, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "China loses influence over Southeast Asian trade",
+            "b": "Japan invades southern China",
+            "c": "The Mongols abandon interest in conquest",
+            "d": "India becomes a naval rival to China"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 107,
+        "question": "If ancient India had not formalized the concept of zero, mathematical development worldwide would be unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 108,
+        "question": "If the Mamluks had lost the Battle of Ain Jalut (1260), which development is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Mongols expand into North Africa",
+            "b": "Byzantium retakes the Levant",
+            "c": "The Ayyubid dynasty returns to power",
+            "d": "The Crusader states survive another century"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 109,
+        "question": "If ancient Greece had never adopted the Phoenician alphabet, Greek culture would have spread the same way.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 110,
+        "question": "If the Kingdom of Ghana had expanded further into the Sahara, which long-term consequence is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Trans-Saharan trade becomes West Africa–dominated",
+            "b": "North Africa loses all economic leverage",
+            "c": "Egypt invades West Africa",
+            "d": "Islam disappears from the Maghreb"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 111,
+        "question": "If the Romans had not adopted Greek philosophical traditions, Roman intellectual culture would be unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 112,
+        "question": "If ancient Japan had developed a unified bureaucratic state before 600 CE, what becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Japan centralizes earlier and expands regionally",
+            "b": "China annexes Japan",
+            "c": "Korea dominates Japan politically",
+            "d": "Buddhism never reaches Japan"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 113,
+        "question": "If the Hellenistic kingdoms had formed a unified alliance after Alexander's death, Roman expansion would still have occurred at the same pace.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 114,
+        "question": "If the ancient Celts had developed written administrative systems, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Celtic states resist Roman conquest more effectively",
+            "b": "The Gauls conquer Iberia",
+            "c": "Viking expansion stops earlier",
+            "d": "Germanic tribes become Celticized"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 115,
+        "question": "If early Islam had not expanded into Persia, the region's later religious developments would be identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 116,
+        "question": "If Byzantium had reconquered Italy permanently in the 6th century, what is the most plausible outcome?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Papacy becomes politically subordinate to Constantinople",
+            "b": "Islam spreads into Europe earlier",
+            "c": "The Franks annex Anatolia",
+            "d": "Rome becomes the empire's new capital"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 117,
+        "question": "If ancient Arabia had not domesticated the camel, Arabian trade networks would be unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 118,
+        "question": "If the Mauryan Empire had expanded deeper into Central Asia, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indo-Greek kingdoms never arise",
+            "b": "Persia conquers northern India earlier",
+            "c": "China establishes western colonies",
+            "d": "The Silk Road never develops"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 119,
+        "question": "If the early Persian empires had not adopted Aramaic as an administrative language, imperial governance would have functioned identically.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 120,
+        "question": "If the Kushan Empire had expanded further into India, which long-term outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Central Asian cultural influence spreads deeper into India",
+            "b": "China invades northern India",
+            "c": "Rome forms a military alliance with India",
+            "d": "Hinduism disappears from the subcontinent"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 121,
+        "question": "If the Late Bronze Age collapse never occurred, which long-term global impact becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Iron adoption spreads more slowly across Eurasia",
+            "b": "Egypt industrializes earlier",
+            "c": "Indo-European migration into Europe accelerates",
+            "d": "Phoenician alphabet remains obscure and unused"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 122,
+        "question": "If the Vikings never began their North Atlantic voyages, European state formation would have proceeded identically.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 123,
+        "question": "If the Khmer Empire had developed advanced hydraulic engineering a century earlier, which consequence is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Angkor remains a megacity for several more centuries",
+            "b": "China conquers mainland Southeast Asia sooner",
+            "c": "Indian Ocean trade bypasses Southeast Asia",
+            "d": "Islam becomes dominant in Cambodia"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 124,
+        "question": "If the Gupta Empire had survived into the 9th century, North India’s political fragmentation would still have occurred the same way.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 125,
+        "question": "If the Mongols had never adopted composite bows, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mongol westward expansion weakens significantly",
+            "b": "The Mongols compensate with superior cavalry armor",
+            "c": "The Mongols become a maritime empire",
+            "d": "The Seljuk Turks conquer East Asia"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 126,
+        "question": "If the Byzantine Empire had successfully repelled the Seljuk Turks at Manzikert, the Ottoman Empire would still emerge on the same timeline.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 127,
+        "question": "If the Abbasid Caliphate had industrialized papermaking a century earlier, which subtle long-term effect is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Scientific output increases noticeably across the Islamic world",
+            "b": "Byzantium collapses earlier",
+            "c": "Europe transitions to printing by 900 CE",
+            "d": "China loses monopoly over paper trade entirely"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 128,
+        "question": "If the Mali Empire had prioritized naval exploration on the Atlantic coast, West African global influence would have remained unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 129,
+        "question": "If the Tang Dynasty had successfully subdued Tibet permanently, which long-term change is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Central Asian trade routes become more China-centered",
+            "b": "Mongol expansion into China is accelerated",
+            "c": "Japan declines culturally due to isolation",
+            "d": "Islam spreads into China earlier"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 130,
+        "question": "If the Polynesians had not developed long-distance ocean navigation, Pacific settlement patterns would be identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 131,
+        "question": "If the Crusader States had unified under a single monarchy in the 12th century, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "They resist Muslim reconquest longer due to administrative cohesion",
+            "b": "Byzantium annexes the Crusader States",
+            "c": "The Mongols create puppet Crusader kingdoms",
+            "d": "Western Europe turns away from Mediterranean trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 132,
+        "question": "If the Aztec Empire had adopted wheel-based transport for ritual use, its military logistics would have been unaffected.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 133,
+        "question": "If the Inca had developed a full writing system earlier, which consequence becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Administrative control tightens, slowing internal rebellions",
+            "b": "The Inca expand into Mesoamerica",
+            "c": "European conquest becomes impossible",
+            "d": "Amazonian civilizations dominate the Andes"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 134,
+        "question": "If the Yuan Dynasty had successfully maintained administrative unity after Kublai Khan, China’s political fragmentation would still occur on the same timetable.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 135,
+        "question": "If the Ming Dynasty had fully institutionalized Zheng He's voyages, which subtle but far-reaching change is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indian Ocean trade norms become Sinicized",
+            "b": "Portugal dominates East Asian waters",
+            "c": "Islam spreads deeper into China via maritime routes",
+            "d": "Japan colonizes Southeast Asia earlier"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 136,
+        "question": "If the Ottoman Empire had never adopted gunpowder weapons, its conquests would have proceeded identically.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 137,
+        "question": "If the Safavid Empire had conquered the Arabian Peninsula, which long-term outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Shia influence expands across Indian Ocean trade networks",
+            "b": "Ottomans annex Persia earlier",
+            "c": "The Mughal Empire becomes Shia-dominated",
+            "d": "Europe loses interest in the spice trade"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 138,
+        "question": "If the Mughal Empire had adopted steam technology in the 17th century, global colonial dynamics would remain identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 139,
+        "question": "If the Dutch had fully monopolized the Indian Ocean spice trade, which subtle systemic consequence is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "European price shocks reshape global economic patterns",
+            "b": "China becomes dependent on Dutch imports",
+            "c": "The Ottomans adopt naval gunpowder earlier",
+            "d": "The Mughal Empire collapses immediately"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 140,
+        "question": "If Tokugawa Japan had legalized large-scale foreign trade in 1650, its cultural evolution would have remained identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 141,
+        "question": "If the Qing Dynasty had not restricted maritime trade, which outcome becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Coastal merchant classes gain disproportionate political power",
+            "b": "Russia annexes Manchuria earlier",
+            "c": "Japan colonizes China by 1700",
+            "d": "Islam spreads along China's southern coast"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 142,
+        "question": "If the Ashanti Empire never militarized its gold trade, West African state development would be the same.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 143,
+        "question": "If the Zulu Kingdom had adopted firearms before the Mfecane, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Regional displacement becomes even more extreme",
+            "b": "British colonization is halted entirely",
+            "c": "Boer expansion accelerates",
+            "d": "The Zulu fragment into rival kingdoms"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 144,
+        "question": "If the Abbasids had preserved the knowledge of Greek fire, Mediterranean naval power would remain unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 145,
+        "question": "If the Norse Greenland colony had adopted agriculture sustainably, which counterintuitive outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Greenland becomes a long-term hub of North Atlantic trade",
+            "b": "Iceland collapses due to resource competition",
+            "c": "Europe ignores the North Atlantic entirely",
+            "d": "The Inuit migrate into Scandinavia"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 146,
+        "question": "If ancient Egypt had industrialized chariot warfare centuries earlier, Near Eastern military evolution would be the same.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 147,
+        "question": "If the Roman Empire had fully eliminated the slave economy by the 1st century CE, which long-term effect is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Urban wage labor emerges earlier, altering Roman social hierarchy",
+            "b": "Rome collapses immediately due to economic shock",
+            "c": "Christianity spreads more slowly",
+            "d": "Germanic tribes adopt slavery instead"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 148,
+        "question": "If Olmec civilization had developed metallurgy earlier, Mesoamerican development would remain identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 149,
+        "question": "If the Eastern Roman Empire had adopted feudalism, which subtle systemic change becomes most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Local aristocrats gain autonomy, weakening imperial centralization",
+            "b": "Western Europe becomes culturally Byzantine",
+            "c": "Russia invades the Balkans earlier",
+            "d": "The Ottomans disappear from history"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 150,
+        "question": "If the Hittites had industrialized iron production two centuries earlier, surrounding civilizations would remain unaffected.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 151,
+        "question": "If ancient Persia had centralized tax collection earlier, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Provincial revolts decrease long-term",
+            "b": "Greece invades Persia earlier",
+            "c": "Egypt becomes Persia’s primary rival",
+            "d": "Silk Road trade collapses"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 152,
+        "question": "If the Han Dynasty had completely avoided court eunuch influence, imperial stability would be unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 153,
+        "question": "If the Mauryan Empire had banned religious tolerance under Ashoka, which counterintuitive effect becomes plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Christianity spreads into India earlier",
+            "b": "Persia conquers northern India",
+            "c": "Hellenistic kingdoms adopt Buddhism",
+            "d": "Buddhism spreads more *slowly* worldwide"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 154,
+        "question": "If ancient Greece had never colonized the Mediterranean, the rise of Rome would have been identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 155,
+        "question": "If Carthage had adopted mass infantry armies, which outcome is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rome faces a more balanced military opponent",
+            "b": "Carthage collapses immediately due to logistics",
+            "c": "Greece conquers Carthage",
+            "d": "Numidia becomes a naval empire"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 156,
+        "question": "If ancient Mesopotamian city-states had unified earlier, their technological development would remain identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 157,
+        "question": "If the Phoenicians had colonized West Africa, which subtle but far-reaching shift is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mediterranean trade networks integrate Sub-Saharan nodes earlier",
+            "b": "Persia controls North African ports",
+            "c": "Spain industrializes earlier",
+            "d": "Greece dominates Saharan trade routes"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 158,
+        "question": "If the Celts had adopted iron currency systems, their internal economic networks would be unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 159,
+        "question": "If the Indus Valley Civilization had survived climatic shifts through water-engineering innovations, which long-term effect is most plausible?",
+        "type": "MCQ",
+        "options": {
+            "a": "China absorbs northern India",
+            "b": "Urban continuity shapes later South Asian state formation",
+            "c": "Persia becomes the center of global urbanism",
+            "d": "Horse-based warfare disappears from Asia"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 160,
+        "question": "If the Mayans had abandoned dynastic politics earlier, their regional collapse would have occurred at the same pace.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    }
 ]

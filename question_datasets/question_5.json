@@ -1,7 +1,7 @@
 [
     {
         "question_id": 1,
-        "question": "Debates on remote work today mirror past discussions about labor shifts during the Industrial Revolution.",
+        "question": "Debates about AI alignment today echo not only Cold War nuclear command fears but also earlier debates on whether steam engines could 'run away' from operators.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -11,19 +11,19 @@
     },
     {
         "question_id": 2,
-        "question": "Modern discussions on renewable energy reflect historical efforts in:",
+        "question": "Modern disputes over climate geoengineering most closely resemble historical controversies over:",
         "type": "MCQ",
         "options": {
-            "a": "Colonial trade monopolies",
-            "b": "Early 20th-century conservation movements",
-            "c": "Medieval castle construction",
-            "d": "Renaissance art funding"
+            "a": "19th-century cloud seeding experiments",
+            "b": "Early medieval astrology prohibitions",
+            "c": "Colonial-era canal building",
+            "d": "Renaissance botanical gardens"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 3,
-        "question": "Current debates about wealth inequality resemble struggles with labor strikes in the Industrial Revolution.",
+        "question": "Concerns about digital monopolies today mirror fears about railroad conglomerates controlling prices in the late 19th century.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -33,19 +33,19 @@
     },
     {
         "question_id": 4,
-        "question": "Modern cybersecurity concerns are similar to historical challenges in:",
+        "question": "Modern misinformation debates resemble which past information crisis the closest?",
         "type": "MCQ",
         "options": {
-            "a": "Medieval castle defenses",
-            "b": "Espionage during the Cold War",
-            "c": "Renaissance trade guilds",
-            "d": "Colonial taxation"
+            "a": "The spread of forged papal bulls in medieval Europe",
+            "b": "Arguments over Roman public edicts",
+            "c": "Colonial shipping manifests",
+            "d": "Renaissance color theory disputes"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 5,
-        "question": "Urban housing debates today reflect struggles with tenement overcrowding in the 19th century.",
+        "question": "Current debates about social media addiction echo earlier worries about radio addiction in the 1920s.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -55,19 +55,19 @@
     },
     {
         "question_id": 6,
-        "question": "Discussions on labor rights in gig economies echo historical struggles with:",
+        "question": "Today’s debates about renewable-energy land use echo which earlier conflict?",
         "type": "MCQ",
         "options": {
-            "a": "Colonial taxation",
-            "b": "Industrial Revolution trade unions",
-            "c": "Renaissance guild apprenticeships",
-            "d": "Medieval feudal obligations"
+            "a": "The English Enclosure Movement",
+            "b": "Spanish colonial ranching policies",
+            "c": "Tang Dynasty census disputes",
+            "d": "Baroque-era theater property battles"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 7,
-        "question": "Debates over climate-induced migration today mirror historical displacement caused by the Dust Bowl.",
+        "question": "Concerns about deepfake political scandals parallel fears surrounding early photography manipulations in the 19th century.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -77,19 +77,19 @@
     },
     {
         "question_id": 8,
-        "question": "Modern discussions on ethical AI resemble historical struggles with:",
+        "question": "Debates about who 'owns' AI-generated work reflect historical struggles related to:",
         "type": "MCQ",
         "options": {
-            "a": "Renaissance censorship",
-            "b": "Medical experimentation laws in the 19th century",
-            "c": "Colonial trade regulations",
-            "d": "Medieval guild controls"
+            "a": "Guild protection of trade secrets",
+            "b": "Medieval forest law",
+            "c": "Naval blockades in the 18th century",
+            "d": "Feudal inheritance rules"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 9,
-        "question": "Current debates on public health policies are reminiscent of sanitation reforms during 19th-century cholera outbreaks.",
+        "question": "Today’s controversies surrounding brain–computer interfaces mirror the anxieties provoked by early telegraph brainwave experiments.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -99,19 +99,19 @@
     },
     {
         "question_id": 10,
-        "question": "Modern concerns about internet neutrality reflect historical struggles over:",
+        "question": "Modern debates about data brokers most closely resemble historical battles over:",
         "type": "MCQ",
         "options": {
-            "a": "Medieval river tolls",
-            "b": "Telegraph and early telephone regulation",
-            "c": "Colonial shipping laws",
-            "d": "Renaissance printing monopolies"
+            "a": "19th-century census privacy disputes",
+            "b": "Colonial tariff evasion",
+            "c": "Medieval book copying",
+            "d": "Bronze Age trade weights"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 11,
-        "question": "Debates about access to education today echo historical struggles with public schooling reforms in the 19th century.",
+        "question": "Arguments about modern universal basic income (UBI) echo ancient Roman debates about grain doles (annona).",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -121,19 +121,19 @@
     },
     {
         "question_id": 12,
-        "question": "Modern labor movements resemble historical struggles with:",
+        "question": "Today’s conflict over electric vehicle mineral sourcing is most similar to past conflicts involving:",
         "type": "MCQ",
         "options": {
-            "a": "Medieval apprenticeship rules",
-            "b": "Industrial Revolution trade unions",
-            "c": "Colonial tax revolts",
-            "d": "Renaissance artisan guilds"
+            "a": "19th-century rubber extraction",
+            "b": "Medieval iron smelting",
+            "c": "Renaissance gold leaf production",
+            "d": "Colonial-era wool taxes"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 13,
-        "question": "Current debates about digital privacy reflect early 20th-century concerns about government surveillance.",
+        "question": "Debates about algorithmic bias parallel 19th-century controversies about biased 'scientific' measurement devices.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -143,19 +143,19 @@
     },
     {
         "question_id": 14,
-        "question": "Discussions on AI ethics in healthcare are reminiscent of historical struggles with:",
+        "question": "Disputes over AI governance frameworks echo which earlier global institutional struggle?",
         "type": "MCQ",
         "options": {
-            "a": "Medieval castle regulations",
-            "b": "19th-century medical ethics reforms",
-            "c": "Colonial trade monopolies",
-            "d": "Renaissance humanist debates"
+            "a": "The League of Nations' failure to regulate military escalation",
+            "b": "Benedictine monastic rule debates",
+            "c": "Medieval carnival taxation",
+            "d": "Renaissance wine purity rules"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 15,
-        "question": "Modern food security debates mirror historical struggles with famine management in 19th-century Europe.",
+        "question": "Today’s debates about digital ID systems echo past arguments about national passport standardization in the early 20th century.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -165,19 +165,19 @@
     },
     {
         "question_id": 16,
-        "question": "Contemporary environmental movements echo struggles over pollution control during early industrial cities.",
+        "question": "Fights over who controls AI training data resemble historical disputes involving:",
         "type": "MCQ",
         "options": {
-            "a": "Medieval guild regulations",
-            "b": "19th-century industrial pollution reforms",
-            "c": "Colonial navigation laws",
-            "d": "Renaissance city planning"
+            "a": "Ownership of early printed manuscripts",
+            "b": "Medieval fishery rights",
+            "c": "Colonial sugar monopolies",
+            "d": "Early mathematical guild treatises"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 17,
-        "question": "Current debates on fair trade resemble historical struggles with colonial mercantilism.",
+        "question": "Modern quantum encryption fears echo historical panic around unbreakable ciphers during World War II.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -187,19 +187,19 @@
     },
     {
         "question_id": 18,
-        "question": "Modern urban planning debates reflect historical efforts in:",
+        "question": "Debates about artificial food production (e.g., lab-grown meat) most closely parallel disputes over:",
         "type": "MCQ",
         "options": {
-            "a": "Medieval castle construction",
-            "b": "19th-century city zoning and sanitation reforms",
-            "c": "Renaissance art commissions",
-            "d": "Colonial trade infrastructure"
+            "a": "Industrial-era margarine bans",
+            "b": "Feudal tithe laws",
+            "c": "Roman bath construction",
+            "d": "Hanseatic League trading posts"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 19,
-        "question": "Debates about labor protections today echo historical struggles with factory safety reforms.",
+        "question": "Concerns about AI replacing teachers echo anxieties about radios replacing teachers in the 1930s.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -209,19 +209,19 @@
     },
     {
         "question_id": 20,
-        "question": "Modern discussions on access to clean water mirror past struggles with:",
+        "question": "Arguments over facial-recognition surveillance parallel which earlier form of population tracking?",
         "type": "MCQ",
         "options": {
-            "a": "Colonial irrigation systems",
-            "b": "19th-century urban sanitation reforms",
-            "c": "Medieval castle wells",
-            "d": "Renaissance aqueduct restoration"
+            "a": "19th-century anthropometric identification (Bertillon system)",
+            "b": "Medieval pilgrim badges",
+            "c": "Feudal village tallies",
+            "d": "Renaissance portrait catalogs"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 21,
-        "question": "Debates about ethical consumption today reflect historical consumer protection laws.",
+        "question": "Today’s internet censorship debates mirror Cold War conflicts over radio jamming.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -231,19 +231,19 @@
     },
     {
         "question_id": 22,
-        "question": "Current concerns over AI in justice systems resemble historical struggles with:",
+        "question": "Fears about AI weapon systems resemble historical controversies over:",
         "type": "MCQ",
         "options": {
-            "a": "19th-century judicial reforms",
-            "b": "Colonial governor appointments",
-            "c": "Medieval guild law enforcement",
-            "d": "Renaissance city statutes"
+            "a": "Autonomous naval torpedoes in WWI",
+            "b": "Bronze Age spear tips",
+            "c": "Medieval siege towers",
+            "d": "Renaissance fencing manuals"
         },
         "answer": "a"
     },
     {
         "question_id": 23,
-        "question": "Modern urban heat challenges mirror historical struggles with industrial city pollution.",
+        "question": "Debates about cryptocurrency volatility echo past controversies around early stock markets in the 1600s.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -253,19 +253,19 @@
     },
     {
         "question_id": 24,
-        "question": "Contemporary discussions on data transparency resemble historical struggles with:",
+        "question": "Modern privacy disputes most resemble which older conflict?",
         "type": "MCQ",
         "options": {
-            "a": "19th-century government reporting reforms",
-            "b": "Medieval town charters",
-            "c": "Colonial taxation disclosures",
-            "d": "Renaissance guild bookkeeping"
+            "a": "The 1890 Brandeis–Warren push for 'the right to privacy'",
+            "b": "Sumerian grain records",
+            "c": "Hammurabi’s Code",
+            "d": "Feudal marriage contracts"
         },
         "answer": "a"
     },
     {
         "question_id": 25,
-        "question": "Debates on climate refugees today echo past struggles with displacement caused by natural disasters in the 19th century.",
+        "question": "Discussions about autonomous cars echo debates about self-driving elevators in the early 20th century.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -275,205 +275,195 @@
     },
     {
         "question_id": 26,
-        "question": "Modern debates on digital surveillance reflect historical struggles with government monitoring during the Red Scare.",
-        "type": "T/F",
+        "question": "Concerns over AI-driven financial crashes parallel:",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Early automated trading panic in the 1987 Black Monday crash",
+            "b": "Medieval wool smuggling",
+            "c": "Renaissance coin clipping",
+            "d": "Colonial lumber shortages"
         },
         "answer": "a"
     },
     {
         "question_id": 27,
-        "question": "Contemporary discussions on renewable energy adoption mirror historical efforts in:",
-        "type": "MCQ",
-        "options": {
-            "a": "Colonial plantation management",
-            "b": "Early 20th-century conservation movements",
-            "c": "Renaissance art funding",
-            "d": "Medieval castle construction"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 28,
-        "question": "Modern debates about universal healthcare reflect struggles over public health reforms in the 19th century.",
+        "question": "Today’s fights over global data flows echo disputes over international telegraph cable tariffs.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 28,
+        "question": "Arguments about ethics of genetic surveillance most closely resemble:",
+        "type": "MCQ",
+        "options": {
+            "a": "Eugenics-based census debates in the early 20th century",
+            "b": "Medieval pilgrim rolls",
+            "c": "Renaissance court genealogies",
+            "d": "Phoenician naval records"
         },
         "answer": "a"
     },
     {
         "question_id": 29,
-        "question": "Discussions on ethical AI in media today are similar to historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Colonial taxation laws",
-            "b": "Propaganda and censorship during World Wars",
-            "c": "Medieval guild regulations",
-            "d": "Renaissance trade ethics"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 30,
-        "question": "Modern debates on labor protections in gig economies echo historical struggles with Industrial Revolution labor unions.",
+        "question": "Modern climate migration fears mirror the global refugee displacements following the 1816 'Year Without a Summer.'",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 30,
+        "question": "Debates about supply-chain transparency resemble historical struggles with:",
+        "type": "MCQ",
+        "options": {
+            "a": "Triangle Trade merchant logs",
+            "b": "Renaissance color recipe secrecy",
+            "c": "Medieval tithe ledgers",
+            "d": "Roman census tablets"
         },
         "answer": "a"
     },
     {
         "question_id": 31,
-        "question": "Current discussions on wealth inequality are reminiscent of struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Medieval feudal taxation",
-            "b": "Industrial Revolution labor strikes",
-            "c": "Colonial trade regulations",
-            "d": "Renaissance guild ethics"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 32,
-        "question": "Debates on public transportation policy today mirror historical discussions on railway and tramway construction in the 19th century.",
+        "question": "Controversies about VR-induced detachment reflect early fears about cinema causing moral decay.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 32,
+        "question": "Arguments about geoengineering deployment echo which older debate?",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century volcano eruption theories affecting climate",
+            "b": "Medieval plague rituals",
+            "c": "Colonial salt taxes",
+            "d": "Renaissance astronomy funding"
         },
         "answer": "a"
     },
     {
         "question_id": 33,
-        "question": "Modern concerns about food safety echo historical reforms such as:",
-        "type": "MCQ",
-        "options": {
-            "a": "Medieval farming guild rules",
-            "b": "Pure Food and Drug Act in the early 1900s",
-            "c": "Colonial spice trade regulations",
-            "d": "Renaissance agriculture innovations"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 34,
-        "question": "Current debates on climate-induced migration mirror historical displacement caused by natural disasters.",
+        "question": "Concerns about AI plagiarism mirror anxieties about mass-produced 'forgeries' after the printing press was invented.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 34,
+        "question": "Debates about large-language model copyright resemble historical battles around:",
+        "type": "MCQ",
+        "options": {
+            "a": "18th-century encyclopedias compiling copyrighted works",
+            "b": "Medieval feudal oaths",
+            "c": "Roman aqueduct permissions",
+            "d": "Colonial ship registries"
         },
         "answer": "a"
     },
     {
         "question_id": 35,
-        "question": "Discussions about internet neutrality today resemble historical struggles over:",
-        "type": "MCQ",
-        "options": {
-            "a": "Colonial trade laws",
-            "b": "Telegraph and early telephone regulation",
-            "c": "Medieval river tolls",
-            "d": "Renaissance guild monopolies"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 36,
-        "question": "Modern mental health awareness campaigns reflect historical reforms in 19th-century asylums.",
+        "question": "Today’s panic over AI-generated political influence echoes 19th-century fears about telegraph-driven mass persuasion.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 36,
+        "question": "Debates about water-scarcity AI prediction systems resemble:",
+        "type": "MCQ",
+        "options": {
+            "a": "Ancient Mesopotamian irrigation planning",
+            "b": "Celtic clan rituals",
+            "c": "Feudal tenant lists",
+            "d": "Renaissance spice markets"
         },
         "answer": "a"
     },
     {
         "question_id": 37,
-        "question": "Contemporary debates about ethical labor practices resemble historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Medieval guild rules",
-            "b": "Child labor reforms during the Industrial Revolution",
-            "c": "Colonial taxation",
-            "d": "Renaissance merchant regulations"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 38,
-        "question": "Modern public health vaccination campaigns are reminiscent of smallpox vaccination efforts in the 19th century.",
+        "question": "Controversies about using AI to forecast crime echo flawed early 20th-century phrenology-based policing.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 38,
+        "question": "Arguments about 'AI colonialism' resemble historical debates involving:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century resource extraction in Africa",
+            "b": "Medieval monastic taxation",
+            "c": "Renaissance woodblock printing",
+            "d": "Roman gladiator contracts"
         },
         "answer": "a"
     },
     {
         "question_id": 39,
-        "question": "Current discussions on urban green spaces mirror historical efforts in:",
-        "type": "MCQ",
-        "options": {
-            "a": "Medieval castle gardens",
-            "b": "19th-century city planning and park reforms",
-            "c": "Colonial plantations",
-            "d": "Industrial factory layouts"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 40,
-        "question": "Debates about consumer protection today reflect historical laws in the early 20th century.",
+        "question": "Modern fights over content moderation mirror arguments about newspaper 'moral guardians' in the late 1800s.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 40,
+        "question": "Debates about AI’s environmental cost parallel earlier concerns about:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century coal-fired factory expansion",
+            "b": "Medieval glassmaking fumes",
+            "c": "Colonial tobacco curing",
+            "d": "Renaissance metal gilding"
         },
         "answer": "a"
     },
     {
         "question_id": 41,
-        "question": "Modern urban transportation equity debates resemble historical efforts in public transit reform.",
-        "type": "MCQ",
+        "question": "Modern debates about 'AI emotion recognition' parallel earlier disputes over whether physiognomy could scientifically detect personality.",
+        "type": "T/F",
         "options": {
-            "a": "Medieval road tolls",
-            "b": "19th-century transit reform",
-            "c": "Colonial trade routes",
-            "d": "Renaissance urban plazas"
+            "a": "True",
+            "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 42,
-        "question": "Current debates on workplace gender equality reflect historical struggles for women's rights in the early 20th century.",
-        "type": "T/F",
-        "options": {
-            "a": "True",
-            "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 43,
-        "question": "Modern concerns about ethical AI in finance are similar to historical debates over:",
+        "question": "Today’s conflicts over algorithmic hiring most closely resemble which historical labor-selection controversy?",
         "type": "MCQ",
         "options": {
-            "a": "Medieval coin minting",
-            "b": "Banking regulations after the 1929 crash",
-            "c": "Renaissance trade guilds",
-            "d": "Colonial taxation systems"
+            "a": "Renaissance guild entrance exams",
+            "b": "19th-century civil service aptitude tests",
+            "c": "Medieval trial-by-ordeal replacements",
+            "d": "Colonial indentured labor contracts"
         },
         "answer": "b"
     },
     {
-        "question_id": 44,
-        "question": "Contemporary labor union movements echo struggles with workers' rights during the Industrial Revolution.",
+        "question_id": 43,
+        "question": "Debates about neural implants echo fears surrounding early pacemaker technology and its impact on human autonomy.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -482,64 +472,64 @@
         "answer": "a"
     },
     {
-        "question_id": 45,
-        "question": "Debates on access to digital education today reflect historical struggles with:",
+        "question_id": 44,
+        "question": "Modern controversies over cloud sovereignty mirror historical tensions around:",
         "type": "MCQ",
         "options": {
-            "a": "Renaissance universities",
-            "b": "Medieval apprentice rules",
-            "c": "Public schooling reforms in the 19th century",
-            "d": "Colonial restrictions on literacy"
+            "a": "Feudal land ownership disputes",
+            "b": "Colonial port access laws",
+            "c": "International telegraph cable jurisdiction",
+            "d": "Renaissance territorial mapmaking"
         },
         "answer": "c"
     },
     {
-        "question_id": 46,
-        "question": "Current discussions about ethical food production mirror historical controversies in food safety regulations.",
+        "question_id": 45,
+        "question": "Concerns about AI-powered propaganda mirror earlier anxieties about World War I psychological operations.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
         "answer": "a"
+    },
+    {
+        "question_id": 46,
+        "question": "Arguments about corporate digital monopolies most closely resemble:",
+        "type": "MCQ",
+        "options": {
+            "a": "Roman control over Mediterranean grain trade",
+            "b": "19th-century Standard Oil antitrust battles",
+            "c": "Feudal monopoly on milling rights",
+            "d": "Colonial sugar-cartel disputes"
+        },
+        "answer": "b"
     },
     {
         "question_id": 47,
-        "question": "Modern debates on public health sanitation policies are reminiscent of efforts during:",
-        "type": "MCQ",
+        "question": "Debates about AI-driven medical triage echo the ethical concerns during early organ-transplant allocation.",
+        "type": "T/F",
         "options": {
-            "a": "Colonial plantation hygiene",
-            "b": "19th-century cholera outbreaks",
-            "c": "Medieval city walls",
-            "d": "Renaissance marketplaces"
+            "a": "True",
+            "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 48,
-        "question": "Current migration debates mirror historical events such as the Great Migration of African Americans in the 20th century.",
-        "type": "T/F",
-        "options": {
-            "a": "True",
-            "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 49,
-        "question": "Modern urban housing debates echo past struggles with tenement housing reforms in industrial cities.",
+        "question": "Controversies about global satellite internet networks most closely parallel:",
         "type": "MCQ",
         "options": {
-            "a": "Medieval castle accommodations",
-            "b": "19th-century tenement reforms",
-            "c": "Colonial plantation housing",
-            "d": "Renaissance city planning"
+            "a": "Colonial-era naval dominance disputes",
+            "b": "Cold War battles over space-based communication",
+            "c": "Medieval papal control of communication routes",
+            "d": "Renaissance merchant shipping privileges"
         },
         "answer": "b"
     },
     {
-        "question_id": 50,
-        "question": "Contemporary debates about labor exploitation in technology companies resemble historical struggles with factory conditions during the Industrial Revolution.",
+        "question_id": 49,
+        "question": "Modern concerns about AI-enabled mass surveillance echo 18th-century fears over rapidly expanding national census systems.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -548,8 +538,20 @@
         "answer": "a"
     },
     {
+        "question_id": 50,
+        "question": "Today’s conflicts about data localization are closest to historical tensions involving:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century railway tariff borders",
+            "b": "Medieval toll checkpoints",
+            "c": "Cold War satellite broadcast boundaries",
+            "d": "Colonial river-navigation treaties"
+        },
+        "answer": "c"
+    },
+    {
         "question_id": 51,
-        "question": "Ethical concerns about data privacy today mirror historical debates over government surveillance in the early 20th century.",
+        "question": "Debates about digital twins echo earlier controversies about anthropometric ‘body doubles’ used in early forensic science.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -559,19 +561,19 @@
     },
     {
         "question_id": 52,
-        "question": "Modern debates about climate-induced migration reflect historical displacement caused by:",
+        "question": "Fights over synthetic biology patents resemble which earlier struggle?",
         "type": "MCQ",
         "options": {
-            "a": "Medieval guild restrictions",
-            "b": "Industrial Revolution coal strikes",
-            "c": "The Dust Bowl in the 1930s",
-            "d": "Colonial taxation protests"
+            "a": "Renaissance disputes over alchemical recipes",
+            "b": "Medieval herb-garden monopolies",
+            "c": "Industrial-era pharmaceutical patent wars",
+            "d": "Colonial agricultural seed taxes"
         },
         "answer": "c"
     },
     {
         "question_id": 53,
-        "question": "Contemporary discussions on income tax fairness are reminiscent of historical struggles with progressive tax laws in the early 20th century.",
+        "question": "Concerns about mass automation echo early fears about telephone switchboards eliminating women’s clerical roles.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -581,19 +583,19 @@
     },
     {
         "question_id": 54,
-        "question": "Modern debates about freedom of the press are similar to historical struggles with:",
+        "question": "Debates over 'algorithmic fairness' resemble which earlier technical-standardization fight?",
         "type": "MCQ",
         "options": {
-            "a": "Colonial trade restrictions",
-            "b": "Newspaper censorship in Victorian England",
-            "c": "Medieval guild rules",
-            "d": "Renaissance philosophy"
+            "a": "The metric system adoption conflicts during the French Revolution",
+            "b": "Roman calendar corrections",
+            "c": "Medieval coinage purity disputes",
+            "d": "Renaissance architectural measurement battles"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 55,
-        "question": "Contemporary labor movements for gig economy workers echo historical struggles with 19th-century trade unions.",
+        "question": "Today’s panic about AI impersonation echoes the fear of forged telegraph signatures in the 19th century.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -603,19 +605,19 @@
     },
     {
         "question_id": 56,
-        "question": "Current debates on access to clean water reflect historical struggles in:",
+        "question": "Arguments about ethical drone delivery systems resemble historical debates over:",
         "type": "MCQ",
         "options": {
-            "a": "Industrial revolution rail expansions",
-            "b": "Urban sanitation reforms in the 19th century",
-            "c": "Medieval castle defenses",
-            "d": "Colonial taxation protests"
+            "a": "Medieval falconry rights",
+            "b": "Early airmail regulation and cross-border rights",
+            "c": "Colonial messenger canoe routes",
+            "d": "Renaissance courier guild charters"
         },
         "answer": "b"
     },
     {
         "question_id": 57,
-        "question": "Modern food safety regulations echo historical concerns such as the Pure Food and Drug Act in the early 1900s.",
+        "question": "Disputes about mass biometric databases mirror early 20th-century concerns over fingerprint centralization.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -625,31 +627,19 @@
     },
     {
         "question_id": 58,
-        "question": "Debates about AI ethics in media representation resemble historical struggles with:",
+        "question": "Today’s conflicts over robotics in agriculture most closely resemble:",
         "type": "MCQ",
         "options": {
-            "a": "The Industrial Revolution coal strikes",
-            "b": "Colonial navigation laws",
-            "c": "Propaganda during World War I and II",
-            "d": "Medieval guild control of artisans"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 59,
-        "question": "Modern discussions on urban planning mirror historical efforts such as:",
-        "type": "MCQ",
-        "options": {
-            "a": "City sanitation and zoning reforms in the 19th century",
-            "b": "The Crusades",
-            "c": "Renaissance architecture ethics",
-            "d": "Roman aqueduct construction"
+            "a": "Steam-powered threshing machine riots",
+            "b": "Feudal grazing-rights disputes",
+            "c": "Renaissance crop-rotation arguments",
+            "d": "Colonial plantation taxation battles"
         },
         "answer": "a"
     },
     {
-        "question_id": 60,
-        "question": "Ethical debates about genetic editing today resemble historical struggles over eugenics in the early 20th century.",
+        "question_id": 59,
+        "question": "Concerns about AI-generated textbooks mirror earlier fears that standardized textbooks would erase local teaching traditions.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -658,32 +648,42 @@
         "answer": "a"
     },
     {
-        "question_id": 61,
-        "question": "Modern public transportation debates echo past struggles with:",
+        "question_id": 60,
+        "question": "Debates surrounding digital currency governance are closest to historical struggles involving:",
         "type": "MCQ",
         "options": {
-            "a": "Medieval castle roads",
-            "b": "Colonial sea trade",
-            "c": "Introduction of railways and urban transit systems in the 19th century",
-            "d": "Renaissance city squares"
+            "a": "The Gold Standard adoption battles",
+            "b": "Medieval minting cartels",
+            "c": "Renaissance trade ledger reforms",
+            "d": "Colonial commodity-token systems"
         },
-        "answer": "c"
+        "answer": "a"
+    },
+    {
+        "question_id": 61,
+        "question": "Today’s digital content piracy concerns mirror early mass-production anxieties during the rise of mechanical printing.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
     },
     {
         "question_id": 62,
-        "question": "Debates about internet neutrality resemble historical struggles over:",
+        "question": "Debates over who sets global AI safety standards resemble:",
         "type": "MCQ",
         "options": {
-            "a": "Telegraph and telephone regulation in the 19th century",
-            "b": "Medieval river tolls",
-            "c": "Roman empire taxation",
-            "d": "Renaissance guild monopolies"
+            "a": "Cold War nuclear non-proliferation treaties",
+            "b": "Roman water-law arbitration",
+            "c": "Medieval papal legal decrees",
+            "d": "Renaissance trade council rules"
         },
         "answer": "a"
     },
     {
         "question_id": 63,
-        "question": "Modern debates on mental health awareness mirror historical reforms such as the 19th-century asylum movements.",
+        "question": "Modern conflicts around quantum computing export controls echo Cold War semiconductor restrictions.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -693,29 +693,19 @@
     },
     {
         "question_id": 64,
-        "question": "Current digital surveillance debates reflect historical concerns about government monitoring during the Red Scare.",
-        "type": "T/F",
+        "question": "Arguments about the morality of autonomous weapons most resemble which historical concern?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "The deployment of automatic anti-aircraft guns in WWII",
+            "b": "Medieval trebuchet bans",
+            "c": "Roman naval boarding hooks",
+            "d": "Colonial-era musketeer training"
         },
         "answer": "a"
     },
     {
         "question_id": 65,
-        "question": "Contemporary fair trade debates are reminiscent of historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Colonial trade exploitation and mercantilism",
-            "b": "Medieval plague management",
-            "c": "The Crusades",
-            "d": "Industrial coal mining"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 66,
-        "question": "Modern vaccination campaigns echo historical efforts such as smallpox inoculation programs in the 19th century.",
+        "question": "Disputes about deepfake evidence in courts echo concerns about manipulated photographic evidence in early forensic trials.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -724,56 +714,64 @@
         "answer": "a"
     },
     {
-        "question_id": 67,
-        "question": "Debates about AI in judicial decisions resemble historical struggles over:",
+        "question_id": 66,
+        "question": "Conflicts over global AI chip supply chains most closely resemble:",
         "type": "MCQ",
         "options": {
-            "a": "Colonial navigation laws",
-            "b": "Judicial reforms in 19th-century courts",
-            "c": "Medieval guild rules",
-            "d": "The Crusades"
+            "a": "The spice trade rivalries of the 16th century",
+            "b": "Medieval silk-route guild controls",
+            "c": "Oil cartel formations in the 20th century",
+            "d": "Colonial-era textile embargoes"
         },
-        "answer": "b"
+        "answer": "c"
+    },
+    {
+        "question_id": 67,
+        "question": "Bio-surveillance debates involving wastewater monitoring resemble 19th-century cholera sewage-tracing controversies.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
     },
     {
         "question_id": 68,
-        "question": "Modern ethical debates about animal testing mirror past struggles with:",
+        "question": "Modern brain-scanning ethics debates parallel which earlier medical-technology conflict?",
         "type": "MCQ",
         "options": {
-            "a": "19th-century vivisection controversies",
-            "b": "Industrial revolution factory safety",
-            "c": "Colonial livestock regulations",
-            "d": "Medieval hunting laws"
+            "a": "Early X-ray radiation concerns",
+            "b": "Medieval bloodletting arguments",
+            "c": "Renaissance anatomical theater protests",
+            "d": "Colonial vaccine mandates"
         },
         "answer": "a"
     },
     {
         "question_id": 69,
-        "question": "Current debates on privacy in social media echo historical struggles with:",
-        "type": "MCQ",
+        "question": "Digital content moderation battles resemble ancient Roman anxieties about public graffiti influencing political opinion.",
+        "type": "T/F",
         "options": {
-            "a": "Government wiretapping and surveillance in the early 20th century",
-            "b": "Colonial shipping laws",
-            "c": "Medieval guild taxation",
-            "d": "Renaissance publishing controls"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 70,
-        "question": "Discussions about labor protections in gig economies resemble historical struggles with:",
+        "question": "Today’s struggles over biased predictive policing algorithms are most similar to:",
         "type": "MCQ",
         "options": {
-            "a": "Industrial Revolution labor unions",
-            "b": "Renaissance guild apprenticeships",
-            "c": "Colonial taxation",
-            "d": "Medieval serfdom"
+            "a": "Early 20th-century criminal classification systems",
+            "b": "Feudal village watch rotations",
+            "c": "Renaissance city militia rosters",
+            "d": "Colonial merchant patrols"
         },
         "answer": "a"
     },
     {
         "question_id": 71,
-        "question": "Modern debates on carbon taxes mirror struggles over environmental legislation in the early 20th century.",
+        "question": "Concerns about AI-written history books mirror the debates on biased national histories in the 19th century.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -783,233 +781,63 @@
     },
     {
         "question_id": 72,
-        "question": "Contemporary algorithmic decision-making debates in finance mirror historical discussions on:",
+        "question": "Conflicts about the carbon footprint of data centers resemble historical battles over:",
         "type": "MCQ",
         "options": {
-            "a": "Banking regulations after the 1929 crash",
-            "b": "Medieval coin minting",
-            "c": "Renaissance trade guilds",
-            "d": "Colonial taxation systems"
+            "a": "Coal-fired industrial expansion in the 1800s",
+            "b": "Medieval charcoal rights",
+            "c": "Colonial spice drying",
+            "d": "Renaissance furnace workshops"
         },
         "answer": "a"
     },
     {
         "question_id": 73,
-        "question": "Debates about urban green spaces today reflect historical concerns during:",
-        "type": "MCQ",
-        "options": {
-            "a": "Industrial textile production",
-            "b": "Medieval castle construction",
-            "c": "19th-century city planning and park reforms",
-            "d": "Renaissance plazas"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 74,
-        "question": "Modern discussions on ethical AI in journalism are similar to past struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Propaganda and censorship during World Wars",
-            "b": "Medieval guild controls",
-            "c": "Renaissance political theory",
-            "d": "Colonial trade regulations"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 75,
-        "question": "Current debates about access to quality education reflect historical struggles such as:",
-        "type": "MCQ",
-        "options": {
-            "a": "Medieval apprentice rules",
-            "b": "Renaissance art patronage",
-            "c": "Public schooling reforms in the 19th century",
-            "d": "Colonial taxation laws"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 76,
-        "question": "Modern discussions on climate refugees mirror historical displacement due to natural disasters and famines.",
+        "question": "Worries about AI replacing musicians mirror past anxieties about electronic synthesizers replacing orchestras.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 74,
+        "question": "Debates about cloud-based national archives resemble earlier disputes involving:",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century telegraph record storage",
+            "b": "Medieval monastery scriptoria",
+            "c": "Renaissance state library centralization",
+            "d": "Colonial shipping log standardization"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 75,
+        "question": "Modern anger over algorithmically boosted political content mirrors early 20th-century fury over radio stations manipulating public sentiment.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 76,
+        "question": "Disputes about whose data trains global AI models resemble:",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial extraction of indigenous cartographic knowledge",
+            "b": "Medieval jury roll compilation",
+            "c": "Renaissance scientific patronage",
+            "d": "Feudal oath archives"
         },
         "answer": "a"
     },
     {
         "question_id": 77,
-        "question": "Debates about ethical labor in supply chains today are reminiscent of:",
-        "type": "MCQ",
-        "options": {
-            "a": "Renaissance guild ethics",
-            "b": "Child labor reforms during the Industrial Revolution",
-            "c": "Medieval feudal labor rules",
-            "d": "Colonial navigation laws"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 78,
-        "question": "Modern discussions on freedom of speech online echo historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Censorship of newspapers in the 19th century",
-            "b": "Colonial tax revolts",
-            "c": "Medieval guild restrictions",
-            "d": "Renaissance philosophical debates"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 79,
-        "question": "Contemporary ethical debates about AI in healthcare mirror past struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Medical ethics in hospitals during the 19th century",
-            "b": "Medieval castle defenses",
-            "c": "Colonial taxation laws",
-            "d": "Renaissance exploration ethics"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 80,
-        "question": "Modern concerns over labor exploitation in technology companies resemble historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Factory labor conditions in the Industrial Revolution",
-            "b": "Medieval serfdom",
-            "c": "Colonial plantation labor",
-            "d": "Renaissance merchant practices"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 81,
-        "question": "Current debates on renewable energy subsidies reflect historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Medieval windmill regulations",
-            "b": "Early 20th-century hydroelectric projects",
-            "c": "Renaissance agricultural reforms",
-            "d": "Colonial shipping taxes"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 82,
-        "question": "Modern cybersecurity concerns echo historical challenges in:",
-        "type": "MCQ",
-        "options": {
-            "a": "Industrial espionage during the 19th century",
-            "b": "Medieval castle defenses",
-            "c": "Colonial sea trade",
-            "d": "Renaissance printing press regulation"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 83,
-        "question": "Discussions about AI in education reflect historical debates on:",
-        "type": "MCQ",
-        "options": {
-            "a": "Standardized public schooling in the 19th century",
-            "b": "Medieval apprentice systems",
-            "c": "Renaissance tutors for elite students",
-            "d": "Colonial literacy laws"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 84,
-        "question": "Modern privacy laws reflect historical concerns about:",
-        "type": "MCQ",
-        "options": {
-            "a": "Government surveillance during the Red Scare",
-            "b": "Colonial trade restrictions",
-            "c": "Medieval guild monopolies",
-            "d": "Renaissance academic censorship"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 85,
-        "question": "Modern debates on workplace diversity mirror historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "19th and 20th-century civil rights movements",
-            "b": "Medieval guild hierarchy",
-            "c": "Colonial administration rules",
-            "d": "Renaissance court positions"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 86,
-        "question": "Ethical debates about AI in law enforcement resemble historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Early 20th-century policing and surveillance",
-            "b": "Medieval castle guards",
-            "c": "Colonial navies",
-            "d": "Renaissance militias"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 87,
-        "question": "Contemporary environmental regulations reflect historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Industrial pollution laws in the 19th century",
-            "b": "Medieval river tolls",
-            "c": "Colonial taxation",
-            "d": "Renaissance art funding"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 88,
-        "question": "Debates about internet governance echo historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Telegraph and telephone regulation in the 19th century",
-            "b": "Medieval guild control of commerce",
-            "c": "Colonial sea trade laws",
-            "d": "Renaissance printing press restrictions"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 89,
-        "question": "Modern discussions on universal healthcare mirror historical reforms such as:",
-        "type": "MCQ",
-        "options": {
-            "a": "Early 20th-century public health programs",
-            "b": "Medieval sanitation rules",
-            "c": "Renaissance hospitals for the poor",
-            "d": "Colonial vaccination mandates"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 90,
-        "question": "Debates on AI ethics in finance resemble historical struggles with:",
-        "type": "MCQ",
-        "options": {
-            "a": "Banking regulations after the 1929 crash",
-            "b": "Medieval moneylending rules",
-            "c": "Colonial trade monopolies",
-            "d": "Renaissance merchant guilds"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 91,
-        "question": "Modern discussions on refugee crises mirror historical migration caused by famine and war.",
+        "question": "Fears about AI-curated news ecosystems parallel earlier controversies about newspaper trusts dominating regional information.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1018,110 +846,916 @@
         "answer": "a"
     },
     {
-        "question_id": 92,
-        "question": "Contemporary debates on sustainable agriculture reflect historical struggles with:",
+        "question_id": 78,
+        "question": "Debates about AI-driven translation models resemble which historical innovation's controversy?",
         "type": "MCQ",
         "options": {
-            "a": "19th-century crop rotation reforms",
-            "b": "Medieval feudal farming rules",
-            "c": "Colonial plantation management",
-            "d": "Renaissance botanical studies"
+            "a": "Mass printing of bilingual dictionaries in the 18th century",
+            "b": "Medieval scriptural translation bans",
+            "c": "Colonial pidgin-language development",
+            "d": "Renaissance diplomatic cipher reforms"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 79,
+        "question": "Concerns about large AI systems concentrating global power mirror the geopolitical dominance of telegraph empires.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 80,
+        "question": "The global AI talent race most closely resembles which historical competition?",
+        "type": "MCQ",
+        "options": {
+            "a": "Cold War scientific brain-drain conflicts",
+            "b": "Medieval artisan poaching between kingdoms",
+            "c": "Colonial naval engineering recruitment",
+            "d": "Renaissance court mathematician acquisitions"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 81,
+        "question": "Modern fears that AI could destabilize global markets echo which historical scenario where innovation outpaced regulation, but only indirectly influenced financial collapse?",
+        "type": "MCQ",
+        "options": {
+            "a": "The 1907 Bankers’ Panic triggered by trust company rumors",
+            "b": "The invention of the telegraph accelerating speculation",
+            "c": "The South Sea Bubble fueled partly by information asymmetry",
+            "d": "The 1970s stagflation crisis driven by policy misalignment"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 82,
+        "question": "Concerns about humans over-relying on AI for decision-making resemble anxieties about early autopilot systems removing pilots’ situational awareness.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 83,
+        "question": "Which historical event best parallels the ethical dilemma of AI companies training models on public data without explicit consent?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial appropriation of indigenous cartographic knowledge",
+            "b": "Roman census taxation expansions",
+            "c": "Medieval monasteries copying texts without attribution",
+            "d": "Renaissance scholars collecting folk songs"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 84,
+        "question": "The global race to develop powerful AI models most closely mirrors earlier geopolitical competitions where speed mattered more than safety.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 85,
+        "question": "Which past conflict best reflects fears that AI-generated propaganda can rapidly shift public perception in unpredictable ways?",
+        "type": "MCQ",
+        "options": {
+            "a": "Cold War Voice of America broadcasts",
+            "b": "The speed of telegraph-enabled rumor cascades during the Civil War",
+            "c": "World War II Operation Myth efforts",
+            "d": "Renaissance pamphlet wars between political factions"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 86,
+        "question": "Today's fear of AI-driven legal errors parallels early concerns that telegraph operators could distort legal instructions through misinterpretation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 87,
+        "question": "The risk of AI systems 'overfitting' moral norms resembles which historical tendency toward rigid but flawed measurement?",
+        "type": "MCQ",
+        "options": {
+            "a": "The French government's early failures with the metric system",
+            "b": "Medieval weight stones varying regionally",
+            "c": "Colonial extraction quotas mismeasured by officials",
+            "d": "Phrenology’s pseudo-scientific cranial measurements"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 88,
+        "question": "Fears that AI could remove human judgment from critical decisions echo earlier anxieties about steamship automation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 89,
+        "question": "Which historical pattern best matches the concern that AI could centralize global power into a few companies?",
+        "type": "MCQ",
+        "options": {
+            "a": "The rise of railroad tycoons controlling transportation",
+            "b": "The consolidation of telegraph networks",
+            "c": "The Hanseatic League monopolizing trade",
+            "d": "The British East India Company acting as a quasi-state"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 90,
+        "question": "The idea that AI-generated 'facts' could overwrite real history resembles the risk seen in state-controlled textbooks during the 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 91,
+        "question": "Concerns that AI might accelerate economic inequality mirror which past event where new technology widened social divides unexpectedly?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Industrial Revolution’s displacement of artisans",
+            "b": "The introduction of steel plows in agrarian economies",
+            "c": "Colonial railroad expansions",
+            "d": "The mechanization of textile looms"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 92,
+        "question": "AI's potential to influence judicial outcomes parallels fears around early forensic science being treated as infallible.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 93,
-        "question": "Modern ethical discussions about AI in journalism resemble historical debates over:",
+        "question": "Which historical precedent best captures the worry that AI lab breakthroughs remain secretive among elite developers?",
         "type": "MCQ",
         "options": {
-            "a": "Censorship during wartime",
-            "b": "Medieval guild publishing rules",
-            "c": "Colonial pamphlet control",
-            "d": "Renaissance artistic censorship"
+            "a": "The classified Manhattan Project",
+            "b": "Medieval alchemists hoarding transmutation methods",
+            "c": "Cold War cryptography research",
+            "d": "Renaissance court astronomers hiding celestial predictions"
         },
         "answer": "a"
     },
     {
         "question_id": 94,
-        "question": "Debates about fair wages in gig economies reflect historical struggles with:",
-        "type": "MCQ",
+        "question": "The debate over whether AI can be 'aligned' with human values resembles past attempts to enforce universal moral standards.",
+        "type": "T/F",
         "options": {
-            "a": "Industrial Revolution labor unions",
-            "b": "Medieval serfdom",
-            "c": "Colonial taxation laws",
-            "d": "Renaissance apprentice wages"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 95,
-        "question": "Current debates on ethical AI mirror historical concerns about:",
+        "question": "The fear that AI might produce authoritative-sounding misinformation matches which historical information crisis?",
         "type": "MCQ",
         "options": {
-            "a": "Industrial automation and worker displacement",
-            "b": "Medieval guilds",
-            "c": "Colonial governance",
-            "d": "Renaissance art workshops"
+            "a": "The forged Donation of Constantine",
+            "b": "The wheat-hoarding rumors during Roman grain shortages",
+            "c": "False navigational charts during the Age of Exploration",
+            "d": "Victorian spiritualist séances exploiting the telegraph"
         },
         "answer": "a"
     },
     {
         "question_id": 96,
-        "question": "Modern urban planning debates reflect historical concerns such as:",
-        "type": "MCQ",
+        "question": "Concerns about AI controlling critical infrastructure echo 20th-century worries about cyber-physical SCADA systems.",
+        "type": "T/F",
         "options": {
-            "a": "19th-century zoning and sanitation reforms",
-            "b": "Medieval town walls",
-            "c": "Colonial road building",
-            "d": "Renaissance city squares"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 97,
-        "question": "Contemporary discussions on food safety mirror historical struggles with:",
+        "question": "Which past clash best reflects fears that AI-generated political messaging can bypass rational debate entirely?",
         "type": "MCQ",
         "options": {
-            "a": "Pure Food and Drug Act in the early 1900s",
-            "b": "Medieval guild baking regulations",
-            "c": "Colonial spice trade monopolies",
-            "d": "Renaissance market rules"
+            "a": "Renaissance propaganda via woodcut caricatures",
+            "b": "The radio-driven mass mobilization of the 1930s",
+            "c": "Telegraph-enabled mass rumor cascades",
+            "d": "Medieval church edicts delivered by traveling preachers"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 98,
-        "question": "Debates on labor protections for tech workers echo historical struggles with:",
-        "type": "MCQ",
+        "question": "The idea that AI might 'escape control' echoes fears surrounding early laboratory-engineered microbes leaking containment.",
+        "type": "T/F",
         "options": {
-            "a": "Industrial Revolution factory labor conditions",
-            "b": "Medieval serfdom",
-            "c": "Colonial plantation labor",
-            "d": "Renaissance apprentice rules"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 99,
-        "question": "Modern climate policy debates mirror historical struggles with:",
+        "question": "AI-driven optimization of supply chains reflects which earlier technological leap that inadvertently caused national dependencies?",
         "type": "MCQ",
         "options": {
-            "a": "Industrial pollution regulations in the 19th century",
-            "b": "Medieval river management",
-            "c": "Colonial forest use laws",
-            "d": "Renaissance agricultural experiments"
+            "a": "The spread of container shipping",
+            "b": "Railroad standardization",
+            "c": "Telegraph-synchronized commodity exchanges",
+            "d": "Steamship transit monopolies"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 100,
+        "question": "Fears that AI might select leaders based on manipulated metrics parallel historical reliance on dubious 'scientific' measurements like phrenology.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
-        "question_id": 100,
-        "question": "Current debates on equitable access to technology echo historical struggles with:",
+        "question_id": 101,
+        "question": "Modern concerns about AI-enabled authoritarianism most closely resemble which historical concentration of informational power?",
         "type": "MCQ",
         "options": {
-            "a": "Early 20th-century telephone and telegraph access",
-            "b": "Medieval guild monopolies",
-            "c": "Colonial trade restrictions",
-            "d": "Renaissance education access"
+            "a": "Roman emperors controlling public granaries",
+            "b": "The papacy monopolizing literacy",
+            "c": "The KGB’s surveillance intelligence monopoly",
+            "d": "Colonial governors filtering newspapers"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 102,
+        "question": "The possibility that AI-generated materials overwrite cultural memory echoes colonial practices of replacing indigenous histories.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 103,
+        "question": "Which historical shift best parallels the fear that AI-driven automation may eliminate entire professions unpredictably?",
+        "type": "MCQ",
+        "options": {
+            "a": "The disappearance of scribes after the printing press",
+            "b": "The decline of cavalry units in WWI",
+            "c": "The automation of textile mills",
+            "d": "The collapse of lamplighter jobs after electrification"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 104,
+        "question": "The concern that AI may worsen global inequality resembles the uneven effects of the Green Revolution in the 20th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 105,
+        "question": "Which precedence best matches the concern that AI models reflect and amplify hidden biases?",
+        "type": "MCQ",
+        "options": {
+            "a": "Industrial-era standardized test discrimination",
+            "b": "The biased facial measurements of Victorian crime science",
+            "c": "Colonial census categorizations",
+            "d": "Phrenological criminal profiling"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 106,
+        "question": "Early nuclear command systems requiring machine-like precision foreshadow concerns about AI-style automation risks.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 107,
+        "question": "The fear that only a few nations might control frontier AI systems resembles which earlier technological monopoly?",
+        "type": "MCQ",
+        "options": {
+            "a": "Britain’s early industrial machinery secrecy laws",
+            "b": "Roman road-building monopoly",
+            "c": "Hanseatic grain logistics",
+            "d": "Ottoman control of silk roads"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 108,
+        "question": "AI’s risk of producing confident but false reasoning mirrors the hazard of early navigational charts that blended fact and myth.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 109,
+        "question": "Which historical case best parallels concerns about AI systems silently drifting from intended behavior?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mechanical looms drifting tension over time",
+            "b": "Astronomical tables accumulating rounding errors",
+            "c": "Nuclear missile early-warning computers misclassifying phenomena",
+            "d": "Scribe transcription errors in medieval manuscripts"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 110,
+        "question": "The belief that AI can become a single point of failure echoes the fragility of centralized telegraph networks.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 111,
+        "question": "Concerns about AI selecting information to show people resemble which earlier gatekeeping institution?",
+        "type": "MCQ",
+        "options": {
+            "a": "Renaissance library curators",
+            "b": "Monastic scriptoria deciding which works to copy",
+            "c": "Feudal heraldic registrars",
+            "d": "Colonial stamp taxes"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 112,
+        "question": "The idea that AI-generated media could 'overwrite reality' reflects worries about early photography replacing traditional eyewitness credibility.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 113,
+        "question": "Which phenomenon best mirrors the concern that AI can replicate but not truly understand human concepts?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mechanical turk illusions of cognition",
+            "b": "Renaissance automaton toys",
+            "c": "Victorian séance table-rapping",
+            "d": "Early telephone operators mimicking accents"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 114,
+        "question": "Modern fear of AI 'hallucinations' mirrors earlier confusion caused by unreliable telegraph signals in wartime.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 115,
+        "question": "Which historical disruption best parallels today’s rapid rise of AI-generated literature?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mass printing of chapbooks in early modern Europe",
+            "b": "The spread of penny dreadfuls",
+            "c": "The sudden affordability of newspapers in the 19th century",
+            "d": "The invention of the typewriter increasing administrative writing"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 116,
+        "question": "Concerns that AI could replace democratic deliberation echo early worries that radio would create a mass political hive mind.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 117,
+        "question": "Which analogy best fits the global concern that AI labs might trigger escalation by racing for capability?",
+        "type": "MCQ",
+        "options": {
+            "a": "The dreadnought naval arms race",
+            "b": "Mercantilist gold accumulation",
+            "c": "The spread of gunpowder",
+            "d": "Renaissance architectural rivalries"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 118,
+        "question": "The idea that AI requires vast hidden labor resembles controversies around garment sweatshops supporting 'automated' fashion industries.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 119,
+        "question": "Which past issue best parallels the fear that AI-generated code could create vulnerabilities unnoticed by humans?",
+        "type": "MCQ",
+        "options": {
+            "a": "Early software buffer overflow exploits",
+            "b": "Mechanical voting-machine miscounts",
+            "c": "Hidden backdoors in WWII cipher machines",
+            "d": "Faulty vacuum tubes in early computing rooms"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 120,
+        "question": "AI’s capability to produce false but emotionally persuasive narratives resembles Cold War propaganda that blended partial truths with fiction.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 121,
+        "question": "Modern arguments that AI will undermine democratic institutions echo which historical moment where information control shifted faster than governance could adapt, but only after elites underestimated its impact?",
+        "type": "MCQ",
+        "options": {
+            "a": "The rise of radio before regulatory frameworks",
+            "b": "The spread of medieval vernacular Bible translations",
+            "c": "The East India Company introducing printing in Bengal",
+            "d": "The unchecked expansion of telegraph syndicates"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 122,
+        "question": "Concerns that AI will automate moral judgment resemble early anxieties that statistical policing methods would replace human intuition.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 123,
+        "question": "Which historical dynamic best parallels fears that AI-generated content could overwhelm authentic cultural expression?",
+        "type": "MCQ",
+        "options": {
+            "a": "The flood of industrially printed novels in the late 19th century",
+            "b": "The mass production of religious tracts",
+            "c": "The cultural flattening caused by standardized schooling systems",
+            "d": "The dominance of Hollywood over regional cinemas"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 124,
+        "question": "The idea that AI will create irreversible dependency mirrors critiques of early mechanization in agriculture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 125,
+        "question": "Which scenario most closely resembles the modern fear that AI companies will hoard compute and knowledge as strategic leverage?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Venetian glassmakers restricting trade secrets",
+            "b": "The Ottoman Empire limiting access to firearms",
+            "c": "The British enforcing textile machinery export bans",
+            "d": "The Japanese Tokugawa shogunate restricting foreign knowledge"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 126,
+        "question": "The belief that AI might entrench biased worldviews parallels early textbook controversies over nationalist interpretation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 127,
+        "question": "The escalating competition between AI labs is most analogous to which arms race where speed mutated strategy faster than ethics could catch up?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Cold War missile gap panic",
+            "b": "The dreadnought naval race",
+            "c": "The Peloponnesian War trireme expansions",
+            "d": "The race for chemical weapons in WWI"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 128,
+        "question": "AI's ability to fabricate ‘evidence’ without malicious intent mirrors the unreliability of early forensic photography.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 129,
+        "question": "Which precedent best maps onto fears that AI-generated scientific research could dilute the reliability of scientific consensus?",
+        "type": "MCQ",
+        "options": {
+            "a": "The replication crisis in early experimental psychology",
+            "b": "The Ptolemaic model surviving due to institutional inertia",
+            "c": "The sudden explosion of amateur naturalists in the 18th century",
+            "d": "The proliferation of poorly reviewed medical pamphlets"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 130,
+        "question": "The worry that AI-generated persuasive media will erode shared reality echoes concerns about televised political advertising.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 131,
+        "question": "Which event best parallels the concern that AI-driven platforms will algorithmically sideline minority voices?",
+        "type": "MCQ",
+        "options": {
+            "a": "The disappearance of minority dialects after radio standardization",
+            "b": "The Church suppressing heterodox medieval writings",
+            "c": "Colonial linguistic assimilation through mission schools",
+            "d": "The displacement of regional presses by national newspapers"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 132,
+        "question": "AI’s vulnerability to subtle input manipulation resembles the instability of early encryption machines exposed by manual operator biases.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 133,
+        "question": "Which phenomenon most closely mirrors the risk that AI alignment solutions themselves evolve unexpected failure modes?",
+        "type": "MCQ",
+        "options": {
+            "a": "Early nuclear fail-safe systems misfiring under stress",
+            "b": "Steam engine governors oscillating unpredictably",
+            "c": "Automatic railway brakes malfunctioning in cold weather",
+            "d": "Feedback loops destabilizing early radio amplification"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 134,
+        "question": "The idea that AI-generated data could become a single point of truth recalls concerns about centralized encyclopedias becoming de facto authorities.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 135,
+        "question": "Which historical case best matches the fear that AI-assisted warfare will make escalation too fast for diplomacy to intervene?",
+        "type": "MCQ",
+        "options": {
+            "a": "Telegraph-enabled mobilization in WWI",
+            "b": "Blitzkrieg lightning warfare",
+            "c": "The Cuban Missile Crisis’ real-time decisions",
+            "d": "Automated early-warning radar systems misclassifying objects"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 136,
+        "question": "The belief that AI-driven efficiency metrics can distort human priorities resembles early corporate adoption of Taylorist scientific management.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 137,
+        "question": "Which analogy best captures fears about AI eliminating the tacit knowledge behind creative or strategic work?",
+        "type": "MCQ",
+        "options": {
+            "a": "The decline of medieval guild secrets after mechanization",
+            "b": "The replacement of horse archers by gunpowder units",
+            "c": "The loss of Polynesian navigation techniques under colonial rule",
+            "d": "The overshadowing of manuscript illumination by printing presses"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 138,
+        "question": "The fear that AI will produce authoritative nonsense echoes how early telegraph errors often spread without verification.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 139,
+        "question": "Which scenario best parallels concerns that AI-generated models will be treated as objective truth even when structurally biased?",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century anthropometric measurements used for policing",
+            "b": "The Pythagorean cult elevating numbers above observation",
+            "c": "The unquestioned use of standardized tests in early education",
+            "d": "Colonial administrators treating census categories as real identities"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 140,
+        "question": "AI’s dependence on massive training datasets parallels how early statistics required large but flawed population samples.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 141,
+        "question": "The worry that AI-generated governance recommendations could override public opinion mirrors which technocratic moment?",
+        "type": "MCQ",
+        "options": {
+            "a": "Progressive Era urban planning boards",
+            "b": "Cold War systems analysis in defense strategy",
+            "c": "19th-century sanitary commissions",
+            "d": "European central banking policies in the 1990s"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 142,
+        "question": "The idea that AI might erase human interpretive diversity resembles the decline of oral traditions after literacy became widespread.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 143,
+        "question": "Which phenomenon best reflects the concern that AI-generated policy simulations might obscure real human stakes?",
+        "type": "MCQ",
+        "options": {
+            "a": "Cold War game-theoretic modeling replacing qualitative diplomacy",
+            "b": "19th-century actuarial tables driving social insurance policies",
+            "c": "Economic models guiding IMF structural adjustments",
+            "d": "Automated traffic modeling shaping urban road networks"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 144,
+        "question": "AI's potential to amplify extreme but coherent narratives parallels the way early radio gave fringe voices national reach.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 145,
+        "question": "Which past transformation best parallels fears that AI-integrated workplaces will deskill humans over time?",
+        "type": "MCQ",
+        "options": {
+            "a": "The decline of navigators after GPS adoption",
+            "b": "The mechanization of textile production",
+            "c": "The decline of blacksmith craft after mass manufacturing",
+            "d": "The replacement of map-reading with automated routing"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 146,
+        "question": "AI’s reliance on fragile optimization resembles how early stock market algorithms destabilized trading.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 147,
+        "question": "Which historical analogy best fits the fear that AI will funnel global culture into homogenized patterns?",
+        "type": "MCQ",
+        "options": {
+            "a": "Hollywood reshaping global movie markets",
+            "b": "Colonial textbook standardization",
+            "c": "Romanization erasing local traditions",
+            "d": "Religious uniformity enforced by empires"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 148,
+        "question": "The notion that AI super-scaling will create unpredictable phase shifts resembles the chaos introduced by early networked computers interacting unintentionally.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 149,
+        "question": "Which historical moment most parallels the concern that AI may replace expert judgment but retain superficial expertise?",
+        "type": "MCQ",
+        "options": {
+            "a": "Napoleonic codification overshadowing local jurisprudence",
+            "b": "The rise of standardized testing replacing teacher assessment",
+            "c": "The early mechanical Turk exhibitions",
+            "d": "Victorian clerks replacing traditional accountants"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 150,
+        "question": "AI-induced polarization resembles earlier concerns that mass printing would fragment religious unity.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 151,
+        "question": "Which scenario best matches the worry that AI-generated predictive policing may reinforce past injustices?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial census misclassification creating biased legal categories",
+            "b": "Victorian policing guided by pseudo-scientific crime maps",
+            "c": "The FBI’s COINTELPRO targeting heuristics",
+            "d": "The use of race science in early criminology"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 152,
+        "question": "Concern that AI-created agents may act autonomously echoes worries about runaway automated trading systems.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 153,
+        "question": "Which historical dynamic best resembles the risk that AI can be subtly repurposed by insiders without external visibility?",
+        "type": "MCQ",
+        "options": {
+            "a": "Cryptographers modifying cipher machines",
+            "b": "Court astrologers manipulating predictions",
+            "c": "Cold War intelligence analysts altering data pipelines",
+            "d": "Monastic scribes inserting theological corrections"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 154,
+        "question": "The risk of AI-generated legal drafts becoming authoritative without oversight mirrors how boilerplate contracts standardized without public input.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 155,
+        "question": "Which past evolution best parallels fears that AI personal assistants will modulate human behavior without explicit consent?",
+        "type": "MCQ",
+        "options": {
+            "a": "Radio-era psychological advertising",
+            "b": "Cold War subliminal messaging research",
+            "c": "Smartphone notification design shaping attention",
+            "d": "Behaviorist education reforms"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 156,
+        "question": "AI likely accelerating decision cycles beyond human oversight recalls early automation in nuclear command workflows.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 157,
+        "question": "Which scenario most closely reflects concerns that AI self-improvement loops may create untrackable model drift?",
+        "type": "MCQ",
+        "options": {
+            "a": "Recursive errors in medieval astronomical tables",
+            "b": "Unsupervised adjustments in early autopilot systems",
+            "c": "Feedback cascades in analog radio transmitters",
+            "d": "Self-modifying boot-sector viruses"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 158,
+        "question": "AI’s potential to produce flawless but deceptive simulations mirrors the manipulative realism of mid-20th century psychological warfare films.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 159,
+        "question": "Which historical transformation best parallels fears that AI-founded institutions could outlive human intentions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Church bureaucracies surviving centuries unchanged",
+            "b": "Imperial civil services outlasting rulers",
+            "c": "Corporations gaining legal personhood",
+            "d": "University academies entrenching medieval curricula"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 160,
+        "question": "Concerns that AI will rewrite the boundaries of truth echo early debates about whether photography represented objective reality.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     }
