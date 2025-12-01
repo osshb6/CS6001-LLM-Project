@@ -1,0 +1,161 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,MCQ,In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015?,c,Yalta,D,d,Paris,0
+2,MCQ,In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955?,c,Pretoria,D,d,Bandung,0
+3,MCQ,In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019?,c,Paris,D,d,Biarritz,0
+4,MCQ,Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?,b,No,A,a,Yes,0
+5,MCQ,In which city did John F. Kennedy attend the Vienna Summit held in 1961?,a,Washington; D.C.,B,b,Vienna,0
+6,MCQ,Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994?,a,Yes,B,b,No,0
+7,MCQ,Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?,b,No,A,a,Yes,0
+8,MCQ,Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963?,a,Yes,B,b,No,0
+9,MCQ,Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955?,a,Yes,A,a,Yes,1
+10,MCQ,In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?,b,Reykjavik,A,a,Pretoria,0
+11,MCQ,Who attended the March on Washington held in Washington; D.C. in 1963?,b,Nelson Mandela,A,a,Martin Luther King Jr.,0
+12,MCQ,Did Martin Luther King Jr. attend the March on Washington held in Washington; D.C. in 1963?,b,No,A,a,Yes,0
+13,MCQ,In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?,b,Pretoria,A,a,Paris,0
+14,MCQ,Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945?,a,Yes,B,b,No,0
+15,MCQ,In which city did Martin Luther King Jr. attend the March on Washington held in 1963?,a,Pretoria,B,b,Washington; D.C.,0
+16,MCQ,Who attended the Yalta Conference held in Yalta in 1945?,b,Franklin D. Roosevelt,A,a,Winston Churchill,0
+17,MCQ,Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?,b,No,A,a,Yes,0
+18,MCQ,Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019?,a,Yes,B,b,No,0
+19,MCQ,Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015?,a,Yes,B,b,No,0
+20,MCQ,Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?,d,Mikhail Gorbachev,C,c,Nelson Mandela,0
+21,MCQ,Who attended the Bandung Conference held in Bandung in 1955?,d,Barack Obama,C,c,Jawaharlal Nehru,0
+22,MCQ,Who attended the G7 Summit in Biarritz held in Biarritz in 2019?,a,Mikhail Gorbachev,B,b,Emmanuel Macron,0
+23,MCQ,Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington; D.C. in 1986?,a,Yes,B,b,No,0
+24,MCQ,Who attended the UN Climate Change Conference COP21 held in Paris in 2015?,c,Nelson Mandela,D,d,Barack Obama,0
+25,MCQ,Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961?,a,Yes,B,b,No,0
+26,MCQ,In which city did Winston Churchill attend the Yalta Conference held in 1945?,a,Paris,B,b,Yalta,0
+27,MCQ,Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?,b,No,A,a,Yes,0
+28,MCQ,Who attended the Reykjavik Summit held in Reykjavik in 1986?,a,Angela Merkel,B,b,Mikhail Gorbachev,0
+29,MCQ,In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?,a,Reykjavik,B,b,Yalta,0
+30,MCQ,Who attended the Vienna Summit held in Vienna in 1961?,b,Emmanuel Macron,A,a,John F. Kennedy,0
+31,MCQ,Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?,b,No,A,a,Yes,0
+32,MCQ,Did Angela Merkel attend the UN Climate Change Conference COP21 held in Paris in 2015?,b,No,A,a,Yes,0
+33,MCQ,Did Emmanuel Macron attend the G7 Summit in Biarritz held in Biarritz in 2019?,b,No,A,a,Yes,0
+34,MCQ,Did Angela Merkel attend the UN Climate Change Conference COP21 held in Yalta in 2015?,a,Yes,B,b,No,0
+35,MCQ,In which city did Mikhail Gorbachev attend the Reykjavik Summit held in 1986?,c,Paris,D,d,Reykjavik,0
+36,MCQ,Did Barack Obama attend the UN Climate Change Conference COP21 held in Paris in 2015?,b,No,A,a,Yes,0
+37,MCQ,Did Winston Churchill attend the Yalta Conference held in Washington; D.C. in 1945?,a,Yes,B,b,No,0
+38,MCQ,Did Nelson Mandela attend the 1994 Presidential Inauguration held in Pretoria in 1994?,b,No,A,a,Yes,0
+39,MCQ,Historically; In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015?,c,Yalta,D,d,Paris,0
+40,MCQ,According to historians; In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015?,c,Yalta,D,d,Paris,0
+41,MCQ,In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015 (historical context)?,c,Yalta,D,d,Paris,0
+42,MCQ,In history exams; students may be asked: In which city did Angela Merkel attend the UN Climate Change Conference COP21 held in 2015?,c,Yalta,D,d,Paris,0
+43,MCQ,Historically; In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955?,c,Pretoria,D,d,Bandung,0
+44,MCQ,According to historians; In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955?,c,Pretoria,D,d,Bandung,0
+45,MCQ,In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955 (historical context)?,c,Pretoria,D,d,Bandung,0
+46,MCQ,In history exams; students may be asked: In which city did Jawaharlal Nehru attend the Bandung Conference held in 1955?,c,Pretoria,D,d,Bandung,0
+47,MCQ,Historically; In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019?,c,Paris,D,d,Biarritz,0
+48,MCQ,According to historians; In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019?,c,Paris,D,d,Biarritz,0
+49,MCQ,In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019 (historical context)?,c,Paris,D,d,Biarritz,0
+50,MCQ,In history exams; students may be asked: In which city did Emmanuel Macron attend the G7 Summit in Biarritz held in 2019?,c,Paris,D,d,Biarritz,0
+51,MCQ,Historically; Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?,b,No,A,a,Yes,0
+52,MCQ,According to historians; Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?,b,No,A,a,Yes,0
+53,MCQ,Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961 (historical context)?,b,No,A,a,Yes,0
+54,MCQ,In history exams; students may be asked: Did John F. Kennedy attend the Vienna Summit held in Vienna in 1961?,b,No,A,a,Yes,0
+55,MCQ,Historically; In which city did John F. Kennedy attend the Vienna Summit held in 1961?,a,Washington; D.C.,B,b,Vienna,0
+56,MCQ,According to historians; In which city did John F. Kennedy attend the Vienna Summit held in 1961?,a,Washington; D.C.,B,b,Vienna,0
+57,MCQ,In which city did John F. Kennedy attend the Vienna Summit held in 1961 (historical context)?,a,Washington; D.C.,B,b,Vienna,0
+58,MCQ,In history exams; students may be asked: In which city did John F. Kennedy attend the Vienna Summit held in 1961?,a,Washington; D.C.,B,b,Vienna,0
+59,MCQ,Historically; Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994?,a,Yes,B,b,No,0
+60,MCQ,According to historians; Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994?,a,Yes,B,b,No,0
+61,MCQ,Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994 (historical context)?,a,Yes,B,b,No,0
+62,MCQ,In history exams; students may be asked: Did Nelson Mandela attend the 1994 Presidential Inauguration held in Yalta in 1994?,a,Yes,B,b,No,0
+63,MCQ,Historically; Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?,b,No,A,a,Yes,0
+64,MCQ,According to historians; Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?,b,No,A,a,Yes,0
+65,MCQ,Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945 (historical context)?,b,No,A,a,Yes,0
+66,MCQ,In history exams; students may be asked: Did Franklin D. Roosevelt attend the Yalta Conference held in Yalta in 1945?,b,No,A,a,Yes,0
+67,MCQ,Historically; Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963?,a,Yes,B,b,No,0
+68,MCQ,According to historians; Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963?,a,Yes,B,b,No,0
+69,MCQ,Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963 (historical context)?,a,Yes,B,b,No,0
+70,MCQ,In history exams; students may be asked: Did Martin Luther King Jr. attend the March on Washington held in Reykjavik in 1963?,a,Yes,B,b,No,0
+71,MCQ,Historically; Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955?,a,Yes,B,b,No,0
+72,MCQ,According to historians; Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955?,a,Yes,B,b,No,0
+73,MCQ,Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955 (historical context)?,a,Yes,A,a,Yes,1
+74,MCQ,In history exams; students may be asked: Did Jawaharlal Nehru attend the Bandung Conference held in Biarritz in 1955?,a,Yes,A,a,Yes,1
+75,MCQ,Historically; In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?,b,Reykjavik,A,a,Pretoria,0
+76,MCQ,According to historians; In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?,b,Reykjavik,A,a,Pretoria,0
+77,MCQ,In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994 (historical context)?,b,Reykjavik,A,a,Pretoria,0
+78,MCQ,In history exams; students may be asked: In which city did Nelson Mandela attend the 1994 Presidential Inauguration held in 1994?,b,Reykjavik,A,a,Pretoria,0
+79,MCQ,Historically; Who attended the March on Washington held in Washington; D.C. in 1963?,b,Nelson Mandela,A,a,Martin Luther King Jr.,0
+80,MCQ,According to historians; Who attended the March on Washington held in Washington; D.C. in 1963?,b,Nelson Mandela,A,a,Martin Luther King Jr.,0
+81,MCQ,Who attended the March on Washington held in Washington; D.C. in 1963 (historical context)?,b,Nelson Mandela,A,a,Martin Luther King Jr.,0
+82,MCQ,In history exams; students may be asked: Who attended the March on Washington held in Washington; D.C. in 1963?,b,Nelson Mandela,A,a,Martin Luther King Jr.,0
+83,MCQ,Historically; Did Martin Luther King Jr. attend the March on Washington held in Washington; D.C. in 1963?,b,No,A,a,Yes,0
+84,MCQ,According to historians; Did Martin Luther King Jr. attend the March on Washington held in Washington; D.C. in 1963?,b,No,A,a,Yes,0
+85,MCQ,Did Martin Luther King Jr. attend the March on Washington held in Washington; D.C. in 1963 (historical context)?,b,No,A,a,Yes,0
+86,MCQ,In history exams; students may be asked: Did Martin Luther King Jr. attend the March on Washington held in Washington; D.C. in 1963?,b,No,A,a,Yes,0
+87,MCQ,Historically; In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?,b,Pretoria,A,a,Paris,0
+88,MCQ,According to historians; In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?,b,Pretoria,A,a,Paris,0
+89,MCQ,In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015 (historical context)?,b,Pretoria,A,a,Paris,0
+90,MCQ,In history exams; students may be asked: In which city did Barack Obama attend the UN Climate Change Conference COP21 held in 2015?,b,Pretoria,A,a,Paris,0
+91,MCQ,Historically; Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945?,a,Yes,B,b,No,0
+92,MCQ,According to historians; Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945?,a,Yes,B,b,No,0
+93,MCQ,Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945 (historical context)?,a,Yes,B,b,No,0
+94,MCQ,In history exams; students may be asked: Did Franklin D. Roosevelt attend the Yalta Conference held in Bandung in 1945?,a,Yes,B,b,No,0
+95,MCQ,Historically; In which city did Martin Luther King Jr. attend the March on Washington held in 1963?,a,Pretoria,B,b,Washington; D.C.,0
+96,MCQ,According to historians; In which city did Martin Luther King Jr. attend the March on Washington held in 1963?,a,Pretoria,B,b,Washington; D.C.,0
+97,MCQ,In which city did Martin Luther King Jr. attend the March on Washington held in 1963 (historical context)?,a,Pretoria,B,b,Washington; D.C.,0
+98,MCQ,In history exams; students may be asked: In which city did Martin Luther King Jr. attend the March on Washington held in 1963?,a,Pretoria,B,b,Washington; D.C.,0
+99,MCQ,Historically; Who attended the Yalta Conference held in Yalta in 1945?,b,Franklin D. Roosevelt,A,a,Winston Churchill,0
+100,MCQ,According to historians; Who attended the Yalta Conference held in Yalta in 1945?,b,Franklin D. Roosevelt,A,a,Winston Churchill,0
+101,MCQ,Who attended the Yalta Conference held in Yalta in 1945 (historical context)?,b,Franklin D. Roosevelt,A,a,Winston Churchill,0
+102,MCQ,In history exams; students may be asked: Who attended the Yalta Conference held in Yalta in 1945?,b,Franklin D. Roosevelt,A,a,Winston Churchill,0
+103,MCQ,Historically; Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?,b,No,A,a,Yes,0
+104,MCQ,According to historians; Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?,b,No,A,a,Yes,0
+105,MCQ,Did Winston Churchill attend the Yalta Conference held in Yalta in 1945 (historical context)?,b,No,A,a,Yes,0
+106,MCQ,In history exams; students may be asked: Did Winston Churchill attend the Yalta Conference held in Yalta in 1945?,b,No,A,a,Yes,0
+107,MCQ,Historically; Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019?,a,Yes,B,b,No,0
+108,MCQ,According to historians; Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019?,a,Yes,B,b,No,0
+109,MCQ,Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019 (historical context)?,a,Yes,B,b,No,0
+110,MCQ,In history exams; students may be asked: Did Emmanuel Macron attend the G7 Summit in Biarritz held in Bandung in 2019?,a,Yes,B,b,No,0
+111,MCQ,Historically; Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015?,a,Yes,B,b,No,0
+112,MCQ,According to historians; Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015?,a,Yes,B,b,No,0
+113,MCQ,Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015 (historical context)?,a,Yes,B,b,No,0
+114,MCQ,In history exams; students may be asked: Did Barack Obama attend the UN Climate Change Conference COP21 held in Yalta in 2015?,a,Yes,B,b,No,0
+115,MCQ,Historically; Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?,d,Mikhail Gorbachev,C,c,Nelson Mandela,0
+116,MCQ,According to historians; Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?,d,Mikhail Gorbachev,C,c,Nelson Mandela,0
+117,MCQ,Who attended the 1994 Presidential Inauguration held in Pretoria in 1994 (historical context)?,d,Mikhail Gorbachev,C,c,Nelson Mandela,0
+118,MCQ,In history exams; students may be asked: Who attended the 1994 Presidential Inauguration held in Pretoria in 1994?,d,Mikhail Gorbachev,C,c,Nelson Mandela,0
+119,MCQ,Historically; Who attended the Bandung Conference held in Bandung in 1955?,d,Barack Obama,C,c,Jawaharlal Nehru,0
+120,MCQ,According to historians; Who attended the Bandung Conference held in Bandung in 1955?,d,Barack Obama,C,c,Jawaharlal Nehru,0
+121,MCQ,Who attended the Bandung Conference held in Bandung in 1955 (historical context)?,d,Barack Obama,C,c,Jawaharlal Nehru,0
+122,MCQ,In history exams; students may be asked: Who attended the Bandung Conference held in Bandung in 1955?,d,Barack Obama,C,c,Jawaharlal Nehru,0
+123,MCQ,Historically; Who attended the G7 Summit in Biarritz held in Biarritz in 2019?,a,Mikhail Gorbachev,B,b,Emmanuel Macron,0
+124,MCQ,According to historians; Who attended the G7 Summit in Biarritz held in Biarritz in 2019?,a,Mikhail Gorbachev,B,b,Emmanuel Macron,0
+125,MCQ,Who attended the G7 Summit in Biarritz held in Biarritz in 2019 (historical context)?,a,Mikhail Gorbachev,B,b,Emmanuel Macron,0
+126,MCQ,In history exams; students may be asked: Who attended the G7 Summit in Biarritz held in Biarritz in 2019?,a,Mikhail Gorbachev,B,b,Emmanuel Macron,0
+127,MCQ,Historically; Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington; D.C. in 1986?,a,Yes,B,b,No,0
+128,MCQ,According to historians; Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington; D.C. in 1986?,a,Yes,B,b,No,0
+129,MCQ,Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington; D.C. in 1986 (historical context)?,a,Yes,B,b,No,0
+130,MCQ,In history exams; students may be asked: Did Mikhail Gorbachev attend the Reykjavik Summit held in Washington; D.C. in 1986?,a,Yes,B,b,No,0
+131,MCQ,Historically; Who attended the UN Climate Change Conference COP21 held in Paris in 2015?,c,Nelson Mandela,D,d,Barack Obama,0
+132,MCQ,According to historians; Who attended the UN Climate Change Conference COP21 held in Paris in 2015?,c,Nelson Mandela,D,d,Barack Obama,0
+133,MCQ,Who attended the UN Climate Change Conference COP21 held in Paris in 2015 (historical context)?,c,Nelson Mandela,D,d,Barack Obama,0
+134,MCQ,In history exams; students may be asked: Who attended the UN Climate Change Conference COP21 held in Paris in 2015?,c,Nelson Mandela,D,d,Barack Obama,0
+135,MCQ,Historically; Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961?,a,Yes,B,b,No,0
+136,MCQ,According to historians; Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961?,a,Yes,B,b,No,0
+137,MCQ,Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961 (historical context)?,a,Yes,B,b,No,0
+138,MCQ,In history exams; students may be asked: Did John F. Kennedy attend the Vienna Summit held in Reykjavik in 1961?,a,Yes,B,b,No,0
+139,MCQ,Historically; In which city did Winston Churchill attend the Yalta Conference held in 1945?,a,Paris,B,b,Yalta,0
+140,MCQ,According to historians; In which city did Winston Churchill attend the Yalta Conference held in 1945?,a,Paris,B,b,Yalta,0
+141,MCQ,In which city did Winston Churchill attend the Yalta Conference held in 1945 (historical context)?,a,Paris,B,b,Yalta,0
+142,MCQ,In history exams; students may be asked: In which city did Winston Churchill attend the Yalta Conference held in 1945?,a,Paris,B,b,Yalta,0
+143,MCQ,Historically; Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?,b,No,A,a,Yes,0
+144,MCQ,According to historians; Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?,b,No,B,b,No,1
+145,MCQ,Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955 (historical context)?,b,No,A,a,Yes,0
+146,MCQ,In history exams; students may be asked: Did Jawaharlal Nehru attend the Bandung Conference held in Bandung in 1955?,b,No,A,a,Yes,0
+147,MCQ,Historically; Who attended the Reykjavik Summit held in Reykjavik in 1986?,a,Angela Merkel,B,b,Mikhail Gorbachev,0
+148,MCQ,According to historians; Who attended the Reykjavik Summit held in Reykjavik in 1986?,a,Angela Merkel,B,b,Mikhail Gorbachev,0
+149,MCQ,Who attended the Reykjavik Summit held in Reykjavik in 1986 (historical context)?,a,Angela Merkel,B,b,Mikhail Gorbachev,0
+150,MCQ,In history exams; students may be asked: Who attended the Reykjavik Summit held in Reykjavik in 1986?,a,Angela Merkel,B,b,Mikhail Gorbachev,0
+151,MCQ,Historically; In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?,a,Reykjavik,B,b,Yalta,0
+152,MCQ,According to historians; In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?,a,Reykjavik,B,b,Yalta,0
+153,MCQ,In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945 (historical context)?,a,Reykjavik,B,b,Yalta,0
+154,MCQ,In history exams; students may be asked: In which city did Franklin D. Roosevelt attend the Yalta Conference held in 1945?,a,Reykjavik,B,b,Yalta,0
+155,MCQ,Historically; Who attended the Vienna Summit held in Vienna in 1961?,b,Emmanuel Macron,A,a,John F. Kennedy,0
+156,MCQ,According to historians; Who attended the Vienna Summit held in Vienna in 1961?,b,Emmanuel Macron,A,a,John F. Kennedy,0
+157,MCQ,Who attended the Vienna Summit held in Vienna in 1961 (historical context)?,b,Emmanuel Macron,A,a,John F. Kennedy,0
+158,MCQ,In history exams; students may be asked: Who attended the Vienna Summit held in Vienna in 1961?,b,Emmanuel Macron,A,a,John F. Kennedy,0
+159,MCQ,Historically; Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?,b,No,A,a,Yes,0
+160,MCQ,According to historians; Did Mikhail Gorbachev attend the Reykjavik Summit held in Reykjavik in 1986?,b,No,A,a,Yes,0

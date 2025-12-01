@@ -1,0 +1,101 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,If the American Revolution in 1776 never occurred; the United States would have remained a British colony throughout the 19th century.,b,False,False,b,False,1
+2,MCQ,If Germany had not invaded Poland in 1939; what is the most likely outcome?,b,World War II would still have started differently,B,b,World War II would still have started differently,1
+3,TF,If the fall of the Roman Empire in 476 CE never occurred; Europe would not have experienced the Middle Ages.,b,False,False,b,False,1
+4,MCQ,If the French Revolution of 1789 had not taken place; what would have been the most likely result?,a,The French monarchy would have survived longer,A,a,The French monarchy would have survived longer,1
+5,TF,If the Industrial Revolution in Britain never happened; technological advancements globally would have been delayed significantly.,a,True,True,a,True,1
+6,MCQ,If Columbus had not reached the Americas in 1492; which region would likely have dominated early Atlantic exploration?,b,Portugal,B,b,Portugal,1
+7,TF,If Archduke Franz Ferdinand had not been assassinated in 1914; World War I would have been avoided entirely.,b,False,False,b,False,1
+8,MCQ,If the U.S. had not entered World War II; what is the most likely outcome?,b,The war would have continued for many more years,B,b,The war would have continued for many more years,1
+9,TF,If the printing press had not been invented; the Renaissance would have spread far more slowly.,a,True,True,a,True,1
+10,MCQ,If the Berlin Wall had never fallen; what might have continued?,a,The Cold War division of Europe,A,a,The Cold War division of Europe,1
+11,TF,If the Black Death had not struck Europe in the 14th century; population growth would have remained stable.,b,False,False,b,False,1
+12,MCQ,If the United Nations had not been created in 1945; which area would be most affected?,a,Post-war peacekeeping efforts,A,a,Post-war peacekeeping efforts,1
+13,TF,If the partition of India in 1947 had not occurred; South Asia would have avoided decades of geopolitical tension.,a,True,False,b,False,0
+14,MCQ,If penicillin had never been discovered; what would have happened?,a,Mortality from bacterial infections would be far higher,A,a,Mortality from bacterial infections would be far higher,1
+15,TF,If the Cold War had never occurred; the global arms race would have been far less intense.,a,True,True,a,True,1
+16,MCQ,If the Great Fire of London never happened; what would London likely have retained?,a,Densely packed wooden medieval homes,A,a,Densely packed wooden medieval homes,1
+17,TF,If the U.S. Civil Rights Movement of the 1960s had not occurred; racial segregation would have persisted far longer.,a,True,True,a,True,1
+18,MCQ,If Columbus never discovered America; which civilization might have reached it next?,c,Portuguese explorers,B,b,Scandinavian seafarers,0
+19,TF,If the atomic bomb had not been dropped on Japan in 1945; the war would have dragged on for months.,a,True,True,a,True,1
+20,MCQ,If the Soviet Union had not collapsed in 1991; what is the most likely outcome?,a,A prolonged Cold War,A,a,A prolonged Cold War,1
+21,TF,If the Renaissance had never happened; Europe's scientific progress would have been significantly delayed.,a,True,True,a,True,1
+22,MCQ,If the Great Depression had not taken place; what might have changed?,a,The rise of fascism in Europe would have been slower,A,a,The rise of fascism in Europe would have been slower,1
+23,TF,If the Meiji Restoration never took place; Japan would not have rapidly modernized in the 19th century.,a,True,True,a,True,1
+24,MCQ,If World War I never occurred; what might have happened to the Ottoman Empire?,a,It would have survived longer,A,a,It would have survived longer,1
+25,TF,If the Cuban Missile Crisis never happened; U.S.-Soviet nuclear tension would have been lower.,b,False,True,a,True,0
+26,MCQ,If the internet had not been developed; what area would be most impacted?,a,International communication,A,a,International communication,1
+27,TF,If the Protestant Reformation had not happened; the Catholic Church would have remained unchallenged.,b,False,False,b,False,1
+28,MCQ,If Napoleon had not been defeated at Waterloo; what might have happened?,a,France would have expanded further,A,a,France would have expanded further,1
+29,TF,If slavery had never existed in the U.S.; racial inequality would not exist today.,b,False,False,b,False,1
+30,MCQ,If the Treaty of Versailles had been less harsh; what might have been prevented?,a,The rise of Adolf Hitler,A,a,The rise of Adolf Hitler,1
+31,TF,If electricity had never been discovered; modern industrialization would have been impossible.,b,False,False,b,False,1
+32,MCQ,If Julius Caesar had not been assassinated; what is the most likely outcome?,a,The Roman Republic might have lasted longer,B,b,The Empire would have emerged sooner,0
+33,TF,If the moon landing never happened; global confidence in U.S. science would have dropped.,a,True,False,b,False,0
+34,MCQ,If China had not adopted market reforms in 1978; what would likely have occurred?,a,Slower economic growth,A,a,Slower economic growth,1
+35,TF,If the Great Wall of China had never been built; China would have been more exposed to invasions.,a,True,True,a,True,1
+36,MCQ,If Alexander the Great had not died early; what likely would have happened?,a,His empire would have expanded deeper into Asia,A,a,His empire would have expanded deeper into Asia,1
+37,TF,If the Cold War had continued past 1991; nuclear stockpiles would have grown further.,a,True,True,a,True,1
+38,MCQ,If apartheid had not ended in 1994; what would have happened?,a,Increasing sanctions and isolation,A,a,Increasing sanctions and isolation,1
+39,TF,If women had not gained the right to vote; gender equality would be far behind today.,a,True,True,a,True,1
+40,MCQ,If the Korean War never happened; what is the most likely outcome?,a,Korea might have remained a unified state,A,a,Korea might have remained a unified state,1
+41,TF,If the Louisiana Purchase of 1803 never occurred; would the United States have remained confined to the East Coast for most of the 19th century?,b,False,False,b,False,1
+42,MCQ,If the Spanish–American War of 1898 never happened; what outcome would be most likely for U.S. influence in the Pacific?,d,U.S. expansion into the Pacific would occur through later diplomatic agreements,D,d,U.S. expansion into the Pacific would occur through later diplomatic agreements,1
+43,TF,If the Bolshevik Revolution in 1917 never occurred; Russia would have transitioned peacefully into a liberal democracy by 1925.,b,False,False,b,False,1
+44,MCQ,If the Opium Wars never occurred; how would China's 19th-century global position most likely have changed?,d,China would have opened to trade later but on more equal terms,D,d,China would have opened to trade later but on more equal terms,1
+45,TF,If the United States had not joined World War I in 1917; the Allied victory would have been significantly delayed.,a,True,True,a,True,1
+46,MCQ,If the Chinese Civil War ended differently and the Communists never took power in 1949; what is the most plausible outcome?,c,China remains divided into several warlord regions,A,a,China becomes a U.S.-aligned capitalist state,0
+47,TF,If the Partition of India in 1947 never occurred; South Asia would have avoided decades of geopolitical tension.,b,False,False,b,False,1
+48,MCQ,If the Great Depression of 1929 never occurred; what would be the most likely effect on global political movements?,c,Far-right and far-left movements would have gained less support,C,c,Far-right and far-left movements would have gained less support,1
+49,TF,If the Cuban Missile Crisis of 1962 never occurred; the Cold War would have been far less dangerous.,b,False,False,b,False,1
+50,MCQ,If the Aztec Empire had defeated the Spanish in the early 1500s; what long-term consequence is most likely?,c,The Aztecs would adopt selective European technologies,C,c,The Aztecs would adopt selective European technologies,1
+51,TF,If the assassination of Archduke Franz Ferdinand in 1914 never occurred; Europe would have avoided World War I entirely.,b,False,False,b,False,1
+52,MCQ,If the Korean War never happened; what is the most likely fate of the Korean Peninsula?,c,Unified under a democratic government,D,d,Permanently divided but peacefully coexisting,0
+53,TF,If the Protestant Reformation of 1517 never began; Europe would have remained religiously unified.,b,False,False,b,False,1
+54,MCQ,If the Meiji Restoration of 1868 never occurred; which result is most likely for Japan?,c,Japan remains isolated and agrarian much longer,C,c,Japan remains isolated and agrarian much longer,1
+55,TF,If the French Revolution of 1789 never happened; Europe would have avoided the rise of Napoleon.,a,True,True,a,True,1
+56,MCQ,If the Great Fire of London in 1666 never happened; what change is most plausible?,c,London's medieval architecture survives much longer,C,c,London's medieval architecture survives much longer,1
+57,TF,If the Mongol invasions of the 13th century never occurred; Eastern Europe would have developed without major disruption.,a,True,False,b,False,0
+58,MCQ,If the Scientific Revolution never occurred; which consequence is most likely?,c,Technological progress slows significantly,C,c,Technological progress slows significantly,1
+59,TF,If the Roman Empire never adopted Christianity; Europe would have remained predominantly polytheistic.,b,False,False,b,False,1
+60,MCQ,If the discovery of the Americas in 1492 never happened; what is the most likely outcome?,c,Global trade networks develop far more slowly,C,c,Global trade networks develop far more slowly,1
+61,TF,If the Black Death of the 14th century never occurred; Europe's feudal system would have survived much longer.,a,True,True,a,True,1
+62,MCQ,If the Space Race never began in the 1950s; which development is most plausible?,c,Satellite technology develops decades later,C,c,Satellite technology develops decades later,1
+63,TF,If apartheid in South Africa never ended in the 1990s; the country would have faced international isolation for much longer.,a,True,True,a,True,1
+64,MCQ,If the Renaissance never occurred; what is the most likely consequence for Europe?,c,Artistic and scientific progress slows dramatically,C,c,Artistic and scientific progress slows dramatically,1
+65,TF,If the Berlin Wall never fell in 1989; Germany would still be divided today.,b,False,True,a,True,0
+66,MCQ,If oil had never been discovered in the Middle East; which scenario is most likely?,c,Middle Eastern states remain politically fragmented,C,c,Middle Eastern states remain politically fragmented,1
+67,TF,If World War II never occurred; the United Nations would not have formed in 1945.,a,True,True,a,True,1
+68,MCQ,If Napoleon had won the Battle of Waterloo; what long-term outcome is most likely?,d,A long-lasting French-led European empire,D,d,A long-lasting French-led European empire,1
+69,TF,If the Chinese invention of gunpowder never occurred; European warfare would have developed similarly.,b,False,False,b,False,1
+70,MCQ,If the American Civil War never occurred; what is the most likely national outcome?,c,Slavery continues for several more decades,C,c,Slavery continues for several more decades,1
+71,TF,If the Printing Press had never been invented; mass literacy would have been significantly delayed.,a,True,True,a,True,1
+72,MCQ,If the Suez Crisis of 1956 never happened; which outcome is most plausible?,d,Britain and France maintain stronger global influence,D,d,Britain and France maintain stronger global influence,1
+73,TF,If ancient Greece never developed democracy; modern democratic systems would look the same today.,b,False,False,b,False,1
+74,MCQ,If the transatlantic slave trade never occurred; what is the most likely demographic effect on the Americas?,c,Population growth in the Americas slows significantly,C,c,Population growth in the Americas slows significantly,1
+75,TF,If the Cold War never happened; nuclear weapons would likely not spread globally.,a,True,False,b,False,0
+76,MCQ,If the fall of Constantinople in 1453 never happened; which scenario is most likely?,c,The Byzantine Empire survives into the modern era,C,c,The Byzantine Empire survives into the modern era,1
+77,TF,If the Vietnam War never occurred; U.S. domestic political polarization would be much lower today.,a,True,False,b,False,0
+78,MCQ,If the discovery of penicillin never happened; what is the most likely outcome?,c,Infectious disease mortality stays extremely high,C,c,Infectious disease mortality stays extremely high,1
+79,TF,If the British Empire never colonized India; India's economy would develop in the same manner.,b,False,False,b,False,1
+80,MCQ,If the Battle of Hastings in 1066 never occurred; what is the most likely consequence for England?,c,The English language remains primarily Germanic,C,c,The English language remains primarily Germanic,1
+81,TF,If the Renaissance never occurred; would scientific discoveries have been delayed in Europe?,a,True,True,a,True,1
+82,MCQ,If the American Constitution had not been ratified in 1789; what might have been affected?,a,U.S. federal government structure,A,a,U.S. federal government structure,1
+83,TF,If the Industrial Revolution never occurred; global economic development would have been slower.,a,True,True,a,True,1
+84,MCQ,If the American Civil Rights Act of 1964 never passed; what would have happened?,a,Segregation and discrimination would have persisted longer,A,a,Segregation and discrimination would have persisted longer,1
+85,TF,If the Great Depression never occurred; global economic policies might have developed differently.,a,True,True,a,True,1
+86,MCQ,If the discovery of penicillin in 1928 never occurred; what would have been affected most?,a,Treatment of bacterial infections,A,a,Treatment of bacterial infections,1
+87,TF,If the French Revolution never occurred; would European monarchies have survived longer?,a,True,True,a,True,1
+88,MCQ,If the Cold War never occurred; which of the following might have been different?,a,Global nuclear arms race,A,a,Global nuclear arms race,1
+89,TF,If the Wright brothers had not invented the airplane in 1903; would international travel by air have been delayed?,a,True,True,a,True,1
+90,MCQ,If the U.S. Civil War never occurred; what would have been the impact on slavery?,a,Slavery might have continued longer,A,a,Slavery might have continued longer,1
+91,TF,If the Berlin Airlift never happened in 1948; would West Berlin have survived Soviet pressure?,b,False,False,b,False,1
+92,MCQ,If the Treaty of Versailles in 1919 had been more lenient; what might have been prevented?,a,Rise of Adolf Hitler and World War II,A,a,Rise of Adolf Hitler and World War II,1
+93,TF,If the Magna Carta never existed; would modern constitutional law in England have developed later?,a,True,True,a,True,1
+94,MCQ,If the Cuban Revolution never happened in 1959; what would have been affected most?,a,U.S.-Cuba relations,A,a,U.S.-Cuba relations,1
+95,TF,If the Ottoman Empire had never fallen after World War I; would the Middle East have experienced the same political boundaries?,b,False,False,b,False,1
+96,MCQ,If the printing press never existed; what would have been affected most in Europe?,a,Spread of knowledge and literacy,A,a,Spread of knowledge and literacy,1
+97,TF,If the assassination of Archduke Franz Ferdinand never occurred; would World War I still have happened?,a,True,False,b,False,0
+98,MCQ,If the Great Fire of London in 1666 never occurred; what would have been affected most?,a,City planning and architecture,A,a,City planning and architecture,1
+99,TF,If women had not gained the right to vote in the early 20th century; would gender equality have progressed as it did?,b,False,False,b,False,1
+100,MCQ,If the atomic bomb had never been developed during World War II; what would have been affected most?,a,End of World War II in the Pacific,A,a,End of World War II in the Pacific,1

@@ -1,0 +1,141 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Greek and Phoenician contact in the Mediterranean expanded maritime technology for both societies.,a,True,True,a,True,1
+2,MCQ,Which interaction introduced advanced irrigation techniques from Persia into early Islamic societies?,b,Trade exchanges,B,b,Trade exchanges,1
+3,TF,Chinese silk reached Rome partly because of cultural contact along the Silk Road.,a,True,True,a,True,1
+4,MCQ,Which pathway linked the Mali Empire with North African Berbers; spreading Islam further south?,c,Trans-Saharan trade routes,C,c,Trans-Saharan trade routes,1
+5,TF,Arab merchants helped transmit Indian numerals into European culture.,a,True,True,a,True,1
+6,MCQ,Which interaction brought Greek texts into Western Europe during the Medieval period?,b,Byzantine-Islamic scholarly contact,B,b,Byzantine-Islamic scholarly contact,1
+7,TF,The encounter between the Spanish and the Inca led to the exchange of crops and livestock.,a,True,True,a,True,1
+8,MCQ,Which interaction spread Buddhism from India into China?,b,Trade caravans,B,b,Trade caravans,1
+9,TF,Vikings influenced Eastern Europe through their river-based trade networks.,a,True,True,a,True,1
+10,MCQ,Which interaction carried West African gold into European markets?,c,Caravan trade systems,C,c,Caravan trade systems,1
+11,TF,The Crusades created new channels of contact between Europeans and Middle Eastern cultures.,a,True,True,a,True,1
+12,MCQ,Which cultural exchange led to paper-making techniques reaching the Islamic world from China?,c,Trade-based transmission,C,c,Trade-based transmission,1
+13,TF,Mongol expansion facilitated the movement of artisans across Eurasia.,a,True,True,a,True,1
+14,MCQ,Which major interaction carried Islamic astronomy into medieval Spain?,b,Migration into Iberia,B,b,Migration into Iberia,1
+15,TF,Bantu migrations influenced agricultural practices across sub-Saharan Africa.,a,True,True,a,True,1
+16,MCQ,Which interaction connected Aboriginal Australians with Dutch explorers in the 17th century?,c,Oceanic exploration,C,c,Oceanic exploration,1
+17,TF,Ottoman control of trade routes exposed Europeans to Eastern luxury goods.,a,True,True,a,True,1
+18,MCQ,Which interaction helped spread Arabic mathematics to North Africa and Spain?,b,Trans-Saharan trade,B,b,Trans-Saharan trade,1
+19,TF,The Polynesian expansion across the Pacific resulted in shared navigation methods among island societies.,a,True,True,a,True,1
+20,MCQ,Which interaction brought European firearms into Japan during the 16th century?,b,Portuguese maritime trade,B,b,Portuguese maritime trade,1
+21,TF,The spread of maize from Mesoamerica into North America was partially due to migration patterns.,a,True,True,a,True,1
+22,MCQ,Which interaction allowed Roman glassware to reach ancient India?,b,Indian Ocean trade,B,b,Indian Ocean trade,1
+23,TF,The Jewish diaspora contributed to cultural exchange around the Mediterranean.,a,True,True,a,True,1
+24,MCQ,Which interaction spread the use of horses into Native American Plains societies?,a,Spanish colonization,A,a,Spanish colonization,1
+25,TF,The Silk Road allowed Persian jewelry styles to influence Chinese artisans.,a,True,True,a,True,1
+26,MCQ,Which interaction carried Roman architectural influence into Britain?,b,Colonial occupation,B,b,Colonial occupation,1
+27,TF,Phoenician traders helped spread alphabetic writing to new regions.,a,True,True,a,True,1
+28,MCQ,Which interaction connected Swahili coastal cities with merchants from Arabia and India?,b,Indian Ocean trade,B,b,Indian Ocean trade,1
+29,TF,Russian expansion into Siberia brought contact with indigenous Siberian cultures.,a,True,True,a,True,1
+30,MCQ,Which interaction carried papermaking from China into the Islamic world?,c,Trade along caravans,C,c,Trade along caravans,1
+31,TF,The Columbian Exchange brought new crops like potatoes into Europe.,a,True,True,a,True,1
+32,MCQ,Which interaction introduced Christianity into the Aksumite Kingdom?,a,Trade with the Roman world,A,a,Trade with the Roman world,1
+33,TF,Celtic cultural elements spread across Europe partly through migration patterns.,a,True,True,a,True,1
+34,MCQ,Which interaction brought porcelain from China into early Renaissance Italy?,b,Ottoman-European trade,B,b,Ottoman-European trade,1
+35,TF,The expansion of the Ottoman Empire connected Southeast Europe with Middle Eastern science and art.,a,True,True,a,True,1
+36,MCQ,Which interaction carried sugar cultivation techniques into the Caribbean?,a,European colonization,A,a,European colonization,1
+37,TF,The Khmer Empire absorbed Indian cultural elements through trade and religious missions.,a,True,True,a,True,1
+38,MCQ,Which interaction transmitted Arabic numerals into medieval Europe?,b,Trade through Islamic Spain,B,b,Trade through Islamic Spain,1
+39,TF,Phoenician trade networks helped distribute bronze tools across the Mediterranean.,a,True,True,a,True,1
+40,MCQ,Which interaction carried Indian spices into Roman cuisine?,c,Indian Ocean trade,C,c,Indian Ocean trade,1
+41,TF,Mesopotamia and Egypt exchanged agricultural techniques and goods during ancient trade interactions.,a,True,True,a,True,1
+42,TF,Norman conquest of England resulted mainly from trade agreements.,b,False,False,b,False,1
+43,MCQ,The Mongol expansion influenced which culture the most through migration?,a,Chinese,B,b,Persian,0
+44,TF,Trade between Italian and Ottoman merchants helped spread Renaissance art and technology.,a,True,True,a,True,1
+45,TF,Spanish colonization introduced European crops and livestock to the Americas.,a,True,True,a,True,1
+46,TF,Dutch traders in Japan introduced new scientific knowledge; maps; and technology.,a,True,True,a,True,1
+47,TF,British colonization in India led to the introduction of a new legal system and English language education.,a,True,True,a,True,1
+48,TF,American-Japanese interactions in the early 20th century were dominated by war and conflict.,a,True,False,b,False,0
+49,MCQ,Which trade item was significant between Egypt and Nubia in the Bronze Age?,a,Gold and ivory,A,a,Gold and ivory,1
+50,TF,Persian migration into India helped spread new scientific ideas and cultural practices.,a,True,True,a,True,1
+51,TF,Roman and Carthaginian interactions were primarily military in nature during the Punic Wars.,a,True,True,a,True,1
+52,TF,The Norman influence on England affected the language; law; and architecture.,a,True,True,a,True,1
+53,MCQ,Italian-Ottoman trade introduced which of the following?,a,New artistic techniques,A,a,New artistic techniques,1
+54,TF,Spanish colonization in the Americas did not influence local religion.,b,False,False,b,False,1
+55,MCQ,Dutch-Japanese trade introduced which crops to Japan?,a,Potatoes and tobacco,A,a,Potatoes and tobacco,1
+56,TF,British colonization in India impacted local education systems and governance.,a,True,True,a,True,1
+57,TF,American-Japanese interactions prior to WWII were entirely peaceful.,b,False,False,b,False,1
+58,TF,Egyptian and Nubian trade in the Bronze Age included luxury items like gold and ivory.,a,True,True,a,True,1
+59,TF,Persian migration during the Islamic Golden Age influenced literature; science; and architecture.,a,True,True,a,True,1
+60,TF,Cuban-Soviet interactions during the Cold War were limited to military cooperation.,b,False,False,b,False,1
+61,TF,Greek-Persian conflicts influenced the development of city-states and military tactics.,a,True,True,a,True,1
+62,TF,Anglo-Saxon culture influenced Vikings through language and customs.,a,True,True,a,True,1
+63,MCQ,Italian-Ottoman contact during the Renaissance helped spread which field?,a,Art and architecture,C,c,Military tactics only,0
+64,TF,Spanish colonization in the Americas caused blending of governance and belief systems.,a,True,True,a,True,1
+65,TF,Dutch-Japanese trade introduced European science; maps; and technology.,a,True,True,a,True,1
+66,TF,British colonization had minimal impact on Indian law and education.,b,False,False,b,False,1
+67,TF,American-Japanese interactions in the 20th century affected culture; economy; and politics.,a,True,True,a,True,1
+68,TF,Bronze Age trade between Egypt and Nubia was economically significant for both regions.,a,True,True,a,True,1
+69,TF,Persian migration into India promoted the spread of science; literature; and culture.,a,True,True,a,True,1
+70,TF,Cuban-Soviet relations influenced culture; military; and economy.,a,True,True,a,True,1
+71,TF,Roman-Carthaginian conflicts shaped Mediterranean trade and politics.,a,True,True,a,True,1
+72,MCQ,Norman-English cultural exchange influenced:,a,Language and law,A,a,Language and law,1
+73,MCQ,Italian-Ottoman interactions introduced:,a,New artistic styles,A,a,New artistic styles,1
+74,TF,Spanish colonization introduced European governance and religion to the Americas.,a,True,True,a,True,1
+75,TF,Dutch-Japanese trade contributed to Japan acquiring scientific knowledge and maps.,a,True,True,a,True,1
+76,TF,British colonization in India had no impact on legal or educational systems.,b,False,False,b,False,1
+77,TF,American-Japanese contact prior to WWII was marked by tension and military conflict.,a,True,False,b,False,0
+78,TF,Bronze Age Egyptian-Nubian trade included luxury items like gold and ivory.,a,True,True,a,True,1
+79,TF,Persian migration helped India develop new literature; science; and architecture.,a,True,True,a,True,1
+80,TF,Cuban-Soviet interactions were limited to military cooperation and had no cultural influence.,b,False,False,b,False,1
+41,TF,Norse explorers introduced new metalworking practices to some North Atlantic island communities.,a,True,True,a,True,1
+42,MCQ,Which interaction linked Mughal India with Central Asian artistic traditions?,b,Overland trade routes,B,b,Overland trade routes,1
+43,TF,The encounter between Carthaginians and Iberian tribes influenced early Mediterranean warfare.,a,True,True,a,True,1
+44,MCQ,Which connection spread Persian carpet-weaving techniques to Anatolia?,b,Nomadic migrations,B,b,Nomadic migrations,1
+45,TF,Contacts between Arab sailors and East African societies helped shape Swahili culture.,a,True,True,a,True,1
+46,MCQ,Which interaction allowed Byzantine silk technology to enter Western Europe?,a,Crusader movements,A,a,Crusader movements,1
+47,TF,The Berber-Arab contact in North Africa accelerated the spread of Islam across the Sahara.,a,True,True,a,True,1
+48,MCQ,Which interaction brought Native American agricultural knowledge to French settlers?,b,Colonial settlements,B,b,Colonial settlements,1
+49,TF,Ancient Egyptian and Nubian artistic styles influenced one another through sustained interaction.,a,True,True,a,True,1
+50,MCQ,Which connection introduced Indian numerals to the Islamic Golden Age?,b,Trade networks,B,b,Trade networks,1
+51,TF,The movement of nomadic Turkic groups shaped the cultural landscape of Anatolia.,a,True,True,a,True,1
+52,MCQ,Which interaction carried Roman legal concepts into Gaul?,a,Colonial administration,A,a,Colonial administration,1
+53,TF,Persian contact with India enriched both cultures' astronomical knowledge.,a,True,True,a,True,1
+54,MCQ,Which contact introduced Greek philosophical works to early Islamic scholars?,b,Byzantine-Arab exchanges,B,b,Byzantine-Arab exchanges,1
+55,TF,The movement of Austronesian peoples spread similar pottery styles across the Pacific.,a,True,True,a,True,1
+56,MCQ,Which contact first brought Chinese gunpowder knowledge toward the Middle East?,a,Caravan trade routes,A,a,Caravan trade routes,1
+57,TF,The arrival of the Portuguese in West Africa reshaped existing trade networks.,a,True,True,a,True,1
+58,MCQ,Which connection brought horses into the Americas on a large scale?,b,European colonization,B,b,European colonization,1
+59,TF,Cultural exchanges between Persia and China influenced textile patterns along the Silk Road.,a,True,True,a,True,1
+60,MCQ,Which interaction helped spread Christianity into Eastern Europe?,c,Byzantine missionary efforts,C,c,Byzantine missionary efforts,1
+61,TF,Japanese contact with Korean scholars contributed to early writing reforms in Japan.,a,True,True,a,True,1
+62,MCQ,Which interaction brought Roman coins into East Africa?,b,Indian Ocean trade,B,b,Indian Ocean trade,1
+63,TF,The migration of Germanic tribes transformed the cultural makeup of Western Europe.,a,True,True,a,True,1
+64,MCQ,Which interaction carried Chinese porcelain into Ottoman markets?,c,Silk Road trade,C,c,Silk Road trade,1
+65,TF,Coptic and Nubian Christian traditions influenced each other through close contact.,a,True,True,a,True,1
+66,MCQ,Which connection introduced ivory carvings from African artisans to European markets?,b,Trade with West Africa,B,b,Trade with West Africa,1
+67,TF,South Asian merchants helped develop blended cultural identities on the Swahili coast.,a,True,True,a,True,1
+68,MCQ,Which interaction carried Mayan obsidian tools into surrounding regions?,b,Regional trade networks,B,b,Regional trade networks,1
+69,TF,Greek colonies around the Black Sea helped spread Hellenistic art styles.,a,True,True,a,True,1
+70,MCQ,Which interaction brought Egyptian grain into Roman markets?,b,Mediterranean trade,B,b,Mediterranean trade,1
+71,TF,Arab contact with West African kingdoms encouraged the rise of Timbuktu as a scholarly center.,a,True,True,a,True,1
+72,MCQ,Which interaction first spread compass-navigation techniques to Europe?,b,Chinese-Arab maritime contact,B,b,Chinese-Arab maritime contact,1
+73,TF,Persian-Greek encounters after Alexander’s campaigns produced hybrid architectural features.,a,True,True,a,True,1
+74,MCQ,Which interaction helped spread Ottoman cuisine into the Balkans?,b,Military occupation,B,b,Military occupation,1
+75,TF,Contact between the Han Chinese and Central Asian nomads influenced cavalry warfare on both sides.,a,True,True,a,True,1
+76,MCQ,Which interaction carried Polynesian crops such as taro and breadfruit between distant islands?,b,Oceanic voyaging,B,b,Oceanic voyaging,1
+77,TF,Italian merchants in the Renaissance received mathematical knowledge from Islamic scholars through Mediterranean exchange.,a,True,True,a,True,1
+78,MCQ,Which interaction brought African gold into Middle Eastern markets during medieval times?,b,Trans-Saharan caravan trade,B,b,Trans-Saharan caravan trade,1
+79,TF,Cultural contact between Persia and India influenced Mughal architecture.,a,True,True,a,True,1
+80,MCQ,Which interaction helped spread Christianity to Ethiopia?,a,Indian Ocean trade,B,b,Roman military expansion,0
+81,TF,The Iranian Plateau served as a crossroads where Persian and Central Asian cultures blended artistic motifs.,a,True,True,a,True,1
+82,MCQ,Which interaction first brought olive cultivation techniques into ancient Greece?,a,Phoenician trade,A,a,Phoenician trade,1
+83,TF,Southeast Asian kingdoms blended Hindu and Buddhist influences through continuous cultural contact.,a,True,True,a,True,1
+84,MCQ,Which interaction carried Persian astronomical instruments into Mughal courts?,b,Scholarly migration,B,b,Scholarly migration,1
+85,TF,The blending of Spanish and Indigenous foods in the Americas emerged from early colonial contact.,a,True,True,a,True,1
+86,MCQ,Which interaction brought iron-working knowledge into sub-Saharan Africa?,a,Bantu migrations,A,a,Bantu migrations,1
+87,TF,Greek colonies in Sicily helped transfer Mediterranean agricultural techniques further west.,a,True,True,a,True,1
+88,MCQ,Which interaction helped spread Islamic geometric art styles into Spain?,c,Arab presence in Iberia,C,c,Arab presence in Iberia,1
+89,TF,Roman contact with Celtic tribes introduced new metalworking patterns in Western Europe.,a,True,True,a,True,1
+90,MCQ,Which interaction carried spices from Southeast Asia to the Middle East before European arrival?,b,Indian Ocean trade,B,b,Indian Ocean trade,1
+91,TF,Cultural contact between China and Vietnam introduced Confucian administrative ideas to Vietnamese courts.,a,True,True,a,True,1
+92,MCQ,Which interaction first carried cotton textiles from India into Roman markets?,b,Indian Ocean commerce,B,b,Indian Ocean commerce,1
+93,TF,Islamic scholars preserved Greek scientific works through sustained translation efforts.,a,True,True,a,True,1
+94,MCQ,Which interaction brought jade artifacts from Mesoamerica into neighboring regions?,a,Inland trade routes,A,a,Inland trade routes,1
+95,TF,Early Indo-Greek contact blended artistic elements such as the Gandhara Buddhist style.,a,True,True,a,True,1
+96,MCQ,Which interaction introduced sago and coconut cultivation across island Southeast Asia?,b,Austronesian migrations,B,b,Austronesian migrations,1
+97,TF,The spread of Aramaic across the Near East was aided by its adoption in major empires.,a,True,True,a,True,1
+98,MCQ,Which interaction carried African musical rhythms into the Caribbean?,b,Atlantic slave trade,B,b,Atlantic slave trade,1
+99,TF,Phoenician settlers spread new ship-construction methods throughout the Mediterranean.,a,True,True,a,True,1
+100,MCQ,Which interaction first brought papyrus into Greek marketplaces?,a,Egyptian trade,A,a,Egyptian trade,1

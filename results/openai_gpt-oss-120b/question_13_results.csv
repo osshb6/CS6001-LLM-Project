@@ -1,0 +1,112 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,[Elon Musk] met [Jeff Bezos] in [2021] to discuss [space exploration collaboration].,a,True,False,b,False,0
+2,TF,[Mark Zuckerberg] met [Sundar Pichai] in [2022] to discuss [AI regulation].,a,True,True,a,True,1
+3,TF,[Bill Gates] met [Tim Cook] in [2020] to discuss [global health initiatives].,a,True,False,b,False,0
+4,TF,[Angela Merkel] met [Emmanuel Macron] in [2019] to discuss [climate change policies].,a,True,True,a,True,1
+5,TF,[Vladimir Putin] met [Xi Jinping] in [2021] to discuss [energy security].,a,True,True,a,True,1
+6,MCQ,Which leader met [Narendra Modi] in [2022] to discuss [digital infrastructure]?,c,Joe Biden,C,c,Joe Biden,1
+7,TF,[Kamala Harris] met [Ursula von der Leyen] in [2023] to discuss [supply chain security].,a,True,True,a,True,1
+8,TF,[Joe Biden] met [Justin Trudeau] in [2021] to discuss [climate agreements].,a,True,True,a,True,1
+9,MCQ,Which entrepreneur met [Satya Nadella] in [2020] to discuss [cloud computing advancements]?,a,Elon Musk,C,c,Mark Zuckerberg,0
+10,TF,[Sundar Pichai] met [Sheryl Sandberg] in [2022] to discuss [AI ethics].,a,True,False,b,False,0
+11,TF,[Elon Musk] met [NASA Administrator Bill Nelson] in [2021] to discuss [Mars mission collaboration].,a,True,True,a,True,1
+12,TF,[Jeff Bezos] met [Richard Branson] in [2022] to discuss [commercial spaceflight].,a,True,True,a,True,1
+13,MCQ,Which tech CEO met [Elon Musk] in [2020] to discuss [AI safety]?,b,Sundar Pichai,D,d,Tim Cook,0
+14,TF,[Angela Merkel] met [Joe Biden] in [2021] to discuss [global health initiatives].,a,True,True,a,True,1
+15,TF,[Xi Jinping] met [Vladimir Putin] in [2020] to discuss [energy partnerships].,a,True,True,a,True,1
+16,MCQ,Which leader met [Boris Johnson] in [2021] to discuss [COVID-19 vaccine distribution]?,c,Joe Biden,C,c,Joe Biden,1
+17,TF,[Sheryl Sandberg] met [Susan Wojcicki] in [2022] to discuss [social media content regulation].,a,True,False,b,False,0
+18,TF,[Tim Cook] met [Sundar Pichai] in [2020] to discuss [cloud services expansion].,a,True,False,b,False,0
+19,MCQ,Which entrepreneur met [Mark Zuckerberg] in [2021] to discuss [metaverse development]?,a,Elon Musk,D,d,Satya Nadella,0
+20,TF,[Satya Nadella] met [Sundar Pichai] in [2022] to discuss [AI collaboration].,a,True,False,b,False,0
+21,TF,[Joe Biden] met [Emmanuel Macron] in [2021] to discuss [climate initiatives].,a,True,True,a,True,1
+22,MCQ,Which leader met [Vladimir Putin] in [2022] to discuss [international sanctions]?,b,Xi Jinping,D,d,Emmanuel Macron,0
+23,TF,[Elon Musk] met [NASA Administrator Bill Nelson] in [2022] to discuss [Starship missions].,a,True,True,a,True,1
+24,TF,[Mark Zuckerberg] met [Jack Dorsey] in [2021] to discuss [social media regulation].,a,True,True,a,True,1
+25,MCQ,Which entrepreneur met [Jeff Bezos] in [2020] to discuss [space tourism]?,a,Richard Branson,A,a,Richard Branson,1
+26,TF,[Angela Merkel] met [Justin Trudeau] in [2020] to discuss [climate change].,a,True,False,b,False,0
+27,TF,[Xi Jinping] met [Joe Biden] in [2021] to discuss [global trade policies].,a,True,True,a,True,1
+28,MCQ,Which tech CEO met [Elon Musk] in [2021] to discuss [AI development]?,a,Mark Zuckerberg,D,d,Satya Nadella,0
+29,TF,[Tim Cook] met [Sheryl Sandberg] in [2022] to discuss [technology ethics].,a,True,False,b,False,0
+30,TF,[Satya Nadella] met [Mark Zuckerberg] in [2021] to discuss [metaverse collaboration].,a,True,True,a,True,1
+31,TF,[Joe Biden] met [Boris Johnson] in [2021] to discuss [COVID-19 recovery plans].,a,True,True,a,True,1
+32,MCQ,Which leader met [Emmanuel Macron] in [2022] to discuss [renewable energy initiatives]?,a,Joe Biden,A,a,Joe Biden,1
+33,TF,[Elon Musk] met [Jeff Bezos] in [2020] to discuss [orbital satellite networks].,a,True,False,b,False,0
+34,TF,[Mark Zuckerberg] met [Sundar Pichai] in [2021] to discuss [AI regulation policies].,a,True,True,a,True,1
+35,MCQ,Which entrepreneur met [Satya Nadella] in [2022] to discuss [cloud collaboration]?,d,Tim Cook,C,c,Mark Zuckerberg,0
+36,TF,[Joe Biden] met [Angela Merkel] in [2021] to discuss [global vaccine distribution].,a,True,True,a,True,1
+37,TF,[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy partnerships].,a,True,True,a,True,1
+38,MCQ,Which tech CEO met [Jeff Bezos] in [2021] to discuss [spaceflight development]?,b,Elon Musk,B,b,Elon Musk,1
+39,TF,[Sheryl Sandberg] met [Sundar Pichai] in [2022] to discuss [social media ethics].,a,True,False,b,False,0
+40,TF,[Tim Cook] met [Elon Musk] in [2021] to discuss [AI applications in mobility].,a,True,True,a,True,1
+41,TF,[Satya Nadella] met [Jeff Bezos] in [2021] to discuss [cloud computing collaboration].,a,True,False,b,False,0
+42,TF,[Joe Biden] met [Xi Jinping] in [2021] to discuss [trade relations].,a,True,True,a,True,1
+43,MCQ,Which tech CEO met [Sundar Pichai] in [2022] to discuss [AI regulations]?,b,Mark Zuckerberg,D,d,Tim Cook,0
+44,TF,[Angela Merkel] met [Emmanuel Macron] in [2021] to discuss [EU digital policy].,a,True,True,a,True,1
+45,TF,[Elon Musk] met [Tim Cook] in [2022] to discuss [electric vehicle technology].,a,True,False,b,False,0
+46,MCQ,Which leader met [Joe Biden] in [2022] to discuss [climate finance]?,c,Emmanuel Macron,D,d,Justin Trudeau,0
+47,TF,[Jeff Bezos] met [Richard Branson] in [2021] to discuss [space tourism competition].,a,True,True,a,True,1
+48,TF,[Mark Zuckerberg] met [Satya Nadella] in [2021] to discuss [metaverse interoperability].,a,True,False,b,False,0
+49,MCQ,Which entrepreneur met [Elon Musk] in [2021] to discuss [AI ethics]?,b,Mark Zuckerberg,B,b,Mark Zuckerberg,1
+50,TF,[Tim Cook] met [Sundar Pichai] in [2022] to discuss [cloud infrastructure].,a,True,False,b,False,0
+51,TF,[Joe Biden] met [Justin Trudeau] in [2022] to discuss [trade policies].,a,True,False,b,False,0
+52,MCQ,Which leader met [Xi Jinping] in [2021] to discuss [global health cooperation]?,b,Joe Biden,C,c,Emmanuel Macron,0
+53,TF,[Satya Nadella] met [Mark Zuckerberg] in [2021] to discuss [cloud-metaverse collaboration].,a,True,True,a,True,1
+54,TF,[Elon Musk] met [Jeff Bezos] in [2022] to discuss [Starship vs New Shepard projects].,a,True,False,b,False,0
+55,MCQ,Which tech CEO met [Tim Cook] in [2021] to discuss [electric mobility]?,a,Elon Musk,A,a,Elon Musk,1
+56,TF,[Angela Merkel] met [Justin Trudeau] in [2021] to discuss [green energy projects].,a,True,False,b,False,0
+57,TF,[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy security].,a,True,True,a,True,1
+58,MCQ,Which entrepreneur met [Jeff Bezos] in [2021] to discuss [space tourism regulation]?,a,Richard Branson,A,a,Richard Branson,1
+59,TF,[Sheryl Sandberg] met [Sundar Pichai] in [2022] to discuss [social media governance].,a,True,False,b,False,0
+80,TF,[Tim Cook] met [Elon Musk] in [2021] to discuss [AI applications in transportation].,a,True,False,b,False,0
+81,TF,[Elon Musk] met [Satya Nadella] in [2022] to discuss [AI integration in autonomous vehicles].,a,True,False,b,False,0
+82,TF,[Jeff Bezos] met [Richard Branson] in [2022] to discuss [space tourism collaboration].,a,True,False,b,False,0
+83,MCQ,Which leader met [Joe Biden] in [2022] to discuss [climate finance]?,c,Emmanuel Macron,D,d,Justin Trudeau,0
+84,TF,[Mark Zuckerberg] met [Sundar Pichai] in [2022] to discuss [AI ethics].,a,True,True,a,True,1
+85,TF,[Tim Cook] met [Sheryl Sandberg] in [2021] to discuss [technology governance].,a,True,False,b,False,0
+86,MCQ,Which tech CEO met [Elon Musk] in [2022] to discuss [AI applications]?,b,Mark Zuckerberg,D,d,Satya Nadella,0
+87,TF,[Joe Biden] met [Justin Trudeau] in [2022] to discuss [trade relations].,a,True,True,a,True,1
+88,TF,[Angela Merkel] met [Xi Jinping] in [2021] to discuss [global health initiatives].,a,True,False,b,False,0
+89,MCQ,Which entrepreneur met [Jeff Bezos] in [2021] to discuss [space project competition]?,b,Richard Branson,B,b,Richard Branson,1
+90,TF,[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [cloud-metaverse integration].,a,True,True,a,True,1
+91,TF,[Elon Musk] met [Jeff Bezos] in [2022] to discuss [satellite internet competition].,a,True,False,b,False,0
+92,MCQ,Which leader met [Joe Biden] in [2021] to discuss [COVID-19 recovery]?,a,Angela Merkel,A,a,Angela Merkel,1
+93,TF,[Mark Zuckerberg] met [Satya Nadella] in [2021] to discuss [metaverse cloud collaboration].,a,True,True,a,True,1
+94,TF,[Tim Cook] met [Sundar Pichai] in [2022] to discuss [cloud infrastructure development].,a,True,False,b,False,0
+95,MCQ,Which tech CEO met [Mark Zuckerberg] in [2022] to discuss [AI metaverse integration]?,d,Satya Nadella,D,d,Satya Nadella,1
+96,TF,[Joe Biden] met [Angela Merkel] in [2021] to discuss [global vaccine distribution].,a,True,True,a,True,1
+97,TF,[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy security].,a,True,True,a,True,1
+98,MCQ,Which entrepreneur met [Elon Musk] in [2021] to discuss [AI ethics]?,a,Mark Zuckerberg,D,d,Satya Nadella,0
+99,TF,[Tim Cook] met [Sheryl Sandberg] in [2021] to discuss [technology governance].,a,True,False,b,False,0
+100,TF,[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [cloud-metaverse applications].,a,True,True,a,True,1
+101,TF,[Elon Musk] met [Jeff Bezos] in [2021] to discuss [orbital satellite networks].,a,True,False,b,False,0
+102,TF,[Mark Zuckerberg] met [Sundar Pichai] in [2021] to discuss [AI safety standards].,a,True,False,b,False,0
+103,MCQ,Which entrepreneur met [Satya Nadella] in [2022] to discuss [cloud-metaverse integration]?,d,Tim Cook,C,c,Mark Zuckerberg,0
+104,TF,[Joe Biden] met [Angela Merkel] in [2021] to discuss [global health policies].,a,True,True,a,True,1
+105,TF,[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [bilateral energy agreements].,a,True,True,a,True,1
+106,MCQ,Which tech CEO met [Elon Musk] in [2022] to discuss [AI and robotics]?,a,Mark Zuckerberg,D,d,Satya Nadella,0
+107,TF,[Tim Cook] met [Sheryl Sandberg] in [2022] to discuss [technology ethics].,a,True,False,b,False,0
+108,TF,[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [AI in metaverse].,a,True,True,a,True,1
+109,TF,[Joe Biden] met [Boris Johnson] in [2021] to discuss [COVID-19 recovery].,a,True,True,a,True,1
+110,MCQ,Which leader met [Emmanuel Macron] in [2022] to discuss [renewable energy collaboration]?,a,Joe Biden,A,a,Joe Biden,1
+111,TF,[Elon Musk] met [Jeff Bezos] in [2022] to discuss [satellite internet networks].,a,True,False,b,False,0
+112,TF,[Mark Zuckerberg] met [Sundar Pichai] in [2022] to discuss [AI regulation protocols].,a,True,True,a,True,1
+113,MCQ,Which entrepreneur met [Satya Nadella] in [2022] to discuss [cloud-metaverse strategy]?,d,Tim Cook,C,c,Mark Zuckerberg,0
+114,TF,[Joe Biden] met [Angela Merkel] in [2022] to discuss [vaccine distribution].,a,True,False,b,False,0
+115,TF,[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy partnerships].,a,True,True,a,True,1
+116,MCQ,Which tech CEO met [Elon Musk] in [2022] to discuss [AI collaboration]?,a,Mark Zuckerberg,D,d,Satya Nadella,0
+117,TF,[Tim Cook] met [Sheryl Sandberg] in [2022] to discuss [digital ethics].,a,True,False,b,False,0
+118,TF,[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [metaverse AI applications].,a,True,False,b,False,0
+119,TF,[Elon Musk] met [Tim Cook] in [2022] to discuss [electric mobility and AI].,a,True,True,a,True,1
+120,MCQ,Which entrepreneur met [Jeff Bezos] in [2022] to discuss [spaceflight competition]?,b,Richard Branson,B,b,Richard Branson,1
+121,TF,[Joe Biden] met [Emmanuel Macron] in [2022] to discuss [climate change policies].,a,True,True,a,True,1
+122,TF,[Angela Merkel] met [Xi Jinping] in [2022] to discuss [global health].,a,True,False,b,False,0
+123,MCQ,Which tech CEO met [Satya Nadella] in [2022] to discuss [cloud strategy]?,d,Tim Cook,D,d,Tim Cook,1
+124,TF,[Elon Musk] met [Jeff Bezos] in [2022] to discuss [space exploration].,a,True,False,b,False,0
+125,TF,[Mark Zuckerberg] met [Sundar Pichai] in [2022] to discuss [AI development].,a,True,True,a,True,1
+126,MCQ,Which leader met [Joe Biden] in [2022] to discuss [renewable energy]?,b,Emmanuel Macron,B,b,Emmanuel Macron,1
+127,TF,[Tim Cook] met [Sundar Pichai] in [2022] to discuss [cloud computing].,a,True,False,b,False,0
+128,TF,[Satya Nadella] met [Mark Zuckerberg] in [2022] to discuss [AI in metaverse].,a,True,True,a,True,1
+129,MCQ,Which entrepreneur met [Elon Musk] in [2022] to discuss [autonomous AI]?,a,Mark Zuckerberg,D,d,Richard Branson,0
+130,TF,[Joe Biden] met [Angela Merkel] in [2022] to discuss [vaccine equity].,a,True,False,b,False,0
+131,TF,[Xi Jinping] met [Vladimir Putin] in [2022] to discuss [energy security].,a,True,True,a,True,1

@@ -1,0 +1,121 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,King Alaric emailed President Thompson about a proposed trade agreement.,a,True,False,b,False,0
+2,TF,King Darius emailed President Collins about climate cooperation talks.,a,True,False,b,False,0
+3,TF,King Leopold emailed President Rivera about border disputes in the northern region.,b,False,False,b,False,1
+4,TF,King Solomon emailed President Hayes about technological assistance programs.,a,True,False,b,False,0
+5,TF,King Arturo emailed President Blake about a joint naval exercise proposal.,a,True,False,b,False,0
+6,TF,King Rowan emailed President Carter about increasing student exchange programs.,a,True,False,b,False,0
+7,TF,King Hadrian emailed President Miles about reducing diplomatic staff.,b,False,False,b,False,1
+8,TF,King Cyrus emailed President Jordan about expanding defense cooperation.,a,True,False,b,False,0
+9,TF,King Stephan emailed President Nguyen about a cultural misunderstanding.,b,False,False,b,False,1
+10,TF,King Aramis emailed President Wilson about adopting common cybersecurity protocols.,a,True,False,b,False,0
+11,TF,King Oswin emailed President Grant about renewable energy cooperation.,a,True,False,b,False,0
+12,TF,King Nestor emailed President Delgado about canceling all diplomatic relations.,b,False,False,b,False,1
+13,TF,King Idris emailed President Monroe about opening new embassy branches.,a,True,False,b,False,0
+14,TF,King Magnus emailed President Silva about increasing maritime security patrols.,a,True,False,b,False,0
+15,TF,King Rowan emailed President Carter about abolishing all trade routes permanently.,b,False,False,b,False,1
+16,TF,King Helios emailed President Wright about desert irrigation technology.,a,True,False,b,False,0
+17,TF,King Lazarus emailed President Kent about establishing a joint military base.,a,True,False,b,False,0
+18,TF,King Orion emailed President Brooks about banning foreign trade.,b,False,False,b,False,1
+19,TF,King Titus emailed President Graham about creating a cultural festival exchange.,a,True,False,b,False,0
+20,TF,King Dante emailed President Reyes about ending all scientific cooperation.,b,False,False,b,False,1
+21,TF,King Cassian emailed President Evans about upgrading air transport routes.,a,True,False,b,False,0
+22,TF,King Florian emailed President Archer about ceasing all humanitarian assistance.,b,False,False,b,False,1
+23,TF,King Aurelius emailed President Foster about strategic ocean research.,a,True,False,b,False,0
+24,TF,King Roderic emailed President Lane about implementing border shutdowns.,b,False,False,b,False,1
+25,TF,King Cyrus emailed President Jordan about increasing cybersecurity research funding.,a,True,False,b,False,0
+26,TF,King Rowan emailed President Carter about new water conservation guidelines.,a,True,False,b,False,0
+27,TF,King Alden emailed President Perez about eliminating all shipping ports.,b,False,False,b,False,1
+28,TF,King Lucius emailed President Bennett about expanding digital literacy programs.,a,True,False,b,False,0
+29,TF,King Orion emailed President Brooks about donating mapping satellites.,a,True,False,b,False,0
+30,TF,King Alaric emailed President Thompson about demolishing all historic sites.,b,False,False,b,False,1
+31,TF,King Magnus emailed President Silva about developing electric vehicle infrastructure.,a,True,False,b,False,0
+32,TF,King Hadrian emailed President Miles about stopping all peace talks permanently.,b,False,False,b,False,1
+33,TF,King Rowan emailed President Carter about improving aviation safety standards.,a,True,False,b,False,0
+34,TF,King Idris emailed President Monroe about banning all technological imports.,b,False,False,b,False,1
+35,TF,King Darius emailed President Collins about river basin restoration projects.,a,True,False,b,False,0
+36,TF,King Leopold emailed President Rivera about reducing fishing quotas to protect marine life.,a,True,False,b,False,0
+37,TF,King Lazarus emailed President Kent about terminating all space research missions.,b,False,False,b,False,1
+38,TF,King Cyrus emailed President Jordan about upgrading communication satellites.,a,True,False,b,False,0
+39,TF,King Cassian emailed President Evans about establishing a wildlife preservation act.,a,True,False,b,False,0
+40,TF,King Florian emailed President Archer about removing all environmental regulations.,b,False,False,b,False,1
+41,TF,King Aurelius emailed President Foster about supporting small island nations with aid.,a,True,False,b,False,0
+42,TF,King Oswin emailed President Grant about outlawing digital communication worldwide.,b,False,False,b,False,1
+43,TF,King Roderic emailed President Lane about forming a new trade partnership.,a,True,False,b,False,0
+44,TF,King Hadrian emailed President Miles about dissolving all educational programs.,b,False,False,b,False,1
+45,TF,King Rowan emailed President Carter about boosting agricultural research grants.,a,True,False,b,False,0
+46,TF,King Idris emailed President Monroe about constructing a new peacekeeping headquarters.,a,True,False,b,False,0
+47,TF,King Arturo emailed President Blake about canceling technology exchange initiatives.,b,False,False,b,False,1
+48,TF,King Cyrus emailed President Jordan about promoting digital diplomacy workshops.,a,True,False,b,False,0
+49,TF,King Lucius emailed President Bennett about dissolving all cultural councils.,b,False,False,b,False,1
+50,TF,King Orion emailed President Brooks about emergency flood relief efforts.,a,True,False,b,False,0
+51,TF,King Rowan emailed President Carter about opening new regional research centers.,a,True,False,b,False,0
+52,TF,King Magnus emailed President Silva about banning international student visas.,b,False,False,b,False,1
+53,TF,King Alaric emailed President Thompson about improving cybercrime legislation.,a,True,False,b,False,0
+54,TF,King Darius emailed President Collins about destroying all diplomatic treaties.,b,False,False,b,False,1
+55,TF,King Leopold emailed President Rivera about renewable ocean power generation.,a,True,False,b,False,0
+56,TF,King Solomon emailed President Hayes about banning all space exploration efforts.,b,False,False,b,False,1
+57,TF,King Cassian emailed President Evans about expanding forest protection laws.,a,True,False,b,False,0
+58,TF,King Roderic emailed President Lane about canceling nationwide literacy programs.,b,False,False,b,False,1
+59,TF,King Lazarus emailed President Kent about enhancing water desalination plants.,a,True,False,b,False,0
+60,TF,King Rowan emailed President Carter about shutting down all science academies.,b,False,False,b,False,1
+61,TF,King Aurelius emailed President Foster about launching a new education exchange initiative.,a,True,False,b,False,0
+62,TF,King Helios emailed President Wright about abolishing solar power subsidies.,b,False,False,b,False,1
+63,TF,King Idris emailed President Monroe about establishing cross-border medical units.,a,True,False,b,False,0
+64,TF,King Oswin emailed President Grant about removing health and safety regulations.,b,False,False,b,False,1
+65,TF,King Cyrus emailed President Jordan about upgrading artificial intelligence labs.,a,True,False,b,False,0
+66,TF,King Rowan emailed President Carter about protecting endangered island species.,a,True,False,b,False,0
+67,TF,King Magnus emailed President Silva about eliminating all national parks.,b,False,False,b,False,1
+68,TF,King Alaric emailed President Thompson about expanding their tourism programs.,a,True,False,b,False,0
+69,TF,King Cassian emailed President Evans about dismantling all research laboratories.,b,False,False,b,False,1
+70,TF,King Dante emailed President Reyes about improving regional security networks.,a,True,False,b,False,0
+71,TF,King Orion emailed President Brooks about creating an ocean cleanup initiative.,a,True,False,b,False,0
+72,TF,King Darius emailed President Collins about prohibiting all naval research.,b,False,False,b,False,1
+73,TF,King Leopold emailed President Rivera about combating desertification in rural areas.,a,True,False,b,False,0
+74,TF,King Roderic emailed President Lane about dismantling air quality monitoring stations.,b,False,False,b,False,1
+75,TF,King Solomon emailed President Hayes about expanding literacy programs nationwide.,a,True,False,b,False,0
+76,TF,King Aurelius emailed President Foster about creating marine conservation zones.,a,True,False,b,False,0
+77,TF,King Florian emailed President Archer about terminating all aviation routes.,b,False,False,b,False,1
+78,TF,King Rowan emailed President Carter about improving teacher training programs.,a,True,False,b,False,0
+79,TF,King Helios emailed President Wright about dismantling renewable power plants.,b,False,False,b,False,1
+80,TF,King Magnus emailed President Silva about researching geothermal energy potential.,a,True,False,b,False,0
+81,TF,King Idris emailed President Monroe about forming a cross-border art initiative.,a,True,False,b,False,0
+82,TF,King Oswin emailed President Grant about ending all cultural exchanges permanently.,b,False,False,b,False,1
+83,TF,King Lazarus emailed President Kent about building new drought-resistant farms.,a,True,False,b,False,0
+84,TF,King Arturo emailed President Blake about abolishing public education systems.,b,False,False,b,False,1
+85,TF,King Cyrus emailed President Jordan about modernizing internet infrastructure.,a,True,False,b,False,0
+86,TF,King Cassian emailed President Evans about enhancing water quality monitoring.,a,True,False,b,False,0
+87,TF,King Aramis emailed President Wilson about removing cultural funding worldwide.,b,False,False,b,False,1
+88,TF,King Rowan emailed President Carter about increasing coastal protection systems.,a,True,False,b,False,0
+89,TF,King Osric emailed President Patel about establishing humanitarian food reserves.,a,True,False,b,False,0
+90,TF,King Magnus emailed President Silva about eliminating science funding entirely.,b,False,False,b,False,1
+91,TF,King Aurelius emailed President Foster about increasing funding for historical preservation.,a,True,False,b,False,0
+92,TF,King Darius emailed President Collins about dismantling national disaster response teams.,b,False,False,b,False,1
+93,TF,King Idris emailed President Monroe about jointly researching new medicinal plants.,a,True,False,b,False,0
+94,TF,King Solomon emailed President Hayes about stopping vaccination programs permanently.,b,False,False,b,False,1
+95,TF,King Rowan emailed President Carter about expanding coastal research universities.,a,True,False,b,False,0
+96,TF,King Orion emailed President Brooks about ending trade partnerships with developing nations.,b,False,False,b,False,1
+97,TF,King Helios emailed President Wright about deep-space telescope collaborations.,a,True,False,b,False,0
+98,TF,King Idris emailed President Monroe about establishing a joint innovation council.,a,True,False,b,False,0
+99,TF,King Osric emailed President Patel about closing all diplomatic posts permanently.,b,False,False,b,False,1
+100,TF,King Magnus emailed President Silva about expanding green energy production.,a,True,False,b,False,0
+101,MCQ,If King Arthur emailed President Lincoln about economic reforms; what was the likely purpose of the communication?,b,To discuss future national policies,B,b,To discuss future national policies,1
+102,MCQ,If King Henry VIII emailed President Roosevelt about healthcare improvements; what would be the modern implication?,a,A discussion on national health insurance,A,a,A discussion on national health insurance,1
+103,MCQ,If King Solomon emailed President Obama about global peace efforts; what would be the key theme?,b,Diplomatic conflict resolution,B,b,Diplomatic conflict resolution,1
+104,MCQ,If King Louis XIV emailed President Kennedy about leadership strategies; what would likely be discussed?,b,Strengthening executive authority,B,b,Strengthening executive authority,1
+105,MCQ,If King Tutankhamun emailed President Carter about archaeological preservation; what outcome is most probable?,a,Creation of an international heritage agreement,A,a,Creation of an international heritage agreement,1
+106,MCQ,If King Charles III emailed President Biden about climate action; what would they focus on?,b,Joint environmental policies,B,b,Joint environmental policies,1
+107,MCQ,If King Ashoka emailed President Eisenhower about peace reforms; what shared principle would be highlighted?,a,Promotion of nonviolence,A,a,Promotion of nonviolence,1
+108,MCQ,If King Gustav V emailed President Reagan about sports diplomacy; what could be the main objective?,a,Promoting international athletic cooperation,A,a,Promoting international athletic cooperation,1
+109,MCQ,If King Cyrus emailed President Truman about rebuilding nations; which topic aligns best?,a,The Marshall Plan and ancient tolerance policies,A,a,The Marshall Plan and ancient tolerance policies,1
+110,MCQ,If King Leopold I emailed President Grant about territorial governance; what would likely be discussed?,a,Ethical administration reforms,A,a,Ethical administration reforms,1
+111,MCQ,If King Haakon VII emailed President Wilson about world peace; which organization would they support?,a,League of Nations,A,a,League of Nations,1
+112,MCQ,If King John emailed President Taft about legal reforms; what topic fits best?,a,Magna Carta principles,A,a,Magna Carta principles,1
+113,MCQ,If King Rama V emailed President Coolidge about modernization; what theme is most relevant?,a,Industrial and social reforms,A,a,Industrial and social reforms,1
+114,MCQ,If King Bhumibol emailed President Clinton about technological innovation; what topic suits the scenario?,a,Digital communication development,A,a,Digital communication development,1
+115,MCQ,If King Mswati III emailed President George W. Bush about health initiatives; which issue is most probable?,a,HIV/AIDS prevention programs,A,a,HIV/AIDS prevention programs,1
+116,MCQ,If King Philip II emailed President Madison about naval power; what is the closest topic?,a,Strengthening maritime defense,A,a,Strengthening maritime defense,1
+117,MCQ,If King Baldwin IV emailed President Jackson about military strategy; what shared concern might they discuss?,a,Securing territorial borders,A,a,Securing territorial borders,1
+118,MCQ,If King Frederick the Great emailed President Pierce about agricultural reforms; what would be emphasized?,a,Crop management and farming innovation,A,a,Crop management and farming innovation,1
+119,MCQ,If King Richard I emailed President Bush Sr. about international alliances; which topic aligns?,a,Coordinating joint military efforts,A,a,Coordinating joint military efforts,1
+120,MCQ,If King Zarathustra emailed President Hoover about ethical governance; what would be the likely theme?,a,Moral leadership in government,A,a,Moral leadership in government,1

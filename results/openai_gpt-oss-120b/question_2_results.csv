@@ -1,0 +1,101 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Civil Rights Movement in USA and Anti-Apartheid Movement in South Africa emerged in response to racial inequality.,a,True,True,a,True,1
+2,TF,Indian Independence Movement in India and Algerian War of Independence emerged in response to colonial rule.,a,True,True,a,True,1
+3,TF,Women's Suffrage Movement in UK and Women's Rights Movement in USA emerged in response to gender inequality.,a,True,True,a,True,1
+4,TF,Solidarity Movement in Poland and Velvet Revolution in Czechoslovakia emerged in response to authoritarian communist rule.,a,True,True,a,True,1
+5,TF,Taiping Rebellion in China and Sepoy Rebellion in India were driven by economic exploitation and political oppression.,a,True,True,a,True,1
+6,TF,Environmental Movement in the USA and Chipko Movement in India emerged in response to environmental degradation.,a,True,True,a,True,1
+7,TF,Maoist Revolution in China and Cuban Revolution in Cuba emerged due to racial conflict.,b,False,False,b,False,1
+8,TF,Arab Spring Movement in Tunisia and Egyptian Revolution emerged in response to political oppression and corruption.,a,True,True,a,True,1
+9,TF,Student Movement in France (1968) and Tiananmen Square Protests in China were responses to limited political freedoms.,a,True,True,a,True,1
+10,TF,Labor Movement in the UK and USA emerged due to worker exploitation and poor conditions.,a,True,True,a,True,1
+11,MCQ,Which movements emerged due to colonial oppression?,b,Indian Independence and Algerian War of Independence,B,b,Indian Independence and Algerian War of Independence,1
+12,MCQ,Which movements were primarily focused on racial equality?,c,Civil Rights and Anti-Apartheid Movements,C,c,Civil Rights and Anti-Apartheid Movements,1
+13,MCQ,Which movements addressed gender inequality?,c,Women's Suffrage Movement (UK) and Women's Rights Movement (USA),C,c,Women's Suffrage Movement (UK) and Women's Rights Movement (USA),1
+14,MCQ,Which pair of movements fought authoritarian rule?,d,Solidarity Movement and Velvet Revolution,D,d,Solidarity Movement and Velvet Revolution,1
+15,MCQ,Environmental degradation was the main issue for:,c,Environmental Movement (USA) and Chipko Movement (India),C,c,Environmental Movement (USA) and Chipko Movement (India),1
+16,MCQ,Maoist and Cuban Revolutions primarily addressed:,b,Land and resource inequality,B,b,Land and resource inequality,1
+17,MCQ,Arab Spring and Egyptian Revolution mainly addressed:,a,Political oppression & corruption,A,a,Political oppression & corruption,1
+18,MCQ,Tiananmen Square Protests and French Student Movement were about:,c,Political freedom & opposition to authoritarianism,C,c,Political freedom & opposition to authoritarianism,1
+19,MCQ,Labor Movements in the UK and USA focused on:,b,Worker exploitation & unsafe conditions,B,b,Worker exploitation & unsafe conditions,1
+20,MCQ,Civil Rights and Anti-Apartheid Movements were NOT focused on:,a,Gender equality,A,a,Gender equality,1
+21,TF,Indian and Algerian Independence Movements successfully ended colonial rule.,a,True,True,a,True,1
+22,TF,Women's Suffrage Movement in the UK successfully secured voting rights for women.,a,True,True,a,True,1
+23,TF,Solidarity Movement helped end communist rule in Poland.,a,True,True,a,True,1
+24,TF,Chipko Movement in India promoted industrial development.,b,False,False,b,False,1
+25,TF,Cuban Revolution resulted in the establishment of a communist government.,a,True,True,a,True,1
+26,TF,Arab Spring created stable democracies across all participating nations.,b,False,False,b,False,1
+27,TF,Tiananmen Square Protests led to significant political reform in China.,b,False,False,b,False,1
+28,TF,Labor Movements in the USA won reforms like minimum wage and safer working conditions.,a,True,True,a,True,1
+29,MCQ,Which movement is associated with ending racial segregation?,c,Civil Rights Movement (USA),C,c,Civil Rights Movement (USA),1
+30,MCQ,Which movement used nonviolent environmental protest?,c,Chipko Movement,C,c,Chipko Movement,1
+31,MCQ,Which movements were anti-colonial?,c,Indian Independence and Algerian War of Independence,C,c,Indian Independence and Algerian War of Independence,1
+32,MCQ,Which revolutions sought to redistribute land and resources?,c,Maoist Revolution in China and Cuban Revolution,C,c,Maoist Revolution in China and Cuban Revolution,1
+33,MCQ,Solidarity Movement took place in which country?,c,Poland,C,c,Poland,1
+34,MCQ,Chipko Movement originated in:,b,India,B,b,India,1
+35,MCQ,Which movements focused on worker rights?,a,Labor Movements (UK & USA),A,a,Labor Movements (UK & USA),1
+36,MCQ,Tiananmen Square Protests occurred in:,b,China,B,b,China,1
+37,MCQ,Velvet Revolution took place in:,b,Czechoslovakia,B,b,Czechoslovakia,1
+38,MCQ,Civil Rights and Anti-Apartheid Movements shared a focus on:,c,Racial justice,C,c,Racial justice,1
+39,MCQ,Arab Spring began in:,c,Tunisia,C,c,Tunisia,1
+40,MCQ,Women's Suffrage Movement achieved voting rights first in:,d,UK,D,d,UK,1
+41,TF,The Mau Mau Uprising in Kenya and the Indonesian National Revolution both emerged in response to European colonial domination.,a,True,True,a,True,1
+42,MCQ,Which shared issue inspired both the Irish Land League in Ireland and the Mexican Peasant Movement under Zapata?,b,Land inequality,B,b,Land inequality,1
+43,TF,The Haitian Revolution and the Quilombo movements in Brazil emerged in response to severe racial oppression and enslavement.,a,True,True,a,True,1
+44,MCQ,Both the Young Turk Revolution in the Ottoman Empire and the Meiji Restoration in Japan were responses to which shared problem?,c,Need for modernization,C,c,Need for modernization,1
+45,TF,The Boxer Rebellion in China and the Ghost Dance Movement in the United States both emerged due to resistance against foreign cultural influence.,a,True,True,a,True,1
+46,MCQ,The Suffrage Movement in New Zealand and the Suffrage Movement in Finland both responded primarily to:,b,Gender inequality,B,b,Gender inequality,1
+47,TF,The Zulu Resistance in South Africa and the Apache Resistance in the United States both emerged due to land dispossession.,a,True,True,a,True,1
+48,MCQ,Which issue led to both the Syrian Great Revolt (1925) and the Moroccan Rif War?,b,Colonial oppression,B,b,Colonial oppression,1
+49,TF,The French Revolution and the Russian Revolution both emerged in response to extreme economic inequality.,a,True,True,a,True,1
+50,MCQ,The Taiping Rebellion in China and the Janissary Revolt in the Ottoman Empire were both driven by:,c,Religious visions,C,c,Religious visions,1
+51,TF,The Greek War of Independence and the Serbian Uprisings both emerged against Ottoman control.,a,True,True,a,True,1
+52,MCQ,Which shared cause led to both the Boxer Rebellion in China and the Maji Maji Rebellion in German East Africa?,b,Colonial coercion,B,b,Colonial coercion,1
+53,TF,The Chilean Mapuche Resistance and the North American Plains Resistance both emerged in response to settlers encroaching on native land.,a,True,True,a,True,1
+54,MCQ,What common issue triggered both the German Peasants' War and the Russian Emancipation Revolts?,b,Feudal oppression,B,b,Feudal oppression,1
+55,TF,The Cuban Ten Years' War and the Filipino Revolution both emerged due to dissatisfaction with Spanish colonial rule.,a,True,True,a,True,1
+56,MCQ,Which problem sparked both the British Chartist Movement and the Russian Decembrist Movement?,a,Representation and political reform,A,a,Representation and political reform,1
+57,TF,The Irish Easter Rising and the Vietnamese August Revolution both emerged in response to foreign occupation.,a,True,True,a,True,1
+58,MCQ,Which shared issue stimulated both the French May 1968 protests and the Japanese Zenkyoto Student Movement?,b,Educational reform and youth rights,B,b,Educational reform and youth rights,1
+59,TF,The Armenian National Awakening and the Bulgarian National Revival both emerged due to cultural and political repression under the Ottomans.,a,True,True,a,True,1
+60,MCQ,What shared problem drove both the Brazilian Cabanagem Revolt and the Peruvian Tupac Amaru Rebellion?,b,Ethnic discrimination and class oppression,B,b,Ethnic discrimination and class oppression,1
+61,TF,The Mau Mau Movement in Kenya and the Herero Rebellion in Namibia both emerged due to harsh colonial land policies.,a,True,True,a,True,1
+62,MCQ,Which shared issue motivated both the Paris Commune and the Spanish CNT Labor Movement?,a,Economic inequality,A,a,Economic inequality,1
+63,TF,The First Intifada in Palestine and the Mau Mau Uprising in Kenya both emerged in response to military occupation.,a,True,True,a,True,1
+64,MCQ,The shared problem behind both the Scottish Covenanter Movement and the Hussite Wars was:,b,Religious persecution,B,b,Religious persecution,1
+65,TF,The Mau Mau Movement and the Rhodesian Bush War both emerged as anti-colonial liberation efforts.,a,True,True,a,True,1
+66,MCQ,Which issue sparked both the Boxer Rebellion and the Taiping Rebellion in China?,a,Foreign influence and instability,A,a,Foreign influence and instability,1
+67,TF,The Samnite Wars and the Gallic Wars both emerged from Roman expansion into tribal lands.,a,True,True,a,True,1
+68,MCQ,Which shared cause fueled both the Hungarian Revolution of 1848 and the Italian Risorgimento?,b,Nationalist aspirations,B,b,Nationalist aspirations,1
+69,TF,The Helot Revolts in Sparta and the Servile Wars in Rome both emerged in response to oppressive slavery systems.,a,True,True,a,True,1
+70,MCQ,Which problem triggered both the Dutch Revolt and the Portuguese Restoration War?,b,Spanish imperial control,B,b,Spanish imperial control,1
+71,TF,The Meiji Restoration and the Tanzimat Reforms both emerged due to the need for modernization.,a,True,True,a,True,1
+72,MCQ,Which shared problem influenced both the English Peasants' Revolt and the French Jacquerie?,b,Heavy feudal taxation,B,b,Heavy feudal taxation,1
+73,TF,The German Revolution of 1918 and the Russian Revolution of 1917 both emerged due to wartime economic collapse.,a,True,True,a,True,1
+74,MCQ,What shared issue triggered both the Numidian War and the Jewish Revolt against Rome?,b,Roman interference,B,b,Roman interference,1
+75,TF,The Iranian Constitutional Revolution and the Young Turk Revolution both emerged in response to autocratic monarchy.,a,True,True,a,True,1
+76,MCQ,Which issue motivated both the Bogota Gaitanista Movement and the Mexican Cristero Rebellion?,a,Religious restrictions,A,a,Religious restrictions,1
+77,TF,The Berber Revolts in North Africa and the Saxon Rebellions in Germany both emerged in response to forced imperial rule.,a,True,True,a,True,1
+78,MCQ,Which shared problem influenced both the Burmese Independence Movement and the Indonesian National Revolution?,b,European colonial exploitation,B,b,European colonial exploitation,1
+79,TF,The Polish Solidarity Movement and the East German Peaceful Revolution both emerged to resist authoritarian communist structures.,a,True,True,a,True,1
+80,MCQ,Which shared cause fueled both the American Labor Movement and the British Trade Union Movement?,a,Worker exploitation,A,a,Worker exploitation,1
+81,TF,The Santhal Rebellion in India and the Zanj Rebellion in Abbasid Iraq both emerged due to extreme labor exploitation.,b,False,True,a,True,0
+82,MCQ,Which shared problem triggered both the Maori Wars in New Zealand and the First Italo-Ethiopian War?,c,Foreign encroachment,C,c,Foreign encroachment,1
+83,TF,The Peasants’ Revolt in England and the Red Turban Rebellion in China both emerged due to oppressive feudal systems.,b,False,False,b,False,1
+84,MCQ,Which shared factor motivated both the Berber Revolts against the Umayyads and the Bulgarian Uprising under Ottoman rule?,d,Loss of regional autonomy,D,d,Loss of regional autonomy,1
+85,TF,The Egyptian Urabi Revolt and the Persian Tobacco Protest both emerged in response to foreign economic control.,b,False,True,a,True,0
+86,MCQ,Which issue led both the Swiss Sonderbund War and the Spanish Carlist Wars?,c,Religious-political divisions,C,c,Religious-political divisions,1
+87,TF,The Pueblo Revolt in New Mexico and the Mapuche Resistance in Chile both emerged due to forced assimilation and missionary pressure.,b,False,True,a,True,0
+88,MCQ,Which shared problem influenced both the German Peasants’ War and the Swiss Peasant War of 1653?,c,Feudal oppression,C,c,Feudal oppression,1
+89,TF,The Irish Confederate Wars and the Dutch Revolt both emerged due to struggles for religious and political autonomy.,b,False,True,a,True,0
+90,MCQ,Which shared issue triggered both the French Wars of Religion and the Thirty Years’ War?,c,Religious conflict,C,c,Religious conflict,1
+91,TF,The Persian Constitutional Revolution and the Ottoman Young Turk Revolution both emerged due to resistance to autocracy.,b,False,True,a,True,0
+92,MCQ,Which shared problem influenced both the Taiping Rebellion in China and the Chiliastic Movements in medieval Europe?,c,Religious apocalyptic beliefs,C,c,Religious apocalyptic beliefs,1
+93,TF,The Serbian Revolution and the Greek Revolution both emerged due to Ottoman political domination.,b,False,True,a,True,0
+94,MCQ,Which issue caused both the Crimean Tatar Resistance and the Chechen Resistance in the Caucasus?,c,Imperial Russian expansion,C,c,Imperial Russian expansion,1
+95,TF,The Egyptian Fellahin Revolts and the Russian Pugachev Rebellion both emerged due to harsh serfdom-like conditions.,b,False,True,a,True,0
+96,MCQ,Which shared factor motivated both the Sikh Wars in Punjab and the Zulu Wars in South Africa?,c,Resistance to imperial expansion,C,c,Resistance to imperial expansion,1
+97,TF,The Boxer Rebellion in China and the Egyptian Mahdist Movement both emerged due to resistance against foreign intrusion.,b,False,True,a,True,0
+98,MCQ,Which shared cause influenced both the Spanish Revolt of the Comuneros and the Neapolitan Revolt of Masaniello?,c,Harsh taxation and economic pressure,C,c,Harsh taxation and economic pressure,1
+99,TF,The Anglo-Irish War and the Algerian War of Independence both emerged due to nationalist resistance to foreign rule.,b,False,True,a,True,0
+100,MCQ,Which issue sparked both the Haitian Revolution and the Brazilian Malê Revolt?,c,Racial oppression and slavery,C,c,Racial oppression and slavery,1

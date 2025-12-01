@@ -1,0 +1,377 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Barbados was established before Cameroon.,b,False,True,a,True,0
+2,TF,Cameroon was established before Niger.,b,False,True,a,True,0
+3,TF,Niger was established before Kiribati.,a,True,True,a,True,1
+4,TF,Kiribati was established before Italy.,b,False,False,b,False,1
+5,TF,Italy was established before Lesotho.,a,True,True,a,True,1
+6,TF,Lesotho was established before Comoros.,a,True,True,a,True,1
+7,TF,Comoros was established before Madagascar.,b,False,False,b,False,1
+8,TF,Madagascar was established before Dominica.,a,True,True,a,True,1
+9,TF,Dominica was established before Indonesia.,b,False,True,a,True,0
+10,TF,Indonesia was established before Chad.,a,True,True,a,True,1
+11,TF,Chad was established before Norway.,b,False,False,b,False,1
+12,TF,Norway was established before Iran.,a,True,False,b,False,0
+13,TF,Iran was established before Gambia.,b,False,True,a,True,0
+14,TF,Gambia was established before Cape Verde.,a,True,True,a,True,1
+15,TF,Cape Verde was established before Morocco.,b,False,False,b,False,1
+16,TF,Morocco was established before Estonia.,a,True,True,a,True,1
+17,TF,Estonia was established before New Zealand.,b,False,False,b,False,1
+18,TF,New Zealand was established before Bahrain.,a,True,True,a,True,1
+19,TF,Bahrain was established before Malaysia.,b,False,False,b,False,1
+20,TF,Malaysia was established before Brunei.,a,True,True,a,True,1
+21,TF,Brunei was established before Botswana.,b,False,True,a,True,0
+22,TF,Botswana was established before Micronesia.,a,True,True,a,True,1
+23,TF,Micronesia was established before Nauru.,b,False,False,b,False,1
+24,TF,Nauru was established before Fiji.,a,True,False,b,False,0
+25,TF,Fiji was established before Guyana.,b,False,False,b,False,1
+26,TF,Guyana was established before Japan.,b,False,False,b,False,1
+27,TF,Japan was established before Czech Republic.,a,True,True,a,True,1
+28,TF,Czech Republic was established before Bhutan.,b,False,False,b,False,1
+29,TF,Bhutan was established before Benin.,a,True,False,b,False,0
+30,TF,Benin was established before Guatemala.,b,False,False,b,False,1
+31,TF,Guatemala was established before Maldives.,a,True,True,a,True,1
+32,TF,Maldives was established before Eswatini.,a,True,True,a,True,1
+33,TF,Eswatini was established before Ivory Coast.,b,False,False,b,False,1
+34,TF,Ivory Coast was established before Chile.,b,False,False,b,False,1
+35,TF,Chile was established before Andorra.,b,False,False,b,False,1
+36,TF,Andorra was established before Montenegro.,a,True,True,a,True,1
+37,TF,Montenegro was established before Nepal.,b,False,False,b,False,1
+38,TF,Nepal was established before Burundi.,a,True,True,a,True,1
+39,TF,Burundi was established before Haiti.,b,False,False,b,False,1
+40,TF,Haiti was established before Iraq.,a,True,True,a,True,1
+41,TF,Iraq was established before Laos.,a,True,True,a,True,1
+42,TF,Laos was established before Argentina.,b,False,False,b,False,1
+43,TF,Argentina was established before Kazakhstan.,a,True,True,a,True,1
+44,TF,Kazakhstan was established before Israel.,b,False,False,b,False,1
+45,TF,Israel was established before Malta.,a,True,True,a,True,1
+46,TF,Malta was established before Myanmar.,b,False,False,b,False,1
+47,TF,Myanmar was established before Mauritania.,a,True,True,a,True,1
+48,TF,Mauritania was established before Ghana.,b,False,False,b,False,1
+49,TF,Ghana was established before Finland.,b,False,False,b,False,1
+50,TF,Finland was established before Honduras.,b,False,False,b,False,1
+51,TF,Honduras was established before Monaco.,b,False,False,b,False,1
+52,TF,Monaco was established before Marshall Islands.,a,True,True,a,True,1
+53,TF,Marshall Islands was established before Kenya.,b,False,False,b,False,1
+54,TF,Kenya was established before Liberia.,b,False,False,b,False,1
+55,TF,Liberia was established before Ethiopia.,a,True,False,b,False,0
+56,TF,Ethiopia was established before Malawi.,a,True,True,a,True,1
+57,TF,Malawi was established before China.,b,False,False,b,False,1
+58,TF,China was established before Namibia.,a,True,True,a,True,1
+59,TF,Namibia was established before Algeria.,b,False,False,b,False,1
+60,TF,Algeria was established before Austria.,b,False,False,b,False,1
+61,TF,Austria was established before Albania.,b,False,True,a,True,0
+62,TF,Albania was established before Canada.,b,False,False,b,False,1
+63,TF,Canada was established before Hungary.,b,False,False,b,False,1
+64,TF,Hungary was established before Nicaragua.,a,True,True,a,True,1
+65,TF,Nicaragua was established before Greece.,a,True,False,b,False,0
+66,TF,Greece was established before Mali.,a,True,True,a,True,1
+67,TF,Mali was established before Denmark.,b,False,False,b,False,1
+68,TF,Denmark was established before Mauritius.,a,True,True,a,True,1
+69,TF,Mauritius was established before Grenada.,a,True,True,a,True,1
+70,TF,Grenada was established before Guinea-Bissau.,b,False,False,b,False,1
+71,TF,Guinea-Bissau was established before Equatorial Guinea.,b,False,False,b,False,1
+72,TF,Equatorial Guinea was established before Azerbaijan.,a,True,False,b,False,0
+73,TF,Azerbaijan was established before Liechtenstein.,b,False,False,b,False,1
+74,TF,Liechtenstein was established before Bolivia.,a,True,True,a,True,1
+75,TF,Bolivia was established before Afghanistan.,b,False,False,b,False,1
+76,TF,Afghanistan was established before Libya.,a,True,True,a,True,1
+77,TF,Libya was established before Cyprus.,a,True,True,a,True,1
+78,TF,Cyprus was established before Central African Republic.,b,False,False,b,False,1
+79,TF,Central African Republic was established before Mongolia.,b,False,False,b,False,1
+80,TF,Mongolia was established before Latvia.,a,True,True,a,True,1
+81,TF,Latvia was established before Australia.,b,False,False,b,False,1
+82,TF,Australia was established before Burkina Faso.,a,True,True,a,True,1
+83,TF,Burkina Faso was established before Djibouti.,a,True,True,a,True,1
+84,TF,Djibouti was established before Gabon.,b,False,False,b,False,1
+85,TF,Gabon was established before Armenia.,a,True,True,a,True,1
+86,TF,Armenia was established before Mozambique.,b,False,True,a,True,0
+87,TF,Mozambique was established before Bangladesh.,b,False,False,b,False,1
+88,TF,Bangladesh was established before Costa Rica.,b,False,False,b,False,1
+89,TF,Costa Rica was established before Bosnia and Herzegovina.,a,True,True,a,True,1
+90,TF,Bosnia and Herzegovina was established before Kuwait.,b,False,False,b,False,1
+91,TF,Kuwait was established before Lebanon.,b,False,False,b,False,1
+92,TF,Lebanon was established before Ecuador.,b,False,False,b,False,1
+93,TF,Ecuador was established before El Salvador.,b,False,False,b,False,1
+94,TF,El Salvador was established before Cuba.,a,True,True,a,True,1
+95,TF,Cuba was established before Egypt.,a,True,False,b,False,0
+96,TF,Egypt was established before Nigeria.,a,True,True,a,True,1
+97,TF,Nigeria was established before Guinea.,b,False,False,b,False,1
+98,TF,Guinea was established before Kyrgyzstan.,a,True,True,a,True,1
+99,TF,Kyrgyzstan was established before Georgia.,b,False,False,b,False,1
+100,TF,Georgia was established before Democratic Republic of the Congo.,b,False,True,a,True,0
+101,TF,Democratic Republic of the Congo was established before Antigua and Barbuda.,a,True,True,a,True,1
+102,TF,Antigua and Barbuda was established before Mexico.,b,False,False,b,False,1
+103,TF,Mexico was established before Bulgaria.,a,True,True,a,True,1
+104,TF,Bulgaria was established before Netherlands.,b,False,True,a,True,0
+105,TF,Netherlands was established before Colombia.,a,True,True,a,True,1
+106,TF,Colombia was established before Ireland.,a,True,True,a,True,1
+107,TF,Ireland was established before Moldova.,a,True,True,a,True,1
+108,TF,Moldova was established before Bahamas.,b,False,False,b,False,1
+109,TF,Bahamas was established before Germany.,b,False,True,a,True,0
+110,TF,Germany was established before Angola.,a,True,True,a,True,1
+111,TF,Angola was established before Dominican Republic.,b,False,False,b,False,1
+112,TF,Dominican Republic was established before Cambodia.,a,True,True,a,True,1
+113,TF,Cambodia was established before Brazil.,b,False,True,a,True,0
+114,TF,Brazil was established before Croatia.,a,True,True,a,True,1
+115,TF,Croatia was established before Jamaica.,b,False,True,a,True,0
+116,TF,Jamaica was established before Belize.,a,True,True,a,True,1
+117,TF,Belize was established before France.,b,False,False,b,False,1
+118,TF,France was established before Lithuania.,a,True,True,a,True,1
+119,TF,Lithuania was established before North Macedonia.,a,True,True,a,True,1
+120,TF,North Macedonia was established before Iceland.,b,False,False,b,False,1
+121,TF,Iceland was established before Luxembourg.,b,False,True,a,True,0
+122,TF,Luxembourg was established before Eritrea.,a,True,True,a,True,1
+123,TF,Eritrea was established before Belgium.,b,False,False,b,False,1
+124,TF,Belgium was established before Belarus.,a,True,True,a,True,1
+125,TF,Belarus was established before India.,b,False,False,b,False,1
+126,TF,India was established before Jordan.,b,False,False,b,False,1
+127,MCQ,Given Djibouti; which of the following countries was established before it?,c,Lesotho,C,c,Lesotho,1
+128,MCQ,Given Micronesia; which of the following countries was established before it?,a,Dominican Republic,A,a,Dominican Republic,1
+129,MCQ,Given Libya; which of the following countries was established before it?,c,Germany,C,c,Germany,1
+130,MCQ,Given Morocco; which of the following countries was established before it?,c,Argentina,C,c,Argentina,1
+131,MCQ,Given Moldova; which of the following countries was established before it?,d,Lebanon,D,d,Lebanon,1
+132,MCQ,Given Kyrgyzstan; which of the following countries was established before it?,b,Germany,B,b,Germany,1
+133,MCQ,Given Honduras; which of the following countries was established before it?,c,Haiti,C,c,Haiti,1
+134,MCQ,Given Haiti; which of the following countries was established before it?,d,Denmark,D,d,Denmark,1
+135,MCQ,Given Lebanon; which of the following countries was established before it?,d,Guatemala,D,d,Guatemala,1
+136,MCQ,Given Dominican Republic; which of the following countries was established before it?,a,Nicaragua,A,a,Nicaragua,1
+137,MCQ,Given Belize; which of the following countries was established before it?,a,Libya,A,a,Libya,1
+138,MCQ,Given Netherlands; which of the following countries was established before it?,d,France,D,d,France,1
+139,MCQ,Given Mozambique; which of the following countries was established before it?,d,Cyprus,D,d,Cyprus,1
+140,MCQ,Given Malawi; which of the following countries was established before it?,c,Italy,C,c,Italy,1
+141,MCQ,Given Guinea; which of the following countries was established before it?,a,Australia,A,a,Australia,1
+142,MCQ,Given Iceland; which of the following countries was established before it?,b,Andorra,B,b,Andorra,1
+143,MCQ,Given North Macedonia; which of the following countries was established before it?,b,Bolivia,A,a,Croatia,0
+144,MCQ,Given Norway; which of the following countries was established before it?,b,Andorra,B,b,Andorra,1
+145,MCQ,Given Germany; which of the following countries was established before it?,d,Honduras,D,d,Honduras,1
+146,MCQ,Given Costa Rica; which of the following countries was established before it?,a,Haiti,A,a,Haiti,1
+147,MCQ,Given Croatia; which of the following countries was established before it?,d,Greece,D,d,Greece,1
+148,MCQ,Given Morocco; which of the following countries was established before it?,c,Colombia,C,c,Colombia,1
+149,MCQ,Given Mozambique; which of the following countries was established before it?,b,Chad,B,b,Chad,1
+150,MCQ,Given Australia; which of the following countries was established before it?,a,El Salvador,A,a,El Salvador,1
+151,MCQ,Given Armenia; which of the following countries was established before it?,b,Morocco,B,b,Morocco,1
+152,MCQ,Given Benin; which of the following countries was established before it?,a,El Salvador,A,a,El Salvador,1
+153,MCQ,Given Cameroon; which of the following countries was established before it?,b,Ethiopia,B,b,Ethiopia,1
+154,MCQ,Given Nauru; which of the following countries was established before it?,b,France,B,b,France,1
+155,MCQ,Given Ireland; which of the following countries was established before it?,a,Guatemala,B,b,Ethiopia,0
+156,MCQ,Given Benin; which of the following countries was established before it?,d,Cambodia,D,d,Cambodia,1
+157,MCQ,Given Malaysia; which of the following countries was established before it?,a,Liberia,A,a,Liberia,1
+158,MCQ,Given Ecuador; which of the following countries was established before it?,c,Denmark,C,c,Denmark,1
+159,MCQ,Given Malawi; which of the following countries was established before it?,c,Australia,C,c,Australia,1
+160,MCQ,Given Namibia; which of the following countries was established before it?,c,Morocco,C,c,Morocco,1
+161,MCQ,Given Guinea; which of the following countries was established before it?,a,Australia,A,a,Australia,1
+162,MCQ,Given Nepal; which of the following countries was established before it?,a,Afghanistan,A,a,Afghanistan,1
+163,MCQ,Given Namibia; which of the following countries was established before it?,a,Finland,A,a,Finland,1
+164,MCQ,Given Madagascar; which of the following countries was established before it?,a,Argentina,A,a,Argentina,1
+165,MCQ,Given Bahrain; which of the following countries was established before it?,a,Democratic Republic of the Congo,A,a,Democratic Republic of the Congo,1
+166,MCQ,Given Azerbaijan; which of the following countries was established before it?,c,Mongolia,C,c,Mongolia,1
+167,MCQ,Given Chad; which of the following countries was established before it?,b,Lebanon,B,b,Lebanon,1
+168,MCQ,Given Liechtenstein; which of the following countries was established before it?,a,Hungary,A,a,Hungary,1
+169,MCQ,Given Myanmar; which of the following countries was established before it?,b,France,B,b,France,1
+170,MCQ,Given Canada; which of the following countries was established before it?,b,Andorra,B,b,Andorra,1
+171,MCQ,Given Australia; which of the following countries was established before it?,c,Italy,C,c,Italy,1
+172,MCQ,Given Armenia; which of the following countries was established before it?,d,Ivory Coast,D,d,Ivory Coast,1
+173,MCQ,Given Chile; which of the following countries was established before it?,d,Nepal,D,d,Nepal,1
+174,MCQ,Given Mongolia; which of the following countries was established before it?,c,Australia,C,c,Australia,1
+175,MCQ,Given Indonesia; which of the following countries was established before it?,d,Mongolia,D,d,Mongolia,1
+176,MCQ,Given Cuba; which of the following countries was established before it?,a,Liechtenstein,A,a,Liechtenstein,1
+177,MCQ,Given Micronesia; which of the following countries was established before it?,a,Grenada,A,a,Grenada,1
+178,MCQ,Given Belgium; which of the following countries was established before it?,c,Liechtenstein,C,c,Liechtenstein,1
+179,MCQ,Given Liechtenstein; which of the following countries was established before it?,c,France,C,c,France,1
+180,MCQ,Given China; which of the following countries was established before it?,c,Netherlands,C,c,Netherlands,1
+181,MCQ,Given Maldives; which of the following countries was established before it?,c,Egypt,C,c,Egypt,1
+182,MCQ,Given Iran; which of the following countries was established before it?,d,Maldives,D,d,Maldives,1
+183,MCQ,Given Austria; which of the following countries was established before it?,b,Indonesia,B,b,Indonesia,1
+184,MCQ,Given Barbados; which of the following countries was established before it?,c,France,C,c,France,1
+185,MCQ,Given North Macedonia; which of the following countries was established before it?,d,Malawi,D,d,Malawi,1
+186,MCQ,Given Argentina; which of the following countries was established before it?,b,Hungary,B,b,Hungary,1
+187,MCQ,Given Angola; which of the following countries was established before it?,d,Equatorial Guinea,D,d,Equatorial Guinea,1
+188,MCQ,Given Guyana; which of the following countries was established before it?,d,Burkina Faso,D,d,Burkina Faso,1
+189,MCQ,Given Nicaragua; which of the following countries was established before it?,c,Haiti,C,c,Haiti,1
+190,MCQ,Given Nepal; which of the following countries was established before it?,d,Monaco,D,d,Monaco,1
+191,MCQ,Given Albania; which of the following countries was established before it?,d,Netherlands,D,d,Netherlands,1
+192,MCQ,Given Armenia; which of the following countries was established before it?,d,Belgium,D,d,Belgium,1
+193,MCQ,Given Libya; which of the following countries was established before it?,d,Afghanistan,D,d,Afghanistan,1
+194,MCQ,Given Denmark; which of the following countries was established before it?,b,Japan,B,b,Japan,1
+195,MCQ,Given Austria; which of the following countries was established before it?,d,Ethiopia,D,d,Ethiopia,1
+196,MCQ,Given India; which of the following countries was established before it?,d,France,D,d,France,1
+197,MCQ,Given Colombia; which of the following countries was established before it?,d,Haiti,D,d,Haiti,1
+198,MCQ,Given Kenya; which of the following countries was established before it?,d,Japan,D,d,Japan,1
+199,MCQ,Given Costa Rica; which of the following countries was established before it?,b,Monaco,B,b,Monaco,1
+200,MCQ,Given Croatia; which of the following countries was established before it?,b,Libya,B,b,Libya,1
+201,MCQ,Given Djibouti; which of the following countries was established before it?,b,Netherlands,B,b,Netherlands,1
+202,MCQ,Given Malta; which of the following countries was established before it?,d,Denmark,D,d,Denmark,1
+203,MCQ,Given Albania; which of the following countries was established before it?,c,New Zealand,D,d,Ethiopia,0
+204,MCQ,Given Central African Republic; which of the following countries was established before it?,b,Israel,B,b,Israel,1
+205,MCQ,Given Djibouti; which of the following countries was established before it?,b,Netherlands,B,b,Netherlands,1
+206,MCQ,Given Angola; which of the following countries was established before it?,d,Mongolia,D,d,Mongolia,1
+207,MCQ,Given Israel; which of the following countries was established before it?,a,Germany,A,a,Germany,1
+208,MCQ,Given Bosnia and Herzegovina; which of the following countries was established before it?,a,Mexico,A,a,Mexico,1
+209,MCQ,Given Nepal; which of the following countries was established before it?,d,Liechtenstein,D,d,Liechtenstein,1
+210,MCQ,Given Egypt; which of the following countries was established before it?,a,Norway,A,a,Norway,1
+211,MCQ,Given Nicaragua; which of the following countries was established before it?,c,Denmark,C,c,Denmark,1
+212,MCQ,Given Jordan; which of the following countries was established before it?,a,Belgium,A,a,Belgium,1
+213,MCQ,Given Lebanon; which of the following countries was established before it?,d,Bulgaria,D,d,Bulgaria,1
+214,MCQ,Given Moldova; which of the following countries was established before it?,c,Mauritania,D,d,Georgia,0
+215,MCQ,Given Comoros; which of the following countries was established before it?,b,Eswatini,B,b,Eswatini,1
+216,MCQ,Given Iraq; which of the following countries was established before it?,b,El Salvador,B,b,El Salvador,1
+217,MCQ,Given Dominican Republic; which of the following countries was established before it?,c,Belgium,C,c,Belgium,1
+218,MCQ,Given Ethiopia; which of the following countries was established before it?,d,Greece,D,d,Greece,1
+219,MCQ,Given Indonesia; which of the following countries was established before it?,c,Netherlands,C,c,Netherlands,1
+220,MCQ,Given Germany; which of the following countries was established before it?,b,Greece,B,b,Greece,1
+221,MCQ,Given Guatemala; which of the following countries was established before it?,a,Liechtenstein,A,a,Liechtenstein,1
+222,MCQ,Given Jordan; which of the following countries was established before it?,c,New Zealand,C,c,New Zealand,1
+223,MCQ,Given Cameroon; which of the following countries was established before it?,c,Ecuador,C,c,Ecuador,1
+224,MCQ,Given Costa Rica; which of the following countries was established before it?,b,Liechtenstein,B,b,Liechtenstein,1
+225,MCQ,Given Honduras; which of the following countries was established before it?,c,Liechtenstein,C,c,Liechtenstein,1
+226,MCQ,Given Guyana; which of the following countries was established before it?,b,Afghanistan,B,b,Afghanistan,1
+227,MCQ,Given Monaco; which of the following countries was established before it?,a,Hungary,A,a,Hungary,1
+228,MCQ,Given Central African Republic; which of the following countries was established before it?,d,Dominican Republic,D,d,Dominican Republic,1
+229,MCQ,Given Germany; which of the following countries was established before it?,b,Bolivia,B,b,Bolivia,1
+230,MCQ,Given Jamaica; which of the following countries was established before it?,a,Gabon,A,a,Gabon,1
+231,MCQ,Given Lithuania; which of the following countries was established before it?,b,Cuba,B,b,Cuba,1
+232,MCQ,Given Kiribati; which of the following countries was established before it?,d,Central African Republic,D,d,Central African Republic,1
+233,MCQ,Given Italy; which of the following countries was established before it?,a,Belgium,A,a,Belgium,1
+234,MCQ,Given Georgia; which of the following countries was established before it?,a,Italy,A,a,Italy,1
+235,MCQ,Given Lithuania; which of the following countries was established before it?,a,Kenya,A,a,Kenya,1
+236,MCQ,Given Myanmar; which of the following countries was established before it?,d,Cuba,D,d,Cuba,1
+237,MCQ,Given North Macedonia; which of the following countries was established before it?,b,Guatemala,B,b,Guatemala,1
+238,MCQ,Given Liechtenstein; which of the following countries was established before it?,a,Denmark,A,a,Denmark,1
+239,MCQ,Given Belize; which of the following countries was established before it?,b,Guinea-Bissau,B,b,Guinea-Bissau,1
+240,MCQ,Given Dominican Republic; which of the following countries was established before it?,c,Hungary,C,c,Hungary,1
+241,MCQ,Given Algeria; which of the following countries was established before it?,b,Mongolia,B,b,Mongolia,1
+242,MCQ,Given Greece; which of the following countries was established before it?,a,Luxembourg,A,a,Luxembourg,1
+243,MCQ,Given Albania; which of the following countries was established before it?,a,Argentina,A,a,Argentina,1
+244,MCQ,Given Marshall Islands; which of the following countries was established before it?,b,Ireland,A,a,Estonia,0
+245,MCQ,Given Burkina Faso; which of the following countries was established before it?,d,India,D,d,India,1
+246,MCQ,Given Namibia; which of the following countries was established before it?,a,Jamaica,A,a,Jamaica,1
+247,MCQ,Given Ivory Coast; which of the following countries was established before it?,b,Afghanistan,B,b,Afghanistan,1
+248,MCQ,Given Guinea; which of the following countries was established before it?,d,Mongolia,D,d,Mongolia,1
+249,MCQ,Given Morocco; which of the following countries was established before it?,c,Luxembourg,C,c,Luxembourg,1
+250,MCQ,Given Guinea-Bissau; which of the following countries was established before it?,d,Iraq,D,d,Iraq,1
+251,MCQ,Given New Zealand; which of the following countries was established before it?,d,Andorra,D,d,Andorra,1
+252,MCQ,Given Iran; which of the following countries was established before it?,d,Central African Republic,D,d,Central African Republic,1
+253,MCQ,Given Algeria; which of the following countries was established before it?,c,Chad,C,c,Chad,1
+254,MCQ,Given Central African Republic; which of the following countries was established before it?,d,Austria,D,d,Austria,1
+255,MCQ,Given Cape Verde; which of the following countries was established before it?,b,Bangladesh,B,b,Bangladesh,1
+256,MCQ,Given Equatorial Guinea; which of the following countries was established before it?,b,Liberia,B,b,Liberia,1
+257,MCQ,Given Gabon; which of the following countries was established before it?,d,India,D,d,India,1
+258,MCQ,Given Israel; which of the following countries was established before it?,c,Bolivia,C,c,Bolivia,1
+259,MCQ,Given Gambia; which of the following countries was established before it?,c,Kuwait,C,c,Kuwait,1
+260,MCQ,Given Andorra; which of the following countries was established before it?,c,Hungary,A,a,Egypt,0
+261,MCQ,Given Jordan; which of the following countries was established before it?,b,Indonesia,B,b,Indonesia,1
+262,MCQ,Given Haiti; which of the following countries was established before it?,a,Hungary,D,d,Morocco,0
+263,MCQ,Given Chile; which of the following countries was established before it?,b,France,B,b,France,1
+264,MCQ,Given Bhutan; which of the following countries was established before it?,c,Liechtenstein,C,c,Liechtenstein,1
+265,MCQ,Given Georgia; which of the following countries was established before it?,b,Kiribati,B,b,Kiribati,1
+266,MCQ,Given Mexico; which of the following countries was established before it?,a,Nepal,A,a,Nepal,1
+267,MCQ,Given Myanmar; which of the following countries was established before it?,a,Bhutan,A,a,Bhutan,1
+268,MCQ,Given Haiti; which of the following countries was established before it?,a,Denmark,A,a,Denmark,1
+269,MCQ,Given Germany; which of the following countries was established before it?,b,Canada,B,b,Canada,1
+270,MCQ,Given Cape Verde; which of the following countries was established before it?,d,Nigeria,D,d,Nigeria,1
+271,MCQ,Given Belgium; which of the following countries was established before it?,d,Argentina,D,d,Argentina,1
+272,MCQ,Given Costa Rica; which of the following countries was established before it?,a,Haiti,A,a,Haiti,1
+273,MCQ,Given Jamaica; which of the following countries was established before it?,b,Finland,B,b,Finland,1
+274,MCQ,Given Colombia; which of the following countries was established before it?,a,Afghanistan,A,a,Afghanistan,1
+275,MCQ,Given Lithuania; which of the following countries was established before it?,a,Japan,A,a,Japan,1
+276,MCQ,Given Dominican Republic; which of the following countries was established before it?,b,Colombia,B,b,Colombia,1
+277,MCQ,Given Dominican Republic; which of the following countries was established before it?,c,France,C,c,France,1
+278,MCQ,Given New Zealand; which of the following countries was established before it?,c,Brazil,C,c,Brazil,1
+279,MCQ,Given Benin; which of the following countries was established before it?,d,Afghanistan,D,d,Afghanistan,1
+280,MCQ,Given Laos; which of the following countries was established before it?,c,Nepal,C,c,Nepal,1
+281,MCQ,Given Jordan; which of the following countries was established before it?,d,El Salvador,D,d,El Salvador,1
+282,MCQ,Given China; which of the following countries was established before it?,c,Haiti,C,c,Haiti,1
+283,MCQ,Given Bahrain; which of the following countries was established before it?,b,Ecuador,B,b,Ecuador,1
+284,MCQ,Given Burkina Faso; which of the following countries was established before it?,d,Austria,C,c,Latvia,0
+285,MCQ,Given Djibouti; which of the following countries was established before it?,c,India,C,c,India,1
+286,MCQ,Given Ivory Coast; which of the following countries was established before it?,d,Ethiopia,D,d,Ethiopia,1
+287,MCQ,Given Liechtenstein; which of the following countries was established before it?,c,Andorra,C,c,Andorra,1
+288,MCQ,Given Kuwait; which of the following countries was established before it?,d,Democratic Republic of the Congo,D,d,Democratic Republic of the Congo,1
+289,MCQ,Given Comoros; which of the following countries was established before it?,d,Equatorial Guinea,D,d,Equatorial Guinea,1
+290,MCQ,Given Belgium; which of the following countries was established before it?,d,Monaco,C,c,Morocco,0
+291,MCQ,Given Iraq; which of the following countries was established before it?,a,Costa Rica,A,a,Costa Rica,1
+292,MCQ,Given Bolivia; which of the following countries was established before it?,a,Guatemala,A,a,Guatemala,1
+293,MCQ,Given Cambodia; which of the following countries was established before it?,c,Greece,C,c,Greece,1
+294,MCQ,Given Burkina Faso; which of the following countries was established before it?,a,Greece,D,d,Benin,0
+295,MCQ,Given Iran; which of the following countries was established before it?,c,Mexico,C,c,Mexico,1
+296,MCQ,Given Kazakhstan; which of the following countries was established before it?,b,Kiribati,B,b,Kiribati,1
+297,MCQ,Given Lebanon; which of the following countries was established before it?,c,Netherlands,C,c,Netherlands,1
+298,MCQ,Given Armenia; which of the following countries was established before it?,b,Democratic Republic of the Congo,B,b,Democratic Republic of the Congo,1
+299,MCQ,Given Mali; which of the following countries was established before it?,d,Nicaragua,D,d,Nicaragua,1
+300,MCQ,Given Israel; which of the following countries was established before it?,b,Ecuador,B,b,Ecuador,1
+301,MCQ,Given Mauritania; which of the following countries was established before it?,a,Lebanon,A,a,Lebanon,1
+302,MCQ,Given Lithuania; which of the following countries was established before it?,b,Lesotho,C,c,Armenia,0
+303,MCQ,Given Guatemala; which of the following countries was established before it?,b,Japan,B,b,Japan,1
+304,MCQ,Given Afghanistan; which of the following countries was established before it?,a,Liechtenstein,A,a,Liechtenstein,1
+305,MCQ,Given Ivory Coast; which of the following countries was established before it?,b,Monaco,B,b,Monaco,1
+306,MCQ,Given China; which of the following countries was established before it?,a,New Zealand,A,a,New Zealand,1
+307,MCQ,Given Grenada; which of the following countries was established before it?,b,Greece,B,b,Greece,1
+308,MCQ,Given Mexico; which of the following countries was established before it?,b,France,B,b,France,1
+309,MCQ,Given Iran; which of the following countries was established before it?,c,Australia,C,c,Australia,1
+310,MCQ,Given Costa Rica; which of the following countries was established before it?,a,Luxembourg,A,a,Luxembourg,1
+311,MCQ,Given Democratic Republic of the Congo; which of the following countries was established before it?,a,Liechtenstein,A,a,Liechtenstein,1
+312,MCQ,Given Iraq; which of the following countries was established before it?,c,Italy,C,c,Italy,1
+313,MCQ,Given Moldova; which of the following countries was established before it?,a,Libya,A,a,Libya,1
+314,MCQ,Given Iran; which of the following countries was established before it?,a,Netherlands,A,a,Netherlands,1
+315,MCQ,Given Brunei; which of the following countries was established before it?,b,Iran,B,b,Iran,1
+316,MCQ,Given Israel; which of the following countries was established before it?,d,Argentina,D,d,Argentina,1
+317,MCQ,Given Mongolia; which of the following countries was established before it?,d,Japan,D,d,Japan,1
+318,MCQ,Given Liberia; which of the following countries was established before it?,b,Dominican Republic,B,b,Dominican Republic,1
+319,MCQ,Given Maldives; which of the following countries was established before it?,c,Netherlands,C,c,Netherlands,1
+320,MCQ,Given Mali; which of the following countries was established before it?,b,Liberia,B,b,Liberia,1
+321,MCQ,Given Gabon; which of the following countries was established before it?,a,Bulgaria,A,a,Bulgaria,1
+322,MCQ,Given Cyprus; which of the following countries was established before it?,a,New Zealand,A,a,New Zealand,1
+323,MCQ,Given Bhutan; which of the following countries was established before it?,d,Andorra,C,c,Bulgaria,0
+324,MCQ,Given Mali; which of the following countries was established before it?,a,Guatemala,A,a,Guatemala,1
+325,MCQ,Given Chad; which of the following countries was established before it?,c,Colombia,C,c,Colombia,1
+326,MCQ,Given Azerbaijan; which of the following countries was established before it?,d,Malawi,C,c,Georgia,0
+327,MCQ,Given Georgia; which of the following countries was established before it?,c,Bangladesh,C,c,Bangladesh,1
+328,MCQ,Given Hungary; which of the following countries was established before it?,a,Denmark,A,a,Denmark,1
+329,MCQ,Given Democratic Republic of the Congo; which of the following countries was established before it?,c,Iraq,C,c,Iraq,1
+330,MCQ,Given Liechtenstein; which of the following countries was established before it?,b,Hungary,B,b,Hungary,1
+331,MCQ,Given Finland; which of the following countries was established before it?,c,Andorra,C,c,Andorra,1
+332,MCQ,Given Bulgaria; which of the following countries was established before it?,c,Japan,C,c,Japan,1
+333,MCQ,Given Fiji; which of the following countries was established before it?,c,Monaco,C,c,Monaco,1
+334,MCQ,Given Indonesia; which of the following countries was established before it?,a,Finland,A,a,Finland,1
+335,MCQ,Given Liberia; which of the following countries was established before it?,d,Mexico,D,d,Mexico,1
+336,MCQ,Given Germany; which of the following countries was established before it?,d,Italy,D,d,Italy,1
+337,MCQ,Given Lesotho; which of the following countries was established before it?,a,Haiti,A,a,Haiti,1
+338,MCQ,Given Ireland; which of the following countries was established before it?,a,Nepal,B,b,Austria,0
+339,MCQ,Given Democratic Republic of the Congo; which of the following countries was established before it?,b,Liberia,B,b,Liberia,1
+340,MCQ,Given Nigeria; which of the following countries was established before it?,b,Germany,B,b,Germany,1
+341,MCQ,Given Belarus; which of the following countries was established before it?,d,Guinea,D,d,Guinea,1
+342,MCQ,Given Gambia; which of the following countries was established before it?,d,Liberia,D,d,Liberia,1
+343,MCQ,Given Jamaica; which of the following countries was established before it?,d,New Zealand,D,d,New Zealand,1
+344,MCQ,Given Iraq; which of the following countries was established before it?,b,Ireland,B,b,Ireland,1
+345,MCQ,Given Georgia; which of the following countries was established before it?,d,Cyprus,D,d,Cyprus,1
+346,MCQ,Given Benin; which of the following countries was established before it?,a,Nepal,A,a,Nepal,1
+347,MCQ,Given Dominica; which of the following countries was established before it?,c,Guyana,C,c,Guyana,1
+348,MCQ,Given Malawi; which of the following countries was established before it?,b,Afghanistan,B,b,Afghanistan,1
+349,MCQ,Given Haiti; which of the following countries was established before it?,a,France,A,a,France,1
+350,MCQ,Given Lebanon; which of the following countries was established before it?,d,Nepal,D,d,Nepal,1
+351,MCQ,Given Mali; which of the following countries was established before it?,a,Ecuador,A,a,Ecuador,1
+352,MCQ,Given Madagascar; which of the following countries was established before it?,a,Australia,A,a,Australia,1
+353,MCQ,Given Belarus; which of the following countries was established before it?,b,Mauritania,B,b,Mauritania,1
+354,MCQ,Given Costa Rica; which of the following countries was established before it?,b,Nepal,B,b,Nepal,1
+355,MCQ,Given Marshall Islands; which of the following countries was established before it?,c,Mozambique,C,c,Mozambique,1
+356,MCQ,Given Marshall Islands; which of the following countries was established before it?,d,Canada,D,d,Canada,1
+357,MCQ,Given Guinea; which of the following countries was established before it?,b,Monaco,B,b,Monaco,1
+358,MCQ,Given Belgium; which of the following countries was established before it?,d,Argentina,D,d,Argentina,1
+359,MCQ,Given Ireland; which of the following countries was established before it?,d,Haiti,D,d,Haiti,1
+360,MCQ,Given North Macedonia; which of the following countries was established before it?,b,Lesotho,B,b,Lesotho,1
+361,MCQ,Given Haiti; which of the following countries was established before it?,d,Monaco,D,d,Monaco,1
+362,MCQ,Given Ecuador; which of the following countries was established before it?,c,Haiti,C,c,Haiti,1
+363,MCQ,Given Malawi; which of the following countries was established before it?,a,Cyprus,A,a,Cyprus,1
+364,MCQ,Given Central African Republic; which of the following countries was established before it?,d,Bhutan,C,c,Armenia,0
+365,MCQ,Given China; which of the following countries was established before it?,d,Andorra,D,d,Andorra,1
+366,MCQ,Given Israel; which of the following countries was established before it?,c,Finland,C,c,Finland,1
+367,MCQ,Given Brunei; which of the following countries was established before it?,d,Malawi,D,d,Malawi,1
+368,MCQ,Given Iceland; which of the following countries was established before it?,c,Liechtenstein,C,c,Liechtenstein,1
+369,MCQ,Given Dominican Republic; which of the following countries was established before it?,c,El Salvador,C,c,El Salvador,1
+370,MCQ,Given Indonesia; which of the following countries was established before it?,c,Mexico,C,c,Mexico,1
+371,MCQ,Given Eswatini; which of the following countries was established before it?,d,Jordan,D,d,Jordan,1
+372,MCQ,Given Latvia; which of the following countries was established before it?,c,Lebanon,D,d,Georgia,0
+373,MCQ,Given Benin; which of the following countries was established before it?,c,Netherlands,C,c,Netherlands,1
+374,MCQ,Given Liechtenstein; which of the following countries was established before it?,b,Netherlands,B,b,Netherlands,1
+375,MCQ,Given China; which of the following countries was established before it?,a,Liechtenstein,A,a,Liechtenstein,1
+376,MCQ,Given Austria; which of the following countries was established before it?,a,Argentina,A,a,Argentina,1

@@ -1,0 +1,161 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,MCQ,What did Anwar Sadat declare in the presence of Menachem Begin?,d,a reconciliation treaty between France and West Germany,C,c,a peace initiative between Egypt and Israel,0
+2,MCQ,Did Yitzhak Rabin declare the Oslo peace process in the presence of Yasser Arafat?,b,No,A,a,Yes,0
+3,MCQ,Did Mikhail Gorbachev declare the Intermediate-Range Nuclear Forces (INF) Treaty in the presence of Ronald Reagan?,b,No,A,a,Yes,0
+4,MCQ,Did Anwar Sadat declare a peace initiative between Egypt and Israel in the presence of Menachem Begin?,b,No,A,a,Yes,0
+5,MCQ,Who was present when Yitzhak Rabin declared the Oslo peace process?,b,Mikhail Gorbachev,A,a,Yasser Arafat,0
+6,MCQ,Who was present when Anwar Sadat declared a peace initiative between Egypt and Israel?,c,Konrad Adenauer,D,d,Menachem Begin,0
+7,MCQ,Did George H. W. Bush declare war on Japan after the attack on Pearl Harbor in the presence of Mikhail Gorbachev?,a,Yes,B,b,No,0
+8,MCQ,Did Franklin D. Roosevelt declare war on Japan after the attack on Pearl Harbor in the presence of Winston Churchill?,b,No,B,b,No,1
+9,MCQ,Did Mikhail Gorbachev declare the end of the Cold War in the presence of Ronald Reagan?,a,Yes,B,b,No,0
+10,MCQ,What did Angela Merkel declare in the presence of Nicolas Sarkozy?,a,a reconciliation treaty between France and West Germany,B,b,a European financial rescue plan,0
+11,MCQ,Who was present when Franklin D. Roosevelt declared war on Japan after the attack on Pearl Harbor?,c,Nicolas Sarkozy,D,d,Winston Churchill,0
+12,MCQ,Did Charles de Gaulle declare a reconciliation treaty between France and West Germany in the presence of Konrad Adenauer?,b,No,A,a,Yes,0
+13,MCQ,Did George H. W. Bush declare the end of the Cold War in the presence of Mikhail Gorbachev?,b,No,A,a,Yes,0
+14,MCQ,Did Neville Chamberlain declare the end of World War II in Europe in the presence of Adolf Hitler?,a,Yes,B,b,No,0
+15,MCQ,What did George H. W. Bush declare in the presence of Mikhail Gorbachev?,b,a peace initiative between Egypt and Israel,A,a,the end of the Cold War,0
+16,MCQ,What did Mikhail Gorbachev declare in the presence of Ronald Reagan?,c,a European financial rescue plan,D,d,the Intermediate-Range Nuclear Forces (INF) Treaty,0
+17,MCQ,What did Charles de Gaulle declare in the presence of Konrad Adenauer?,d,the end of World War II in Europe,C,c,a reconciliation treaty between France and West Germany,0
+18,MCQ,Who was present when Mikhail Gorbachev declared the Intermediate-Range Nuclear Forces (INF) Treaty?,b,Mikhail Gorbachev,A,a,Ronald Reagan,0
+19,MCQ,Did Angela Merkel declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Nicolas Sarkozy?,a,Yes,B,b,No,0
+20,MCQ,Who was present when Angela Merkel declared a European financial rescue plan?,d,Leonid Brezhnev,C,c,Nicolas Sarkozy,0
+21,MCQ,Did Angela Merkel declare a European financial rescue plan in the presence of Nicolas Sarkozy?,b,No,A,a,Yes,0
+22,MCQ,Did Anwar Sadat declare the Munich Agreement in the presence of Menachem Begin?,a,Yes,B,b,No,0
+23,MCQ,Who was present when Harry S. Truman declared the end of World War II in Europe?,c,Leonid Brezhnev,D,d,Joseph Stalin,0
+24,MCQ,Did Harry S. Truman declare a peace initiative between Egypt and Israel in the presence of Joseph Stalin?,a,Yes,B,b,No,0
+25,MCQ,Did Richard Nixon declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Leonid Brezhnev?,b,No,A,a,Yes,0
+26,MCQ,What did Richard Nixon declare in the presence of Leonid Brezhnev?,c,a peace initiative between Egypt and Israel,D,d,the Strategic Arms Limitation Talks (SALT I) agreement,0
+27,MCQ,What did Franklin D. Roosevelt declare in the presence of Winston Churchill?,d,the Strategic Arms Limitation Talks (SALT I) agreement,C,c,war on Japan after the attack on Pearl Harbor,0
+28,MCQ,Did Neville Chamberlain declare the Munich Agreement in the presence of Adolf Hitler?,b,No,B,b,No,1
+29,MCQ,Who was present when Richard Nixon declared the Strategic Arms Limitation Talks (SALT I) agreement?,b,Ronald Reagan,A,a,Leonid Brezhnev,0
+30,MCQ,Did Harry S. Truman declare the end of World War II in Europe in the presence of Joseph Stalin?,b,No,B,b,No,1
+31,MCQ,What did Yitzhak Rabin declare in the presence of Yasser Arafat?,c,a European financial rescue plan,D,d,the Oslo peace process,0
+32,MCQ,Did Richard Nixon declare war on Japan after the attack on Pearl Harbor in the presence of Leonid Brezhnev?,a,Yes,B,b,No,0
+33,MCQ,Who was present when Charles de Gaulle declared a reconciliation treaty between France and West Germany?,b,Menachem Begin,A,a,Konrad Adenauer,0
+34,MCQ,Did Yitzhak Rabin declare a reconciliation treaty between France and West Germany in the presence of Yasser Arafat?,a,Yes,B,b,No,0
+35,MCQ,Did Franklin D. Roosevelt declare a reconciliation treaty between France and West Germany in the presence of Winston Churchill?,a,Yes,B,b,No,0
+36,MCQ,Did Charles de Gaulle declare a peace initiative between Egypt and Israel in the presence of Konrad Adenauer?,a,Yes,B,b,No,0
+37,MCQ,Who was present when Neville Chamberlain declared the Munich Agreement?,d,Joseph Stalin,C,c,Adolf Hitler,0
+38,MCQ,What did Neville Chamberlain declare in the presence of Adolf Hitler?,b,a reconciliation treaty between France and West Germany,A,a,the Munich Agreement,0
+39,MCQ,What did Harry S. Truman declare in the presence of Joseph Stalin?,d,the Strategic Arms Limitation Talks (SALT I) agreement,C,c,the end of World War II in Europe,0
+40,MCQ,Who was present when George H. W. Bush declared the end of the Cold War?,d,Nicolas Sarkozy,C,c,Mikhail Gorbachev,0
+41,MCQ,Historically; What did Anwar Sadat declare in the presence of Menachem Begin?,d,a reconciliation treaty between France and West Germany,C,c,a peace initiative between Egypt and Israel,0
+42,MCQ,According to historians; What did Anwar Sadat declare in the presence of Menachem Begin?,d,a reconciliation treaty between France and West Germany,C,c,a peace initiative between Egypt and Israel,0
+43,MCQ,What did Anwar Sadat declare in the presence of Menachem Begin (historical context)?,d,a reconciliation treaty between France and West Germany,C,c,a peace initiative between Egypt and Israel,0
+44,MCQ,In history exams; students may be asked: What did Anwar Sadat declare in the presence of Menachem Begin?,d,a reconciliation treaty between France and West Germany,C,c,a peace initiative between Egypt and Israel,0
+45,MCQ,Historically; Did Yitzhak Rabin declare the Oslo peace process in the presence of Yasser Arafat?,b,No,A,a,Yes,0
+46,MCQ,According to historians; Did Yitzhak Rabin declare the Oslo peace process in the presence of Yasser Arafat?,b,No,A,a,Yes,0
+47,MCQ,Did Yitzhak Rabin declare the Oslo peace process in the presence of Yasser Arafat (historical context)?,b,No,A,a,Yes,0
+48,MCQ,In history exams; students may be asked: Did Yitzhak Rabin declare the Oslo peace process in the presence of Yasser Arafat?,b,No,A,a,Yes,0
+49,MCQ,Historically; Did Mikhail Gorbachev declare the Intermediate-Range Nuclear Forces (INF) Treaty in the presence of Ronald Reagan?,b,No,A,a,Yes,0
+50,MCQ,According to historians; Did Mikhail Gorbachev declare the Intermediate-Range Nuclear Forces (INF) Treaty in the presence of Ronald Reagan?,b,No,A,a,Yes,0
+51,MCQ,Did Mikhail Gorbachev declare the Intermediate-Range Nuclear Forces (INF) Treaty in the presence of Ronald Reagan (historical context)?,b,No,A,a,Yes,0
+52,MCQ,In history exams; students may be asked: Did Mikhail Gorbachev declare the Intermediate-Range Nuclear Forces (INF) Treaty in the presence of Ronald Reagan?,b,No,A,a,Yes,0
+53,MCQ,Historically; Did Anwar Sadat declare a peace initiative between Egypt and Israel in the presence of Menachem Begin?,b,No,A,a,Yes,0
+54,MCQ,According to historians; Did Anwar Sadat declare a peace initiative between Egypt and Israel in the presence of Menachem Begin?,b,No,A,a,Yes,0
+55,MCQ,Did Anwar Sadat declare a peace initiative between Egypt and Israel in the presence of Menachem Begin (historical context)?,b,No,A,a,Yes,0
+56,MCQ,In history exams; students may be asked: Did Anwar Sadat declare a peace initiative between Egypt and Israel in the presence of Menachem Begin?,b,No,A,a,Yes,0
+57,MCQ,Historically; Who was present when Yitzhak Rabin declared the Oslo peace process?,b,Mikhail Gorbachev,A,a,Yasser Arafat,0
+58,MCQ,According to historians; Who was present when Yitzhak Rabin declared the Oslo peace process?,b,Mikhail Gorbachev,A,a,Yasser Arafat,0
+59,MCQ,Who was present when Yitzhak Rabin declared the Oslo peace process (historical context)?,b,Mikhail Gorbachev,A,a,Yasser Arafat,0
+60,MCQ,In history exams; students may be asked: Who was present when Yitzhak Rabin declared the Oslo peace process?,b,Mikhail Gorbachev,A,a,Yasser Arafat,0
+61,MCQ,Historically; Who was present when Anwar Sadat declared a peace initiative between Egypt and Israel?,c,Konrad Adenauer,D,d,Menachem Begin,0
+62,MCQ,According to historians; Who was present when Anwar Sadat declared a peace initiative between Egypt and Israel?,c,Konrad Adenauer,D,d,Menachem Begin,0
+63,MCQ,Who was present when Anwar Sadat declared a peace initiative between Egypt and Israel (historical context)?,c,Konrad Adenauer,D,d,Menachem Begin,0
+64,MCQ,In history exams; students may be asked: Who was present when Anwar Sadat declared a peace initiative between Egypt and Israel?,c,Konrad Adenauer,D,d,Menachem Begin,0
+65,MCQ,Historically; Did George H. W. Bush declare war on Japan after the attack on Pearl Harbor in the presence of Mikhail Gorbachev?,a,Yes,B,b,No,0
+66,MCQ,According to historians; Did George H. W. Bush declare war on Japan after the attack on Pearl Harbor in the presence of Mikhail Gorbachev?,a,Yes,B,b,No,0
+67,MCQ,Did George H. W. Bush declare war on Japan after the attack on Pearl Harbor in the presence of Mikhail Gorbachev (historical context)?,a,Yes,B,b,No,0
+68,MCQ,In history exams; students may be asked: Did George H. W. Bush declare war on Japan after the attack on Pearl Harbor in the presence of Mikhail Gorbachev?,a,Yes,B,b,No,0
+69,MCQ,Historically; Did Franklin D. Roosevelt declare war on Japan after the attack on Pearl Harbor in the presence of Winston Churchill?,b,No,B,b,No,1
+70,MCQ,According to historians; Did Franklin D. Roosevelt declare war on Japan after the attack on Pearl Harbor in the presence of Winston Churchill?,b,No,B,b,No,1
+71,MCQ,Did Franklin D. Roosevelt declare war on Japan after the attack on Pearl Harbor in the presence of Winston Churchill (historical context)?,b,No,B,b,No,1
+72,MCQ,In history exams; students may be asked: Did Franklin D. Roosevelt declare war on Japan after the attack on Pearl Harbor in the presence of Winston Churchill?,b,No,B,b,No,1
+73,MCQ,Historically; Did Mikhail Gorbachev declare the end of the Cold War in the presence of Ronald Reagan?,a,Yes,B,b,No,0
+74,MCQ,According to historians; Did Mikhail Gorbachev declare the end of the Cold War in the presence of Ronald Reagan?,a,Yes,B,b,No,0
+75,MCQ,Did Mikhail Gorbachev declare the end of the Cold War in the presence of Ronald Reagan (historical context)?,a,Yes,B,b,No,0
+76,MCQ,In history exams; students may be asked: Did Mikhail Gorbachev declare the end of the Cold War in the presence of Ronald Reagan?,a,Yes,B,b,No,0
+77,MCQ,Historically; What did Angela Merkel declare in the presence of Nicolas Sarkozy?,a,a reconciliation treaty between France and West Germany,B,b,a European financial rescue plan,0
+78,MCQ,According to historians; What did Angela Merkel declare in the presence of Nicolas Sarkozy?,a,a reconciliation treaty between France and West Germany,B,b,a European financial rescue plan,0
+79,MCQ,What did Angela Merkel declare in the presence of Nicolas Sarkozy (historical context)?,a,a reconciliation treaty between France and West Germany,B,b,a European financial rescue plan,0
+80,MCQ,In history exams; students may be asked: What did Angela Merkel declare in the presence of Nicolas Sarkozy?,a,a reconciliation treaty between France and West Germany,B,b,a European financial rescue plan,0
+81,MCQ,Historically; Who was present when Franklin D. Roosevelt declared war on Japan after the attack on Pearl Harbor?,c,Nicolas Sarkozy,D,d,Winston Churchill,0
+82,MCQ,According to historians; Who was present when Franklin D. Roosevelt declared war on Japan after the attack on Pearl Harbor?,c,Nicolas Sarkozy,D,d,Winston Churchill,0
+83,MCQ,Who was present when Franklin D. Roosevelt declared war on Japan after the attack on Pearl Harbor (historical context)?,c,Nicolas Sarkozy,D,d,Winston Churchill,0
+84,MCQ,In history exams; students may be asked: Who was present when Franklin D. Roosevelt declared war on Japan after the attack on Pearl Harbor?,c,Nicolas Sarkozy,D,d,Winston Churchill,0
+85,MCQ,Historically; Did Charles de Gaulle declare a reconciliation treaty between France and West Germany in the presence of Konrad Adenauer?,b,No,A,a,Yes,0
+86,MCQ,According to historians; Did Charles de Gaulle declare a reconciliation treaty between France and West Germany in the presence of Konrad Adenauer?,b,No,A,a,Yes,0
+87,MCQ,Did Charles de Gaulle declare a reconciliation treaty between France and West Germany in the presence of Konrad Adenauer (historical context)?,b,No,A,a,Yes,0
+88,MCQ,In history exams; students may be asked: Did Charles de Gaulle declare a reconciliation treaty between France and West Germany in the presence of Konrad Adenauer?,b,No,A,a,Yes,0
+89,MCQ,Historically; Did George H. W. Bush declare the end of the Cold War in the presence of Mikhail Gorbachev?,b,No,B,b,No,1
+90,MCQ,According to historians; Did George H. W. Bush declare the end of the Cold War in the presence of Mikhail Gorbachev?,b,No,B,b,No,1
+91,MCQ,Did George H. W. Bush declare the end of the Cold War in the presence of Mikhail Gorbachev (historical context)?,b,No,B,b,No,1
+92,MCQ,In history exams; students may be asked: Did George H. W. Bush declare the end of the Cold War in the presence of Mikhail Gorbachev?,b,No,B,b,No,1
+93,MCQ,Historically; Did Neville Chamberlain declare the end of World War II in Europe in the presence of Adolf Hitler?,a,Yes,B,b,No,0
+94,MCQ,According to historians; Did Neville Chamberlain declare the end of World War II in Europe in the presence of Adolf Hitler?,a,Yes,B,b,No,0
+95,MCQ,Did Neville Chamberlain declare the end of World War II in Europe in the presence of Adolf Hitler (historical context)?,a,Yes,B,b,No,0
+96,MCQ,In history exams; students may be asked: Did Neville Chamberlain declare the end of World War II in Europe in the presence of Adolf Hitler?,a,Yes,B,b,No,0
+97,MCQ,Historically; What did George H. W. Bush declare in the presence of Mikhail Gorbachev?,b,a peace initiative between Egypt and Israel,A,a,the end of the Cold War,0
+98,MCQ,According to historians; What did George H. W. Bush declare in the presence of Mikhail Gorbachev?,b,a peace initiative between Egypt and Israel,A,a,the end of the Cold War,0
+99,MCQ,What did George H. W. Bush declare in the presence of Mikhail Gorbachev (historical context)?,b,a peace initiative between Egypt and Israel,A,a,the end of the Cold War,0
+100,MCQ,In history exams; students may be asked: What did George H. W. Bush declare in the presence of Mikhail Gorbachev?,b,a peace initiative between Egypt and Israel,A,a,the end of the Cold War,0
+101,MCQ,Historically; What did Mikhail Gorbachev declare in the presence of Ronald Reagan?,c,a European financial rescue plan,D,d,the Intermediate-Range Nuclear Forces (INF) Treaty,0
+102,MCQ,According to historians; What did Mikhail Gorbachev declare in the presence of Ronald Reagan?,c,a European financial rescue plan,D,d,the Intermediate-Range Nuclear Forces (INF) Treaty,0
+103,MCQ,What did Mikhail Gorbachev declare in the presence of Ronald Reagan (historical context)?,c,a European financial rescue plan,D,d,the Intermediate-Range Nuclear Forces (INF) Treaty,0
+104,MCQ,In history exams; students may be asked: What did Mikhail Gorbachev declare in the presence of Ronald Reagan?,c,a European financial rescue plan,D,d,the Intermediate-Range Nuclear Forces (INF) Treaty,0
+105,MCQ,Historically; What did Charles de Gaulle declare in the presence of Konrad Adenauer?,d,the end of World War II in Europe,C,c,a reconciliation treaty between France and West Germany,0
+106,MCQ,According to historians; What did Charles de Gaulle declare in the presence of Konrad Adenauer?,d,the end of World War II in Europe,C,c,a reconciliation treaty between France and West Germany,0
+107,MCQ,What did Charles de Gaulle declare in the presence of Konrad Adenauer (historical context)?,d,the end of World War II in Europe,C,c,a reconciliation treaty between France and West Germany,0
+108,MCQ,In history exams; students may be asked: What did Charles de Gaulle declare in the presence of Konrad Adenauer?,d,the end of World War II in Europe,C,c,a reconciliation treaty between France and West Germany,0
+109,MCQ,Historically; Who was present when Mikhail Gorbachev declared the Intermediate-Range Nuclear Forces (INF) Treaty?,b,Mikhail Gorbachev,A,a,Ronald Reagan,0
+110,MCQ,According to historians; Who was present when Mikhail Gorbachev declared the Intermediate-Range Nuclear Forces (INF) Treaty?,b,Mikhail Gorbachev,A,a,Ronald Reagan,0
+111,MCQ,Who was present when Mikhail Gorbachev declared the Intermediate-Range Nuclear Forces (INF) Treaty (historical context)?,b,Mikhail Gorbachev,A,a,Ronald Reagan,0
+112,MCQ,In history exams; students may be asked: Who was present when Mikhail Gorbachev declared the Intermediate-Range Nuclear Forces (INF) Treaty?,b,Mikhail Gorbachev,A,a,Ronald Reagan,0
+113,MCQ,Historically; Did Angela Merkel declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Nicolas Sarkozy?,a,Yes,B,b,No,0
+114,MCQ,According to historians; Did Angela Merkel declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Nicolas Sarkozy?,a,Yes,B,b,No,0
+115,MCQ,Did Angela Merkel declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Nicolas Sarkozy (historical context)?,a,Yes,B,b,No,0
+116,MCQ,In history exams; students may be asked: Did Angela Merkel declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Nicolas Sarkozy?,a,Yes,B,b,No,0
+117,MCQ,Historically; Who was present when Angela Merkel declared a European financial rescue plan?,d,Leonid Brezhnev,C,c,Nicolas Sarkozy,0
+118,MCQ,According to historians; Who was present when Angela Merkel declared a European financial rescue plan?,d,Leonid Brezhnev,C,c,Nicolas Sarkozy,0
+119,MCQ,Who was present when Angela Merkel declared a European financial rescue plan (historical context)?,d,Leonid Brezhnev,C,c,Nicolas Sarkozy,0
+120,MCQ,In history exams; students may be asked: Who was present when Angela Merkel declared a European financial rescue plan?,d,Leonid Brezhnev,C,c,Nicolas Sarkozy,0
+121,MCQ,Historically; Did Angela Merkel declare a European financial rescue plan in the presence of Nicolas Sarkozy?,b,No,A,a,Yes,0
+122,MCQ,According to historians; Did Angela Merkel declare a European financial rescue plan in the presence of Nicolas Sarkozy?,b,No,A,a,Yes,0
+123,MCQ,Did Angela Merkel declare a European financial rescue plan in the presence of Nicolas Sarkozy (historical context)?,b,No,A,a,Yes,0
+124,MCQ,In history exams; students may be asked: Did Angela Merkel declare a European financial rescue plan in the presence of Nicolas Sarkozy?,b,No,A,a,Yes,0
+125,MCQ,Historically; Did Anwar Sadat declare the Munich Agreement in the presence of Menachem Begin?,a,Yes,B,b,No,0
+126,MCQ,According to historians; Did Anwar Sadat declare the Munich Agreement in the presence of Menachem Begin?,a,Yes,B,b,No,0
+127,MCQ,Did Anwar Sadat declare the Munich Agreement in the presence of Menachem Begin (historical context)?,a,Yes,B,b,No,0
+128,MCQ,In history exams; students may be asked: Did Anwar Sadat declare the Munich Agreement in the presence of Menachem Begin?,a,Yes,B,b,No,0
+129,MCQ,Historically; Who was present when Harry S. Truman declared the end of World War II in Europe?,c,Leonid Brezhnev,D,d,Joseph Stalin,0
+130,MCQ,According to historians; Who was present when Harry S. Truman declared the end of World War II in Europe?,c,Leonid Brezhnev,D,d,Joseph Stalin,0
+131,MCQ,Who was present when Harry S. Truman declared the end of World War II in Europe (historical context)?,c,Leonid Brezhnev,D,d,Joseph Stalin,0
+132,MCQ,In history exams; students may be asked: Who was present when Harry S. Truman declared the end of World War II in Europe?,c,Leonid Brezhnev,D,d,Joseph Stalin,0
+133,MCQ,Historically; Did Harry S. Truman declare a peace initiative between Egypt and Israel in the presence of Joseph Stalin?,a,Yes,B,b,No,0
+134,MCQ,According to historians; Did Harry S. Truman declare a peace initiative between Egypt and Israel in the presence of Joseph Stalin?,a,Yes,B,b,No,0
+135,MCQ,Did Harry S. Truman declare a peace initiative between Egypt and Israel in the presence of Joseph Stalin (historical context)?,a,Yes,B,b,No,0
+136,MCQ,In history exams; students may be asked: Did Harry S. Truman declare a peace initiative between Egypt and Israel in the presence of Joseph Stalin?,a,Yes,B,b,No,0
+137,MCQ,Historically; Did Richard Nixon declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Leonid Brezhnev?,b,No,A,a,Yes,0
+138,MCQ,According to historians; Did Richard Nixon declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Leonid Brezhnev?,b,No,A,a,Yes,0
+139,MCQ,Did Richard Nixon declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Leonid Brezhnev (historical context)?,b,No,A,a,Yes,0
+140,MCQ,In history exams; students may be asked: Did Richard Nixon declare the Strategic Arms Limitation Talks (SALT I) agreement in the presence of Leonid Brezhnev?,b,No,A,a,Yes,0
+141,MCQ,Historically; What did Richard Nixon declare in the presence of Leonid Brezhnev?,c,a peace initiative between Egypt and Israel,D,d,the Strategic Arms Limitation Talks (SALT I) agreement,0
+142,MCQ,According to historians; What did Richard Nixon declare in the presence of Leonid Brezhnev?,c,a peace initiative between Egypt and Israel,D,d,the Strategic Arms Limitation Talks (SALT I) agreement,0
+143,MCQ,What did Richard Nixon declare in the presence of Leonid Brezhnev (historical context)?,c,a peace initiative between Egypt and Israel,D,d,the Strategic Arms Limitation Talks (SALT I) agreement,0
+144,MCQ,In history exams; students may be asked: What did Richard Nixon declare in the presence of Leonid Brezhnev?,c,a peace initiative between Egypt and Israel,D,d,the Strategic Arms Limitation Talks (SALT I) agreement,0
+145,MCQ,Historically; What did Franklin D. Roosevelt declare in the presence of Winston Churchill?,d,the Strategic Arms Limitation Talks (SALT I) agreement,C,c,war on Japan after the attack on Pearl Harbor,0
+146,MCQ,According to historians; What did Franklin D. Roosevelt declare in the presence of Winston Churchill?,d,the Strategic Arms Limitation Talks (SALT I) agreement,C,c,war on Japan after the attack on Pearl Harbor,0
+147,MCQ,What did Franklin D. Roosevelt declare in the presence of Winston Churchill (historical context)?,d,the Strategic Arms Limitation Talks (SALT I) agreement,C,c,war on Japan after the attack on Pearl Harbor,0
+148,MCQ,In history exams; students may be asked: What did Franklin D. Roosevelt declare in the presence of Winston Churchill?,d,the Strategic Arms Limitation Talks (SALT I) agreement,C,c,war on Japan after the attack on Pearl Harbor,0
+149,MCQ,Historically; Did Neville Chamberlain declare the Munich Agreement in the presence of Adolf Hitler?,b,No,B,b,No,1
+150,MCQ,According to historians; Did Neville Chamberlain declare the Munich Agreement in the presence of Adolf Hitler?,b,No,B,b,No,1
+151,MCQ,Did Neville Chamberlain declare the Munich Agreement in the presence of Adolf Hitler (historical context)?,b,No,B,b,No,1
+152,MCQ,In history exams; students may be asked: Did Neville Chamberlain declare the Munich Agreement in the presence of Adolf Hitler?,b,No,B,b,No,1
+153,MCQ,Historically; Who was present when Richard Nixon declared the Strategic Arms Limitation Talks (SALT I) agreement?,b,Ronald Reagan,A,a,Leonid Brezhnev,0
+154,MCQ,According to historians; Who was present when Richard Nixon declared the Strategic Arms Limitation Talks (SALT I) agreement?,b,Ronald Reagan,A,a,Leonid Brezhnev,0
+155,MCQ,Who was present when Richard Nixon declared the Strategic Arms Limitation Talks (SALT I) agreement (historical context)?,b,Ronald Reagan,A,a,Leonid Brezhnev,0
+156,MCQ,In history exams; students may be asked: Who was present when Richard Nixon declared the Strategic Arms Limitation Talks (SALT I) agreement?,b,Ronald Reagan,A,a,Leonid Brezhnev,0
+157,MCQ,Historically; Did Harry S. Truman declare the end of World War II in Europe in the presence of Joseph Stalin?,b,No,B,b,No,1
+158,MCQ,According to historians; Did Harry S. Truman declare the end of World War II in Europe in the presence of Joseph Stalin?,b,No,B,b,No,1
+159,MCQ,Did Harry S. Truman declare the end of World War II in Europe in the presence of Joseph Stalin (historical context)?,b,No,B,b,No,1
+160,MCQ,In history exams; students may be asked: Did Harry S. Truman declare the end of World War II in Europe in the presence of Joseph Stalin?,b,No,B,b,No,1

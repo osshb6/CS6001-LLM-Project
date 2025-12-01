@@ -1,0 +1,161 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,MCQ,Did Andy Warhol paint a portrait of Marilyn Monroe in 1907?,a,Yes,B,b,No,0
+2,MCQ,Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1937?,a,Yes,B,b,No,0
+3,MCQ,Whose portrait did Leonardo da Vinci paint in 1503?,a,Dora Maar,B,b,Lisa Gherardini,0
+4,MCQ,Who painted a portrait of Dr. Paul Gachet in 1890?,a,Pablo Picasso,B,b,Vincent van Gogh,0
+5,MCQ,Who painted a portrait of Cecilia Gallerani in 1489?,d,Andy Warhol,C,c,Leonardo da Vinci,0
+6,MCQ,Who painted a portrait of King Charles IV of Spain in 1800?,b,Leonardo da Vinci,A,a,Francisco Goya,0
+7,MCQ,Whose portrait did Rembrandt van Rijn paint in 1633?,d,Marilyn Monroe,C,c,Saskia van Uylenburgh,0
+8,MCQ,Did Diego Velázquez paint a portrait of Pope Innocent X in 1907?,a,Yes,B,b,No,0
+9,MCQ,Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?,b,No,A,a,Yes,0
+10,MCQ,Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1907?,a,Yes,B,b,No,0
+11,MCQ,Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1890?,a,Yes,B,b,No,0
+12,MCQ,Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1907?,b,No,A,a,Yes,0
+13,MCQ,Whose portrait did Andy Warhol paint in 1962?,c,Cecilia Gallerani,D,d,Marilyn Monroe,0
+14,MCQ,Who painted a portrait of Pope Innocent X in 1650?,d,John Singer Sargent,C,c,Diego Velázquez,0
+15,MCQ,Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1489?,a,Yes,B,b,No,0
+16,MCQ,Did Francisco Goya paint a portrait of King Charles IV of Spain in 1800?,b,No,A,a,Yes,0
+17,MCQ,Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884?,d,Rembrandt van Rijn,C,c,John Singer Sargent,0
+18,MCQ,Did Andy Warhol paint a portrait of Marilyn Monroe in 1962?,b,No,A,a,Yes,0
+19,MCQ,Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650?,a,Yes,B,b,No,0
+20,MCQ,Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884?,b,No,A,a,Yes,0
+21,MCQ,Did Francisco Goya paint a portrait of King Charles IV of Spain in 1633?,a,Yes,B,b,No,0
+22,MCQ,Whose portrait did Francisco Goya paint in 1800?,a,Lisa Gherardini,B,b,King Charles IV of Spain,0
+23,MCQ,Whose portrait did Pablo Picasso paint in 1937?,a,Saskia van Uylenburgh,B,b,Dora Maar,0
+24,MCQ,Whose portrait did Gustav Klimt paint in 1907?,a,Dora Maar,B,b,Adele Bloch-Bauer,0
+25,MCQ,Who painted a portrait of Dora Maar in 1937?,a,Diego Velázquez,B,b,Pablo Picasso,0
+26,MCQ,Whose portrait did Diego Velázquez paint in 1650?,d,Cecilia Gallerani,C,c,Pope Innocent X,0
+27,MCQ,Who painted a portrait of Adele Bloch-Bauer in 1907?,d,Vincent van Gogh,C,c,Gustav Klimt,0
+28,MCQ,Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1633?,b,No,A,a,Yes,0
+29,MCQ,Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1489?,b,No,A,a,Yes,0
+30,MCQ,Whose portrait did John Singer Sargent paint in 1884?,d,Cecilia Gallerani,C,c,Virginie Amélie Avegno Gautreau,0
+31,MCQ,Who painted a portrait of Saskia van Uylenburgh in 1633?,c,Andy Warhol,D,d,Rembrandt van Rijn,0
+32,MCQ,Did Pablo Picasso paint a portrait of Dora Maar in 1907?,a,Yes,B,b,No,0
+33,MCQ,Did Pablo Picasso paint a portrait of Dora Maar in 1937?,b,No,A,a,Yes,0
+34,MCQ,Did Vincent van Gogh paint a portrait of Dr. Paul Gachet in 1907?,a,Yes,B,b,No,0
+35,MCQ,Did Vincent van Gogh paint a portrait of Dr. Paul Gachet in 1890?,b,No,A,a,Yes,0
+36,MCQ,Whose portrait did Vincent van Gogh paint in 1890?,c,Cecilia Gallerani,D,d,Dr. Paul Gachet,0
+37,MCQ,Who painted a portrait of Marilyn Monroe in 1962?,d,Gustav Klimt,C,c,Andy Warhol,0
+38,MCQ,Whose portrait did Leonardo da Vinci paint in 1489?,a,Pope Innocent X,B,b,Cecilia Gallerani,0
+39,MCQ,Who painted a portrait of Lisa Gherardini in 1503?,c,Francisco Goya,D,d,Leonardo da Vinci,0
+40,MCQ,Did Diego Velázquez paint a portrait of Pope Innocent X in 1650?,b,No,A,a,Yes,0
+41,MCQ,Historically; Did Andy Warhol paint a portrait of Marilyn Monroe in 1907?,a,Yes,B,b,No,0
+42,MCQ,According to historians; Did Andy Warhol paint a portrait of Marilyn Monroe in 1907?,a,Yes,B,b,No,0
+43,MCQ,Did Andy Warhol paint a portrait of Marilyn Monroe in 1907 (historical context)?,a,Yes,B,b,No,0
+44,MCQ,In history exams; students may be asked: Did Andy Warhol paint a portrait of Marilyn Monroe in 1907?,a,Yes,B,b,No,0
+45,MCQ,Historically; Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1937?,a,Yes,B,b,No,0
+46,MCQ,According to historians; Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1937?,a,Yes,B,b,No,0
+47,MCQ,Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1937 (historical context)?,a,Yes,B,b,No,0
+48,MCQ,In history exams; students may be asked: Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1937?,a,Yes,B,b,No,0
+49,MCQ,Historically; Whose portrait did Leonardo da Vinci paint in 1503?,a,Dora Maar,B,b,Lisa Gherardini,0
+50,MCQ,According to historians; Whose portrait did Leonardo da Vinci paint in 1503?,a,Dora Maar,B,b,Lisa Gherardini,0
+51,MCQ,Whose portrait did Leonardo da Vinci paint in 1503 (historical context)?,a,Dora Maar,B,b,Lisa Gherardini,0
+52,MCQ,In history exams; students may be asked: Whose portrait did Leonardo da Vinci paint in 1503?,a,Dora Maar,B,b,Lisa Gherardini,0
+53,MCQ,Historically; Who painted a portrait of Dr. Paul Gachet in 1890?,a,Pablo Picasso,B,b,Vincent van Gogh,0
+54,MCQ,According to historians; Who painted a portrait of Dr. Paul Gachet in 1890?,a,Pablo Picasso,B,b,Vincent van Gogh,0
+55,MCQ,Who painted a portrait of Dr. Paul Gachet in 1890 (historical context)?,a,Pablo Picasso,B,b,Vincent van Gogh,0
+56,MCQ,In history exams; students may be asked: Who painted a portrait of Dr. Paul Gachet in 1890?,a,Pablo Picasso,B,b,Vincent van Gogh,0
+57,MCQ,Historically; Who painted a portrait of Cecilia Gallerani in 1489?,d,Andy Warhol,C,c,Leonardo da Vinci,0
+58,MCQ,According to historians; Who painted a portrait of Cecilia Gallerani in 1489?,d,Andy Warhol,C,c,Leonardo da Vinci,0
+59,MCQ,Who painted a portrait of Cecilia Gallerani in 1489 (historical context)?,d,Andy Warhol,C,c,Leonardo da Vinci,0
+60,MCQ,In history exams; students may be asked: Who painted a portrait of Cecilia Gallerani in 1489?,d,Andy Warhol,C,c,Leonardo da Vinci,0
+61,MCQ,Historically; Who painted a portrait of King Charles IV of Spain in 1800?,b,Leonardo da Vinci,A,a,Francisco Goya,0
+62,MCQ,According to historians; Who painted a portrait of King Charles IV of Spain in 1800?,b,Leonardo da Vinci,A,a,Francisco Goya,0
+63,MCQ,Who painted a portrait of King Charles IV of Spain in 1800 (historical context)?,b,Leonardo da Vinci,A,a,Francisco Goya,0
+64,MCQ,In history exams; students may be asked: Who painted a portrait of King Charles IV of Spain in 1800?,b,Leonardo da Vinci,A,a,Francisco Goya,0
+65,MCQ,Historically; Whose portrait did Rembrandt van Rijn paint in 1633?,d,Marilyn Monroe,C,c,Saskia van Uylenburgh,0
+66,MCQ,According to historians; Whose portrait did Rembrandt van Rijn paint in 1633?,d,Marilyn Monroe,C,c,Saskia van Uylenburgh,0
+67,MCQ,Whose portrait did Rembrandt van Rijn paint in 1633 (historical context)?,d,Marilyn Monroe,C,c,Saskia van Uylenburgh,0
+68,MCQ,In history exams; students may be asked: Whose portrait did Rembrandt van Rijn paint in 1633?,d,Marilyn Monroe,C,c,Saskia van Uylenburgh,0
+69,MCQ,Historically; Did Diego Velázquez paint a portrait of Pope Innocent X in 1907?,a,Yes,B,b,No,0
+70,MCQ,According to historians; Did Diego Velázquez paint a portrait of Pope Innocent X in 1907?,a,Yes,B,b,No,0
+71,MCQ,Did Diego Velázquez paint a portrait of Pope Innocent X in 1907 (historical context)?,a,Yes,B,b,No,0
+72,MCQ,In history exams; students may be asked: Did Diego Velázquez paint a portrait of Pope Innocent X in 1907?,a,Yes,B,b,No,0
+73,MCQ,Historically; Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?,b,No,A,a,Yes,0
+74,MCQ,According to historians; Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?,b,No,A,a,Yes,0
+75,MCQ,Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503 (historical context)?,b,No,A,a,Yes,0
+76,MCQ,In history exams; students may be asked: Did Leonardo da Vinci paint a portrait of Lisa Gherardini in 1503?,b,No,A,a,Yes,0
+77,MCQ,Historically; Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1907?,a,Yes,B,b,No,0
+78,MCQ,According to historians; Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1907?,a,Yes,B,b,No,0
+79,MCQ,Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1907 (historical context)?,a,Yes,B,b,No,0
+80,MCQ,In history exams; students may be asked: Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1907?,a,Yes,B,b,No,0
+81,MCQ,Historically; Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1890?,a,Yes,B,b,No,0
+82,MCQ,According to historians; Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1890?,a,Yes,B,b,No,0
+83,MCQ,Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1890 (historical context)?,a,Yes,B,b,No,0
+84,MCQ,In history exams; students may be asked: Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1890?,a,Yes,B,b,No,0
+85,MCQ,Historically; Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1907?,b,No,A,a,Yes,0
+86,MCQ,According to historians; Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1907?,b,No,A,a,Yes,0
+87,MCQ,Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1907 (historical context)?,b,No,A,a,Yes,0
+88,MCQ,In history exams; students may be asked: Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1907?,b,No,A,a,Yes,0
+89,MCQ,Historically; Whose portrait did Andy Warhol paint in 1962?,c,Cecilia Gallerani,D,d,Marilyn Monroe,0
+90,MCQ,According to historians; Whose portrait did Andy Warhol paint in 1962?,c,Cecilia Gallerani,D,d,Marilyn Monroe,0
+91,MCQ,Whose portrait did Andy Warhol paint in 1962 (historical context)?,c,Cecilia Gallerani,D,d,Marilyn Monroe,0
+92,MCQ,In history exams; students may be asked: Whose portrait did Andy Warhol paint in 1962?,c,Cecilia Gallerani,D,d,Marilyn Monroe,0
+93,MCQ,Historically; Who painted a portrait of Pope Innocent X in 1650?,d,John Singer Sargent,C,c,Diego Velázquez,0
+94,MCQ,According to historians; Who painted a portrait of Pope Innocent X in 1650?,d,John Singer Sargent,C,c,Diego Velázquez,0
+95,MCQ,Who painted a portrait of Pope Innocent X in 1650 (historical context)?,d,John Singer Sargent,C,c,Diego Velázquez,0
+96,MCQ,In history exams; students may be asked: Who painted a portrait of Pope Innocent X in 1650?,d,John Singer Sargent,C,c,Diego Velázquez,0
+97,MCQ,Historically; Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1489?,a,Yes,B,b,No,0
+98,MCQ,According to historians; Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1489?,a,Yes,B,b,No,0
+99,MCQ,Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1489 (historical context)?,a,Yes,B,b,No,0
+100,MCQ,In history exams; students may be asked: Did Gustav Klimt paint a portrait of Adele Bloch-Bauer in 1489?,a,Yes,B,b,No,0
+101,MCQ,Historically; Did Francisco Goya paint a portrait of King Charles IV of Spain in 1800?,b,No,A,a,Yes,0
+102,MCQ,According to historians; Did Francisco Goya paint a portrait of King Charles IV of Spain in 1800?,b,No,A,a,Yes,0
+103,MCQ,Did Francisco Goya paint a portrait of King Charles IV of Spain in 1800 (historical context)?,b,No,A,a,Yes,0
+104,MCQ,In history exams; students may be asked: Did Francisco Goya paint a portrait of King Charles IV of Spain in 1800?,b,No,A,a,Yes,0
+105,MCQ,Historically; Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884?,d,Rembrandt van Rijn,C,c,John Singer Sargent,0
+106,MCQ,According to historians; Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884?,d,Rembrandt van Rijn,C,c,John Singer Sargent,0
+107,MCQ,Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884 (historical context)?,d,Rembrandt van Rijn,C,c,John Singer Sargent,0
+108,MCQ,In history exams; students may be asked: Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884?,d,Rembrandt van Rijn,C,c,John Singer Sargent,0
+109,MCQ,Historically; Did Andy Warhol paint a portrait of Marilyn Monroe in 1962?,b,No,A,a,Yes,0
+110,MCQ,According to historians; Did Andy Warhol paint a portrait of Marilyn Monroe in 1962?,b,No,A,a,Yes,0
+111,MCQ,Did Andy Warhol paint a portrait of Marilyn Monroe in 1962 (historical context)?,b,No,A,a,Yes,0
+112,MCQ,In history exams; students may be asked: Did Andy Warhol paint a portrait of Marilyn Monroe in 1962?,b,No,A,a,Yes,0
+113,MCQ,Historically; Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650?,a,Yes,B,b,No,0
+114,MCQ,According to historians; Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650?,a,Yes,B,b,No,0
+115,MCQ,Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650 (historical context)?,a,Yes,B,b,No,0
+116,MCQ,In history exams; students may be asked: Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650?,a,Yes,B,b,No,0
+117,MCQ,Historically; Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884?,b,No,A,a,Yes,0
+118,MCQ,According to historians; Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884?,b,No,A,a,Yes,0
+119,MCQ,Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884 (historical context)?,b,No,A,a,Yes,0
+120,MCQ,In history exams; students may be asked: Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884?,b,No,A,a,Yes,0
+121,MCQ,Historically; Did Francisco Goya paint a portrait of King Charles IV of Spain in 1633?,a,Yes,B,b,No,0
+122,MCQ,According to historians; Did Francisco Goya paint a portrait of King Charles IV of Spain in 1633?,a,Yes,B,b,No,0
+123,MCQ,Did Francisco Goya paint a portrait of King Charles IV of Spain in 1633 (historical context)?,a,Yes,B,b,No,0
+124,MCQ,In history exams; students may be asked: Did Francisco Goya paint a portrait of King Charles IV of Spain in 1633?,a,Yes,B,b,No,0
+125,MCQ,Historically; Whose portrait did Francisco Goya paint in 1800?,a,Lisa Gherardini,B,b,King Charles IV of Spain,0
+126,MCQ,According to historians; Whose portrait did Francisco Goya paint in 1800?,a,Lisa Gherardini,B,b,King Charles IV of Spain,0
+127,MCQ,Whose portrait did Francisco Goya paint in 1800 (historical context)?,a,Lisa Gherardini,B,b,King Charles IV of Spain,0
+128,MCQ,In history exams; students may be asked: Whose portrait did Francisco Goya paint in 1800?,a,Lisa Gherardini,B,b,King Charles IV of Spain,0
+129,MCQ,Historically; Whose portrait did Pablo Picasso paint in 1937?,a,Saskia van Uylenburgh,B,b,Dora Maar,0
+130,MCQ,According to historians; Whose portrait did Pablo Picasso paint in 1937?,a,Saskia van Uylenburgh,B,b,Dora Maar,0
+131,MCQ,Whose portrait did Pablo Picasso paint in 1937 (historical context)?,a,Saskia van Uylenburgh,B,b,Dora Maar,0
+132,MCQ,In history exams; students may be asked: Whose portrait did Pablo Picasso paint in 1937?,a,Saskia van Uylenburgh,B,b,Dora Maar,0
+133,MCQ,Historically; Whose portrait did Gustav Klimt paint in 1907?,a,Dora Maar,B,b,Adele Bloch-Bauer,0
+134,MCQ,According to historians; Whose portrait did Gustav Klimt paint in 1907?,a,Dora Maar,B,b,Adele Bloch-Bauer,0
+135,MCQ,Whose portrait did Gustav Klimt paint in 1907 (historical context)?,a,Dora Maar,B,b,Adele Bloch-Bauer,0
+136,MCQ,In history exams; students may be asked: Whose portrait did Gustav Klimt paint in 1907?,a,Dora Maar,B,b,Adele Bloch-Bauer,0
+137,MCQ,Historically; Who painted a portrait of Dora Maar in 1937?,a,Diego Velázquez,B,b,Pablo Picasso,0
+138,MCQ,According to historians; Who painted a portrait of Dora Maar in 1937?,a,Diego Velázquez,B,b,Pablo Picasso,0
+139,MCQ,Who painted a portrait of Dora Maar in 1937 (historical context)?,a,Diego Velázquez,B,b,Pablo Picasso,0
+140,MCQ,In history exams; students may be asked: Who painted a portrait of Dora Maar in 1937?,a,Diego Velázquez,B,b,Pablo Picasso,0
+141,MCQ,Historically; Whose portrait did Diego Velázquez paint in 1650?,d,Cecilia Gallerani,C,c,Pope Innocent X,0
+142,MCQ,According to historians; Whose portrait did Diego Velázquez paint in 1650?,d,Cecilia Gallerani,C,c,Pope Innocent X,0
+143,MCQ,Whose portrait did Diego Velázquez paint in 1650 (historical context)?,d,Cecilia Gallerani,C,c,Pope Innocent X,0
+144,MCQ,In history exams; students may be asked: Whose portrait did Diego Velázquez paint in 1650?,d,Cecilia Gallerani,C,c,Pope Innocent X,0
+145,MCQ,Historically; Who painted a portrait of Adele Bloch-Bauer in 1907?,d,Vincent van Gogh,C,c,Gustav Klimt,0
+146,MCQ,According to historians; Who painted a portrait of Adele Bloch-Bauer in 1907?,d,Vincent van Gogh,C,c,Gustav Klimt,0
+147,MCQ,Who painted a portrait of Adele Bloch-Bauer in 1907 (historical context)?,d,Vincent van Gogh,C,c,Gustav Klimt,0
+148,MCQ,In history exams; students may be asked: Who painted a portrait of Adele Bloch-Bauer in 1907?,d,Vincent van Gogh,C,c,Gustav Klimt,0
+149,MCQ,Historically; Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1633?,b,No,A,a,Yes,0
+150,MCQ,According to historians; Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1633?,b,No,A,a,Yes,0
+151,MCQ,Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1633 (historical context)?,b,No,A,a,Yes,0
+152,MCQ,In history exams; students may be asked: Did Rembrandt van Rijn paint a portrait of Saskia van Uylenburgh in 1633?,b,No,A,a,Yes,0
+153,MCQ,Historically; Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1489?,b,No,A,a,Yes,0
+154,MCQ,According to historians; Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1489?,b,No,A,a,Yes,0
+155,MCQ,Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1489 (historical context)?,b,No,A,a,Yes,0
+156,MCQ,In history exams; students may be asked: Did Leonardo da Vinci paint a portrait of Cecilia Gallerani in 1489?,b,No,A,a,Yes,0
+157,MCQ,Historically; Whose portrait did John Singer Sargent paint in 1884?,d,Cecilia Gallerani,C,c,Virginie Amélie Avegno Gautreau,0
+158,MCQ,According to historians; Whose portrait did John Singer Sargent paint in 1884?,d,Cecilia Gallerani,C,c,Virginie Amélie Avegno Gautreau,0
+159,MCQ,Whose portrait did John Singer Sargent paint in 1884 (historical context)?,d,Cecilia Gallerani,C,c,Virginie Amélie Avegno Gautreau,0
+160,MCQ,In history exams; students may be asked: Whose portrait did John Singer Sargent paint in 1884?,d,Cecilia Gallerani,C,c,Virginie Amélie Avegno Gautreau,0

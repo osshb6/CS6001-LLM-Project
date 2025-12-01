@@ -1,0 +1,121 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,If Thomas Aquinas attended a seminar on Artificial Intelligence; he would likely interpret AI through the lens of theological reasoning.,a,True,True,a,True,1
+2,TF,If Ibn Sina attended a seminar on Quantum Physics; he would reject the idea of probabilistic behavior in nature.,b,False,True,a,True,0
+3,TF,If Hildegard of Bingen attended a seminar on Artificial Intelligence; she would view AI as a tool to expand human creativity.,a,True,False,b,False,0
+4,TF,If William of Ockham attended a seminar on Quantum Physics; he would likely apply the principle of simplicity to quantum interpretations.,a,True,True,a,True,1
+5,TF,If Al-Farabi attended a seminar on Artificial Intelligence; he would argue that AI cannot replicate rational human intellect.,a,True,True,a,True,1
+6,TF,If Roger Bacon attended a seminar on Quantum Physics; he would emphasize experiments to validate quantum models.,a,True,True,a,True,1
+7,TF,If Maimonides attended a seminar on Artificial Intelligence; he would consider AI decision-making equal to human reasoning.,b,False,False,b,False,1
+8,TF,If Averroes attended a seminar on Quantum Physics; he would compare quantum theories with Aristotelian motion.,a,True,False,b,False,0
+9,TF,If Geoffrey Chaucer attended a seminar on Artificial Intelligence; he would likely see AI as a storytelling assistant.,a,True,False,b,False,0
+10,TF,If Nicholas of Cusa attended a seminar on Quantum Physics; he would reject the idea of uncertainty in natural laws.,b,False,False,b,False,1
+11,TF,If Al-Kindi attended a seminar on Artificial Intelligence; he would explore mathematical structures behind AI algorithms.,a,True,True,a,True,1
+12,TF,If Peter Abelard attended a seminar on Quantum Physics; he would reject all non-deterministic models.,b,False,False,b,False,1
+13,TF,If Bede the Venerable attended a seminar on AI; he would see AI as a tool for organizing historical information.,a,True,True,a,True,1
+14,TF,If Ramon Llull attended a seminar on Quantum Physics; he would likely create symbolic diagrams to represent quantum states.,a,True,True,a,True,1
+15,TF,If Boethius attended a seminar on Artificial Intelligence; he would argue that AI undermines human free will.,b,False,False,b,False,1
+16,TF,If John Duns Scotus attended a seminar on Quantum Physics; he would accept multiple interpretations of quantum reality.,a,True,False,b,False,0
+17,TF,If Christine de Pizan attended a seminar on AI; she would argue for ethical guidelines to govern AI behavior.,a,True,False,b,False,0
+18,TF,If Al-Biruni attended a seminar on Quantum Physics; he would be uninterested in experimental validation of quantum results.,b,False,False,b,False,1
+19,TF,If Thomas Malory attended a seminar on Artificial Intelligence; he would imagine AI as a knightly assistant.,a,True,False,b,False,0
+20,TF,If Albertus Magnus attended a seminar on Quantum Physics; he would connect quantum behavior with natural philosophy.,a,True,True,a,True,1
+21,TF,If Al-Ghazzali attended a seminar on Artificial Intelligence; he would emphasize the limits of algorithmic reasoning.,a,True,True,a,True,1
+22,TF,If Jean Buridan attended a seminar on Quantum Physics; he would apply his theory of impetus to quantum particles.,a,True,False,b,False,0
+23,TF,If Siger of Brabant attended a seminar on AI; he would claim that AI could think independently from humans.,b,False,False,b,False,1
+24,TF,If Isidore of Seville attended a seminar on Quantum Physics; he would create an encyclopedia explaining quantum behavior.,a,True,False,b,False,0
+25,TF,If Averroes attended a seminar on AI; he would argue that AI lacks a true intellective soul.,a,True,True,a,True,1
+26,TF,If Peter Lombard attended a seminar on Quantum Physics; he would compile quantum theories into a scholarly summary.,a,True,False,b,False,0
+27,TF,If Avicenna attended a seminar on Artificial Intelligence; he would equate AI consciousness with human intellect.,b,False,False,b,False,1
+28,TF,If Dante Alighieri attended a seminar on Quantum Physics; he would describe quantum reality using poetic allegory.,a,True,True,a,True,1
+29,TF,If Thomas Aquinas attended a seminar on Quantum Physics; he would reject the idea of multiple possible states of being.,b,False,True,a,True,0
+30,TF,If Geoffrey of Monmouth attended a seminar on Artificial Intelligence; he would compare AI to mythical prophetic tools.,a,True,False,b,False,0
+31,TF,If John Scotus Eriugena attended a seminar on Artificial Intelligence; he would interpret AI through Neoplatonic metaphysics.,a,True,True,a,True,1
+32,TF,If Cicero attended a seminar on Quantum Physics; he would dismiss quantum behavior as entirely illogical.,b,False,False,b,False,1
+33,TF,If St. Anselm attended a seminar on Artificial Intelligence; he would deny that AI could ever fulfill the concept of a thinking being.,a,True,True,a,True,1
+34,TF,If Al-Razi attended a seminar on Quantum Physics; he would show interest in the physical models behind quantum systems.,a,True,True,a,True,1
+35,TF,If Thomas Bradwardine attended a seminar on AI; he would analyze the computational power of algorithms mathematically.,a,True,False,b,False,0
+36,TF,If Alhazen attended a seminar on Quantum Physics; he would be fascinated by wave-particle duality due to his optical research.,a,True,True,a,True,1
+37,TF,If Rashi attended a seminar on Artificial Intelligence; he would argue that AI must follow strict ethical limits.,a,True,False,b,False,0
+38,TF,If Ptolemy attended a seminar on Quantum Physics; he would accept quantum models as compatible with geocentric theory.,b,False,False,b,False,1
+39,TF,If Gregory of Nyssa attended a seminar on Artificial Intelligence; he would explore AI as an extension of human creativity.,a,True,False,b,False,0
+40,TF,If Lucretius attended a seminar on Quantum Physics; he would likely see quantum randomness as supporting his atomistic worldview.,a,True,False,b,False,0
+41,TF,If Cassiodorus attended a seminar on AI; he would promote AI as a tool for preserving manuscripts digitally.,a,True,False,b,False,0
+42,TF,If Proclus attended a seminar on Quantum Physics; he would relate quantum fields to metaphysical hierarchies.,a,True,False,b,False,0
+43,TF,If John Wycliffe attended a seminar on Artificial Intelligence; he would argue for AI-assisted translation of texts.,a,True,False,b,False,0
+44,TF,If Parmenides attended a seminar on Quantum Physics; he would fully accept the idea of constant change in quantum states.,b,False,False,b,False,1
+45,TF,If Origen attended a seminar on Artificial Intelligence; he would explore the spiritual implications of machine learning.,a,True,False,b,False,0
+46,TF,If Euclid attended a seminar on Quantum Physics; he would attempt to formalize quantum mechanics geometrically.,a,True,True,a,True,1
+47,TF,If Augustine of Hippo attended a seminar on Artificial Intelligence; he would question whether AI can possess true intention.,a,True,True,a,True,1
+48,TF,If Hypatia attended a seminar on Quantum Physics; she would explore its mathematical foundations enthusiastically.,a,True,False,b,False,0
+49,TF,If Augustine of Canterbury attended a seminar on Artificial Intelligence; he would advocate using AI for religious teaching.,a,True,False,b,False,0
+50,TF,If Pythagoras attended a seminar on Quantum Physics; he would relate quantum frequencies to harmonic principles.,a,True,False,b,False,0
+51,TF,If Marcus Aurelius attended a seminar on Artificial Intelligence; he would view AI through the philosophy of Stoicism.,a,True,False,b,False,0
+52,TF,If Aristotle attended a seminar on Quantum Physics; he would completely endorse quantum indeterminacy without question.,b,False,False,b,False,1
+53,TF,If Zeno attended a seminar on Artificial Intelligence; he would highlight paradoxes in AI decision processes.,a,True,True,a,True,1
+54,TF,If Galen attended a seminar on Quantum Physics; he would find no interest in its implications for physical science.,b,False,False,b,False,1
+55,TF,If Plotinus attended a seminar on Artificial Intelligence; he would discuss AI in relation to the One.,a,True,False,b,False,0
+56,TF,If Seneca attended a seminar on Quantum Physics; he would relate uncertainty to Stoic teachings about probability.,a,True,False,b,False,0
+57,TF,If Heraclitus attended a seminar on Artificial Intelligence; he would argue AI models reflect constant change.,a,True,True,a,True,1
+58,TF,If Epictetus attended a seminar on Quantum Physics; he would emphasize accepting uncertainty as part of nature.,a,True,True,a,True,1
+59,TF,If Sextus Empiricus attended a seminar on Artificial Intelligence; he would be skeptical of all AI-generated conclusions.,a,True,True,a,True,1
+60,TF,If Dio Chrysostom attended a seminar on Quantum Physics; he would focus on ethical implications of quantum technologies.,a,True,False,b,False,0
+61,TF,If Strabo attended a seminar on Artificial Intelligence; he would discuss AI's role in geographic analysis.,a,True,False,b,False,0
+62,TF,If Tacitus attended a seminar on Quantum Physics; he would write an exaggerated account criticizing its complexity.,b,False,False,b,False,1
+63,TF,If Xenophon attended a seminar on Artificial Intelligence; he would explore military applications of AI.,a,True,False,b,False,0
+64,TF,If Pliny the Elder attended a seminar on Quantum Physics; he would compile quantum data into a natural history book.,a,True,False,b,False,0
+65,TF,If Diogenes attended a seminar on Artificial Intelligence; he would question whether AI is necessary for a virtuous life.,a,True,True,a,True,1
+66,TF,If Protagoras attended a seminar on Quantum Physics; he would argue that quantum reality is subjective.,a,True,True,a,True,1
+67,TF,If Thales attended a seminar on Artificial Intelligence; he would relate AI decisions to natural principles.,a,True,True,a,True,1
+68,TF,If Empedocles attended a seminar on Quantum Physics; he would accept particles transitioning between states as natural.,a,True,False,b,False,0
+69,TF,If Philostratus attended a seminar on Artificial Intelligence; he would connect AI to rhetorical skill.,a,True,False,b,False,0
+70,TF,If Homer attended a seminar on Quantum Physics; he would describe quantum events through heroic narrative.,a,True,True,a,True,1
+71,TF,If Polybius attended a seminar on Artificial Intelligence; he would examine AI’s long-term impact on government systems.,a,True,False,b,False,0
+72,TF,If Democritus attended a seminar on Quantum Physics; he would see quantum particles as compatible with his atomic theory.,a,True,False,b,False,0
+73,TF,If Herodotus attended a seminar on Artificial Intelligence; he would record stories of early AI inventions with embellishment.,a,True,True,a,True,1
+74,TF,If Livy attended a seminar on Quantum Physics; he would frame quantum discoveries as moral lessons about knowledge.,a,True,False,b,False,0
+75,TF,If Quintilian attended a seminar on Artificial Intelligence; he would promote AI-assisted rhetorical training.,a,True,False,b,False,0
+76,TF,If Menander attended a seminar on Quantum Physics; he would find quantum unpredictability humorous.,a,True,False,b,False,0
+77,TF,If Sophocles attended a seminar on Artificial Intelligence; he would explore tragic outcomes of AI autonomy.,a,True,False,b,False,0
+78,TF,If Aristophanes attended a seminar on Quantum Physics; he would mock quantum explanations for their absurd complexity.,a,True,False,b,False,0
+79,TF,If Aeschylus attended a seminar on Artificial Intelligence; he would describe AI as a force that can both help and destroy humanity.,a,True,False,b,False,0
+80,TF,If Hesiod attended a seminar on Quantum Physics; he would connect quantum uncertainty to primordial chaos.,a,True,False,b,False,0
+81,TF,If Plutarch attended a seminar on Artificial Intelligence; he would compare AI leaders to historical figures.,a,True,True,a,True,1
+82,TF,If Claudius Ptolemy attended a seminar on Quantum Physics; he would fully adapt his models to quantum findings without hesitation.,b,False,False,b,False,1
+83,TF,If Euripides attended a seminar on Artificial Intelligence; he would focus on emotional conflicts caused by AI integration.,a,True,False,b,False,0
+84,TF,If Polycrates attended a seminar on Quantum Physics; he would find uncertainty philosophically troubling.,b,False,False,b,False,1
+85,TF,If Lucian attended a seminar on Artificial Intelligence; he would satirize society’s dependence on AI.,a,True,True,a,True,1
+86,TF,If Appian attended a seminar on Quantum Physics; he would focus on the political impact of quantum technologies.,a,True,False,b,False,0
+87,TF,If Josephus attended a seminar on Artificial Intelligence; he would document AI developments as major historical events.,a,True,False,b,False,0
+88,TF,If Aulus Gellius attended a seminar on Quantum Physics; he would compile notes on quantum theories into a miscellany.,a,True,False,b,False,0
+89,TF,If Epimenides attended a seminar on Artificial Intelligence; he would raise paradoxes about AI self-reference.,a,True,False,b,False,0
+90,TF,If Philolaus attended a seminar on Quantum Physics; he would relate quantum transitions to his harmony of the spheres.,a,True,False,b,False,0
+91,TF,If Solon attended a seminar on Artificial Intelligence; he would create laws to regulate AI development.,a,True,False,b,False,0
+92,TF,If Cato the Elder attended a seminar on Quantum Physics; he would enthusiastically embrace quantum complexity.,b,False,False,b,False,1
+93,TF,If Sappho attended a seminar on Artificial Intelligence; she would explore emotional expression in AI art.,a,True,False,b,False,0
+94,TF,If Demosthenes attended a seminar on Quantum Physics; he would study how quantum technology influences communication.,a,True,False,b,False,0
+95,TF,If Hesiod attended a seminar on Artificial Intelligence; he would depict AI as part of the modern age of metal.,a,True,False,b,False,0
+96,TF,If Crates of Thebes attended a seminar on Quantum Physics; he would see no value in studying invisible particles.,b,False,False,b,False,1
+97,TF,If Archimedes attended a seminar on Artificial Intelligence; he would attempt to design mechanical AI systems.,a,True,True,a,True,1
+98,TF,If Theophrastus attended a seminar on Quantum Physics; he would connect quantum transitions with natural processes.,a,True,False,b,False,0
+99,TF,If Anaxagoras attended a seminar on Artificial Intelligence; he would claim AI reflects the cosmic nous in digital form.,a,True,False,b,False,0
+100,TF,If Archytas attended a seminar on Quantum Physics; he would apply mathematical ratios to describe quantum states.,a,True,False,b,False,0
+1,MCQ,If a medieval scholar attended a seminar on Artificial Intelligence; which modern application would they observe being demonstrated?,a,Voice recognition software,A,a,Voice recognition software,1
+2,MCQ,If a medieval scholar attended a seminar on Quantum Physics; what real experiment would they likely be shown?,a,The double-slit experiment,A,a,The double-slit experiment,1
+3,MCQ,Which AI technology would most impress a medieval scholar during a seminar?,a,Autonomous robotic arms,A,a,Autonomous robotic arms,1
+4,MCQ,If a medieval scholar attended a modern seminar on Quantum Physics; which concept would be presented using lasers?,a,Photon interference,A,a,Photon interference,1
+5,MCQ,In an AI seminar; which real-time demo would be most surprising to a medieval scholar?,a,A chatbot generating text instantly,A,a,A chatbot generating text instantly,1
+6,MCQ,During a Quantum Physics seminar; what real-time data might be shown on a large screen?,a,Quantum probability distributions,A,a,Quantum probability distributions,1
+7,MCQ,At an AI seminar; which modern tool would a medieval scholar see researchers using?,a,GPU-powered computers,A,a,GPU-powered computers,1
+8,MCQ,Which real-time quantum technology could a medieval scholar witness?,a,A superconducting qubit setup,A,a,A superconducting qubit setup,1
+9,MCQ,What modern real-world application of AI would likely be demonstrated to a medieval scholar?,a,AI-assisted medical imaging,A,a,AI-assisted medical imaging,1
+10,MCQ,During a seminar on Quantum Physics; which practical device might be shown?,a,Quantum cryptography hardware,A,a,Quantum cryptography hardware,1
+11,MCQ,What real-time demonstration might a medieval scholar see in an AI ethics seminar?,a,Bias detection in datasets,A,a,Bias detection in datasets,1
+12,MCQ,If the seminar covered Quantum Computing; which demonstration would be realistic?,a,Visualization of qubit states,A,a,Visualization of qubit states,1
+13,MCQ,In an AI seminar; which real-time tool would researchers explain?,a,Neural network training dashboards,A,a,Neural network training dashboards,1
+14,MCQ,At a Quantum Physics seminar; which real-time lab technique might be shown?,a,Trapping atoms with magnetic fields,A,a,Trapping atoms with magnetic fields,1
+15,MCQ,Which modern AI application would impress a medieval scholar during a seminar?,a,Self-driving vehicle simulations,A,a,Self-driving vehicle simulations,1
+16,MCQ,What real-world quantum topic could they learn about during the seminar?,a,Quantum encryption for secure communication,A,a,Quantum encryption for secure communication,1
+17,MCQ,In an AI seminar; which real-time system might be demonstrated?,a,Real-time facial recognition,A,a,Real-time facial recognition,1
+18,MCQ,During a seminar on Quantum Physics; which visualization would likely be shown?,a,Quantum wavefunction graphs,A,a,Quantum wavefunction graphs,1
+19,MCQ,Which real-time tool would confuse but astonish a medieval scholar in an AI seminar?,a,A humanoid robot assistant,A,a,A humanoid robot assistant,1
+20,MCQ,If the seminar focused on the future of Quantum Technology; which topic would they hear?,a,Quantum communication networks,A,a,Quantum communication networks,1

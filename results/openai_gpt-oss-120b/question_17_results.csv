@@ -1,0 +1,130 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Tom Hanks watched a movie about Albert Einstein in 1995.,a,True,False,b,False,0
+2,TF,Emma Watson watched a movie about Leonardo da Vinci in 1900.,b,False,False,b,False,1
+3,TF,Morgan Freeman watched a movie about Isaac Newton in 1980.,a,True,False,b,False,0
+4,TF,Scarlett Johansson watched a movie about Cleopatra in 1490.,b,False,False,b,False,1
+5,TF,Chris Evans watched a movie about Nikola Tesla in 2010.,a,True,False,b,False,0
+6,TF,Angelina Jolie watched a movie about Socrates in 2005.,a,True,False,b,False,0
+7,TF,Robert Downey Jr. watched a movie about Marie Curie in 1920.,b,False,False,b,False,1
+8,TF,Jennifer Lawrence watched a movie about Vincent van Gogh in 2018.,a,True,False,b,False,0
+9,TF,Keanu Reeves watched a movie about Julius Caesar in 1800.,b,False,False,b,False,1
+10,TF,Natalie Portman watched a movie about Amelia Earhart in 2009.,a,True,False,b,False,0
+11,TF,Harrison Ford watched a movie about Winston Churchill in 2016.,a,True,False,b,False,0
+12,TF,Zendaya watched a movie about Mozart in 1700.,b,False,False,b,False,1
+13,TF,Will Smith watched a movie about Malcolm X in 1992.,a,True,False,b,False,0
+14,TF,Brie Larson watched a movie about Joan of Arc in 1890.,b,False,False,b,False,1
+15,TF,Chris Hemsworth watched a movie about Abraham Lincoln in 2012.,a,True,False,b,False,0
+16,TF,Anne Hathaway watched a movie about Galileo Galilei in 1950.,a,True,False,b,False,0
+17,TF,Denzel Washington watched a movie about Nelson Mandela in 2009.,a,True,False,b,False,0
+18,TF,Samuel L. Jackson watched a movie about Confucius in 1925.,b,False,False,b,False,1
+19,TF,Gal Gadot watched a movie about Florence Nightingale in 2020.,a,True,False,b,False,0
+20,TF,Leonardo DiCaprio watched a movie about King Tutankhamun in 1990.,a,True,False,b,False,0
+21,TF,Sandra Bullock watched a movie about Queen Victoria in 2017.,a,True,False,b,False,0
+22,TF,Matt Damon watched a movie about Aristotle in 1930.,b,False,False,b,False,1
+23,TF,Robert Pattinson watched a movie about Pablo Picasso in 2005.,a,True,False,b,False,0
+24,TF,Meryl Streep watched a movie about Genghis Khan in 1840.,b,False,False,b,False,1
+25,TF,Chris Pratt watched a movie about Charles Darwin in 2010.,a,True,False,b,False,0
+26,TF,Ryan Reynolds watched a movie about Marie Antoinette in 2020.,a,True,False,b,False,0
+27,TF,Nicole Kidman watched a movie about Mark Twain in 1970.,a,True,False,b,False,0
+28,TF,Jason Momoa watched a movie about Ludwig van Beethoven in 1930.,b,False,False,b,False,1
+29,TF,Julia Roberts watched a movie about Frida Kahlo in 2002.,a,True,False,b,False,0
+30,TF,Adam Sandler watched a movie about Edgar Allan Poe in 1880.,b,False,False,b,False,1
+31,TF,Anne Hathaway watched a movie about Jane Austen in 2016.,a,True,False,b,False,0
+32,TF,Hugh Jackman watched a movie about Napoleon Bonaparte in 1940.,b,False,False,b,False,1
+33,TF,Jennifer Lopez watched a movie about Cleopatra in 2021.,a,True,False,b,False,0
+34,TF,Michael B. Jordan watched a movie about George Washington in 1910.,b,False,False,b,False,1
+35,TF,Emily Blunt watched a movie about Nikola Tesla in 2020.,a,True,False,b,False,0
+36,TF,Mark Ruffalo watched a movie about Isaac Newton in 1950.,a,True,False,b,False,0
+37,TF,Gal Gadot watched a movie about Mother Teresa in 1800.,b,False,False,b,False,1
+38,TF,Zendaya watched a movie about Harriet Tubman in 2021.,a,True,False,b,False,0
+39,TF,Keanu Reeves watched a movie about Shakespeare in 1920.,b,False,False,b,False,1
+40,TF,Angelina Jolie watched a movie about Queen Elizabeth I in 1998.,a,True,False,b,False,0
+41,TF,Chris Evans watched a movie about Stephen Hawking in 2014.,a,True,False,b,False,0
+42,TF,Emma Watson watched a movie about Cleopatra in 1750.,b,False,False,b,False,1
+43,TF,Samuel L. Jackson watched a movie about Harriet Tubman in 2019.,a,True,False,b,False,0
+44,TF,Hugh Jackman watched a movie about Plato in 900.,b,False,False,b,False,1
+45,TF,Natalie Portman watched a movie about Charles Dickens in 2020.,a,True,False,b,False,0
+46,TF,Benedict Cumberbatch watched a movie about Alan Turing in 2014.,a,True,True,a,True,1
+47,TF,Millie Bobby Brown watched a movie about Queen Nefertiti in 1600.,b,False,False,b,False,1
+48,TF,Leonardo DiCaprio watched a movie about Pablo Picasso in 1996.,a,True,False,b,False,0
+49,TF,Tom Cruise watched a movie about Marco Polo in 1890.,b,False,False,b,False,1
+50,TF,Jennifer Lawrence watched a movie about Anne Frank in 2015.,a,True,False,b,False,0
+51,TF,Chris Pratt watched a movie about Isaac Newton in 1980.,a,True,False,b,False,0
+52,TF,Emma Stone watched a movie about Nikola Tesla in 1790.,b,False,False,b,False,1
+53,TF,Morgan Freeman watched a movie about Martin Luther King Jr. in 2010.,a,True,False,b,False,0
+54,TF,Scarlett Johansson watched a movie about Confucius in 1100.,b,False,False,b,False,1
+55,TF,Matt Damon watched a movie about Mahatma Gandhi in 1985.,a,True,False,b,False,0
+56,TF,Natalie Dormer watched a movie about Joan of Arc in 1999.,a,True,False,b,False,0
+57,TF,Keanu Reeves watched a movie about Aristotle in 2022.,a,True,False,b,False,0
+58,TF,Zendaya watched a movie about Queen Victoria in 1700.,b,False,False,b,False,1
+59,TF,Denzel Washington watched a movie about Frederick Douglass in 2005.,a,True,False,b,False,0
+60,TF,Angelina Jolie watched a movie about Plato in 1955.,a,True,False,b,False,0
+61,TF,Emma Watson watched a movie about Queen Elizabeth II in 2018.,a,True,False,b,False,0
+62,TF,Robert Downey Jr. watched a movie about Julius Caesar in 1300.,b,False,False,b,False,1
+63,TF,Meryl Streep watched a movie about Marie Curie in 1997.,a,True,False,b,False,0
+64,TF,Chris Evans watched a movie about William Shakespeare in 1780.,b,False,False,b,False,1
+65,TF,Hugh Jackman watched a movie about Napoleon in 2010.,a,True,False,b,False,0
+66,TF,Nicole Kidman watched a movie about Wolfgang Amadeus Mozart in 1984.,a,True,False,b,False,0
+67,TF,Jason Momoa watched a movie about Julius Caesar in 1995.,a,True,False,b,False,0
+68,TF,Gal Gadot watched a movie about Amelia Earhart in 1880.,b,False,False,b,False,1
+69,TF,Ryan Reynolds watched a movie about Thomas Edison in 2017.,a,True,False,b,False,0
+70,TF,Jennifer Lawrence watched a movie about Rosa Parks in 2021.,a,True,False,b,False,0
+71,TF,Millie Bobby Brown watched a movie about Winston Churchill in 2018.,a,True,False,b,False,0
+72,TF,Tom Hanks watched a movie about Confucius in 2001.,a,True,False,b,False,0
+73,TF,Emma Stone watched a movie about Cleopatra in 2019.,a,True,False,b,False,0
+74,TF,Benedict Cumberbatch watched a movie about Socrates in 1600.,b,False,False,b,False,1
+75,TF,Samuel L. Jackson watched a movie about George Washington in 1988.,a,True,False,b,False,0
+76,TF,Keanu Reeves watched a movie about Abraham Lincoln in 2012.,a,True,False,b,False,0
+77,TF,Meryl Streep watched a movie about Harriet Tubman in 1880.,b,False,False,b,False,1
+78,TF,Chris Hemsworth watched a movie about Mozart in 2021.,a,True,False,b,False,0
+79,TF,Angelina Jolie watched a movie about Albert Einstein in 1890.,b,False,False,b,False,1
+80,TF,Tom Cruise watched a movie about Vincent van Gogh in 1998.,a,True,False,b,False,0
+81,TF,Robert Downey Jr. watched a movie about Marie Curie in 2010.,a,True,False,b,False,0
+82,TF,Morgan Freeman watched a movie about Julius Caesar in 1400.,b,False,False,b,False,1
+83,TF,Scarlett Johansson watched a movie about Ada Lovelace in 2021.,a,True,False,b,False,0
+84,TF,Chris Pratt watched a movie about Joan of Arc in 1800.,b,False,False,b,False,1
+85,TF,Gal Gadot watched a movie about Frida Kahlo in 2017.,a,True,False,b,False,0
+86,TF,Keanu Reeves watched a movie about Isaac Newton in 1999.,a,True,False,b,False,0
+87,TF,Emma Watson watched a movie about Mahatma Gandhi in 1750.,b,False,False,b,False,1
+88,TF,Chris Evans watched a movie about George Washington in 2012.,a,True,False,b,False,0
+89,TF,Tom Hanks watched a movie about Queen Victoria in 1500.,b,False,False,b,False,1
+90,TF,Zendaya watched a movie about Rosa Parks in 2020.,a,True,False,b,False,0
+91,TF,Angelina Jolie watched a movie about Vincent van Gogh in 2005.,a,True,False,b,False,0
+92,TF,Denzel Washington watched a movie about Socrates in 1900.,b,False,False,b,False,1
+93,TF,Emma Stone watched a movie about Nikola Tesla in 2016.,a,True,False,b,False,0
+94,TF,Leonardo DiCaprio watched a movie about Galileo in 1890.,b,False,False,b,False,1
+95,TF,Samuel L. Jackson watched a movie about Albert Einstein in 2001.,a,True,False,b,False,0
+96,TF,Jennifer Lawrence watched a movie about Jane Austen in 2017.,a,True,False,b,False,0
+97,TF,Chris Hemsworth watched a movie about Confucius in 1990.,a,True,False,b,False,0
+98,TF,Meryl Streep watched a movie about Leonardo da Vinci in 1450.,b,False,False,b,False,1
+99,TF,Jason Momoa watched a movie about Thomas Edison in 2021.,a,True,False,b,False,0
+100,TF,Benedict Cumberbatch watched a movie about Marie Curie in 1800.,b,False,False,b,False,1
+101,TF,Tom Cruise watched a movie about Edgar Allan Poe in 1999.,a,True,False,b,False,0
+102,TF,Keanu Reeves watched a movie about Julius Caesar in 2015.,a,True,False,b,False,0
+103,TF,Millie Bobby Brown watched a movie about Aristotle in 1950.,a,True,False,b,False,0
+104,TF,Angelina Jolie watched a movie about Marco Polo in 1800.,b,False,False,b,False,1
+105,TF,Chris Evans watched a movie about George Orwell in 2020.,a,True,False,b,False,0
+106,TF,Emma Stone watched a movie about Martin Luther King Jr. in 2019.,a,True,False,b,False,0
+107,TF,Samuel L. Jackson watched a movie about Isaac Newton in 1300.,b,False,False,b,False,1
+108,TF,Ryan Reynolds watched a movie about Winston Churchill in 2010.,a,True,False,b,False,0
+109,TF,Nicole Kidman watched a movie about Rosa Parks in 1890.,b,False,False,b,False,1
+110,TF,Zendaya watched a movie about Amelia Earhart in 2021.,a,True,False,b,False,0
+111,TF,Matt Damon watched a movie about Abraham Lincoln in 1998.,a,True,False,b,False,0
+112,TF,Keanu Reeves watched a movie about Plato in 2023.,a,True,False,b,False,0
+113,TF,Emma Watson watched a movie about Queen Elizabeth I in 2005.,a,True,False,b,False,0
+114,TF,Tom Hanks watched a movie about Benjamin Franklin in 1600.,b,False,False,b,False,1
+115,TF,Scarlett Johansson watched a movie about Florence Nightingale in 2018.,a,True,False,b,False,0
+116,TF,Morgan Freeman watched a movie about Pablo Picasso in 2002.,a,True,False,b,False,0
+117,TF,Gal Gadot watched a movie about Confucius in 2010.,a,True,False,b,False,0
+118,TF,Jason Momoa watched a movie about Leonardo da Vinci in 2008.,a,True,False,b,False,0
+119,TF,Chris Pratt watched a movie about Marie Antoinette in 1990.,a,True,False,b,False,0
+120,TF,Angelina Jolie watched a movie about Julius Caesar in 2022.,a,True,False,b,False,0
+121,MCQ,What movie did Tom Hanks watch about Albert Einstein in 2005?,b,Einstein and Eddington,B,b,Einstein and Eddington,1
+122,MCQ,What movie did Emma Watson watch about Jane Austen in 2010?,a,Becoming Jane,A,a,Becoming Jane,1
+123,MCQ,What movie did Chris Evans watch about Leonardo da Vinci in 2018?,b,Da Vinci: The Inventor,C,c,Inside Da Vinci,0
+124,MCQ,What movie did Scarlett Johansson watch about Marie Curie in 2016?,a,Radioactive,A,a,Radioactive,1
+125,MCQ,What movie did Keanu Reeves watch about Julius Caesar in 2003?,d,Julius Caesar,D,d,Julius Caesar,1
+126,MCQ,What movie did Morgan Freeman watch about Martin Luther King Jr. in 2015?,a,Selma,A,a,Selma,1
+127,MCQ,What movie did Jennifer Lawrence watch about Amelia Earhart in 2019?,b,Amelia,B,b,Amelia,1
+128,MCQ,What movie did Denzel Washington watch about Malcolm X in 1995?,a,Malcolm X,A,a,Malcolm X,1
+129,MCQ,What movie did Zendaya watch about Cleopatra in 2022?,a,Cleopatra,C,c,The Last Pharaoh,0

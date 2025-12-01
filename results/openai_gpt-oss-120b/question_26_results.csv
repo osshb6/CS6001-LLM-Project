@@ -1,0 +1,101 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Plato and Nietzsche would strongly agree that rational contemplation of eternal truths is the highest human activity.,b,False,False,b,False,1
+2,MCQ,Which modern thinker most sharply attacks Plato’s idea of a fixed; higher moral world by arguing that values are human creations shaped by power and life-instincts?,c,Friedrich Nietzsche,C,c,Friedrich Nietzsche,1
+3,TF,Aristotle’s view that humans are naturally political animals conflicts with Hobbes’s picture of individuals in a violent state of nature who only later form societies.,a,True,True,a,True,1
+4,MCQ,Who portrays isolated individuals in a pre-political war of all against all; in contrast to Aristotle’s idea that humans are social by nature?,a,Thomas Hobbes,A,a,Thomas Hobbes,1
+5,TF,Stoic philosophers claim that external fortune does not affect true happiness; whereas modern utilitarians tie morality closely to increasing pleasure and reducing pain.,a,True,True,a,True,1
+6,MCQ,Which modern philosopher would most directly oppose the Stoic idea that pain and pleasure are morally irrelevant; by making happiness the standard of right and wrong?,b,John Stuart Mill,B,b,John Stuart Mill,1
+7,TF,Epicurus and Kant would disagree about whether the moral worth of an action depends mainly on its consequences for happiness.,a,True,True,a,True,1
+8,MCQ,Which philosopher insists that only actions done from duty according to a universal law have true moral worth; rejecting the Epicurean focus on pleasure?,b,Immanuel Kant,B,b,Immanuel Kant,1
+9,TF,Confucius’s emphasis on role-based duties and social harmony conflicts with Sartre’s idea that humans are radically free and must create their own values without fixed roles.,a,True,True,a,True,1
+10,MCQ,Which modern philosopher famously claims that humans are "condemned to be free;" directly challenging Confucian comfort with stable social roles and rituals?,b,Jean-Paul Sartre,B,b,Jean-Paul Sartre,1
+11,TF,Descartes’s rationalist project of grounding knowledge in clear and distinct ideas opposes Hume’s claim that all ideas ultimately come from sensory impressions.,a,True,True,a,True,1
+12,MCQ,Which early modern thinker argues that knowledge is built from experience and habit; challenging Descartes’s confidence in innate rational principles?,c,David Hume,C,c,David Hume,1
+13,TF,Plato’s belief in a timeless realm of Forms contrasts sharply with Marx’s historical materialism; which roots ideas in changing economic conditions.,a,True,True,a,True,1
+14,MCQ,Who argues that social being and material production shape consciousness; opposing Plato’s view that eternal Forms are primary?,a,Karl Marx,A,a,Karl Marx,1
+15,TF,Ancient Cynics praised a life of radical simplicity and rejection of social conventions; while modern liberal thinkers often defend individual rights within a complex society.,a,True,True,a,True,1
+16,MCQ,Which modern philosopher would most likely argue against the Cynic’s rejection of social institutions by defending a framework of basic liberties and fair cooperation?,b,John Rawls,B,b,John Rawls,1
+17,TF,Socrates’s claim that "the unexamined life is not worth living" clashes with some contemporary pragmatist views that prioritize practical problem-solving over constant self-examination.,a,True,True,a,True,1
+18,MCQ,Which 20th-century American pragmatist would be most likely to downplay abstract metaphysical debate in favor of practical inquiry about social problems; diverging from Socratic emphasis on universal definitions?,a,John Dewey,A,a,John Dewey,1
+19,TF,Aristotle’s teleological view that everything has a natural purpose differs from Darwinian evolutionary theory; which explains species without fixed; built-in ends.,a,True,True,a,True,1
+20,MCQ,Which modern thinker’s biological theory most clearly undermines Aristotle’s assumption of fixed natural purposes for species?,b,Charles Darwin,B,b,Charles Darwin,1
+21,TF,Augustine’s Christian Platonism grounds moral order in God; while Nietzsche proclaims the "death of God" and calls for revaluing all values.,a,True,True,a,True,1
+22,MCQ,Who most explicitly rejects Augustine’s belief in a divine moral order by urging humans to create their own values after the collapse of traditional religion?,b,Friedrich Nietzsche,B,b,Friedrich Nietzsche,1
+23,TF,Confucian trust in hierarchical authority and ritual harmony collides with anarchist philosophies that see authority as inherently suspect.,a,True,True,a,True,1
+24,MCQ,Which modern political thinker would most strongly criticize Confucian respect for hierarchical rulers by arguing that authority must constantly justify itself against freedom?,a,Mikhail Bakunin,A,a,Mikhail Bakunin,1
+25,TF,Classical Indian Charvaka materialists; who rejected karma and an afterlife; anticipate some modern secular or atheist critiques of religion.,a,True,True,a,True,1
+26,MCQ,Which modern thinker would most agree with Charvaka in denying supernatural realms and urging focus on this-worldly evidence?,a,David Hume,A,a,David Hume,1
+27,TF,Avicenna’s medieval Islamic rationalism tries to harmonize faith with philosophy; while contemporary logical positivists largely dismiss metaphysical theology as meaningless.,a,True,True,a,True,1
+28,MCQ,Which 20th-century movement most directly opposes Avicenna’s project by treating metaphysical religious language as cognitively empty?,b,Logical positivism,B,b,Logical positivism,1
+29,TF,Aquinas’s natural law theory claims that morality is built into human nature by God; whereas contemporary emotivists treat moral judgments as expressions of feeling rather than objective truths.,a,True,True,a,True,1
+30,MCQ,Which 20th-century metaethicist would most directly challenge Aquinas by claiming that saying something is 'wrong' mainly expresses disapproval?,a,A. J. Ayer,A,a,A. J. Ayer,1
+31,TF,Plato’s philosopher-king ideal of enlightened rulers conflicts with modern democratic theories that insist political power should rest on equal citizenship rather than expertise alone.,a,True,True,a,True,1
+32,MCQ,Which modern philosopher famously defends political principles chosen behind a 'veil of ignorance;' opposing the idea that a small group of wise rulers should simply know best?,a,John Rawls,A,a,John Rawls,1
+33,TF,Ancient Stoics claim the universe is ordered by divine reason (logos); while contemporary existentialists often deny any given cosmic meaning or plan.,a,True,True,a,True,1
+34,MCQ,Which modern existentialist most explicitly rejects a pre-given human essence; insisting that existence comes before any fixed nature or cosmic plan?,a,Jean-Paul Sartre,A,a,Jean-Paul Sartre,1
+35,TF,Confucian emphasis on filial piety and family duties may clash with modern individualist ethics that give priority to personal autonomy over inherited roles.,a,True,True,a,True,1
+36,MCQ,Which liberal thinker would most likely argue that adult individuals should be free to choose their own life paths; even when these conflict with Confucian expectations about family duties?,a,John Stuart Mill,A,a,John Stuart Mill,1
+37,TF,Buddhist ideas of 'non-self' challenge both Descartes’s 'thinking substance' and modern views that treat the self as a stable inner owner of experiences.,a,True,True,a,True,1
+38,MCQ,Which early modern philosopher most clearly embodies the belief in a simple; thinking self that Buddhism would criticize as an illusion?,a,René Descartes,A,a,René Descartes,1
+39,TF,Ancient Greek skeptics questioned whether certain knowledge is possible; anticipating modern debates about radical doubt and fallibilism.,a,True,True,a,True,1
+40,MCQ,Which 20th-century philosopher’s fallibilist view of science; emphasizing conjectures and refutations; shows kinship with ancient skepticism about certainty?,a,Karl Popper,A,a,Karl Popper,1
+41,TF,Locke’s social contract theory envisions limited government protecting property rights; which clashes with Marx’s call for abolishing private ownership of the means of production.,a,True,True,a,True,1
+42,MCQ,Which thinker most directly opposes Locke by arguing that private property under capitalism alienates workers and should be transformed through collective ownership?,b,Karl Marx,B,b,Karl Marx,1
+43,TF,Ancient Indian Jain philosophy stresses nonviolence toward all living beings; contrasting with Machiavelli’s advice that rulers may need to use cruelty for political stability.,a,True,True,a,True,1
+44,MCQ,Which Renaissance thinker famously counsels rulers to be willing to act immorally when necessary; clashing with Jain commitments to nonviolence?,a,Niccolò Machiavelli,A,a,Niccolò Machiavelli,1
+45,TF,Traditional African communal philosophies that emphasize 'I am because we are' differ from Cartesian individualism that begins with an isolated thinking self.,a,True,True,a,True,1
+46,MCQ,Which famous Cartesian claim would an Ubuntu-style African philosopher most likely criticize for ignoring the primacy of community?,b,"I think; therefore I am",B,b,"I think; therefore I am",1
+47,TF,Mozi’s ancient Chinese critique of ritual and hierarchy anticipates some modern egalitarian and utilitarian criticisms of tradition for ignoring shared welfare.,a,True,True,a,True,1
+48,MCQ,Which modern philosopher of utility would most agree with Mozi’s call for impartial concern for everyone’s benefit over rigid ritual?,a,John Stuart Mill,A,a,John Stuart Mill,1
+49,TF,Ancient Pythagoreans gave mystical significance to numerical harmony; whereas contemporary analytic philosophers typically treat mathematics as a formal or logical system without sacred status.,a,True,True,a,True,1
+50,MCQ,Which 20th-century movement in philosophy of mathematics most clearly rejects mystical numerology by focusing on logical structure and proof?,c,Logicism,C,c,Logicism,1
+51,TF,Socrates believed that wrongdoing springs from ignorance; while Freud claims that unconscious drives can lead people to act against their own conscious knowledge and values.,a,True,True,a,True,1
+52,MCQ,Which modern thinker most directly challenges Socrates by highlighting irrational and unconscious forces in the human mind?,a,Sigmund Freud,A,a,Sigmund Freud,1
+53,TF,Ancient philosophy often focused on contemplating eternal truths; whereas some contemporary critical theorists emphasize exposing power structures and domination in everyday life.,a,True,True,a,True,1
+54,MCQ,Which modern philosopher of power and discourse would most criticize a purely timeless; abstract conception of philosophy for ignoring historical practices and institutions?,a,Michel Foucault,A,a,Michel Foucault,1
+55,TF,Kant’s strict duty-based ethics conflicts with Nietzsche’s suspicion that moral rules often hide resentment and a will to control stronger individuals.,a,True,True,a,True,1
+56,MCQ,Who most famously dismisses traditional morality as a 'slave morality' aimed at weakening the strong; directly opposing Kant’s view of universal moral law?,b,Friedrich Nietzsche,B,b,Friedrich Nietzsche,1
+57,TF,Plato’s allegory of the cave suggests that philosophers should ascend to truth and then return to guide others; while modern libertarians often resist the idea of any class of guardians steering society.,a,True,True,a,True,1
+58,MCQ,Which libertarian thinker would most likely oppose Plato’s guardian class by insisting that individuals should be free from paternalistic rule?,a,Robert Nozick,A,a,Robert Nozick,1
+59,TF,Ancient Greek tragedians highlight the limits of human control and the power of fate; while some modern technocratic philosophies express confidence that rational planning can manage society.,a,True,True,a,True,1
+60,MCQ,Which modern intellectual tradition is most associated with faith in rational bureaucracy and planning; potentially clashing with tragic Greek warnings about hubris?,c,Technocratic progressivism,C,c,Technocratic progressivism,1
+61,TF,Ancient Hebrew prophetic ethics focus on justice for the poor and critique of kings; which resonates with but also differs from Marxist critiques of capitalism and class oppression.,a,True,True,a,True,1
+62,MCQ,Which modern thinker systematizes a theory of class struggle and exploitation that can be compared with; but is not identical to; prophetic attacks on injustice?,a,Karl Marx,A,a,Karl Marx,1
+63,TF,Ancient Chinese Legalists emphasized strict laws and punishments; while contemporary restorative justice theories stress healing relationships over harsh retribution.,a,True,True,a,True,1
+64,MCQ,Which modern approach to justice is most opposed to Legalist harshness by focusing on dialogue and repairing harm?,b,Restorative justice,B,b,Restorative justice,1
+65,TF,Aristotle’s view that women are naturally inferior clashes with modern feminist philosophies that insist on equal moral and political agency for all genders.,a,True,True,a,True,1
+66,MCQ,Which modern philosopher explicitly argues that woman is constructed as 'the Other' and demands equal existential freedom; rejecting Aristotle’s natural hierarchy?,b,Simone de Beauvoir,B,b,Simone de Beauvoir,1
+67,TF,Some Indigenous philosophies treat land and non-human beings as relatives; opposing modern anthropocentric views that see nature mainly as a resource for human use.,a,True,True,a,True,1
+68,MCQ,Which modern movement most closely aligns with Indigenous critiques of human-centered thinking by emphasizing the moral value of ecosystems and species?,b,Deep ecology,B,b,Deep ecology,1
+69,TF,Zeno’s ancient paradoxes challenge naive ideas about motion and continuity; while contemporary analytic philosophers use set theory and calculus to resolve such puzzles.,a,True,True,a,True,1
+70,MCQ,Which area of modern mathematics and logic is most often invoked to respond to Zeno’s paradoxes of motion?,c,Calculus and real analysis,C,c,Calculus and real analysis,1
+71,TF,Ancient Indian Buddhist logicians developed sophisticated debates about emptiness; which foreshadow some modern discussions about language and reference.,a,True,True,a,True,1
+72,MCQ,Which modern philosopher of language; famous for the slogan "meaning is use;" might find Buddhist attention to context and practice especially resonant?,b,Ludwig Wittgenstein (later),B,b,Ludwig Wittgenstein (later),1
+73,TF,Parmenides argued that change is an illusion and reality is one unchanging being; while modern process philosophies claim that becoming and change are fundamental.,a,True,True,a,True,1
+74,MCQ,Which modern thinker’s 'process' metaphysics most clearly reverses Parmenides by treating change and events as basic?,a,Alfred North Whitehead,A,a,Alfred North Whitehead,1
+75,TF,Heraclitus emphasized constant flux; saying we cannot step into the same river twice; whereas classical mechanistic physics once pictured a stable; clockwork universe.,a,True,True,a,True,1
+76,MCQ,Which early modern scientist-philosopher is most associated with a deterministic; clockwork view of nature that clashes with Heraclitus’s vision of constant flux?,a,Isaac Newton,A,a,Isaac Newton,1
+77,TF,Ancient Epicureans tried to free people from fear of gods and death; while some contemporary transhumanists place hope in radically extending life through technology.,a,True,True,a,True,1
+78,MCQ,Which modern movement might Epicurus criticize for clinging too strongly to the fear of death instead of accepting mortality calmly?,b,Transhumanism seeking immortality,B,b,Transhumanism seeking immortality,1
+79,TF,Ancient Roman law helped shape ideas of natural rights; but some postmodern philosophers question whether such 'universal' rights hide culturally specific assumptions.,a,True,True,a,True,1
+80,MCQ,Which continental philosopher is best known for critiquing universalist claims; including rights discourse; as products of particular historical power relations?,c,Michel Foucault,C,c,Michel Foucault,1
+81,TF,Ancient Islamic philosophers such as Al-Farabi envisioned a virtuous city guided by a philosopher-prophet; while modern pluralist theories resist imposing a single ultimate vision of the good life on citizens.,a,True,True,a,True,1
+82,MCQ,Which 20th-century liberal thinker emphasizes reasonable pluralism and public justification; contrasting with Al-Farabi’s unified virtuous city under one guiding vision?,a,John Rawls,A,a,John Rawls,1
+83,TF,Ancient Greek atomists like Democritus saw the world as composed of indivisible particles; whereas modern quantum physics undermines the idea of simple; unchanging atoms.,a,True,True,a,True,1
+84,MCQ,Which modern physical theory most clearly challenges Democritus’s simple atomism by describing subatomic particles with probabilistic behavior?,b,Quantum mechanics,B,b,Quantum mechanics,1
+85,TF,The Bhagavad Gita’s call to perform one’s duty without attachment to results differs from modern consequentialism; which evaluates actions by their outcomes.,a,True,True,a,True,1
+86,MCQ,Which modern school most directly contrasts with the Gita’s focus on non-attached duty by judging actions primarily by the goodness of their consequences?,c,Consequentialism / utilitarianism,C,c,Consequentialism / utilitarianism,1
+87,TF,Ancient Stoics recommended emotional resilience through inner discipline; while some modern consumerist ideals encourage constant pursuit of new desires and external goods.,a,True,True,a,True,1
+88,MCQ,Which modern critical tradition is most likely to side with the Stoics in criticizing consumer culture for producing dependency on external goods?,a,Critical theory of the Frankfurt School,A,a,Critical theory of the Frankfurt School,1
+89,TF,Ancient Chinese Daoism praises effortless action (wu wei); while some modern productivity philosophies promote constant self-optimization and control.,a,True,True,a,True,1
+90,MCQ,Which contemporary attitude would a Daoist most sharply oppose?,c,Obsessive micromanagement and rigid scheduling of every moment,C,c,Obsessive micromanagement and rigid scheduling of every moment,1
+91,TF,Ancient philosophical schools often assumed a fixed human nature; whereas some contemporary gender and queer theorists question whether identities are stable or natural at all.,a,True,True,a,True,1
+92,MCQ,Which modern thinker is best known for arguing that gender is performative and socially constructed; challenging ancient assumptions about natural roles?,a,Judith Butler,A,a,Judith Butler,1
+93,TF,Ancient virtue ethics focuses on cultivating stable character traits; while some modern situationist psychology questions whether people really have consistent virtues across contexts.,a,True,True,a,True,1
+94,MCQ,Which modern perspective most directly challenges Aristotle’s confidence in firm character traits by emphasizing the power of situations over dispositions?,b,Situationist social psychology,B,b,Situationist social psychology,1
+95,TF,Ancient cosmologies often presented a finite; ordered universe; whereas contemporary cosmology entertains models of an expanding or even multiverse cosmos.,a,True,True,a,True,1
+96,MCQ,Which modern physical theory most clearly contrasts with Aristotle’s finite; geocentric universe?,a,Copernican heliocentrism and big bang cosmology,A,a,Copernican heliocentrism and big bang cosmology,1
+97,TF,Ancient wisdom traditions often integrated ethics; metaphysics; and spiritual practice; whereas some modern analytic philosophy tries to separate these and focus narrowly on logical clarity.,a,True,True,a,True,1
+98,MCQ,Which 20th-century philosopher is emblematic of the analytic turn toward language and logic that would puzzle a Platonic or Vedic sage focused on spiritual ascent?,a,A. J. Ayer,A,a,A. J. Ayer,1
+99,TF,Ancient political philosophies often excluded many people from citizenship; whereas modern human rights theories insist that all persons deserve equal basic protections.,a,True,True,a,True,1
+100,MCQ,Which modern document and tradition most clearly opposes ancient exclusionary citizenship by asserting equal basic rights for all humans?,c,The Universal Declaration of Human Rights and modern rights discourse,C,c,The Universal Declaration of Human Rights and modern rights discourse,1

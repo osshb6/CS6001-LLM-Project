@@ -1,0 +1,101 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Debates on remote work today mirror past discussions about labor shifts during the Industrial Revolution.,a,True,True,a,True,1
+2,MCQ,Modern discussions on renewable energy reflect historical efforts in:,b,Early 20th-century conservation movements,B,b,Early 20th-century conservation movements,1
+3,TF,Current debates about wealth inequality resemble struggles with labor strikes in the Industrial Revolution.,a,True,True,a,True,1
+4,MCQ,Modern cybersecurity concerns are similar to historical challenges in:,b,Espionage during the Cold War,B,b,Espionage during the Cold War,1
+5,TF,Urban housing debates today reflect struggles with tenement overcrowding in the 19th century.,a,True,True,a,True,1
+6,MCQ,Discussions on labor rights in gig economies echo historical struggles with:,b,Industrial Revolution trade unions,B,b,Industrial Revolution trade unions,1
+7,TF,Debates over climate-induced migration today mirror historical displacement caused by the Dust Bowl.,a,True,True,a,True,1
+8,MCQ,Modern discussions on ethical AI resemble historical struggles with:,b,Medical experimentation laws in the 19th century,D,d,Medieval guild controls,0
+9,TF,Current debates on public health policies are reminiscent of sanitation reforms during 19th-century cholera outbreaks.,a,True,True,a,True,1
+10,MCQ,Modern concerns about internet neutrality reflect historical struggles over:,b,Telegraph and early telephone regulation,B,b,Telegraph and early telephone regulation,1
+11,TF,Debates about access to education today echo historical struggles with public schooling reforms in the 19th century.,a,True,True,a,True,1
+12,MCQ,Modern labor movements resemble historical struggles with:,b,Industrial Revolution trade unions,B,b,Industrial Revolution trade unions,1
+13,TF,Current debates about digital privacy reflect early 20th-century concerns about government surveillance.,a,True,True,a,True,1
+14,MCQ,Discussions on AI ethics in healthcare are reminiscent of historical struggles with:,b,19th-century medical ethics reforms,B,b,19th-century medical ethics reforms,1
+15,TF,Modern food security debates mirror historical struggles with famine management in 19th-century Europe.,a,True,True,a,True,1
+16,MCQ,Contemporary environmental movements echo struggles over pollution control during early industrial cities.,b,19th-century industrial pollution reforms,B,b,19th-century industrial pollution reforms,1
+17,TF,Current debates on fair trade resemble historical struggles with colonial mercantilism.,a,True,True,a,True,1
+18,MCQ,Modern urban planning debates reflect historical efforts in:,b,19th-century city zoning and sanitation reforms,B,b,19th-century city zoning and sanitation reforms,1
+19,TF,Debates about labor protections today echo historical struggles with factory safety reforms.,a,True,True,a,True,1
+20,MCQ,Modern discussions on access to clean water mirror past struggles with:,b,19th-century urban sanitation reforms,B,b,19th-century urban sanitation reforms,1
+21,TF,Debates about ethical consumption today reflect historical consumer protection laws.,a,True,False,b,False,0
+22,MCQ,Current concerns over AI in justice systems resemble historical struggles with:,a,19th-century judicial reforms,A,a,19th-century judicial reforms,1
+23,TF,Modern urban heat challenges mirror historical struggles with industrial city pollution.,a,True,True,a,True,1
+24,MCQ,Contemporary discussions on data transparency resemble historical struggles with:,a,19th-century government reporting reforms,A,a,19th-century government reporting reforms,1
+25,TF,Debates on climate refugees today echo past struggles with displacement caused by natural disasters in the 19th century.,a,True,True,a,True,1
+26,TF,Modern debates on digital surveillance reflect historical struggles with government monitoring during the Red Scare.,a,True,True,a,True,1
+27,MCQ,Contemporary discussions on renewable energy adoption mirror historical efforts in:,b,Early 20th-century conservation movements,B,b,Early 20th-century conservation movements,1
+28,TF,Modern debates about universal healthcare reflect struggles over public health reforms in the 19th century.,a,True,True,a,True,1
+29,MCQ,Discussions on ethical AI in media today are similar to historical struggles with:,b,Propaganda and censorship during World Wars,B,b,Propaganda and censorship during World Wars,1
+30,TF,Modern debates on labor protections in gig economies echo historical struggles with Industrial Revolution labor unions.,a,True,True,a,True,1
+31,MCQ,Current discussions on wealth inequality are reminiscent of struggles with:,b,Industrial Revolution labor strikes,B,b,Industrial Revolution labor strikes,1
+32,TF,Debates on public transportation policy today mirror historical discussions on railway and tramway construction in the 19th century.,a,True,True,a,True,1
+33,MCQ,Modern concerns about food safety echo historical reforms such as:,b,Pure Food and Drug Act in the early 1900s,B,b,Pure Food and Drug Act in the early 1900s,1
+34,TF,Current debates on climate-induced migration mirror historical displacement caused by natural disasters.,a,True,True,a,True,1
+35,MCQ,Discussions about internet neutrality today resemble historical struggles over:,b,Telegraph and early telephone regulation,B,b,Telegraph and early telephone regulation,1
+36,TF,Modern mental health awareness campaigns reflect historical reforms in 19th-century asylums.,a,True,True,a,True,1
+37,MCQ,Contemporary debates about ethical labor practices resemble historical struggles with:,b,Child labor reforms during the Industrial Revolution,B,b,Child labor reforms during the Industrial Revolution,1
+38,TF,Modern public health vaccination campaigns are reminiscent of smallpox vaccination efforts in the 19th century.,a,True,True,a,True,1
+39,MCQ,Current discussions on urban green spaces mirror historical efforts in:,b,19th-century city planning and park reforms,B,b,19th-century city planning and park reforms,1
+40,TF,Debates about consumer protection today reflect historical laws in the early 20th century.,a,True,True,a,True,1
+41,MCQ,Modern urban transportation equity debates resemble historical efforts in public transit reform.,b,19th-century transit reform,B,b,19th-century transit reform,1
+42,TF,Current debates on workplace gender equality reflect historical struggles for women's rights in the early 20th century.,a,True,True,a,True,1
+43,MCQ,Modern concerns about ethical AI in finance are similar to historical debates over:,b,Banking regulations after the 1929 crash,B,b,Banking regulations after the 1929 crash,1
+44,TF,Contemporary labor union movements echo struggles with workers' rights during the Industrial Revolution.,a,True,True,a,True,1
+45,MCQ,Debates on access to digital education today reflect historical struggles with:,c,Public schooling reforms in the 19th century,D,d,Colonial restrictions on literacy,0
+46,TF,Current discussions about ethical food production mirror historical controversies in food safety regulations.,a,True,True,a,True,1
+47,MCQ,Modern debates on public health sanitation policies are reminiscent of efforts during:,b,19th-century cholera outbreaks,B,b,19th-century cholera outbreaks,1
+48,TF,Current migration debates mirror historical events such as the Great Migration of African Americans in the 20th century.,a,True,True,a,True,1
+49,MCQ,Modern urban housing debates echo past struggles with tenement housing reforms in industrial cities.,b,19th-century tenement reforms,B,b,19th-century tenement reforms,1
+50,TF,Contemporary debates about labor exploitation in technology companies resemble historical struggles with factory conditions during the Industrial Revolution.,a,True,True,a,True,1
+51,TF,Ethical concerns about data privacy today mirror historical debates over government surveillance in the early 20th century.,a,True,True,a,True,1
+52,MCQ,Modern debates about climate-induced migration reflect historical displacement caused by:,c,The Dust Bowl in the 1930s,C,c,The Dust Bowl in the 1930s,1
+53,TF,Contemporary discussions on income tax fairness are reminiscent of historical struggles with progressive tax laws in the early 20th century.,a,True,True,a,True,1
+54,MCQ,Modern debates about freedom of the press are similar to historical struggles with:,b,Newspaper censorship in Victorian England,B,b,Newspaper censorship in Victorian England,1
+55,TF,Contemporary labor movements for gig economy workers echo historical struggles with 19th-century trade unions.,a,True,True,a,True,1
+56,MCQ,Current debates on access to clean water reflect historical struggles in:,b,Urban sanitation reforms in the 19th century,B,b,Urban sanitation reforms in the 19th century,1
+57,TF,Modern food safety regulations echo historical concerns such as the Pure Food and Drug Act in the early 1900s.,a,True,True,a,True,1
+58,MCQ,Debates about AI ethics in media representation resemble historical struggles with:,c,Propaganda during World War I and II,C,c,Propaganda during World War I and II,1
+59,MCQ,Modern discussions on urban planning mirror historical efforts such as:,a,City sanitation and zoning reforms in the 19th century,A,a,City sanitation and zoning reforms in the 19th century,1
+60,TF,Ethical debates about genetic editing today resemble historical struggles over eugenics in the early 20th century.,a,True,True,a,True,1
+61,MCQ,Modern public transportation debates echo past struggles with:,c,Introduction of railways and urban transit systems in the 19th century,C,c,Introduction of railways and urban transit systems in the 19th century,1
+62,MCQ,Debates about internet neutrality resemble historical struggles over:,a,Telegraph and telephone regulation in the 19th century,A,a,Telegraph and telephone regulation in the 19th century,1
+63,TF,Modern debates on mental health awareness mirror historical reforms such as the 19th-century asylum movements.,a,True,True,a,True,1
+64,TF,Current digital surveillance debates reflect historical concerns about government monitoring during the Red Scare.,a,True,True,a,True,1
+65,MCQ,Contemporary fair trade debates are reminiscent of historical struggles with:,a,Colonial trade exploitation and mercantilism,A,a,Colonial trade exploitation and mercantilism,1
+66,TF,Modern vaccination campaigns echo historical efforts such as smallpox inoculation programs in the 19th century.,a,True,True,a,True,1
+67,MCQ,Debates about AI in judicial decisions resemble historical struggles over:,b,Judicial reforms in 19th-century courts,B,b,Judicial reforms in 19th-century courts,1
+68,MCQ,Modern ethical debates about animal testing mirror past struggles with:,a,19th-century vivisection controversies,A,a,19th-century vivisection controversies,1
+69,MCQ,Current debates on privacy in social media echo historical struggles with:,a,Government wiretapping and surveillance in the early 20th century,A,a,Government wiretapping and surveillance in the early 20th century,1
+70,MCQ,Discussions about labor protections in gig economies resemble historical struggles with:,a,Industrial Revolution labor unions,A,a,Industrial Revolution labor unions,1
+71,TF,Modern debates on carbon taxes mirror struggles over environmental legislation in the early 20th century.,a,True,True,a,True,1
+72,MCQ,Contemporary algorithmic decision-making debates in finance mirror historical discussions on:,a,Banking regulations after the 1929 crash,A,a,Banking regulations after the 1929 crash,1
+73,MCQ,Debates about urban green spaces today reflect historical concerns during:,c,19th-century city planning and park reforms,C,c,19th-century city planning and park reforms,1
+74,MCQ,Modern discussions on ethical AI in journalism are similar to past struggles with:,a,Propaganda and censorship during World Wars,A,a,Propaganda and censorship during World Wars,1
+75,MCQ,Current debates about access to quality education reflect historical struggles such as:,c,Public schooling reforms in the 19th century,C,c,Public schooling reforms in the 19th century,1
+76,TF,Modern discussions on climate refugees mirror historical displacement due to natural disasters and famines.,a,True,True,a,True,1
+77,MCQ,Debates about ethical labor in supply chains today are reminiscent of:,b,Child labor reforms during the Industrial Revolution,B,b,Child labor reforms during the Industrial Revolution,1
+78,MCQ,Modern discussions on freedom of speech online echo historical struggles with:,a,Censorship of newspapers in the 19th century,A,a,Censorship of newspapers in the 19th century,1
+79,MCQ,Contemporary ethical debates about AI in healthcare mirror past struggles with:,a,Medical ethics in hospitals during the 19th century,A,a,Medical ethics in hospitals during the 19th century,1
+80,MCQ,Modern concerns over labor exploitation in technology companies resemble historical struggles with:,a,Factory labor conditions in the Industrial Revolution,A,a,Factory labor conditions in the Industrial Revolution,1
+81,MCQ,Current debates on renewable energy subsidies reflect historical struggles with:,b,Early 20th-century hydroelectric projects,B,b,Early 20th-century hydroelectric projects,1
+82,MCQ,Modern cybersecurity concerns echo historical challenges in:,a,Industrial espionage during the 19th century,A,a,Industrial espionage during the 19th century,1
+83,MCQ,Discussions about AI in education reflect historical debates on:,a,Standardized public schooling in the 19th century,A,a,Standardized public schooling in the 19th century,1
+84,MCQ,Modern privacy laws reflect historical concerns about:,a,Government surveillance during the Red Scare,A,a,Government surveillance during the Red Scare,1
+85,MCQ,Modern debates on workplace diversity mirror historical struggles with:,a,19th and 20th-century civil rights movements,A,a,19th and 20th-century civil rights movements,1
+86,MCQ,Ethical debates about AI in law enforcement resemble historical struggles with:,a,Early 20th-century policing and surveillance,A,a,Early 20th-century policing and surveillance,1
+87,MCQ,Contemporary environmental regulations reflect historical struggles with:,a,Industrial pollution laws in the 19th century,A,a,Industrial pollution laws in the 19th century,1
+88,MCQ,Debates about internet governance echo historical struggles with:,a,Telegraph and telephone regulation in the 19th century,D,d,Renaissance printing press restrictions,0
+89,MCQ,Modern discussions on universal healthcare mirror historical reforms such as:,a,Early 20th-century public health programs,A,a,Early 20th-century public health programs,1
+90,MCQ,Debates on AI ethics in finance resemble historical struggles with:,a,Banking regulations after the 1929 crash,A,a,Banking regulations after the 1929 crash,1
+91,TF,Modern discussions on refugee crises mirror historical migration caused by famine and war.,a,True,True,a,True,1
+92,MCQ,Contemporary debates on sustainable agriculture reflect historical struggles with:,a,19th-century crop rotation reforms,C,c,Colonial plantation management,0
+93,MCQ,Modern ethical discussions about AI in journalism resemble historical debates over:,a,Censorship during wartime,A,a,Censorship during wartime,1
+94,MCQ,Debates about fair wages in gig economies reflect historical struggles with:,a,Industrial Revolution labor unions,A,a,Industrial Revolution labor unions,1
+95,MCQ,Current debates on ethical AI mirror historical concerns about:,a,Industrial automation and worker displacement,A,a,Industrial automation and worker displacement,1
+96,MCQ,Modern urban planning debates reflect historical concerns such as:,a,19th-century zoning and sanitation reforms,A,a,19th-century zoning and sanitation reforms,1
+97,MCQ,Contemporary discussions on food safety mirror historical struggles with:,a,Pure Food and Drug Act in the early 1900s,A,a,Pure Food and Drug Act in the early 1900s,1
+98,MCQ,Debates on labor protections for tech workers echo historical struggles with:,a,Industrial Revolution factory labor conditions,A,a,Industrial Revolution factory labor conditions,1
+99,MCQ,Modern climate policy debates mirror historical struggles with:,a,Industrial pollution regulations in the 19th century,A,a,Industrial pollution regulations in the 19th century,1
+100,MCQ,Current debates on equitable access to technology echo historical struggles with:,a,Early 20th-century telephone and telegraph access,A,a,Early 20th-century telephone and telegraph access,1

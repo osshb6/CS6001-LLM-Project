@@ -1,0 +1,501 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,The Trần Dynasty Defeats Mongol Invasions occurred before the Discovery of Diamonds.,a,True,False,b,False,0
+2,TF,The Reserve Bank of India (RBI) occurred before the 1953 Iranian Coup d'état.,a,True,True,a,True,1
+3,TF,The Kronstadt Rebellion occurred before the Oka Crisis.,a,True,True,a,True,1
+4,TF,The First Saudi State Established occurred before the Independence from France.,a,True,True,a,True,1
+5,TF,The Singapore Joins the United Nations occurred before the Independence from France.,b,False,False,b,False,1
+6,TF,The Economic Development occurred before the Independence from France.,b,False,False,b,False,1
+7,TF,The Income Doubling Plan Announced occurred before the Scottish Devolution Referendum.,a,True,True,a,True,1
+8,TF,The Establishment of the Central Bank of Sri Lanka occurred before the Women's Suffrage (19th Amendment).,b,False,False,b,False,1
+9,TF,The Land Reform Law Enacted occurred before the First Mars Helicopter Flight.,a,True,True,a,True,1
+10,TF,The Establishment of Joseon Dynasty occurred before the Signing of the Treaty of Utrecht.,a,True,True,a,True,1
+11,TF,The Assassination of Empress Myeongseong occurred before the Spanish Transition to Democracy.,a,True,True,a,True,1
+12,TF,The Port Arthur Massacre occurred before the Establishment of the Fifth Republic.,b,False,False,b,False,1
+13,TF,The Partition of India occurred before the Alash Autonomy Declaration.,b,False,False,b,False,1
+14,TF,The First Executive President Elected occurred before the Stock Market Crash of 1929.,b,False,True,a,True,0
+15,TF,The Pulwama Terrorist Attack occurred before the Federated Malay States Formed.,b,False,False,b,False,1
+16,TF,The Division of Korea occurred before the Exhumation of Francisco Franco.,a,True,True,a,True,1
+17,TF,The Mongol Invasions of Japan occurred before the Industrial Revolution Begins.,a,True,True,a,True,1
+18,TF,The Battle of Điện Biên Phủ occurred before the Black Death in Norway.,b,False,False,b,False,1
+19,TF,The Beslan School Siege occurred before the Official Languages Act.,b,False,False,b,False,1
+20,TF,The Financial Crisis in Russia occurred before the Discovery of Insulin.,b,False,False,b,False,1
+21,TF,The Introduction of Goods and Services Tax (GST) occurred before the Signing of the Treaty of Rome.,b,False,False,b,False,1
+22,TF,The New Zealand Bill of Rights Act occurred before the Discovery of the Americas.,b,False,False,b,False,1
+23,TF,The Establishment of the People's Republic of China occurred before the Prohibition Era Begins.,b,False,False,b,False,1
+24,TF,The Armistice Agreement occurred before the 2010 FIFA World Cup Victory.,a,True,True,a,True,1
+25,TF,The Sook Ching Massacre occurred before the Independence from Britain.,a,True,True,a,True,1
+26,TF,The Arrival of the First Fleet occurred before the Discovery of Penicillin.,a,True,True,a,True,1
+27,TF,The China Hosts the Olympic Games occurred before the Assassination of President John F. Kennedy.,b,False,False,b,False,1
+28,TF,The Creation of Pakistan occurred before the Independence from the Soviet Union.,a,True,True,a,True,1
+29,TF,The Gwangju Uprising occurred before the Gorm the Old Reign.,b,False,False,b,False,1
+30,TF,The 2011 Christchurch Earthquake occurred before the War of Spanish Succession.,b,False,False,b,False,1
+31,TF,The Construction of Auckland Harbour Bridge occurred before the Berlusconi Elected Prime Minister.,a,True,True,a,True,1
+32,TF,The Maria Hertogh Riots occurred before the Independence from Portugal.,a,True,True,a,True,1
+33,TF,The Repeal of Carbon Tax occurred before the France Bans Smoking in Public Places.,b,False,False,b,False,1
+34,TF,The Bengal Famine of 1943 occurred before the Accession to the Soviet Union.,b,False,False,b,False,1
+35,TF,The 1987 New Zealand Constitution Act occurred before the Entry into the European Union.,b,False,True,a,True,0
+36,TF,The Kyoto Protocol on Climate Change occurred before the Creation of the Commonwealth of Nations.,b,False,False,b,False,1
+37,TF,The Founding of Saudi Aramco occurred before the Sharpeville Massacre.,a,True,True,a,True,1
+38,TF,The Purna Swaraj Declaration occurred before the Japanese Occupation.,a,True,True,a,True,1
+39,TF,The Panama Papers Case & Disqualification of PM Nawaz Sharif occurred before the New Economic Policy Introduced.,b,False,False,b,False,1
+40,TF,The Women's Suffrage Achieved occurred before the Fall of Constantinople.,b,False,False,b,False,1
+41,TF,The G20 Summit Hosted in Riyadh occurred before the Abolition of Slavery.,b,False,False,b,False,1
+42,TF,The 2019 Easter Bombings occurred before the Civil Rights Act of 1964.,b,False,False,b,False,1
+43,TF,The Citizenship Amendment Act (CAA) Implementation occurred before the Establishment of Monarchy.,b,False,False,b,False,1
+44,TF,The Pakistan Joins the United Nations occurred before the Death of Islam Karimov.,a,True,True,a,True,1
+45,TF,The HEC Digital Library Initiative occurred before the Pakistan International Airlines Flight 268.,b,False,False,b,False,1
+46,TF,The Nirbhaya Case occurred before the Sultanate Becomes a British Protectorate.,b,False,False,b,False,1
+47,TF,The Onin War occurred before the Battle of Trafalgar.,a,True,True,a,True,1
+48,TF,The End of the Civil War occurred before the Nedelin Catastrophe.,b,False,True,a,True,0
+49,TF,The March 1st Movement occurred before the Financial Crisis Impact.,a,True,True,a,True,1
+50,TF,The The Gabo Reform occurred before the Francoist Spain.,a,True,True,a,True,1
+51,TF,The Indus Water Treaty occurred before the 1MDB Scandal.,a,True,True,a,True,1
+52,TF,The Malala Yousafzai's Nobel Peace Prize occurred before the Presidential Election Victory of Ibrahim Solih.,a,True,True,a,True,1
+53,TF,The ANZAC troops land at Gallipoli occurred before the First English Parliament.,b,False,False,b,False,1
+54,TF,The Establishment of the Colony of Van Diemen's Land occurred before the British Exit from the European Exchange Rate Mechanism.,a,True,True,a,True,1
+55,TF,The ANZUS Treaty Suspension occurred before the L'Aquila Earthquake.,a,True,True,a,True,1
+56,TF,The Compulsory Military Training Introduced occurred before the Mani Pulite (Clean Hands) Investigation Begins.,a,True,True,a,True,1
+57,TF,The Perestroika and Glasnost Reforms occurred before the Halifax Explosion.,b,False,False,b,False,1
+58,TF,The Korean War Involvement occurred before the France Wins the 2018 FIFA World Cup.,a,True,True,a,True,1
+59,TF,The Vietnam Hosts APEC Summit occurred before the Lapland War.,b,False,False,b,False,1
+60,TF,The Battle of Panipat occurred before the Execution of Barlow and Chambers.,a,True,True,a,True,1
+61,TF,The 1967 Referendum on Indigenous Australians occurred before the Execution of Louis XVI.,b,False,False,b,False,1
+62,TF,The Founding of the Song Dynasty occurred before the Black Lives Matter Movement.,a,True,True,a,True,1
+63,TF,The Three Kingdoms Period Begins occurred before the Transcontinental Railroad Completed.,a,True,True,a,True,1
+64,TF,The Islamabad Declaration occurred before the Presidential Transition.,a,True,True,a,True,1
+65,TF,The 2020 Tokyo Olympics Postponement occurred before the Battle of Waterloo.,b,False,False,b,False,1
+66,TF,The Establishment of Goryeo Dynasty occurred before the The Spanish Golden Age.,a,True,True,a,True,1
+67,TF,The Māori Seats Established in Parliament occurred before the Sack of Rome.,b,False,False,b,False,1
+68,TF,The Waitangi Tribunal Established occurred before the Treaty of the Pyrenees.,b,False,False,b,False,1
+69,TF,The Economic Reforms and Liberalization occurred before the Timurid Empire Peaks.,b,False,False,b,False,1
+70,TF,The Gwadar Port Development occurred before the Philippine Airlines Flight 434.,b,False,False,b,False,1
+71,TF,The Emperor Akihito's Abdication occurred before the The Glorious Revolution.,b,False,False,b,False,1
+72,TF,The New Zealand's First Female Prime Minister occurred before the Fall of the Spanish Empire.,b,False,False,b,False,1
+73,TF,The Establishment of Đại Việt occurred before the Founding of Oslo.,a,True,True,a,True,1
+74,TF,The Myall Creek Massacre occurred before the Signing of the Treaty of Verdun.,b,False,False,b,False,1
+75,TF,The Federation of Australia occurred before the Establishment of the University of Paris.,b,False,False,b,False,1
+76,TF,The Japanese Invasions of Korea (Imjin War) occurred before the Peninsular War.,a,True,True,a,True,1
+77,TF,The Historic Solar Alliance Initiative occurred before the Kingdom of Iraq Independence.,b,False,False,b,False,1
+78,TF,The The Great Strike of 1917 occurred before the Battle of Agincourt.,b,False,False,b,False,1
+79,TF,The Formation of Indian National Congress occurred before the Constitutional Revolution.,a,True,True,a,True,1
+80,TF,The Cuban Missile Crisis occurred before the Charlottetown Accord Referendum.,a,True,True,a,True,1
+81,TF,The Hong Kong Handover occurred before the United Nations Charter Ratification.,b,False,False,b,False,1
+82,TF,The Sydney Harbour Bridge Opens occurred before the Act of Supremacy.,b,False,False,b,False,1
+83,TF,The Anzac Forces Land at Gallipoli occurred before the Unification of Italy Proclaimed.,b,False,False,b,False,1
+84,TF,The First Constitution of Pakistan occurred before the Introduction of Television.,a,True,True,a,True,1
+85,TF,The Operation Blue Star occurred before the Forced Collectivization by Soviets.,b,False,False,b,False,1
+86,TF,The New Zealand Wars occurred before the Crowning of Charlemagne.,b,False,False,b,False,1
+87,TF,The Vision 2030 Announced occurred before the Libyan Civil War.,b,False,False,b,False,1
+88,TF,The Manchu Invasions of Korea occurred before the Spanish Constitution of 1812.,a,True,True,a,True,1
+89,TF,The Reunification of Vietnam occurred before the Liberation of Norway.,b,False,False,b,False,1
+90,TF,The Apology to Australia's Indigenous Peoples occurred before the Yellow Vest Protests.,a,True,True,a,True,1
+91,TF,The Establishment of the Provisional Government occurred before the Catalan Independence Referendum.,a,True,False,b,False,0
+92,TF,The Sakoku Edict of 1635 occurred before the Publication of Darwin's 'On the Origin of Species'.,a,True,True,a,True,1
+93,TF,The Founding of the Vietnamese Nationalist Party occurred before the Foundation of Marrakech.,b,False,False,b,False,1
+94,TF,The Hanoi Poison Plot occurred before the Great Zimbabwe Era.,b,False,False,b,False,1
+95,TF,The 2008 Beijing Olympics occurred before the Seneca Falls Convention.,b,False,False,b,False,1
+96,TF,The Article 370 Revocation for Jammu & Kashmir occurred before the Virgin Lands Campaign.,b,False,False,b,False,1
+97,TF,The Construction of the Great Wall occurred before the Oklahoma City Bombing.,a,True,True,a,True,1
+98,TF,The Establishment of Sri Lanka Broadcasting Corporation occurred before the Vietnam War.,b,False,False,b,False,1
+99,TF,The 2002 FIFA World Cup occurred before the Christianization of Norway.,b,False,False,b,False,1
+100,TF,The Tokyo Olympics occurred before the London Underground Bombings.,a,True,False,b,False,0
+101,TF,The Introduction of Modern Education occurred before the Independence from Portugal.,a,True,True,a,True,1
+102,TF,The Constitution of India Adopted occurred before the Formation of Federation of Malaya.,b,False,False,b,False,1
+103,TF,The Green Revolution occurred before the Foundation of Modern Iraq.,b,False,False,b,False,1
+104,TF,The Establishment of the Commonwealth of Australia occurred before the Theresa May becomes Prime Minister.,a,True,True,a,True,1
+105,TF,The Independence from British Rule occurred before the MV Sewol Ferry Sinking.,a,True,True,a,True,1
+106,TF,The 1981 Springbok Tour Protests occurred before the Spanish Armada.,b,False,False,b,False,1
+107,TF,The Women's Protection Bill occurred before the Decriminalization of Homosexuality.,a,True,True,a,True,1
+108,TF,The Introduction of Nuclear Free Zone occurred before the Costa Concordia Shipwreck.,a,True,True,a,True,1
+109,TF,The Establishment of the Delhi Sultanate occurred before the Hotel New World Collapse.,a,True,True,a,True,1
+110,TF,The Whitlam Government Dismissal occurred before the Napoleon Crowned Emperor.,b,False,False,b,False,1
+111,TF,The Perry Expedition and Opening of Japan occurred before the Falklands War.,a,True,True,a,True,1
+112,TF,The Tsunami Disaster occurred before the MV Doña Paz Collision.,b,False,False,b,False,1
+113,TF,The Cable Car Disaster occurred before the Independence from France.,b,False,False,b,False,1
+114,TF,The Annexation of Hejaz occurred before the Libyan Revolution (1969).,a,True,True,a,True,1
+115,TF,The ANZUS Treaty Signing occurred before the Battle of Agincourt.,b,False,False,b,False,1
+116,TF,The Pakistan Atomic Energy Commission Establishment occurred before the US Withdrawal from the JCPOA.,a,True,True,a,True,1
+117,TF,The An Lushan Rebellion occurred before the Wright Brothers' First Flight.,a,True,True,a,True,1
+118,TF,The Seoul Olympics occurred before the Christianization of Denmark.,b,False,False,b,False,1
+119,TF,The Merger with Malaysia occurred before the Independence from France.,a,True,False,b,False,0
+120,TF,The Straits Settlements Establishment occurred before the Independence from Britain.,a,True,True,a,True,1
+121,TF,The October Revolution occurred before the Discovery of Insulin.,a,True,True,a,True,1
+122,TF,The Moscow Theater Hostage Crisis occurred before the Creation of the Canadian Flag.,b,False,False,b,False,1
+123,TF,The Dandi March occurred before the Treaty of Punakha with British India.,b,False,False,b,False,1
+124,TF,The Meiji Restoration occurred before the Establishment of the Welfare State.,a,True,True,a,True,1
+125,TF,The Integration of Princely States occurred before the Suvadive Rebellion.,a,True,True,a,True,1
+126,TF,The Establishment of the Mahaweli Development Project occurred before the Declaration of Independence.,b,False,False,b,False,1
+127,TF,The Establishment of the Second Saudi State occurred before the Union of Tanganyika and Zanzibar.,a,True,True,a,True,1
+128,TF,The Indian Space Research Organisation (ISRO) occurred before the 1979 Iranian Revolution.,a,True,True,a,True,1
+129,TF,The Treaty of Waitangi Act 1975 occurred before the 2006 Winter Olympics in Turin.,a,True,True,a,True,1
+130,TF,The Oil Crisis and Economic Shift occurred before the Scottish Independence Referendum.,a,True,True,a,True,1
+131,TF,The Battle of Kulikovo occurred before the Gilded Age.,a,True,True,a,True,1
+132,TF,The Korean War occurred before the Discovery of Altamira Cave Paintings.,b,False,False,b,False,1
+133,TF,The Treaty of Friendship and Alliance occurred before the Independence from Britain.,a,True,True,a,True,1
+134,TF,The Australia's First Female Prime Minister occurred before the Punic Wars Begin.,b,False,False,b,False,1
+135,TF,The Historic US Presidential Visit to Vietnam occurred before the Finnish Civil War.,b,False,False,b,False,1
+136,TF,The Establishment of Sharia Law occurred before the Independence from Britain.,a,True,False,b,False,0
+137,TF,The Tiananmen Square Protests occurred before the Marshall Plan Implementation.,b,False,False,b,False,1
+138,TF,The Destruction of the First Saudi State occurred before the Ghana's Independence.,a,True,True,a,True,1
+139,TF,The 2016 Uri Attack and Subsequent Surgical Strikes occurred before the Introduction of First Constitution.,b,False,False,b,False,1
+140,TF,The Putin's First Presidential Term occurred before the Joining of Newfoundland.,b,False,False,b,False,1
+141,TF,The FATF Grey List occurred before the ISIS Captures Mosul.,b,False,True,a,True,0
+142,TF,The Introduction of the Basic Law of Governance occurred before the Independence from Ethiopia.,a,True,True,a,True,1
+143,TF,The National Service Introduced occurred before the Independence from France.,b,False,True,a,True,0
+144,TF,The Establishment of the Kingdom of Saudi Arabia occurred before the Battle of Algiers.,a,True,True,a,True,1
+145,TF,The Pueblo Incident occurred before the Sinking of the Spanish Armada.,b,False,False,b,False,1
+146,TF,The Ming Dynasty's Voyages of Zheng He occurred before the Withdrawal from Afghanistan.,a,True,True,a,True,1
+147,TF,The Mumbai Terror Attacks occurred before the Bukhara Emirate Overthrown by Bolsheviks.,b,False,False,b,False,1
+148,TF,The Treaty of Taif occurred before the Independence from Britain.,a,True,True,a,True,1
+149,TF,The Sydney Opera House Opens occurred before the Start of the French Revolution.,b,False,False,b,False,1
+150,TF,The Tokugawa Shogunate Established occurred before the Queen Victoria's Reign Begins.,a,True,True,a,True,1
+151,TF,The May 16 Coup occurred before the Battle of Guadalete.,b,False,False,b,False,1
+152,TF,The Kamakura Shogunate Established occurred before the Act of Union with Scotland.,a,True,True,a,True,1
+153,TF,The Great Leap Forward occurred before the Attack on Pearl Harbor.,b,False,False,b,False,1
+154,TF,The Japan's Apology for WWII Aggressions occurred before the First Television Broadcast by BBC.,b,False,False,b,False,1
+155,TF,The French Colonization Begins occurred before the Independence from France.,a,True,True,a,True,1
+156,TF,The Indian Mars Orbiter Mission Success occurred before the Kengir Uprising.,b,False,False,b,False,1
+157,TF,The Nazi Germany Invades the Soviet Union occurred before the Official Languages Act.,a,True,True,a,True,1
+158,TF,The Typhoon Damrey Strikes Vietnam occurred before the Second Schleswig War.,b,False,False,b,False,1
+159,TF,The Saudi Arabia Joins the WTO occurred before the Nelson Mandela's Release from Prison.,b,False,False,b,False,1
+160,TF,The Establishment of King Abdulaziz University occurred before the August Revolution.,a,True,False,b,False,0
+161,TF,The King Abdullah's Ascension occurred before the Comprehensive Peace Agreement.,b,False,False,b,False,1
+162,TF,The Black Saturday Bushfires occurred before the Introduction of the Euro.,b,False,False,b,False,1
+163,TF,The First War of Indian Independence occurred before the Japanese Occupation of Malaya.,a,True,True,a,True,1
+164,TF,The Invention of Paper by Cai Lun occurred before the Challenger Space Shuttle Disaster.,a,True,True,a,True,1
+165,TF,The Jeju Uprising occurred before the Austerity Measures During Crisis.,a,True,True,a,True,1
+166,TF,The Introduction of Firearms by Portuguese occurred before the Reform Act 1832.,a,True,True,a,True,1
+167,TF,The Boris Yeltsin Elected as First President of Russia occurred before the Statute of Westminster.,b,False,False,b,False,1
+168,TF,The Tay Son Rebellion occurred before the Algerian War of Independence.,a,True,True,a,True,1
+169,TF,The 2013 Uttarakhand Floods occurred before the Baghdad Pact.,b,False,False,b,False,1
+170,TF,The The Founding of Melbourne occurred before the Coronation of Charlemagne as Holy Roman Emperor.,b,False,False,b,False,1
+171,TF,The Fall of Saigon occurred before the Liberation of Denmark.,b,False,False,b,False,1
+172,TF,The Reiwa Era Begins occurred before the Chartist Movement.,b,False,False,b,False,1
+173,TF,The India's First Transgender University occurred before the Japanese Occupation of Malaya.,b,False,False,b,False,1
+174,TF,The Pakistan's First Satellite Launch occurred before the Japan Airlines Flight 123.,b,False,False,b,False,1
+175,TF,The Japanese Occupation of Vietnam occurred before the Rwandan Genocide.,a,True,True,a,True,1
+176,TF,The 1000th Anniversary of Hanoi occurred before the Union with Sweden.,b,False,False,b,False,1
+177,TF,The Mabo Decision by the High Court occurred before the Second French Empire Declared.,b,False,False,b,False,1
+178,TF,The Russian Civil War occurred before the Newfoundland Joins Canada.,a,True,True,a,True,1
+179,TF,The Korean War occurred before the Spanish Constitution of 1978.,a,True,True,a,True,1
+180,TF,The Ratana Movement Political Involvement occurred before the Signing of the Lateran Treaty.,a,True,False,b,False,0
+181,TF,The Establishment of British Raj occurred before the British Mandate of Mesopotamia.,a,True,True,a,True,1
+182,TF,The The Prague Spring and its Suppression occurred before the Klondike Gold Rush.,b,False,False,b,False,1
+183,TF,The Australian Involvement in WWII Begins occurred before the Battle of Tours.,b,False,False,b,False,1
+184,TF,The Vietnam Joins ASEAN occurred before the Continuation War.,b,False,False,b,False,1
+185,TF,The Formation of the USSR occurred before the NAFTA Agreement Signed.,a,True,True,a,True,1
+186,TF,The Aboriginal Land Rights Act occurred before the Louis XVI Executed.,b,False,False,b,False,1
+187,TF,The Vietnam Joins the World Trade Organization occurred before the Copenhagen Fire.,b,False,False,b,False,1
+188,TF,The Decriminalisation of Section 377 occurred before the Silk Road Decline.,b,False,False,b,False,1
+189,TF,The Australian Imperial Force's Formation occurred before the Start of the Hundred Years' War.,b,False,False,b,False,1
+190,TF,The North Korea's First Nuclear Test occurred before the The Great Siege of Gibraltar.,b,False,False,b,False,1
+191,TF,The Elected Presidency Introduced occurred before the Independence from Belgium.,b,False,False,b,False,1
+192,TF,The Sydney 2000 Summer Olympics occurred before the Dreyfus Affair.,b,False,False,b,False,1
+193,TF,The India's Demonetisation Campaign occurred before the Establishment of the National Assembly.,b,False,False,b,False,1
+194,TF,The MMP Electoral System Introduced occurred before the Transition to Democracy.,b,False,False,b,False,1
+195,TF,The Gia Long Becomes Emperor occurred before the Italian Invasion of Libya.,a,True,True,a,True,1
+196,TF,The Ikhwan Revolt occurred before the Independence from France.,a,True,True,a,True,1
+197,TF,The Labour Party Elected for the First Time occurred before the Mussolini's March on Rome.,b,False,False,b,False,1
+198,TF,The Partition Plan Announced occurred before the Establishment of the Uzbek Soviet Socialist Republic.,b,False,False,b,False,1
+199,TF,The Tết Offensive occurred before the Finnish War and Cession to Russia.,b,False,False,b,False,1
+200,TF,The Constitutional Crisis in Russia occurred before the Conscription Crisis of 1944.,b,False,False,b,False,1
+201,TF,The Mount Tarawera Eruption occurred before the Galileo Galilei's Telescope Presentation.,b,False,False,b,False,1
+202,TF,The Gulf of Tonkin Incident occurred before the Dissolution of the Kalmar Union.,b,False,False,b,False,1
+203,TF,The Golden Temple (Harmandir Sahib) occurred before the Capital Moved to Astana.,a,True,True,a,True,1
+204,TF,The Osaka Expo '70 occurred before the 2012 London Olympics.,a,True,True,a,True,1
+205,TF,The Foundation of Kievan Rus' occurred before the Alaska Purchase.,a,True,True,a,True,1
+206,TF,The Partition of Bengal occurred before the British Occupation of Basra.,a,True,True,a,True,1
+207,TF,The Washington Naval Conference occurred before the Abolition of the Slave Trade Act.,b,False,False,b,False,1
+208,TF,The Nguyễn Dynasty's Expansion Southwards occurred before the Mau Mau Uprising.,a,True,True,a,True,1
+209,TF,The Iwakura Mission occurred before the Brexit Referendum.,a,True,True,a,True,1
+210,TF,The Victory over Terrorism Day occurred before the Civil War.,b,False,False,b,False,1
+211,TF,The Great Hanshin Earthquake occurred before the Prince Philip's Death.,a,True,True,a,True,1
+212,TF,The Decriminalization of Homosexuality occurred before the Union of Castile and Aragon.,b,False,False,b,False,1
+213,TF,The Jio Telecom Launch occurred before the Malayan Emergency.,b,False,False,b,False,1
+214,TF,The New Zealand Signs Kyoto Protocol occurred before the 2004 Madrid Train Bombings.,a,True,True,a,True,1
+215,TF,The First Indochina War Begins occurred before the Independence from Britain.,a,True,True,a,True,1
+216,TF,The Sigiriya Designated as a UNESCO World Heritage Site occurred before the Watergate Scandal.,b,False,False,b,False,1
+217,TF,The Swadeshi Movement occurred before the Constitutional Revolution.,a,True,False,b,False,0
+218,TF,The Supreme Court Verdict on Ayodhya occurred before the Establishment of Uzbek SSR.,b,False,False,b,False,1
+219,TF,The Auckland Harbour Bridge Protests occurred before the Spanish Civil War.,b,False,False,b,False,1
+220,TF,The Paris Peace Accords occurred before the Winter War.,b,False,False,b,False,1
+221,TF,The First Nuclear Test (Smiling Buddha) occurred before the Islamic Conquest of Persia.,b,False,False,b,False,1
+222,TF,The Resolution on 'Vietnam's Marine Strategy to 2020' occurred before the First Schleswig War.,b,False,False,b,False,1
+223,TF,The Long March occurred before the Hurricane Sandy.,a,True,True,a,True,1
+224,TF,The Chauri Chaura Incident occurred before the Russian Conquest of Tashkent.,b,False,False,b,False,1
+225,TF,The Boxer Rebellion occurred before the Supreme Court Overturns Roe v. Wade.,a,True,True,a,True,1
+226,TF,The Battle of Singapore occurred before the Independence from Spain.,a,True,False,b,False,0
+227,TF,The Statue of Unity Unveiled occurred before the Treaty of Sinchula.,b,False,False,b,False,1
+228,TF,The Dissolution of the Soviet Union occurred before the Balfour Declaration of 1926.,b,False,False,b,False,1
+229,TF,The Shanghai World Expo occurred before the Writing of the Federalist Papers.,b,False,False,b,False,1
+230,TF,The Marco Polo Bridge Incident occurred before the Women's Suffrage Achieved.,b,False,False,b,False,1
+231,TF,The Sydney Opera House Opens occurred before the Reign of Terror Begins.,b,False,False,b,False,1
+232,TF,The Yên Bái Mutiny occurred before the Portuguese Colonialism Begins.,b,False,False,b,False,1
+233,TF,The New Zealand Expeditionary Force in WWII occurred before the Fall of Mussolini.,a,True,False,b,False,0
+234,TF,The First Gulf War occurred before the Independence from France.,b,False,False,b,False,1
+235,TF,The Mongol Invasions of Korea occurred before the War of the Spanish Succession.,a,True,True,a,True,1
+236,TF,The Xi Jinping Assumes Presidency occurred before the War of 1812.,b,False,False,b,False,1
+237,TF,The Karachi Nuclear Power Plant Operational occurred before the AirAsia Flight QZ8501.,a,True,True,a,True,1
+238,TF,The Port Arthur Massacre occurred before the Paris Commune.,b,False,False,b,False,1
+239,TF,The Rogernomics Initiatives Begin occurred before the Funding of Christopher Columbus' Voyage.,b,False,False,b,False,1
+240,TF,The Taiping Rebellion occurred before the George Floyd Protests and Derek Chauvin Trial.,a,True,True,a,True,1
+241,TF,The Establishment of the National Liberation Front occurred before the Treaty of Roskilde.,b,False,False,b,False,1
+242,TF,The Handover of Hong Kong occurred before the March on Washington for Jobs and Freedom.,b,False,False,b,False,1
+243,TF,The Siege of Leningrad occurred before the Vancouver Winter Olympics.,a,True,True,a,True,1
+244,TF,The Heian Period Begins occurred before the English Civil War Begins.,a,True,True,a,True,1
+245,TF,The Khashoggi Assassination occurred before the Tunisian Revolution.,b,False,False,b,False,1
+246,TF,The Treaty of Nanking Signed occurred before the Entry into World War I.,a,True,True,a,True,1
+247,TF,The Separation and Independence occurred before the Independence from Portugal.,a,True,False,b,False,0
+248,TF,The Founding of the People's Republic of China occurred before the Social Security Act.,b,False,False,b,False,1
+249,TF,The Refrigerated Shipping Invented occurred before the Treaty of Utrecht Ends the War of Spanish Succession.,b,False,False,b,False,1
+250,TF,The Geneva Accords occurred before the Establishment as Swedish Duchy.,b,False,False,b,False,1
+251,MCQ,Given the Aum Shinrikyo Tokyo Subway Sarin Attack; which of the following events occurred after it?,a,US Withdrawal from the JCPOA,A,a,US Withdrawal from the JCPOA,1
+252,MCQ,Given the Long March; which of the following events occurred after it?,c,First Human DNA Sequencing,C,c,First Human DNA Sequencing,1
+253,MCQ,Given the 1967 Referendum on Indigenous Australians; which of the following events occurred after it?,c,Supreme Court Overturns Roe v. Wade,C,c,Supreme Court Overturns Roe v. Wade,1
+254,MCQ,Given the End of the Civil War; which of the following events occurred after it?,d,Cyclone Idai,B,b,Francoist Spain,0
+255,MCQ,Given the Invention of the Compass; which of the following events occurred after it?,c,Alash Autonomy Declaration,C,c,Alash Autonomy Declaration,1
+256,MCQ,Given the Emperor Akihito's Abdication; which of the following events occurred after it?,c,Withdrawal from Afghanistan,C,c,Withdrawal from Afghanistan,1
+257,MCQ,Given the Made in China 2025 Initiative Announced; which of the following events occurred after it?,c,Capitol Riot,C,c,Capitol Riot,1
+258,MCQ,Given the Aboriginal Land Rights Act; which of the following events occurred after it?,a,Fall of the Berlin Wall,A,a,Fall of the Berlin Wall,1
+259,MCQ,Given the Formation of the USSR; which of the following events occurred after it?,a,Introduction of First Constitution,A,a,Introduction of First Constitution,1
+260,MCQ,Given the Siachen Glacier Conflict; which of the following events occurred after it?,b,AirAsia Flight QZ8501,B,b,AirAsia Flight QZ8501,1
+261,MCQ,Given the Securities and Exchange Board of India (SEBI); which of the following events occurred after it?,c,Quebec Referendum on Sovereignty,C,c,Quebec Referendum on Sovereignty,1
+262,MCQ,Given the India's Demonetisation Campaign; which of the following events occurred after it?,d,Presidential Election Victory of Ibrahim Solih,D,d,Presidential Election Victory of Ibrahim Solih,1
+263,MCQ,Given the First Indochina War Begins; which of the following events occurred after it?,a,Decriminalization of Homosexuality,A,a,Decriminalization of Homosexuality,1
+264,MCQ,Given the New Zealand Expeditionary Force in WWII; which of the following events occurred after it?,b,Operation Carlota Ends,B,b,Operation Carlota Ends,1
+265,MCQ,Given the Beslan School Siege; which of the following events occurred after it?,c,Libyan Civil War,C,c,Libyan Civil War,1
+266,MCQ,Given the Discovery of Oil; which of the following events occurred after it?,d,Patriation of the Canadian Constitution,C,c,Balfour Declaration of 1926,0
+267,MCQ,Given the Introduction of the New Zealand Constitution Act; which of the following events occurred after it?,b,US Withdrawal from the JCPOA,B,b,US Withdrawal from the JCPOA,1
+268,MCQ,Given the Australia Acts 1986; which of the following events occurred after it?,d,MV Sewol Ferry Sinking,D,d,MV Sewol Ferry Sinking,1
+269,MCQ,Given the Introduction of Goods and Services Tax (GST); which of the following events occurred after it?,b,September 11 Attacks,B,b,September 11 Attacks,1
+270,MCQ,Given the Battle of Singapore; which of the following events occurred after it?,b,Oklahoma City Bombing,B,b,Oklahoma City Bombing,1
+271,MCQ,Given the Establishment of the Colony of Van Diemen's Land; which of the following events occurred after it?,d,Stock Market Crash of 1929,D,d,Stock Market Crash of 1929,1
+272,MCQ,Given the Right to Education Act; which of the following events occurred after it?,c,ISIS Captures Mosul,C,c,ISIS Captures Mosul,1
+273,MCQ,Given the Onin War; which of the following events occurred after it?,b,Independence from Portugal,B,b,Independence from Portugal,1
+274,MCQ,Given the Establishment of Sri Lanka Broadcasting Corporation; which of the following events occurred after it?,a,Roe v. Wade Supreme Court Decision,A,a,Roe v. Wade Supreme Court Decision,1
+275,MCQ,Given the 2011 Christchurch Earthquake; which of the following events occurred after it?,b,Charlottesville Rally and Violence,B,b,Charlottesville Rally and Violence,1
+276,MCQ,Given the Pakistan Atomic Energy Commission Establishment; which of the following events occurred after it?,c,Seleka Rebellion Begins,C,c,Seleka Rebellion Begins,1
+277,MCQ,Given the Sinhala Only Act; which of the following events occurred after it?,c,Independence from Spain,C,c,Independence from Spain,1
+278,MCQ,Given the Beslan School Siege; which of the following events occurred after it?,d,Murdered and Missing Indigenous Women Inquiry,D,d,Murdered and Missing Indigenous Women Inquiry,1
+279,MCQ,Given the Vision 2030 Announced; which of the following events occurred after it?,b,First Mars Helicopter Flight,B,b,First Mars Helicopter Flight,1
+280,MCQ,Given the Pakistan Joins the United Nations; which of the following events occurred after it?,a,Somali Civil War Begins,A,a,Somali Civil War Begins,1
+281,MCQ,Given the Aboriginal Land Rights Act; which of the following events occurred after it?,c,Fall of Gaddafi,C,c,Fall of Gaddafi,1
+282,MCQ,Given the 2016 Uri Attack and Subsequent Surgical Strikes; which of the following events occurred after it?,c,George Floyd Protests and Derek Chauvin Trial,C,c,George Floyd Protests and Derek Chauvin Trial,1
+283,MCQ,Given the Aboriginal Land Rights Act; which of the following events occurred after it?,a,Sidoarjo Mud Flow,A,a,Sidoarjo Mud Flow,1
+284,MCQ,Given the Decriminalization of Homosexuality; which of the following events occurred after it?,c,Release of Political Prisoners,C,c,Release of Political Prisoners,1
+285,MCQ,Given the Foreshore and Seabed Controversy; which of the following events occurred after it?,b,Political Crisis and State of Emergency,B,b,Political Crisis and State of Emergency,1
+286,MCQ,Given the Deng Xiaoping's Southern Tour; which of the following events occurred after it?,a,L'Aquila Earthquake,A,a,L'Aquila Earthquake,1
+287,MCQ,Given the Apology to the Stolen Generations; which of the following events occurred after it?,a,L'Aquila Earthquake,A,a,L'Aquila Earthquake,1
+288,MCQ,Given the Supreme Court Verdict on Ayodhya; which of the following events occurred after it?,c,Launch of James Webb Space Telescope,C,c,Launch of James Webb Space Telescope,1
+289,MCQ,Given the Decriminalization of Homosexuality; which of the following events occurred after it?,d,Quebec Referendum on Sovereignty,D,d,Quebec Referendum on Sovereignty,1
+290,MCQ,Given the Deng Xiaoping's Southern Tour; which of the following events occurred after it?,b,Death of Islam Karimov,B,b,Death of Islam Karimov,1
+291,MCQ,Given the Tokugawa Shogunate Established; which of the following events occurred after it?,b,ETA's Permanent Ceasefire,B,b,ETA's Permanent Ceasefire,1
+292,MCQ,Given the Cultural Revolution; which of the following events occurred after it?,a,Land Reform Program Begins,D,d,Decolonization Begins,0
+293,MCQ,Given the Establishment of the Mahaweli Development Project; which of the following events occurred after it?,c,Expo 2015 in Milan,C,c,Expo 2015 in Milan,1
+294,MCQ,Given the Straits Settlements Establishment; which of the following events occurred after it?,d,Virgin Lands Campaign,D,d,Virgin Lands Campaign,1
+295,MCQ,Given the Whitlam Government Dismissal; which of the following events occurred after it?,a,US Withdrawal from the JCPOA,A,a,US Withdrawal from the JCPOA,1
+296,MCQ,Given the Establishment of Goryeo Dynasty; which of the following events occurred after it?,b,Defeat of the Spanish Armada,B,b,Defeat of the Spanish Armada,1
+297,MCQ,Given the The Opium Wars and Treaty of Nanjing; which of the following events occurred after it?,b,Mani Pulite (Clean Hands) Investigation Begins,B,b,Mani Pulite (Clean Hands) Investigation Begins,1
+298,MCQ,Given the Motorway Network Development; which of the following events occurred after it?,a,Coup d'état Leads to Mugabe's Resignation,A,a,Coup d'état Leads to Mugabe's Resignation,1
+299,MCQ,Given the Creation of Pakistan; which of the following events occurred after it?,a,End of Sierra Leone Civil War,A,a,End of Sierra Leone Civil War,1
+300,MCQ,Given the 2002 Ceasefire Agreement with LTTE; which of the following events occurred after it?,d,Decriminalization of Homosexuality,D,d,Decriminalization of Homosexuality,1
+301,MCQ,Given the Washington Naval Conference; which of the following events occurred after it?,c,Austerity Measures During Crisis,C,c,Austerity Measures During Crisis,1
+302,MCQ,Given the Reiwa Era Begins; which of the following events occurred after it?,a,Capitol Riot,A,a,Capitol Riot,1
+303,MCQ,Given the Khashoggi Assassination; which of the following events occurred after it?,b,Cyclone Idai,B,b,Cyclone Idai,1
+304,MCQ,Given the August Revolution; which of the following events occurred after it?,b,Spanish Transition to Democracy,B,b,Spanish Transition to Democracy,1
+305,MCQ,Given the Treaty of Jeddah; which of the following events occurred after it?,a,Costa Concordia Shipwreck,A,a,Costa Concordia Shipwreck,1
+306,MCQ,Given the Mongol Invasions of Japan; which of the following events occurred after it?,a,California Gold Rush,A,a,California Gold Rush,1
+307,MCQ,Given the Royal Commission into Institutional Responses...; which of the following events occurred after it?,b,Launch of James Webb Space Telescope,B,b,Launch of James Webb Space Telescope,1
+308,MCQ,Given the GST (Goods and Services Tax) Implementation; which of the following events occurred after it?,a,Yellow Vest Protests,A,a,Yellow Vest Protests,1
+309,MCQ,Given the The Great Depression Hits Australia; which of the following events occurred after it?,a,SilkAir Flight 185,A,a,SilkAir Flight 185,1
+310,MCQ,Given the Jallianwala Bagh Massacre; which of the following events occurred after it?,a,British Exit from the European Exchange Rate Mechanism,A,a,British Exit from the European Exchange Rate Mechanism,1
+311,MCQ,Given the Kyoto Protocol on Climate Change; which of the following events occurred after it?,d,Appointment of Abiy Ahmed,D,d,Appointment of Abiy Ahmed,1
+312,MCQ,Given the Gold Rushes Begin; which of the following events occurred after it?,b,Bukhara Emirate Overthrown by Bolsheviks,B,b,Bukhara Emirate Overthrown by Bolsheviks,1
+313,MCQ,Given the Indian Independence; which of the following events occurred after it?,a,Introduction of a Multiparty System,A,a,Introduction of a Multiparty System,1
+314,MCQ,Given the SARS Epidemic; which of the following events occurred after it?,d,Egyptian Revolution of 2011,D,d,Egyptian Revolution of 2011,1
+315,MCQ,Given the October Revolution; which of the following events occurred after it?,d,Independence from Britain,D,d,Independence from Britain,1
+316,MCQ,Given the Paris Peace Accords; which of the following events occurred after it?,b,2012 London Olympics,B,b,2012 London Olympics,1
+317,MCQ,Given the Riyadh Compound Bombings; which of the following events occurred after it?,b,2006 Winter Olympics in Turin,B,b,2006 Winter Olympics in Turin,1
+318,MCQ,Given the Fall of the Ming Dynasty and Rise of the Qing; which of the following events occurred after it?,b,Compromise of 1850,B,b,Compromise of 1850,1
+319,MCQ,Given the Land Reform Law Enacted; which of the following events occurred after it?,d,Somali Civil War Begins,C,c,Union of Tanganyika and Zanzibar,0
+320,MCQ,Given the East Pakistan demands autonomy; which of the following events occurred after it?,b,Scottish Devolution Referendum,B,b,Scottish Devolution Referendum,1
+321,MCQ,Given the Establishment of the People's Republic of China; which of the following events occurred after it?,a,September 11 Attacks,A,a,September 11 Attacks,1
+322,MCQ,Given the Myall Creek Massacre; which of the following events occurred after it?,a,Japanese Occupation,A,a,Japanese Occupation,1
+323,MCQ,Given the Establishment of the Central Bank of Sri Lanka; which of the following events occurred after it?,d,L'Aquila Earthquake,D,d,L'Aquila Earthquake,1
+324,MCQ,Given the Creation of the Saudi Riyal; which of the following events occurred after it?,d,Kengir Uprising,D,d,Kengir Uprising,1
+325,MCQ,Given the October Revolution; which of the following events occurred after it?,b,1MDB Scandal,B,b,1MDB Scandal,1
+326,MCQ,Given the Return of Hong Kong; which of the following events occurred after it?,b,#EndSARS Protests,B,b,#EndSARS Protests,1
+327,MCQ,Given the Putin's First Presidential Term; which of the following events occurred after it?,a,First Democratic Elections,A,a,First Democratic Elections,1
+328,MCQ,Given the Citizenship Amendment Act (CAA) Implementation; which of the following events occurred after it?,d,#EndSARS Protests,D,d,#EndSARS Protests,1
+329,MCQ,Given the Sook Ching Massacre; which of the following events occurred after it?,b,Expo 2015 in Milan,B,b,Expo 2015 in Milan,1
+330,MCQ,Given the SARS Epidemic; which of the following events occurred after it?,b,Appointment of Abiy Ahmed,B,b,Appointment of Abiy Ahmed,1
+331,MCQ,Given the Introduction of UPI (Unified Payment Interface); which of the following events occurred after it?,d,Presidential Election Victory of Ibrahim Solih,C,c,Theresa May becomes Prime Minister,0
+332,MCQ,Given the Port Arthur Massacre; which of the following events occurred after it?,a,Scottish Independence Referendum,A,a,Scottish Independence Referendum,1
+333,MCQ,Given the Battle of Plassey; which of the following events occurred after it?,c,Compromise of 1850,C,c,Compromise of 1850,1
+334,MCQ,Given the Putin's First Presidential Term; which of the following events occurred after it?,d,Murdered and Missing Indigenous Women Inquiry,D,d,Murdered and Missing Indigenous Women Inquiry,1
+335,MCQ,Given the India's Demonetisation Campaign; which of the following events occurred after it?,b,Withdrawal from Afghanistan,B,b,Withdrawal from Afghanistan,1
+336,MCQ,Given the Historic Solar Alliance Initiative; which of the following events occurred after it?,c,First Mars Helicopter Flight,C,c,First Mars Helicopter Flight,1
+337,MCQ,Given the Skripal Poisoning Incident; which of the following events occurred after it?,d,Supreme Court Overturns Roe v. Wade,D,d,Supreme Court Overturns Roe v. Wade,1
+338,MCQ,Given the Ratana Movement Political Involvement; which of the following events occurred after it?,c,Nigerian Civil War,C,c,Nigerian Civil War,1
+339,MCQ,Given the Founding of the Song Dynasty; which of the following events occurred after it?,b,Canada Act 1982 (Patriation of the Constitution),B,b,Canada Act 1982 (Patriation of the Constitution),1
+340,MCQ,Given the South China Sea Arbitration Ruling; which of the following events occurred after it?,d,Yellow Vest Protests,D,d,Yellow Vest Protests,1
+341,MCQ,Given the Gold Rushes Begin; which of the following events occurred after it?,a,Egyptian Revolution of 2011,A,a,Egyptian Revolution of 2011,1
+342,MCQ,Given the Lê Dynasty Restoration; which of the following events occurred after it?,d,Brexit Referendum,D,d,Brexit Referendum,1
+343,MCQ,Given the Decriminalization of Homosexuality; which of the following events occurred after it?,d,Gulf War,D,d,Gulf War,1
+344,MCQ,Given the Citizenship Amendment Act (CAA) Implementation; which of the following events occurred after it?,b,#EndSARS Protests,B,b,#EndSARS Protests,1
+345,MCQ,Given the ANZUS Treaty Signing; which of the following events occurred after it?,d,Bloody Sunday in Northern Ireland,D,d,Bloody Sunday in Northern Ireland,1
+346,MCQ,Given the Introduction of Modern Education; which of the following events occurred after it?,d,France Wins the 2018 FIFA World Cup,D,d,France Wins the 2018 FIFA World Cup,1
+347,MCQ,Given the 2008 Beijing Olympic Games; which of the following events occurred after it?,a,Scottish Independence Referendum,A,a,Scottish Independence Referendum,1
+348,MCQ,Given the First Nuclear Test (Smiling Buddha); which of the following events occurred after it?,d,Hotel New World Collapse,D,d,Hotel New World Collapse,1
+349,MCQ,Given the Establishment of the Kingdom of Saudi Arabia; which of the following events occurred after it?,d,Malaysia Airlines Flight MH370 Disappearance,D,d,Malaysia Airlines Flight MH370 Disappearance,1
+350,MCQ,Given the Japanese Invasions of Korea (Imjin War); which of the following events occurred after it?,d,2006 Winter Olympics in Turin,D,d,2006 Winter Olympics in Turin,1
+351,MCQ,Given the Start of Swachh Bharat Mission; which of the following events occurred after it?,a,Brexit Referendum,A,a,Brexit Referendum,1
+352,MCQ,Given the Heisei Era Begins; which of the following events occurred after it?,c,First Human DNA Sequencing,C,c,First Human DNA Sequencing,1
+353,MCQ,Given the 2020 Tokyo Olympics Postponement; which of the following events occurred after it?,c,Paris Agreement Rejoining,C,c,Paris Agreement Rejoining,1
+354,MCQ,Given the National Service Introduced; which of the following events occurred after it?,c,ETA's Permanent Ceasefire,C,c,ETA's Permanent Ceasefire,1
+355,MCQ,Given the ANZUS Treaty Signing; which of the following events occurred after it?,b,Independence from Belgium,B,b,Independence from Belgium,1
+356,MCQ,Given the Federation of Australia; which of the following events occurred after it?,b,Establishment of Nunavut,B,b,Establishment of Nunavut,1
+357,MCQ,Given the First Executive President Elected; which of the following events occurred after it?,a,British Exit from the European Exchange Rate Mechanism,D,d,Battle of Trafalgar,0
+358,MCQ,Given the New Zealand's First Female Prime Minister; which of the following events occurred after it?,c,Supreme Court Overturns Roe v. Wade,C,c,Supreme Court Overturns Roe v. Wade,1
+359,MCQ,Given the Establishment of the Democratic People's Republic of Korea; which of the following events occurred after it?,b,Independence from Belgium,B,b,Independence from Belgium,1
+360,MCQ,Given the Peter the Great's Reforms; which of the following events occurred after it?,d,Murdered and Missing Indigenous Women Inquiry,C,c,Signing of the Treaty of Utrecht,0
+361,MCQ,Given the Maria Hertogh Riots; which of the following events occurred after it?,a,1953 Iranian Coup d'état,A,a,1953 Iranian Coup d'état,1
+362,MCQ,Given the Korean Empire Proclaimed; which of the following events occurred after it?,a,First Democratic Elections,A,a,First Democratic Elections,1
+363,MCQ,Given the First Indochina War Begins; which of the following events occurred after it?,d,Expo 2015 in Milan,D,d,Expo 2015 in Milan,1
+364,MCQ,Given the May Fourth Movement; which of the following events occurred after it?,d,Introduction of First Constitution,D,d,Introduction of First Constitution,1
+365,MCQ,Given the Japan's Surrender in World War II; which of the following events occurred after it?,d,Tunisian Revolution,D,d,Tunisian Revolution,1
+366,MCQ,Given the Introduction of Goods and Services Tax (GST); which of the following events occurred after it?,c,France Bans Smoking in Public Places,C,c,France Bans Smoking in Public Places,1
+367,MCQ,Given the Beslan School Siege; which of the following events occurred after it?,c,Tunisian Revolution,C,c,Tunisian Revolution,1
+368,MCQ,Given the The Shearers' Strike; which of the following events occurred after it?,a,Collectivization in Uzbekistan,A,a,Collectivization in Uzbekistan,1
+369,MCQ,Given the Establishment of the Colony of Van Diemen's Land; which of the following events occurred after it?,c,Independence from France,C,c,Independence from France,1
+370,MCQ,Given the The Grand Canal Construction; which of the following events occurred after it?,c,Vancouver Winter Olympics,C,c,Vancouver Winter Olympics,1
+371,MCQ,Given the Cable Car Disaster; which of the following events occurred after it?,b,Gulf War,B,b,Gulf War,1
+372,MCQ,Given the Great Leap Forward; which of the following events occurred after it?,c,Release of Political Prisoners,C,c,Release of Political Prisoners,1
+373,MCQ,Given the Satsuma Rebellion; which of the following events occurred after it?,a,Law of Historical Memory,A,a,Law of Historical Memory,1
+374,MCQ,Given the Vietnam Joins the World Trade Organization; which of the following events occurred after it?,a,Austerity Measures During Crisis,A,a,Austerity Measures During Crisis,1
+375,MCQ,Given the Mongol Conquest and the Yuan Dynasty Establishment; which of the following events occurred after it?,c,Collectivization in Uzbekistan,C,c,Collectivization in Uzbekistan,1
+376,MCQ,Given the Partition Plan Announced; which of the following events occurred after it?,a,Moon Landing (Apollo 11),A,a,Moon Landing (Apollo 11),1
+377,MCQ,Given the Mount Tarawera Eruption; which of the following events occurred after it?,a,Capital Moved to Astana,A,a,Capital Moved to Astana,1
+378,MCQ,Given the King Abdullah's Ascension; which of the following events occurred after it?,c,2006 Winter Olympics in Turin,C,c,2006 Winter Olympics in Turin,1
+379,MCQ,Given the Meiji Restoration; which of the following events occurred after it?,d,Union of Tanganyika and Zanzibar,D,d,Union of Tanganyika and Zanzibar,1
+380,MCQ,Given the Korean War; which of the following events occurred after it?,c,Scottish Devolution Referendum,C,c,Scottish Devolution Referendum,1
+381,MCQ,Given the Establishment of the University of Ceylon; which of the following events occurred after it?,d,ISIS Captures Mosul,D,d,ISIS Captures Mosul,1
+382,MCQ,Given the Whitlam Government Dismissal; which of the following events occurred after it?,c,August Revolution,A,a,Independence from Belgium,0
+383,MCQ,Given the Return of Macau; which of the following events occurred after it?,b,Vancouver Winter Olympics,B,b,Vancouver Winter Olympics,1
+384,MCQ,Given the ANZUS Treaty Signing; which of the following events occurred after it?,b,Libyan Revolution (1969),B,b,Libyan Revolution (1969),1
+385,MCQ,Given the Cripps Mission; which of the following events occurred after it?,d,Creation of the Commonwealth of Nations,D,d,Creation of the Commonwealth of Nations,1
+386,MCQ,Given the Separation and Independence; which of the following events occurred after it?,a,Independence from Sudan,A,a,Independence from Sudan,1
+387,MCQ,Given the Taika Reforms; which of the following events occurred after it?,c,Amalgamation of Northern and Southern Protectorates,C,c,Amalgamation of Northern and Southern Protectorates,1
+388,MCQ,Given the Long March; which of the following events occurred after it?,d,SilkAir Flight 185,D,d,SilkAir Flight 185,1
+389,MCQ,Given the Black Friday Bushfires; which of the following events occurred after it?,d,Decolonization Begins,D,d,Decolonization Begins,1
+390,MCQ,Given the Putin's First Presidential Term; which of the following events occurred after it?,a,2004 Madrid Train Bombings,A,a,2004 Madrid Train Bombings,1
+391,MCQ,Given the Ming Dynasty's Voyages of Zheng He; which of the following events occurred after it?,c,Boko Haram Insurgency Intensifies,C,c,Boko Haram Insurgency Intensifies,1
+392,MCQ,Given the Partition of India; which of the following events occurred after it?,d,Presidential Transition,D,d,Presidential Transition,1
+393,MCQ,Given the Mongol Invasion of Rus'; which of the following events occurred after it?,d,Supreme Court Upholds Obamacare,D,d,Supreme Court Upholds Obamacare,1
+394,MCQ,Given the Speak Mandarin Campaign Launched; which of the following events occurred after it?,d,Sidoarjo Mud Flow,D,d,Sidoarjo Mud Flow,1
+395,MCQ,Given the Shanghai Cooperation Organization Establishment; which of the following events occurred after it?,d,Fort McMurray Wildfire,D,d,Fort McMurray Wildfire,1
+396,MCQ,Given the 2011 Christchurch Earthquake; which of the following events occurred after it?,a,Black Lives Matter Movement,A,a,Black Lives Matter Movement,1
+397,MCQ,Given the Merger with Malaysia; which of the following events occurred after it?,d,Fall of Blaise Compaoré,D,d,Fall of Blaise Compaoré,1
+398,MCQ,Given the Formation of the Saudi Arabian National Guard; which of the following events occurred after it?,d,Supreme Court Overturns Roe v. Wade,D,d,Supreme Court Overturns Roe v. Wade,1
+399,MCQ,Given the Jallianwala Bagh Massacre; which of the following events occurred after it?,d,Creation of the Canadian Flag,D,d,Creation of the Canadian Flag,1
+400,MCQ,Given the Founding Member of the Arab League; which of the following events occurred after it?,b,Egyptian Revolution of 2011,B,b,Egyptian Revolution of 2011,1
+401,MCQ,Given the The Shearers' Strike; which of the following events occurred after it?,b,Italian Invasion of Libya,B,b,Italian Invasion of Libya,1
+402,MCQ,Given the Laju Ferry Hijacking; which of the following events occurred after it?,a,Cannabis Legalization,A,a,Cannabis Legalization,1
+403,MCQ,Given the Japanese Invasions of Korea (Imjin War); which of the following events occurred after it?,c,Independence from France,C,c,Independence from France,1
+404,MCQ,Given the Creation of the Saudi Riyal; which of the following events occurred after it?,d,Gross National Happiness Introduced,D,d,Gross National Happiness Introduced,1
+405,MCQ,Given the Federation of Australia; which of the following events occurred after it?,c,Pakatan Harapan Electoral Victory,C,c,Pakatan Harapan Electoral Victory,1
+406,MCQ,Given the Discovery of Oil; which of the following events occurred after it?,a,Independence from Britain,C,c,Balfour Declaration of 1926,0
+407,MCQ,Given the Boshin War; which of the following events occurred after it?,b,Discovery of Oil in Alberta,B,b,Discovery of Oil in Alberta,1
+408,MCQ,Given the April Revolution; which of the following events occurred after it?,c,Union of Tanganyika and Zanzibar,C,c,Union of Tanganyika and Zanzibar,1
+409,MCQ,Given the Skripal Poisoning Incident; which of the following events occurred after it?,d,First Mars Helicopter Flight,D,d,First Mars Helicopter Flight,1
+410,MCQ,Given the Establishment of the Commonwealth of Australia; which of the following events occurred after it?,a,Scottish Devolution Referendum,A,a,Scottish Devolution Referendum,1
+411,MCQ,Given the GST (Goods and Services Tax) Implementation; which of the following events occurred after it?,a,Exhumation of Francisco Franco,A,a,Exhumation of Francisco Franco,1
+412,MCQ,Given the Sydney Harbour Bridge Opens; which of the following events occurred after it?,a,UK Hosts the G8 Summit,A,a,UK Hosts the G8 Summit,1
+413,MCQ,Given the Geneva Accords; which of the following events occurred after it?,c,US Withdrawal from the JCPOA,C,c,US Withdrawal from the JCPOA,1
+414,MCQ,Given the Jallianwala Bagh Massacre; which of the following events occurred after it?,b,Reza Shah's Modernization Efforts,B,b,Reza Shah's Modernization Efforts,1
+415,MCQ,Given the Riyadh Compound Bombings; which of the following events occurred after it?,c,L'Aquila Earthquake,C,c,L'Aquila Earthquake,1
+416,MCQ,Given the Manchurian Incident; which of the following events occurred after it?,b,Oklahoma City Bombing,B,b,Oklahoma City Bombing,1
+417,MCQ,Given the 2008 Beijing Olympics; which of the following events occurred after it?,d,Decriminalization of Homosexuality,D,d,Decriminalization of Homosexuality,1
+418,MCQ,Given the Founding Member of the Arab League; which of the following events occurred after it?,b,Apology to Residential School Survivors,B,b,Apology to Residential School Survivors,1
+419,MCQ,Given the Māori Seats Established in Parliament; which of the following events occurred after it?,b,Affordable Care Act (Obamacare) Implementation,B,b,Affordable Care Act (Obamacare) Implementation,1
+420,MCQ,Given the Introduction of Firearms by Portuguese; which of the following events occurred after it?,a,Sultanate Becomes a British Protectorate,A,a,Sultanate Becomes a British Protectorate,1
+421,MCQ,Given the Establishment of the Democratic People's Republic of Korea; which of the following events occurred after it?,b,Signing of the Treaty of Rome,B,b,Signing of the Treaty of Rome,1
+422,MCQ,Given the Saudi Arabia Joins the WTO; which of the following events occurred after it?,a,Joseph Kony Insurgency Declines,A,a,Joseph Kony Insurgency Declines,1
+423,MCQ,Given the Founding of Saudi Aramco; which of the following events occurred after it?,c,Independence from Spain,B,b,Federated Malay States Formed,0
+424,MCQ,Given the Hong Kong Handover; which of the following events occurred after it?,b,Housing Market Crash and Great Recession,B,b,Housing Market Crash and Great Recession,1
+425,MCQ,Given the Korean War; which of the following events occurred after it?,c,Independence from France,C,c,Independence from France,1
+426,MCQ,Given the Ram Mandir Bhoomi Pujan; which of the following events occurred after it?,b,January 6 Capitol Attack,B,b,January 6 Capitol Attack,1
+427,MCQ,Given the Repeal of Carbon Tax; which of the following events occurred after it?,c,Decriminalization of Homosexuality,C,c,Decriminalization of Homosexuality,1
+428,MCQ,Given the Khashoggi Assassination; which of the following events occurred after it?,d,George Floyd Protests and Derek Chauvin Trial,D,d,George Floyd Protests and Derek Chauvin Trial,1
+429,MCQ,Given the Destruction of the First Saudi State; which of the following events occurred after it?,d,Treaty of Sinchula,D,d,Treaty of Sinchula,1
+430,MCQ,Given the First Round Table Conference; which of the following events occurred after it?,c,Nairobi's DusitD2 Complex Attack,C,c,Nairobi's DusitD2 Complex Attack,1
+431,MCQ,Given the Collectivization of Agriculture; which of the following events occurred after it?,a,Expo 2015 in Milan,A,a,Expo 2015 in Milan,1
+432,MCQ,Given the Partition of India; which of the following events occurred after it?,c,Release of Political Prisoners,C,c,Release of Political Prisoners,1
+433,MCQ,Given the Zheng He's Expeditions; which of the following events occurred after it?,b,Egyptian Revolution of 2011,B,b,Egyptian Revolution of 2011,1
+434,MCQ,Given the The Great Depression Hits Australia; which of the following events occurred after it?,b,Korean Air Flight 801,B,b,Korean Air Flight 801,1
+435,MCQ,Given the Heisei Era Begins; which of the following events occurred after it?,b,Algerian Civil War Ends,B,b,Algerian Civil War Ends,1
+436,MCQ,Given the Reserve Bank of India (RBI); which of the following events occurred after it?,b,Presidential Election Victory of Ibrahim Solih,B,b,Presidential Election Victory of Ibrahim Solih,1
+437,MCQ,Given the Republican Constitution of 1972; which of the following events occurred after it?,d,January 6 Capitol Attack,D,d,January 6 Capitol Attack,1
+438,MCQ,Given the Battle of Điện Biên Phủ; which of the following events occurred after it?,c,Battle of Algiers,C,c,Battle of Algiers,1
+439,MCQ,Given the Battle of Kulikovo; which of the following events occurred after it?,d,Japanese Occupation of Malaya,D,d,Japanese Occupation of Malaya,1
+440,MCQ,Given the Abolition of FATA; which of the following events occurred after it?,a,Protests Against Corruption and Unemployment,A,a,Protests Against Corruption and Unemployment,1
+441,MCQ,Given the Assassination of Benazir Bhutto; which of the following events occurred after it?,c,Independence from Sudan,C,c,Independence from Sudan,1
+442,MCQ,Given the 1981 Springbok Tour Protests; which of the following events occurred after it?,c,Pakistan International Airlines Flight 268,C,c,Pakistan International Airlines Flight 268,1
+443,MCQ,Given the Mount Tarawera Eruption; which of the following events occurred after it?,d,Roe v. Wade Supreme Court Decision,D,d,Roe v. Wade Supreme Court Decision,1
+444,MCQ,Given the Kandahar Hijacking (IC 814); which of the following events occurred after it?,b,Seleka Rebellion Begins,B,b,Seleka Rebellion Begins,1
+445,MCQ,Given the Establishment of the Delhi Sultanate; which of the following events occurred after it?,a,Unification of Italy Proclaimed,B,b,Golden Horde Rule,0
+446,MCQ,Given the Return of the British; which of the following events occurred after it?,c,Prince Philip's Death,D,d,Paris Commune,0
+447,MCQ,Given the April Revolution; which of the following events occurred after it?,b,UK Hosts the G8 Summit,B,b,UK Hosts the G8 Summit,1
+448,MCQ,Given the Deng Xiaoping's Southern Tour; which of the following events occurred after it?,b,Murdered and Missing Indigenous Women Inquiry,B,b,Murdered and Missing Indigenous Women Inquiry,1
+449,MCQ,Given the Boshin War; which of the following events occurred after it?,d,Sultanate Abolished and Restored,D,d,Sultanate Abolished and Restored,1
+450,MCQ,Given the National Service Introduced; which of the following events occurred after it?,a,Enactment of the Patriot Act,A,a,Enactment of the Patriot Act,1
+451,MCQ,Given the Right to Education Act; which of the following events occurred after it?,a,Affordable Care Act (Obamacare) Implementation,A,a,Affordable Care Act (Obamacare) Implementation,1
+452,MCQ,Given the Speak Mandarin Campaign Launched; which of the following events occurred after it?,a,Fort McMurray Wildfire,A,a,Fort McMurray Wildfire,1
+453,MCQ,Given the Partition Plan Announced; which of the following events occurred after it?,d,Rwandan Genocide,D,d,Rwandan Genocide,1
+454,MCQ,Given the India's First Hyperloop Project Announcement; which of the following events occurred after it?,c,Supreme Court Overturns Roe v. Wade,C,c,Supreme Court Overturns Roe v. Wade,1
+455,MCQ,Given the Jallianwala Bagh Massacre; which of the following events occurred after it?,a,1979 Iranian Revolution,A,a,1979 Iranian Revolution,1
+456,MCQ,Given the Skripal Poisoning Incident; which of the following events occurred after it?,a,Launch of James Webb Space Telescope,A,a,Launch of James Webb Space Telescope,1
+457,MCQ,Given the Sinhala Only Act; which of the following events occurred after it?,b,Independence from France,B,b,Independence from France,1
+458,MCQ,Given the Paris Peace Accords; which of the following events occurred after it?,c,Movement for Multiparty Democracy,C,c,Movement for Multiparty Democracy,1
+459,MCQ,Given the Mabo v Queensland Decision; which of the following events occurred after it?,d,Fall of Blaise Compaoré,D,d,Fall of Blaise Compaoré,1
+460,MCQ,Given the Battle of Plassey; which of the following events occurred after it?,d,Death of Islam Karimov,D,d,Death of Islam Karimov,1
+461,MCQ,Given the Introduction of Modern Education; which of the following events occurred after it?,c,Scottish Independence Referendum,C,c,Scottish Independence Referendum,1
+462,MCQ,Given the Mongol Conquest and the Yuan Dynasty Establishment; which of the following events occurred after it?,b,Abolition of Slavery,B,b,Abolition of Slavery,1
+463,MCQ,Given the Singapore Joins the United Nations; which of the following events occurred after it?,a,Independence from Portugal,A,a,Independence from Portugal,1
+464,MCQ,Given the Armistice Agreement; which of the following events occurred after it?,b,Bloody Sunday in Northern Ireland,C,c,Bukhara Emirate Overthrown by Bolsheviks,0
+465,MCQ,Given the FATF Grey List; which of the following events occurred after it?,c,#EndSARS Protests,C,c,#EndSARS Protests,1
+466,MCQ,Given the Formation of the Saudi Arabian National Guard; which of the following events occurred after it?,a,Independence from Portugal,A,a,Independence from Portugal,1
+467,MCQ,Given the Taiping Rebellion; which of the following events occurred after it?,a,Nedelin Catastrophe,A,a,Nedelin Catastrophe,1
+468,MCQ,Given the Ratana Movement Political Involvement; which of the following events occurred after it?,c,Hurricane Katrina,C,c,Hurricane Katrina,1
+469,MCQ,Given the Manchu Invasions of Korea; which of the following events occurred after it?,c,ETA's Permanent Ceasefire,C,c,ETA's Permanent Ceasefire,1
+470,MCQ,Given the Mongol Invasions of Korea; which of the following events occurred after it?,b,Fall of the Spanish Empire,B,b,Fall of the Spanish Empire,1
+471,MCQ,Given the Oil Revenue Boom; which of the following events occurred after it?,b,Independence from Britain,D,d,Baghdad Pact,0
+472,MCQ,Given the Emperor Akihito's Abdication; which of the following events occurred after it?,b,Capitol Riot,B,b,Capitol Riot,1
+473,MCQ,Given the Signing of the Treaty of Waitangi; which of the following events occurred after it?,b,Murdered and Missing Indigenous Women Inquiry,B,b,Murdered and Missing Indigenous Women Inquiry,1
+474,MCQ,Given the Vietnam's First Communication Satellite; which of the following events occurred after it?,a,France Wins the 2018 FIFA World Cup,A,a,France Wins the 2018 FIFA World Cup,1
+475,MCQ,Given the Hanoi Poison Plot; which of the following events occurred after it?,a,Bloody Sunday in Northern Ireland,A,a,Bloody Sunday in Northern Ireland,1
+476,MCQ,Given the Sigiriya Designated as a UNESCO World Heritage Site; which of the following events occurred after it?,a,Gacaca Courts Initiated,A,a,Gacaca Courts Initiated,1
+477,MCQ,Given the Partition of India; which of the following events occurred after it?,d,Assassination of President John F. Kennedy,D,d,Assassination of President John F. Kennedy,1
+478,MCQ,Given the Moscow Theater Hostage Crisis; which of the following events occurred after it?,c,Nairobi's DusitD2 Complex Attack,C,c,Nairobi's DusitD2 Complex Attack,1
+479,MCQ,Given the Trần Dynasty Defeats Mongol Invasions; which of the following events occurred after it?,c,The Beatles' Rise to Fame,C,c,The Beatles' Rise to Fame,1
+480,MCQ,Given the Marco Polo Bridge Incident; which of the following events occurred after it?,c,Cannabis Legalization,C,c,Cannabis Legalization,1
+481,MCQ,Given the Korean War; which of the following events occurred after it?,a,Official Languages Act,A,a,Official Languages Act,1
+482,MCQ,Given the Manchu Invasions of Korea; which of the following events occurred after it?,b,Queen Victoria's Reign Begins,B,b,Queen Victoria's Reign Begins,1
+483,MCQ,Given the India's Demonetisation Campaign; which of the following events occurred after it?,c,Sudanese Revolution,C,c,Sudanese Revolution,1
+484,MCQ,Given the Darwin Bombing by Japanese Forces; which of the following events occurred after it?,d,Libyan Civil War,D,d,Libyan Civil War,1
+485,MCQ,Given the Washington Naval Conference; which of the following events occurred after it?,b,First Human DNA Sequencing,B,b,First Human DNA Sequencing,1
+486,MCQ,Given the Establishment of King Abdulaziz University; which of the following events occurred after it?,a,Coup d'état,A,a,Coup d'état,1
+487,MCQ,Given the Boshin War; which of the following events occurred after it?,d,September 11 Attacks,D,d,September 11 Attacks,1
+488,MCQ,Given the Kyoto Protocol on Climate Change; which of the following events occurred after it?,d,Cyclone Idai,D,d,Cyclone Idai,1
+489,MCQ,Given the Mount Tarawera Eruption; which of the following events occurred after it?,c,Presidential Transition,C,c,Presidential Transition,1
+490,MCQ,Given the Eureka Stockade; which of the following events occurred after it?,c,Dahomey (Benin) Independence,C,c,Dahomey (Benin) Independence,1
+491,MCQ,Given the 2002 FIFA World Cup; which of the following events occurred after it?,c,2004 Tsunami Impact,C,c,2004 Tsunami Impact,1
+492,MCQ,Given the Black Friday Bushfires; which of the following events occurred after it?,b,Quebec Referendum on Sovereignty,B,b,Quebec Referendum on Sovereignty,1
+493,MCQ,Given the Establishment of the Second Saudi State; which of the following events occurred after it?,c,Independence from France,C,c,Independence from France,1
+494,MCQ,Given the Creation of the Welfare State; which of the following events occurred after it?,d,Patriation of the Canadian Constitution,D,d,Patriation of the Canadian Constitution,1
+495,MCQ,Given the Free Health Policy Implementation; which of the following events occurred after it?,a,First Woman Vice President Elected,A,a,First Woman Vice President Elected,1
+496,MCQ,Given the Founding of the Vietnamese Nationalist Party; which of the following events occurred after it?,b,Eritrean Independence Referendum,B,b,Eritrean Independence Referendum,1
+497,MCQ,Given the Anzac Forces Land at Gallipoli; which of the following events occurred after it?,a,Creation of the Commonwealth of Nations,A,a,Creation of the Commonwealth of Nations,1
+498,MCQ,Given the Meiji Restoration; which of the following events occurred after it?,c,Fukushima Daiichi Nuclear Disaster,C,c,Fukushima Daiichi Nuclear Disaster,1
+499,MCQ,Given the Women's Suffrage Achieved; which of the following events occurred after it?,c,First Television Broadcast by BBC,C,c,First Television Broadcast by BBC,1
+500,MCQ,Given the First War of Indian Independence; which of the following events occurred after it?,a,First Woman Vice President Elected,A,a,First Woman Vice President Elected,1

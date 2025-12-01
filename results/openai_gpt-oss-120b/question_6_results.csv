@@ -1,0 +1,134 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Albert Einstein published his theory of special relativity in 1905.,a,True,True,a,True,1
+2,TF,Marie Curie was the first woman to win a Nobel Prize.,a,True,True,a,True,1
+3,TF,Nelson Mandela served as President of South Africa after 2010.,b,False,False,b,False,1
+4,TF,Leonardo da Vinci painted the Mona Lisa during the Italian Renaissance.,a,True,True,a,True,1
+5,TF,Isaac Newton formulated the laws of motion and universal gravitation.,a,True,True,a,True,1
+6,TF,Genghis Khan founded the Ottoman Empire in the 13th century.,b,False,False,b,False,1
+7,TF,Queen Victoria ruled the United Kingdom during the 19th century.,a,True,True,a,True,1
+8,TF,Julius Caesar played a major role in the rise of the Roman Empire.,a,True,True,a,True,1
+9,TF,George Washington served as the first President of the United States.,a,True,True,a,True,1
+10,TF,Cleopatra was the first female pharaoh of ancient Egypt.,b,False,False,b,False,1
+11,TF,Socrates was a classical Greek philosopher known for the Socratic method.,a,True,True,a,True,1
+12,TF,The Wright brothers completed the first powered flight in 1903.,a,True,True,a,True,1
+13,TF,Christopher Columbus reached North America during his 1492 voyage.,b,False,False,b,False,1
+14,TF,Napoleon Bonaparte became Emperor of France in the early 19th century.,a,True,True,a,True,1
+15,TF,Florence Nightingale is considered the founder of modern nursing.,a,True,True,a,True,1
+16,TF,William Shakespeare was a medieval French poet.,b,False,False,b,False,1
+17,TF,Mohandas Gandhi led India’s nonviolent resistance movement against British rule.,a,True,True,a,True,1
+18,TF,Alexander the Great created one of the largest empires of the ancient world.,a,True,True,a,True,1
+19,TF,The Roman Colosseum was originally built as a royal palace.,b,False,False,b,False,1
+20,TF,Martin Luther King Jr. delivered the 'I Have a Dream' speech in 1963.,a,True,True,a,True,1
+21,TF,The Magna Carta was signed in England in 1215.,a,True,True,a,True,1
+22,TF,Johannes Gutenberg invented the first successful printing press.,a,True,True,a,True,1
+23,TF,Siddhartha Gautama is known as the founder of Buddhism.,a,True,True,a,True,1
+24,TF,Queen Elizabeth I ruled England during the Victorian era.,b,False,False,b,False,1
+25,TF,Marco Polo traveled extensively through Asia and described his journeys.,a,True,True,a,True,1
+26,TF,Sigmund Freud is widely known as the father of psychoanalysis.,a,True,True,a,True,1
+27,TF,Jane Austen was a Russian novelist known for writing War and Peace.,b,False,False,b,False,1
+28,TF,Hammurabi is famous for creating one of the earliest recorded law codes.,a,True,True,a,True,1
+29,TF,Pablo Picasso was a leading figure in 20th-century modern art.,a,True,True,a,True,1
+30,TF,Abraham Lincoln issued the Emancipation Proclamation during the American Civil War.,a,True,True,a,True,1
+31,TF,Confucius was a major ancient Chinese philosopher whose ideas shaped East Asia.,a,True,True,a,True,1
+32,TF,Benjamin Franklin invented the telephone in the late 18th century.,b,False,False,b,False,1
+33,TF,Joan of Arc led French forces during the Hundred Years’ War.,a,True,True,a,True,1
+34,TF,The Black Death devastated Europe during the 14th century.,a,True,True,a,True,1
+35,TF,Nikola Tesla designed the alternating-current electrical system.,a,True,True,a,True,1
+36,TF,The Great Wall of China was built primarily during the Ming Dynasty.,a,True,True,a,True,1
+37,TF,Harriet Tubman helped enslaved people escape via the Underground Railroad.,a,True,True,a,True,1
+38,TF,The Aztec Empire was located in South America.,b,False,False,b,False,1
+39,TF,Louis Pasteur developed vaccines and pioneered germ theory.,a,True,True,a,True,1
+40,TF,Winston Churchill served as Prime Minister of the United Kingdom during World War II.,a,True,True,a,True,1
+41,TF,Charles Darwin proposed the theory of evolution by natural selection.,a,True,True,a,True,1
+42,TF,Rosa Parks became famous for refusing to give up her bus seat in Montgomery in 1955.,a,True,True,a,True,1
+43,TF,The Ottoman Empire collapsed immediately after World War I.,a,True,True,a,True,1
+44,TF,Galileo Galilei supported the geocentric model of the universe.,b,False,False,b,False,1
+45,TF,Adolf Hitler became Chancellor of Germany in 1933.,a,True,True,a,True,1
+46,TF,Frida Kahlo was a Spanish Renaissance sculptor.,b,False,False,b,False,1
+47,TF,Ludwig van Beethoven continued composing music even after becoming deaf.,a,True,True,a,True,1
+48,TF,The Berlin Wall was constructed in 1961.,a,True,True,a,True,1
+49,TF,Mother Teresa received the Nobel Peace Prize in 1979.,a,True,True,a,True,1
+50,TF,Thomas Edison invented the printing press in the 1400s.,b,False,False,b,False,1
+51,TF,Neil Armstrong was the first human to walk on the Moon in 1969.,a,True,True,a,True,1
+52,TF,The Titanic sank on its maiden voyage in 1912.,a,True,True,a,True,1
+53,TF,Hirohito was the Emperor of Japan during World War II.,a,True,True,a,True,1
+54,TF,Nelson Mandela spent over two decades imprisoned in South Africa.,a,True,True,a,True,1
+55,TF,Michelangelo painted the ceiling of the Sistine Chapel.,a,True,True,a,True,1
+56,TF,Amelia Earhart was the first woman to fly solo across the Atlantic Ocean.,a,True,True,a,True,1
+57,TF,Confucius lived during the European Middle Ages.,b,False,False,b,False,1
+58,TF,The Russian Revolution of 1917 led to the rise of the Soviet Union.,a,True,True,a,True,1
+59,TF,Benjamin Franklin helped draft the United States Constitution.,a,True,True,a,True,1
+60,TF,The Taj Mahal was constructed during the rule of Genghis Khan.,b,False,False,b,False,1
+61,TF,Vasco da Gama was the first European to reach India by sea.,a,True,True,a,True,1
+62,TF,The Great Depression began in the United States in 1929.,a,True,True,a,True,1
+63,TF,Queen Nefertiti was an important figure in ancient Egyptian history.,a,True,True,a,True,1
+64,TF,Fidel Castro led the Cuban Revolution in the 1950s.,a,True,True,a,True,1
+65,TF,Joan of Arc was executed during the French Revolution.,b,False,False,b,False,1
+66,TF,Sun Tzu is traditionally credited as the author of 'The Art of War.',a,True,True,a,True,1
+67,TF,The Apollo 13 mission successfully landed astronauts on Mars.,b,False,False,b,False,1
+68,TF,Cleopatra had alliances with Julius Caesar and Mark Antony.,a,True,True,a,True,1
+69,TF,Marie Antoinette was executed during the French Revolution.,a,True,True,a,True,1
+70,TF,Suleiman the Magnificent ruled the Ottoman Empire during the 16th century.,a,True,True,a,True,1
+71,TF,Alexander Fleming discovered penicillin in 1928.,a,True,True,a,True,1
+72,TF,The Great Fire of London occurred in 1666.,a,True,True,a,True,1
+73,TF,The Inca Empire was centered in the region of modern-day Peru.,a,True,True,a,True,1
+74,TF,The Battle of Hastings took place in 1815.,b,False,False,b,False,1
+75,TF,Florence Nightingale worked during the Crimean War.,a,True,True,a,True,1
+76,TF,Simón Bolívar helped lead independence movements in South America.,a,True,True,a,True,1
+77,TF,The Mayan civilization lived primarily in ancient Greece.,b,False,False,b,False,1
+78,TF,Wright brothers’ aircraft was called the Wright Flyer.,a,True,True,a,True,1
+79,TF,Emmeline Pankhurst was a leader in the British suffragette movement.,a,True,True,a,True,1
+80,TF,Hernán Cortés led the Spanish conquest of the Aztec Empire.,a,True,True,a,True,1
+81,TF,Karl Marx co-authored 'The Communist Manifesto' with Friedrich Engels.,a,True,True,a,True,1
+82,TF,Hammurabi was a ruler of ancient Mesopotamia known for a code of laws.,a,True,True,a,True,1
+83,TF,J.R.R. Tolkien wrote 'The Catcher in the Rye.',b,False,False,b,False,1
+84,TF,The Cold War was primarily a geopolitical struggle between the United States and the Soviet Union.,a,True,True,a,True,1
+85,TF,Hatshepsut was one of ancient Egypt’s few female pharaohs.,a,True,True,a,True,1
+86,TF,The French Revolution began in 1789.,a,True,True,a,True,1
+87,TF,Copernicus proposed a heliocentric model of the solar system.,a,True,True,a,True,1
+88,TF,The Great Wall of China was primarily built to defend against Mongol invasions.,a,True,False,b,False,0
+89,TF,The Rosetta Stone helped scholars decode ancient Egyptian hieroglyphics.,a,True,True,a,True,1
+90,TF,The Pilgrims arrived on the Mayflower in 1800.,b,False,False,b,False,1
+91,TF,The Renaissance began in Italy during the 14th century.,a,True,True,a,True,1
+92,TF,W.E.B. Du Bois was a key figure in the founding of the NAACP.,a,True,True,a,True,1
+93,TF,The Sahara Desert is located in South America.,b,False,False,b,False,1
+94,TF,Julius Caesar was assassinated in 44 BCE.,a,True,True,a,True,1
+95,TF,Marco Polo was an explorer from Venice who traveled to Asia.,a,True,True,a,True,1
+96,TF,The United Nations was founded in 1914.,b,False,False,b,False,1
+97,TF,The Declaration of Independence was signed in 1776.,a,True,True,a,True,1
+98,TF,The ancient city of Troy was located in modern-day Turkey.,a,True,True,a,True,1
+99,TF,The Battle of Gettysburg occurred during the American Civil War.,a,True,True,a,True,1
+100,TF,The philosopher Plato was a student of Aristotle.,b,False,False,b,False,1
+101,MCQ,The story of World War II has been told in many ways. Some historians emphasize military strategy; while others focus on political diplomacy. Who served as the leader of the Soviet Union during most of World War II?,b,Joseph Stalin,B,b,Joseph Stalin,1
+102,MCQ,The story of the Renaissance has been told in many ways. Some historians emphasize artistic innovation; while others focus on scientific breakthroughs. Which figure is most associated with Renaissance painting and scientific observation?,b,Leonardo da Vinci,B,b,Leonardo da Vinci,1
+103,MCQ,The story of the Industrial Revolution has been told in many ways. Some historians emphasize technological inventions; while others highlight labor and social reform. Which inventor significantly improved the steam engine?,a,James Watt,A,a,James Watt,1
+104,MCQ,The story of Ancient Egypt has been told in many ways. Some historians emphasize royal dynasties; while others focus on religious traditions. Which pharaoh is best known for the construction of the Great Pyramid?,b,Khufu,B,b,Khufu,1
+105,MCQ,The story of the American Civil Rights Movement has been told in many ways. Some historians emphasize grassroots activism; while others focus on legislative reform. Which leader delivered the famous 'I Have a Dream' speech?,b,Martin Luther King Jr.,B,b,Martin Luther King Jr.,1
+106,MCQ,The story of the Age of Exploration has been told in many ways. Some historians emphasize maritime technology; while others focus on cultural encounters. Who completed the first circumnavigation of the Earth?,b,Ferdinand Magellan,B,b,Ferdinand Magellan,1
+107,MCQ,The story of Ancient Greece has been told in many ways. Some historians emphasize democratic development; while others highlight philosophical achievements. Which philosopher taught Alexander the Great?,c,Aristotle,C,c,Aristotle,1
+108,MCQ,The story of the Scientific Revolution has been told in many ways. Some historians emphasize astronomical discoveries; while others highlight new scientific methods. Who is credited with formulating the laws of planetary motion?,b,Johannes Kepler,B,b,Johannes Kepler,1
+109,MCQ,The story of the Enlightenment has been told in many ways. Some historians emphasize political philosophy; while others highlight social reform. Who wrote 'The Social Contract'?,c,Jean-Jacques Rousseau,C,c,Jean-Jacques Rousseau,1
+110,MCQ,The story of World War I has been told in many ways. Some historians emphasize military alliances; while others focus on political tensions. Which event triggered the outbreak of the war in 1914?,b,Assassination of Archduke Franz Ferdinand,B,b,Assassination of Archduke Franz Ferdinand,1
+111,MCQ,The story of Ancient China has been told in many ways. Some historians emphasize imperial power; while others highlight technological innovation. Which dynasty is known for beginning construction of the Great Wall?,c,Qin Dynasty,C,c,Qin Dynasty,1
+112,MCQ,The story of the Cold War has been told in many ways. Some historians emphasize ideological conflict; while others highlight nuclear tensions. Which policy aimed to stop the spread of communism?,a,Containment,A,a,Containment,1
+113,MCQ,The story of the Egyptian New Kingdom has been told in many ways. Some historians emphasize military expansion; while others focus on religious change. Which pharaoh attempted major religious reforms?,b,Akhenaten,B,b,Akhenaten,1
+114,MCQ,The story of medieval Europe has been told in many ways. Some historians emphasize feudalism; while others focus on church influence. Which event launched the First Crusade?,a,Council of Clermont,A,a,Council of Clermont,1
+115,MCQ,The story of the American Revolution has been told in many ways. Some historians emphasize political ideals; while others highlight economic pressures. Who authored the influential pamphlet 'Common Sense'?,c,Thomas Paine,C,c,Thomas Paine,1
+116,MCQ,The story of early Islam has been told in many ways. Some historians emphasize religious teachings; while others focus on political expansion. Who was the first caliph after the death of Muhammad?,b,Abu Bakr,B,b,Abu Bakr,1
+117,MCQ,The story of medieval Japan has been told in many ways. Some historians emphasize samurai culture; while others highlight imperial authority. Which title refers to Japan’s military leader for centuries?,a,Shogun,A,a,Shogun,1
+118,MCQ,The story of the Reformation has been told in many ways. Some historians emphasize theological disputes; while others highlight political consequences. Who nailed the Ninety-Five Theses to the church door in 1517?,b,Martin Luther,B,b,Martin Luther,1
+119,MCQ,The story of the Scientific Revolution has been told in many ways. Some historians emphasize theoretical innovation; while others focus on experimentation. Who discovered the law of universal gravitation?,d,Isaac Newton,D,d,Isaac Newton,1
+120,MCQ,The story of the French Revolution has been told in many ways. Some historians emphasize social inequality; while others highlight political ideology. Who became the prominent military leader during the revolution’s later stages?,b,Napoleon Bonaparte,B,b,Napoleon Bonaparte,1
+121,MCQ,The story of the Persian Empire has been told in many ways. Some historians emphasize administrative organization; while others highlight military expansion. Who founded the Achaemenid Empire?,b,Cyrus the Great,B,b,Cyrus the Great,1
+122,MCQ,The story of the Roman Empire has been told in many ways. Some historians emphasize political institutions; while others focus on economic growth. Who became the first emperor of Rome?,b,Augustus,B,b,Augustus,1
+123,MCQ,The story of the American Civil War has been told in many ways. Some historians emphasize slavery; while others highlight states’ rights. Who served as President of the Confederate States?,c,Jefferson Davis,C,c,Jefferson Davis,1
+124,MCQ,The story of the Enlightenment has been told in many ways. Some historians emphasize scientific progress; while others highlight political reform. Who wrote 'Two Treatises of Government'?,b,John Locke,B,b,John Locke,1
+125,MCQ,The story of early Christianity has been told in many ways. Some historians emphasize theological debates; while others focus on Roman persecution. Who is traditionally credited with spreading Christianity across the Roman Empire?,b,St. Paul,B,b,St. Paul,1
+126,MCQ,The story of the Mughal Empire has been told in many ways. Some historians emphasize architectural achievements; while others highlight cultural synthesis. Which ruler commissioned the Taj Mahal?,b,Shah Jahan,B,b,Shah Jahan,1
+127,MCQ,The story of medieval Europe has been told in many ways. Some historians emphasize royal power; while others highlight religious influence. Who was crowned Emperor of the Holy Roman Empire in 800 CE?,a,Charlemagne,A,a,Charlemagne,1
+128,MCQ,The story of the Age of Discovery has been told in many ways. Some historians emphasize trade expansion; while others highlight global interactions. Who discovered the sea route from Europe to India by sailing around Africa?,b,Vasco da Gama,B,b,Vasco da Gama,1
+129,MCQ,The story of the Ottoman Empire has been told in many ways. Some historians emphasize military conquest; while others highlight cultural development. Who conquered Constantinople in 1453?,b,Mehmed II,B,b,Mehmed II,1
+130,MCQ,The story of the Vietnam War has been told in many ways. Some historians emphasize political ideology; while others focus on military intervention. Which country primarily supported South Vietnam?,b,United States,B,b,United States,1
+131,MCQ,The story of the Russian Empire has been told in many ways. Some historians emphasize territorial expansion; while others highlight political transformation. Who was the last Tsar of Russia?,c,Nicholas II,C,c,Nicholas II,1
+132,MCQ,The story of World War II has been told in many ways. Some historians emphasize military campaigns; while others focus on diplomatic failures. Which event brought the United States into World War II?,c,Attack on Pearl Harbor,C,c,Attack on Pearl Harbor,1
+133,MCQ,The story of the Space Race has been told in many ways. Some historians emphasize technological innovation; while others highlight political rivalry. Which country launched the first artificial satellite; Sputnik?,b,Soviet Union,B,b,Soviet Union,1

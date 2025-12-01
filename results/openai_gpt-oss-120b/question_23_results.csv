@@ -1,0 +1,501 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,The Invention of CRISPR gene editing happened before the Discovery of penicillin.,b,False,False,b,False,1
+2,TF,The Introduction of the World Wide Web happened before the First Human Moon Landing.,b,False,False,b,False,1
+3,TF,The Moon landing happened before the Discovery of Penicillin.,b,False,False,b,False,1
+4,TF,The First controlled powered flight happened before the First human moon landing.,a,True,True,a,True,1
+5,TF,The Development of mRNA COVID-19 vaccines happened before the Discovery of Oxygen.,b,False,False,b,False,1
+6,TF,The Development of CRISPR Gene Editing happened before the Creation of the first search engine (Yahoo!).,b,False,False,b,False,1
+7,TF,The Introduction of the smartphone happened before the Introduction of the World Wide Web.,b,False,False,b,False,1
+8,TF,The Discovery of Oxygen happened before the Invention of the Synthetic Dye.,a,True,True,a,True,1
+9,TF,The Launch of the first iPod happened before the Release of the first iPhone by Apple Inc..,b,False,True,a,True,0
+10,TF,The Introduction of 5G networks happened before the Introduction of the World Wide Web.,b,False,False,b,False,1
+11,TF,The Invention of the first tablet happened before the Invention of the first semiconductor transistor.,b,False,False,b,False,1
+12,TF,The Development of mRNA COVID-19 vaccines happened before the Invention of the quantum computer.,b,False,False,b,False,1
+13,TF,The Discovery of Penicillin happened before the Invention of the first commercial online search engine.,a,True,True,a,True,1
+14,TF,The Development of CRISPR Gene Editing happened before the First Human Moon Landing.,b,False,False,b,False,1
+15,TF,The Invention of the steam engine happened before the Development of the first airplane.,a,True,True,a,True,1
+16,TF,The Creation of the first search engine (Yahoo!) happened before the Invention of the Microprocessor.,b,False,False,b,False,1
+17,TF,The First Human Moon Landing happened before the Discovery of Penicillin.,b,False,False,b,False,1
+18,TF,The Invention of the Synthetic Dye happened before the Invention of the Microprocessor.,a,True,True,a,True,1
+19,TF,The First human moon landing happened before the Discovery of Oxygen.,b,False,False,b,False,1
+20,TF,The Invention of the first search engine (Archie) happened before the Discovery of X-rays.,b,False,False,b,False,1
+21,TF,The Invention of CRISPR gene editing happened before the Launch of the first ICBM (Intercontinental Ballistic Missile).,b,False,False,b,False,1
+22,TF,The Introduction of 5G networks happened before the Launch of the first communication satellite.,b,False,False,b,False,1
+23,TF,The First successful powered flight happened before the Introduction of the first iPhone.,a,True,True,a,True,1
+24,TF,The Launch of the first commercial satellite for internet services happened before the Invention of the airplane.,b,False,False,b,False,1
+25,TF,The Invention of the first search engine (Archie) happened before the First man on the Moon.,b,False,False,b,False,1
+26,TF,The Invention of the first commercial tablet computer (iPad) happened before the Introduction of the Large Hadron Collider.,a,True,False,b,False,0
+27,TF,The Introduction of the first cloud storage services happened before the Invention of the smartwatch.,a,True,False,b,False,0
+28,TF,The Invention of the World Wide Web happened before the Invention of the electric vehicle.,a,True,False,b,False,0
+29,TF,The First human moon landing happened before the First powered flight by the Wright brothers.,b,False,False,b,False,1
+30,TF,The First successful powered flight happened before the Launch of the first iPod.,a,True,True,a,True,1
+31,TF,The Introduction of the Large Hadron Collider happened before the First man on the Moon.,b,False,False,b,False,1
+32,TF,The Launch of the first iPod happened before the Discovery of X-rays.,b,False,False,b,False,1
+33,TF,The Invention of the first search engine (Archie) happened before the First Human Moon Landing.,b,False,False,b,False,1
+34,TF,The Introduction of the first iPhone happened before the Invention of CRISPR gene editing.,a,True,True,a,True,1
+35,TF,The Invention of the World Wide Web happened before the Development of the first airplane.,b,False,False,b,False,1
+36,TF,The Introduction of the IBM Personal Computer happened before the Invention of CRISPR gene editing.,a,True,True,a,True,1
+37,TF,The Creation of the World Wide Web happened before the Invention of the first 3D printer.,a,True,False,b,False,0
+38,TF,The Invention of the locomotive happened before the Introduction of 5G networks.,a,True,True,a,True,1
+39,TF,The Invention of CRISPR gene editing happened before the Introduction of the MRI scanner.,b,False,False,b,False,1
+40,TF,The Launch of the first commercial satellite for internet services happened before the Moon landing.,b,False,False,b,False,1
+41,TF,The Development of the first airplane happened before the Completion of the Human Genome Project.,a,True,True,a,True,1
+42,TF,The Invention of the first search engine (Archie) happened before the Invention of the first 3D printer.,b,False,False,b,False,1
+43,TF,The Invention of CRISPR gene editing happened before the Invention of the first tablet.,b,False,False,b,False,1
+44,TF,The Discovery of Penicillin happened before the Invention of the DVD player.,a,True,True,a,True,1
+45,TF,The Invention of the electric telegraph happened before the Launch of the first iPod.,a,True,True,a,True,1
+46,TF,The Introduction of the smartphone happened before the Invention of the World Wide Web by Tim Berners-Lee.,b,False,False,b,False,1
+47,TF,The Development of the World Wide Web happened before the Invention of the first 3D printer.,b,False,False,b,False,1
+48,TF,The First powered flight by the Wright brothers happened before the Invention of the Synthetic Dye.,a,True,False,b,False,0
+49,TF,The Launch of the Large Hadron Collider happened before the Invention of the World Wide Web by Tim Berners-Lee.,b,False,False,b,False,1
+50,TF,The Invention of the Synthetic Dye happened before the Invention of the mp3 player.,a,True,True,a,True,1
+51,TF,The Invention of the Large Hadron Collider happened before the Introduction of the first iPhone.,a,True,False,b,False,0
+52,TF,The Invention of the microprocessor happened before the Launch of the first communication satellite.,b,False,False,b,False,1
+53,TF,The First controlled powered flight happened before the Moon landing.,a,True,True,a,True,1
+54,TF,The Invention of the first tablet happened before the Launch of the first commercial satellite for internet services.,b,False,True,a,True,0
+55,TF,The Launch of the first communication satellite happened before the Opening of the Large Hadron Collider.,a,True,True,a,True,1
+56,TF,The Creation of the first search engine (Yahoo!) happened before the Opening of the Large Hadron Collider.,a,True,True,a,True,1
+57,TF,The Development of the World Wide Web happened before the Invention of the World Wide Web.,b,False,False,b,False,1
+58,TF,The Discovery of Penicillin happened before the First controlled powered flight.,b,False,False,b,False,1
+59,TF,The Introduction of 4G mobile technology happened before the Invention of the mp3 player.,b,False,False,b,False,1
+60,TF,The Discovery of Oxygen happened before the First successful powered airplane flight.,a,True,True,a,True,1
+61,TF,The Discovery of penicillin happened before the Discovery of Penicillin.,b,False,False,b,False,1
+62,TF,The Introduction of the first cloud storage services happened before the Development of the first airplane.,b,False,False,b,False,1
+63,TF,The Creation of the first search engine (Yahoo!) happened before the Discovery of the Higgs boson.,a,True,True,a,True,1
+64,TF,The First powered flight by the Wright brothers happened before the Invention of Wi-Fi.,a,True,True,a,True,1
+65,TF,The Invention of the first search engine (Archie) happened before the Discovery of the Higgs boson.,a,True,True,a,True,1
+66,TF,The Completion of the Human Genome Project happened before the Invention of the Foldable Smartphone.,a,True,True,a,True,1
+67,TF,The Introduction of the first mobile phone happened before the Invention of the first commercial tablet computer (iPad).,a,True,True,a,True,1
+68,TF,The Invention of the telephone happened before the Discovery of penicillin.,a,True,True,a,True,1
+69,TF,The Launch of the first commercial satellite for internet services happened before the Invention of the first 3D printer.,b,False,False,b,False,1
+70,TF,The Invention of the Microprocessor happened before the Discovery of penicillin.,b,False,False,b,False,1
+71,TF,The Introduction of the Large Hadron Collider happened before the Invention of the World Wide Web.,b,False,False,b,False,1
+72,TF,The Development of the first airplane happened before the Introduction of the first iPhone.,a,True,True,a,True,1
+73,TF,The Invention of the steam engine happened before the Launch of the first communication satellite.,a,True,True,a,True,1
+74,TF,The Release of the first iPhone by Apple Inc. happened before the Invention of the first semiconductor transistor.,b,False,False,b,False,1
+75,TF,The Release of the first iPhone by Apple Inc. happened before the First human moon landing.,b,False,False,b,False,1
+76,TF,The Introduction of the first cloud storage services happened before the Introduction of the first mobile phone.,b,False,False,b,False,1
+77,TF,The Invention of CRISPR gene editing happened before the Release of the first iPhone by Apple Inc..,b,False,False,b,False,1
+78,TF,The Introduction of 5G networks happened before the Invention of the first semiconductor transistor.,b,False,False,b,False,1
+79,TF,The Discovery of Penicillin happened before the Introduction of the IBM Personal Computer.,a,True,True,a,True,1
+80,TF,The Development of the first airplane happened before the Development of mRNA COVID-19 vaccines.,a,True,True,a,True,1
+81,TF,The Invention of the Foldable Smartphone happened before the Invention of the steam engine.,b,False,False,b,False,1
+82,TF,The Discovery of the Higgs boson happened before the Invention of the DVD player.,b,False,False,b,False,1
+83,TF,The Invention of the first modern smartphone happened before the Invention of the transistor.,b,False,False,b,False,1
+84,TF,The Discovery of penicillin happened before the Invention of the World Wide Web.,a,True,True,a,True,1
+85,TF,The Invention of the microprocessor happened before the Human landing on the Moon.,b,False,False,b,False,1
+86,TF,The Invention of the electric telegraph happened before the Human landing on the Moon.,a,True,True,a,True,1
+87,TF,The Launch of the Large Hadron Collider happened before the First man on the Moon.,b,False,False,b,False,1
+88,TF,The First man on the Moon happened before the Invention of the first modern smartphone.,a,True,True,a,True,1
+89,TF,The First powered flight by the Wright brothers happened before the Launch of the first commercial satellite for internet services.,a,True,True,a,True,1
+90,TF,The Discovery of penicillin by Alexander Fleming happened before the First human gene cloning.,a,True,True,a,True,1
+91,TF,The Invention of the first commercial tablet computer (iPad) happened before the Introduction of the MRI scanner.,b,False,False,b,False,1
+92,TF,The Launch of the first communication satellite happened before the Invention of the Foldable Smartphone.,a,True,True,a,True,1
+93,TF,The Introduction of 5G networks happened before the Creation of the first search engine (Yahoo!).,b,False,False,b,False,1
+94,TF,The Invention of the Synthetic Dye happened before the Development of mRNA COVID-19 vaccines.,a,True,True,a,True,1
+95,TF,The Invention of the first semiconductor transistor happened before the Invention of the microprocessor.,a,True,True,a,True,1
+96,TF,The Development of the World Wide Web happened before the Introduction of the IBM Personal Computer.,b,False,False,b,False,1
+97,TF,The Release of Windows 95 by Microsoft happened before the The Human Genome Project completed.,a,True,True,a,True,1
+98,TF,The Invention of the first commercial online search engine happened before the Invention of the airplane.,b,False,False,b,False,1
+99,TF,The First powered flight by the Wright brothers happened before the Invention of the Microprocessor.,a,True,True,a,True,1
+100,TF,The Invention of the transistor happened before the Development of CRISPR Gene Editing.,a,True,True,a,True,1
+101,TF,The Invention of the first commercial tablet computer (iPad) happened before the Launch of the first iPod.,b,False,False,b,False,1
+102,TF,The Development of CRISPR Gene Editing happened before the Discovery of Penicillin.,b,False,False,b,False,1
+103,TF,The Invention of the steam engine happened before the Invention of the locomotive.,a,True,True,a,True,1
+104,TF,The Introduction of the first cloud storage services happened before the Invention of the electric telegraph.,b,False,False,b,False,1
+105,TF,The Launch of the first iPod happened before the First powered flight by the Wright brothers.,b,False,False,b,False,1
+106,TF,The Introduction of the smartphone happened before the Launch of YouTube.,b,False,True,a,True,0
+107,TF,The Invention of the locomotive happened before the Introduction of 4G mobile technology.,a,True,True,a,True,1
+108,TF,The Human landing on the Moon happened before the First Human Moon Landing.,b,False,False,b,False,1
+109,TF,The Invention of the first modern smartphone happened before the Invention of the Synthetic Dye.,b,False,False,b,False,1
+110,TF,The Development of mRNA COVID-19 vaccines happened before the Discovery of penicillin by Alexander Fleming.,b,False,False,b,False,1
+111,TF,The Invention of the electric vehicle happened before the First human gene cloning.,b,False,True,a,True,0
+112,TF,The Moon landing happened before the First human gene cloning.,a,True,True,a,True,1
+113,TF,The Invention of the Microprocessor happened before the First human moon landing.,b,False,False,b,False,1
+114,TF,The Discovery of X-rays happened before the Invention of the World Wide Web.,a,True,True,a,True,1
+115,TF,The Invention of CRISPR gene editing happened before the Creation of the first search engine (Yahoo!).,b,False,False,b,False,1
+116,TF,The Invention of the Microprocessor happened before the Completion of the Human Genome Project.,a,True,True,a,True,1
+117,TF,The First successful powered airplane flight happened before the Discovery of X-rays.,b,False,False,b,False,1
+118,TF,The Invention of the electric telegraph happened before the Development of the World Wide Web.,a,True,True,a,True,1
+119,TF,The Invention of the Microprocessor happened before the First human moon landing.,b,False,False,b,False,1
+120,TF,The Moon landing happened before the First human moon landing.,b,False,False,b,False,1
+121,TF,The First human moon landing happened before the Launch of the first commercial satellite for internet services.,a,True,True,a,True,1
+122,TF,The Invention of the first commercial online search engine happened before the First controlled powered flight.,b,False,False,b,False,1
+123,TF,The Creation of the first search engine (Yahoo!) happened before the Invention of the hard disk drive.,b,False,False,b,False,1
+124,TF,The First Human Moon Landing happened before the Completion of the Human Genome Project.,a,True,True,a,True,1
+125,TF,The Moon landing happened before the Invention of the locomotive.,b,False,False,b,False,1
+126,TF,The Release of Windows 95 by Microsoft happened before the Invention of the first commercial tablet computer (iPad).,a,True,True,a,True,1
+127,TF,The Development of mRNA COVID-19 vaccines happened before the Invention of the telephone.,b,False,False,b,False,1
+128,TF,The Discovery of Oxygen happened before the Human landing on the Moon.,a,True,True,a,True,1
+129,TF,The Introduction of the MRI scanner happened before the Invention of the Microprocessor.,b,False,False,b,False,1
+130,TF,The Invention of the first modern smartphone happened before the Launch of the James Webb Space Telescope.,a,True,True,a,True,1
+131,TF,The Invention of the Synthetic Dye happened before the Development of the World Wide Web.,a,True,True,a,True,1
+132,TF,The Invention of the electric telegraph happened before the Introduction of the MRI scanner.,a,True,True,a,True,1
+133,TF,The Invention of the first search engine (Archie) happened before the Invention of the steam engine.,b,False,False,b,False,1
+134,TF,The Invention of Wi-Fi happened before the Launch of the first communication satellite.,b,False,False,b,False,1
+135,TF,The Introduction of the first iPhone happened before the Introduction of the first commercial jet airliner.,b,False,False,b,False,1
+136,TF,The Creation of the first search engine (Yahoo!) happened before the Invention of the first tablet.,a,True,False,b,False,0
+137,TF,The Invention of the first modern smartphone happened before the Discovery of Penicillin.,b,False,False,b,False,1
+138,TF,The First human moon landing happened before the Introduction of the Large Hadron Collider.,a,True,True,a,True,1
+139,TF,The Invention of the Synthetic Dye happened before the Invention of the electric telegraph.,b,False,False,b,False,1
+140,TF,The Opening of the Large Hadron Collider happened before the Development of mRNA COVID-19 vaccines.,a,True,True,a,True,1
+141,TF,The Invention of the electric telegraph happened before the Invention of the World Wide Web by Tim Berners-Lee.,a,True,True,a,True,1
+142,TF,The Invention of the electric telegraph happened before the First successful powered airplane flight.,a,True,True,a,True,1
+143,TF,The Opening of the Large Hadron Collider happened before the Launch of the James Webb Space Telescope.,a,True,True,a,True,1
+144,TF,The Release of the first iPhone by Apple Inc. happened before the Invention of the Foldable Smartphone.,a,True,True,a,True,1
+145,TF,The Development of the first airplane happened before the Invention of the electric telegraph.,b,False,False,b,False,1
+146,TF,The Introduction of 4G mobile technology happened before the First man on the Moon.,b,False,False,b,False,1
+147,TF,The Invention of the hard disk drive happened before the First powered flight by the Wright brothers.,b,False,False,b,False,1
+148,TF,The Discovery of the Higgs boson happened before the First powered flight by the Wright brothers.,b,False,False,b,False,1
+149,TF,The Human landing on the Moon happened before the Development of the World Wide Web.,a,True,True,a,True,1
+150,TF,The Invention of the airplane happened before the Launch of the Large Hadron Collider.,a,True,True,a,True,1
+151,TF,The Moon landing happened before the Opening of the Large Hadron Collider.,a,True,True,a,True,1
+152,TF,The Discovery of the Higgs boson happened before the First successful powered flight.,b,False,False,b,False,1
+153,TF,The Invention of the smartwatch happened before the First man on the Moon.,b,False,False,b,False,1
+154,TF,The Invention of the quantum computer happened before the Opening of the Large Hadron Collider.,b,False,True,a,True,0
+155,TF,The Launch of the Large Hadron Collider happened before the The Human Genome Project completed.,a,True,False,b,False,0
+156,TF,The Invention of the World Wide Web by Tim Berners-Lee happened before the Launch of the first communication satellite.,b,False,False,b,False,1
+157,TF,The Creation of the World Wide Web happened before the Invention of the World Wide Web by Tim Berners-Lee.,b,False,False,b,False,1
+158,TF,The Human landing on the Moon happened before the Launch of the first communication satellite.,b,False,False,b,False,1
+159,TF,The Invention of the Large Hadron Collider happened before the Discovery of penicillin by Alexander Fleming.,b,False,False,b,False,1
+160,TF,The Introduction of the first mobile phone happened before the Introduction of the first iPhone.,a,True,True,a,True,1
+161,TF,The Invention of the World Wide Web by Tim Berners-Lee happened before the Invention of the locomotive.,b,False,False,b,False,1
+162,TF,The Invention of the telephone happened before the Introduction of the first iPhone.,a,True,True,a,True,1
+163,TF,The Invention of the smartwatch happened before the Launch of the Large Hadron Collider.,b,False,True,a,True,0
+164,TF,The Discovery of X-rays happened before the Invention of the locomotive.,b,False,False,b,False,1
+165,TF,The Launch of the first commercial satellite for internet services happened before the Invention of the Synthetic Dye.,b,False,False,b,False,1
+166,TF,The Release of the first iPhone by Apple Inc. happened before the Launch of the first communication satellite.,b,False,False,b,False,1
+167,TF,The Discovery of penicillin by Alexander Fleming happened before the Launch of the first ICBM (Intercontinental Ballistic Missile).,a,True,True,a,True,1
+168,TF,The First powered flight by the Wright brothers happened before the Moon landing.,a,True,True,a,True,1
+169,TF,The Introduction of the IBM Personal Computer happened before the Introduction of the first commercial jet airliner.,b,False,False,b,False,1
+170,TF,The Development of the first airplane happened before the Release of Windows 95 by Microsoft.,a,True,True,a,True,1
+171,TF,The Development of mRNA COVID-19 vaccines happened before the Introduction of the first mobile phone.,b,False,False,b,False,1
+172,TF,The Introduction of 4G technology happened before the Invention of the Foldable Smartphone.,b,False,True,a,True,0
+173,TF,The Invention of the telephone happened before the Invention of the first commercial tablet computer (iPad).,a,True,True,a,True,1
+174,TF,The Introduction of the first mobile phone happened before the First human moon landing.,b,False,False,b,False,1
+175,TF,The First controlled powered flight happened before the Launch of the first communication satellite.,a,True,True,a,True,1
+176,TF,The Discovery of penicillin happened before the First human moon landing.,a,True,True,a,True,1
+177,TF,The Invention of the first commercial tablet computer (iPad) happened before the Discovery of Penicillin.,b,False,False,b,False,1
+178,TF,The Invention of the first 3D printer happened before the Introduction of the first commercial jet airliner.,b,False,False,b,False,1
+179,TF,The Introduction of 5G networks happened before the Creation of the World Wide Web.,b,False,False,b,False,1
+180,TF,The Invention of the Microprocessor happened before the Creation of the World Wide Web.,a,True,True,a,True,1
+181,TF,The Invention of CRISPR gene editing happened before the Launch of the first communication satellite.,b,False,False,b,False,1
+182,TF,The Release of the first iPhone by Apple Inc. happened before the Invention of the first modern smartphone.,b,False,False,b,False,1
+183,TF,The Introduction of the first mobile phone happened before the First successful powered airplane flight.,b,False,False,b,False,1
+184,TF,The Discovery of Oxygen happened before the Invention of CRISPR gene editing.,a,True,True,a,True,1
+185,TF,The Creation of the first search engine (Yahoo!) happened before the First Human Moon Landing.,b,False,False,b,False,1
+186,TF,The First successful powered flight happened before the Invention of the steam engine.,b,False,False,b,False,1
+187,TF,The Launch of YouTube happened before the Discovery of penicillin by Alexander Fleming.,b,False,False,b,False,1
+188,TF,The Invention of the first commercial tablet computer (iPad) happened before the Creation of the first search engine (Yahoo!).,b,False,False,b,False,1
+189,TF,The Invention of the first tablet happened before the Invention of the telephone.,b,False,False,b,False,1
+190,TF,The Discovery of penicillin happened before the Invention of the locomotive.,b,False,False,b,False,1
+191,TF,The Discovery of Penicillin happened before the Development of mRNA COVID-19 vaccines.,a,True,True,a,True,1
+192,TF,The Introduction of the smartphone happened before the Introduction of the IBM Personal Computer.,b,False,False,b,False,1
+193,TF,The Opening of the Large Hadron Collider happened before the Invention of the first commercial tablet computer (iPad).,b,False,True,a,True,0
+194,TF,The Invention of the microprocessor happened before the Invention of the World Wide Web.,a,True,True,a,True,1
+195,TF,The Discovery of penicillin by Alexander Fleming happened before the First successful powered flight.,b,False,False,b,False,1
+196,TF,The Invention of the microprocessor happened before the Invention of the World Wide Web.,a,True,True,a,True,1
+197,TF,The First successful powered flight happened before the Invention of CRISPR gene editing.,a,True,True,a,True,1
+198,TF,The Creation of the World Wide Web happened before the Moon landing.,b,False,False,b,False,1
+199,TF,The First human moon landing happened before the Invention of CRISPR gene editing.,a,True,True,a,True,1
+200,TF,The Invention of the first tablet happened before the Invention of the Microprocessor.,b,False,False,b,False,1
+201,TF,The Invention of the smartwatch happened before the Discovery of Penicillin.,b,False,False,b,False,1
+202,TF,The Human landing on the Moon happened before the Development of the first airplane.,b,False,False,b,False,1
+203,TF,The Invention of the first semiconductor transistor happened before the Invention of the Microprocessor.,a,True,True,a,True,1
+204,TF,The Introduction of the World Wide Web happened before the Invention of the first semiconductor transistor.,b,False,False,b,False,1
+205,TF,The Launch of YouTube happened before the Invention of the Microprocessor.,b,False,False,b,False,1
+206,TF,The Moon landing happened before the Invention of the first 3D printer.,a,True,True,a,True,1
+207,TF,The Development of the first airplane happened before the First human moon landing.,a,True,True,a,True,1
+208,TF,The Invention of the first search engine (Archie) happened before the Introduction of the smartphone.,a,True,True,a,True,1
+209,TF,The First human gene cloning happened before the Discovery of Penicillin.,b,False,False,b,False,1
+210,TF,The Invention of the first semiconductor transistor happened before the Introduction of the first iPhone.,a,True,True,a,True,1
+211,TF,The Launch of the first ICBM (Intercontinental Ballistic Missile) happened before the Invention of the microprocessor.,b,False,True,a,True,0
+212,TF,The Launch of the first iPod happened before the Discovery of Penicillin.,b,False,False,b,False,1
+213,TF,The Introduction of the World Wide Web happened before the First human moon landing.,b,False,False,b,False,1
+214,TF,The Development of the World Wide Web happened before the Launch of YouTube.,a,True,True,a,True,1
+215,TF,The First Human Moon Landing happened before the First powered flight by the Wright brothers.,b,False,False,b,False,1
+216,TF,The First Human Moon Landing happened before the Launch of the first ICBM (Intercontinental Ballistic Missile).,a,True,False,b,False,0
+217,TF,The Introduction of 4G mobile technology happened before the Development of the World Wide Web.,b,False,False,b,False,1
+218,TF,The Launch of the first commercial satellite for internet services happened before the Launch of YouTube.,a,True,True,a,True,1
+219,TF,The Introduction of the World Wide Web happened before the Discovery of penicillin.,b,False,False,b,False,1
+220,TF,The Launch of the first communication satellite happened before the Invention of the first semiconductor transistor.,b,False,False,b,False,1
+221,TF,The Introduction of the smartphone happened before the First human moon landing.,b,False,False,b,False,1
+222,TF,The Discovery of the Higgs boson happened before the Invention of the World Wide Web.,b,False,False,b,False,1
+223,TF,The Launch of the first ICBM (Intercontinental Ballistic Missile) happened before the Invention of the World Wide Web by Tim Berners-Lee.,a,True,True,a,True,1
+224,TF,The Invention of the World Wide Web happened before the Introduction of 5G networks.,a,True,True,a,True,1
+225,TF,The Introduction of 4G mobile technology happened before the Discovery of penicillin.,b,False,False,b,False,1
+226,TF,The Invention of Wi-Fi happened before the Invention of the electric vehicle.,a,True,False,b,False,0
+227,TF,The First human moon landing happened before the Introduction of the first mobile phone.,a,True,True,a,True,1
+228,TF,The First successful powered flight happened before the Invention of the World Wide Web.,a,True,True,a,True,1
+229,TF,The Invention of the steam engine happened before the The Human Genome Project completed.,a,True,True,a,True,1
+230,TF,The Launch of the first commercial satellite for internet services happened before the Invention of the first semiconductor transistor.,b,False,False,b,False,1
+231,TF,The Invention of the World Wide Web happened before the Invention of the World Wide Web.,b,False,False,b,False,1
+232,TF,The First powered flight by the Wright brothers happened before the Launch of YouTube.,a,True,True,a,True,1
+233,TF,The Invention of the smartwatch happened before the Invention of the World Wide Web by Tim Berners-Lee.,b,False,False,b,False,1
+234,TF,The Invention of the airplane happened before the Introduction of the first mobile phone.,a,True,True,a,True,1
+235,TF,The Release of the first iPhone by Apple Inc. happened before the Invention of the microprocessor.,b,False,False,b,False,1
+236,TF,The Invention of the Microprocessor happened before the Invention of the DVD player.,b,False,True,a,True,0
+237,TF,The Development of the World Wide Web happened before the Introduction of the Large Hadron Collider.,a,True,True,a,True,1
+238,TF,The Invention of the first commercial tablet computer (iPad) happened before the Discovery of penicillin by Alexander Fleming.,b,False,False,b,False,1
+239,TF,The First human moon landing happened before the Invention of the quantum computer.,a,True,True,a,True,1
+240,TF,The Invention of the first search engine (Archie) happened before the Invention of the first semiconductor transistor.,b,False,False,b,False,1
+241,TF,The Introduction of 4G technology happened before the Launch of the Large Hadron Collider.,b,False,False,b,False,1
+242,TF,The Introduction of the first mobile phone happened before the Development of the World Wide Web.,a,True,True,a,True,1
+243,TF,The Invention of the first commercial tablet computer (iPad) happened before the Invention of the steam engine.,b,False,False,b,False,1
+244,TF,The Introduction of the first mobile phone happened before the Introduction of the first commercial jet airliner.,b,False,False,b,False,1
+245,TF,The Creation of the World Wide Web happened before the Invention of the World Wide Web.,a,True,False,b,False,0
+246,TF,The Opening of the Large Hadron Collider happened before the Introduction of 5G networks.,a,True,True,a,True,1
+247,TF,The Invention of the DVD player happened before the Completion of the Human Genome Project.,a,True,True,a,True,1
+248,TF,The Release of Windows 95 by Microsoft happened before the Invention of the Synthetic Dye.,b,False,False,b,False,1
+249,TF,The Introduction of 4G mobile technology happened before the First human gene cloning.,b,False,False,b,False,1
+250,TF,The Introduction of the MRI scanner happened before the First man on the Moon.,b,False,False,b,False,1
+251,MCQ,Given the Introduction of the Large Hadron Collider; which of the following events was invented before it?,c,Discovery of Oxygen,C,c,Discovery of Oxygen,1
+252,MCQ,Given the First successful powered airplane flight; which of the following events was invented after it?,b,Launch of the Large Hadron Collider,B,b,Launch of the Large Hadron Collider,1
+253,MCQ,Given the Invention of the Large Hadron Collider; which of the following events was invented before it?,d,Creation of the World Wide Web,D,d,Creation of the World Wide Web,1
+254,MCQ,Given the Launch of the first iPod; which of the following events was invented after it?,c,Invention of the smartwatch,C,c,Invention of the smartwatch,1
+255,MCQ,Given the Invention of the microprocessor; which of the following events was invented before it?,a,Invention of the first semiconductor transistor,A,a,Invention of the first semiconductor transistor,1
+256,MCQ,Given the Invention of the first tablet; which of the following events was invented before it?,c,Discovery of Oxygen,C,c,Discovery of Oxygen,1
+257,MCQ,Given the Invention of the Foldable Smartphone; which of the following events was invented before it?,c,Human landing on the Moon,C,c,Human landing on the Moon,1
+258,MCQ,Given the Invention of the Microprocessor; which of the following events was invented before it?,b,Invention of the electric telegraph,B,b,Invention of the electric telegraph,1
+259,MCQ,Given the Discovery of Penicillin; which of the following events was invented after it?,b,Development of mRNA COVID-19 vaccines,B,b,Development of mRNA COVID-19 vaccines,1
+260,MCQ,Given the Invention of the Synthetic Dye; which of the following events was invented before it?,d,First controlled powered flight,D,d,First controlled powered flight,1
+261,MCQ,Given the Invention of the Large Hadron Collider; which of the following events was invented before it?,c,Introduction of the first commercial jet airliner,C,c,Introduction of the first commercial jet airliner,1
+262,MCQ,Given the Release of Windows 95 by Microsoft; which of the following events was invented before it?,b,Invention of the telephone,B,b,Invention of the telephone,1
+263,MCQ,Given the Invention of CRISPR gene editing; which of the following events was invented after it?,d,Development of mRNA COVID-19 vaccines,D,d,Development of mRNA COVID-19 vaccines,1
+264,MCQ,Given the Invention of the microprocessor; which of the following events was invented before it?,c,Invention of the electric telegraph,C,c,Invention of the electric telegraph,1
+265,MCQ,Given the Launch of YouTube; which of the following events was invented before it?,b,Invention of the World Wide Web,B,b,Invention of the World Wide Web,1
+266,MCQ,Given the Launch of the James Webb Space Telescope; which of the following events was invented after it?,d,Development of mRNA COVID-19 vaccines,D,d,Development of mRNA COVID-19 vaccines,1
+267,MCQ,Given the Creation of the World Wide Web; which of the following events was invented after it?,b,Invention of the smartwatch,B,b,Invention of the smartwatch,1
+268,MCQ,Given the Invention of the electric vehicle; which of the following events was invented after it?,d,Discovery of the Higgs boson,D,d,Discovery of the Higgs boson,1
+269,MCQ,Given the Discovery of penicillin; which of the following events was invented after it?,b,Invention of the World Wide Web,B,b,Invention of the World Wide Web,1
+270,MCQ,Given the First man on the Moon; which of the following events was invented after it?,d,Introduction of the first mobile phone,D,d,Introduction of the first mobile phone,1
+271,MCQ,Given the Invention of CRISPR gene editing; which of the following events was invented before it?,d,Invention of the first search engine (Archie),D,d,Invention of the first search engine (Archie),1
+272,MCQ,Given the Discovery of penicillin; which of the following events was invented before it?,a,First powered flight by the Wright brothers,A,a,First powered flight by the Wright brothers,1
+273,MCQ,Given the Introduction of the first cloud storage services; which of the following events was invented before it?,b,Invention of the mp3 player,B,b,Invention of the mp3 player,1
+274,MCQ,Given the Discovery of X-rays; which of the following events was invented before it?,b,Invention of the locomotive,B,b,Invention of the locomotive,1
+275,MCQ,Given the Release of the first iPhone by Apple Inc.; which of the following events was invented before it?,a,Discovery of X-rays,A,a,Discovery of X-rays,1
+276,MCQ,Given the Introduction of 4G technology; which of the following events was invented before it?,a,Invention of the telephone,A,a,Invention of the telephone,1
+277,MCQ,Given the Invention of the mp3 player; which of the following events was invented after it?,b,Discovery of the Higgs boson,B,b,Discovery of the Higgs boson,1
+278,MCQ,Given the Discovery of X-rays; which of the following events was invented before it?,a,Invention of the telephone,A,a,Invention of the telephone,1
+279,MCQ,Given the Invention of the World Wide Web; which of the following events was invented before it?,c,Invention of the first semiconductor transistor,C,c,Invention of the first semiconductor transistor,1
+280,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented before it?,c,First successful powered flight,C,c,First successful powered flight,1
+281,MCQ,Given the Invention of the first modern smartphone; which of the following events was invented before it?,c,Invention of the Microprocessor,C,c,Invention of the Microprocessor,1
+282,MCQ,Given the Introduction of the first mobile phone; which of the following events was invented after it?,b,Invention of the first commercial online search engine,B,b,Invention of the first commercial online search engine,1
+283,MCQ,Given the Invention of the electric telegraph; which of the following events was invented before it?,a,Invention of the steam engine,A,a,Invention of the steam engine,1
+284,MCQ,Given the Invention of the first commercial online search engine; which of the following events was invented before it?,c,Discovery of X-rays,C,c,Discovery of X-rays,1
+285,MCQ,Given the Invention of the Microprocessor; which of the following events was invented before it?,d,First successful powered airplane flight,D,d,First successful powered airplane flight,1
+286,MCQ,Given the Invention of the electric vehicle; which of the following events was invented before it?,b,First man on the Moon,B,b,First man on the Moon,1
+287,MCQ,Given the Invention of the Foldable Smartphone; which of the following events was invented before it?,b,First human gene cloning,D,d,The Human Genome Project completed,0
+288,MCQ,Given the Introduction of the first cloud storage services; which of the following events was invented after it?,c,Launch of the James Webb Space Telescope,C,c,Launch of the James Webb Space Telescope,1
+289,MCQ,Given the Invention of the first tablet; which of the following events was invented after it?,b,Invention of the quantum computer,B,b,Invention of the quantum computer,1
+290,MCQ,Given the Human landing on the Moon; which of the following events was invented before it?,d,Discovery of X-rays,D,d,Discovery of X-rays,1
+291,MCQ,Given the Invention of the first 3D printer; which of the following events was invented after it?,b,Opening of the Large Hadron Collider,B,b,Opening of the Large Hadron Collider,1
+292,MCQ,Given the First man on the Moon; which of the following events was invented after it?,b,Invention of the microprocessor,B,b,Invention of the microprocessor,1
+293,MCQ,Given the First human gene cloning; which of the following events was invented before it?,b,Development of the World Wide Web,C,c,Invention of the electric vehicle,0
+294,MCQ,Given the Introduction of 4G technology; which of the following events was invented after it?,d,Development of mRNA COVID-19 vaccines,D,d,Development of mRNA COVID-19 vaccines,1
+295,MCQ,Given the First Human Moon Landing; which of the following events was invented after it?,b,Introduction of 5G networks,B,b,Introduction of 5G networks,1
+296,MCQ,Given the Development of CRISPR Gene Editing; which of the following events was invented before it?,a,Release of the first iPhone by Apple Inc.,A,a,Release of the first iPhone by Apple Inc.,1
+297,MCQ,Given the Discovery of penicillin; which of the following events was invented after it?,a,Introduction of the first iPhone,A,a,Introduction of the first iPhone,1
+298,MCQ,Given the Invention of the first tablet; which of the following events was invented after it?,c,Invention of the electric vehicle,C,c,Invention of the electric vehicle,1
+299,MCQ,Given the The Human Genome Project completed; which of the following events was invented after it?,a,Invention of the smartwatch,A,a,Invention of the smartwatch,1
+300,MCQ,Given the Invention of CRISPR gene editing; which of the following events was invented before it?,a,Invention of the first commercial online search engine,A,a,Invention of the first commercial online search engine,1
+301,MCQ,Given the Invention of the mp3 player; which of the following events was invented after it?,b,Introduction of the smartphone,B,b,Introduction of the smartphone,1
+302,MCQ,Given the Invention of the World Wide Web by Tim Berners-Lee; which of the following events was invented after it?,d,Development of CRISPR Gene Editing,D,d,Development of CRISPR Gene Editing,1
+303,MCQ,Given the Development of the first airplane; which of the following events was invented before it?,a,Discovery of X-rays,A,a,Discovery of X-rays,1
+304,MCQ,Given the Introduction of the first mobile phone; which of the following events was invented before it?,c,Development of the first airplane,D,d,Invention of the microprocessor,0
+305,MCQ,Given the Creation of the first search engine (Yahoo!); which of the following events was invented before it?,a,Invention of the first 3D printer,A,a,Invention of the first 3D printer,1
+306,MCQ,Given the Development of the first airplane; which of the following events was invented before it?,a,Discovery of Oxygen,A,a,Discovery of Oxygen,1
+307,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented after it?,d,Introduction of the first iPhone,D,d,Introduction of the first iPhone,1
+308,MCQ,Given the Invention of Wi-Fi; which of the following events was invented before it?,b,Introduction of the IBM Personal Computer,B,b,Introduction of the IBM Personal Computer,1
+309,MCQ,Given the First controlled powered flight; which of the following events was invented before it?,c,Invention of the steam engine,C,c,Invention of the steam engine,1
+310,MCQ,Given the Invention of the quantum computer; which of the following events was invented after it?,b,Launch of the James Webb Space Telescope,B,b,Launch of the James Webb Space Telescope,1
+311,MCQ,Given the Invention of the Microprocessor; which of the following events was invented before it?,d,Invention of the hard disk drive,D,d,Invention of the hard disk drive,1
+312,MCQ,Given the Moon landing; which of the following events was invented before it?,d,Invention of the locomotive,D,d,Invention of the locomotive,1
+313,MCQ,Given the Invention of the first commercial online search engine; which of the following events was invented after it?,c,Discovery of the Higgs boson,C,c,Discovery of the Higgs boson,1
+314,MCQ,Given the Invention of the World Wide Web; which of the following events was invented before it?,b,Human landing on the Moon,B,b,Human landing on the Moon,1
+315,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented after it?,b,Introduction of the MRI scanner,B,b,Introduction of the MRI scanner,1
+316,MCQ,Given the Human landing on the Moon; which of the following events was invented before it?,d,Discovery of Penicillin,D,d,Discovery of Penicillin,1
+317,MCQ,Given the Invention of the first commercial tablet computer (iPad); which of the following events was invented after it?,a,Invention of CRISPR gene editing,A,a,Invention of CRISPR gene editing,1
+318,MCQ,Given the Launch of the first communication satellite; which of the following events was invented before it?,c,Discovery of X-rays,C,c,Discovery of X-rays,1
+319,MCQ,Given the Invention of Wi-Fi; which of the following events was invented before it?,b,Invention of the microprocessor,B,b,Invention of the microprocessor,1
+320,MCQ,Given the Invention of the electric vehicle; which of the following events was invented after it?,c,Introduction of 4G technology,C,c,Introduction of 4G technology,1
+321,MCQ,Given the Invention of CRISPR gene editing; which of the following events was invented before it?,c,First controlled powered flight,C,c,First controlled powered flight,1
+322,MCQ,Given the First controlled powered flight; which of the following events was invented after it?,c,Invention of Wi-Fi,C,c,Invention of Wi-Fi,1
+323,MCQ,Given the Launch of the first commercial satellite for internet services; which of the following events was invented before it?,a,Discovery of Oxygen,A,a,Discovery of Oxygen,1
+324,MCQ,Given the Invention of the airplane; which of the following events was invented before it?,c,Invention of the steam engine,C,c,Invention of the steam engine,1
+325,MCQ,Given the Invention of the transistor; which of the following events was invented before it?,a,First successful powered airplane flight,A,a,First successful powered airplane flight,1
+326,MCQ,Given the Discovery of penicillin; which of the following events was invented after it?,b,Discovery of the Higgs boson,B,b,Discovery of the Higgs boson,1
+327,MCQ,Given the Invention of the locomotive; which of the following events was invented before it?,d,Invention of the electric telegraph,D,d,Invention of the electric telegraph,1
+328,MCQ,Given the Release of the first iPhone by Apple Inc.; which of the following events was invented after it?,a,Invention of CRISPR gene editing,A,a,Invention of CRISPR gene editing,1
+329,MCQ,Given the Invention of the first search engine (Archie); which of the following events was invented before it?,a,Invention of the Microprocessor,A,a,Invention of the Microprocessor,1
+330,MCQ,Given the Introduction of the first commercial jet airliner; which of the following events was invented after it?,c,Release of the first iPhone by Apple Inc.,C,c,Release of the first iPhone by Apple Inc.,1
+331,MCQ,Given the First human moon landing; which of the following events was invented before it?,d,Invention of the hard disk drive,D,d,Invention of the hard disk drive,1
+332,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented after it?,d,Discovery of the Higgs boson,D,d,Discovery of the Higgs boson,1
+333,MCQ,Given the Introduction of the first mobile phone; which of the following events was invented after it?,b,Invention of CRISPR gene editing,B,b,Invention of CRISPR gene editing,1
+334,MCQ,Given the Human landing on the Moon; which of the following events was invented before it?,d,First successful powered airplane flight,D,d,First successful powered airplane flight,1
+335,MCQ,Given the First controlled powered flight; which of the following events was invented before it?,d,Invention of the telephone,D,d,Invention of the telephone,1
+336,MCQ,Given the Discovery of the Higgs boson; which of the following events was invented before it?,a,Invention of the transistor,A,a,Invention of the transistor,1
+337,MCQ,Given the Launch of the first commercial satellite for internet services; which of the following events was invented after it?,b,Introduction of 5G networks,B,b,Introduction of 5G networks,1
+338,MCQ,Given the Introduction of the first iPhone; which of the following events was invented after it?,d,Invention of CRISPR gene editing,D,d,Invention of CRISPR gene editing,1
+339,MCQ,Given the Invention of the World Wide Web; which of the following events was invented after it?,b,Invention of the electric vehicle,B,b,Invention of the electric vehicle,1
+340,MCQ,Given the Invention of the locomotive; which of the following events was invented before it?,a,Invention of the electric telegraph,C,c,Invention of the electric vehicle,0
+341,MCQ,Given the Completion of the Human Genome Project; which of the following events was invented before it?,a,Invention of the electric telegraph,A,a,Invention of the electric telegraph,1
+342,MCQ,Given the Human landing on the Moon; which of the following events was invented before it?,b,Discovery of penicillin,B,b,Discovery of penicillin,1
+343,MCQ,Given the Invention of the DVD player; which of the following events was invented before it?,a,Invention of the hard disk drive,A,a,Invention of the hard disk drive,1
+344,MCQ,Given the Invention of the locomotive; which of the following events was invented before it?,c,Invention of the steam engine,C,c,Invention of the steam engine,1
+345,MCQ,Given the Discovery of the Higgs boson; which of the following events was invented before it?,d,Invention of the airplane,D,d,Invention of the airplane,1
+346,MCQ,Given the Invention of the World Wide Web; which of the following events was invented after it?,c,Invention of the smartwatch,D,d,Invention of the first search engine (Archie),0
+347,MCQ,Given the Invention of CRISPR gene editing; which of the following events was invented before it?,b,Discovery of penicillin,B,b,Discovery of penicillin,1
+348,MCQ,Given the Invention of the smartwatch; which of the following events was invented before it?,b,Introduction of the World Wide Web,B,b,Introduction of the World Wide Web,1
+349,MCQ,Given the First human moon landing; which of the following events was invented after it?,b,Introduction of 4G mobile technology,B,b,Introduction of 4G mobile technology,1
+350,MCQ,Given the Discovery of X-rays; which of the following events was invented after it?,a,Creation of the first search engine (Yahoo!),A,a,Creation of the first search engine (Yahoo!),1
+351,MCQ,Given the Launch of YouTube; which of the following events was invented after it?,d,Launch of the first iPod,D,d,Launch of the first iPod,1
+352,MCQ,Given the First Human Moon Landing; which of the following events was invented before it?,a,Introduction of the first commercial jet airliner,A,a,Introduction of the first commercial jet airliner,1
+353,MCQ,Given the Discovery of Penicillin; which of the following events was invented after it?,a,First human gene cloning,A,a,First human gene cloning,1
+354,MCQ,Given the First successful powered airplane flight; which of the following events was invented after it?,b,Invention of the first modern smartphone,B,b,Invention of the first modern smartphone,1
+355,MCQ,Given the Invention of the microprocessor; which of the following events was invented before it?,a,Discovery of Oxygen,A,a,Discovery of Oxygen,1
+356,MCQ,Given the Invention of the hard disk drive; which of the following events was invented after it?,d,Invention of the Microprocessor,D,d,Invention of the Microprocessor,1
+357,MCQ,Given the Release of Windows 95 by Microsoft; which of the following events was invented after it?,a,Invention of the smartwatch,A,a,Invention of the smartwatch,1
+358,MCQ,Given the Creation of the first search engine (Yahoo!); which of the following events was invented before it?,a,First powered flight by the Wright brothers,A,a,First powered flight by the Wright brothers,1
+359,MCQ,Given the Introduction of the IBM Personal Computer; which of the following events was invented after it?,b,Invention of the mp3 player,D,d,Introduction of the first mobile phone,0
+360,MCQ,Given the Development of the World Wide Web; which of the following events was invented before it?,d,Invention of the hard disk drive,D,d,Invention of the hard disk drive,1
+361,MCQ,Given the Launch of the first commercial satellite for internet services; which of the following events was invented after it?,c,Introduction of 4G technology,C,c,Introduction of 4G technology,1
+362,MCQ,Given the Discovery of Penicillin; which of the following events was invented before it?,a,First successful powered airplane flight,A,a,First successful powered airplane flight,1
+363,MCQ,Given the First human gene cloning; which of the following events was invented before it?,d,Invention of the first search engine (Archie),D,d,Invention of the first search engine (Archie),1
+364,MCQ,Given the Invention of the microprocessor; which of the following events was invented before it?,d,Development of the first airplane,D,d,Development of the first airplane,1
+365,MCQ,Given the Introduction of the first iPhone; which of the following events was invented after it?,d,Invention of CRISPR gene editing,D,d,Invention of CRISPR gene editing,1
+366,MCQ,Given the First human gene cloning; which of the following events was invented after it?,a,Discovery of the Higgs boson,D,d,Invention of the World Wide Web,0
+367,MCQ,Given the Introduction of 4G mobile technology; which of the following events was invented after it?,b,Introduction of the Large Hadron Collider,B,b,Introduction of the Large Hadron Collider,1
+368,MCQ,Given the Introduction of 4G mobile technology; which of the following events was invented after it?,b,Introduction of the Large Hadron Collider,B,b,Introduction of the Large Hadron Collider,1
+369,MCQ,Given the Introduction of the IBM Personal Computer; which of the following events was invented before it?,d,Development of the first airplane,D,d,Development of the first airplane,1
+370,MCQ,Given the Invention of the locomotive; which of the following events was invented before it?,b,Invention of the steam engine,B,b,Invention of the steam engine,1
+371,MCQ,Given the Invention of the Microprocessor; which of the following events was invented after it?,c,Invention of the electric vehicle,C,c,Invention of the electric vehicle,1
+372,MCQ,Given the Invention of the World Wide Web by Tim Berners-Lee; which of the following events was invented before it?,d,First human moon landing,D,d,First human moon landing,1
+373,MCQ,Given the The Human Genome Project completed; which of the following events was invented before it?,a,Invention of the transistor,A,a,Invention of the transistor,1
+374,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented after it?,d,Launch of the first iPod,D,d,Launch of the first iPod,1
+375,MCQ,Given the Launch of the first ICBM (Intercontinental Ballistic Missile); which of the following events was invented after it?,b,Invention of the first tablet,B,b,Invention of the first tablet,1
+376,MCQ,Given the Invention of the first commercial online search engine; which of the following events was invented after it?,a,The Human Genome Project completed,A,a,The Human Genome Project completed,1
+377,MCQ,Given the Introduction of the first iPhone; which of the following events was invented after it?,a,Launch of the Large Hadron Collider,D,d,Introduction of 4G mobile technology,0
+378,MCQ,Given the First human gene cloning; which of the following events was invented before it?,c,Invention of the first semiconductor transistor,C,c,Invention of the first semiconductor transistor,1
+379,MCQ,Given the Launch of the first communication satellite; which of the following events was invented after it?,d,Invention of the first commercial tablet computer (iPad),D,d,Invention of the first commercial tablet computer (iPad),1
+380,MCQ,Given the Introduction of the Large Hadron Collider; which of the following events was invented after it?,b,Invention of CRISPR gene editing,B,b,Invention of CRISPR gene editing,1
+381,MCQ,Given the Launch of the first iPod; which of the following events was invented before it?,d,Release of the first iPhone by Apple Inc.,A,a,Invention of the electric vehicle,0
+382,MCQ,Given the Moon landing; which of the following events was invented before it?,c,Invention of the transistor,C,c,Invention of the transistor,1
+383,MCQ,Given the Discovery of Penicillin; which of the following events was invented after it?,a,First human moon landing,A,a,First human moon landing,1
+384,MCQ,Given the Introduction of the first iPhone; which of the following events was invented after it?,a,Invention of the quantum computer,A,a,Invention of the quantum computer,1
+385,MCQ,Given the Invention of the airplane; which of the following events was invented before it?,a,Invention of the telephone,A,a,Invention of the telephone,1
+386,MCQ,Given the Invention of the locomotive; which of the following events was invented before it?,b,Invention of the electric telegraph,B,b,Invention of the electric telegraph,1
+387,MCQ,Given the Introduction of the first mobile phone; which of the following events was invented before it?,c,Invention of the steam engine,C,c,Invention of the steam engine,1
+388,MCQ,Given the Launch of the first commercial satellite for internet services; which of the following events was invented before it?,d,First successful powered flight,D,d,First successful powered flight,1
+389,MCQ,Given the First successful powered airplane flight; which of the following events was invented before it?,d,Invention of the electric telegraph,D,d,Invention of the electric telegraph,1
+390,MCQ,Given the Discovery of penicillin; which of the following events was invented before it?,a,First successful powered flight,A,a,First successful powered flight,1
+391,MCQ,Given the Invention of the first modern smartphone; which of the following events was invented after it?,c,Invention of the Large Hadron Collider,C,c,Invention of the Large Hadron Collider,1
+392,MCQ,Given the Creation of the World Wide Web; which of the following events was invented after it?,a,Development of the World Wide Web,A,a,Development of the World Wide Web,1
+393,MCQ,Given the Launch of the first communication satellite; which of the following events was invented after it?,c,Introduction of 5G networks,B,b,First human moon landing,0
+394,MCQ,Given the First Human Moon Landing; which of the following events was invented after it?,a,Introduction of the first cloud storage services,A,a,Introduction of the first cloud storage services,1
+395,MCQ,Given the First human moon landing; which of the following events was invented before it?,c,Development of the first airplane,C,c,Development of the first airplane,1
+396,MCQ,Given the Discovery of Oxygen; which of the following events was invented before it?,c,Invention of the locomotive,C,c,Invention of the locomotive,1
+397,MCQ,Given the Launch of YouTube; which of the following events was invented before it?,c,Development of the first airplane,C,c,Development of the first airplane,1
+398,MCQ,Given the Invention of CRISPR gene editing; which of the following events was invented before it?,b,First successful powered flight,B,b,First successful powered flight,1
+399,MCQ,Given the First man on the Moon; which of the following events was invented before it?,c,Invention of the airplane,C,c,Invention of the airplane,1
+400,MCQ,Given the Invention of the smartwatch; which of the following events was invented before it?,a,Introduction of the smartphone,C,c,Invention of the quantum computer,0
+401,MCQ,Given the Invention of the electric vehicle; which of the following events was invented after it?,b,Introduction of 4G technology,A,a,Invention of Wi-Fi,0
+402,MCQ,Given the Opening of the Large Hadron Collider; which of the following events was invented after it?,c,Introduction of 4G technology,C,c,Introduction of 4G technology,1
+403,MCQ,Given the Introduction of the smartphone; which of the following events was invented after it?,a,Introduction of the first cloud storage services,A,a,Introduction of the first cloud storage services,1
+404,MCQ,Given the Discovery of Penicillin; which of the following events was invented before it?,c,Development of the first airplane,B,b,Invention of the Synthetic Dye,0
+405,MCQ,Given the Invention of the hard disk drive; which of the following events was invented before it?,a,Invention of the transistor,A,a,Invention of the transistor,1
+406,MCQ,Given the Invention of the locomotive; which of the following events was invented before it?,c,Invention of the electric telegraph,C,c,Invention of the electric telegraph,1
+407,MCQ,Given the Invention of the microprocessor; which of the following events was invented after it?,b,Invention of CRISPR gene editing,B,b,Invention of CRISPR gene editing,1
+408,MCQ,Given the Introduction of the first cloud storage services; which of the following events was invented after it?,b,Invention of CRISPR gene editing,B,b,Invention of CRISPR gene editing,1
+409,MCQ,Given the First controlled powered flight; which of the following events was invented before it?,c,Discovery of X-rays,C,c,Discovery of X-rays,1
+410,MCQ,Given the First controlled powered flight; which of the following events was invented before it?,b,Discovery of Oxygen,B,b,Discovery of Oxygen,1
+411,MCQ,Given the Introduction of the MRI scanner; which of the following events was invented before it?,d,Invention of the airplane,D,d,Invention of the airplane,1
+412,MCQ,Given the Invention of the first tablet; which of the following events was invented before it?,d,Invention of the locomotive,D,d,Invention of the locomotive,1
+413,MCQ,Given the Discovery of the Higgs boson; which of the following events was invented after it?,d,Invention of the quantum computer,B,b,Invention of the smartwatch,0
+414,MCQ,Given the Opening of the Large Hadron Collider; which of the following events was invented before it?,a,Creation of the World Wide Web,A,a,Creation of the World Wide Web,1
+415,MCQ,Given the Invention of the microprocessor; which of the following events was invented before it?,c,Invention of the locomotive,C,c,Invention of the locomotive,1
+416,MCQ,Given the Introduction of the MRI scanner; which of the following events was invented before it?,b,Discovery of Penicillin,B,b,Discovery of Penicillin,1
+417,MCQ,Given the Invention of the DVD player; which of the following events was invented before it?,d,Invention of the first semiconductor transistor,D,d,Invention of the first semiconductor transistor,1
+418,MCQ,Given the First human gene cloning; which of the following events was invented after it?,d,Introduction of 4G mobile technology,D,d,Introduction of 4G mobile technology,1
+419,MCQ,Given the Invention of the Large Hadron Collider; which of the following events was invented before it?,c,Discovery of penicillin by Alexander Fleming,C,c,Discovery of penicillin by Alexander Fleming,1
+420,MCQ,Given the Release of the first iPhone by Apple Inc.; which of the following events was invented before it?,d,Launch of the first communication satellite,D,d,Launch of the first communication satellite,1
+421,MCQ,Given the Moon landing; which of the following events was invented after it?,a,The Human Genome Project completed,A,a,The Human Genome Project completed,1
+422,MCQ,Given the Introduction of the Large Hadron Collider; which of the following events was invented after it?,a,Invention of CRISPR gene editing,A,a,Invention of CRISPR gene editing,1
+423,MCQ,Given the Invention of the Microprocessor; which of the following events was invented before it?,a,Invention of the transistor,A,a,Invention of the transistor,1
+424,MCQ,Given the First man on the Moon; which of the following events was invented before it?,b,Invention of the first semiconductor transistor,B,b,Invention of the first semiconductor transistor,1
+425,MCQ,Given the First controlled powered flight; which of the following events was invented after it?,c,Invention of the first modern smartphone,C,c,Invention of the first modern smartphone,1
+426,MCQ,Given the Invention of the smartwatch; which of the following events was invented before it?,a,Launch of the first commercial satellite for internet services,A,a,Launch of the first commercial satellite for internet services,1
+427,MCQ,Given the Launch of the James Webb Space Telescope; which of the following events was invented after it?,a,Development of mRNA COVID-19 vaccines,A,a,Development of mRNA COVID-19 vaccines,1
+428,MCQ,Given the Introduction of the MRI scanner; which of the following events was invented before it?,a,Introduction of the IBM Personal Computer,A,a,Introduction of the IBM Personal Computer,1
+429,MCQ,Given the Launch of the James Webb Space Telescope; which of the following events was invented after it?,b,Introduction of 5G networks,B,b,Introduction of 5G networks,1
+430,MCQ,Given the Introduction of 4G technology; which of the following events was invented before it?,c,Launch of the first communication satellite,C,c,Launch of the first communication satellite,1
+431,MCQ,Given the Discovery of Penicillin; which of the following events was invented after it?,c,First human moon landing,C,c,First human moon landing,1
+432,MCQ,Given the Invention of the DVD player; which of the following events was invented before it?,a,Discovery of Oxygen,A,a,Discovery of Oxygen,1
+433,MCQ,Given the First powered flight by the Wright brothers; which of the following events was invented after it?,a,Introduction of 4G technology,A,a,Introduction of 4G technology,1
+434,MCQ,Given the Invention of the DVD player; which of the following events was invented after it?,a,Invention of the Foldable Smartphone,A,a,Invention of the Foldable Smartphone,1
+435,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented after it?,b,Invention of the microprocessor,B,b,Invention of the microprocessor,1
+436,MCQ,Given the Invention of the mp3 player; which of the following events was invented before it?,b,Introduction of the first mobile phone,B,b,Introduction of the first mobile phone,1
+437,MCQ,Given the Opening of the Large Hadron Collider; which of the following events was invented before it?,d,Invention of the Microprocessor,D,d,Invention of the Microprocessor,1
+438,MCQ,Given the Invention of CRISPR gene editing; which of the following events was invented before it?,a,Introduction of the first mobile phone,A,a,Introduction of the first mobile phone,1
+439,MCQ,Given the Launch of the Large Hadron Collider; which of the following events was invented before it?,c,First controlled powered flight,C,c,First controlled powered flight,1
+440,MCQ,Given the Launch of the first commercial satellite for internet services; which of the following events was invented after it?,a,Opening of the Large Hadron Collider,A,a,Opening of the Large Hadron Collider,1
+441,MCQ,Given the First human moon landing; which of the following events was invented after it?,b,Introduction of the World Wide Web,B,b,Introduction of the World Wide Web,1
+442,MCQ,Given the Introduction of the Large Hadron Collider; which of the following events was invented before it?,d,Introduction of the first commercial jet airliner,D,d,Introduction of the first commercial jet airliner,1
+443,MCQ,Given the Invention of the hard disk drive; which of the following events was invented after it?,c,Launch of the Large Hadron Collider,C,c,Launch of the Large Hadron Collider,1
+444,MCQ,Given the Invention of the microprocessor; which of the following events was invented after it?,c,Invention of the quantum computer,C,c,Invention of the quantum computer,1
+445,MCQ,Given the First Human Moon Landing; which of the following events was invented after it?,a,Introduction of the first cloud storage services,A,a,Introduction of the first cloud storage services,1
+446,MCQ,Given the First human moon landing; which of the following events was invented after it?,c,Discovery of the Higgs boson,C,c,Discovery of the Higgs boson,1
+447,MCQ,Given the Invention of the World Wide Web; which of the following events was invented before it?,a,Invention of the electric telegraph,A,a,Invention of the electric telegraph,1
+448,MCQ,Given the Introduction of the first mobile phone; which of the following events was invented after it?,a,Introduction of the IBM Personal Computer,A,a,Introduction of the IBM Personal Computer,1
+449,MCQ,Given the Development of CRISPR Gene Editing; which of the following events was invented after it?,d,Development of mRNA COVID-19 vaccines,D,d,Development of mRNA COVID-19 vaccines,1
+450,MCQ,Given the Introduction of the MRI scanner; which of the following events was invented before it?,b,Introduction of the first commercial jet airliner,B,b,Introduction of the first commercial jet airliner,1
+451,MCQ,Given the Launch of the first iPod; which of the following events was invented after it?,a,Introduction of 4G technology,A,a,Introduction of 4G technology,1
+452,MCQ,Given the Development of mRNA COVID-19 vaccines; which of the following events was invented after it?,a,Introduction of 5G networks,A,a,Introduction of 5G networks,1
+453,MCQ,Given the First man on the Moon; which of the following events was invented after it?,b,Introduction of the MRI scanner,B,b,Introduction of the MRI scanner,1
+454,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented before it?,a,Invention of the hard disk drive,C,c,Invention of the first semiconductor transistor,0
+455,MCQ,Given the Discovery of X-rays; which of the following events was invented before it?,b,Invention of the steam engine,B,b,Invention of the steam engine,1
+456,MCQ,Given the Launch of the Large Hadron Collider; which of the following events was invented before it?,d,Invention of the World Wide Web by Tim Berners-Lee,D,d,Invention of the World Wide Web by Tim Berners-Lee,1
+457,MCQ,Given the Development of CRISPR Gene Editing; which of the following events was invented after it?,d,Launch of the James Webb Space Telescope,D,d,Launch of the James Webb Space Telescope,1
+458,MCQ,Given the First successful powered flight; which of the following events was invented before it?,a,Invention of the locomotive,A,a,Invention of the locomotive,1
+459,MCQ,Given the Invention of Wi-Fi; which of the following events was invented before it?,a,First successful powered airplane flight,A,a,First successful powered airplane flight,1
+460,MCQ,Given the Discovery of penicillin by Alexander Fleming; which of the following events was invented after it?,c,The Human Genome Project completed,C,c,The Human Genome Project completed,1
+461,MCQ,Given the Invention of the microprocessor; which of the following events was invented before it?,c,First human moon landing,C,c,First human moon landing,1
+462,MCQ,Given the Completion of the Human Genome Project; which of the following events was invented before it?,d,First man on the Moon,D,d,First man on the Moon,1
+463,MCQ,Given the Introduction of the first cloud storage services; which of the following events was invented after it?,d,Launch of the James Webb Space Telescope,D,d,Launch of the James Webb Space Telescope,1
+464,MCQ,Given the Introduction of the first mobile phone; which of the following events was invented after it?,c,Release of Windows 95 by Microsoft,C,c,Release of Windows 95 by Microsoft,1
+465,MCQ,Given the Introduction of 4G mobile technology; which of the following events was invented before it?,c,Invention of the airplane,C,c,Invention of the airplane,1
+466,MCQ,Given the Discovery of Penicillin; which of the following events was invented after it?,a,Launch of the first commercial satellite for internet services,A,a,Launch of the first commercial satellite for internet services,1
+467,MCQ,Given the Launch of the Large Hadron Collider; which of the following events was invented before it?,a,First successful powered airplane flight,A,a,First successful powered airplane flight,1
+468,MCQ,Given the Creation of the first search engine (Yahoo!); which of the following events was invented before it?,c,First man on the Moon,C,c,First man on the Moon,1
+469,MCQ,Given the Invention of the microprocessor; which of the following events was invented after it?,b,Launch of the James Webb Space Telescope,B,b,Launch of the James Webb Space Telescope,1
+470,MCQ,Given the Invention of the Large Hadron Collider; which of the following events was invented after it?,d,Development of mRNA COVID-19 vaccines,D,d,Development of mRNA COVID-19 vaccines,1
+471,MCQ,Given the Discovery of X-rays; which of the following events was invented after it?,d,First man on the Moon,D,d,First man on the Moon,1
+472,MCQ,Given the Discovery of the Higgs boson; which of the following events was invented after it?,d,Development of mRNA COVID-19 vaccines,D,d,Development of mRNA COVID-19 vaccines,1
+473,MCQ,Given the Discovery of penicillin by Alexander Fleming; which of the following events was invented before it?,a,First successful powered airplane flight,A,a,First successful powered airplane flight,1
+474,MCQ,Given the First human gene cloning; which of the following events was invented before it?,b,Development of the first airplane,B,b,Development of the first airplane,1
+475,MCQ,Given the Launch of the James Webb Space Telescope; which of the following events was invented after it?,d,Development of mRNA COVID-19 vaccines,D,d,Development of mRNA COVID-19 vaccines,1
+476,MCQ,Given the Discovery of Penicillin; which of the following events was invented after it?,b,Invention of Wi-Fi,B,b,Invention of Wi-Fi,1
+477,MCQ,Given the Creation of the World Wide Web; which of the following events was invented before it?,a,Discovery of penicillin by Alexander Fleming,A,a,Discovery of penicillin by Alexander Fleming,1
+478,MCQ,Given the Launch of the first communication satellite; which of the following events was invented before it?,a,Discovery of Penicillin,A,a,Discovery of Penicillin,1
+479,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented after it?,d,Launch of the first commercial satellite for internet services,D,d,Launch of the first commercial satellite for internet services,1
+480,MCQ,Given the First man on the Moon; which of the following events was invented after it?,c,Introduction of 5G networks,C,c,Introduction of 5G networks,1
+481,MCQ,Given the Invention of the transistor; which of the following events was invented after it?,a,Discovery of the Higgs boson,A,a,Discovery of the Higgs boson,1
+482,MCQ,Given the Introduction of the World Wide Web; which of the following events was invented after it?,d,Discovery of the Higgs boson,B,b,Invention of the DVD player,0
+483,MCQ,Given the Development of mRNA COVID-19 vaccines; which of the following events was invented after it?,d,Introduction of 5G networks,D,d,Introduction of 5G networks,1
+484,MCQ,Given the Moon landing; which of the following events was invented after it?,a,Launch of the first commercial satellite for internet services,A,a,Launch of the first commercial satellite for internet services,1
+485,MCQ,Given the Discovery of Oxygen; which of the following events was invented before it?,b,Invention of the electric telegraph,B,b,Invention of the electric telegraph,1
+486,MCQ,Given the First successful powered flight; which of the following events was invented after it?,c,Invention of the mp3 player,C,c,Invention of the mp3 player,1
+487,MCQ,Given the Invention of the first semiconductor transistor; which of the following events was invented after it?,d,Invention of the quantum computer,D,d,Invention of the quantum computer,1
+488,MCQ,Given the Human landing on the Moon; which of the following events was invented after it?,d,Invention of the electric vehicle,D,d,Invention of the electric vehicle,1
+489,MCQ,Given the Invention of the first commercial tablet computer (iPad); which of the following events was invented after it?,d,Launch of the James Webb Space Telescope,D,d,Launch of the James Webb Space Telescope,1
+490,MCQ,Given the Development of the World Wide Web; which of the following events was invented after it?,a,The Human Genome Project completed,A,a,The Human Genome Project completed,1
+491,MCQ,Given the Invention of the Large Hadron Collider; which of the following events was invented after it?,d,Invention of CRISPR gene editing,D,d,Invention of CRISPR gene editing,1
+492,MCQ,Given the Human landing on the Moon; which of the following events was invented after it?,c,Invention of the Large Hadron Collider,C,c,Invention of the Large Hadron Collider,1
+493,MCQ,Given the Introduction of the first iPhone; which of the following events was invented before it?,a,Invention of the airplane,A,a,Invention of the airplane,1
+494,MCQ,Given the Discovery of Oxygen; which of the following events was invented before it?,b,Invention of the steam engine,B,b,Invention of the steam engine,1
+495,MCQ,Given the Invention of the Large Hadron Collider; which of the following events was invented before it?,a,First human moon landing,A,a,First human moon landing,1
+496,MCQ,Given the First Human Moon Landing; which of the following events was invented after it?,a,Introduction of the Large Hadron Collider,A,a,Introduction of the Large Hadron Collider,1
+497,MCQ,Given the Discovery of penicillin; which of the following events was invented after it?,b,Creation of the World Wide Web,B,b,Creation of the World Wide Web,1
+498,MCQ,Given the Introduction of the first mobile phone; which of the following events was invented before it?,b,Discovery of Penicillin,B,b,Discovery of Penicillin,1
+499,MCQ,Given the Invention of Wi-Fi; which of the following events was invented after it?,c,Invention of CRISPR gene editing,C,c,Invention of CRISPR gene editing,1
+500,MCQ,Given the Release of Windows 95 by Microsoft; which of the following events was invented before it?,b,Invention of the Synthetic Dye,B,b,Invention of the Synthetic Dye,1

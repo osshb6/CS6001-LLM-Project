@@ -1,0 +1,101 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Given that the woolly mammoth was adapted to Ice Age tundra; could it survive long-term in a modern tropical rainforest without human-built cold habitats?,b,False,False,b,False,1
+2,MCQ,If a small population of woolly mammoths were brought into today’s Arctic with human support; which condition would most likely be necessary for their survival?,b,Cool open habitats with ample grasses and shrubs,B,b,Cool open habitats with ample grasses and shrubs,1
+3,TF,Could a large non-avian dinosaur like Tyrannosaurus rex survive in today’s world if it were suddenly transported here; assuming no immediate human interference?,b,False,False,b,False,1
+4,MCQ,Which factor would most likely make it difficult for a Tyrannosaurus rex to survive in modern ecosystems?,b,Changes in prey availability and human-dominated landscapes,B,b,Changes in prey availability and human-dominated landscapes,1
+5,TF,Could a modern human with current biology survive in the Jurassic period without any technological protection?,b,False,False,b,False,1
+6,MCQ,If humans were transported to the Jurassic period; which challenge would most likely threaten their survival first?,c,Exposure to unfamiliar pathogens; predators; and absence of infrastructure,C,c,Exposure to unfamiliar pathogens; predators; and absence of infrastructure,1
+7,TF,Could a modern polar bear survive in the middle of the last Ice Age if introduced into its natural Arctic-type habitats?,a,True,True,a,True,1
+8,MCQ,What would most likely determine whether polar bears could thrive during the Ice Age?,a,Availability of sea ice and marine mammals as prey,A,a,Availability of sea ice and marine mammals as prey,1
+9,TF,Could a modern tropical coral reef survive if it were placed in the cold waters of the last Ice Age oceans without any adaptation?,b,False,False,b,False,1
+10,MCQ,Which environmental factor would most likely doom a modern coral reef transplanted into a glacial-period cold ocean?,b,Low temperature and altered chemistry outside corals’ tolerance range,B,b,Low temperature and altered chemistry outside corals’ tolerance range,1
+11,TF,Could a trilobite from the Paleozoic era survive in today’s oceans if suddenly revived and placed on a modern seafloor?,b,False,False,b,False,1
+12,MCQ,Which reason best explains why trilobites would struggle in modern oceans?,b,Modern marine ecosystems have new predators and competitors they never evolved with,B,b,Modern marine ecosystems have new predators and competitors they never evolved with,1
+13,TF,Could a modern cockroach survive in a Carboniferous forest; where oxygen levels were higher than today?,a,True,True,a,True,1
+14,MCQ,Why might modern insects like cockroaches be able to survive in the Carboniferous period?,b,They are small generalists that can feed on many decaying plant materials,B,b,They are small generalists that can feed on many decaying plant materials,1
+15,TF,Could a Neanderthal; if transported to the present day; physically survive Earth’s modern atmosphere and gravity without medical support?,a,True,True,a,True,1
+16,MCQ,What would be the main challenges for a Neanderthal trying to live in the present era; assuming basic shelter and food are provided?,c,Social; cultural; and disease-related adaptation issues,C,c,Social; cultural; and disease-related adaptation issues,1
+17,TF,Could a sabertooth cat (Smilodon) survive in a modern African savanna if introduced with naturally occurring prey species and no human interference?,a,True,False,b,False,0
+18,MCQ,Which factor would most strongly influence whether sabertooth cats could establish a stable population today?,a,Presence of modern herbivores of appropriate size and density,A,a,Presence of modern herbivores of appropriate size and density,1
+19,TF,Could a modern blue whale survive in Jurassic seas if transported there with adequate krill-like prey available?,a,True,True,a,True,1
+20,MCQ,Which condition would be most critical for a blue whale surviving in Jurassic oceans?,b,Sufficient biomass of small planktonic organisms to filter-feed on,B,b,Sufficient biomass of small planktonic organisms to filter-feed on,1
+21,TF,Could early land plants from the Devonian era tolerate the modern atmosphere; given that oxygen levels and CO2 are different today?,a,True,False,b,False,0
+22,MCQ,What would most likely determine whether Devonian plants could survive in modern environments?,a,Their ability to adapt to new herbivores and climate conditions,A,a,Their ability to adapt to new herbivores and climate conditions,1
+23,TF,Could a modern cactus species like the saguaro survive in the wetter; cooler conditions of the last glacial maximum without any changes?,b,False,False,b,False,1
+24,MCQ,Which scenario would give a desert cactus the best chance of surviving during the last Ice Age?,a,Placement in a cold; dry steppe with well-drained soil and occasional warmth,A,a,Placement in a cold; dry steppe with well-drained soil and occasional warmth,1
+25,TF,Could modern humans survive as hunter-gatherers in the late Pleistocene environment if they had no technology beyond stone tools and clothing?,a,True,True,a,True,1
+26,MCQ,Which factor would most support modern humans surviving in the late Pleistocene era?,b,Their complex social learning and problem-solving skills,B,b,Their complex social learning and problem-solving skills,1
+27,TF,Could a modern house cat survive in an early agricultural Neolithic village environment if transported back in time?,a,True,True,a,True,1
+28,MCQ,What advantage would a modern house cat likely have in a Neolithic setting?,b,Instinct to hunt rodents; reducing grain loss,B,b,Instinct to hunt rodents; reducing grain loss,1
+29,TF,Could a large flightless bird like a moa survive in a modern fenced wildlife reserve if humans protected it from major predators?,a,True,True,a,True,1
+30,MCQ,What would be the primary requirement for a reintroduced moa in the modern era to survive?,b,A large; suitable grazing habitat with controlled predators,B,b,A large; suitable grazing habitat with controlled predators,1
+31,TF,Could a modern oak tree survive in a mild climate of the early Holocene; similar to just after the last Ice Age?,a,True,True,a,True,1
+32,MCQ,Which aspect of early Holocene environments would most help modern oak trees survive?,a,Presence of soil; seasonal climate; and sufficient rainfall,A,a,Presence of soil; seasonal climate; and sufficient rainfall,1
+33,TF,Could modern freshwater fish like trout survive in many ancient lakes if water chemistry and temperature were within their tolerances?,a,True,True,a,True,1
+34,MCQ,What would be most important for a trout transplanted into a late Pleistocene lake?,b,Appropriate oxygen levels; temperature; and food sources,B,b,Appropriate oxygen levels; temperature; and food sources,1
+35,TF,Could a modern honeybee colony survive in a world without flowering plants; such as before angiosperms evolved?,b,False,False,b,False,1
+36,MCQ,Why would a pre-flowering-plant Earth be inhospitable to modern honeybees?,a,No nectar or pollen sources from flowers,A,a,No nectar or pollen sources from flowers,1
+37,TF,Could a modern camel survive in a Pleistocene cold steppe environment if given enough dry vegetation and shelter?,a,True,True,a,True,1
+38,MCQ,What trait might help camels in a Pleistocene steppe landscape?,a,Ability to store fat and endure scarce food and water,A,a,Ability to store fat and endure scarce food and water,1
+39,TF,Could a Velociraptor-sized dinosaur survive in dense modern cities if released without any control?,b,False,False,b,False,1
+40,MCQ,What modern factor would most threaten a medium-sized predatory dinosaur in today’s world?,b,Human conflict; habitat fragmentation; and lack of stable wild prey populations,B,b,Human conflict; habitat fragmentation; and lack of stable wild prey populations,1
+41,TF,Could a bacteria species from the Paleozoic era potentially survive in today’s oceans; given that microbes often tolerate wide ranges of conditions?,a,True,True,a,True,1
+42,MCQ,Which feature of many bacteria makes them more likely to survive across different geological periods?,b,Ability to form spores; rapid evolution; and wide tolerance ranges,B,b,Ability to form spores; rapid evolution; and wide tolerance ranges,1
+43,TF,Could a modern oak forest persist during a brief period of cooler climate; similar to a small glacial fluctuation; if precipitation remained adequate?,a,True,True,a,True,1
+44,MCQ,What factor would help modern oaks survive a moderate cooling event?,c,Their capacity to withstand seasonal temperature changes,C,c,Their capacity to withstand seasonal temperature changes,1
+45,TF,Could a modern rainforest frog species survive if transplanted into a temperate forest with cold winters and occasional snow?,b,False,False,b,False,1
+46,MCQ,Which condition would be most necessary for a tropical frog’s survival in a different time or climate?,a,Stable warm temperatures and high humidity,A,a,Stable warm temperatures and high humidity,1
+47,TF,Could modern humans survive in the time before dinosaurs; when large amphibians and early reptiles dominated; if they had basic tools and shelters?,a,True,True,a,True,1
+48,MCQ,What would be the main threats to humans in a pre-dinosaur environment?,b,Predators; disease; and unfamiliar climates with no infrastructure,B,b,Predators; disease; and unfamiliar climates with no infrastructure,1
+49,TF,Could a modern dairy cow survive in an early medieval European setting with human care similar to historical cattle breeds?,a,True,True,a,True,1
+50,MCQ,What would cows primarily need to survive in a medieval time period?,b,Pasture; water; and basic veterinary-type care from humans,B,b,Pasture; water; and basic veterinary-type care from humans,1
+51,TF,Could a modern wheat variety grow in soils of an early agricultural settlement if climate and soil nutrients were compatible?,a,True,True,a,True,1
+52,MCQ,What factor would most influence a modern wheat plant’s survival in a Neolithic field?,b,Temperature; rainfall; soil fertility; and human cultivation,B,b,Temperature; rainfall; soil fertility; and human cultivation,1
+53,TF,Could a modern marine turtle survive in Cretaceous seas if there were similar temperatures and nesting beaches available?,a,True,True,a,True,1
+54,MCQ,Which challenge would a modern turtle likely face in Cretaceous oceans?,a,Different predator species and competition patterns,A,a,Different predator species and competition patterns,1
+55,TF,Could a modern grizzly bear survive in an untouched European forest of the late Pleistocene; given enough prey and no humans?,a,True,True,a,True,1
+56,MCQ,What would be key to a grizzly bear’s survival in prehistoric Europe?,a,Availability of large herbivores; fish; and plant foods,A,a,Availability of large herbivores; fish; and plant foods,1
+57,TF,Could a modern sunflower survive in an early Cretaceous meadow if climate and soil were roughly similar but pollinators were different?,a,True,False,b,False,0
+58,MCQ,What factor would be most critical for a modern sunflower in a different time period?,a,Having some pollinating insects or wind for reproduction,A,a,Having some pollinating insects or wind for reproduction,1
+59,TF,Could a modern shark species like the great white survive in many ancient seas if prey and temperature were appropriate?,a,True,True,a,True,1
+60,MCQ,What condition is most important for a shark to survive in a different geological era?,a,Correct salinity; temperature; and sufficient prey,A,a,Correct salinity; temperature; and sufficient prey,1
+61,TF,Could a large Ice Age herbivore like the woolly rhinoceros survive in today’s Arctic tundra if humans left it alone and it had enough food?,a,True,False,b,False,0
+62,MCQ,Which factor would most challenge the woolly rhinoceros in the modern world?,a,Competition with modern large herbivores and human land use,A,a,Competition with modern large herbivores and human land use,1
+63,TF,Could a modern pine forest persist during a mild warming trend similar to past interglacial periods; assuming rainfall remains adequate?,a,True,True,a,True,1
+64,MCQ,What adaptation helps pines survive across different time periods and climates?,b,Long-lived needles; cones; and tolerance to varied soils,B,b,Long-lived needles; cones; and tolerance to varied soils,1
+65,TF,Could a modern earthworm species survive in ancient soils if organic matter and moisture were present?,a,True,True,a,True,1
+66,MCQ,What would most influence an earthworm’s survival in a different geological era?,b,Soil composition; moisture; and organic material availability,B,b,Soil composition; moisture; and organic material availability,1
+67,TF,Could a modern polar fox survive during a colder glacial period if it had access to appropriate prey; such as small mammals or carrion?,a,True,True,a,True,1
+68,MCQ,What key adaptation makes arctic foxes suitable for glacial climates?,b,Thick insulating fur; compact bodies; and flexible diets,B,b,Thick insulating fur; compact bodies; and flexible diets,1
+69,TF,Could a modern rainforest canopy bird survive in an open grassland environment typical of certain past epochs without forest cover?,b,False,False,b,False,1
+70,MCQ,Which factor would most limit a forest bird’s survival in a treeless ancient grassland?,a,Lack of trees for nesting; shelter; and preferred food resources,A,a,Lack of trees for nesting; shelter; and preferred food resources,1
+71,TF,Could a modern penguin species survive in a warmer Eocene polar sea if water were cool enough and food was abundant?,a,True,True,a,True,1
+72,MCQ,What would be most important for penguins in an ancient; somewhat warmer polar ocean?,a,Access to fish and safe breeding grounds,A,a,Access to fish and safe breeding grounds,1
+73,TF,Could a modern rice variety survive in a prehistoric tropical floodplain; assuming seasonal flooding and warm temperatures are similar?,a,True,True,a,True,1
+74,MCQ,Which condition would most help rice survive in an ancient floodplain?,a,Regular water supply; warm temperatures; and nutrient-rich soils,A,a,Regular water supply; warm temperatures; and nutrient-rich soils,1
+75,TF,Could a modern rabbit survive in an Ice Age steppe if it had enough vegetation to eat and burrow sites?,a,True,True,a,True,1
+76,MCQ,What would primarily determine a rabbit’s survival in an Ice Age environment?,b,Availability of food; shelter; and ability to avoid predators,B,b,Availability of food; shelter; and ability to avoid predators,1
+77,TF,Could a modern tropical coral species survive in a future ocean that has warmed significantly and become more acidic without any adaptation?,b,False,False,b,False,1
+78,MCQ,Which factor would most likely threaten coral survival in a drastically changed future ocean?,b,Increased temperature and lower pH altering calcification,B,b,Increased temperature and lower pH altering calcification,1
+79,TF,Could a modern desert rodent survive in a wetter; forested ancient climate if it could find similar seeds and hiding places?,a,True,True,a,True,1
+80,MCQ,What ecological change would most challenge a desert rodent in a forested ancient environment?,a,Different predators and altered food distribution,A,a,Different predators and altered food distribution,1
+81,TF,Could a modern fungus species that decomposes wood survive in a Carboniferous swamp forest full of fallen logs and plant debris?,a,True,True,a,True,1
+82,MCQ,What would mainly affect a wood-decomposing fungus’s ability to survive in a different time period?,a,Availability of organic matter; moisture; and suitable temperature,A,a,Availability of organic matter; moisture; and suitable temperature,1
+83,TF,Could a modern pigeon population survive in an ancient city like Rome; if it were transported there with similar buildings and food sources from humans?,a,True,True,a,True,1
+84,MCQ,What would support pigeons’ survival in a historical human city?,a,Urban structures for nesting and leftover food from people,A,a,Urban structures for nesting and leftover food from people,1
+85,TF,Could a modern eucalyptus tree survive in a warm; dinosaur-age coastal plain if soils and rainfall were roughly similar to its home environment?,a,True,True,a,True,1
+86,MCQ,Which condition would be most important for a eucalyptus tree in a different time period?,a,Suitable temperature; water; and soil conditions,A,a,Suitable temperature; water; and soil conditions,1
+87,TF,Could a modern octopus species survive in a shallow sea of the Devonian era if salinity; temperature; and prey were appropriate?,a,True,True,a,True,1
+88,MCQ,What would most influence an octopus’s survival in an ancient ocean?,a,Availability of hiding places; oxygenated water; and prey,A,a,Availability of hiding places; oxygenated water; and prey,1
+89,TF,Could a modern mosquito species survive in an early dinosaur-era swamp if there were vertebrates to feed on and standing water for breeding?,a,True,True,a,True,1
+90,MCQ,What condition is essential for mosquitoes in any time period?,a,Standing water for larvae and warm-enough conditions,A,a,Standing water for larvae and warm-enough conditions,1
+91,TF,Could a modern chimpanzee troop survive in a Pleistocene African woodland where early humans lived; assuming adequate plant and animal foods?,a,True,True,a,True,1
+92,MCQ,Which factor would most affect chimpanzee survival in a past woodland ecosystem?,a,Food availability; predation; and competition with other primates,A,a,Food availability; predation; and competition with other primates,1
+93,TF,Could a modern polar bear survive in a much warmer Eocene Arctic forest without sea ice and seal prey?,b,False,False,b,False,1
+94,MCQ,What is the main reason polar bears would struggle in a warm forested Arctic without ice?,b,Their hunting strategy and physiology are adapted to cold and sea ice,B,b,Their hunting strategy and physiology are adapted to cold and sea ice,1
+95,TF,Could a modern grass species survive in a dinosaur-era landscape before grasses became widespread; if scattered in suitable soil patches?,a,True,False,b,False,0
+96,MCQ,Which outcome is most likely if modern grass appears in a dinosaur-era habitat?,a,It could colonize open ground and eventually become part of the ecosystem,A,a,It could colonize open ground and eventually become part of the ecosystem,1
+97,TF,Could a modern house dog survive in a Stone Age human camp; assuming humans provided food and shelter?,a,True,True,a,True,1
+98,MCQ,What would most support a modern dog’s survival in a prehistoric human camp?,a,Mutualistic relationship with humans for protection; hunting; and companionship,A,a,Mutualistic relationship with humans for protection; hunting; and companionship,1
+99,TF,Could a modern deep-sea fish adapted to high pressure survive if placed in shallow; low-pressure ancient coastal waters?,b,False,False,b,False,1
+100,MCQ,Which physical factor is most critical for deep-sea organisms moved to shallow ancient seas?,a,Extreme pressure differences between deep and shallow water,A,a,Extreme pressure differences between deep and shallow water,1

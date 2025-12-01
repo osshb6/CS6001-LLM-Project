@@ -1,0 +1,161 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,MCQ,Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 2018?,a,Yes,B,b,No,0
+2,MCQ,Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1993?,a,Yes,B,b,No,0
+3,MCQ,Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?,b,No,A,a,Yes,0
+4,MCQ,In which city did Ronald Reagan sign an agreement with Mikhail Gorbachev in 1987?,a,Munich,B,b,Washington,0
+5,MCQ,In which year did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom?,a,1972,B,b,2018,0
+6,MCQ,In which city did Anwar Sadat sign an agreement with Menachem Begin in 1978?,a,Maastricht,B,b,Camp David,0
+7,MCQ,Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?,b,No,A,a,Yes,0
+8,MCQ,Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?,b,No,A,a,Yes,0
+9,MCQ,In which year did Helmut Kohl sign an agreement with François Mitterrand in Maastricht?,a,2018,B,b,1992,0
+10,MCQ,Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2018?,a,Yes,B,b,No,0
+11,MCQ,Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?,b,No,A,a,Yes,0
+12,MCQ,In which year did Barack Obama sign an agreement with Dmitry Medvedev in Prague?,d,1992,C,c,2010,0
+13,MCQ,In which city did Barack Obama sign an agreement with Dmitry Medvedev in 2010?,d,Washington,C,c,Prague,0
+14,MCQ,In which city did Angela Merkel sign an agreement with Nicolas Sarkozy in 2011?,a,Prague,B,b,Brussels,0
+15,MCQ,In which city did Yitzhak Rabin sign an agreement with Yasser Arafat in 1993?,a,Camp David,B,b,Washington,0
+16,MCQ,In which year did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington?,b,1938,A,a,1993,0
+17,MCQ,Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 2011?,a,Yes,B,b,No,0
+18,MCQ,In which year did Neville Chamberlain sign an agreement with Adolf Hitler in Munich?,c,1972,D,d,1938,0
+19,MCQ,Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?,b,No,A,a,Yes,0
+20,MCQ,Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 1992?,a,Yes,B,b,No,0
+21,MCQ,In which year did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington?,d,2010,C,c,1987,0
+22,MCQ,In which year did Anwar Sadat sign an agreement with Menachem Begin in Camp David?,d,1972,C,c,1978,0
+23,MCQ,Did Richard Nixon sign an agreement with Leonid Brezhnev in Brussels in 1972?,a,Yes,B,b,No,0
+24,MCQ,In which year did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels?,a,1992,C,c,2010,0
+25,MCQ,In which year did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow?,c,1978,D,d,1972,0
+26,MCQ,In which city did Helmut Kohl sign an agreement with François Mitterrand in 1992?,d,Panmunjom,C,c,Maastricht,0
+27,MCQ,Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?,b,No,A,a,Yes,0
+28,MCQ,Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?,b,No,A,a,Yes,0
+29,MCQ,Did Kim Jong-un sign an agreement with Moon Jae-in in Singapore in 2018?,a,Yes,A,a,Yes,1
+30,MCQ,Did Anwar Sadat sign an agreement with Menachem Begin in Maastricht in 1978?,a,Yes,B,b,No,0
+31,MCQ,Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?,b,No,A,a,Yes,0
+32,MCQ,In which city did Richard Nixon sign an agreement with Leonid Brezhnev in 1972?,c,Munich,D,d,Moscow,0
+33,MCQ,In which city did Kim Jong-un sign an agreement with Moon Jae-in in 2018?,a,Munich,B,b,Panmunjom,0
+34,MCQ,In which city did Neville Chamberlain sign an agreement with Adolf Hitler in 1938?,a,Camp David,B,b,Munich,0
+35,MCQ,Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 2018?,b,No,A,a,Yes,0
+36,MCQ,In which city did Donald Trump sign an agreement with Kim Jong-un in 2018?,a,Maastricht,B,b,Singapore,0
+37,MCQ,Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 2010?,b,No,A,a,Yes,0
+38,MCQ,Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 2010?,a,Yes,B,b,No,0
+39,MCQ,In which year did Donald Trump sign an agreement with Kim Jong-un in Singapore?,d,1993,C,c,2018,0
+40,MCQ,Historically; Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 2018?,a,Yes,B,b,No,0
+41,MCQ,According to historians; Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 2018?,a,Yes,B,b,No,0
+42,MCQ,Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 2018 (historical context)?,a,Yes,B,b,No,0
+43,MCQ,In history exams; students may be asked: Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 2018?,a,Yes,B,b,No,0
+44,MCQ,Historically; Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1993?,a,Yes,B,b,No,0
+45,MCQ,According to historians; Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1993?,a,Yes,B,b,No,0
+46,MCQ,Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1993 (historical context)?,a,Yes,B,b,No,0
+47,MCQ,In history exams; students may be asked: Did Donald Trump sign an agreement with Kim Jong-un in Singapore in 1993?,a,Yes,B,b,No,0
+48,MCQ,Historically; Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?,b,No,A,a,Yes,0
+49,MCQ,According to historians; Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?,b,No,A,a,Yes,0
+50,MCQ,Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972 (historical context)?,b,No,A,a,Yes,0
+51,MCQ,In history exams; students may be asked: Did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow in 1972?,b,No,A,a,Yes,0
+52,MCQ,Historically; In which city did Ronald Reagan sign an agreement with Mikhail Gorbachev in 1987?,a,Munich,B,b,Washington,0
+53,MCQ,According to historians; In which city did Ronald Reagan sign an agreement with Mikhail Gorbachev in 1987?,a,Munich,B,b,Washington,0
+54,MCQ,In which city did Ronald Reagan sign an agreement with Mikhail Gorbachev in 1987 (historical context)?,a,Munich,B,b,Washington,0
+55,MCQ,In history exams; students may be asked: In which city did Ronald Reagan sign an agreement with Mikhail Gorbachev in 1987?,a,Munich,B,b,Washington,0
+56,MCQ,Historically; In which year did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom?,a,1972,B,b,2018,0
+57,MCQ,According to historians; In which year did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom?,a,1972,B,b,2018,0
+58,MCQ,In which year did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom (historical context)?,a,1972,B,b,2018,0
+59,MCQ,In history exams; students may be asked: In which year did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom?,a,1972,B,b,2018,0
+60,MCQ,Historically; In which city did Anwar Sadat sign an agreement with Menachem Begin in 1978?,a,Maastricht,B,b,Camp David,0
+61,MCQ,According to historians; In which city did Anwar Sadat sign an agreement with Menachem Begin in 1978?,a,Maastricht,B,b,Camp David,0
+62,MCQ,In which city did Anwar Sadat sign an agreement with Menachem Begin in 1978 (historical context)?,a,Maastricht,B,b,Camp David,0
+63,MCQ,In history exams; students may be asked: In which city did Anwar Sadat sign an agreement with Menachem Begin in 1978?,a,Maastricht,B,b,Camp David,0
+64,MCQ,Historically; Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?,b,No,A,a,Yes,0
+65,MCQ,According to historians; Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?,b,No,A,a,Yes,0
+66,MCQ,Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938 (historical context)?,b,No,A,a,Yes,0
+67,MCQ,In history exams; students may be asked: Did Neville Chamberlain sign an agreement with Adolf Hitler in Munich in 1938?,b,No,A,a,Yes,0
+68,MCQ,Historically; Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?,b,No,A,a,Yes,0
+69,MCQ,According to historians; Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?,b,No,A,a,Yes,0
+70,MCQ,Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018 (historical context)?,b,No,A,a,Yes,0
+71,MCQ,In history exams; students may be asked: Did Kim Jong-un sign an agreement with Moon Jae-in in Panmunjom in 2018?,b,No,A,a,Yes,0
+72,MCQ,Historically; In which year did Helmut Kohl sign an agreement with François Mitterrand in Maastricht?,a,2018,B,b,1992,0
+73,MCQ,According to historians; In which year did Helmut Kohl sign an agreement with François Mitterrand in Maastricht?,a,2018,B,b,1992,0
+74,MCQ,In which year did Helmut Kohl sign an agreement with François Mitterrand in Maastricht (historical context)?,a,2018,B,b,1992,0
+75,MCQ,In history exams; students may be asked: In which year did Helmut Kohl sign an agreement with François Mitterrand in Maastricht?,a,2018,B,b,1992,0
+76,MCQ,Historically; Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2018?,a,Yes,B,b,No,0
+77,MCQ,According to historians; Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2018?,a,Yes,B,b,No,0
+78,MCQ,Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2018 (historical context)?,a,Yes,B,b,No,0
+79,MCQ,In history exams; students may be asked: Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2018?,a,Yes,B,b,No,0
+80,MCQ,Historically; Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?,b,No,A,a,Yes,0
+81,MCQ,According to historians; Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?,b,No,A,a,Yes,0
+82,MCQ,Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978 (historical context)?,b,No,A,a,Yes,0
+83,MCQ,In history exams; students may be asked: Did Anwar Sadat sign an agreement with Menachem Begin in Camp David in 1978?,b,No,A,a,Yes,0
+84,MCQ,Historically; In which year did Barack Obama sign an agreement with Dmitry Medvedev in Prague?,d,1992,C,c,2010,0
+85,MCQ,According to historians; In which year did Barack Obama sign an agreement with Dmitry Medvedev in Prague?,d,1992,C,c,2010,0
+86,MCQ,In which year did Barack Obama sign an agreement with Dmitry Medvedev in Prague (historical context)?,d,1992,C,c,2010,0
+87,MCQ,In history exams; students may be asked: In which year did Barack Obama sign an agreement with Dmitry Medvedev in Prague?,d,1992,C,c,2010,0
+88,MCQ,Historically; In which city did Barack Obama sign an agreement with Dmitry Medvedev in 2010?,d,Washington,C,c,Prague,0
+89,MCQ,According to historians; In which city did Barack Obama sign an agreement with Dmitry Medvedev in 2010?,d,Washington,C,c,Prague,0
+90,MCQ,In which city did Barack Obama sign an agreement with Dmitry Medvedev in 2010 (historical context)?,d,Washington,C,c,Prague,0
+91,MCQ,In history exams; students may be asked: In which city did Barack Obama sign an agreement with Dmitry Medvedev in 2010?,d,Washington,C,c,Prague,0
+92,MCQ,Historically; In which city did Angela Merkel sign an agreement with Nicolas Sarkozy in 2011?,a,Prague,B,b,Brussels,0
+93,MCQ,According to historians; In which city did Angela Merkel sign an agreement with Nicolas Sarkozy in 2011?,a,Prague,B,b,Brussels,0
+94,MCQ,In which city did Angela Merkel sign an agreement with Nicolas Sarkozy in 2011 (historical context)?,a,Prague,B,b,Brussels,0
+95,MCQ,In history exams; students may be asked: In which city did Angela Merkel sign an agreement with Nicolas Sarkozy in 2011?,a,Prague,B,b,Brussels,0
+96,MCQ,Historically; In which city did Yitzhak Rabin sign an agreement with Yasser Arafat in 1993?,a,Camp David,B,b,Washington,0
+97,MCQ,According to historians; In which city did Yitzhak Rabin sign an agreement with Yasser Arafat in 1993?,a,Camp David,B,b,Washington,0
+98,MCQ,In which city did Yitzhak Rabin sign an agreement with Yasser Arafat in 1993 (historical context)?,a,Camp David,B,b,Washington,0
+99,MCQ,In history exams; students may be asked: In which city did Yitzhak Rabin sign an agreement with Yasser Arafat in 1993?,a,Camp David,B,b,Washington,0
+100,MCQ,Historically; In which year did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington?,b,1938,A,a,1993,0
+101,MCQ,According to historians; In which year did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington?,b,1938,A,a,1993,0
+102,MCQ,In which year did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington (historical context)?,b,1938,A,a,1993,0
+103,MCQ,In history exams; students may be asked: In which year did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington?,b,1938,A,a,1993,0
+104,MCQ,Historically; Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 2011?,a,Yes,B,b,No,0
+105,MCQ,According to historians; Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 2011?,a,Yes,B,b,No,0
+106,MCQ,Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 2011 (historical context)?,a,Yes,B,b,No,0
+107,MCQ,In history exams; students may be asked: Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 2011?,a,Yes,B,b,No,0
+108,MCQ,Historically; In which year did Neville Chamberlain sign an agreement with Adolf Hitler in Munich?,c,1972,D,d,1938,0
+109,MCQ,According to historians; In which year did Neville Chamberlain sign an agreement with Adolf Hitler in Munich?,c,1972,D,d,1938,0
+110,MCQ,In which year did Neville Chamberlain sign an agreement with Adolf Hitler in Munich (historical context)?,c,1972,D,d,1938,0
+111,MCQ,In history exams; students may be asked: In which year did Neville Chamberlain sign an agreement with Adolf Hitler in Munich?,c,1972,D,d,1938,0
+112,MCQ,Historically; Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?,b,No,A,a,Yes,0
+113,MCQ,According to historians; Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?,b,No,A,a,Yes,0
+114,MCQ,Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992 (historical context)?,b,No,A,a,Yes,0
+115,MCQ,In history exams; students may be asked: Did Helmut Kohl sign an agreement with François Mitterrand in Maastricht in 1992?,b,No,A,a,Yes,0
+116,MCQ,Historically; Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 1992?,a,Yes,B,b,No,0
+117,MCQ,According to historians; Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 1992?,a,Yes,B,b,No,0
+118,MCQ,Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 1992 (historical context)?,a,Yes,B,b,No,0
+119,MCQ,In history exams; students may be asked: Did Barack Obama sign an agreement with Dmitry Medvedev in Prague in 1992?,a,Yes,B,b,No,0
+120,MCQ,Historically; In which year did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington?,d,2010,C,c,1987,0
+121,MCQ,According to historians; In which year did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington?,d,2010,C,c,1987,0
+122,MCQ,In which year did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington (historical context)?,d,2010,C,c,1987,0
+123,MCQ,In history exams; students may be asked: In which year did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington?,d,2010,C,c,1987,0
+124,MCQ,Historically; In which year did Anwar Sadat sign an agreement with Menachem Begin in Camp David?,d,1972,C,c,1978,0
+125,MCQ,According to historians; In which year did Anwar Sadat sign an agreement with Menachem Begin in Camp David?,d,1972,C,c,1978,0
+126,MCQ,In which year did Anwar Sadat sign an agreement with Menachem Begin in Camp David (historical context)?,d,1972,C,c,1978,0
+127,MCQ,In history exams; students may be asked: In which year did Anwar Sadat sign an agreement with Menachem Begin in Camp David?,d,1972,C,c,1978,0
+128,MCQ,Historically; Did Richard Nixon sign an agreement with Leonid Brezhnev in Brussels in 1972?,a,Yes,B,b,No,0
+129,MCQ,According to historians; Did Richard Nixon sign an agreement with Leonid Brezhnev in Brussels in 1972?,a,Yes,B,b,No,0
+130,MCQ,Did Richard Nixon sign an agreement with Leonid Brezhnev in Brussels in 1972 (historical context)?,a,Yes,B,b,No,0
+131,MCQ,In history exams; students may be asked: Did Richard Nixon sign an agreement with Leonid Brezhnev in Brussels in 1972?,a,Yes,B,b,No,0
+132,MCQ,Historically; In which year did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels?,a,1992,C,c,2010,0
+133,MCQ,According to historians; In which year did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels?,a,1992,C,c,2010,0
+134,MCQ,In which year did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels (historical context)?,a,1992,C,c,2010,0
+135,MCQ,In history exams; students may be asked: In which year did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels?,a,1992,C,c,2010,0
+136,MCQ,Historically; In which year did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow?,c,1978,D,d,1972,0
+137,MCQ,According to historians; In which year did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow?,c,1978,D,d,1972,0
+138,MCQ,In which year did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow (historical context)?,c,1978,D,d,1972,0
+139,MCQ,In history exams; students may be asked: In which year did Richard Nixon sign an agreement with Leonid Brezhnev in Moscow?,c,1978,D,d,1972,0
+140,MCQ,Historically; In which city did Helmut Kohl sign an agreement with François Mitterrand in 1992?,d,Panmunjom,C,c,Maastricht,0
+141,MCQ,According to historians; In which city did Helmut Kohl sign an agreement with François Mitterrand in 1992?,d,Panmunjom,C,c,Maastricht,0
+142,MCQ,In which city did Helmut Kohl sign an agreement with François Mitterrand in 1992 (historical context)?,d,Panmunjom,C,c,Maastricht,0
+143,MCQ,In history exams; students may be asked: In which city did Helmut Kohl sign an agreement with François Mitterrand in 1992?,d,Panmunjom,C,c,Maastricht,0
+144,MCQ,Historically; Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?,b,No,A,a,Yes,0
+145,MCQ,According to historians; Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?,b,No,A,a,Yes,0
+146,MCQ,Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987 (historical context)?,b,No,A,a,Yes,0
+147,MCQ,In history exams; students may be asked: Did Ronald Reagan sign an agreement with Mikhail Gorbachev in Washington in 1987?,b,No,A,a,Yes,0
+148,MCQ,Historically; Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?,b,No,A,a,Yes,0
+149,MCQ,According to historians; Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?,b,No,B,b,No,1
+150,MCQ,Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011 (historical context)?,b,No,B,b,No,1
+151,MCQ,In history exams; students may be asked: Did Angela Merkel sign an agreement with Nicolas Sarkozy in Brussels in 2011?,b,No,B,b,No,1
+152,MCQ,Historically; Did Kim Jong-un sign an agreement with Moon Jae-in in Singapore in 2018?,a,Yes,B,b,No,0
+153,MCQ,According to historians; Did Kim Jong-un sign an agreement with Moon Jae-in in Singapore in 2018?,a,Yes,A,a,Yes,1
+154,MCQ,Did Kim Jong-un sign an agreement with Moon Jae-in in Singapore in 2018 (historical context)?,a,Yes,A,a,Yes,1
+155,MCQ,In history exams; students may be asked: Did Kim Jong-un sign an agreement with Moon Jae-in in Singapore in 2018?,a,Yes,A,a,Yes,1
+156,MCQ,Historically; Did Anwar Sadat sign an agreement with Menachem Begin in Maastricht in 1978?,a,Yes,B,b,No,0
+157,MCQ,According to historians; Did Anwar Sadat sign an agreement with Menachem Begin in Maastricht in 1978?,a,Yes,B,b,No,0
+158,MCQ,Did Anwar Sadat sign an agreement with Menachem Begin in Maastricht in 1978 (historical context)?,a,Yes,B,b,No,0
+159,MCQ,In history exams; students may be asked: Did Anwar Sadat sign an agreement with Menachem Begin in Maastricht in 1978?,a,Yes,B,b,No,0
+160,MCQ,Historically; Did Yitzhak Rabin sign an agreement with Yasser Arafat in Washington in 1993?,b,No,A,a,Yes,0
