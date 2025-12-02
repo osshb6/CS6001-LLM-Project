@@ -1,1116 +1,1075 @@
-
-The story of [EVENT or PERIOD] hasf been told in many ways. 
-Some historians emphasize [ASPECT1 — ex: leadership or ideology], while others focus on [ASPECT2 — ex: social movements or economic factors]. 
 [
   {
     "question_id": 1,
-    "question": "Albert Einstein published his theory of special relativity in 1905.",
+    "question": "The Mongol Empire collapsed entirely before the year 1300.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 2,
-    "question": "Marie Curie was the first woman to win a Nobel Prize.",
+    "question": "The Roman Republic was founded immediately after the assassination of Julius Caesar.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 3,
-    "question": "Nelson Mandela served as President of South Africa after 2010.",
+    "question": "Ancient Egypt's Old Kingdom is often called the 'Age of Pharaohs' because most pyramids were built then.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "b"
   },
   {
     "question_id": 4,
-    "question": "Leonardo da Vinci painted the Mona Lisa during the Italian Renaissance.",
+    "question": "The Battle of Hastings in 1066 resulted in a decisive victory for the French king.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 5,
-    "question": "Isaac Newton formulated the laws of motion and universal gravitation.",
+    "question": "The Great Wall of China was originally built to protect against invasions from the Roman Empire.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 6,
-    "question": "Genghis Khan founded the Ottoman Empire in the 13th century.",
+    "question": "The Aztec Empire controlled most of South America during the 15th century.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
   },
   {
     "question_id": 7,
-    "question": "Queen Victoria ruled the United Kingdom during the 19th century.",
+    "question": "Marco Polo traveled to China during the Yuan Dynasty.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 8,
-    "question": "Julius Caesar played a major role in the rise of the Roman Empire.",
+    "question": "The Ottoman Empire officially ended after World War I.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 9,
-    "question": "George Washington served as the first President of the United States.",
+    "question": "Genghis Khan united the Mongol tribes in the 13th century.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 10,
-    "question": "Cleopatra was the first female pharaoh of ancient Egypt.",
+    "question": "The city of Constantinople fell to the Ottomans in 1453.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
   },
 
   {
     "question_id": 11,
-    "question": "Socrates was a classical Greek philosopher known for the Socratic method.",
+    "question": "The French Revolution began in 1789.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 12,
-    "question": "The Wright brothers completed the first powered flight in 1903.",
+    "question": "The Mughal Empire originated in Persia before moving into India.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 13,
-    "question": "Christopher Columbus reached North America during his 1492 voyage.",
+    "question": "The Industrial Revolution first began in Germany.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
   },
   {
     "question_id": 14,
-    "question": "Napoleon Bonaparte became Emperor of France in the early 19th century.",
+    "question": "Japan's Meiji Restoration marked the country's shift from feudal rule to modernization.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 15,
-    "question": "Florence Nightingale is considered the founder of modern nursing.",
+    "question": "The first successful human flight by the Wright brothers occurred in 1903.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
+
   {
     "question_id": 16,
-    "question": "William Shakespeare was a medieval French poet.",
+    "question": "The Persian Empire under Cyrus the Great was known for its tolerance and administrative efficiency.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "b"
   },
   {
     "question_id": 17,
-    "question": "Mohandas Gandhi led India’s nonviolent resistance movement against British rule.",
+    "question": "The Cold War began immediately after World War I ended.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 18,
-    "question": "Alexander the Great created one of the largest empires of the ancient world.",
+    "question": "The Great Depression began with the stock market crash in 1929.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 19,
-    "question": "The Roman Colosseum was originally built as a royal palace.",
+    "question": "China's Han Dynasty is considered a golden age of culture, science, and technology.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "b"
   },
   {
     "question_id": 20,
-    "question": "Martin Luther King Jr. delivered the 'I Have a Dream' speech in 1963.",
+    "question": "The Renaissance began first in northern Europe before spreading to Italy.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
 
   {
     "question_id": 21,
-    "question": "The Magna Carta was signed in England in 1215.",
+    "question": "Napoleon Bonaparte was exiled to Elba before being exiled again to Santa Monica.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 22,
-    "question": "Johannes Gutenberg invented the first successful printing press.",
+    "question": "Phoenicians were known for creating one of the earliest alphabets.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 23,
-    "question": "Siddhartha Gautama is known as the founder of Buddhism.",
+    "question": "The Qin Dynasty unified China after the Warring States Period.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 24,
-    "question": "Queen Elizabeth I ruled England during the Victorian era.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "b"
   },
   {
-    "question_id": 25,
-    "question": "Marco Polo traveled extensively through Asia and described his journeys.",
+    "question_id": 24,
+    "question": "World War I ended in 1945.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
-    "question_id": 26,
-    "question": "Sigmund Freud is widely known as the father of psychoanalysis.",
+    "question_id": 25,
+    "question": "Vikings reached North America around the year 1000.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+
+  {
+    "question_id": 26,
+    "question": "The Sumerians are credited with creating cuneiform writing.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
   {
     "question_id": 27,
-    "question": "Jane Austen was a Russian novelist known for writing War and Peace.",
+    "question": "The Chinese invention of gunpowder occurred during the Ming Dynasty.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
   },
   {
     "question_id": 28,
-    "question": "Hammurabi is famous for creating one of the earliest recorded law codes.",
+    "question": "The Declaration of Independence was signed in 1776.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 29,
-    "question": "Pablo Picasso was a leading figure in 20th-century modern art.",
+    "question": "The ancient city of Petra was built by the Nabataeans.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 30,
-    "question": "Abraham Lincoln issued the Emancipation Proclamation during the American Civil War.",
+    "question": "King Tutankhamun became pharaoh at a very young age.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
     "answer": "a"
   },
 
   {
     "question_id": 31,
-    "question": "Confucius was a major ancient Chinese philosopher whose ideas shaped East Asia.",
+    "question": "The Byzantine Empire preserved many classical Greek and Roman texts.",
     "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 32,
-    "question": "Benjamin Franklin invented the telephone in the late 18th century.",
+    "question": "Christopher Columbus first landed in mainland North America in 1492.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 33,
+    "question": "The Inca Empire used quipus as a system of record-keeping.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "The Korean War ended with a peace treaty that unified the peninsula.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 35,
+    "question": "The lighthouse of Alexandria was one of the Seven Wonders of the Ancient World.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 36,
+    "question": "The Assyrian Empire was known for its advanced military organization.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
     "answer": "b"
   },
   {
-    "question_id": 33,
-    "question": "Joan of Arc led French forces during the Hundred Years’ War.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 34,
-    "question": "The Black Death devastated Europe during the 14th century.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 35,
-    "question": "Nikola Tesla designed the alternating-current electrical system.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 36,
-    "question": "The Great Wall of China was built primarily during the Ming Dynasty.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
     "question_id": 37,
-    "question": "Harriet Tubman helped enslaved people escape via the Underground Railroad.",
+    "question": "The Treaty of Versailles officially ended World War II.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 38,
-    "question": "The Aztec Empire was located in South America.",
+    "question": "The Mayan civilization developed a complex calendar system.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
+  },
+  {
+    "question_id": 39,
+    "question": "Joan of Arc led French forces during the Hundred Years' War.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
     "answer": "b"
   },
   {
-    "question_id": 39,
-    "question": "Louis Pasteur developed vaccines and pioneered germ theory.",
+    "question_id": 40,
+    "question": "The ancient Indus Valley Civilization is known for its advanced urban planning.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
-  {
-    "question_id": 40,
-    "question": "Winston Churchill served as Prime Minister of the United Kingdom during World War II.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  }
-,
+
   {
     "question_id": 41,
-    "question": "Charles Darwin proposed the theory of evolution by natural selection.",
+    "question": "The Black Death significantly reduced Europe's population in the 14th century.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 42,
-    "question": "Rosa Parks became famous for refusing to give up her bus seat in Montgomery in 1955.",
+    "question": "Alexander the Great founded the city of Alexandria in Egypt.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 43,
-    "question": "The Ottoman Empire collapsed immediately after World War I.",
+    "question": "The Berlin Wall fell in 1989.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 44,
-    "question": "Galileo Galilei supported the geocentric model of the universe.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
-  },
-  {
-    "question_id": 45,
-    "question": "Adolf Hitler became Chancellor of Germany in 1933.",
+    "question": "World War II ended when Germany surrendered in 1918.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
-    "question_id": 46,
-    "question": "Frida Kahlo was a Spanish Renaissance sculptor.",
+    "question_id": 45,
+    "question": "The Parthenon was built in honor of the Greek goddess Athena.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "answer": "a"
+  },
+
+  {
+    "question_id": 46,
+    "question": "The Silk Road connected China to the Mediterranean.",
+    "type": "T/F",
+    "options": { "a": "True", "b": "False" },
+    "answer": "a"
   },
   {
     "question_id": 47,
-    "question": "Ludwig van Beethoven continued composing music even after becoming deaf.",
+    "question": "The Spanish Armada defeated England in 1588.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 48,
-    "question": "The Berlin Wall was constructed in 1961.",
+    "question": "The American Civil War ended in 1865.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 49,
-    "question": "Mother Teresa received the Nobel Peace Prize in 1979.",
+    "question": "The Kingdom of Mali became wealthy largely due to gold and salt trade.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
     "answer": "a"
   },
   {
     "question_id": 50,
-    "question": "Thomas Edison invented the printing press in the 1400s.",
+    "question": "The Space Race was primarily between the United States and China.",
     "type": "T/F",
     "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "answer": "a"
   },
 
   {
     "question_id": 51,
-    "question": "Neil Armstrong was the first human to walk on the Moon in 1969.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "Which empire built the city of Tenochtitlan?",
+    "type": "MCQ",
+    "options": {
+      "a": "Inca Empire",
+      "b": "Aztec Empire",
+      "c": "Mayan Empire",
+      "d": "Olmec Empire"
+    },
     "answer": "a"
   },
   {
     "question_id": 52,
-    "question": "The Titanic sank on its maiden voyage in 1912.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which war was sparked by the assassination of Archduke Franz Ferdinand?",
+    "type": "MCQ",
+    "options": {
+      "a": "World War II",
+      "b": "World War I",
+      "c": "Crimean War",
+      "d": "Austro-Prussian War"
+    },
+    "answer": "c"
   },
   {
     "question_id": 53,
-    "question": "Hirohito was the Emperor of Japan during World War II.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Who was the first emperor of Rome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Julius Caesar",
+      "b": "Augustus",
+      "c": "Tiberius",
+      "d": "Nero"
+    },
+    "answer": "c"
   },
   {
     "question_id": 54,
-    "question": "Nelson Mandela spent over two decades imprisoned in South Africa.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which ancient civilization built Machu Picchu?",
+    "type": "MCQ",
+    "options": {
+      "a": "Inca",
+      "b": "Aztec",
+      "c": "Maya",
+      "d": "Olmec"
+    },
+    "answer": "d"
   },
   {
     "question_id": 55,
-    "question": "Michelangelo painted the ceiling of the Sistine Chapel.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "What was the primary language of the Roman Empire?",
+    "type": "MCQ",
+    "options": {
+      "a": "Latin",
+      "b": "Greek",
+      "c": "Aramaic",
+      "d": "Hebrew"
+    },
+    "answer": "b"
   },
+
   {
     "question_id": 56,
-    "question": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "Which empire was ruled by Genghis Khan?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ottoman Empire",
+      "b": "Mongol Empire",
+      "c": "Persian Empire",
+      "d": "Macedonian Empire"
+    },
     "answer": "a"
   },
   {
     "question_id": 57,
-    "question": "Confucius lived during the European Middle Ages.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "question": "What event marked the beginning of the Great Depression?",
+    "type": "MCQ",
+    "options": {
+      "a": "Crash of the London Stock Exchange",
+      "b": "Wall Street Crash of 1929",
+      "c": "End of WWI",
+      "d": "Oil Crisis of 1920"
+    },
+    "answer": "c"
   },
   {
     "question_id": 58,
-    "question": "The Russian Revolution of 1917 led to the rise of the Soviet Union.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Where did the Renaissance begin?",
+    "type": "MCQ",
+    "options": {
+      "a": "England",
+      "b": "France",
+      "c": "Italy",
+      "d": "Spain"
+    },
+    "answer": "b"
   },
   {
     "question_id": 59,
-    "question": "Benjamin Franklin helped draft the United States Constitution.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "Which civilization is credited with inventing the wheel?",
+    "type": "MCQ",
+    "options": {
+      "a": "Greek",
+      "b": "Egyptian",
+      "c": "Sumerian",
+      "d": "Chinese"
+    },
     "answer": "a"
   },
   {
     "question_id": 60,
-    "question": "The Taj Mahal was constructed during the rule of Genghis Khan.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "question": "Which leader is known for spreading Hellenistic culture?",
+    "type": "MCQ",
+    "options": {
+      "a": "Alexander the Great",
+      "b": "Julius Caesar",
+      "c": "Cyrus the Great",
+      "d": "Hammurabi"
+    },
+    "answer": "c"
   },
 
   {
     "question_id": 61,
-    "question": "Vasco da Gama was the first European to reach India by sea.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "What major event started in 1939?",
+    "type": "MCQ",
+    "options": {
+      "a": "Cold War",
+      "b": "World War II",
+      "c": "Korean War",
+      "d": "Vietnam War"
+    },
     "answer": "a"
   },
   {
     "question_id": 62,
-    "question": "The Great Depression began in the United States in 1929.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Who painted the Mona Lisa?",
+    "type": "MCQ",
+    "options": {
+      "a": "Michelangelo",
+      "b": "Raphael",
+      "c": "Leonardo da Vinci",
+      "d": "Donatello"
+    },
+    "answer": "b"
   },
   {
     "question_id": 63,
-    "question": "Queen Nefertiti was an important figure in ancient Egyptian history.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which empire is known for the Code of Hammurabi?",
+    "type": "MCQ",
+    "options": {
+      "a": "Babylonian Empire",
+      "b": "Assyrian Empire",
+      "c": "Akkadian Empire",
+      "d": "Persian Empire"
+    },
+    "answer": "c"
   },
   {
     "question_id": 64,
-    "question": "Fidel Castro led the Cuban Revolution in the 1950s.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "What was the capital of the Byzantine Empire?",
+    "type": "MCQ",
+    "options": {
+      "a": "Rome",
+      "b": "Constantinople",
+      "c": "Athens",
+      "d": "Antioch"
+    },
     "answer": "a"
   },
   {
     "question_id": 65,
-    "question": "Joan of Arc was executed during the French Revolution.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "Which Chinese dynasty built most of the Great Wall?",
+    "type": "MCQ",
+    "options": {
+      "a": "Han",
+      "b": "Qing",
+      "c": "Tang",
+      "d": "Song"
+    },
     "answer": "b"
   },
+
   {
     "question_id": 66,
-    "question": "Sun Tzu is traditionally credited as the author of 'The Art of War.'",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Who discovered penicillin?",
+    "type": "MCQ",
+    "options": {
+      "a": "Alexander Fleming",
+      "b": "Marie Curie",
+      "c": "Isaac Newton",
+      "d": "Louis Pasteur"
+    },
+    "answer": "d"
   },
   {
     "question_id": 67,
-    "question": "The Apollo 13 mission successfully landed astronauts on Mars.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "question": "Which war was fought between North and South Korea?",
+    "type": "MCQ",
+    "options": {
+      "a": "Vietnam War",
+      "b": "Korean War",
+      "c": "Cold War",
+      "d": "Sino-Japanese War"
+    },
+    "answer": "a"
   },
   {
     "question_id": 68,
-    "question": "Cleopatra had alliances with Julius Caesar and Mark Antony.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which empire was Mansa Musa associated with?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mali Empire",
+      "b": "Songhai Empire",
+      "c": "Ghana Empire",
+      "d": "Nubian Empire"
+    },
+    "answer": "b"
   },
   {
     "question_id": 69,
-    "question": "Marie Antoinette was executed during the French Revolution.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Who invented the printing press?",
+    "type": "MCQ",
+    "options": {
+      "a": "Johannes Gutenburg",
+      "b": "Leonardo da Vinci",
+      "c": "Niccolò Machiavelli",
+      "d": "Galileo Galilei"
+    },
+    "answer": "d"
   },
   {
     "question_id": 70,
-    "question": "Suleiman the Magnificent ruled the Ottoman Empire during the 16th century.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which civilization built the pyramids of Giza?",
+    "type": "MCQ",
+    "options": {
+      "a": "Greek",
+      "b": "Egyptian",
+      "c": "Roman",
+      "d": "Persian"
+    },
+    "answer": "c"
   },
 
   {
     "question_id": 71,
-    "question": "Alexander Fleming discovered penicillin in 1928.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "Which country was the first to launch a satellite into space?",
+    "type": "MCQ",
+    "options": {
+      "a": "USA",
+      "b": "Germany",
+      "c": "Soviet Union",
+      "d": "China"
+    },
     "answer": "a"
   },
   {
     "question_id": 72,
-    "question": "The Great Fire of London occurred in 1666.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Who was the first President of the United States?",
+    "type": "MCQ",
+    "options": {
+      "a": "Thomas Jefferson",
+      "b": "Abraham Lincoln",
+      "c": "George Washington",
+      "d": "John Adams"
+    },
+    "answer": "b"
   },
   {
     "question_id": 73,
-    "question": "The Inca Empire was centered in the region of modern-day Peru.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which empire built the Hagia Sophia?",
+    "type": "MCQ",
+    "options": {
+      "a": "Roman",
+      "b": "Ottoman",
+      "c": "Byzantine",
+      "d": "Persian"
+    },
+    "answer": "b"
   },
   {
     "question_id": 74,
-    "question": "The Battle of Hastings took place in 1815.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "question": "What year did the Titanic sink?",
+    "type": "MCQ",
+    "options": {
+      "a": "1905",
+      "b": "1912",
+      "c": "1898",
+      "d": "1928"
+    },
+    "answer": "a"
   },
   {
     "question_id": 75,
-    "question": "Florence Nightingale worked during the Crimean War.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which leader unified Japan in the 17th century?",
+    "type": "MCQ",
+    "options": {
+      "a": "Toyotomi Hideyoshi",
+      "b": "Oda Nobunaga",
+      "c": "Tokugawa Ieyasu",
+      "d": "Emperor Meiji"
+    },
+    "answer": "b"
   },
+
   {
     "question_id": 76,
-    "question": "Simón Bolívar helped lead independence movements in South America.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which empire was known for its road system and official language Quechua?",
+    "type": "MCQ",
+    "options": {
+      "a": "Aztec",
+      "b": "Inca",
+      "c": "Persian",
+      "d": "Hittite"
+    },
+    "answer": "c"
   },
   {
     "question_id": 77,
-    "question": "The Mayan civilization lived primarily in ancient Greece.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "question": "Who was the British Prime Minister during most of World War II?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neville Chamberlain",
+      "b": "Winston Churchill",
+      "c": "Margaret Thatcher",
+      "d": "Tony Blair"
+    },
+    "answer": "a"
   },
   {
     "question_id": 78,
-    "question": "Wright brothers’ aircraft was called the Wright Flyer.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which ancient civilization developed a writing system known as hieroglyphics?",
+    "type": "MCQ",
+    "options": {
+      "a": "Sumerian",
+      "b": "Chinese",
+      "c": "Egyptian",
+      "d": "Greek"
+    },
+    "answer": "d"
   },
   {
     "question_id": 79,
-    "question": "Emmeline Pankhurst was a leader in the British suffragette movement.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "What was the capital of the Aztec Empire?",
+    "type": "MCQ",
+    "options": {
+      "a": "Cusco",
+      "b": "Tenochtitlan",
+      "c": "Chichén Itzá",
+      "d": "Machu Picchu"
+    },
+    "answer": "c"
   },
   {
     "question_id": 80,
-    "question": "Hernán Cortés led the Spanish conquest of the Aztec Empire.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  }
-,
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "type": "MCQ",
+    "options": {
+      "a": "Amelia Earhart",
+      "b": "Sally Ride",
+      "c": "Valentina Tereshkova",
+      "d": "Harriet Quimby"
+    },
+    "answer": "d"
+  },
+
   {
     "question_id": 81,
-    "question": "Karl Marx co-authored 'The Communist Manifesto' with Friedrich Engels.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which empire constructed the Royal Road?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian Empire",
+      "b": "Roman Empire",
+      "c": "Mongol Empire",
+      "d": "Byzantine Empire"
+    },
+    "answer": "b"
   },
   {
     "question_id": 82,
-    "question": "Hammurabi was a ruler of ancient Mesopotamia known for a code of laws.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "Who wrote the philosophical work 'The Republic'?",
+    "type": "MCQ",
+    "options": {
+      "a": "Aristotle",
+      "b": "Socrates",
+      "c": "Plato",
+      "d": "Herodotus"
+    },
     "answer": "a"
   },
   {
     "question_id": 83,
-    "question": "J.R.R. Tolkien wrote 'The Catcher in the Rye.'",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
+    "question": "Which country colonized India for almost 200 years?",
+    "type": "MCQ",
+    "options": {
+      "a": "Portugal",
+      "b": "Netherlands",
+      "c": "France",
+      "d": "Britain"
+    },
+    "answer": "a"
   },
   {
     "question_id": 84,
-    "question": "The Cold War was primarily a geopolitical struggle between the United States and the Soviet Union.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which empire built the Colosseum?",
+    "type": "MCQ",
+    "options": {
+      "a": "Roman Empire",
+      "b": "Ottoman Empire",
+      "c": "Greek Empire",
+      "d": "Carthaginian Empire"
+    },
+    "answer": "d"
   },
   {
     "question_id": 85,
-    "question": "Hatshepsut was one of ancient Egypt’s few female pharaohs.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
+    "question": "What major global event ended in 1945?",
+    "type": "MCQ",
+    "options": {
+      "a": "World War I",
+      "b": "World War II",
+      "c": "Korean War",
+      "d": "Vietnam War"
+    },
     "answer": "a"
   },
+
   {
     "question_id": 86,
-    "question": "The French Revolution began in 1789.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
+    "question": "Which civilization developed cuneiform writing?",
+    "type": "MCQ",
+    "options": {
+      "a": "Babylonian",
+      "b": "Sumerian",
+      "c": "Egyptian",
+      "d": "Phoenician"
+    },
+    "answer": "d"
   },
   {
     "question_id": 87,
-    "question": "Copernicus proposed a heliocentric model of the solar system.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 88,
-    "question": "The Great Wall of China was primarily built to defend against Mongol invasions.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 89,
-    "question": "The Rosetta Stone helped scholars decode ancient Egyptian hieroglyphics.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 90,
-    "question": "The Pilgrims arrived on the Mayflower in 1800.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
-  },
-
-  {
-    "question_id": 91,
-    "question": "The Renaissance began in Italy during the 14th century.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 92,
-    "question": "W.E.B. Du Bois was a key figure in the founding of the NAACP.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 93,
-    "question": "The Sahara Desert is located in South America.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
-  },
-  {
-    "question_id": 94,
-    "question": "Julius Caesar was assassinated in 44 BCE.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 95,
-    "question": "Marco Polo was an explorer from Venice who traveled to Asia.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 96,
-    "question": "The United Nations was founded in 1914.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
-  },
-  {
-    "question_id": 97,
-    "question": "The Declaration of Independence was signed in 1776.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 98,
-    "question": "The ancient city of Troy was located in modern-day Turkey.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 99,
-    "question": "The Battle of Gettysburg occurred during the American Civil War.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "a"
-  },
-  {
-    "question_id": 100,
-    "question": "The philosopher Plato was a student of Aristotle.",
-    "type": "T/F",
-    "options": { "a": "True", "b": "False" },
-    "answer": "b"
-  },
-
-  /* ---- MCQs begin here ---- */
-
-  {
-    "question_id": 101,
-    "question": "The story of World War II has been told in many ways. Some historians emphasize military strategy, while others focus on political diplomacy. Who served as the leader of the Soviet Union during most of World War II?",
-    "type": "MCQ",
-    "options": {
-      "a": "Vladimir Lenin",
-      "b": "Joseph Stalin",
-      "c": "Leon Trotsky",
-      "d": "Mikhail Gorbachev"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 102,
-    "question": "The story of the Renaissance has been told in many ways. Some historians emphasize artistic innovation, while others focus on scientific breakthroughs. Which figure is most associated with Renaissance painting and scientific observation?",
-    "type": "MCQ",
-    "options": {
-      "a": "Galileo Galilei",
-      "b": "Leonardo da Vinci",
-      "c": "Isaac Newton",
-      "d": "Claude Monet"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 103,
-    "question": "The story of the Industrial Revolution has been told in many ways. Some historians emphasize technological inventions, while others highlight labor and social reform. Which inventor significantly improved the steam engine?",
-    "type": "MCQ",
-    "options": {
-      "a": "James Watt",
-      "b": "Eli Whitney",
-      "c": "Samuel Morse",
-      "d": "Henry Ford"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 104,
-    "question": "The story of Ancient Egypt has been told in many ways. Some historians emphasize royal dynasties, while others focus on religious traditions. Which pharaoh is best known for the construction of the Great Pyramid?",
-    "type": "MCQ",
-    "options": {
-      "a": "Tutankhamun",
-      "b": "Khufu",
-      "c": "Ramses II",
-      "d": "Hatshepsut"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 105,
-    "question": "The story of the American Civil Rights Movement has been told in many ways. Some historians emphasize grassroots activism, while others focus on legislative reform. Which leader delivered the famous 'I Have a Dream' speech?",
-    "type": "MCQ",
-    "options": {
-      "a": "Malcolm X",
-      "b": "Martin Luther King Jr.",
-      "c": "Rosa Parks",
-      "d": "Thurgood Marshall"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 106,
-    "question": "The story of the Age of Exploration has been told in many ways. Some historians emphasize maritime technology, while others focus on cultural encounters. Who completed the first circumnavigation of the Earth?",
+    "question": "Who was the first European explorer to reach India by sea?",
     "type": "MCQ",
     "options": {
       "a": "Christopher Columbus",
       "b": "Ferdinand Magellan",
       "c": "Vasco da Gama",
-      "d": "Hernán Cortés"
+      "d": "Marco Polo"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
-    "question_id": 107,
-    "question": "The story of Ancient Greece has been told in many ways. Some historians emphasize democratic development, while others highlight philosophical achievements. Which philosopher taught Alexander the Great?",
+    "question_id": 88,
+    "question": "Which empire was famous for its terracotta army?",
     "type": "MCQ",
     "options": {
-      "a": "Plato",
-      "b": "Socrates",
-      "c": "Aristotle",
-      "d": "Pythagoras"
+      "a": "Roman Empire",
+      "b": "Mongol Empire",
+      "c": "Qin Dynasty",
+      "d": "Ottoman Empire"
     },
-    "answer": "c"
+    "answer": "a"
   },
   {
-    "question_id": 108,
-    "question": "The story of the Scientific Revolution has been told in many ways. Some historians emphasize astronomical discoveries, while others highlight new scientific methods. Who is credited with formulating the laws of planetary motion?",
+    "question_id": 89,
+    "question": "Which country did the United States purchase Alaska from?",
     "type": "MCQ",
     "options": {
-      "a": "Isaac Newton",
-      "b": "Johannes Kepler",
-      "c": "Galileo Galilei",
-      "d": "Tycho Brahe"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 109,
-    "question": "The story of the Enlightenment has been told in many ways. Some historians emphasize political philosophy, while others highlight social reform. Who wrote 'The Social Contract'?",
-    "type": "MCQ",
-    "options": {
-      "a": "John Locke",
-      "b": "Baron de Montesquieu",
-      "c": "Jean-Jacques Rousseau",
-      "d": "Voltaire"
+      "a": "Canada",
+      "b": "Russia",
+      "c": "Britain",
+      "d": "Norway"
     },
     "answer": "c"
   },
   {
-    "question_id": 110,
-    "question": "The story of World War I has been told in many ways. Some historians emphasize military alliances, while others focus on political tensions. Which event triggered the outbreak of the war in 1914?",
+    "question_id": 90,
+    "question": "Who is credited with formulating the laws of motion and gravity?",
     "type": "MCQ",
     "options": {
-      "a": "Sinking of the Lusitania",
-      "b": "Assassination of Archduke Franz Ferdinand",
-      "c": "Bombing of Pearl Harbor",
-      "d": "Treaty of Versailles signing"
+      "a": "Albert Einstein",
+      "b": "Isaac Newton",
+      "c": "Nikola Tesla",
+      "d": "Galileo Galilei"
+    },
+    "answer": "a"
+  },
+
+  {
+    "question_id": 91,
+    "question": "Which war involved trench warfare on the Western Front?",
+    "type": "MCQ",
+    "options": {
+      "a": "World War II",
+      "b": "Vietnam War",
+      "c": "World War I",
+      "d": "Crimean War"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 92,
+    "question": "Which empire used a writing system called Linear B?",
+    "type": "MCQ",
+    "options": {
+      "a": "Minoan",
+      "b": "Mycenaean",
+      "c": "Hittite",
+      "d": "Assyrian"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 93,
+    "question": "Which country initiated the Age of Exploration by sailing along Africa's west coast?",
+    "type": "MCQ",
+    "options": {
+      "a": "Spain",
+      "b": "France",
+      "c": "Portugal",
+      "d": "England"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 94,
+    "question": "Who was the famous Carthaginian general who crossed the Alps with elephants?",
+    "type": "MCQ",
+    "options": {
+      "a": "Scipio Africanus",
+      "b": "Hannibal",
+      "c": "Julius Caesar",
+      "d": "Xerxes"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 95,
+    "question": "Which empire constructed the Forbidden City?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ming Dynasty",
+      "b": "Qing Dynasty",
+      "c": "Tokugawa Shogunate",
+      "d": "Korean Joseon Dynasty"
     },
     "answer": "b"
   },
 
   {
-    "question_id": 111,
-    "question": "The story of Ancient China has been told in many ways. Some historians emphasize imperial power, while others highlight technological innovation. Which dynasty is known for beginning construction of the Great Wall?",
+    "question_id": 96,
+    "question": "Who invented the light bulb?",
     "type": "MCQ",
     "options": {
-      "a": "Qing Dynasty",
-      "b": "Han Dynasty",
-      "c": "Qin Dynasty",
-      "d": "Tang Dynasty"
+      "a": "Thomas Edison",
+      "b": "Nikola Tesla",
+      "c": "James Watt",
+      "d": "Alexander Graham Bell"
     },
     "answer": "c"
   },
   {
-    "question_id": 112,
-    "question": "The story of the Cold War has been told in many ways. Some historians emphasize ideological conflict, while others highlight nuclear tensions. Which policy aimed to stop the spread of communism?",
+    "question_id": 97,
+    "question": "Which civilization carved giant stone heads on Easter Island?",
     "type": "MCQ",
     "options": {
-      "a": "Containment",
-      "b": "Open Door Policy",
-      "c": "Appeasement",
-      "d": "Isolationism"
+      "a": "Inca",
+      "b": "Rapa Nui",
+      "c": "Maori",
+      "d": "Maya"
     },
     "answer": "a"
   },
   {
-    "question_id": 113,
-    "question": "The story of the Egyptian New Kingdom has been told in many ways. Some historians emphasize military expansion, while others focus on religious change. Which pharaoh attempted major religious reforms?",
+    "question_id": 98,
+    "question": "Which Asian empire built Angkor Wat?",
     "type": "MCQ",
     "options": {
-      "a": "Ramses II",
-      "b": "Akhenaten",
-      "c": "Seti I",
-      "d": "Khafre"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 114,
-    "question": "The story of medieval Europe has been told in many ways. Some historians emphasize feudalism, while others focus on church influence. Which event launched the First Crusade?",
-    "type": "MCQ",
-    "options": {
-      "a": "Council of Clermont",
-      "b": "Battle of Tours",
-      "c": "Signing of the Magna Carta",
-      "d": "Fall of Constantinople"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 115,
-    "question": "The story of the American Revolution has been told in many ways. Some historians emphasize political ideals, while others highlight economic pressures. Who authored the influential pamphlet 'Common Sense'?",
-    "type": "MCQ",
-    "options": {
-      "a": "Thomas Jefferson",
-      "b": "Benjamin Franklin",
-      "c": "Thomas Paine",
-      "d": "James Madison"
+      "a": "Khmer Empire",
+      "b": "Ming Empire",
+      "c": "Gupta Empire",
+      "d": "Silla Empire"
     },
     "answer": "c"
   },
   {
-    "question_id": 116,
-    "question": "The story of early Islam has been told in many ways. Some historians emphasize religious teachings, while others focus on political expansion. Who was the first caliph after the death of Muhammad?",
+    "question_id": 99,
+    "question": "Who led the Soviet Union during the Cuban Missile Crisis?",
     "type": "MCQ",
     "options": {
-      "a": "Ali",
-      "b": "Abu Bakr",
-      "c": "Umar",
-      "d": "Uthman"
+      "a": "Lenin",
+      "b": "Khrushchev",
+      "c": "Stalin",
+      "d": "Gorbachev"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
-    "question_id": 117,
-    "question": "The story of medieval Japan has been told in many ways. Some historians emphasize samurai culture, while others highlight imperial authority. Which title refers to Japan’s military leader for centuries?",
+    "question_id": 100,
+    "question": "Which civilization built the ziggurats of Mesopotamia?",
     "type": "MCQ",
     "options": {
-      "a": "Shogun",
-      "b": "Daimyo",
-      "c": "Samurai",
-      "d": "Sensei"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 118,
-    "question": "The story of the Reformation has been told in many ways. Some historians emphasize theological disputes, while others highlight political consequences. Who nailed the Ninety-Five Theses to the church door in 1517?",
-    "type": "MCQ",
-    "options": {
-      "a": "John Calvin",
-      "b": "Martin Luther",
-      "c": "Henry VIII",
-      "d": "Jan Hus"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 119,
-    "question": "The story of the Scientific Revolution has been told in many ways. Some historians emphasize theoretical innovation, while others focus on experimentation. Who discovered the law of universal gravitation?",
-    "type": "MCQ",
-    "options": {
-      "a": "Nicolaus Copernicus",
-      "b": "Galileo Galilei",
-      "c": "Johannes Kepler",
-      "d": "Isaac Newton"
+      "a": "Egyptians",
+      "b": "Sumerians",
+      "c": "Greek",
+      "d": "Chinese"
     },
     "answer": "d"
-  },
-  {
-    "question_id": 120,
-    "question": "The story of the French Revolution has been told in many ways. Some historians emphasize social inequality, while others highlight political ideology. Who became the prominent military leader during the revolution’s later stages?",
-    "type": "MCQ",
-    "options": {
-      "a": "Maximilien Robespierre",
-      "b": "Napoleon Bonaparte",
-      "c": "Louis XVI",
-      "d": "Jean-Paul Marat"
-    },
-    "answer": "b"
-  }
-,
-  {
-    "question_id": 121,
-    "question": "The story of the Persian Empire has been told in many ways. Some historians emphasize administrative organization, while others highlight military expansion. Who founded the Achaemenid Empire?",
-    "type": "MCQ",
-    "options": {
-      "a": "Xerxes I",
-      "b": "Cyrus the Great",
-      "c": "Darius I",
-      "d": "Artaxerxes"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 122,
-    "question": "The story of the Roman Empire has been told in many ways. Some historians emphasize political institutions, while others focus on economic growth. Who became the first emperor of Rome?",
-    "type": "MCQ",
-    "options": {
-      "a": "Julius Caesar",
-      "b": "Augustus",
-      "c": "Nero",
-      "d": "Trajan"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 123,
-    "question": "The story of the American Civil War has been told in many ways. Some historians emphasize slavery, while others highlight states’ rights. Who served as President of the Confederate States?",
-    "type": "MCQ",
-    "options": {
-      "a": "Abraham Lincoln",
-      "b": "Ulysses S. Grant",
-      "c": "Jefferson Davis",
-      "d": "Robert E. Lee"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 124,
-    "question": "The story of the Enlightenment has been told in many ways. Some historians emphasize scientific progress, while others highlight political reform. Who wrote 'Two Treatises of Government'?",
-    "type": "MCQ",
-    "options": {
-      "a": "Voltaire",
-      "b": "John Locke",
-      "c": "David Hume",
-      "d": "Montesquieu"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 125,
-    "question": "The story of early Christianity has been told in many ways. Some historians emphasize theological debates, while others focus on Roman persecution. Who is traditionally credited with spreading Christianity across the Roman Empire?",
-    "type": "MCQ",
-    "options": {
-      "a": "St. Peter",
-      "b": "St. Paul",
-      "c": "St. Augustine",
-      "d": "Constantine the Great"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 126,
-    "question": "The story of the Mughal Empire has been told in many ways. Some historians emphasize architectural achievements, while others highlight cultural synthesis. Which ruler commissioned the Taj Mahal?",
-    "type": "MCQ",
-    "options": {
-      "a": "Akbar",
-      "b": "Shah Jahan",
-      "c": "Aurangzeb",
-      "d": "Babur"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 127,
-    "question": "The story of medieval Europe has been told in many ways. Some historians emphasize royal power, while others highlight religious influence. Who was crowned Emperor of the Holy Roman Empire in 800 CE?",
-    "type": "MCQ",
-    "options": {
-      "a": "Charlemagne",
-      "b": "Otto I",
-      "c": "Frederick Barbarossa",
-      "d": "William the Conqueror"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 128,
-    "question": "The story of the Age of Discovery has been told in many ways. Some historians emphasize trade expansion, while others highlight global interactions. Who discovered the sea route from Europe to India by sailing around Africa?",
-    "type": "MCQ",
-    "options": {
-      "a": "Christopher Columbus",
-      "b": "Vasco da Gama",
-      "c": "Amerigo Vespucci",
-      "d": "Francis Drake"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 129,
-    "question": "The story of the Ottoman Empire has been told in many ways. Some historians emphasize military conquest, while others highlight cultural development. Who conquered Constantinople in 1453?",
-    "type": "MCQ",
-    "options": {
-      "a": "Suleiman the Magnificent",
-      "b": "Mehmed II",
-      "c": "Osman I",
-      "d": "Selim I"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 130,
-    "question": "The story of the Vietnam War has been told in many ways. Some historians emphasize political ideology, while others focus on military intervention. Which country primarily supported South Vietnam?",
-    "type": "MCQ",
-    "options": {
-      "a": "China",
-      "b": "United States",
-      "c": "Soviet Union",
-      "d": "North Korea"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 131,
-    "question": "The story of the Russian Empire has been told in many ways. Some historians emphasize territorial expansion, while others highlight political transformation. Who was the last Tsar of Russia?",
-    "type": "MCQ",
-    "options": {
-      "a": "Peter the Great",
-      "b": "Alexander II",
-      "c": "Nicholas II",
-      "d": "Ivan the Terrible"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 132,
-    "question": "The story of World War II has been told in many ways. Some historians emphasize military campaigns, while others focus on diplomatic failures. Which event brought the United States into World War II?",
-    "type": "MCQ",
-    "options": {
-      "a": "Battle of Britain",
-      "b": "Invasion of Poland",
-      "c": "Attack on Pearl Harbor",
-      "d": "Fall of France"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 133,
-    "question": "The story of the Space Race has been told in many ways. Some historians emphasize technological innovation, while others highlight political rivalry. Which country launched the first artificial satellite, Sputnik?",
-    "type": "MCQ",
-    "options": {
-      "a": "United States",
-      "b": "Soviet Union",
-      "c": "China",
-      "d": "United Kingdom"
-    },
-    "answer": "b"
   }
 ]
-
