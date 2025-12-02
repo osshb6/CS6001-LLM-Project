@@ -1,0 +1,161 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Early contact between the Hittites and the Mycenaeans influenced the exchange of chariot-warfare techniques.,a,True,True,a,True,1
+2,MCQ,Which interaction introduced Lapita pottery motifs into remote Pacific island societies?,b,Inter-island voyaging,B,b,Inter-island voyaging,1
+3,TF,Phoenician settlers in North Africa exchanged agricultural knowledge with early Berber communities.,a,True,True,a,True,1
+4,MCQ,Which interaction carried tin from Central Europe into Bronze Age Anatolia?,b,Overland trade corridors,B,b,Overland trade corridors,1
+5,TF,The Nok culture’s early ironworking may have diffused through contact with migrating West African groups.,a,True,True,a,True,1
+6,MCQ,Which interaction helped spread domesticated camel use into Arabia?,c,North African trade routes,C,c,North African trade routes,1
+7,TF,The Olmec influence on early Zapotec ceremonial architecture arose partly from regional trade contact.,a,True,True,a,True,1
+8,MCQ,Which interaction allowed amber from the Baltic to reach Mediterranean artisans?,b,The Amber Road trade network,B,b,The Amber Road trade network,1
+9,TF,Indus Valley traders may have influenced Mesopotamian weight and measure systems through maritime exchanges.,a,True,True,a,True,1
+10,MCQ,Which interaction introduced early bronze metallurgy into the Korean Peninsula?,b,Steppe nomad migrations,A,a,Han Chinese frontier warfare,0
+11,TF,Early contact between the Minoans and Egyptians contributed to shared artistic iconography.,a,True,True,a,True,1
+12,MCQ,Which interaction carried cinnamon-like spices from Southeast Asia toward ancient East Africa?,d,Arabian monsoon trade,D,d,Arabian monsoon trade,1
+13,TF,Early Slavic tribes adopted aspects of Byzantine religion and architecture through prolonged contact.,a,True,True,a,True,1
+14,MCQ,Which interaction brought early citrus cultivation into Persia?,b,South Asian trade links,B,b,South Asian trade links,1
+15,TF,The transmission of the lute-like oud instrument into Europe began partly through Andalusi musical contact.,a,True,True,a,True,1
+16,MCQ,Which interaction introduced Hellenistic astronomy into the Kushan Empire?,b,Silk Road scholar travel,B,b,Silk Road scholar travel,1
+17,TF,The expansion of Polynesian voyagers spread shared canoe-building techniques across distant islands.,a,True,True,a,True,1
+18,MCQ,Which interaction moved jade ornaments from Neolithic China toward Southeast Asia?,b,River and land trade circuits,B,b,River and land trade circuits,1
+19,TF,Sarmatian horse-archer tactics influenced Roman auxiliary forces through prolonged frontier contact.,a,True,True,a,True,1
+20,MCQ,Which interaction helped transmit early pastoralist culture into the Tibetan Plateau?,a,Steppe migrations,A,a,Steppe migrations,1
+21,TF,Early Aegean contact with Anatolia shaped metallurgical styles across both regions.,a,True,True,a,True,1
+22,MCQ,Which interaction introduced domesticated wheat varieties into Neolithic Europe?,d,Mesopotamian migration waves,D,d,Mesopotamian migration waves,1
+23,TF,Phoenician merchant colonies helped transmit Near Eastern religious symbols into western Mediterranean societies.,a,True,True,a,True,1
+24,MCQ,Which interaction moved domesticated sheep from the Zagros region into the Caucasus?,d,Local migration corridors,D,d,Local migration corridors,1
+25,TF,The Scythians influenced Greek decorative metalwork through Black Sea commercial exchanges.,a,True,True,a,True,1
+26,MCQ,Which interaction transmitted obsidian from Anatolia into Neolithic Balkans?,b,Regional land trading,B,b,Regional land trading,1
+27,TF,The spread of the Brahmi script into Sri Lanka resulted partly from cultural and religious contact.,a,True,True,a,True,1
+28,MCQ,Which interaction helped carry early Austroasiatic languages into mainland Southeast Asia?,b,Overland tribal migrations,B,b,Overland tribal migrations,1
+29,TF,Celts in the Iberian Peninsula adopted some Phoenician metallurgical techniques through coastal contact.,a,True,True,a,True,1
+30,MCQ,Which interaction introduced domesticated millet strains from northern China to the Korean Peninsula?,d,River-based frontier trade,D,d,River-based frontier trade,1
+31,TF,Early Arab contact with East African inland groups encouraged hybrid architectural forms.,a,True,True,a,True,1
+32,MCQ,Which interaction brought horses into Bronze Age China?,b,Steppe nomad contact,B,b,Steppe nomad contact,1
+33,TF,The movement of Arawak-speaking peoples helped spread agricultural techniques across the Caribbean.,a,True,True,a,True,1
+34,MCQ,Which interaction moved Central Asian turquoise into early Persian workshops?,b,Overland Silk Road routes,B,b,Overland Silk Road routes,1
+35,TF,Early Nubian contact with Central Sudanese communities influenced pottery style development.,a,True,True,a,True,1
+36,MCQ,Which interaction diffused Southeast Asian banana cultivation into Madagascar?,d,Austronesian migration by sea,D,d,Austronesian migration by sea,1
+37,TF,The spread of early Semitic scripts across the Levant was accelerated by interregional exchange networks.,a,True,True,a,True,1
+38,MCQ,Which interaction introduced early Andean metal alloys into neighboring highland cultures?,b,Overland mountain trade,B,b,Overland mountain trade,1
+39,TF,Early interactions between the Guanche of the Canary Islands and North African sailors may have exchanged navigational knowledge.,a,True,True,a,True,1
+40,MCQ,Which interaction helped spread bronze-casting techniques from the Eurasian steppe into Eastern Europe?,c,Nomadic migrations,C,c,Nomadic migrations,1
+41,TF,Greek and Phoenician contact in the Iron Age sometimes resulted in shared harbor-engineering methods rather than simple trade imitation.,a,True,True,a,True,1
+42,MCQ,Which interaction most plausibly led to Persian irrigation innovations being adapted unevenly across early Islamic territories?,a,Caravan-based scholarly travel,A,a,Caravan-based scholarly travel,1
+43,TF,Chinese silk reached the Mediterranean partly because intermediary cultures modified trade networks to suit local political pressures.,a,True,True,a,True,1
+44,MCQ,Which interaction best explains the diffusion of Islamic legal scholars into the Mali Empire?,b,Seasonal trans-Saharan caravans,B,b,Seasonal trans-Saharan caravans,1
+45,TF,Indian numerals entered European scholarly traditions partly through Arabic translations circulating in North Africa and Iberia.,a,True,True,a,True,1
+46,MCQ,Which pathway allowed Greek medical writings to reach Western Europe before the Renaissance?,a,Byzantine–Islamic translation circles,A,a,Byzantine–Islamic translation circles,1
+47,TF,Spanish–Inca encounters produced environmental disruptions that also facilitated agricultural exchange between the groups.,a,True,True,a,True,1
+48,MCQ,Which interaction most credibly transmitted Buddhist monastic customs into early Chinese communities?,c,Caravan-borne merchant networks,C,c,Caravan-borne merchant networks,1
+49,TF,The Viking presence along Eastern European rivers indirectly influenced political structures through their commercial station settlements.,a,True,True,a,True,1
+50,MCQ,Which mechanism best carried West African gold into European minting centers?,c,North African caravan caravans,C,c,North African caravan caravans,1
+51,TF,Cultural contact during the Crusades provided Europeans with unfamiliar scientific texts that later shaped medieval universities.,a,True,True,a,True,1
+52,MCQ,Which interaction best explains how papermaking diffused from Central Asia into Islamic scholarly hubs?,b,Military capture of artisans,B,b,Military capture of artisans,1
+53,TF,Mongol rule; despite its destructiveness; facilitated the circulation of craft specialists across Eurasia.,a,True,True,a,True,1
+54,MCQ,Which dynamic most directly moved Islamic astronomical tables into Christian Spain?,a,Berber migration into Iberia,A,a,Berber migration into Iberia,1
+55,TF,The southward movement of Bantu peoples reshaped agricultural zones through gradual crop-mix diffusion.,a,True,True,a,True,1
+56,MCQ,Which contact scenario most plausibly links Dutch navigators with Aboriginal communities?,c,Indian Ocean exploratory voyages,C,c,Indian Ocean exploratory voyages,1
+57,TF,Ottoman involvement in eastern Mediterranean trade allowed Europeans indirect access to luxury manufactures they could not produce locally.,a,True,True,a,True,1
+58,MCQ,Which exchange pathway best accounts for the spread of Arabic mathematical concepts across North Africa?,b,Desert-route trade,B,b,Desert-route trade,1
+59,TF,Polynesian seafarers shared star-navigation heuristics that later appeared in distant island traditions with only slight variations.,a,True,True,a,True,1
+60,MCQ,Which interaction introduced early firearms technology into Japanese domains most efficiently?,a,Portuguese shipborne trade,A,a,Portuguese shipborne trade,1
+61,TF,The diffusion of maize northward from Mesoamerica relied partly on migratory groups who also adopted new subsistence routines.,a,True,True,a,True,1
+62,MCQ,Which interaction most realistically carried Roman glass into the Indian Ocean region?,a,Indian Ocean monsoon trading,A,a,Indian Ocean monsoon trading,1
+63,TF,The Jewish diaspora contributed to Mediterranean commercial webs by linking separate cultural zones through multilingual trade.,a,True,True,a,True,1
+64,MCQ,Which mechanism spread horses through Plains societies of North America?,a,Spanish colonial contacts,A,a,Spanish colonial contacts,1
+65,TF,The Silk Road periodically carried Persian gem-carving aesthetics eastward; influencing Chinese artisanship in subtle ways.,a,True,True,a,True,1
+66,MCQ,Which process moved Roman architectural practices most firmly into early Britain?,a,Long-term colonial governance,A,a,Long-term colonial governance,1
+67,TF,Phoenician expansion in the western Mediterranean promoted alphabetic borrowing across competing coastal societies.,a,True,True,a,True,1
+68,MCQ,Which maritime interaction connected Arabian and Indian merchants with emerging Swahili port towns?,b,Indian Ocean commercial circuits,B,b,Indian Ocean commercial circuits,1
+69,TF,Russian movement into Siberia created cultural exchanges with indigenous groups that influenced fur-trade governance systems.,a,True,True,a,True,1
+70,MCQ,Which interaction most directly helped papermaking enter Islamic intellectual centers?,a,Captured Chinese artisans during frontier battles,A,a,Captured Chinese artisans during frontier battles,1
+71,TF,The Columbian Exchange unexpectedly reshaped European health and population trends by introducing calorie-dense crops like potatoes.,a,True,True,a,True,1
+72,MCQ,Which interaction transmitted Christianity into the Aksumite Kingdom at a formative stage?,a,Trade with Roman-era merchants,A,a,Trade with Roman-era merchants,1
+73,TF,Celtic societies diffused artistic motifs through migration chains that stretched from Central Europe toward the Atlantic coast.,a,True,True,a,True,1
+74,MCQ,Which interaction delivered Chinese porcelain into Italian workshops during the Renaissance?,a,Ottoman–European trade mediation,A,a,Ottoman–European trade mediation,1
+75,TF,The Ottoman presence in southeastern Europe transmitted medical; artistic; and culinary ideas into regional traditions.,a,True,True,a,True,1
+76,MCQ,Which process spread sugar-plantation techniques into Caribbean colonies?,a,European colonial restructuring,A,a,European colonial restructuring,1
+77,TF,Indian religious and artistic themes penetrated the Khmer region through long-term maritime and mercantile interaction.,a,True,True,a,True,1
+78,MCQ,Which route most effectively transmitted Arabic numerals to medieval European scholars?,a,Iberian Muslim intellectual centers,A,a,Iberian Muslim intellectual centers,1
+79,TF,Phoenician traders transported bronze implements that influenced metallurgical styles throughout the Mediterranean basin.,a,True,True,a,True,1
+80,MCQ,Which trade system most plausibly introduced Indian spices into Roman culinary culture?,b,Indian Ocean monsoon routes,B,b,Indian Ocean monsoon routes,1
+81,TF,Early Persian–Central Asian contact sometimes led to hybrid metal-alloy traditions that archaeologists struggle to classify definitively.,a,True,True,a,True,1
+82,MCQ,Which interaction most likely introduced advanced olive-oil pressing methods into archaic Greek communities?,a,Phoenician mercantile enclaves,A,a,Phoenician mercantile enclaves,1
+83,TF,Southeast Asian kingdoms assimilated both Hindu and Buddhist iconography; not because of forced conversion; but due to elite-level competition for legitimacy.,a,True,True,a,True,1
+84,MCQ,Which mechanism best explains the movement of Persian astronomical tables into Mughal scholarly institutions?,a,Elite scholar migration into royal courts,A,a,Elite scholar migration into royal courts,1
+85,TF,Spanish colonial food practices fused with Indigenous agricultural knowledge because colonial authorities relied on local expertise more than they admitted.,a,True,True,a,True,1
+86,MCQ,Which process most plausibly moved iron-working techniques from West-Central Africa into southern regions?,a,Bantu migratory diffusion,A,a,Bantu migratory diffusion,1
+87,TF,Greek settlements in Sicily adopted agricultural practices from local Italic groups while simultaneously imposing their own maritime norms.,a,True,False,b,False,0
+88,MCQ,Which interaction explains the movement of intricate geometric motifs from Islamic North Africa into Iberian architecture?,a,Arab–Berber control of Iberia,A,a,Arab–Berber control of Iberia,1
+89,TF,Roman contact with Celtic tribes introduced not only metalworking knowledge but also certain religious syncretisms that are often overlooked.,a,True,True,a,True,1
+90,MCQ,Which interaction most directly supplied Middle Eastern elites with Southeast Asian spices prior to European maritime entry?,a,Indian Ocean commercial networks,A,a,Indian Ocean commercial networks,1
+91,TF,Vietnamese courts adopted Chinese bureaucratic norms selectively; integrating them with local legal customs rather than copying them wholesale.,a,True,True,a,True,1
+92,MCQ,Which route most credibly delivered Indian cotton textiles into Roman warehouses?,a,Monsoon-reliant Indian Ocean shipping,A,a,Monsoon-reliant Indian Ocean shipping,1
+93,TF,Islamic scholars preserved Greek scientific material partly because those texts offered practical astronomical value; not merely philosophical interest.,a,True,True,a,True,1
+94,MCQ,Which interaction transmitted jade craftsmanship from Mesoamerican elites to adjacent regional cultures?,a,Inter-regional inland trade,A,a,Inter-regional inland trade,1
+95,TF,The fusion of Indian and Hellenistic artistic styles in the Gandhara region emerged because local rulers encouraged competing aesthetic traditions to coexist.,a,True,False,b,False,0
+96,MCQ,Which process explains the spread of coconut-based agriculture into Island Southeast Asia?,a,Austronesian inter-island migration,A,a,Austronesian inter-island migration,1
+97,TF,Aramaic became dominant across Near Eastern administrative systems because its script adapted well to multilingual trade environments.,a,True,True,a,True,1
+98,MCQ,Which interaction most directly introduced African rhythmic traditions into Caribbean cultural forms?,a,Atlantic forced-migration systems,A,a,Atlantic forced-migration systems,1
+99,TF,Phoenician innovations in ship design spread because rival Mediterranean groups reverse-engineered captured vessels.,a,True,False,b,False,0
+100,MCQ,Which link most plausibly carried Egyptian papyrus into early Greek scribal centers?,a,Diplomatic trade between Egypt and Greek polities,A,a,Diplomatic trade between Egypt and Greek polities,1
+101,TF,Hittite–Mesopotamian diplomatic exchanges sometimes included the transfer of scribes skilled in multiple writing systems.,a,True,True,a,True,1
+102,MCQ,Which interaction best accounts for Egyptian blue-faience beads discovered in Bronze Age European sites?,a,Indirect trade via Aegean merchants,A,a,Indirect trade via Aegean merchants,1
+103,TF,The movement of steppe nomads into Eastern Europe produced linguistic borrowings that scholars still debate.,a,True,True,a,True,1
+104,MCQ,Which pathway most likely carried early rice cultivation from mainland Southeast Asia to southern China?,a,River-valley migrations,A,a,River-valley migrations,1
+105,TF,The Moche of Peru adopted certain maritime practices due to contact with other coastal Andean communities; not external civilizations.,a,True,True,a,True,1
+106,MCQ,Which interaction led to jade-green glassware influences moving from the Roman world into early Islamic artisanship?,a,Late Roman–Arab merchant contact,A,a,Late Roman–Arab merchant contact,1
+107,TF,Early Egyptian–Nubian relations included shared burial styles that archaeologists occasionally misattribute due to overlapping iconography.,a,True,True,a,True,1
+108,MCQ,Which interaction best explains the spread of lapis lazuli into Mesopotamian elite workshops?,a,Afghan-to-Mesopotamia trade corridors,A,a,Afghan-to-Mesopotamia trade corridors,1
+109,TF,Bronze Age Mediterranean sailors likely adopted navigation cues from multiple coastal cultures rather than a single origin.,a,True,True,a,True,1
+110,MCQ,Which process most credibly explains the spread of quartz-blade technology across prehistoric Northeast Africa?,a,Mobile pastoral networks,A,a,Mobile pastoral networks,1
+111,TF,Bronze Age Anatolian states integrated foreign gods partly due to mercantile diasporas that carried cult practices across borders.,a,True,True,a,True,1
+112,MCQ,Which interaction explains the circulation of horse-trapping designs from Central Asia into early Eastern European chieftaincies?,a,Steppe nomad expansions,A,a,Steppe nomad expansions,1
+113,TF,Some Andean societies adopted textile patterning schemes after encountering traveling artisans from neighboring highlands.,a,True,True,a,True,1
+114,MCQ,Which interaction most likely carried Mediterranean wine-making practices into Celtic Gaul?,a,Greek colonial trade posts,A,a,Greek colonial trade posts,1
+115,TF,The Armenian Highlands served as a conduit where multiple ancient cultures blended architectural styles unpredictably.,a,True,True,a,True,1
+116,MCQ,Which avenue spread domesticated barley strains from the Fertile Crescent into Europe?,a,Sequential Neolithic migration waves,A,a,Sequential Neolithic migration waves,1
+117,TF,Shifts in Aksumite art styles partly reflect exchanges with Arabian kingdoms long before Islam emerged.,a,True,True,a,True,1
+118,MCQ,Which interaction transported incense-resin knowledge into the Mediterranean world most reliably?,a,South Arabian caravan commerce,A,a,South Arabian caravan commerce,1
+119,TF,Some Silk Road oasis cities became cultural hybrids because several mutually hostile empires used them as neutral exchange points.,a,True,True,a,True,1
+120,MCQ,Which mechanism spread bronze carpentry tools from Anatolia into the Aegean during the late Bronze Age?,a,Merchant-artisan itinerant networks,A,a,Merchant-artisan itinerant networks,1
+121,TF,Kushan adoption of Hellenistic artistic motifs occurred partly because political elites viewed foreign aesthetics as useful for projecting imperial legitimacy.,a,True,True,a,True,1
+122,MCQ,Which exchange best explains how Central Asian cavalry techniques entered early Persian warfare?,a,Steppe nomad alliances,A,a,Steppe nomad alliances,1
+123,TF,The pottery styles of ancient Anatolia and the Levant sometimes converged due to shared trade guilds rather than identical cultural origins.,a,True,True,a,True,1
+124,MCQ,Which route most plausibly introduced Egyptian grain-storage techniques into Bronze Age Levantine cities?,b,Sinai overland trade stations,A,a,Nile-to-Levant maritime shipping,0
+125,TF,Early Islamic geographers incorporated Persian astronomical knowledge partly because Persian scholars controlled regional academic patronage.,a,True,True,a,True,1
+126,MCQ,Which mechanism spread Chinese crossbow innovations into neighboring nomadic societies?,a,Frontier skirmish capture events,A,a,Frontier skirmish capture events,1
+127,TF,Phoenician shipbuilding knowledge influenced Greek naval architecture because Greek port towns sought strategic parity through imitation.,a,True,True,a,True,1
+128,MCQ,Which interaction most credibly carried Nubian archery techniques into Egyptian military doctrine?,a,Recruitment of Nubian mercenaries,C,c,Shared frontier garrisons combining mixed troops,0
+129,TF,Aegean peoples integrated elements of Mesopotamian mathematics because merchants required standardization for long-distance commodity pricing.,a,True,False,b,False,0
+130,MCQ,Which interaction enabled Roman medical texts to influence early Islamic medical schools?,a,Syriac-language translation networks,A,a,Syriac-language translation networks,1
+131,TF,Indo-Greek political interaction promoted hybrid administrative practices that sometimes contradicted local traditions.,a,True,True,a,True,1
+132,MCQ,Which process introduced Mesopotamian cylinder-seal iconography into Anatolia?,a,Merchant diaspora communities,B,b,Inter-dynastic diplomatic marriages,0
+133,TF,Mayan astronomical methods influenced nearby societies partly through itinerant specialists whose interpretations varied regionally.,a,True,True,a,True,1
+134,MCQ,Which diffusion pathway most plausibly brought South Asian spice combinations into Middle Eastern cuisine?,a,Arab–Indian monsoon markets,A,a,Arab–Indian monsoon markets,1
+135,TF,Ethiopian–South Arabian contact reshaped agricultural regimes on both sides of the Red Sea due to parallel ecological experimentation.,a,True,False,b,False,0
+136,MCQ,Which interaction spread domesticated camel breeds across North Africa most effectively?,c,Berber-mediated caravan trade,C,c,Berber-mediated caravan trade,1
+137,TF,Early Slavic groups adopted several agricultural techniques from steppe communities; though the influence was uneven and heavily localized.,a,True,True,a,True,1
+138,MCQ,Which mechanism accounts for the spread of metal-inlay weapon decoration from Scythian regions into Eastern Europe?,a,Cross-border warrior alliances,D,d,Indirect diffusion via defeated nomadic confederations,0
+139,TF,Early Japanese adoption of Chinese writing was facilitated partly by fluctuating political rivalries that turned literacy into a prestige marker.,a,True,True,a,True,1
+140,MCQ,Which interaction helped the movement of Sogdian mercantile languages across Central Asia?,a,Trans-Silk Road merchant colonies,A,a,Trans-Silk Road merchant colonies,1
+141,TF,Ancient Armenian metallurgists incorporated foreign alloying methods due to sustained contact with multiple empires encircling the region.,a,True,True,a,True,1
+142,MCQ,Which pathway explains how Greek philosophical ideas infiltrated early Roman educational systems?,a,Enslaved Greek intellectuals serving elite Roman households,A,a,Enslaved Greek intellectuals serving elite Roman households,1
+143,TF,The exchange of tin across Bronze Age networks created economic pressures that sometimes shifted political alliances unexpectedly.,a,True,True,a,True,1
+144,MCQ,Which mechanism best explains the movement of early glassmaking techniques from the Levant into the wider Mediterranean?,a,Highly mobile Levantine craft guilds,A,a,Highly mobile Levantine craft guilds,1
+145,TF,Phoenician dye-making expertise spread partly because competing cultures attempted to decode the process from traded finished products.,a,True,True,a,True,1
+146,MCQ,Which interaction carried lapidary gemstone-cutting styles from Persia into the Byzantine Empire?,b,Artisan displacement during border conflicts,A,a,Diplomatic exchanges through Armenian intermediaries,0
+147,TF,The transmission of Indus Valley weights and measures into West Asia may have been driven by merchant competition rather than cultural dominance.,a,True,True,a,True,1
+148,MCQ,Which interaction best explains how the stirrup spread into Europe?,c,Nomadic steppe warfare diffusion,C,c,Nomadic steppe warfare diffusion,1
+149,TF,Chinese–Tibetan contact occasionally generated hybrid ritual practices that do not appear in either tradition independently.,a,True,True,a,True,1
+150,MCQ,Which dynamic most plausibly delivered jade-carving techniques from China into Korea?,b,Envoy exchanges during diplomatic missions,B,b,Envoy exchanges during diplomatic missions,1
+151,TF,Germanic interactions with Rome led to hybrid legal ideas that resurfaced centuries later in medieval law codes.,a,True,True,a,True,1
+152,MCQ,Which route most likely introduced African ivory into early Indian luxury markets?,a,Western Indian Ocean maritime networks,A,a,Western Indian Ocean maritime networks,1
+153,TF,Certain Bronze Age ritual practices diffused across regions due to craft specialists who simultaneously served religious and political roles.,a,True,True,a,True,1
+154,MCQ,Which process carried Chinese papermaking know-how into the Islamic world most consistently?,a,Capture of skilled artisans in border conflicts,A,a,Capture of skilled artisans in border conflicts,1
+155,TF,Phoenician merchants sometimes introduced cult symbols that blended with local beliefs in ways archaeologists struggle to disentangle.,a,True,True,a,True,1
+156,MCQ,Which interaction most plausibly carried bronze mirror-making techniques from China toward Japan?,d,Korean intermediary polities facilitating cultural transfer,D,d,Korean intermediary polities facilitating cultural transfer,1
+157,TF,The “northern diffusion” of millet farming into Siberia likely occurred through a mixture of trade and intermittent settlement; not uniform migration.,a,True,True,a,True,1
+158,MCQ,Which contact best explains the arrival of Persian silver-work techniques in Central Asian nomadic societies?,c,Persian craftsmen moving to frontier markets,C,c,Persian craftsmen moving to frontier markets,1
+159,TF,Interactions between Nubian and Egyptian elites sometimes produced bilingual inscriptions whose interpretation remains uncertain today.,a,True,True,a,True,1
+160,MCQ,Which route most plausibly spread domesticated wheat varieties from the Near East into the Balkans?,b,Early Neolithic migration corridors,B,b,Early Neolithic migration corridors,1

@@ -1,0 +1,161 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,If the Byzantine Empire had successfully repelled the Ottoman siege in 1453; would Western Europe's Renaissance trajectory have changed significantly?,b,False,False,b,False,1
+2,MCQ,If the Spanish Armada had succeeded in 1588; which long-term outcome is most plausible?,c,England becomes permanently Catholic but retains political autonomy,C,c,England becomes permanently Catholic but retains political autonomy,1
+3,TF,If the Great Schism of 1054 never occurred; Christian Europe would have remained politically unified into the early modern era.,b,False,False,b,False,1
+4,MCQ,If the Taiping Rebellion (1850–1864) had succeeded in overthrowing the Qing; what is the most likely regional effect?,b,European colonial influence in China expands faster,B,b,European colonial influence in China expands faster,1
+5,TF,If the Mongols had successfully invaded Japan in 1281; East Asian political structures would remain unchanged.,b,False,False,b,False,1
+6,MCQ,If the Abbasid Caliphate had not fragmented in the 10th century; what long-term development is most plausible?,b,The Islamic Golden Age lasts significantly longer,B,b,The Islamic Golden Age lasts significantly longer,1
+7,TF,If the Polish-Lithuanian Commonwealth had not been partitioned in the late 18th century; would Russia's western expansion still have occurred?,a,True,True,a,True,1
+8,MCQ,If the Mali Empire had gained direct control over Atlantic trade routes in the 15th century; what is the most likely outcome?,c,Portugal delays African coastal exploration,C,c,Portugal delays African coastal exploration,1
+9,TF,If the Italian city-states had unified in the 1400s; the Renaissance would have been less influential across Europe.,a,True,False,b,False,0
+10,MCQ,If the British lost the Second Boer War (1899–1902); what long-term effect is most plausible?,a,British imperial prestige weakens globally,A,a,British imperial prestige weakens globally,1
+11,TF,If the Aztec Empire had centralized its tributary system more effectively before 1500; Spanish conquest would still have been inevitable.,a,True,False,b,False,0
+12,MCQ,If the Mughal Empire had not declined after Aurangzeb; what is the most plausible historical effect?,a,British colonial rule in India is delayed or weakened,A,a,British colonial rule in India is delayed or weakened,1
+13,TF,If the Qin Dynasty had not unified China in 221 BCE; the development of a centralized Chinese bureaucratic state would have occurred centuries later.,b,False,False,b,False,1
+14,MCQ,If the Haitian Revolution (1791–1804) had been crushed early; which outcome is most plausible?,a,France strengthens its Caribbean empire,A,a,France strengthens its Caribbean empire,1
+15,TF,If the Abbasid translation movement never began; medieval European scholarship would have progressed at the same pace.,b,False,False,b,False,1
+16,MCQ,If Charlemagne's empire had not fragmented after his death; what long-term effect is most plausible?,b,The Papacy becomes subordinate to imperial rule,B,b,The Papacy becomes subordinate to imperial rule,1
+17,TF,If the Seljuk defeat at Manzikert in 1071 never occurred; Byzantium would have regained control over the Middle East.,b,False,False,b,False,1
+18,MCQ,If the Khmer Empire had maintained its irrigation systems into the 1400s; what is the most plausible outcome?,c,Angkor becomes a major Indian Ocean trading hub,C,c,Angkor becomes a major Indian Ocean trading hub,1
+19,TF,If Viking settlements in North America had survived into the 1200s; European colonization patterns would remain unchanged.,b,False,False,b,False,1
+20,MCQ,If the Abbasid Caliphate had developed naval dominance in the Indian Ocean; what long-term impact is most plausible?,a,European maritime exploration is delayed,C,c,The Silk Road becomes irrelevant,0
+21,TF,If the Inca Empire had widespread use of iron tools; Spanish conquest would still have succeeded.,a,True,True,a,True,1
+22,MCQ,If the Taft-Katsura Agreement (1905) never occurred; which outcome is most plausible?,b,U.S.–Japan relations deteriorate earlier,B,b,U.S.–Japan relations deteriorate earlier,1
+23,TF,If the Abbasid revolt against the Umayyads had failed; the Islamic Golden Age would still have emerged under Umayyad rule.,b,False,False,b,False,1
+24,MCQ,If sub-Saharan African kingdoms had developed gunpowder weaponry earlier than Europe; what is the most likely outcome?,d,European coastal forts fail to gain foothold,D,d,European coastal forts fail to gain foothold,1
+25,TF,If the Reconquista in Spain never concluded in 1492; Iberian exploration of the Atlantic might have been significantly delayed.,a,True,True,a,True,1
+26,MCQ,If the Ottoman Empire had industrialized in the early 1700s; which development becomes most plausible?,c,The Ottoman Empire becomes a naval superpower,C,c,The Ottoman Empire becomes a naval superpower,1
+27,TF,If the Song Dynasty had not lost northern China to the Jin; gunpowder weaponry would have been invented much later.,b,False,False,b,False,1
+28,MCQ,If the Byzantine Empire had won the Battle of Yarmouk (636 CE); which outcome is most plausible?,a,Islamic expansion into the Levant slows dramatically,A,a,Islamic expansion into the Levant slows dramatically,1
+29,TF,If the Ming Dynasty had continued Zheng He's voyages beyond 1433; China's dominance in the Indian Ocean would remain unchanged.,b,False,False,b,False,1
+30,MCQ,If ancient Egypt had adopted iron technology earlier; what is the most plausible outcome?,a,Egypt withstands Assyrian invasions,A,a,Egypt withstands Assyrian invasions,1
+31,TF,If the Akkadian Empire had not collapsed due to drought; Mesopotamian city-state culture would have continued to evolve independently.,b,False,False,b,False,1
+32,MCQ,If the Maurya Empire had not declined after Ashoka; which development is most plausible?,a,Buddhism becomes the dominant religion in South Asia,A,a,Buddhism becomes the dominant religion in South Asia,1
+33,TF,If the Han Dynasty had avoided collapse in 220 CE; China’s Three Kingdoms period would still have occurred.,b,False,False,b,False,1
+34,MCQ,If the Achaemenid Empire had won the Greco-Persian Wars; which long-term outcome is most plausible?,a,Greek philosophy spreads under Persian patronage,A,a,Greek philosophy spreads under Persian patronage,1
+35,TF,If the Shang Dynasty had not fallen to the Zhou; Chinese feudalism would never have developed.,b,False,False,b,False,1
+36,MCQ,If the Roman Senate had prevented Julius Caesar's rise to power; which development becomes most plausible?,a,The Roman Republic survives significantly longer,A,a,The Roman Republic survives significantly longer,1
+37,TF,If the Minoan civilization had not collapsed around 1450 BCE; Mycenaean dominance would still have emerged.,b,False,False,b,False,1
+38,MCQ,If the Umayyad Caliphate had won the Battle of Tours (732 CE); what is the most likely consequence?,a,Islamic influence expands deeper into Western Europe,A,a,Islamic influence expands deeper into Western Europe,1
+39,TF,If the Phoenicians had not developed advanced shipbuilding; Mediterranean trade networks would remain as interconnected as they became historically.,b,False,False,b,False,1
+40,MCQ,If the Zulu Kingdom had modernized militarily before 1820; which outcome is most plausible?,a,European settlement in southern Africa faces heavy resistance,A,a,European settlement in southern Africa faces heavy resistance,1
+41,TF,If the Mongol Empire had not fragmented after 1260; Eurasian trade under the Pax Mongolica would have continued uninterrupted for centuries.,b,False,False,b,False,1
+42,MCQ,If the Kingdom of Axum had adopted large-scale maritime expansion in the 5th century CE; which outcome is most plausible?,a,Axum becomes the dominant Red Sea naval power,A,a,Axum becomes the dominant Red Sea naval power,1
+43,TF,If the Gupta Empire had not declined in the 6th century; India's scientific advancements would have continued at the same pace regardless.,b,False,False,b,False,1
+44,MCQ,If the Sassanian Empire had defeated the Arabs in the 630s; what is the most plausible outcome?,a,Zoroastrianism remains a major world religion,A,a,Zoroastrianism remains a major world religion,1
+45,TF,If the Abbasids had never moved their capital to Baghdad; the empire's intellectual flourishing would still have been as strong.,b,False,False,b,False,1
+46,MCQ,If the early Rus' principalities had united under a strong centralized monarchy by 1100; which outcome is most plausible?,a,Kievan Rus becomes a major European power,A,a,Kievan Rus becomes a major European power,1
+47,TF,If the Holy Roman Empire had abolished its system of autonomous principalities earlier; German unification would have been delayed.,b,False,False,b,False,1
+48,MCQ,If the Almoravid Empire had expanded deeper into Iberia after 1100; which outcome becomes most plausible?,a,The Reconquista is delayed by centuries,A,a,The Reconquista is delayed by centuries,1
+49,TF,If the Roman Republic had adopted a written constitution; its collapse into empire would have occurred anyway.,a,True,False,b,False,0
+50,MCQ,If the Abbasids had developed gunpowder weapons first; which geopolitical effect is most plausible?,a,The Ottoman Empire never rises to power,A,a,The Ottoman Empire never rises to power,1
+51,TF,If the ancient Indus Valley Civilization had not collapsed; South Asian urbanization would have followed the same historical path.,b,False,False,b,False,1
+52,MCQ,If the Neo-Assyrian Empire had successfully integrated its conquered populations; which outcome is most plausible?,a,The empire survives for significantly longer,A,a,The empire survives for significantly longer,1
+53,TF,If the Zhou Dynasty had never adopted the Mandate of Heaven doctrine; Chinese dynastic cycles would have remained unchanged.,b,False,False,b,False,1
+54,MCQ,If Alexander the Great had established a stable succession plan; which long-term outcome is most plausible?,a,The Hellenistic world forms a unified Mediterranean–Asian state,A,a,The Hellenistic world forms a unified Mediterranean–Asian state,1
+55,TF,If the Carthaginians had won the Second Punic War; Rome still would have risen to become a dominant Mediterranean power.,b,False,False,b,False,1
+56,MCQ,If ancient Nubia had industrialized iron production earlier; what is the most plausible result?,a,Nubia challenges Egypt’s dominance,A,a,Nubia challenges Egypt’s dominance,1
+57,TF,If the early Japanese Yamato state had never formed; the archipelago’s political unification would still have occurred on the same timeline.,b,False,False,b,False,1
+58,MCQ,If the Mayan city-states had developed a unified empire around 700 CE; which outcome becomes most plausible?,a,The Maya resist collapse longer,A,a,The Maya resist collapse longer,1
+59,TF,If ancient Greece had never developed hoplite warfare; Greek unification under Macedon would have still occurred.,a,True,False,b,False,0
+60,MCQ,If the Tang Dynasty had maintained control over Central Asia after 750 CE; what is the most likely development?,a,Chinese cultural influence expands deeper into Persia,A,a,Chinese cultural influence expands deeper into Persia,1
+61,TF,If the Roman Empire had survived intact into the 8th century; the rise of Islam would have been unaffected.,b,False,False,b,False,1
+62,MCQ,If the Athenian Empire had defeated Sparta in the Peloponnesian War; which long-term outcome is most plausible?,a,Athens maintains a powerful maritime empire,A,a,Athens maintains a powerful maritime empire,1
+63,TF,If the Assyrian Empire had not been unusually brutal in its governance; its collapse would still have been inevitable.,a,True,False,b,False,0
+64,MCQ,If Persia had successfully conquered Greece in 480 BCE; what long-term development becomes most plausible?,a,Greek culture continues under Persian patronage,A,a,Greek culture continues under Persian patronage,1
+65,TF,If the Kingdom of Kush had controlled Lower Egypt for longer; Mediterranean power dynamics would have developed the same way.,b,False,False,b,False,1
+66,MCQ,If the Olmecs had developed writing earlier; which development is most plausible?,a,Mesoamerican cultures share a unified written tradition,A,a,Mesoamerican cultures share a unified written tradition,1
+67,TF,If ancient Rome had abolished slavery early in its history; its economic expansion would have followed the same trajectory.,b,False,False,b,False,1
+68,MCQ,If the Sumerians had developed long-distance maritime navigation; which outcome becomes most plausible?,a,Sumerian trade reaches the Indus Valley directly,A,a,Sumerian trade reaches the Indus Valley directly,1
+69,TF,If the Hittite Empire had not collapsed during the Bronze Age Collapse; the rise of Assyria would still have occurred.,a,True,True,a,True,1
+70,MCQ,If the Shang Dynasty had expanded deeper into the northern steppes; which long-term effect is most plausible?,a,Nomadic confederations form later,A,a,Nomadic confederations form later,1
+71,TF,If ancient Phoenicians had never developed their alphabet; Mediterranean literacy patterns would have remained unchanged.,b,False,False,b,False,1
+72,MCQ,If the Urartu Kingdom had expanded successfully against Assyria; which outcome is most plausible?,a,A powerful Armenian empire emerges,A,a,A powerful Armenian empire emerges,1
+73,TF,If the ancient Athenian democracy had allowed broader political inclusion; Greek political development would have been identical.,b,False,False,b,False,1
+74,MCQ,If the Nabateans had expanded their Arabian trade monopoly further; which development is most plausible?,a,Rome faces stronger resistance in the Near East,A,a,Rome faces stronger resistance in the Near East,1
+75,TF,If ancient China had not developed paper in the Han period; literacy rates would have been unaffected.,b,False,False,b,False,1
+76,MCQ,If the Etruscans had dominated early Italy longer; what is the most plausible effect?,a,Roman cultural identity develops differently,A,a,Roman cultural identity develops differently,1
+77,TF,If the ancient Celts had developed centralized states; Rome would still have dominated Western Europe.,a,True,False,b,False,0
+78,MCQ,If the Moche civilization in Peru had expanded into the Andes earlier; which outcome becomes most plausible?,b,The Inca Empire never forms,A,a,Andean polities unify centuries earlier,0
+79,TF,If the Akkadians had resisted drought more effectively; the rise of later Mesopotamian empires would still have occurred as historically.,a,True,False,b,False,0
+80,MCQ,If the ancient Israelites had established a larger territorial kingdom; which long-term outcome becomes most plausible?,a,Regional empires treat Israel as a major power,A,a,Regional empires treat Israel as a major power,1
+81,TF,If ancient Mesopotamia had not developed cuneiform; early administrative systems across the Near East would have evolved identically.,b,False,False,b,False,1
+82,MCQ,If the Kingdom of Aksum had expanded aggressively into the Arabian Peninsula; which outcome is most plausible?,a,Aksum controls Red Sea trade for centuries,A,a,Aksum controls Red Sea trade for centuries,1
+83,TF,If the ancient Hebrews had not developed monotheism; the rise of later Abrahamic religions would be unchanged.,b,False,False,b,False,1
+84,MCQ,If the Assyrians had adopted less militaristic strategies; which long-term result is most plausible?,a,The empire survives significantly longer,A,a,The empire survives significantly longer,1
+85,TF,If the Huns had not pressured Germanic tribes into Roman territory; the Western Roman Empire would have collapsed on the same timeline.,b,False,False,b,False,1
+86,MCQ,If the Scythians had formed a centralized empire; which development is most plausible?,a,Eurasian nomadic confederations stabilize earlier,A,a,Eurasian nomadic confederations stabilize earlier,1
+87,TF,If early Buddhism had not spread along Silk Road routes; East Asian religious patterns would have remained identical.,b,False,False,b,False,1
+88,MCQ,If the Qin Dynasty had preserved its legalist reforms but avoided harsh rule; what is the most plausible outcome?,a,Qin rule lasts significantly longer,A,a,Qin rule lasts significantly longer,1
+89,TF,If the Sumerians had never invented the wheel; early urban logistics would have progressed at the same rate.,b,False,False,b,False,1
+90,MCQ,If the Roman Empire had fully conquered Germania; which long-term consequence is most plausible?,a,Germanic tribal identities weaken; delaying medieval kingdoms,A,a,Germanic tribal identities weaken; delaying medieval kingdoms,1
+91,TF,If the Shang Dynasty had adopted a more centralized bureaucracy; Zhou conquest would still have occurred.,a,True,False,b,False,0
+92,MCQ,If the Etruscans had established a Mediterranean naval empire; what is the most plausible outcome?,a,Greek colonial expansion is slowed,A,a,Greek colonial expansion is slowed,1
+93,TF,If the Chola Empire had continued maritime dominance into the 13th century; Southeast Asian politics would be unchanged.,b,False,False,b,False,1
+94,MCQ,If the Amorites had not taken over Babylon; which outcome is most plausible?,a,Hammurabi’s legal reforms never arise,A,a,Hammurabi’s legal reforms never arise,1
+95,TF,If ancient Persia had not built the Royal Road; administrative cohesion across the empire would remain unchanged.,b,False,False,b,False,1
+96,MCQ,If the Nabataeans had industrialized desert water management earlier; what becomes most plausible?,a,Nabataean urban centers rival Roman cities,A,a,Nabataean urban centers rival Roman cities,1
+97,TF,If the Seleucid Empire had managed to retain control over its eastern territories; its decline would have happened on the same timeline.,b,False,False,b,False,1
+98,MCQ,If the Philistine confederation had unified into a stronger kingdom; which outcome is most plausible?,a,Israelite expansion slows significantly,A,a,Israelite expansion slows significantly,1
+99,TF,If ancient Chinese states had not adopted iron tools; agricultural productivity would have been unchanged.,b,False,False,b,False,1
+100,MCQ,If the Armenian Kingdom of Cilicia had survived longer; which effect is most plausible?,a,Crusader states receive stronger regional support,A,a,Crusader states receive stronger regional support,1
+101,TF,If ancient Korean kingdoms had not adopted Chinese writing; political centralization would still have occurred the same way.,b,False,False,b,False,1
+102,MCQ,If Carthage had permanently controlled Sicily; which outcome becomes most plausible?,a,Roman naval development slows significantly,A,a,Roman naval development slows significantly,1
+103,TF,If the Maurya Empire had not collapsed; Hellenistic influence on India would have remained unchanged.,b,False,False,b,False,1
+104,MCQ,If the early Islamic Caliphates had adopted federal forms of governance; which result is most plausible?,a,Internal revolts decrease significantly,A,a,Internal revolts decrease significantly,1
+105,TF,If the early Slavic tribes had urbanized sooner; Eastern European medieval development would have been identical.,b,False,False,b,False,1
+106,MCQ,If the Song Dynasty had not developed advanced naval technologies; which outcome becomes most plausible?,a,China loses influence over Southeast Asian trade,A,a,China loses influence over Southeast Asian trade,1
+107,TF,If ancient India had not formalized the concept of zero; mathematical development worldwide would be unchanged.,b,False,False,b,False,1
+108,MCQ,If the Mamluks had lost the Battle of Ain Jalut (1260); which development is most plausible?,a,The Mongols expand into North Africa,A,a,The Mongols expand into North Africa,1
+109,TF,If ancient Greece had never adopted the Phoenician alphabet; Greek culture would have spread the same way.,b,False,False,b,False,1
+110,MCQ,If the Kingdom of Ghana had expanded further into the Sahara; which long-term consequence is most plausible?,a,Trans-Saharan trade becomes West Africa–dominated,A,a,Trans-Saharan trade becomes West Africa–dominated,1
+111,TF,If the Romans had not adopted Greek philosophical traditions; Roman intellectual culture would be unchanged.,b,False,False,b,False,1
+112,MCQ,If ancient Japan had developed a unified bureaucratic state before 600 CE; what becomes most plausible?,a,Japan centralizes earlier and expands regionally,A,a,Japan centralizes earlier and expands regionally,1
+113,TF,If the Hellenistic kingdoms had formed a unified alliance after Alexander's death; Roman expansion would still have occurred at the same pace.,b,False,False,b,False,1
+114,MCQ,If the ancient Celts had developed written administrative systems; which outcome is most plausible?,a,Celtic states resist Roman conquest more effectively,A,a,Celtic states resist Roman conquest more effectively,1
+115,TF,If early Islam had not expanded into Persia; the region's later religious developments would be identical.,b,False,False,b,False,1
+116,MCQ,If Byzantium had reconquered Italy permanently in the 6th century; what is the most plausible outcome?,a,The Papacy becomes politically subordinate to Constantinople,A,a,The Papacy becomes politically subordinate to Constantinople,1
+117,TF,If ancient Arabia had not domesticated the camel; Arabian trade networks would be unchanged.,b,False,False,b,False,1
+118,MCQ,If the Mauryan Empire had expanded deeper into Central Asia; which outcome becomes most plausible?,a,Indo-Greek kingdoms never arise,A,a,Indo-Greek kingdoms never arise,1
+119,TF,If the early Persian empires had not adopted Aramaic as an administrative language; imperial governance would have functioned identically.,b,False,False,b,False,1
+120,MCQ,If the Kushan Empire had expanded further into India; which long-term outcome is most plausible?,a,Central Asian cultural influence spreads deeper into India,A,a,Central Asian cultural influence spreads deeper into India,1
+121,MCQ,If the Late Bronze Age collapse never occurred; which long-term global impact becomes most plausible?,a,Iron adoption spreads more slowly across Eurasia,A,a,Iron adoption spreads more slowly across Eurasia,1
+122,TF,If the Vikings never began their North Atlantic voyages; European state formation would have proceeded identically.,b,False,False,b,False,1
+123,MCQ,If the Khmer Empire had developed advanced hydraulic engineering a century earlier; which consequence is most plausible?,a,Angkor remains a megacity for several more centuries,A,a,Angkor remains a megacity for several more centuries,1
+124,TF,If the Gupta Empire had survived into the 9th century; North India’s political fragmentation would still have occurred the same way.,b,False,False,b,False,1
+125,MCQ,If the Mongols had never adopted composite bows; which outcome is most plausible?,a,Mongol westward expansion weakens significantly,A,a,Mongol westward expansion weakens significantly,1
+126,TF,If the Byzantine Empire had successfully repelled the Seljuk Turks at Manzikert; the Ottoman Empire would still emerge on the same timeline.,b,False,False,b,False,1
+127,MCQ,If the Abbasid Caliphate had industrialized papermaking a century earlier; which subtle long-term effect is most plausible?,a,Scientific output increases noticeably across the Islamic world,A,a,Scientific output increases noticeably across the Islamic world,1
+128,TF,If the Mali Empire had prioritized naval exploration on the Atlantic coast; West African global influence would have remained unchanged.,b,False,False,b,False,1
+129,MCQ,If the Tang Dynasty had successfully subdued Tibet permanently; which long-term change is most plausible?,a,Central Asian trade routes become more China-centered,A,a,Central Asian trade routes become more China-centered,1
+130,TF,If the Polynesians had not developed long-distance ocean navigation; Pacific settlement patterns would be identical.,b,False,False,b,False,1
+131,MCQ,If the Crusader States had unified under a single monarchy in the 12th century; which outcome becomes most plausible?,a,They resist Muslim reconquest longer due to administrative cohesion,A,a,They resist Muslim reconquest longer due to administrative cohesion,1
+132,TF,If the Aztec Empire had adopted wheel-based transport for ritual use; its military logistics would have been unaffected.,a,True,True,a,True,1
+133,MCQ,If the Inca had developed a full writing system earlier; which consequence becomes most plausible?,a,Administrative control tightens; slowing internal rebellions,A,a,Administrative control tightens; slowing internal rebellions,1
+134,TF,If the Yuan Dynasty had successfully maintained administrative unity after Kublai Khan; China’s political fragmentation would still occur on the same timetable.,b,False,False,b,False,1
+135,MCQ,If the Ming Dynasty had fully institutionalized Zheng He's voyages; which subtle but far-reaching change is most plausible?,a,Indian Ocean trade norms become Sinicized,A,a,Indian Ocean trade norms become Sinicized,1
+136,TF,If the Ottoman Empire had never adopted gunpowder weapons; its conquests would have proceeded identically.,b,False,False,b,False,1
+137,MCQ,If the Safavid Empire had conquered the Arabian Peninsula; which long-term outcome is most plausible?,a,Shia influence expands across Indian Ocean trade networks,A,a,Shia influence expands across Indian Ocean trade networks,1
+138,TF,If the Mughal Empire had adopted steam technology in the 17th century; global colonial dynamics would remain identical.,b,False,False,b,False,1
+139,MCQ,If the Dutch had fully monopolized the Indian Ocean spice trade; which subtle systemic consequence is most plausible?,a,European price shocks reshape global economic patterns,A,a,European price shocks reshape global economic patterns,1
+140,TF,If Tokugawa Japan had legalized large-scale foreign trade in 1650; its cultural evolution would have remained identical.,b,False,False,b,False,1
+141,MCQ,If the Qing Dynasty had not restricted maritime trade; which outcome becomes most plausible?,a,Coastal merchant classes gain disproportionate political power,A,a,Coastal merchant classes gain disproportionate political power,1
+142,TF,If the Ashanti Empire never militarized its gold trade; West African state development would be the same.,b,False,False,b,False,1
+143,MCQ,If the Zulu Kingdom had adopted firearms before the Mfecane; which outcome is most plausible?,a,Regional displacement becomes even more extreme,A,a,Regional displacement becomes even more extreme,1
+144,TF,If the Abbasids had preserved the knowledge of Greek fire; Mediterranean naval power would remain unchanged.,b,False,False,b,False,1
+145,MCQ,If the Norse Greenland colony had adopted agriculture sustainably; which counterintuitive outcome is most plausible?,a,Greenland becomes a long-term hub of North Atlantic trade,A,a,Greenland becomes a long-term hub of North Atlantic trade,1
+146,TF,If ancient Egypt had industrialized chariot warfare centuries earlier; Near Eastern military evolution would be the same.,b,False,False,b,False,1
+147,MCQ,If the Roman Empire had fully eliminated the slave economy by the 1st century CE; which long-term effect is most plausible?,a,Urban wage labor emerges earlier; altering Roman social hierarchy,A,a,Urban wage labor emerges earlier; altering Roman social hierarchy,1
+148,TF,If Olmec civilization had developed metallurgy earlier; Mesoamerican development would remain identical.,b,False,False,b,False,1
+149,MCQ,If the Eastern Roman Empire had adopted feudalism; which subtle systemic change becomes most plausible?,a,Local aristocrats gain autonomy; weakening imperial centralization,A,a,Local aristocrats gain autonomy; weakening imperial centralization,1
+150,TF,If the Hittites had industrialized iron production two centuries earlier; surrounding civilizations would remain unaffected.,b,False,False,b,False,1
+151,MCQ,If ancient Persia had centralized tax collection earlier; which outcome is most plausible?,a,Provincial revolts decrease long-term,A,a,Provincial revolts decrease long-term,1
+152,TF,If the Han Dynasty had completely avoided court eunuch influence; imperial stability would be unchanged.,b,False,False,b,False,1
+153,MCQ,If the Mauryan Empire had banned religious tolerance under Ashoka; which counterintuitive effect becomes plausible?,d,Buddhism spreads more *slowly* worldwide,D,d,Buddhism spreads more *slowly* worldwide,1
+154,TF,If ancient Greece had never colonized the Mediterranean; the rise of Rome would have been identical.,b,False,False,b,False,1
+155,MCQ,If Carthage had adopted mass infantry armies; which outcome is most plausible?,a,Rome faces a more balanced military opponent,A,a,Rome faces a more balanced military opponent,1
+156,TF,If ancient Mesopotamian city-states had unified earlier; their technological development would remain identical.,b,False,False,b,False,1
+157,MCQ,If the Phoenicians had colonized West Africa; which subtle but far-reaching shift is most plausible?,a,Mediterranean trade networks integrate Sub-Saharan nodes earlier,A,a,Mediterranean trade networks integrate Sub-Saharan nodes earlier,1
+158,TF,If the Celts had adopted iron currency systems; their internal economic networks would be unchanged.,b,False,False,b,False,1
+159,MCQ,If the Indus Valley Civilization had survived climatic shifts through water-engineering innovations; which long-term effect is most plausible?,b,Urban continuity shapes later South Asian state formation,B,b,Urban continuity shapes later South Asian state formation,1
+160,TF,If the Mayans had abandoned dynastic politics earlier; their regional collapse would have occurred at the same pace.,a,True,False,b,False,0
