@@ -1,0 +1,201 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Early contact between the Hittites and the Mycenaeans influenced the exchange of chariot-warfare techniques.,a,True,True,a,True,1
+2,MCQ,Which interaction introduced Lapita pottery motifs into remote Pacific island societies?,b,Inter-island voyaging,B,b,Inter-island voyaging,1
+3,TF,Phoenician settlers in North Africa exchanged agricultural knowledge with early Berber communities.,a,True,True,a,True,1
+4,MCQ,Which interaction carried tin from Central Europe into Bronze Age Anatolia?,b,Overland trade corridors,B,b,Overland trade corridors,1
+5,TF,The Nok culture’s early ironworking may have diffused through contact with migrating West African groups.,a,True,True,a,True,1
+6,MCQ,Which interaction helped spread domesticated camel use into Arabia?,c,North African trade routes,B,b,Central Asian migrations,0
+7,TF,The Olmec influence on early Zapotec ceremonial architecture arose partly from regional trade contact.,a,True,True,a,True,1
+8,MCQ,Which interaction allowed amber from the Baltic to reach Mediterranean artisans?,b,The Amber Road trade network,B,b,The Amber Road trade network,1
+9,TF,Indus Valley traders may have influenced Mesopotamian weight and measure systems through maritime exchanges.,a,True,True,a,True,1
+10,MCQ,Which interaction introduced early bronze metallurgy into the Korean Peninsula?,b,Steppe nomad migrations,A,a,Han Chinese frontier warfare,0
+11,TF,Early contact between the Minoans and Egyptians contributed to shared artistic iconography.,a,True,True,a,True,1
+12,MCQ,Which interaction carried cinnamon-like spices from Southeast Asia toward ancient East Africa?,d,Arabian monsoon trade,D,d,Arabian monsoon trade,1
+13,TF,Early Slavic tribes adopted aspects of Byzantine religion and architecture through prolonged contact.,a,True,True,a,True,1
+14,MCQ,Which interaction brought early citrus cultivation into Persia?,b,South Asian trade links,B,b,South Asian trade links,1
+15,TF,The transmission of the lute-like oud instrument into Europe began partly through Andalusi musical contact.,a,True,True,a,True,1
+16,MCQ,Which interaction introduced Hellenistic astronomy into the Kushan Empire?,b,Silk Road scholar travel,B,b,Silk Road scholar travel,1
+17,TF,The expansion of Polynesian voyagers spread shared canoe-building techniques across distant islands.,a,True,True,a,True,1
+18,MCQ,Which interaction moved jade ornaments from Neolithic China toward Southeast Asia?,b,River and land trade circuits,B,b,River and land trade circuits,1
+19,TF,Sarmatian horse-archer tactics influenced Roman auxiliary forces through prolonged frontier contact.,a,True,True,a,True,1
+20,MCQ,Which interaction helped transmit early pastoralist culture into the Tibetan Plateau?,a,Steppe migrations,A,a,Steppe migrations,1
+21,TF,Early Aegean contact with Anatolia shaped metallurgical styles across both regions.,a,True,True,a,True,1
+22,MCQ,Which interaction introduced domesticated wheat varieties into Neolithic Europe?,d,Mesopotamian migration waves,D,d,Mesopotamian migration waves,1
+23,TF,Phoenician merchant colonies helped transmit Near Eastern religious symbols into western Mediterranean societies.,a,True,True,a,True,1
+24,MCQ,Which interaction moved domesticated sheep from the Zagros region into the Caucasus?,d,Local migration corridors,D,d,Local migration corridors,1
+25,TF,The Scythians influenced Greek decorative metalwork through Black Sea commercial exchanges.,a,True,True,a,True,1
+26,MCQ,Which interaction transmitted obsidian from Anatolia into Neolithic Balkans?,b,Regional land trading,B,b,Regional land trading,1
+27,TF,The spread of the Brahmi script into Sri Lanka resulted partly from cultural and religious contact.,a,True,True,a,True,1
+28,MCQ,Which interaction helped carry early Austroasiatic languages into mainland Southeast Asia?,b,Overland tribal migrations,B,b,Overland tribal migrations,1
+29,TF,Celts in the Iberian Peninsula adopted some Phoenician metallurgical techniques through coastal contact.,a,True,True,a,True,1
+30,MCQ,Which interaction introduced domesticated millet strains from northern China to the Korean Peninsula?,d,River-based frontier trade,D,d,River-based frontier trade,1
+31,TF,Early Arab contact with East African inland groups encouraged hybrid architectural forms.,a,True,True,a,True,1
+32,MCQ,Which interaction brought horses into Bronze Age China?,b,Steppe nomad contact,B,b,Steppe nomad contact,1
+33,TF,The movement of Arawak-speaking peoples helped spread agricultural techniques across the Caribbean.,a,True,True,a,True,1
+34,MCQ,Which interaction moved Central Asian turquoise into early Persian workshops?,b,Overland Silk Road routes,B,b,Overland Silk Road routes,1
+35,TF,Early Nubian contact with Central Sudanese communities influenced pottery style development.,a,True,True,a,True,1
+36,MCQ,Which interaction diffused Southeast Asian banana cultivation into Madagascar?,d,Austronesian migration by sea,D,d,Austronesian migration by sea,1
+37,TF,The spread of early Semitic scripts across the Levant was accelerated by interregional exchange networks.,a,True,True,a,True,1
+38,MCQ,Which interaction introduced early Andean metal alloys into neighboring highland cultures?,b,Overland mountain trade,B,b,Overland mountain trade,1
+39,TF,Early interactions between the Guanche of the Canary Islands and North African sailors may have exchanged navigational knowledge.,a,True,True,a,True,1
+40,MCQ,Which interaction helped spread bronze-casting techniques from the Eurasian steppe into Eastern Europe?,c,Nomadic migrations,C,c,Nomadic migrations,1
+41,TF,Greek and Phoenician contact in the Iron Age sometimes resulted in shared harbor-engineering methods rather than simple trade imitation.,a,True,True,a,True,1
+42,MCQ,Which interaction most plausibly led to Persian irrigation innovations being adapted unevenly across early Islamic territories?,a,Caravan-based scholarly travel,A,a,Caravan-based scholarly travel,1
+43,TF,Chinese silk reached the Mediterranean partly because intermediary cultures modified trade networks to suit local political pressures.,a,True,True,a,True,1
+44,MCQ,Which interaction best explains the diffusion of Islamic legal scholars into the Mali Empire?,b,Seasonal trans-Saharan caravans,B,b,Seasonal trans-Saharan caravans,1
+45,TF,Indian numerals entered European scholarly traditions partly through Arabic translations circulating in North Africa and Iberia.,a,True,True,a,True,1
+46,MCQ,Which pathway allowed Greek medical writings to reach Western Europe before the Renaissance?,a,Byzantine–Islamic translation circles,A,a,Byzantine–Islamic translation circles,1
+47,TF,Spanish–Inca encounters produced environmental disruptions that also facilitated agricultural exchange between the groups.,a,True,True,a,True,1
+48,MCQ,Which interaction most credibly transmitted Buddhist monastic customs into early Chinese communities?,c,Caravan-borne merchant networks,C,c,Caravan-borne merchant networks,1
+49,TF,The Viking presence along Eastern European rivers indirectly influenced political structures through their commercial station settlements.,a,True,True,a,True,1
+50,MCQ,Which mechanism best carried West African gold into European minting centers?,c,North African caravan caravans,C,c,North African caravan caravans,1
+51,TF,Cultural contact during the Crusades provided Europeans with unfamiliar scientific texts that later shaped medieval universities.,a,True,True,a,True,1
+52,MCQ,Which interaction best explains how papermaking diffused from Central Asia into Islamic scholarly hubs?,b,Military capture of artisans,B,b,Military capture of artisans,1
+53,TF,Mongol rule; despite its destructiveness; facilitated the circulation of craft specialists across Eurasia.,a,True,True,a,True,1
+54,MCQ,Which dynamic most directly moved Islamic astronomical tables into Christian Spain?,a,Berber migration into Iberia,A,a,Berber migration into Iberia,1
+55,TF,The southward movement of Bantu peoples reshaped agricultural zones through gradual crop-mix diffusion.,a,True,True,a,True,1
+56,MCQ,Which contact scenario most plausibly links Dutch navigators with Aboriginal communities?,c,Indian Ocean exploratory voyages,C,c,Indian Ocean exploratory voyages,1
+57,TF,Ottoman involvement in eastern Mediterranean trade allowed Europeans indirect access to luxury manufactures they could not produce locally.,a,True,True,a,True,1
+58,MCQ,Which exchange pathway best accounts for the spread of Arabic mathematical concepts across North Africa?,b,Desert-route trade,B,b,Desert-route trade,1
+59,TF,Polynesian seafarers shared star-navigation heuristics that later appeared in distant island traditions with only slight variations.,a,True,True,a,True,1
+60,MCQ,Which interaction introduced early firearms technology into Japanese domains most efficiently?,a,Portuguese shipborne trade,A,a,Portuguese shipborne trade,1
+61,TF,The diffusion of maize northward from Mesoamerica relied partly on migratory groups who also adopted new subsistence routines.,a,True,True,a,True,1
+62,MCQ,Which interaction most realistically carried Roman glass into the Indian Ocean region?,a,Indian Ocean monsoon trading,A,a,Indian Ocean monsoon trading,1
+63,TF,The Jewish diaspora contributed to Mediterranean commercial webs by linking separate cultural zones through multilingual trade.,a,True,True,a,True,1
+64,MCQ,Which mechanism spread horses through Plains societies of North America?,a,Spanish colonial contacts,A,a,Spanish colonial contacts,1
+65,TF,The Silk Road periodically carried Persian gem-carving aesthetics eastward; influencing Chinese artisanship in subtle ways.,a,True,True,a,True,1
+66,MCQ,Which process moved Roman architectural practices most firmly into early Britain?,a,Long-term colonial governance,A,a,Long-term colonial governance,1
+67,TF,Phoenician expansion in the western Mediterranean promoted alphabetic borrowing across competing coastal societies.,a,True,True,a,True,1
+68,MCQ,Which maritime interaction connected Arabian and Indian merchants with emerging Swahili port towns?,b,Indian Ocean commercial circuits,B,b,Indian Ocean commercial circuits,1
+69,TF,Russian movement into Siberia created cultural exchanges with indigenous groups that influenced fur-trade governance systems.,a,True,True,a,True,1
+70,MCQ,Which interaction most directly helped papermaking enter Islamic intellectual centers?,a,Captured Chinese artisans during frontier battles,A,a,Captured Chinese artisans during frontier battles,1
+71,TF,The Columbian Exchange unexpectedly reshaped European health and population trends by introducing calorie-dense crops like potatoes.,a,True,True,a,True,1
+72,MCQ,Which interaction transmitted Christianity into the Aksumite Kingdom at a formative stage?,a,Trade with Roman-era merchants,A,a,Trade with Roman-era merchants,1
+73,TF,Celtic societies diffused artistic motifs through migration chains that stretched from Central Europe toward the Atlantic coast.,a,True,True,a,True,1
+74,MCQ,Which interaction delivered Chinese porcelain into Italian workshops during the Renaissance?,a,Ottoman–European trade mediation,A,a,Ottoman–European trade mediation,1
+75,TF,The Ottoman presence in southeastern Europe transmitted medical; artistic; and culinary ideas into regional traditions.,a,True,True,a,True,1
+76,MCQ,Which process spread sugar-plantation techniques into Caribbean colonies?,a,European colonial restructuring,A,a,European colonial restructuring,1
+77,TF,Indian religious and artistic themes penetrated the Khmer region through long-term maritime and mercantile interaction.,a,True,True,a,True,1
+78,MCQ,Which route most effectively transmitted Arabic numerals to medieval European scholars?,a,Iberian Muslim intellectual centers,A,a,Iberian Muslim intellectual centers,1
+79,TF,Phoenician traders transported bronze implements that influenced metallurgical styles throughout the Mediterranean basin.,a,True,True,a,True,1
+80,MCQ,Which trade system most plausibly introduced Indian spices into Roman culinary culture?,b,Indian Ocean monsoon routes,B,b,Indian Ocean monsoon routes,1
+81,MCQ,A commonly cited link between Culture A and Culture B states technology X moved by 'merchants' — but archaeological layers show X predates recorded trade; which is the best single inference?,d,Prestige borrowing from a third; lost intermediary,C,c,Earlier unrecorded migrations carried X,0
+82,TF,Text fragments refer to an ambiguous 'royal envoy'—most historians treat it as diplomatic; but the only surviving tablet is fragmentary; should we classify the contact as diplomatic?,b,False,False,b,False,1
+83,MCQ,Which explanation best fits scattered obsidian flakes found outside known trade routes assuming no direct provenance test exists?,b,Ritual deposit without trade implication,D,d,Unrecognized small-scale exchange network,0
+84,TF,An inscription uses a term translated inconsistently as either 'merchant' or 'craftsman'—should we treat the passage as evidence of long-distance commerce?,b,False,False,b,False,1
+85,MCQ,A map fragment without scale shows coastal marks aligning with two different eras; which dating method gives the most reliable single answer if radiocarbon is unavailable?,b,Stratigraphic association at findspot,B,b,Stratigraphic association at findspot,1
+86,TF,A late antique text claims 'silk came via envoys'—given later trade records contradict this; is the text a reliable trade source?,b,False,False,b,False,1
+87,MCQ,Which hypothesis best accounts for artifact Y appearing in two otherwise unconnected regions when direct dating yields overlapping ranges?,d,Post-depositional mixture at recovery site,B,b,Single-origin spread through intermediaries,0
+88,TF,A scholar interprets icon Z as religious syncretism; the motif also appears on mundane pottery—does that support syncretism?,b,False,False,b,False,1
+89,MCQ,Which single line of evidence most credibly demonstrates sustained contact (not sporadic) between two small polities when historical records are silent?,b,Shared standardized weights across many sites,B,b,Shared standardized weights across many sites,1
+90,TF,A coastal settlement shows sudden agricultural change contemporaneous with an ambiguous 'foreign arrival' layer—should we attribute the agricultural change to the arrival?,b,False,False,b,False,1
+91,MCQ,Which interpretation of an unprovenanced alloy sample minimizes unwarranted assumptions when provenance testing is unavailable?,b,Treat it as indeterminate and avoid strong claims,B,b,Treat it as indeterminate and avoid strong claims,1
+92,TF,A set of parallel myth fragments across two islands are similar—but scholars disagree whether they indicate contact or shared ancestry; is shared ancestry the default explanation?,b,False,False,b,False,1
+93,MCQ,When ceramics show identical kiln marks in two regions but differing clay sources; the most cautious conclusion is:,b,A recipe/technique transmission without clay transfer,B,b,A recipe/technique transmission without clay transfer,1
+94,TF,A single literary account asserts a plant species was 'introduced' by foreigners; absent botanical evidence; is this assertion sufficient?,b,False,False,b,False,1
+95,MCQ,Which single dataset most resists reinterpretation when claiming a migration event: a grave assemblage seeming foreign; a temporary pottery style; pollen shifts; or a sudden isotopic change in human remains?,d,Isotopic change in human remains,D,d,Isotopic change in human remains,1
+96,TF,A multilingual inscription contains a loanword whose origin is contested; is linguistic form alone sufficient to map the direction of influence?,b,False,False,b,False,1
+97,MCQ,Which scenario best explains identical agricultural terraces found in disconnected valleys absent shared elite control?,a,Independent problem-solving convergence,B,b,Small-scale farmer-to-farmer knowledge exchange,0
+98,TF,A later historian attributes a city’s ceramic shift to conquest; stratigraphic evidence shows continuity—should we accept the historian’s conquest explanation?,b,False,False,b,False,1
+99,MCQ,When two regions share a rare burial rite but show no other contacts; the most defensible working hypothesis is:,c,Lossy copying from an earlier widespread practice,B,b,Independent ritual evolution,0
+100,TF,A supposed 'trade road' is inferred from a line of isolated way-stations with no clear cargo remains—does that pattern prove a trade corridor?,b,False,False,b,False,1
+101,MCQ,Which single methodological approach most reduces false positives when inferring contact from material culture similarities?,b,Combining provenance science; stratigraphy; and context,B,b,Combining provenance science; stratigraphy; and context,1
+102,TF,A famous saga mentions 'foreign smiths' but archaeological smithing debris is indistinct; can the saga alone establish a migration of smiths?,b,False,False,b,False,1
+103,MCQ,If isotopic signatures in a cemetery show mixed diets and origins; which interpretation is least speculative?,b,High individual mobility with local continuity,B,b,High individual mobility with local continuity,1
+104,TF,A coastal wreck contains artifacts from three regions; without manifest or provenance; is it valid to assert a direct trade link between all three regions?,b,False,False,b,False,1
+105,MCQ,Which single line of circumstantial evidence most reliably implies sustained artisan migration rather than sporadic item exchange?,a,Multiple sites with identical workshop layouts,A,a,Multiple sites with identical workshop layouts,1
+106,TF,An ancient ledger lists amounts without place-names and is used to argue for a regional market—does ambiguity in place designation undermine that conclusion?,a,True,True,a,True,1
+107,MCQ,Which hypothesis best handles the find of a luxury good in a low-status context?,d,All of the above are plausible and require context,D,d,All of the above are plausible and require context,1
+108,TF,A set of oral histories claim a monumental building was built by 'outsiders' — geological survey dates it earlier than the oral tradition; do the oral histories invalidate the geological date?,b,False,False,b,False,1
+109,MCQ,Which approach is most defensible when a single rare marker trait appears across fragmented contexts?,b,Consider it a coincidental adoption unless supported by multiple markers,B,b,Consider it a coincidental adoption unless supported by multiple markers,1
+110,TF,An outwardly 'foreign' inscription is found carved into local stonework; without known bilingual parallels; should it be used to assert direct literacy transfer?,b,False,False,b,False,1
+111,MCQ,Which single factor most undermines a claim that a coastal site's sudden wealth influx was driven by interregional trade?,a,Concurrent regional political collapse funneling wealth,A,a,Concurrent regional political collapse funneling wealth,1
+112,TF,An architectural style appears abruptly in the archaeological record and is later copied widely—does abrupt appearance alone prove foreign introduction?,b,False,False,b,False,1
+113,MCQ,Which single piece of evidence best distinguishes active cultural borrowing from passive imitation?,c,Presence of foreign-born practitioners identified isotopically,C,c,Presence of foreign-born practitioners identified isotopically,1
+114,TF,A string of similar subterranean features is interpreted as evidence for a ritual network; if no artifacts or dates confirm ritual use; should that interpretation be treated as tentative?,a,True,True,a,True,1
+115,MCQ,Which single dataset would most directly falsify a theory of overseas introduction of a crop?,a,Continuous local phytolith signatures predating supposed introduction,A,a,Continuous local phytolith signatures predating supposed introduction,1
+116,TF,A late antique lexicon lists foreign loanwords borrowed centuries earlier—does their presence in the lexicon prove the timing of borrowing?,b,False,False,b,False,1
+117,MCQ,Which interpretive stance best reduces the chance of overclaiming contact from sparse evidence?,b,Favor conservative; multiple-line corroboration before asserting contact,B,b,Favor conservative; multiple-line corroboration before asserting contact,1
+118,TF,A coin hoard contains foreign coin types mixed with local imitations—does the hoard alone settle the question of direct trade?,b,False,False,b,False,1
+119,MCQ,Which single methodological check most reduces the risk that a supposed foreign artifact is actually intrusive contamination?,a,Re-excavation and independent stratigraphic re-evaluation,A,a,Re-excavation and independent stratigraphic re-evaluation,1
+120,TF,A widely cited passage states that 'Culture X learned weaving from Culture Y' but the passage lacks context and may be rhetorical; should modern summaries present that as established fact?,b,False,False,b,False,1
+121,MCQ,Archaeologists found identical spindle whorls in two regions with no confirmed trade routes; which explanation is least unjustified yet still technically possible?,d,Misclassification due to typological convergence,B,b,A short-lived micro-network that left no archaeological footprint,0
+122,TF,A tablet referencing a 'northern people' may indicate trade; migration; or myth—should scholars treat it as evidence of contact?,b,False,True,a,True,0
+123,MCQ,If two pottery traditions share rare geometric designs but differ chemically; which inference is least hazardous yet still ambiguous?,a,Shared symbolic logic without direct contact,A,a,Shared symbolic logic without direct contact,1
+124,TF,An ambiguous coastal deposit contains mixed artifacts from three centuries—should this be interpreted as continuous occupation?,b,False,False,b,False,1
+125,MCQ,Which scenario best explains matching architectural floor plans in distant regions despite no documented links?,d,Post-hoc architectural reconstruction distortions,A,a,Independent functional convergence,0
+126,TF,A chronicle vaguely mentions 'borrowed rites' but provides no context—are these usable as evidence for ritual transmission?,b,False,False,b,False,1
+127,MCQ,Which explanation is most minimally assumptive when identical bead patterns appear in unconnected island groups?,a,Coincidental convergent aesthetics,A,a,Coincidental convergent aesthetics,1
+128,TF,An inscription with hybrid grammar appears in a region with no known bilingual population—should this be treated as proof of mixing?,b,False,False,b,False,1
+129,MCQ,Which interpretation demands the least speculative chain when two distant burial styles match almost precisely?,d,Random convergence shaped by universal constraints,D,d,Random convergence shaped by universal constraints,1
+130,TF,If a text fragment names a foreign city but the context is lost; should that be read as evidence of physical travel?,b,False,False,b,False,1
+131,MCQ,Two unrelated languages share a rare grammatical particle; which explanation is least prone to overreach?,c,Coincidental morphological development,C,c,Coincidental morphological development,1
+132,TF,A document refers to 'borrowed iron methods' but archaeological ironworking appears identical locally for centuries—should the reference be taken literally?,b,False,False,b,False,1
+133,MCQ,Which explanation requires the fewest historical assumptions when matching loom weights appear thousands of miles apart?,a,Functional convergence under similar weaving pressures,A,a,Functional convergence under similar weaving pressures,1
+134,TF,A treaty mentions 'shared boundaries' though geography contradicts it—should the claim be accepted at face value?,b,False,False,b,False,1
+135,MCQ,Which model fits ambiguous radiocarbon data from overlapping cultural layers that could indicate either trade or cohabitation?,d,Sampling bias producing artificial overlap,C,c,Cultural entanglement but with minimal direct exchange,0
+136,TF,If two unrelated cultures share nearly identical mythic flood narratives; is direct contact the strongest assumption?,b,False,False,b,False,1
+137,MCQ,Identical textile patterns appear in otherwise divergent cultures; which minimal assumption fits best?,a,Pattern solutions shaped by universal weaving constraints,A,a,Pattern solutions shaped by universal weaving constraints,1
+138,TF,A mislabeled excavation layer may suggest foreign influence—should that be considered evidence before re-evaluation?,b,False,False,b,False,1
+139,MCQ,Which explanation demands the least speculative lineage when two megalithic structures share proportions but differ in everything else?,a,Independent architectural solutions to similar stability problems,A,a,Independent architectural solutions to similar stability problems,1
+140,TF,A carved motif appears in two regions centuries apart—do identical motifs prove cultural borrowing?,b,False,False,b,False,1
+141,MCQ,Which ambiguous explanation best fits matching ritual masks found with no shared linguistic record?,a,Convergent ritual metaphors tied to universal archetypes,A,a,Convergent ritual metaphors tied to universal archetypes,1
+142,TF,A fragment referencing 'borrowed scripts' appears centuries after the scripts diverged—should it be used to claim historical borrowing?,b,False,False,b,False,1
+143,MCQ,Which scenario is the least overcommitted explanation for identical agricultural terraces appearing independently?,a,Functional response to shared topography,A,a,Functional response to shared topography,1
+144,TF,A chronicle states that 'foreigners brought cattle' but zooarchaeology shows no genetic change—should the chronicle be accepted?,b,False,False,b,False,1
+145,MCQ,Two distant cemeteries share unusual burial postures; which explanation avoids overfitting?,a,Independent ritual innovations shaped by universal beliefs,A,a,Independent ritual innovations shaped by universal beliefs,1
+146,TF,Stone tools appearing in two disconnected regions look alike but come from different raw materials—do they imply direct exchange?,b,False,False,b,False,1
+147,MCQ,Which ambiguous assumption best fits identical ceramic rim-shapes found continents apart?,a,Convergent ergonomics optimizing handling,B,b,Extreme-latency diffusion with lost intermediaries,0
+148,TF,A ritual chant resembles another culture's chant recorded centuries later—should they be assumed linked?,b,False,False,b,False,1
+149,MCQ,Which explanation makes the fewest assumptions when two cultures share an identical but extremely rare ceramic dye?,a,Independent chemical experimentation reaching similar results,A,a,Independent chemical experimentation reaching similar results,1
+150,TF,A text lists a foreign-sounding name for a tool; but linguistic analysis is undecided—does this prove borrowing?,b,False,False,b,False,1
+151,MCQ,Which hypothesis produces the lowest-confident but least incorrect explanation for mirrored trade weights in separated empires?,a,Functional convergence shaped by practical constraints,A,a,Functional convergence shaped by practical constraints,1
+152,TF,A chronicle describing 'foreign gardens' appears centuries after horticulture emerged locally—should it be trusted?,b,False,False,b,False,1
+153,MCQ,Which explanation is most defensible for identical weaving knots appearing far apart with no matching patterns?,a,A universal technical solution to stabilizing textiles,D,d,Transmission across undocumented sub-groups,0
+154,TF,A single traveler’s account claims to have seen foreign-style houses inland—does one observation establish architectural borrowing?,b,False,False,b,False,1
+155,MCQ,Which ambiguous model fits two unrelated cultures sharing similar calendar structures despite having different year-length rules?,a,Independent functional responses to agricultural cycles,B,b,Indirect borrowing mediated by unknown intellectual hubs,0
+156,TF,An artifact in a foreign style found alone in a region—does this confirm established trade?,b,False,False,b,False,1
+157,MCQ,Which scenario requires the least fragile assumptions when two cultures share near-identical cosmological diagrams?,a,Common psychological archetypes generating similar imagery,A,a,Common psychological archetypes generating similar imagery,1
+158,TF,A merchant list uses a term similar to another culture’s word—should this be treated as linguistic borrowing?,b,False,False,b,False,1
+159,MCQ,Which explanation demands the least unwarranted inference when two religions share obscure ritual gestures?,a,Archetypal gestures emerging independently,A,a,Archetypal gestures emerging independently,1
+160,TF,A late historical text claims a crop was 'brought from the west;' but palaeobotany shows local origin—should we trust the text?,b,False,False,b,False,1
+161,MCQ,Two regions share a rare textile knot technique; all explanations are plausible. Which is the least deducible yet still technically possible?,d,Reverse adoption from a smaller third culture with no surviving evidence,D,d,Reverse adoption from a smaller third culture with no surviving evidence,1
+162,MCQ,A chronicle mentions 'borrowed calendars' but archaeological calendars differ; all interpretations are defensible. Which is secretly most correct?,d,The chronicle mislabels a symbolic gesture as a calendar element,B,b,The borrowing refers to conceptual structure; not details,0
+163,MCQ,Two cultures use nearly identical irrigation layouts; each explanation is valid. Which is the least intuitive but correct?,d,Borrowing occurred but only through mythic descriptions; not actual engineering,C,c,Transmission through a now-lost ritual farming guild,0
+164,MCQ,A foreign mineral pigment appears in a site with no matching trade records; every option is plausible. Which is secretly correct?,d,The pigment was introduced through ceremonial deposit unrelated to trade,B,b,A traveler carried it as a personal object,0
+165,MCQ,Similar mythic heroes appear across unrelated groups; all interpretations could be right. Which is most counterintuitive yet correct?,d,Coincidental creation shaped by cognitive narrative biases,D,d,Coincidental creation shaped by cognitive narrative biases,1
+166,MCQ,Two burial traditions share rare symbolic carvings; each explanation is solid. Which is secretly correct?,d,Independent reinterpretation of universal archetypes,B,b,Cross-cultural transmission through liminal groups,0
+167,MCQ,A hybrid script appears far from its known homeland; all explanations could work. Which is technically possible yet least inferable?,d,The script developed independently but superficially resembles the foreign one,D,d,The script developed independently but superficially resembles the foreign one,1
+168,MCQ,Identical musical scales occur across cultures; every theory has merit. Which hidden explanation is correct?,d,Independent invention due to harmonic convergence rules,D,d,Independent invention due to harmonic convergence rules,1
+169,MCQ,Rare botanical remains appear across two regions; all ideas sound reasonable. Which is secretly the correct one?,d,Local species mimicry causing misidentification,B,b,Unintentional seed dispersal from travelers,0
+170,MCQ,Two ancient laws share identical phrasing; every option could explain it. Which is secretly the real one?,d,Coincidental phrasing arising from limited semantic structures,D,d,Coincidental phrasing arising from limited semantic structures,1
+171,MCQ,A pottery firing method appears suddenly in two areas; all theories fit. Which is most hiddenly correct?,d,Shared functional constraints yielding identical solutions,B,b,Concealed craft-mobility networks,0
+172,MCQ,Shared carved symbols appear on unrelated monuments; any explanation could be true. Which is secretly correct?,d,Randomly convergent iconographic choices,D,d,Randomly convergent iconographic choices,1
+173,MCQ,Two fishing technologies match exactly; multiple interpretations are valid. Which hidden logic is the actual answer?,d,Independent discovery due to constrained hydrodynamics,D,d,Independent discovery due to constrained hydrodynamics,1
+174,MCQ,Seemingly imported ceramics appear without matching chemical signatures; all theories are defensible. Which is secretly correct?,d,Analytical misclassification due to overlapping clay profiles,D,d,Analytical misclassification due to overlapping clay profiles,1
+175,MCQ,Two distant languages share rare poetic meter; all ideas could be right. Which is secretly correct?,d,Independent meter evolution shaped by cognitive rhythm patterns,D,d,Independent meter evolution shaped by cognitive rhythm patterns,1
+176,MCQ,A unique metallurgical recipe appears in two societies; any explanation is workable. Which hidden one is correct?,d,Shared constraints in ore composition forcing similar methods,D,d,Shared constraints in ore composition forcing similar methods,1
+177,MCQ,Two separate art schools paint identical motifs; all options are plausible. Which answer is secretly correct?,d,Imitative convergence due to similar pigments and tools,B,b,Indirect borrowing through student-traveler networks,0
+178,MCQ,Both cultures use rare drum-making techniques; all theories are valid. What is the hidden correct one?,d,Parallel innovation guided by acoustical constraints,D,d,Parallel innovation guided by acoustical constraints,1
+179,MCQ,A hybrid deity form appears in two cultures; all explanations make sense. Which is secretly correct?,d,Independent synthesis due to universal symbolic structures,D,d,Independent synthesis due to universal symbolic structures,1
+180,MCQ,A navigational trick appears in two seafaring cultures; every explanation is reasonable. Which is secretly correct?,d,Independent rediscovery enabled by shared oceanic constraints,C,c,Ancient maritime diffusion networks,0
+181,MCQ,Two unrelated cuisines use identical cooking vessels; all choices are justifiable. Which is secretly correct?,d,Accidental shape convergence based on thermal physics,D,d,Accidental shape convergence based on thermal physics,1
+182,MCQ,Both regions construct identical astronomical markers; all theories are possible. Which is secretly correct?,d,Independent alignment due to predictable celestial cycles,D,d,Independent alignment due to predictable celestial cycles,1
+183,MCQ,Two cultures share rare board-game rules; every option is good. Which is secretly correct?,d,Independent invention driven by constrained design space,B,b,Traveling merchants spreading recreational ideas,0
+184,MCQ,A carved emblem appears in opposite hemispheres; all four fit. Which is secretly correct?,d,Pure coincidence due to limited symbol-space,D,d,Pure coincidence due to limited symbol-space,1
+185,MCQ,Two regions use indistinguishable plowing systems; all explanations seem valid. Which is secretly the answer?,d,Independent engineering convergence under identical mechanical constraints,D,d,Independent engineering convergence under identical mechanical constraints,1
+186,MCQ,Similar legal punishments appear in unrelated societies; all make sense. Which is secretly correct?,d,Shared human behavioral patterns producing identical solutions,A,a,Convergent evolution based on common social problems,0
+187,MCQ,Two alphabets share rare letter forms; all four are valid. Which hidden explanation is correct?,d,Coincidental formal constraints in handwriting evolution,B,b,Cross-border script borrowing,0
+188,MCQ,Two societies independently define almost identical numerical units; all choices appear right. Which is secretly correct?,d,Independent emergence due to limited functional intervals,D,d,Independent emergence due to limited functional intervals,1
+189,MCQ,Both cultures adopt same mythic color symbolism; all four fit. Which is secretly correct?,d,Independent metaphor formation constrained by visual universals,D,d,Independent metaphor formation constrained by visual universals,1
+190,MCQ,Seemingly identical stone-carving techniques appear in two regions; all explanations could be true. Which is secretly correct?,d,Independent optimization under the same tool-material physics,B,b,Shared craftsmen along forgotten routes,0
+191,MCQ,Two societies use the same healing chants; each explanation is viable. Which hidden one is correct?,a,Universal chanting structures shaped by breath patterns,D,d,Indirect diffusion through multilingual mediators,0
+192,MCQ,Decorative spiral motifs match across continents; all theories fit. Which is secretly correct?,a,Shared intuitive geometry,A,a,Shared intuitive geometry,1
+193,MCQ,Rock alignments match celestial events in two regions; all are plausible. Which is secretly correct?,d,Chance alignment amplified by later interpretation,D,d,Chance alignment amplified by later interpretation,1
+194,MCQ,Identical food fermentation appears globally; all four are valid. Which hidden explanation is correct?,a,Biochemical limits produce similar solutions,A,a,Biochemical limits produce similar solutions,1
+195,MCQ,Two unrelated groups build acoustically perfect chambers; every option works. Which is secretly correct?,d,Accidental resonance discovered independently,D,d,Accidental resonance discovered independently,1
+196,MCQ,Both systems adopt identical medicinal herbs; all explanations are consistent. Which is secretly the real answer?,d,Convergence because only a few herbs have specific compounds,D,d,Convergence because only a few herbs have specific compounds,1
+197,MCQ,Two unrelated myth cycles share a nearly identical ritual ending; all four can be argued. Which is secretly correct?,d,Ritual convergence due to universal narrative resolutions,C,c,Inheritance from deep pre-cultural mythology,0
+198,MCQ,Both societies develop identical irrigation gates; all explanations fit. Which hidden logic is correct?,a,Mechanical convergence under hydraulic constraints,A,a,Mechanical convergence under hydraulic constraints,1
+199,MCQ,Nearly identical ceremonial staffs appear across non-contact cultures; every answer is plausible. Which is secretly correct?,d,Independent emergence constrained by material practicality,D,d,Independent emergence constrained by material practicality,1
+200,MCQ,Two regions have matching astronomical myths; each explanation is sound. Which is secretly the true one?,a,Psychological pattern-recognition leading to identical myth motifs,D,d,Indirect diffusion through multilingual border groups,0

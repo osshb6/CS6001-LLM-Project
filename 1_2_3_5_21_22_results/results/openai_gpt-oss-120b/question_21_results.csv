@@ -1,0 +1,501 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,The Great Hanshin Earthquake occurred before the China Airlines Flight 611 and after the SilkAir Flight 185.,b,False,False,b,False,1
+2,TF,The ANZUS Treaty Suspension occurred before the Vietnam Joins ASEAN and after the Execution of Barlow and Chambers.,a,True,True,a,True,1
+3,TF,The China Hosts the Olympic Games occurred before the Grenfell Tower Fire and after the Hurricane Sandy.,b,False,False,b,False,1
+4,TF,The Fall of Blaise Compaoré occurred before the Protests Against Corruption and Unemployment and after the Hurricane Sandy.,a,True,True,a,True,1
+5,TF,The Independence from Britain occurred before the Emergency Declared by Indira Gandhi and after the Creation of the Canadian Flag.,b,False,False,b,False,1
+6,TF,The Green Movement occurred before the Emperor Akihito's Abdication and after the Austerity Measures During Crisis.,b,False,True,a,True,0
+7,TF,The Formation of Federation of Malaya occurred before the April Revolution and after the Independence from British Rule.,b,False,False,b,False,1
+8,TF,The Battle of Singapore occurred before the Signing of the ANZUS Treaty and after the Internment of Japanese Canadians.,a,True,False,b,False,0
+9,TF,The Finnish Civil War occurred before the Discovery of Penicillin and after the Jallianwala Bagh Massacre.,b,False,False,b,False,1
+10,TF,The Saudi Recognition of Pakistan occurred before the Newfoundland Joins Canada and after the First Indochina War Begins.,a,True,True,a,True,1
+11,TF,The Cable Car Disaster occurred before the Siachen Glacier Conflict and after the Idi Amin's Regime.,a,True,False,b,False,0
+12,TF,The UK Hosts the G8 Summit occurred before the Cyclone Idai and after the First Democratic Elections.,b,False,True,a,True,0
+13,TF,The Vietnam Joins the World Trade Organization occurred before the Panama Papers Case & Disqualification of PM Nawaz Sharif and after the Victory over Terrorism Day.,b,False,False,b,False,1
+14,TF,The New Zealand's First Female Prime Minister occurred before the Sidoarjo Mud Flow and after the Barcelona Olympics.,a,True,True,a,True,1
+15,TF,The Kandahar Hijacking (IC 814) occurred before the Tsunami Disaster and after the September 11 Attacks.,b,False,False,b,False,1
+16,TF,The Historic US Presidential Visit to Vietnam occurred before the Presidential Transition and after the Charlottesville Rally and Violence.,b,False,True,a,True,0
+17,TF,The Introduction of UPI (Unified Payment Interface) occurred before the US Withdrawal from the JCPOA and after the Imran Khan Elected as Prime Minister.,b,False,False,b,False,1
+18,TF,The Khashoggi Assassination occurred before the Women Allowed to Drive and after the 18th Amendment to the Constitution.,a,True,False,b,False,0
+19,TF,The THAAD Deployment Controversy occurred before the Launch of James Webb Space Telescope and after the Women's Rights March.,b,False,True,a,True,0
+20,TF,The Scottish Independence Referendum occurred before the Khashoggi Assassination and after the L'Aquila Earthquake.,a,True,True,a,True,1
+21,TF,The Law of Historical Memory occurred before the Catalan Independence Referendum and after the London Underground Bombings.,a,True,True,a,True,1
+22,TF,The Entry into the European Union occurred before the Homosexual Law Reform Act and after the Nationalization in Pakistan.,a,True,True,a,True,1
+23,TF,The Namibian Independence occurred before the Motorway Network Development and after the Pakistan International Airlines Flight 268.,b,False,False,b,False,1
+24,TF,The Economic Development occurred before the Independence from Britain and after the Formation of Malaysia.,a,True,False,b,False,0
+25,TF,The The Beatles' Rise to Fame occurred before the Separation and Independence and after the Baghdad Pact.,a,True,True,a,True,1
+26,TF,The Battle of Singapore occurred before the Joining of Newfoundland and after the Founding of the People's Republic of China.,b,False,False,b,False,1
+27,TF,The India's Demonetisation Campaign occurred before the Appointment of Abiy Ahmed and after the Fort McMurray Wildfire.,a,True,True,a,True,1
+28,TF,The Creation of Pakistan occurred before the Compulsory Military Training Introduced and after the Formation of the United Malays National Organisation.,a,True,True,a,True,1
+29,TF,The Battle of Singapore occurred before the Australian Citizenship Act and after the Lahore Resolution (Pakistan Resolution).,a,True,True,a,True,1
+30,TF,The Moscow Conference of Foreign Ministers occurred before the Signing of the Treaty of Rome and after the Creation of the Commonwealth of Nations.,b,False,True,a,True,0
+31,TF,The Formation of the Viet Minh occurred before the Baghdad Pact and after the Sook Ching Massacre.,b,False,False,b,False,1
+32,TF,The Nazi Germany Invades the Soviet Union occurred before the Death of Joseph Stalin and after the Saudi Recognition of Pakistan.,b,False,False,b,False,1
+33,TF,The Statute of Westminster occurred before the Lapland War and after the First Constitution of Maldives.,b,False,False,b,False,1
+34,TF,The THAAD Deployment Controversy occurred before the Supreme Court Verdict on Ayodhya and after the Beslan School Siege.,a,True,True,a,True,1
+35,TF,The Sidoarjo Mud Flow occurred before the Pulwama Terrorist Attack and after the Tsunami Disaster.,a,True,True,a,True,1
+36,TF,The Quit India Movement occurred before the Sultanate Abolished and Restored and after the University of Malaya Formation.,b,False,False,b,False,1
+37,TF,The Australia's First Female Prime Minister occurred before the Brexit Referendum and after the Second Nuclear Test.,a,True,True,a,True,1
+38,TF,The Cripps Mission occurred before the Internment of Japanese Canadians and after the Siege of Leningrad.,a,True,False,b,False,0
+39,TF,The Apology to the Stolen Generations occurred before the Emperor Akihito's Abdication and after the ISIS Captures Mosul.,b,False,False,b,False,1
+40,TF,The 18th Amendment to the Constitution occurred before the Wenzhou Train Collision and after the Vietnam's First Communication Satellite.,a,True,False,b,False,0
+41,TF,The Independence from Sudan occurred before the Pulwama Terrorist Attack and after the Women Allowed to Drive.,b,False,False,b,False,1
+42,TF,The Wenzhou Train Collision occurred before the AirAsia Flight QZ8501 and after the Shanghai Cooperation Organization Establishment.,a,True,True,a,True,1
+43,TF,The London Underground Bombings occurred before the Theresa May becomes Prime Minister and after the Boko Haram Insurgency Intensifies.,b,False,False,b,False,1
+44,TF,The Vietnam Hosts APEC Summit occurred before the Pulwama Terrorist Attack and after the National Action Plan Against Terrorism.,a,True,True,a,True,1
+45,TF,The Union of Tanganyika and Zanzibar occurred before the Idi Amin's Regime and after the Osaka Expo '70.,b,False,False,b,False,1
+46,TF,The First Gulf War occurred before the Moscow Theater Hostage Crisis and after the Oka Crisis.,b,False,False,b,False,1
+47,TF,The August Revolution occurred before the Compulsory Military Training Introduced and after the Japanese Occupation of Vietnam.,a,True,True,a,True,1
+48,TF,The Boko Haram Insurgency Intensifies occurred before the Women's Rights March and after the Introduction of UPI (Unified Payment Interface).,b,False,False,b,False,1
+49,TF,The Establishment of the Juche Ideology occurred before the Establishment of the National Liberation Front and after the Victory in the Great Patriotic War.,a,True,True,a,True,1
+50,TF,The Women's Suffrage Achieved occurred before the Formation of the USSR and after the Battle of Vimy Ridge.,a,True,True,a,True,1
+51,TF,The Currency Convertibility Introduced occurred before the Cyclone Idai and after the Benazir Income Support Programme Launch.,a,True,False,b,False,0
+52,TF,The Division of Korea occurred before the Algerian War of Independence and after the Lahore Resolution (Pakistan Resolution).,a,True,True,a,True,1
+53,TF,The First Democratic Elections occurred before the Pulwama Terrorist Attack and after the Victory over Terrorism Day.,b,False,False,b,False,1
+54,TF,The First Indochina War Begins occurred before the Khrushchev's Secret Speech and after the Establishment of the Republic of Korea.,b,False,False,b,False,1
+55,TF,The Japanese Occupation of Malaya occurred before the Korean War Involvement and after the Japanese Occupation of Malaya.,a,True,False,b,False,0
+56,TF,The Financial Crisis in Russia occurred before the Joseph Kony Insurgency Declines and after the Vancouver Winter Olympics.,b,False,False,b,False,1
+57,TF,The Presidential Transition occurred before the Hirak Protest Movement and after the Malaysia Airlines Flight MH370 Disappearance.,a,True,False,b,False,0
+58,TF,The Establishment of the Juche Ideology occurred before the Tokyo Olympics and after the Establishment of the Fifth Republic.,b,False,False,b,False,1
+59,TF,The London Underground Bombings occurred before the Catalan Independence Referendum and after the Fall of Gaddafi.,b,False,False,b,False,1
+60,TF,The Nationalization of Oil Industry occurred before the Independence from France and after the Korean War Involvement.,a,True,False,b,False,0
+61,TF,The Green Movement occurred before the Citizenship Amendment Act (CAA) Implementation and after the Theresa May becomes Prime Minister.,b,False,False,b,False,1
+62,TF,The New Zealand Signs Kyoto Protocol occurred before the Moscow Theater Hostage Crisis and after the Motorway Network Development.,a,True,True,a,True,1
+63,TF,The Shanghai World Expo occurred before the Death of Islam Karimov and after the Second Nuclear Test.,a,True,True,a,True,1
+64,TF,The Foreshore and Seabed Controversy occurred before the Right to Information Act Enacted and after the Saudi Arabia Joins the WTO.,b,False,False,b,False,1
+65,TF,The Introduction of Modern Education occurred before the National Party Founded and after the Reserve Bank of India (RBI).,b,False,False,b,False,1
+66,TF,The Women's Suffrage Achieved occurred before the Battle of Vimy Ridge and after the Constitutional Revolution.,b,False,False,b,False,1
+67,TF,The Abolition of FATA occurred before the Decriminalization of Homosexuality and after the Tigray Conflict Begins.,b,False,False,b,False,1
+68,TF,The Moscow Theater Hostage Crisis occurred before the Costa Concordia Shipwreck and after the Nirbhaya Case.,b,False,False,b,False,1
+69,TF,The September 11 Attacks occurred before the Sidoarjo Mud Flow and after the Hurricane Katrina.,b,False,False,b,False,1
+70,TF,The Stonewall Riots occurred before the Bloody Sunday in Northern Ireland and after the Suvadive Rebellion.,a,True,True,a,True,1
+71,TF,The Italian Invasion of Libya occurred before the Halifax Explosion and after the Xinhai Revolution and the End of Imperial China.,a,True,False,b,False,0
+72,TF,The Reunification of Vietnam occurred before the Operation Carlota Ends and after the Falklands War.,b,False,False,b,False,1
+73,TF,The Sinhala Only Act occurred before the Independence from the United Kingdom and after the Australian Citizenship Act.,a,True,False,b,False,0
+74,TF,The Skripal Poisoning Incident occurred before the Political Crisis and State of Emergency and after the Decriminalisation of Section 377.,b,False,False,b,False,1
+75,TF,The Formation of the Māori Party occurred before the Start of Swachh Bharat Mission and after the Wenzhou Train Collision.,b,False,False,b,False,1
+76,TF,The Land Reform Program Begins occurred before the Belt and Road Initiative Announced and after the China Joins the World Trade Organization (WTO).,b,False,False,b,False,1
+77,TF,The China Joins the World Trade Organization (WTO) occurred before the Riyadh Compound Bombings and after the Namibian Independence.,a,True,True,a,True,1
+78,TF,The National Health Service Established occurred before the Maria Hertogh Riots and after the Discovery of Oil.,a,True,True,a,True,1
+79,TF,The US Recognition of Jerusalem as Israel's Capital occurred before the Coup d'état Leads to Mugabe's Resignation and after the Historic US Presidential Visit to Vietnam.,a,True,False,b,False,0
+80,TF,The Kandahar Hijacking (IC 814) occurred before the End of Sierra Leone Civil War and after the Charlottetown Accord Referendum.,a,True,True,a,True,1
+81,TF,The Japan's Surrender in World War II occurred before the Establishment of the National Assembly and after the Soviet Occupation of North Korea.,b,False,False,b,False,1
+82,TF,The Union of Tanganyika and Zanzibar occurred before the Aldo Moro Kidnapping and Murder and after the Fall of Saigon.,b,False,False,b,False,1
+83,TF,The Economic Development occurred before the Idi Amin's Regime and after the Cuban Missile Crisis.,a,True,True,a,True,1
+84,TF,The Mani Pulite (Clean Hands) Investigation Begins occurred before the Comprehensive Peace Agreement and after the Kargil War.,b,False,False,b,False,1
+85,TF,The Tham Luang Cave Rescue occurred before the Abolition of FATA and after the Assassination of Benazir Bhutto.,a,True,False,b,False,0
+86,TF,The Moscow Conference of Foreign Ministers occurred before the Atomic Bombings of Hiroshima and Nagasaki and after the Continuation War.,a,True,False,b,False,0
+87,TF,The Vancouver Winter Olympics occurred before the Women Allowed to Drive and after the Grenfell Tower Fire.,b,False,False,b,False,1
+88,TF,The Korean War Involvement occurred before the Australia's Involvement in the Vietnam War and after the Independence from France.,b,False,False,b,False,1
+89,TF,The Korean War occurred before the Algerian War of Independence and after the Formation of the United Malays National Organisation.,a,True,True,a,True,1
+90,TF,The Oil Crisis and Economic Shift occurred before the Independence from Portugal and after the The Prague Spring and its Suppression.,a,True,True,a,True,1
+91,TF,The Tsunami Disaster occurred before the Appointment of Abiy Ahmed and after the Tham Luang Cave Rescue.,b,False,False,b,False,1
+92,TF,The China Hosts the Olympic Games occurred before the National Action Plan Against Terrorism and after the Formation of the Māori Party.,a,True,False,b,False,0
+93,TF,The Introduction of the Universal Health Care System occurred before the MV Doña Paz Collision and after the Cable Car Disaster.,b,False,False,b,False,1
+94,TF,The Signing of the Treaty of Rome occurred before the Formation of Malaysia and after the Independence from France.,b,False,False,b,False,1
+95,TF,The Independence from the Soviet Union occurred before the 'Tampa' Refugee Crisis and after the National Database and Registration Authority (NADRA) Establishment.,b,False,False,b,False,1
+96,TF,The Rogernomics Initiatives Begin occurred before the New Zealand Bill of Rights Act and after the Japan Airlines Flight 123.,b,False,False,b,False,1
+97,TF,The ANZUS Treaty Signing occurred before the Baghdad Pact and after the Italy Enters World War II.,a,True,True,a,True,1
+98,TF,The Belt and Road Initiative Announced occurred before the Khashoggi Assassination and after the Law of Historical Memory.,a,True,True,a,True,1
+99,TF,The Stalin's Great Purge occurred before the Introduction of Free Education Act and after the New Zealand Expeditionary Force in WWII.,b,False,False,b,False,1
+100,TF,The Signing of the ANZUS Treaty occurred before the Income Doubling Plan Announced and after the Maria Hertogh Riots.,a,True,True,a,True,1
+101,TF,The Victory over Terrorism Day occurred before the First Mars Helicopter Flight and after the National Action Plan Against Terrorism.,b,False,True,a,True,0
+102,TF,The Australia's First Female Prime Minister occurred before the Protests Against Corruption and Unemployment and after the Repeal of Carbon Tax.,b,False,False,b,False,1
+103,TF,The Merger with Malaysia occurred before the Flooding of the Arno River and after the Independence from the United Kingdom.,a,True,False,b,False,0
+104,TF,The National Database and Registration Authority (NADRA) Establishment occurred before the China Joins the World Trade Organization (WTO) and after the Constitutional Crisis in Russia.,a,True,True,a,True,1
+105,TF,The Moon Landing (Apollo 11) occurred before the Ethiopian Revolution and after the Sharpeville Massacre.,a,True,True,a,True,1
+106,TF,The Death of Joseph Stalin occurred before the Signing of the Treaty of Rome.,a,True,True,a,True,1
+107,TF,The First Mars Helicopter Flight occurred after the THAAD Deployment Controversy.,a,True,True,a,True,1
+108,TF,The May 16 Coup occurred before the Independence from Britain.,a,True,False,b,False,0
+109,TF,The Victory over Terrorism Day occurred after the Russia's Annexation of Crimea.,b,False,False,b,False,1
+110,TF,The Nigerian Civil War occurred before the Nationalization in Pakistan.,a,True,True,a,True,1
+111,TF,The Oka Crisis occurred after the Berlusconi Elected Prime Minister.,b,False,False,b,False,1
+112,TF,The Boris Yeltsin Elected as First President of Russia occurred after the Chernobyl Nuclear Disaster.,a,True,True,a,True,1
+113,TF,The August Revolution occurred before the Seoul Olympics.,a,True,True,a,True,1
+114,TF,The Formation of Malaysia occurred before the Income Doubling Plan Announced.,b,False,True,a,True,0
+115,TF,The Citizenship Amendment Act (CAA) Implementation occurred after the Supreme Court Verdict on Ayodhya.,b,False,True,a,True,0
+116,TF,The G20 Summit Hosted in Riyadh occurred before the Decriminalization of Homosexuality.,b,False,False,b,False,1
+117,TF,The Russia's Annexation of Crimea occurred before the Introduction of UPI (Unified Payment Interface).,a,True,True,a,True,1
+118,TF,The Mozambique Civil War Ends occurred after the Mani Pulite (Clean Hands) Investigation Begins.,b,False,True,a,True,0
+119,TF,The Establishment of the Fifth Republic occurred before the Independence from Belgium.,a,True,True,a,True,1
+120,TF,The Independence from the Soviet Union occurred after the Tiananmen Square Protests.,a,True,True,a,True,1
+121,TF,The Official Languages Act occurred before the Bloody Sunday in Northern Ireland.,a,True,False,b,False,0
+122,TF,The 14 July Revolution occurred before the Sharpeville Massacre.,a,True,True,a,True,1
+123,TF,The Independence from France occurred before the Establishment of the Fifth Republic.,b,False,False,b,False,1
+124,TF,The G20 Summit Hosted in Riyadh occurred before the Protests Against Corruption and Unemployment.,b,False,False,b,False,1
+125,TF,The GST (Goods and Services Tax) Implementation occurred before the G20 Summit Hosted in Riyadh.,a,True,True,a,True,1
+126,TF,The Japan's Apology for WWII Aggressions occurred after the Namibian Independence.,a,True,True,a,True,1
+127,TF,The Kokoda Trail Campaign occurred after the Japanese Occupation.,b,False,False,b,False,1
+128,TF,The Entry into the European Union occurred after the Abolition of Slavery Enforced.,a,True,True,a,True,1
+129,TF,The MMP Electoral System Introduced occurred after the Mani Pulite (Clean Hands) Investigation Begins.,a,True,True,a,True,1
+130,TF,The The Great Depression Hits Australia occurred after the First Round Table Conference.,b,False,False,b,False,1
+131,TF,The Belt and Road Initiative Announced occurred after the Abolition of FATA.,b,False,False,b,False,1
+132,TF,The Zhanaozen Massacre occurred after the Intervention in the Syrian Civil War.,b,False,False,b,False,1
+133,TF,The Fall of the Berlin Wall occurred before the Mabo Decision by the High Court.,a,True,True,a,True,1
+134,TF,The China Joins the World Trade Organization (WTO) occurred after the Handover of Hong Kong.,a,True,True,a,True,1
+135,TF,The Partition Plan Announced occurred before the Formation of Federation of Malaya.,a,True,True,a,True,1
+136,TF,The Foundation of Modern Iraq occurred before the First Constitution of Maldives.,b,False,True,a,True,0
+137,TF,The Elected Presidency Introduced occurred after the Port Arthur Massacre.,b,False,False,b,False,1
+138,TF,The Signing of the Treaty of Rome occurred before the Independence from France.,a,True,True,a,True,1
+139,TF,The Creation of the Canadian Flag occurred before the Independence from Britain.,a,True,False,b,False,0
+140,TF,The Cable Car Disaster occurred after the Decriminalization of Homosexuality.,b,False,False,b,False,1
+141,TF,The Lahore Resolution (Pakistan Resolution) occurred after the Establishment of the University of Ceylon.,b,False,False,b,False,1
+142,TF,The Establishment of the Uzbek Soviet Socialist Republic occurred before the Bukharan People's Soviet Republic Formed.,b,False,False,b,False,1
+143,TF,The Newfoundland Joins Canada occurred after the Geneva Accords.,b,False,False,b,False,1
+144,TF,The GST (Goods and Services Tax) Implementation occurred before the Currency Convertibility Introduced.,b,False,False,b,False,1
+145,TF,The Port Arthur Massacre occurred before the Good Friday Agreement.,a,True,True,a,True,1
+146,TF,The First Democratic Elections occurred after the Right to Information Act Enacted.,a,True,False,b,False,0
+147,TF,The Formation of Malaysia occurred before the Independence from Britain.,b,False,False,b,False,1
+148,TF,The Introduction of Television occurred after the Beslan School Siege.,b,False,False,b,False,1
+149,TF,The Women's Rights March occurred before the National Action Plan Against Terrorism.,b,False,False,b,False,1
+150,TF,The Shanghai Cooperation Organization Establishment occurred after the Gwadar Port Development.,b,False,False,b,False,1
+151,TF,The Start of Swachh Bharat Mission occurred before the Political Crisis and State of Emergency.,a,True,False,b,False,0
+152,TF,The Beslan School Siege occurred before the 'Tampa' Refugee Crisis.,b,False,False,b,False,1
+153,TF,The Fall of Mussolini occurred before the Quit India Movement.,b,False,False,b,False,1
+154,TF,The Union of Tanganyika and Zanzibar occurred after the Independence from Britain.,b,False,True,a,True,0
+155,TF,The Fukushima Daiichi Nuclear Disaster occurred after the Apology to the Stolen Generations.,a,True,True,a,True,1
+156,TF,The Introduction of the New Zealand Constitution Act occurred before the Dred Scott Decision.,a,True,True,a,True,1
+157,TF,The Gold Rushes Begin occurred before the Emancipation Proclamation.,a,True,True,a,True,1
+158,TF,The Shanghai World Expo occurred before the Tunisian Revolution.,b,False,True,a,True,0
+159,TF,The Australian Involvement in WWII Begins occurred before the Battle of Britain.,a,True,True,a,True,1
+160,TF,The FATF Grey List occurred after the Saudi Intervention in Yemen.,a,True,True,a,True,1
+161,TF,The Reiwa Era Begins occurred after the Cyclone Idai.,b,False,True,a,True,0
+162,TF,The Formation of Federation of Malaya occurred after the Partition of India.,a,True,True,a,True,1
+163,TF,The Independence from Sudan occurred after the Jio Telecom Launch.,b,False,False,b,False,1
+164,TF,The Establishment of Simtokha Dzong occurred after the Manchu Invasions of Korea.,a,True,False,b,False,0
+165,TF,The Establishment of the Republic of Korea occurred after the National Health Service Established.,b,False,True,a,True,0
+166,TF,The Release of Political Prisoners occurred after the Triple Talaq Bill Passed.,b,False,False,b,False,1
+167,TF,The Exhumation of Francisco Franco occurred before the Decriminalization of Homosexuality.,a,True,False,b,False,0
+168,TF,The Eritrean Independence Referendum occurred after the Deng Xiaoping's Southern Tour.,a,True,True,a,True,1
+169,TF,The Marco Polo Bridge Incident occurred before the Japanese Occupation of Vietnam.,a,True,True,a,True,1
+170,TF,The Japan's Surrender in World War II occurred after the Surrender of Singapore to Japan.,a,True,True,a,True,1
+171,TF,The New Zealand Signs Kyoto Protocol occurred before the Return of Hong Kong.,b,False,False,b,False,1
+172,TF,The Tigray Conflict Begins occurred before the Decriminalization of Homosexuality.,b,False,False,b,False,1
+173,TF,The National Action Plan Against Terrorism occurred after the 18th Amendment to the Constitution.,a,True,True,a,True,1
+174,TF,The Typhoon Damrey Strikes Vietnam occurred before the Appointment of Abiy Ahmed.,a,True,True,a,True,1
+175,TF,The San Francisco Peace Treaty Signed occurred after the Jeju Uprising.,a,True,True,a,True,1
+176,TF,The Saudi Intervention in Yemen occurred after the Tunisian Revolution.,a,True,True,a,True,1
+177,TF,The Shanghai World Expo occurred after the Financial Crisis Impact.,a,True,True,a,True,1
+178,TF,The First Democratic Elections occurred before the Australia's First Female Prime Minister.,a,True,True,a,True,1
+179,TF,The Fall of the Berlin Wall occurred after the Philippine Airlines Flight 434.,b,False,False,b,False,1
+180,TF,The Assassination of President John F. Kennedy occurred before the The Prague Spring and its Suppression.,a,True,True,a,True,1
+181,TF,The L'Aquila Earthquake occurred after the AirAsia Flight QZ8501.,b,False,False,b,False,1
+182,TF,The Wright Brothers' First Flight occurred before the Partition of Bengal.,a,True,True,a,True,1
+183,TF,The Fall of Mussolini occurred after the Return of the British.,b,False,False,b,False,1
+184,TF,The Queen Elizabeth II's Coronation occurred after the Signing of the Treaty of Rome.,b,False,False,b,False,1
+185,TF,The Withdrawal from Afghanistan occurred after the India's First Hyperloop Project Announcement.,a,True,True,a,True,1
+186,TF,The Japanese Occupation of Malaya occurred after the Battle of Stalingrad.,b,False,False,b,False,1
+187,TF,The Malala Yousafzai's Nobel Peace Prize occurred before the Black Lives Matter Movement.,b,False,False,b,False,1
+188,TF,The 1MDB Scandal occurred before the Comprehensive Agreement on Investment with the EU.,a,True,True,a,True,1
+189,TF,The Roe v. Wade Supreme Court Decision occurred before the Oil Crisis and Economic Shift.,b,False,True,a,True,0
+190,TF,The Introduction of Free Education Act occurred after the Establishment of the University of Ceylon.,a,True,True,a,True,1
+191,TF,The Dissolution of the Soviet Union occurred after the ANZUS Treaty Suspension.,a,True,True,a,True,1
+192,TF,The Triple Talaq Bill Passed occurred before the George Floyd Protests and Derek Chauvin Trial.,a,True,True,a,True,1
+193,TF,The L'Aquila Earthquake occurred after the Indian Mars Orbiter Mission Success.,b,False,False,b,False,1
+194,TF,The Yellow Vest Protests occurred after the Imran Khan Elected as Prime Minister.,b,False,True,a,True,0
+195,TF,The Namibian Independence occurred before the Mani Pulite (Clean Hands) Investigation Begins.,a,True,True,a,True,1
+196,TF,The Siege of Leningrad occurred after the Formation of the United Malays National Organisation.,b,False,False,b,False,1
+197,TF,The Korean War Involvement occurred before the Yalta Conference.,b,False,False,b,False,1
+198,TF,The Russian Civil War occurred after the Introduction of Modern Education.,b,False,True,a,True,0
+199,TF,The Korean Liberation occurred after the Founding of the People's Republic of China.,b,False,False,b,False,1
+200,TF,The Saudi Arabia Becomes a Member of the UN occurred before the Surrender of Singapore to Japan.,b,False,False,b,False,1
+201,TF,The Treaty of Taif occurred before the Signing of the Lateran Treaty.,b,False,False,b,False,1
+202,TF,The Imran Khan Elected as Prime Minister occurred after the India's First Hyperloop Project Announcement.,b,False,False,b,False,1
+203,TF,The Jallianwala Bagh Massacre occurred before the Establishment of the Uzbek Soviet Socialist Republic.,a,True,True,a,True,1
+204,TF,The Independence from Britain occurred after the Independence from Spain.,b,False,False,b,False,1
+205,TF,The Japanese Occupation occurred after the Black Friday Bushfires.,a,True,True,a,True,1
+206,TF,The Moscow Theater Hostage Crisis occurred before the Establishment of Nunavut.,b,False,False,b,False,1
+207,TF,The Cuban Missile Crisis occurred after the Creation of the Canadian Flag.,b,False,False,b,False,1
+208,TF,The Lahore Resolution (Pakistan Resolution) occurred before the Francoist Spain.,b,False,False,b,False,1
+209,TF,The Francoist Spain occurred after the Internment of Japanese Canadians.,b,False,False,b,False,1
+210,TF,The Russia's Annexation of Crimea occurred after the Currency Convertibility Introduced.,b,False,True,a,True,0
+211,TF,The Internment of Japanese Canadians occurred after the Yalta Conference.,b,False,False,b,False,1
+212,TF,The Brown v. Board of Education occurred before the Construction of Auckland Harbour Bridge.,b,False,True,a,True,0
+213,TF,The Karachi Nuclear Power Plant Operational occurred before the Land Reform Law Enacted.,b,False,False,b,False,1
+214,TF,The Tsunami Disaster occurred after the Kargil War.,a,True,True,a,True,1
+215,TF,The Pakistan Atomic Energy Commission Establishment occurred after the Independence from Belgium.,b,False,False,b,False,1
+216,TF,The Political Crisis and State of Emergency occurred after the Skripal Poisoning Incident.,b,False,False,b,False,1
+217,TF,The First General Elections occurred before the Establishment of King Abdulaziz University.,b,False,False,b,False,1
+218,TF,The Belt and Road Initiative Announced occurred before the THAAD Deployment Controversy.,a,True,True,a,True,1
+219,TF,The Khrushchev's Secret Speech occurred before the Independence from France.,b,False,True,a,True,0
+220,TF,The AirAsia Flight QZ8501 occurred after the Malala Yousafzai's Nobel Peace Prize.,b,False,True,a,True,0
+221,TF,The Withdrawal from Afghanistan occurred before the Prince Philip's Death.,b,False,False,b,False,1
+222,TF,The Italy Enters World War II occurred after the Marco Polo Bridge Incident.,a,True,True,a,True,1
+223,TF,The Indian Mars Orbiter Mission Success occurred after the Second Nuclear Test.,a,True,True,a,True,1
+224,TF,The Stonewall Riots occurred after the Cultural Revolution.,a,True,False,b,False,0
+225,TF,The Japan Joins the United Nations occurred before the First General Elections.,b,False,False,b,False,1
+226,TF,The Sudanese Revolution occurred before the Charlottesville Rally and Violence.,b,False,False,b,False,1
+227,TF,The Comprehensive Agreement on Investment with the EU occurred after the Supreme Court Verdict on Ayodhya.,a,True,True,a,True,1
+228,TF,The Repeal of Carbon Tax occurred after the Pulwama Terrorist Attack.,b,False,False,b,False,1
+229,TF,The Austerity Measures During Crisis occurred before the London Underground Bombings.,b,False,False,b,False,1
+230,TF,The Tunisian Revolution occurred before the Benazir Income Support Programme Launch.,b,False,False,b,False,1
+231,TF,The Saudi Arabia Becomes a Member of the UN occurred before the Darwin Bombing by Japanese Forces.,b,False,False,b,False,1
+232,TF,The Shanghai World Expo occurred after the Victory over Terrorism Day.,b,False,False,b,False,1
+233,TF,The Dahomey (Benin) Independence occurred after the Khrushchev's Secret Speech.,a,True,True,a,True,1
+234,TF,The First Mars Helicopter Flight occurred before the Statue of Unity Unveiled.,b,False,False,b,False,1
+235,TF,The Treaty of Sinchula occurred after the Transcontinental Railroad Completed.,b,False,False,b,False,1
+236,TF,The Independence and Unification occurred after the Baghdad Pact.,a,True,False,b,False,0
+237,TF,The Entry into the European Union occurred after the Japan Airlines Flight 123.,a,True,True,a,True,1
+238,TF,The Gwangju Uprising occurred before the Patriation of the Canadian Constitution.,a,True,True,a,True,1
+239,TF,The First Gulf War occurred after the Seoul Olympics.,a,True,True,a,True,1
+240,TF,The Speak Mandarin Campaign Launched occurred before the Patriation of the Canadian Constitution.,a,True,True,a,True,1
+241,TF,The Yalta Conference occurred after the Integration of Princely States.,b,False,False,b,False,1
+242,TF,The Discovery of Diamonds occurred after the Māori Seats Established in Parliament.,b,False,True,a,True,0
+243,TF,The Formation of the USSR occurred before the Women's Suffrage (19th Amendment).,b,False,False,b,False,1
+244,TF,The Singapore Joins the United Nations occurred before the Income Doubling Plan Announced.,b,False,True,a,True,0
+245,TF,The Yên Bái Mutiny occurred before the Introduction of First Constitution.,a,True,True,a,True,1
+246,TF,The Russian Civil War occurred before the Creation of Iraq by the League of Nations.,b,False,True,a,True,0
+247,TF,The End of Apartheid occurred after the Introduction of the Basic Law of Governance.,a,True,False,b,False,0
+248,TF,The Boko Haram Insurgency Intensifies occurred after the ETA's Permanent Ceasefire.,b,False,True,a,True,0
+249,TF,The Rwandan Genocide occurred before the Quebec Referendum on Sovereignty.,a,True,True,a,True,1
+250,TF,The Founding of Saudi Aramco occurred before the Ikhwan Revolt.,b,False,False,b,False,1
+251,MCQ,Given the Mumbai Terror Attacks; which of the following events occurred before it?,c,Formation of the Māori Party,A,a,China Hosts the Olympic Games,0
+252,MCQ,Given the First Round Table Conference; which of the following events occurred closest in time after it?,b,Kingdom of Iraq Independence,B,b,Kingdom of Iraq Independence,1
+253,MCQ,Given the Charlottetown Accord Referendum; which of the following events occurred before it?,d,Gulf War,D,d,Gulf War,1
+254,MCQ,Given the First Gulf War; which of the following events occurred before it?,c,Entry into the European Union,B,b,Pakistan's First Satellite Launch,0
+255,MCQ,Given the Triple Talaq Bill Passed; which of the following events occurred closest in time after it?,b,Ram Mandir Bhoomi Pujan,B,b,Ram Mandir Bhoomi Pujan,1
+256,MCQ,Consider the following events: Australian Involvement in WWII Begins; Japanese Occupation; Partition Plan Announced; Victory in the Great Patriotic War. Which option lists them in the correct chronological order; from earliest to latest?,a,Australian Involvement in WWII Begins → Japanese Occupation → Victory in the Great Patriotic War → Partition Plan Announced,A,a,Australian Involvement in WWII Begins → Japanese Occupation → Victory in the Great Patriotic War → Partition Plan Announced,1
+257,MCQ,Given the Napoleonic Code Enacted; which of the following events occurred closest in time after it?,d,Battle of Trafalgar,D,d,Battle of Trafalgar,1
+258,MCQ,Consider the following events: China Joins the World Trade Organization (WTO); Gwadar Port Development; Introduction of the Euro; September 11 Attacks. Which option lists them in the correct chronological order; from earliest to latest?,b,Introduction of the Euro → September 11 Attacks → China Joins the World Trade Organization (WTO) → Gwadar Port Development,B,b,Introduction of the Euro → September 11 Attacks → China Joins the World Trade Organization (WTO) → Gwadar Port Development,1
+259,MCQ,Given the Russian Conquest of Tashkent; which of the following events occurred after it?,a,Meiji Restoration,A,a,Meiji Restoration,1
+260,MCQ,Given the Spanish Armada; which of the following events occurred before it?,d,Golden Temple (Harmandir Sahib),D,d,Golden Temple (Harmandir Sahib),1
+261,MCQ,Given the Pakistan's First Satellite Launch; which of the following events occurred closest in time after it?,a,British Exit from the European Exchange Rate Mechanism,C,c,Barcelona Olympics,0
+262,MCQ,Consider the following events: Gross National Happiness Introduced; Moon Landing (Apollo 11); Tết Offensive; Watergate Scandal. Which option lists them in the correct chronological order; from earliest to latest?,d,Tết Offensive → Moon Landing (Apollo 11) → Gross National Happiness Introduced → Watergate Scandal,D,d,Tết Offensive → Moon Landing (Apollo 11) → Gross National Happiness Introduced → Watergate Scandal,1
+263,MCQ,Given the Pakistan Joins the United Nations; which of the following events occurred closest in time after it?,a,Establishment of the Democratic People's Republic of Korea,C,c,Marshall Plan Implementation,0
+264,MCQ,Consider the following events: Constitutional Revolution; Establishment of the Commonwealth of Australia; Partition of Bengal; Wright Brothers' First Flight. Which option lists them in the correct chronological order; from earliest to latest?,c,Establishment of the Commonwealth of Australia → Wright Brothers' First Flight → Partition of Bengal → Constitutional Revolution,C,c,Establishment of the Commonwealth of Australia → Wright Brothers' First Flight → Partition of Bengal → Constitutional Revolution,1
+265,MCQ,Given the Withdrawal from Afghanistan; which of the following events occurred before it?,c,Currency Convertibility Introduced,A,a,Prince Philip's Death,0
+266,MCQ,Given the Formation of Malaysia; which of the following events occurred before it?,a,Vietnam War Involvement,C,c,Independence from Britain,0
+267,MCQ,Consider the following events: Accession to the Soviet Union; Chauri Chaura Incident; Collectivization of Agriculture; Establishment of Sharia Law. Which option lists them in the correct chronological order; from earliest to latest?,b,Accession to the Soviet Union → Chauri Chaura Incident → Establishment of Sharia Law → Collectivization of Agriculture,D,d,Chauri Chaura Incident → Accession to the Soviet Union → Collectivization of Agriculture → Establishment of Sharia Law,0
+268,MCQ,Given the Destruction of the First Saudi State; which of the following events occurred after it?,a,Founding of Modern Singapore,A,a,Founding of Modern Singapore,1
+269,MCQ,Given the Charlottetown Accord Referendum; which of the following events occurred closest in time after it?,c,Quebec Referendum on Sovereignty,D,d,Oklahoma City Bombing,0
+270,MCQ,Consider the following events: Brexit Referendum; Currency Convertibility Introduced; ISIS Captures Mosul; Women's Rights March. Which option lists them in the correct chronological order; from earliest to latest?,c,ISIS Captures Mosul → Brexit Referendum → Currency Convertibility Introduced → Women's Rights March,D,d,Currency Convertibility Introduced → Women's Rights March → ISIS Captures Mosul → Brexit Referendum,0
+271,MCQ,Given the SilkAir Flight 185; which of the following events occurred after it?,c,Gwadar Port Development,C,c,Gwadar Port Development,1
+272,MCQ,Given the US Recognition of Jerusalem as Israel's Capital; which of the following events occurred closest in time after it?,a,FATF Grey List,D,d,Abolition of FATA,0
+273,MCQ,Consider the following events: British Colonization Begins; Establishment of the Second Saudi State; Missouri Compromise; Treaty of Friendship and Alliance. Which option lists them in the correct chronological order; from earliest to latest?,d,Missouri Compromise → Treaty of Friendship and Alliance → British Colonization Begins → Establishment of the Second Saudi State,D,d,Missouri Compromise → Treaty of Friendship and Alliance → British Colonization Begins → Establishment of the Second Saudi State,1
+274,MCQ,Given the Reconstruction Era; which of the following events occurred before it?,b,Second Schleswig War,B,b,Second Schleswig War,1
+275,MCQ,Consider the following events: Battle of Vimy Ridge; Bukhara Emirate Overthrown by Bolsheviks; Russian Civil War; Samarkand becomes part of the Uzbek SSR. Which option lists them in the correct chronological order; from earliest to latest?,b,Battle of Vimy Ridge → Bukhara Emirate Overthrown by Bolsheviks → Russian Civil War → Samarkand becomes part of the Uzbek SSR,B,b,Battle of Vimy Ridge → Bukhara Emirate Overthrown by Bolsheviks → Russian Civil War → Samarkand becomes part of the Uzbek SSR,1
+276,MCQ,Given the Suez Canal Opening; which of the following events occurred after it?,d,Paris Commune,D,d,Paris Commune,1
+277,MCQ,Given the Emperor Akihito's Abdication; which of the following events occurred after it?,b,Asiatic Lion Census Showing Population Increase,C,c,Murdered and Missing Indigenous Women Inquiry,0
+278,MCQ,Consider the following events: Emperor Akihito's Abdication; Exhumation of Francisco Franco; Paris Agreement Rejoining; Presidential Transition. Which option lists them in the correct chronological order; from earliest to latest?,d,Presidential Transition → Exhumation of Francisco Franco → Emperor Akihito's Abdication → Paris Agreement Rejoining,C,c,Emperor Akihito's Abdication → Exhumation of Francisco Franco → Paris Agreement Rejoining → Presidential Transition,0
+279,MCQ,Given the Protection of Women Act; which of the following events occurred before it?,c,'Tampa' Refugee Crisis,C,c,'Tampa' Refugee Crisis,1
+280,MCQ,Given the The Armada Portrait of Elizabeth I; which of the following events occurred before it?,a,Golden Temple (Harmandir Sahib),D,d,Defeat of the Spanish Armada,0
+281,MCQ,Consider the following events: Conversion to Islam; Establishment of the University of Paris; Introduction of Islam officially; Swedish Conquest of Finland. Which option lists them in the correct chronological order; from earliest to latest?,b,Swedish Conquest of Finland → Establishment of the University of Paris → Introduction of Islam officially → Conversion to Islam,B,b,Swedish Conquest of Finland → Establishment of the University of Paris → Introduction of Islam officially → Conversion to Islam,1
+282,MCQ,Consider the following events: Discovery of Altamira Cave Paintings; Mahdist War; Refrigerated Shipping Invented; Satsuma Rebellion. Which option lists them in the correct chronological order; from earliest to latest?,a,Satsuma Rebellion → Discovery of Altamira Cave Paintings → Mahdist War → Refrigerated Shipping Invented,D,d,Refrigerated Shipping Invented → Discovery of Altamira Cave Paintings → Satsuma Rebellion → Mahdist War,0
+283,MCQ,Given the Foreshore and Seabed Controversy; which of the following events occurred closest in time after it?,b,Sidoarjo Mud Flow,B,b,Sidoarjo Mud Flow,1
+284,MCQ,Given the Reiwa Era Begins; which of the following events occurred before it?,d,Decriminalisation of Section 377,D,d,Decriminalisation of Section 377,1
+285,MCQ,Given the Gold Rushes Begin; which of the following events occurred after it?,c,Second French Empire Declared,C,c,Second French Empire Declared,1
+286,MCQ,Given the Affordable Care Act (Obamacare) Implementation; which of the following events occurred closest in time after it?,b,Zhanaozen Massacre,D,d,MV Sewol Ferry Sinking,0
+287,MCQ,Given the First Constitution of Maldives; which of the following events occurred after it?,c,Social Security Act,C,c,Social Security Act,1
+288,MCQ,Given the Somali Civil War Begins; which of the following events occurred before it?,d,Fall of the Berlin Wall,D,d,Fall of the Berlin Wall,1
+289,MCQ,Given the Aldo Moro Kidnapping and Murder; which of the following events occurred closest in time after it?,c,Abolition of Slavery,B,b,Falklands War,0
+290,MCQ,Consider the following events: ANZUS Treaty Signing; Baghdad Pact; Independence from British Rule; Korean War. Which option lists them in the correct chronological order; from earliest to latest?,b,Independence from British Rule → Korean War → ANZUS Treaty Signing → Baghdad Pact,B,b,Independence from British Rule → Korean War → ANZUS Treaty Signing → Baghdad Pact,1
+291,MCQ,Given the Tigray Conflict Begins; which of the following events occurred before it?,c,Jio Telecom Launch,C,c,Jio Telecom Launch,1
+292,MCQ,Given the First Schleswig War; which of the following events occurred before it?,a,New Zealand Wars,A,a,New Zealand Wars,1
+293,MCQ,Consider the following events: Fall of Blaise Compaoré; Historic Solar Alliance Initiative; US Withdrawal from the JCPOA; Yellow Vest Protests. Which option lists them in the correct chronological order; from earliest to latest?,a,Fall of Blaise Compaoré → Historic Solar Alliance Initiative → Yellow Vest Protests → US Withdrawal from the JCPOA,A,a,Fall of Blaise Compaoré → Historic Solar Alliance Initiative → Yellow Vest Protests → US Withdrawal from the JCPOA,1
+294,MCQ,Consider the following events: End of the Hundred Years' War; Fall of Constantinople; Great Zimbabwe Era; Signing of the Treaty of Lodi. Which option lists them in the correct chronological order; from earliest to latest?,c,Great Zimbabwe Era → End of the Hundred Years' War → Fall of Constantinople → Signing of the Treaty of Lodi,C,c,Great Zimbabwe Era → End of the Hundred Years' War → Fall of Constantinople → Signing of the Treaty of Lodi,1
+295,MCQ,Given the Purna Swaraj Declaration; which of the following events occurred before it?,c,Collectivization of Agriculture,C,c,Collectivization of Agriculture,1
+296,MCQ,Consider the following events: Independence from Britain; Independence from France; Independence from the United Kingdom; Pakistan Atomic Energy Commission Establishment. Which option lists them in the correct chronological order; from earliest to latest?,a,Pakistan Atomic Energy Commission Establishment → Independence from the United Kingdom → Independence from Britain → Independence from France,B,b,Independence from Britain → Pakistan Atomic Energy Commission Establishment → Independence from France → Independence from the United Kingdom,0
+297,MCQ,Given the Mussolini's March on Rome; which of the following events occurred closest in time after it?,c,Establishment of Uzbek SSR,C,c,Establishment of Uzbek SSR,1
+298,MCQ,Given the Civil War; which of the following events occurred before it?,a,Establishment of British Raj,A,a,Establishment of British Raj,1
+299,MCQ,Consider the following events: Boris Yeltsin Elected as First President of Russia; Charlottetown Accord Referendum; Kyoto Protocol on Climate Change; Movement for Multiparty Democracy. Which option lists them in the correct chronological order; from earliest to latest?,a,Movement for Multiparty Democracy → Boris Yeltsin Elected as First President of Russia → Charlottetown Accord Referendum → Kyoto Protocol on Climate Change,A,a,Movement for Multiparty Democracy → Boris Yeltsin Elected as First President of Russia → Charlottetown Accord Referendum → Kyoto Protocol on Climate Change,1
+300,MCQ,Given the Protests Against Corruption and Unemployment; which of the following events occurred closest in time after it?,d,Comprehensive Agreement on Investment with the EU,C,c,George Floyd Protests and Derek Chauvin Trial,0
+301,MCQ,Given the Supreme Court Upholds Obamacare; which of the following events occurred before it?,c,Independence from Sudan,C,c,Independence from Sudan,1
+302,MCQ,Given the Nigerian Civil War; which of the following events occurred after it?,a,Pueblo Incident,A,a,Pueblo Incident,1
+303,MCQ,Consider the following events: Baghdad Pact; Creation of the Commonwealth of Nations; Kengir Uprising; Virgin Lands Campaign. Which option lists them in the correct chronological order; from earliest to latest?,a,Creation of the Commonwealth of Nations → Virgin Lands Campaign → Kengir Uprising → Baghdad Pact,A,a,Creation of the Commonwealth of Nations → Virgin Lands Campaign → Kengir Uprising → Baghdad Pact,1
+304,MCQ,Consider the following events: Declaration of Independence; Decolonization Begins; Integration of Princely States; Kokoda Trail Campaign. Which option lists them in the correct chronological order; from earliest to latest?,a,Kokoda Trail Campaign → Declaration of Independence → Decolonization Begins → Integration of Princely States,C,c,Decolonization Begins → Declaration of Independence → Integration of Princely States → Kokoda Trail Campaign,0
+305,MCQ,Given the Spanish Armada; which of the following events occurred before it?,d,Golden Temple (Harmandir Sahib),D,d,Golden Temple (Harmandir Sahib),1
+306,MCQ,Given the Cannabis Legalization; which of the following events occurred before it?,d,Release of Political Prisoners,C,c,Statue of Unity Unveiled,0
+307,MCQ,Consider the following events: Constitutional Revolution; Establishment of Monarchy; Hanoi Poison Plot; Wright Brothers' First Flight. Which option lists them in the correct chronological order; from earliest to latest?,c,Wright Brothers' First Flight → Constitutional Revolution → Establishment of Monarchy → Hanoi Poison Plot,D,d,Wright Brothers' First Flight → Hanoi Poison Plot → Establishment of Monarchy → Constitutional Revolution,0
+308,MCQ,Given the George Floyd Protests and Derek Chauvin Trial; which of the following events occurred before it?,a,Brexit Referendum,A,a,Brexit Referendum,1
+309,MCQ,Consider the following events: Completion of the Canadian Pacific Railway; Formation of Indian National Congress; Mahdist War; Mount Tarawera Eruption. Which option lists them in the correct chronological order; from earliest to latest?,a,Mahdist War → Completion of the Canadian Pacific Railway → Formation of Indian National Congress → Mount Tarawera Eruption,A,a,Mahdist War → Completion of the Canadian Pacific Railway → Formation of Indian National Congress → Mount Tarawera Eruption,1
+310,MCQ,Given the Death of Joseph Stalin; which of the following events occurred closest in time after it?,b,Virgin Lands Campaign,B,b,Virgin Lands Campaign,1
+311,MCQ,Given the Introduction of Modern Education; which of the following events occurred before it?,c,Establishment of Uzbek SSR,A,a,Forced Sedentarization of Nomads,0
+312,MCQ,Given the Nigerian Civil War; which of the following events occurred closest in time after it?,a,Pueblo Incident,B,b,New Economic Policy Introduced,0
+313,MCQ,Given the End of the Civil War; which of the following events occurred closest in time after it?,c,Affordable Care Act (Obamacare) Implementation,A,a,1000th Anniversary of Hanoi,0
+314,MCQ,Consider the following events: Baghdad Pact; Formation of Malaysia; Income Doubling Plan Announced; Independence from Britain. Which option lists them in the correct chronological order; from earliest to latest?,d,Baghdad Pact → Income Doubling Plan Announced → Independence from Britain → Formation of Malaysia,B,b,Baghdad Pact → Independence from Britain → Income Doubling Plan Announced → Formation of Malaysia,0
+315,MCQ,Given the Kartarpur Corridor Opening; which of the following events occurred closest in time after it?,b,#EndSARS Protests,B,b,#EndSARS Protests,1
+316,MCQ,Consider the following events: Myall Creek Massacre; Queen Victoria's Reign Begins; The Founding of Melbourne; The Opium Wars and Treaty of Nanjing. Which option lists them in the correct chronological order; from earliest to latest?,d,The Founding of Melbourne → Queen Victoria's Reign Begins → Myall Creek Massacre → The Opium Wars and Treaty of Nanjing,D,d,The Founding of Melbourne → Queen Victoria's Reign Begins → Myall Creek Massacre → The Opium Wars and Treaty of Nanjing,1
+317,MCQ,Consider the following events: Constitution of India Adopted; Creation of Pakistan; Joining of Newfoundland; Manhattan Project and Atomic Bombing of Hiroshima and Nagasaki. Which option lists them in the correct chronological order; from earliest to latest?,d,Manhattan Project and Atomic Bombing of Hiroshima and Nagasaki → Creation of Pakistan → Joining of Newfoundland → Constitution of India Adopted,D,d,Manhattan Project and Atomic Bombing of Hiroshima and Nagasaki → Creation of Pakistan → Joining of Newfoundland → Constitution of India Adopted,1
+318,MCQ,Consider the following events: 1st Labour Government Elected; Foundation of Modern Iraq; Spanish Civil War; Sydney Harbour Bridge Opens. Which option lists them in the correct chronological order; from earliest to latest?,a,Sydney Harbour Bridge Opens → Foundation of Modern Iraq → 1st Labour Government Elected → Spanish Civil War,C,c,1st Labour Government Elected → Sydney Harbour Bridge Opens → Spanish Civil War → Foundation of Modern Iraq,0
+319,MCQ,Consider the following events: Brown v. Board of Education; Independence from the United Kingdom; Nedelin Catastrophe; Signing of the Treaty of Rome. Which option lists them in the correct chronological order; from earliest to latest?,b,Brown v. Board of Education → Signing of the Treaty of Rome → Independence from the United Kingdom → Nedelin Catastrophe,A,a,Independence from the United Kingdom → Brown v. Board of Education → Signing of the Treaty of Rome → Nedelin Catastrophe,0
+320,MCQ,Consider the following events: Cannabis Legalization; GST (Goods and Services Tax) Implementation; Supreme Court Overturns Roe v. Wade; THAAD Deployment Controversy. Which option lists them in the correct chronological order; from earliest to latest?,b,THAAD Deployment Controversy → GST (Goods and Services Tax) Implementation → Cannabis Legalization → Supreme Court Overturns Roe v. Wade,B,b,THAAD Deployment Controversy → GST (Goods and Services Tax) Implementation → Cannabis Legalization → Supreme Court Overturns Roe v. Wade,1
+321,MCQ,Given the Constitution of India Adopted; which of the following events occurred after it?,d,Vietnam War,D,d,Vietnam War,1
+322,MCQ,Given the Bukharan People's Soviet Republic Formed; which of the following events occurred after it?,c,Establishment of Uzbek SSR,C,c,Establishment of Uzbek SSR,1
+323,MCQ,Given the Pakistan International Airlines Flight 268; which of the following events occurred closest in time after it?,d,MMP Electoral System Introduced,A,a,Rwandan Genocide,0
+324,MCQ,Consider the following events: Founding of Jamestown; Publication of the Edict of Nantes; Tokugawa Shogunate Established; Union of the Crowns. Which option lists them in the correct chronological order; from earliest to latest?,c,Publication of the Edict of Nantes → Union of the Crowns → Tokugawa Shogunate Established → Founding of Jamestown,C,c,Publication of the Edict of Nantes → Union of the Crowns → Tokugawa Shogunate Established → Founding of Jamestown,1
+325,MCQ,Given the SilkAir Flight 185; which of the following events occurred closest in time after it?,a,Establishment of Nunavut,A,a,Establishment of Nunavut,1
+326,MCQ,Given the Treaty of Punakha; which of the following events occurred after it?,d,Amalgamation of Northern and Southern Protectorates,D,d,Amalgamation of Northern and Southern Protectorates,1
+327,MCQ,Given the Swadeshi Movement; which of the following events occurred after it?,b,Treaty of Punakha,B,b,Treaty of Punakha,1
+328,MCQ,Consider the following events: Introduction of Television; Introduction of the Basic Law of Governance; Scottish Devolution Referendum; September 11 Attacks. Which option lists them in the correct chronological order; from earliest to latest?,a,Introduction of the Basic Law of Governance → Scottish Devolution Referendum → Introduction of Television → September 11 Attacks,D,d,Introduction of Television → Introduction of the Basic Law of Governance → September 11 Attacks → Scottish Devolution Referendum,0
+329,MCQ,Consider the following events: Boston Massacre; Boston Tea Party; Declaration of Independence; Tay Son Rebellion. Which option lists them in the correct chronological order; from earliest to latest?,a,Boston Massacre → Tay Son Rebellion → Boston Tea Party → Declaration of Independence,A,a,Boston Massacre → Tay Son Rebellion → Boston Tea Party → Declaration of Independence,1
+330,MCQ,Given the Establishment of Sharia Law; which of the following events occurred before it?,c,Establishment of Uzbek SSR,A,a,Foundation of Modern Iraq,0
+331,MCQ,Given the Hong Kong Handover; which of the following events occurred closest in time after it?,b,Introduction of the Euro,B,b,Introduction of the Euro,1
+332,MCQ,Consider the following events: Dandi March; Foundation of Modern Iraq; Introduction of Modern Education; Treaty of Jeddah. Which option lists them in the correct chronological order; from earliest to latest?,d,Introduction of Modern Education → Treaty of Jeddah → Dandi March → Foundation of Modern Iraq,D,d,Introduction of Modern Education → Treaty of Jeddah → Dandi March → Foundation of Modern Iraq,1
+333,MCQ,Given the Introduction of Modern Education; which of the following events occurred before it?,a,Russian Civil War,A,a,Russian Civil War,1
+334,MCQ,Given the Decriminalization of Homosexuality; which of the following events occurred closest in time after it?,d,First Gulf War,C,c,Oka Crisis,0
+335,MCQ,Given the Introduction of English as a Medium of Education; which of the following events occurred after it?,c,Battle of Singapore,B,b,1st Labour Government Elected,0
+336,MCQ,Given the Mount Tarawera Eruption; which of the following events occurred after it?,c,Sultanate Becomes a British Protectorate,C,c,Sultanate Becomes a British Protectorate,1
+337,MCQ,Consider the following events: Gilded Age; Iwakura Mission; Paris Commune; Suez Canal Opening. Which option lists them in the correct chronological order; from earliest to latest?,d,Suez Canal Opening → Gilded Age → Paris Commune → Iwakura Mission,D,d,Suez Canal Opening → Gilded Age → Paris Commune → Iwakura Mission,1
+338,MCQ,Given the Great Hanshin Earthquake; which of the following events occurred after it?,c,New Zealand Signs Kyoto Protocol,C,c,New Zealand Signs Kyoto Protocol,1
+339,MCQ,Given the Establishment of the Second Saudi State; which of the following events occurred before it?,d,Missouri Compromise,D,d,Missouri Compromise,1
+340,MCQ,Consider the following events: Benazir Income Support Programme Launch; Black Saturday Bushfires; Foreshore and Seabed Controversy; UK Hosts the G8 Summit. Which option lists them in the correct chronological order; from earliest to latest?,c,Foreshore and Seabed Controversy → UK Hosts the G8 Summit → Benazir Income Support Programme Launch → Black Saturday Bushfires,C,c,Foreshore and Seabed Controversy → UK Hosts the G8 Summit → Benazir Income Support Programme Launch → Black Saturday Bushfires,1
+341,MCQ,Given the Establishment of the Democratic People's Republic of Korea; which of the following events occurred closest in time after it?,b,Maria Hertogh Riots,A,a,Korean War,0
+342,MCQ,Consider the following events: Arrival of the First Fleet; French Revolution Begins; Reign of Terror Begins; Start of the French Revolution. Which option lists them in the correct chronological order; from earliest to latest?,a,Arrival of the First Fleet → French Revolution Begins → Start of the French Revolution → Reign of Terror Begins,A,a,Arrival of the First Fleet → French Revolution Begins → Start of the French Revolution → Reign of Terror Begins,1
+343,MCQ,Consider the following events: Creation of the Welfare State; Japanese Occupation of Vietnam; Kokoda Trail Campaign; Treaty of Taif. Which option lists them in the correct chronological order; from earliest to latest?,a,Treaty of Taif → Creation of the Welfare State → Japanese Occupation of Vietnam → Kokoda Trail Campaign,A,a,Treaty of Taif → Creation of the Welfare State → Japanese Occupation of Vietnam → Kokoda Trail Campaign,1
+344,MCQ,Consider the following events: Joan of Arc lifts the Siege of Orléans; Lê Dynasty Restoration; Ming Dynasty's Voyages of Zheng He; Zheng He's Expeditions. Which option lists them in the correct chronological order; from earliest to latest?,a,Lê Dynasty Restoration → Joan of Arc lifts the Siege of Orléans → Ming Dynasty's Voyages of Zheng He → Zheng He's Expeditions,A,a,Lê Dynasty Restoration → Joan of Arc lifts the Siege of Orléans → Ming Dynasty's Voyages of Zheng He → Zheng He's Expeditions,1
+345,MCQ,Consider the following events: Foundation of Modern Iraq; Social Security Act Passed; Spanish Civil War; Stalin's Great Purge. Which option lists them in the correct chronological order; from earliest to latest?,a,Foundation of Modern Iraq → Spanish Civil War → Stalin's Great Purge → Social Security Act Passed,A,a,Foundation of Modern Iraq → Spanish Civil War → Stalin's Great Purge → Social Security Act Passed,1
+346,MCQ,Consider the following events: Act of Union with Ireland; Battle of Trafalgar; Lewis and Clark Expedition; Napoleonic Code Enacted. Which option lists them in the correct chronological order; from earliest to latest?,d,Act of Union with Ireland → Lewis and Clark Expedition → Napoleonic Code Enacted → Battle of Trafalgar,D,d,Act of Union with Ireland → Lewis and Clark Expedition → Napoleonic Code Enacted → Battle of Trafalgar,1
+347,MCQ,Given the NAFTA Agreement Signed; which of the following events occurred closest in time after it?,c,MMP Electoral System Introduced,B,b,Vietnam Joins ASEAN,0
+348,MCQ,Consider the following events: Chartist Movement; Introduction of the Penny Post; Myall Creek Massacre; Queen Victoria's Reign Begins. Which option lists them in the correct chronological order; from earliest to latest?,c,Queen Victoria's Reign Begins → Chartist Movement → Myall Creek Massacre → Introduction of the Penny Post,C,c,Queen Victoria's Reign Begins → Chartist Movement → Myall Creek Massacre → Introduction of the Penny Post,1
+349,MCQ,Given the Berlusconi Elected Prime Minister; which of the following events occurred before it?,a,Pakistan's First Satellite Launch,A,a,Pakistan's First Satellite Launch,1
+350,MCQ,Consider the following events: Financial Crisis in Russia; Introduction of Goods and Services Tax (GST); Kyoto Protocol on Climate Change; Return of Hong Kong. Which option lists them in the correct chronological order; from earliest to latest?,d,Return of Hong Kong → Kyoto Protocol on Climate Change → Financial Crisis in Russia → Introduction of Goods and Services Tax (GST),D,d,Return of Hong Kong → Kyoto Protocol on Climate Change → Financial Crisis in Russia → Introduction of Goods and Services Tax (GST),1
+351,MCQ,Given the French Revolution Begins; which of the following events occurred before it?,c,Writing of the Federalist Papers,C,c,Writing of the Federalist Papers,1
+352,MCQ,Given the Long March; which of the following events occurred after it?,b,Labour Party Elected for the First Time,B,b,Labour Party Elected for the First Time,1
+353,MCQ,Given the The Shearers' Strike; which of the following events occurred closest in time after it?,d,The Gabo Reform,D,d,The Gabo Reform,1
+354,MCQ,Given the Moscow Theater Hostage Crisis; which of the following events occurred after it?,a,Protection of Women Act,A,a,Protection of Women Act,1
+355,MCQ,Given the Lapland War; which of the following events occurred closest in time after it?,d,Return of the British,C,c,Formation of the United Malays National Organisation,0
+356,MCQ,Consider the following events: Gold Rushes Begin; Perry Expedition and Opening of Japan; Second French Empire Declared; Taiping Rebellion. Which option lists them in the correct chronological order; from earliest to latest?,b,Taiping Rebellion → Gold Rushes Begin → Second French Empire Declared → Perry Expedition and Opening of Japan,B,b,Taiping Rebellion → Gold Rushes Begin → Second French Empire Declared → Perry Expedition and Opening of Japan,1
+357,MCQ,Consider the following events: Affordable Care Act (Obamacare) Implementation; Article 370 Revocation for Jammu & Kashmir; Green Movement; MV Sewol Ferry Sinking. Which option lists them in the correct chronological order; from earliest to latest?,a,Green Movement → Affordable Care Act (Obamacare) Implementation → MV Sewol Ferry Sinking → Article 370 Revocation for Jammu & Kashmir,A,a,Green Movement → Affordable Care Act (Obamacare) Implementation → MV Sewol Ferry Sinking → Article 370 Revocation for Jammu & Kashmir,1
+358,MCQ,Given the Saudi Intervention in Yemen; which of the following events occurred before it?,d,Malala Yousafzai's Nobel Peace Prize,D,d,Malala Yousafzai's Nobel Peace Prize,1
+359,MCQ,Consider the following events: Francoist Spain; Lahore Resolution (Pakistan Resolution); Spanish Civil War; Sydney Harbour Bridge Opens. Which option lists them in the correct chronological order; from earliest to latest?,b,Sydney Harbour Bridge Opens → Spanish Civil War → Francoist Spain → Lahore Resolution (Pakistan Resolution),B,b,Sydney Harbour Bridge Opens → Spanish Civil War → Francoist Spain → Lahore Resolution (Pakistan Resolution),1
+360,MCQ,Given the Aum Shinrikyo Tokyo Subway Sarin Attack; which of the following events occurred after it?,a,Port Arthur Massacre,A,a,Port Arthur Massacre,1
+361,MCQ,Given the Faisal I Becomes King of Iraq; which of the following events occurred after it?,d,Chauri Chaura Incident,D,d,Chauri Chaura Incident,1
+362,MCQ,Consider the following events: Indian Mars Orbiter Mission Success; Pakatan Harapan Electoral Victory; Release of Political Prisoners; Start of Swachh Bharat Mission. Which option lists them in the correct chronological order; from earliest to latest?,c,Start of Swachh Bharat Mission → Indian Mars Orbiter Mission Success → Release of Political Prisoners → Pakatan Harapan Electoral Victory,B,b,Indian Mars Orbiter Mission Success → Start of Swachh Bharat Mission → Pakatan Harapan Electoral Victory → Release of Political Prisoners,0
+363,MCQ,Given the Mau Mau Uprising; which of the following events occurred closest in time after it?,b,Brown v. Board of Education,C,c,Algerian War of Independence,0
+364,MCQ,Given the Oka Crisis; which of the following events occurred closest in time after it?,b,Economic Reforms and Liberalization,B,b,Economic Reforms and Liberalization,1
+365,MCQ,Given the Constitutional Revolution; which of the following events occurred after it?,c,Italian Invasion of Libya,C,c,Italian Invasion of Libya,1
+366,MCQ,Given the Joining of Newfoundland; which of the following events occurred after it?,d,Sultanate Abolished and Restored,D,d,Sultanate Abolished and Restored,1
+367,MCQ,Given the Gold Rushes Begin; which of the following events occurred before it?,d,First Schleswig War,D,d,First Schleswig War,1
+368,MCQ,Consider the following events: Forced Collectivization by Soviets; Founding of Saudi Aramco; Social Security Act Passed; Statute of Westminster. Which option lists them in the correct chronological order; from earliest to latest?,c,Forced Collectivization by Soviets → Statute of Westminster → Founding of Saudi Aramco → Social Security Act Passed,C,c,Forced Collectivization by Soviets → Statute of Westminster → Founding of Saudi Aramco → Social Security Act Passed,1
+369,MCQ,Given the Napoleonic Code Enacted; which of the following events occurred after it?,b,Battle of Trafalgar,B,b,Battle of Trafalgar,1
+370,MCQ,Consider the following events: Black Saturday Bushfires; Costa Concordia Shipwreck; Formation of the Māori Party; National Action Plan Against Terrorism. Which option lists them in the correct chronological order; from earliest to latest?,b,Formation of the Māori Party → Black Saturday Bushfires → Costa Concordia Shipwreck → National Action Plan Against Terrorism,B,b,Formation of the Māori Party → Black Saturday Bushfires → Costa Concordia Shipwreck → National Action Plan Against Terrorism,1
+371,MCQ,Given the Queen Victoria's Reign Begins; which of the following events occurred closest in time after it?,b,Trail of Tears,B,b,Trail of Tears,1
+372,MCQ,Given the Release of Political Prisoners; which of the following events occurred before it?,a,ETA's Permanent Ceasefire,C,c,Brexit Referendum,0
+373,MCQ,Consider the following events: Black Lives Matter Movement; Brexit Referendum; Introduction of UPI (Unified Payment Interface); Libyan Civil War. Which option lists them in the correct chronological order; from earliest to latest?,b,Libyan Civil War → Black Lives Matter Movement → Introduction of UPI (Unified Payment Interface) → Brexit Referendum,B,b,Libyan Civil War → Black Lives Matter Movement → Introduction of UPI (Unified Payment Interface) → Brexit Referendum,1
+374,MCQ,Given the Saudi Recognition of Pakistan; which of the following events occurred closest in time after it?,d,Establishment of the Welfare State,B,b,Founding of the People's Republic of China,0
+375,MCQ,Given the Singapore Joins the United Nations; which of the following events occurred before it?,d,Establishment of the National Liberation Front,C,c,Economic Development,0
+376,MCQ,Consider the following events: Division of Korea; Establishment of King Abdulaziz University; Return of the British; San Francisco Peace Treaty Signed. Which option lists them in the correct chronological order; from earliest to latest?,b,Division of Korea → Return of the British → Establishment of King Abdulaziz University → San Francisco Peace Treaty Signed,D,d,Division of Korea → Return of the British → San Francisco Peace Treaty Signed → Establishment of King Abdulaziz University,0
+377,MCQ,Given the Cripps Mission; which of the following events occurred before it?,c,Marco Polo Bridge Incident,C,c,Marco Polo Bridge Incident,1
+378,MCQ,Consider the following events: Auckland Harbour Bridge Protests; East Pakistan demands autonomy; Independence from France; Independence from Portugal. Which option lists them in the correct chronological order; from earliest to latest?,b,East Pakistan demands autonomy → Independence from Portugal → Independence from France → Auckland Harbour Bridge Protests,B,b,East Pakistan demands autonomy → Independence from Portugal → Independence from France → Auckland Harbour Bridge Protests,1
+379,MCQ,Given the Creation of the Canadian Flag; which of the following events occurred before it?,a,Nedelin Catastrophe,A,a,Nedelin Catastrophe,1
+380,MCQ,Consider the following events: Establishment of the University of Ceylon; Korean Liberation; Lapland War; Malayan Emergency. Which option lists them in the correct chronological order; from earliest to latest?,a,Establishment of the University of Ceylon → Lapland War → Korean Liberation → Malayan Emergency,A,a,Establishment of the University of Ceylon → Lapland War → Korean Liberation → Malayan Emergency,1
+381,MCQ,Given the Quit India Movement; which of the following events occurred before it?,c,Stalin's Great Purge,C,c,Stalin's Great Purge,1
+382,MCQ,Consider the following events: Alhambra Decree; Beginning of the French Renaissance; Discovery of the Americas; Ivan III Tripled the Territory of Russia. Which option lists them in the correct chronological order; from earliest to latest?,b,Ivan III Tripled the Territory of Russia → Discovery of the Americas → Alhambra Decree → Beginning of the French Renaissance,B,b,Ivan III Tripled the Territory of Russia → Discovery of the Americas → Alhambra Decree → Beginning of the French Renaissance,1
+383,MCQ,Consider the following events: Apology to Australia's Indigenous Peoples; Enactment of the Patriot Act; Riyadh Compound Bombings; UK Hosts the G8 Summit. Which option lists them in the correct chronological order; from earliest to latest?,d,Enactment of the Patriot Act → Riyadh Compound Bombings → UK Hosts the G8 Summit → Apology to Australia's Indigenous Peoples,D,d,Enactment of the Patriot Act → Riyadh Compound Bombings → UK Hosts the G8 Summit → Apology to Australia's Indigenous Peoples,1
+384,MCQ,Consider the following events: Independence from Portugal; Oil Crisis and Economic Shift; Oil Revenue Boom; Transition to Democracy. Which option lists them in the correct chronological order; from earliest to latest?,a,Oil Revenue Boom → Oil Crisis and Economic Shift → Independence from Portugal → Transition to Democracy,A,a,Oil Revenue Boom → Oil Crisis and Economic Shift → Independence from Portugal → Transition to Democracy,1
+385,MCQ,Given the Establishment of King Abdulaziz University; which of the following events occurred before it?,c,United Nations Charter Ratification,D,d,Korean War,0
+386,MCQ,Given the Rwandan Genocide; which of the following events occurred after it?,b,Hong Kong Handover,B,b,Hong Kong Handover,1
+387,MCQ,Given the Jallianwala Bagh Massacre; which of the following events occurred before it?,d,Alash Autonomy Declaration,D,d,Alash Autonomy Declaration,1
+388,MCQ,Given the Trail of Tears; which of the following events occurred after it?,c,Signing of the Treaty of Waitangi,C,c,Signing of the Treaty of Waitangi,1
+389,MCQ,Consider the following events: Creation of the Canadian Flag; Indian Space Research Organisation (ISRO); Karachi Nuclear Power Plant Operational; Pueblo Incident. Which option lists them in the correct chronological order; from earliest to latest?,d,Creation of the Canadian Flag → Pueblo Incident → Indian Space Research Organisation (ISRO) → Karachi Nuclear Power Plant Operational,D,d,Creation of the Canadian Flag → Pueblo Incident → Indian Space Research Organisation (ISRO) → Karachi Nuclear Power Plant Operational,1
+390,MCQ,Given the The Beatles' Rise to Fame; which of the following events occurred before it?,b,Establishment of the National Liberation Front,B,b,Establishment of the National Liberation Front,1
+391,MCQ,Given the Independence from Britain; which of the following events occurred after it?,d,Roe v. Wade Supreme Court Decision,D,d,Roe v. Wade Supreme Court Decision,1
+392,MCQ,Given the Establishment of King Abdulaziz University; which of the following events occurred closest in time after it?,b,Death of Joseph Stalin,D,d,Armistice Agreement,0
+393,MCQ,Given the Financial Crisis in Russia; which of the following events occurred closest in time after it?,c,Introduction of Television,D,d,Return of Macau,0
+394,MCQ,Given the British Occupation of Basra; which of the following events occurred after it?,a,Spanish Flu Pandemic,A,a,Spanish Flu Pandemic,1
+395,MCQ,Given the Japanese Occupation of Malaya; which of the following events occurred before it?,c,Battle of Britain,C,c,Battle of Britain,1
+396,MCQ,Given the Creation of the Welfare State; which of the following events occurred after it?,d,Lahore Resolution (Pakistan Resolution),A,a,Treaty of Taif,0
+397,MCQ,Given the North Korea's First Nuclear Test; which of the following events occurred after it?,b,Apology to Residential School Survivors,B,b,Apology to Residential School Survivors,1
+398,MCQ,Given the Zhanaozen Massacre; which of the following events occurred closest in time after it?,c,AirAsia Flight QZ8501,C,c,AirAsia Flight QZ8501,1
+399,MCQ,Given the Second Nuclear Test; which of the following events occurred closest in time after it?,a,Tunisian Revolution,C,c,Vancouver Winter Olympics,0
+400,MCQ,Given the New Zealand Bill of Rights Act; which of the following events occurred before it?,d,Operation Carlota Ends,D,d,Operation Carlota Ends,1
+401,MCQ,Given the Pakatan Harapan Electoral Victory; which of the following events occurred after it?,b,Ram Mandir Bhoomi Pujan,A,a,Imran Khan Elected as Prime Minister,0
+402,MCQ,Consider the following events: Berlusconi Elected Prime Minister; Japan's Apology for WWII Aggressions; Korean Air Flight 801; Philippine Airlines Flight 434. Which option lists them in the correct chronological order; from earliest to latest?,c,Berlusconi Elected Prime Minister → Philippine Airlines Flight 434 → Japan's Apology for WWII Aggressions → Korean Air Flight 801,C,c,Berlusconi Elected Prime Minister → Philippine Airlines Flight 434 → Japan's Apology for WWII Aggressions → Korean Air Flight 801,1
+403,MCQ,Given the Seoul Olympics; which of the following events occurred before it?,d,Decriminalization of Homosexuality,C,c,Elected Presidency Introduced,0
+404,MCQ,Given the Boko Haram Insurgency Intensifies; which of the following events occurred before it?,a,HEC Digital Library Initiative,C,c,Second Nuclear Test,0
+405,MCQ,Consider the following events: Atomic Bombings of Hiroshima and Nagasaki; Creation of the Welfare State; Japanese Occupation; Stalin's Great Purge. Which option lists them in the correct chronological order; from earliest to latest?,a,Stalin's Great Purge → Creation of the Welfare State → Japanese Occupation → Atomic Bombings of Hiroshima and Nagasaki,B,b,Japanese Occupation → Creation of the Welfare State → Stalin's Great Purge → Atomic Bombings of Hiroshima and Nagasaki,0
+406,MCQ,Given the Hong Kong Handover; which of the following events occurred closest in time after it?,c,Kargil Conflict,C,c,Kargil Conflict,1
+407,MCQ,Given the Union with Sweden; which of the following events occurred closest in time after it?,c,End of Napoleonic Wars,D,d,Battle of Waterloo,0
+408,MCQ,Given the Cannabis Legalization; which of the following events occurred closest in time after it?,c,Exhumation of Francisco Franco,A,a,Launch of 5G Services,0
+409,MCQ,Consider the following events: Fall of the Berlin Wall; Heisei Era Begins; Mabo v Queensland Decision; Resource Management Act Enacted. Which option lists them in the correct chronological order; from earliest to latest?,b,Fall of the Berlin Wall → Heisei Era Begins → Resource Management Act Enacted → Mabo v Queensland Decision,B,b,Fall of the Berlin Wall → Heisei Era Begins → Resource Management Act Enacted → Mabo v Queensland Decision,1
+410,MCQ,Given the Attack on Pearl Harbor; which of the following events occurred before it?,b,New Zealand Expeditionary Force in WWII,B,b,New Zealand Expeditionary Force in WWII,1
+411,MCQ,Given the 1st Labour Government Elected; which of the following events occurred after it?,a,Battle of Britain,B,b,Establishment of the Kingdom of Saudi Arabia,0
+412,MCQ,Given the Pakistan International Airlines Flight 268; which of the following events occurred closest in time after it?,c,End of Apartheid,C,c,End of Apartheid,1
+413,MCQ,Consider the following events: April Revolution; Independence from Britain; Independence from France; Queen Elizabeth II's Coronation. Which option lists them in the correct chronological order; from earliest to latest?,b,Queen Elizabeth II's Coronation → Independence from France → Independence from Britain → April Revolution,C,c,Queen Elizabeth II's Coronation → April Revolution → Independence from France → Independence from Britain,0
+414,MCQ,Given the Islamabad Declaration; which of the following events occurred after it?,c,Japan Airlines Flight 123,C,c,Japan Airlines Flight 123,1
+415,MCQ,Given the Death of Islam Karimov; which of the following events occurred closest in time after it?,b,Catalan Independence Referendum,B,b,Catalan Independence Referendum,1
+416,MCQ,Consider the following events: Dred Scott Decision; Gold Rushes Begin; Introduction of the New Zealand Constitution Act; Seneca Falls Convention. Which option lists them in the correct chronological order; from earliest to latest?,d,Seneca Falls Convention → Gold Rushes Begin → Introduction of the New Zealand Constitution Act → Dred Scott Decision,D,d,Seneca Falls Convention → Gold Rushes Begin → Introduction of the New Zealand Constitution Act → Dred Scott Decision,1
+417,MCQ,Given the Signing of the ANZUS Treaty; which of the following events occurred before it?,c,Joining of Newfoundland,C,c,Joining of Newfoundland,1
+418,MCQ,Given the Chauri Chaura Incident; which of the following events occurred after it?,c,Establishment of the Uzbek Soviet Socialist Republic,C,c,Establishment of the Uzbek Soviet Socialist Republic,1
+419,MCQ,Given the Sharpeville Massacre; which of the following events occurred closest in time after it?,a,Vietnam War Involvement,D,d,Independence from Belgium,0
+420,MCQ,Given the Battle of Britain; which of the following events occurred before it?,d,Creation of the Welfare State,D,d,Creation of the Welfare State,1
+421,MCQ,Consider the following events: Completion of the Canadian Pacific Railway; Formal British Protectorate Status; Mahdist War; Refrigerated Shipping Invented. Which option lists them in the correct chronological order; from earliest to latest?,b,Mahdist War → Refrigerated Shipping Invented → Completion of the Canadian Pacific Railway → Formal British Protectorate Status,B,b,Mahdist War → Refrigerated Shipping Invented → Completion of the Canadian Pacific Railway → Formal British Protectorate Status,1
+422,MCQ,Given the Sinhala Only Act; which of the following events occurred closest in time after it?,c,Great Leap Forward,C,c,Great Leap Forward,1
+423,MCQ,Given the Completion of the Canadian Pacific Railway; which of the following events occurred after it?,d,Mount Tarawera Eruption,C,c,Formation of Indian National Congress,0
+424,MCQ,Given the Citizenship Amendment Act (CAA) Implementation; which of the following events occurred after it?,b,First Woman Vice President Elected,B,b,First Woman Vice President Elected,1
+425,MCQ,Given the Launch of Sputnik 1; which of the following events occurred closest in time after it?,d,Dahomey (Benin) Independence,A,a,Independence from Belgium,0
+426,MCQ,Given the Compulsory Military Training Introduced; which of the following events occurred closest in time after it?,d,Constitution of India Adopted,D,d,Constitution of India Adopted,1
+427,MCQ,Given the Decriminalisation of Section 377; which of the following events occurred before it?,b,Typhoon Damrey Strikes Vietnam,A,a,Tham Luang Cave Rescue,0
+428,MCQ,Given the British Occupation of Basra; which of the following events occurred after it?,a,Women's Suffrage Achieved,A,a,Women's Suffrage Achieved,1
+429,MCQ,Consider the following events: 'Tampa' Refugee Crisis; China Airlines Flight 611; Kyoto Protocol on Climate Change; New Zealand's First Female Prime Minister. Which option lists them in the correct chronological order; from earliest to latest?,b,Kyoto Protocol on Climate Change → New Zealand's First Female Prime Minister → 'Tampa' Refugee Crisis → China Airlines Flight 611,B,b,Kyoto Protocol on Climate Change → New Zealand's First Female Prime Minister → 'Tampa' Refugee Crisis → China Airlines Flight 611,1
+430,MCQ,Given the Bukharan People's Soviet Republic Formed; which of the following events occurred after it?,b,Russian Civil War,B,b,Russian Civil War,1
+431,MCQ,Consider the following events: Nguyễn Dynasty's Expansion Southwards; Taj Mahal; The Spanish Golden Age; Treaty of Roskilde. Which option lists them in the correct chronological order; from earliest to latest?,d,Nguyễn Dynasty's Expansion Southwards → The Spanish Golden Age → Taj Mahal → Treaty of Roskilde,A,a,Treaty of Roskilde → Taj Mahal → The Spanish Golden Age → Nguyễn Dynasty's Expansion Southwards,0
+432,MCQ,Given the India's First Transgender University; which of the following events occurred before it?,d,Skripal Poisoning Incident,A,a,Decriminalization of Homosexuality,0
+433,MCQ,Given the Finnish Civil War; which of the following events occurred after it?,a,Establishment of the Provisional Government,A,a,Establishment of the Provisional Government,1
+434,MCQ,Consider the following events: Abolition of the Slave Trade Act; Finnish War and Cession to Russia; Lewis and Clark Expedition; Signing of the Treaty of Fredrikshamn. Which option lists them in the correct chronological order; from earliest to latest?,b,Lewis and Clark Expedition → Abolition of the Slave Trade Act → Finnish War and Cession to Russia → Signing of the Treaty of Fredrikshamn,B,b,Lewis and Clark Expedition → Abolition of the Slave Trade Act → Finnish War and Cession to Russia → Signing of the Treaty of Fredrikshamn,1
+435,MCQ,Given the Introduction of the Basic Law of Governance; which of the following events occurred after it?,b,Constitutional Crisis in Russia,B,b,Constitutional Crisis in Russia,1
+436,MCQ,Given the Saudi Arabia Becomes a Member of the UN; which of the following events occurred closest in time after it?,a,Partition Plan Announced,C,c,Independence from British Rule,0
+437,MCQ,Given the Reunification of Vietnam; which of the following events occurred after it?,a,Abolition of Slavery Enforced,C,c,New Economic Policy Introduced,0
+438,MCQ,Given the Hurricane Katrina; which of the following events occurred before it?,a,Gwadar Port Development,A,a,Gwadar Port Development,1
+439,MCQ,Given the Pakatan Harapan Electoral Victory; which of the following events occurred after it?,a,Supreme Court Overturns Roe v. Wade,A,a,Supreme Court Overturns Roe v. Wade,1
+440,MCQ,Given the Alash Autonomy Declaration; which of the following events occurred closest in time after it?,d,Jallianwala Bagh Massacre,C,c,March 1st Movement,0
+441,MCQ,Given the Bukhara Emirate Overthrown by Bolsheviks; which of the following events occurred before it?,d,Jallianwala Bagh Massacre,B,b,Russian Civil War,0
+442,MCQ,Consider the following events: Comprehensive Peace Agreement; Gwadar Port Development; Protection of Women Act; Shanghai Cooperation Organization Establishment. Which option lists them in the correct chronological order; from earliest to latest?,b,Shanghai Cooperation Organization Establishment → Gwadar Port Development → Comprehensive Peace Agreement → Protection of Women Act,B,b,Shanghai Cooperation Organization Establishment → Gwadar Port Development → Comprehensive Peace Agreement → Protection of Women Act,1
+443,MCQ,Given the THAAD Deployment Controversy; which of the following events occurred after it?,a,Kartarpur Corridor Opening,A,a,Kartarpur Corridor Opening,1
+444,MCQ,Given the Korean Empire Proclaimed; which of the following events occurred before it?,c,Women's Suffrage Achieved,C,c,Women's Suffrage Achieved,1
+445,MCQ,Consider the following events: Alhambra Decree; Beginning of the French Renaissance; Expulsion of the Jews; Funding of Christopher Columbus' Voyage. Which option lists them in the correct chronological order; from earliest to latest?,c,Alhambra Decree → Expulsion of the Jews → Funding of Christopher Columbus' Voyage → Beginning of the French Renaissance,C,c,Alhambra Decree → Expulsion of the Jews → Funding of Christopher Columbus' Voyage → Beginning of the French Renaissance,1
+446,MCQ,Given the Women's Suffrage Achieved; which of the following events occurred before it?,c,The Shearers' Strike,C,c,The Shearers' Strike,1
+447,MCQ,Given the Operation Blue Star; which of the following events occurred before it?,a,Falklands War,A,a,Falklands War,1
+448,MCQ,Given the Resource Management Act Enacted; which of the following events occurred before it?,d,Recognition of the Māori Language,D,d,Recognition of the Māori Language,1
+449,MCQ,Given the Swadeshi Movement; which of the following events occurred closest in time after it?,b,Establishment of Monarchy,D,d,Treaty of Punakha with British India,0
+450,MCQ,Given the Constitutional Revolution; which of the following events occurred closest in time after it?,b,Establishment of Monarchy,A,a,Italian Invasion of Libya,0
+451,MCQ,Consider the following events: Introduction of English as a Medium of Education; Lahore Resolution (Pakistan Resolution); Stalin's Great Purge; State Housing Introduced. Which option lists them in the correct chronological order; from earliest to latest?,b,State Housing Introduced → Stalin's Great Purge → Introduction of English as a Medium of Education → Lahore Resolution (Pakistan Resolution),C,c,Introduction of English as a Medium of Education → Stalin's Great Purge → Lahore Resolution (Pakistan Resolution) → State Housing Introduced,0
+452,MCQ,Given the ANZAC troops land at Gallipoli; which of the following events occurred closest in time after it?,d,Battle of Vimy Ridge,D,d,Battle of Vimy Ridge,1
+453,MCQ,Given the Women Gain the Right to Vote; which of the following events occurred before it?,c,Black Friday Bushfires,C,c,Black Friday Bushfires,1
+454,MCQ,Consider the following events: #EndSARS Protests; Costa Concordia Shipwreck; Murdered and Missing Indigenous Women Inquiry; South China Sea Arbitration Ruling. Which option lists them in the correct chronological order; from earliest to latest?,c,Costa Concordia Shipwreck → Murdered and Missing Indigenous Women Inquiry → South China Sea Arbitration Ruling → #EndSARS Protests,C,c,Costa Concordia Shipwreck → Murdered and Missing Indigenous Women Inquiry → South China Sea Arbitration Ruling → #EndSARS Protests,1
+455,MCQ,Given the Tiananmen Square Protests; which of the following events occurred closest in time after it?,d,Nelson Mandela's Release from Prison,D,d,Nelson Mandela's Release from Prison,1
+456,MCQ,Given the China Hosts the Olympic Games; which of the following events occurred closest in time after it?,c,Victory over Terrorism Day,C,c,Victory over Terrorism Day,1
+457,MCQ,Given the Shanghai Cooperation Organization Establishment; which of the following events occurred after it?,a,Foreshore and Seabed Controversy,C,c,September 11 Attacks,0
+458,MCQ,Consider the following events: Catalan Independence Referendum; ISIS Captures Mosul; Introduction of UPI (Unified Payment Interface); Victory over Terrorism Day. Which option lists them in the correct chronological order; from earliest to latest?,a,Victory over Terrorism Day → ISIS Captures Mosul → Introduction of UPI (Unified Payment Interface) → Catalan Independence Referendum,A,a,Victory over Terrorism Day → ISIS Captures Mosul → Introduction of UPI (Unified Payment Interface) → Catalan Independence Referendum,1
+459,MCQ,Given the Establishment of the Central Bank of Sri Lanka; which of the following events occurred before it?,a,National Health Service Established,A,a,National Health Service Established,1
+460,MCQ,Given the Battle of Algiers; which of the following events occurred before it?,d,Brown v. Board of Education,D,d,Brown v. Board of Education,1
+461,MCQ,Given the Operation Blue Star; which of the following events occurred before it?,d,Abolition of Slavery,D,d,Abolition of Slavery,1
+462,MCQ,Consider the following events: Arrival of Vasco da Gama; Beginning of the French Renaissance; Leonardo da Vinci Completes the Mona Lisa; Silk Road Decline. Which option lists them in the correct chronological order; from earliest to latest?,c,Beginning of the French Renaissance → Arrival of Vasco da Gama → Silk Road Decline → Leonardo da Vinci Completes the Mona Lisa,D,d,Silk Road Decline → Beginning of the French Renaissance → Arrival of Vasco da Gama → Leonardo da Vinci Completes the Mona Lisa,0
+463,MCQ,Given the Establishment of the Mahaweli Development Project; which of the following events occurred before it?,a,Paris Peace Accords,A,a,Paris Peace Accords,1
+464,MCQ,Consider the following events: Bhopal Gas Tragedy; Execution of Barlow and Chambers; Operation Blue Star; Rogernomics Initiatives Begin. Which option lists them in the correct chronological order; from earliest to latest?,b,Rogernomics Initiatives Begin → Operation Blue Star → Bhopal Gas Tragedy → Execution of Barlow and Chambers,B,b,Rogernomics Initiatives Begin → Operation Blue Star → Bhopal Gas Tragedy → Execution of Barlow and Chambers,1
+465,MCQ,Given the Formal British Protectorate Status; which of the following events occurred after it?,d,The Shearers' Strike,D,d,The Shearers' Strike,1
+466,MCQ,Given the May 16 Coup; which of the following events occurred after it?,b,Singapore Joins the United Nations,B,b,Singapore Joins the United Nations,1
+467,MCQ,Given the Hong Kong Handover; which of the following events occurred closest in time after it?,a,Financial Crisis in Russia,A,a,Financial Crisis in Russia,1
+468,MCQ,Given the Armistice Agreement; which of the following events occurred after it?,c,Launch of Sputnik 1,C,c,Launch of Sputnik 1,1
+469,MCQ,Consider the following events: Boko Haram Insurgency Intensifies; France Bans Smoking in Public Places; Protection of Women Act; Riyadh Compound Bombings. Which option lists them in the correct chronological order; from earliest to latest?,c,Riyadh Compound Bombings → Protection of Women Act → France Bans Smoking in Public Places → Boko Haram Insurgency Intensifies,C,c,Riyadh Compound Bombings → Protection of Women Act → France Bans Smoking in Public Places → Boko Haram Insurgency Intensifies,1
+470,MCQ,Given the ETA's Permanent Ceasefire; which of the following events occurred after it?,c,Royal Commission into Institutional Responses...,C,c,Royal Commission into Institutional Responses...,1
+471,MCQ,Given the Trail of Tears; which of the following events occurred closest in time after it?,c,Introduction of the Penny Post,A,a,Signing of the Treaty of Waitangi,0
+472,MCQ,Given the Establishment of the Democratic People's Republic of Korea; which of the following events occurred closest in time after it?,c,Joining of Newfoundland,C,c,Joining of Newfoundland,1
+473,MCQ,Given the Long March; which of the following events occurred before it?,a,Signing of the Lateran Treaty,A,a,Signing of the Lateran Treaty,1
+474,MCQ,Given the Scottish Devolution Referendum; which of the following events occurred before it?,a,Barcelona Olympics,A,a,Barcelona Olympics,1
+475,MCQ,Given the Securities and Exchange Board of India (SEBI); which of the following events occurred before it?,c,Entry into the European Union,D,d,Seoul Olympics,0
+476,MCQ,Given the Signing of the Treaty of Fredrikshamn; which of the following events occurred after it?,c,Union with Sweden,B,b,Finnish War and Cession to Russia,0
+477,MCQ,Given the Operation Carlota Ends; which of the following events occurred after it?,a,Berlusconi Elected Prime Minister,B,b,Challenger Space Shuttle Disaster,0
+478,MCQ,Given the Pulwama Terrorist Attack; which of the following events occurred before it?,b,Charlottesville Rally and Violence,B,b,Charlottesville Rally and Violence,1
+479,MCQ,Consider the following events: 18th Amendment to the Constitution; Benazir Income Support Programme Launch; Black Lives Matter Movement; King Abdullah's Ascension. Which option lists them in the correct chronological order; from earliest to latest?,c,King Abdullah's Ascension → Benazir Income Support Programme Launch → 18th Amendment to the Constitution → Black Lives Matter Movement,C,c,King Abdullah's Ascension → Benazir Income Support Programme Launch → 18th Amendment to the Constitution → Black Lives Matter Movement,1
+480,MCQ,Given the Shanghai Cooperation Organization Establishment; which of the following events occurred closest in time after it?,b,London Underground Bombings,B,b,London Underground Bombings,1
+481,MCQ,Given the Spanish Armada; which of the following events occurred after it?,b,Japanese Invasions of Korea (Imjin War),D,d,The Armada Portrait of Elizabeth I,0
+482,MCQ,Consider the following events: Creation of the Saudi Riyal; Forced Sedentarization of Nomads; Kingdom of Iraq Independence; Reserve Bank of India (RBI). Which option lists them in the correct chronological order; from earliest to latest?,b,Creation of the Saudi Riyal → Forced Sedentarization of Nomads → Kingdom of Iraq Independence → Reserve Bank of India (RBI),A,a,Creation of the Saudi Riyal → Kingdom of Iraq Independence → Reserve Bank of India (RBI) → Forced Sedentarization of Nomads,0
+483,MCQ,Given the Decriminalization of Homosexuality; which of the following events occurred before it?,c,India's Demonetisation Campaign,C,c,India's Demonetisation Campaign,1
+484,MCQ,Given the Establishment of Nunavut; which of the following events occurred before it?,d,Philippine Airlines Flight 434,D,d,Philippine Airlines Flight 434,1
+485,MCQ,Given the Introduction of Free Education Act; which of the following events occurred before it?,a,Nazi Germany Invades the Soviet Union,A,a,Nazi Germany Invades the Soviet Union,1
+486,MCQ,Given the Entry into the European Union; which of the following events occurred after it?,c,MV Doña Paz Collision,C,c,MV Doña Paz Collision,1
+487,MCQ,Consider the following events: Boris Yeltsin Elected as First President of Russia; First Gulf War; Independence from the Soviet Union; Recognition of the Māori Language. Which option lists them in the correct chronological order; from earliest to latest?,b,Recognition of the Māori Language → First Gulf War → Independence from the Soviet Union → Boris Yeltsin Elected as First President of Russia,B,b,Recognition of the Māori Language → First Gulf War → Independence from the Soviet Union → Boris Yeltsin Elected as First President of Russia,1
+488,MCQ,Given the Presidential Transition; which of the following events occurred after it?,b,Supreme Court Overturns Roe v. Wade,B,b,Supreme Court Overturns Roe v. Wade,1
+489,MCQ,Consider the following events: Alaska Purchase; Emancipation Proclamation; Māori Seats Established in Parliament; Treaty of Sinchula. Which option lists them in the correct chronological order; from earliest to latest?,a,Emancipation Proclamation → Treaty of Sinchula → Alaska Purchase → Māori Seats Established in Parliament,A,a,Emancipation Proclamation → Treaty of Sinchula → Alaska Purchase → Māori Seats Established in Parliament,1
+490,MCQ,Given the Auckland Harbour Bridge Protests; which of the following events occurred after it?,c,Islamabad Declaration,A,a,Laju Ferry Hijacking,0
+491,MCQ,Given the MV Doña Paz Collision; which of the following events occurred after it?,c,Mozambique Civil War Ends,C,c,Mozambique Civil War Ends,1
+492,MCQ,Given the Yalta Conference; which of the following events occurred closest in time after it?,d,Integration of Princely States,B,b,Saudi Recognition of Pakistan,0
+493,MCQ,Consider the following events: Alash Autonomy Declaration; British Mandate of Mesopotamia; Entry into World War I; Mussolini's March on Rome. Which option lists them in the correct chronological order; from earliest to latest?,c,Alash Autonomy Declaration → Entry into World War I → British Mandate of Mesopotamia → Mussolini's March on Rome,A,a,Entry into World War I → Alash Autonomy Declaration → British Mandate of Mesopotamia → Mussolini's March on Rome,0
+494,MCQ,Given the Unification of Italy Proclaimed; which of the following events occurred closest in time after it?,d,Homestead Act,D,d,Homestead Act,1
+495,MCQ,Given the Xi Jinping Assumes Presidency; which of the following events occurred after it?,d,Jio Telecom Launch,D,d,Jio Telecom Launch,1
+496,MCQ,Given the New Zealand Expeditionary Force in WWII; which of the following events occurred after it?,c,Cripps Mission,C,c,Cripps Mission,1
+497,MCQ,Given the Independence from Portugal; which of the following events occurred before it?,a,Land Reform Law Enacted,B,b,Whitlam Government's Dismissal,0
+498,MCQ,Given the Cultural Revolution; which of the following events occurred after it?,c,Pueblo Incident,B,b,Separation and Independence,0
+499,MCQ,Given the Rogernomics Initiatives Begin; which of the following events occurred closest in time after it?,d,Challenger Space Shuttle Disaster,D,d,Challenger Space Shuttle Disaster,1
+500,MCQ,Given the Ram Mandir Bhoomi Pujan; which of the following events occurred closest in time after it?,c,Launch of James Webb Space Telescope,B,b,Paris Agreement Rejoining,0

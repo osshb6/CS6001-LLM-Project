@@ -1,0 +1,501 @@
+question_id,format,question,gold_letter,gold_text,model_raw,model_letter,model_text,correct
+1,TF,Benin was established before Eswatini and after Central African Republic.,a,True,False,b,False,0
+2,TF,Chad was established before Botswana and after Maldives.,b,False,False,b,False,1
+3,TF,Laos was established before Eswatini and after Cambodia.,a,True,True,a,True,1
+4,TF,Central African Republic was established before Fiji and after Niger.,b,False,True,a,True,0
+5,TF,Nigeria was established before Algeria and after Burkina Faso.,b,False,True,a,True,0
+6,TF,Algeria was established before Jamaica and after Malaysia.,a,True,True,a,True,1
+7,TF,Angola was established before Brunei and after Bangladesh.,a,True,True,a,True,1
+8,TF,China was established before Malaysia and after Lebanon.,a,True,True,a,True,1
+9,TF,Madagascar was established before Maldives and after Chad.,a,True,False,b,False,0
+10,TF,Estonia was established before Azerbaijan and after Kazakhstan.,a,True,False,b,False,0
+11,TF,Nauru was established before Grenada and after Gambia.,a,True,True,a,True,1
+12,TF,Ghana was established before Mauritius and after Barbados.,b,False,False,b,False,1
+13,TF,Gabon was established before Eswatini and after Maldives.,b,False,False,b,False,1
+14,TF,Nauru was established before Guinea-Bissau and after Botswana.,a,True,True,a,True,1
+15,TF,Malta was established before Fiji and after Maldives.,b,False,False,b,False,1
+16,TF,Madagascar was established before Jamaica and after Cambodia.,a,True,True,a,True,1
+17,TF,Mauritania was established before Bahrain and after Mauritius.,b,False,False,b,False,1
+18,TF,Austria was established before Jamaica and after Kuwait.,b,False,False,b,False,1
+19,TF,Malta was established before Iran and after Grenada.,b,False,False,b,False,1
+20,TF,Barbados was established before Bangladesh and after Ghana.,a,True,True,a,True,1
+21,TF,Burundi was established before Gambia and after Libya.,a,True,True,a,True,1
+22,TF,Iran was established before Lithuania and after Cape Verde.,a,True,False,b,False,0
+23,TF,Ghana was established before Burkina Faso and after Benin.,b,False,False,b,False,1
+24,TF,Madagascar was established before Guinea-Bissau and after Kenya.,b,False,False,b,False,1
+25,TF,Libya was established before Nigeria and after Laos.,b,False,True,a,True,0
+26,TF,Morocco was established before Fiji and after Mauritius.,b,False,False,b,False,1
+27,TF,Gabon was established before Bahamas and after Guinea.,a,True,True,a,True,1
+28,TF,Gabon was established before Bahamas and after Chad.,b,False,True,a,True,0
+29,TF,North Macedonia was established before Czech Republic and after Azerbaijan.,b,False,False,b,False,1
+30,TF,Cambodia was established before Mauritius and after Ghana.,b,False,False,b,False,1
+31,TF,Cambodia was established before Eswatini and after Gambia.,b,False,False,b,False,1
+32,TF,Central African Republic was established before Maldives and after Cameroon.,b,False,True,a,True,0
+33,TF,Guinea was established before Kenya and after Jamaica.,b,False,False,b,False,1
+34,TF,Kenya was established before Lesotho and after Cameroon.,a,True,True,a,True,1
+35,TF,Guinea-Bissau was established before Antigua and Barbuda and after Eswatini.,a,True,True,a,True,1
+36,TF,Indonesia was established before Mauritania and after Austria.,b,False,True,a,True,0
+37,TF,Libya was established before Burundi and after Kuwait.,b,False,False,b,False,1
+38,TF,Benin was established before Grenada and after Eswatini.,b,False,False,b,False,1
+39,TF,Micronesia was established before Kyrgyzstan and after Azerbaijan.,b,False,False,b,False,1
+40,TF,Georgia was established before North Macedonia and after Estonia.,b,False,True,a,True,0
+41,TF,Mauritania was established before Botswana and after Ivory Coast.,a,True,True,a,True,1
+42,TF,Mozambique was established before Lithuania and after Brunei.,b,False,False,b,False,1
+43,TF,Jamaica was established before Bahrain and after Democratic Republic of the Congo.,a,True,True,a,True,1
+44,TF,Botswana was established before Angola and after Kuwait.,a,True,True,a,True,1
+45,TF,Burkina Faso was established before Guinea-Bissau and after Jamaica.,b,False,False,b,False,1
+46,TF,Kenya was established before Lesotho and after Burundi.,a,True,True,a,True,1
+47,TF,Cameroon was established before Gambia and after Kenya.,b,False,False,b,False,1
+48,TF,Burundi was established before Djibouti and after Grenada.,b,False,False,b,False,1
+49,TF,Fiji was established before Angola and after Burkina Faso.,a,True,True,a,True,1
+50,TF,Barbados was established before Comoros and after Nauru.,b,False,False,b,False,1
+51,TF,Nigeria was established before Cape Verde and after Cameroon.,b,False,True,a,True,0
+52,TF,Barbados was established before Mozambique and after Ivory Coast.,a,True,True,a,True,1
+53,TF,Mauritania was established before Eswatini and after Kenya.,b,False,False,b,False,1
+54,TF,Ghana was established before Maldives and after Gabon.,b,False,False,b,False,1
+55,TF,Angola was established before Kiribati and after Bahamas.,a,True,True,a,True,1
+56,TF,Malta was established before Guyana and after Guinea.,a,True,True,a,True,1
+57,TF,Benin was established before Niger and after Democratic Republic of the Congo.,b,False,True,a,True,0
+58,TF,Mali was established before Equatorial Guinea and after Chad.,a,True,True,a,True,1
+59,TF,Mauritania was established before Kuwait and after Benin.,a,True,True,a,True,1
+60,TF,Israel was established before Austria and after Indonesia.,a,True,False,b,False,0
+61,TF,Estonia was established before Bosnia and Herzegovina and after Brunei.,a,True,False,b,False,0
+62,TF,Democratic Republic of the Congo was established before Bahamas and after Niger.,b,False,False,b,False,1
+63,TF,Chile was established before Ecuador and after Honduras.,b,False,False,b,False,1
+64,TF,Eswatini was established before Angola and after Barbados.,a,True,True,a,True,1
+65,TF,Madagascar was established before Chad and after Cyprus.,a,True,False,b,False,0
+66,TF,Ghana was established before Bahrain and after Chad.,b,False,False,b,False,1
+67,TF,Israel was established before Benin and after India.,a,True,True,a,True,1
+68,TF,Azerbaijan was established before Czech Republic and after Belize.,a,True,True,a,True,1
+69,TF,Lesotho was established before Nauru and after Guinea.,a,True,True,a,True,1
+70,TF,Cyprus was established before Comoros and after Mali.,a,True,False,b,False,0
+71,TF,Malta was established before Mauritius and after Gabon.,a,True,True,a,True,1
+72,TF,Ghana was established before Maldives and after Egypt.,a,True,True,a,True,1
+73,TF,Fiji was established before Cape Verde and after Botswana.,a,True,True,a,True,1
+74,TF,Namibia was established before Bosnia and Herzegovina and after Marshall Islands.,a,True,True,a,True,1
+75,TF,Benin was established before Algeria and after Mauritania.,b,False,False,b,False,1
+76,TF,Botswana was established before Djibouti and after Eswatini.,b,False,False,b,False,1
+77,TF,Ivory Coast was established before Bahrain and after Cameroon.,a,True,True,a,True,1
+78,TF,Belize was established before Georgia and after Djibouti.,a,True,False,b,False,0
+79,TF,Madagascar was established before Barbados and after Central African Republic.,b,False,False,b,False,1
+80,TF,Djibouti was established before Latvia and after Marshall Islands.,b,False,False,b,False,1
+81,TF,Madagascar was established before Comoros and after Guinea-Bissau.,b,False,False,b,False,1
+82,TF,Jamaica was established before Bangladesh and after Kenya.,b,False,False,b,False,1
+83,TF,Luxembourg was established before Guatemala and after El Salvador.,b,False,False,b,False,1
+84,TF,Malawi was established before Guyana and after Burkina Faso.,a,True,True,a,True,1
+85,TF,Guinea was established before Chad and after Egypt.,a,True,True,a,True,1
+86,TF,Mauritania was established before Mozambique and after Ivory Coast.,a,True,True,a,True,1
+87,TF,Myanmar was established before Nigeria and after Burkina Faso.,b,False,False,b,False,1
+88,TF,Guinea was established before Nigeria and after Niger.,b,False,False,b,False,1
+89,TF,Jamaica was established before Lesotho and after Madagascar.,a,True,True,a,True,1
+90,TF,Bangladesh was established before Comoros and after Guyana.,a,True,True,a,True,1
+91,TF,Malaysia was established before Bahrain and after Mauritius.,b,False,False,b,False,1
+92,TF,Malawi was established before Grenada and after Mauritania.,a,True,True,a,True,1
+93,TF,Malaysia was established before Mauritius and after Laos.,a,True,True,a,True,1
+94,TF,Nauru was established before Comoros and after Gabon.,a,True,True,a,True,1
+95,TF,Nigeria was established before Botswana and after Madagascar.,b,False,True,a,True,0
+96,TF,Iran was established before Bosnia and Herzegovina and after Kazakhstan.,b,False,False,b,False,1
+97,TF,Laos was established before Eswatini and after Botswana.,b,False,False,b,False,1
+98,TF,Algeria was established before Jamaica and after Democratic Republic of the Congo.,a,True,True,a,True,1
+99,TF,Algeria was established before Maldives and after Malta.,b,False,False,b,False,1
+100,TF,Iceland was established before Myanmar and after Lebanon.,a,True,False,b,False,0
+101,TF,Marshall Islands was established before Moldova and after Antigua and Barbuda.,a,True,True,a,True,1
+102,TF,Central African Republic was established before Burundi and after Cambodia.,a,True,True,a,True,1
+103,TF,Central African Republic was established before Malawi and after Nigeria.,b,False,False,b,False,1
+104,TF,Central African Republic was established before Equatorial Guinea and after Burkina Faso.,a,True,True,a,True,1
+105,TF,Grenada was established before Dominica and after Mauritius.,a,True,True,a,True,1
+106,TF,Cameroon was established before Comoros and after Ivory Coast.,b,False,False,b,False,1
+107,TF,Indonesia was established before Guinea and after Egypt.,b,False,True,a,True,0
+108,TF,Cape Verde was established before Angola and after Lesotho.,a,True,True,a,True,1
+109,TF,Gabon was established before Eswatini and after Malaysia.,a,True,True,a,True,1
+110,TF,Fiji was established before Kiribati and after Gambia.,a,True,True,a,True,1
+111,TF,Kazakhstan was established before Czech Republic and after Georgia.,b,False,True,a,True,0
+112,TF,Nigeria was established before Bahamas and after Mauritania.,b,False,False,b,False,1
+113,TF,Laos was established before Barbados and after Guyana.,b,False,False,b,False,1
+114,TF,Fiji was established before Bangladesh and after Botswana.,a,True,True,a,True,1
+115,TF,Mauritania was established before Jamaica and after Nigeria.,b,False,True,a,True,0
+116,TF,Kazakhstan was established before Armenia and after Brunei.,a,True,False,b,False,0
+117,TF,Mauritania was established before Malta and after Malaysia.,a,True,True,a,True,1
+118,TF,Estonia was established before Azerbaijan and after Lithuania.,a,True,True,a,True,1
+119,TF,Malaysia was established before Burundi and after Laos.,a,True,False,b,False,0
+120,TF,Jordan was established before Cameroon and after Ghana.,b,False,False,b,False,1
+121,TF,Nigeria was established before Nauru and after Burundi.,b,False,False,b,False,1
+122,TF,Niger was established before Guinea-Bissau and after Malta.,b,False,False,b,False,1
+123,TF,Guinea was established before Gabon and after Israel.,a,True,True,a,True,1
+124,TF,Djibouti was established before Namibia and after Lithuania.,b,False,True,a,True,0
+125,TF,Ivory Coast was established before Malawi and after Jamaica.,b,False,False,b,False,1
+126,TF,Djibouti was established before Micronesia and after Bangladesh.,a,True,True,a,True,1
+127,TF,Belize was established before Kazakhstan and after Belarus.,b,False,False,b,False,1
+128,TF,Myanmar was established before Guinea and after India.,a,True,True,a,True,1
+129,TF,Morocco was established before Barbados and after Cambodia.,a,True,True,a,True,1
+130,TF,Cyprus was established before Ivory Coast and after Chad.,b,False,False,b,False,1
+131,TF,Colombia was established before Bolivia and after Brazil.,b,False,False,b,False,1
+132,TF,Chad was established before Kuwait and after Jordan.,a,True,True,a,True,1
+133,TF,Barbados was established before Bahrain and after Madagascar.,a,True,False,b,False,0
+134,TF,Central African Republic was established before Benin and after Libya.,a,True,False,b,False,0
+135,TF,Botswana was established before Kiribati and after Grenada.,b,False,False,b,False,1
+136,TF,Antigua and Barbuda was established before Azerbaijan and after North Macedonia.,b,False,False,b,False,1
+137,TF,Cyprus was established before Maldives and after Ivory Coast.,b,False,True,a,True,0
+138,TF,Malaysia was established before Nauru and after Burkina Faso.,b,False,True,a,True,0
+139,TF,Guinea was established before Gabon and after Austria.,a,True,True,a,True,1
+140,TF,Malta was established before Djibouti and after Mauritius.,b,False,False,b,False,1
+141,TF,Kuwait was established before Botswana and after Austria.,a,True,True,a,True,1
+142,TF,Madagascar was established before Malawi and after Austria.,a,True,True,a,True,1
+143,TF,Malta was established before Guyana and after Democratic Republic of the Congo.,a,True,True,a,True,1
+144,TF,Cyprus was established before Grenada and after Nauru.,b,False,False,b,False,1
+145,TF,Kenya was established before Cape Verde and after Bangladesh.,b,False,False,b,False,1
+146,TF,Jamaica was established before Bahamas and after Mauritius.,b,False,False,b,False,1
+147,TF,Central African Republic was established before Kenya and after Burundi.,b,False,False,b,False,1
+148,TF,Burundi was established before Botswana and after Lesotho.,b,False,False,b,False,1
+149,TF,Cambodia was established before Nigeria and after India.,a,True,True,a,True,1
+150,TF,Eswatini was established before Bahamas and after Democratic Republic of the Congo.,a,True,True,a,True,1
+151,TF,Benin was established before Nigeria.,b,False,True,a,True,0
+152,TF,Jordan was established before Ethiopia.,b,False,False,b,False,1
+153,TF,Kazakhstan was established after Micronesia.,a,True,True,a,True,1
+154,TF,Barbados was established before Eswatini.,a,True,True,a,True,1
+155,TF,Bulgaria was established after New Zealand.,a,True,False,b,False,0
+156,TF,Malawi was established after Burkina Faso.,a,True,True,a,True,1
+157,TF,Bahamas was established before Mauritius.,b,False,False,b,False,1
+158,TF,Argentina was established before Costa Rica.,a,True,True,a,True,1
+159,TF,Lithuania was established before Azerbaijan.,a,True,True,a,True,1
+160,TF,Moldova was established before Armenia.,b,False,True,a,True,0
+161,TF,Albania was established after Bhutan.,a,True,True,a,True,1
+162,TF,Mauritania was established after Gabon.,b,False,True,a,True,0
+163,TF,Democratic Republic of the Congo was established after Austria.,a,True,True,a,True,1
+164,TF,Malta was established before Gambia.,a,True,True,a,True,1
+165,TF,Gabon was established before Maldives.,a,True,True,a,True,1
+166,TF,Cape Verde was established after Grenada.,a,True,True,a,True,1
+167,TF,Bangladesh was established after Mauritius.,a,True,True,a,True,1
+168,TF,Eritrea was established after Czech Republic.,b,False,True,a,True,0
+169,TF,Eswatini was established after Gambia.,a,True,True,a,True,1
+170,TF,Lithuania was established before Marshall Islands.,b,False,True,a,True,0
+171,TF,Cyprus was established after Ivory Coast.,b,False,True,a,True,0
+172,TF,Malaysia was established after Cameroon.,b,False,True,a,True,0
+173,TF,Morocco was established before Burkina Faso.,a,True,True,a,True,1
+174,TF,Guinea-Bissau was established after Nauru.,a,True,True,a,True,1
+175,TF,Burundi was established before Gambia.,a,True,True,a,True,1
+176,TF,Morocco was established after Cameroon.,b,False,False,b,False,1
+177,TF,Comoros was established after Cape Verde.,b,False,True,a,True,0
+178,TF,Kiribati was established before Dominica.,b,False,False,b,False,1
+179,TF,Kenya was established after Chad.,a,True,True,a,True,1
+180,TF,Maldives was established before Chad.,b,False,True,a,True,0
+181,TF,Cape Verde was established before Guinea-Bissau.,b,False,False,b,False,1
+182,TF,Burundi was established before Kuwait.,b,False,False,b,False,1
+183,TF,Malta was established after Kenya.,a,True,True,a,True,1
+184,TF,Jordan was established before Lebanon.,b,False,False,b,False,1
+185,TF,Nigeria was established before Mauritania.,b,False,True,a,True,0
+186,TF,Lithuania was established before Czech Republic.,a,True,True,a,True,1
+187,TF,Kuwait was established before Burkina Faso.,b,False,False,b,False,1
+188,TF,Morocco was established before Libya.,b,False,True,a,True,0
+189,TF,Antigua and Barbuda was established before Micronesia.,a,True,True,a,True,1
+190,TF,Chad was established after Democratic Republic of the Congo.,b,False,True,a,True,0
+191,TF,Djibouti was established before Dominica.,a,True,True,a,True,1
+192,TF,Kenya was established after Benin.,a,True,True,a,True,1
+193,TF,Iceland was established before China.,a,True,False,b,False,0
+194,TF,Albania was established after Mongolia.,a,True,True,a,True,1
+195,TF,Mozambique was established after Kiribati.,b,False,False,b,False,1
+196,TF,Barbados was established after Malawi.,a,True,False,b,False,0
+197,TF,Jamaica was established before Guinea.,b,False,True,a,True,0
+198,TF,Croatia was established after Czech Republic.,b,False,False,b,False,1
+199,TF,Gambia was established before Fiji.,a,True,True,a,True,1
+200,TF,Algeria was established before Benin.,b,False,False,b,False,1
+201,TF,Dominica was established before Belize.,a,True,True,a,True,1
+202,TF,Niger was established after Cyprus.,b,False,False,b,False,1
+203,TF,Jamaica was established after Ivory Coast.,a,True,True,a,True,1
+204,TF,Chad was established before Malawi.,a,True,True,a,True,1
+205,TF,Brunei was established before Iran.,b,False,False,b,False,1
+206,TF,Madagascar was established after Cyprus.,b,False,False,b,False,1
+207,TF,Guatemala was established before Honduras.,b,False,False,b,False,1
+208,TF,Lithuania was established after Eritrea.,b,False,False,b,False,1
+209,TF,Mali was established before Central African Republic.,b,False,False,b,False,1
+210,TF,Malawi was established before Niger.,b,False,False,b,False,1
+211,TF,Comoros was established after Mozambique.,b,False,True,a,True,0
+212,TF,Morocco was established before Malaysia.,a,True,True,a,True,1
+213,TF,Guyana was established after Nauru.,b,False,False,b,False,1
+214,TF,Kuwait was established before Algeria.,a,True,True,a,True,1
+215,TF,Moldova was established after Estonia.,b,False,True,a,True,0
+216,TF,Ghana was established before Jamaica.,a,True,True,a,True,1
+217,TF,North Macedonia was established before Estonia.,b,False,False,b,False,1
+218,TF,Armenia was established after Kyrgyzstan.,b,False,True,a,True,0
+219,TF,Lithuania was established after Kazakhstan.,b,False,False,b,False,1
+220,TF,Georgia was established after Kyrgyzstan.,b,False,False,b,False,1
+221,TF,Comoros was established before Kiribati.,a,True,True,a,True,1
+222,TF,Kuwait was established before Nigeria.,b,False,False,b,False,1
+223,TF,Kuwait was established after Benin.,a,True,True,a,True,1
+224,TF,Laos was established after Guinea.,b,False,False,b,False,1
+225,TF,Laos was established before Cambodia.,b,False,False,b,False,1
+226,TF,Niger was established after Benin.,b,False,True,a,True,0
+227,TF,Nigeria was established before Morocco.,b,False,False,b,False,1
+228,TF,Belarus was established after Azerbaijan.,b,False,False,b,False,1
+229,TF,Central African Republic was established after Gambia.,b,False,False,b,False,1
+230,TF,Egypt was established before China.,b,False,True,a,True,0
+231,TF,Burundi was established before Botswana.,a,True,True,a,True,1
+232,TF,Morocco was established before Chad.,a,True,True,a,True,1
+233,TF,Latvia was established after Armenia.,b,False,True,a,True,0
+234,TF,Ghana was established before Cyprus.,a,True,True,a,True,1
+235,TF,Bosnia and Herzegovina was established before Belarus.,b,False,False,b,False,1
+236,TF,Mongolia was established before Albania.,a,True,True,a,True,1
+237,TF,Equatorial Guinea was established after Gambia.,a,True,True,a,True,1
+238,TF,Iran was established after Angola.,a,True,False,b,False,0
+239,TF,Moldova was established after Croatia.,b,False,True,a,True,0
+240,TF,Guinea was established after Democratic Republic of the Congo.,b,False,False,b,False,1
+241,TF,Ivory Coast was established before Kenya.,a,True,True,a,True,1
+242,TF,Guinea-Bissau was established before Bahrain.,b,False,False,b,False,1
+243,TF,Algeria was established after Jamaica.,b,False,False,b,False,1
+244,TF,Czech Republic was established after North Macedonia.,a,True,True,a,True,1
+245,TF,New Zealand was established after Albania.,b,False,False,b,False,1
+246,TF,Burkina Faso was established after Gabon.,b,False,False,b,False,1
+247,TF,Chad was established before Guinea.,b,False,False,b,False,1
+248,TF,Armenia was established after North Macedonia.,b,False,True,a,True,0
+249,TF,Guinea was established before Chad.,a,True,True,a,True,1
+250,TF,Brunei was established after Kiribati.,a,True,True,a,True,1
+251,MCQ,Given Guinea; which of the following countries was established before it?,b,Ghana,B,b,Ghana,1
+252,MCQ,Consider the following countries: Burundi; Central African Republic; Chad; Democratic Republic of the Congo. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Central African Republic -> Chad -> Democratic Republic of the Congo -> Burundi,C,c,Central African Republic -> Chad -> Democratic Republic of the Congo -> Burundi,1
+253,MCQ,Given Grenada; which of the following countries was established closest in time after it?,d,Comoros,A,a,Mozambique,0
+254,MCQ,Given Democratic Republic of the Congo; which of the following countries was established after it?,c,Algeria,C,c,Algeria,1
+255,MCQ,Given Fiji; which of the following countries was established before it?,c,Nauru,C,c,Nauru,1
+256,MCQ,Given Niger; which of the following countries was established closest in time after it?,c,Kuwait,C,c,Kuwait,1
+257,MCQ,Given Ghana; which of the following countries was established after it?,b,Cyprus,B,b,Cyprus,1
+258,MCQ,Given Lesotho; which of the following countries was established before it?,a,Malta,A,a,Malta,1
+259,MCQ,Consider the following countries: Albania; Bulgaria; Mongolia; New Zealand. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,New Zealand -> Bulgaria -> Mongolia -> Albania,A,a,Bulgaria -> Albania -> Mongolia -> New Zealand,0
+260,MCQ,Given Georgia; which of the following countries was established after it?,c,Bosnia and Herzegovina,A,a,Croatia,0
+261,MCQ,Consider the following countries: Ethiopia; Jordan; Lebanon; Myanmar. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Ethiopia -> Lebanon -> Jordan -> Myanmar,C,c,Ethiopia -> Lebanon -> Jordan -> Myanmar,1
+262,MCQ,Given Guyana; which of the following countries was established closest in time after it?,d,Mauritius,B,b,Nauru,0
+263,MCQ,Consider the following countries: Belgium; Bolivia; Ecuador; Greece. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Bolivia -> Belgium -> Greece -> Ecuador,D,d,Bolivia -> Belgium -> Greece -> Ecuador,1
+264,MCQ,Given Lebanon; which of the following countries was established closest in time after it?,c,Indonesia,C,c,Indonesia,1
+265,MCQ,Given Angola; which of the following countries was established after it?,d,Kiribati,D,d,Kiribati,1
+266,MCQ,Given Argentina; which of the following countries was established closest in time after it?,b,Chile,B,b,Chile,1
+267,MCQ,Given Dominica; which of the following countries was established before it?,d,Djibouti,D,d,Djibouti,1
+268,MCQ,Consider the following countries: Ethiopia; Iceland; India; Indonesia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Ethiopia -> Iceland -> Indonesia -> India,A,a,Ethiopia -> Iceland -> Indonesia -> India,1
+269,MCQ,Consider the following countries: Cambodia; Cyprus; Ivory Coast; Malaysia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Cambodia -> Malaysia -> Cyprus -> Ivory Coast,D,d,Cambodia -> Cyprus -> Ivory Coast -> Malaysia,0
+270,MCQ,Given Burkina Faso; which of the following countries was established before it?,b,Morocco,B,b,Morocco,1
+271,MCQ,Given Nicaragua; which of the following countries was established after it?,a,Brazil,A,a,Brazil,1
+272,MCQ,Consider the following countries: Bosnia and Herzegovina; Eritrea; Estonia; Kazakhstan. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Kazakhstan -> Estonia -> Bosnia and Herzegovina -> Eritrea,D,d,Estonia -> Kazakhstan -> Bosnia and Herzegovina -> Eritrea,0
+273,MCQ,Given Algeria; which of the following countries was established before it?,b,Mauritania,B,b,Mauritania,1
+274,MCQ,Given Malaysia; which of the following countries was established before it?,a,Morocco,A,a,Morocco,1
+275,MCQ,Given Egypt; which of the following countries was established before it?,d,Libya,D,d,Libya,1
+276,MCQ,Consider the following countries: Central African Republic; Cyprus; Maldives; Nigeria. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Cyprus -> Central African Republic -> Nigeria -> Maldives,B,b,Cyprus -> Central African Republic -> Nigeria -> Maldives,1
+277,MCQ,Given Eswatini; which of the following countries was established after it?,d,Bangladesh,D,d,Bangladesh,1
+278,MCQ,Given Grenada; which of the following countries was established closest in time after it?,b,Cape Verde,B,b,Cape Verde,1
+279,MCQ,Consider the following countries: Bahrain; Bangladesh; Cape Verde; Grenada. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Bahrain -> Bangladesh -> Grenada -> Cape Verde,C,c,Bahrain -> Bangladesh -> Grenada -> Cape Verde,1
+280,MCQ,Given Mozambique; which of the following countries was established before it?,b,Bahrain,A,a,Iran,0
+281,MCQ,Given Jamaica; which of the following countries was established closest in time after it?,c,Malawi,C,c,Malawi,1
+282,MCQ,Given Chile; which of the following countries was established before it?,d,Argentina,D,d,Argentina,1
+283,MCQ,Consider the following countries: Barbados; Botswana; Equatorial Guinea; Malawi. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Malawi -> Botswana -> Barbados -> Equatorial Guinea,B,b,Malawi -> Botswana -> Barbados -> Equatorial Guinea,1
+284,MCQ,Given Honduras; which of the following countries was established before it?,b,Argentina,B,b,Argentina,1
+285,MCQ,Given Bahrain; which of the following countries was established closest in time after it?,d,Bahamas,D,d,Bahamas,1
+286,MCQ,Given Barbados; which of the following countries was established closest in time after it?,b,Equatorial Guinea,B,b,Equatorial Guinea,1
+287,MCQ,Consider the following countries: Democratic Republic of the Congo; Ghana; Madagascar; Maldives. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Ghana -> Madagascar -> Democratic Republic of the Congo -> Maldives,D,d,Ghana -> Madagascar -> Democratic Republic of the Congo -> Maldives,1
+288,MCQ,Consider the following countries: Burkina Faso; Central African Republic; Guinea; Mali. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Guinea -> Central African Republic -> Burkina Faso -> Mali,C,c,Guinea -> Central African Republic -> Burkina Faso -> Mali,1
+289,MCQ,Given Cuba; which of the following countries was established before it?,b,Australia,B,b,Australia,1
+290,MCQ,Given Myanmar; which of the following countries was established closest in time after it?,a,Libya,B,b,Laos,0
+291,MCQ,Given Lithuania; which of the following countries was established before it?,d,Marshall Islands,D,d,Marshall Islands,1
+292,MCQ,Given Kenya; which of the following countries was established closest in time after it?,c,Malawi,C,c,Malawi,1
+293,MCQ,Given Micronesia; which of the following countries was established closest in time after it?,c,Namibia,C,c,Namibia,1
+294,MCQ,Given Costa Rica; which of the following countries was established before it?,a,Chile,A,a,Chile,1
+295,MCQ,Given Kiribati; which of the following countries was established after it?,c,Antigua and Barbuda,C,c,Antigua and Barbuda,1
+296,MCQ,Given Mali; which of the following countries was established closest in time after it?,c,Burundi,C,c,Burundi,1
+297,MCQ,Consider the following countries: Egypt; Ghana; Kuwait; Laos. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Laos -> Egypt -> Ghana -> Kuwait,B,b,Egypt -> Ghana -> Kuwait -> Laos,0
+298,MCQ,Given Mali; which of the following countries was established closest in time after it?,a,Kuwait,A,a,Kuwait,1
+299,MCQ,Given El Salvador; which of the following countries was established after it?,c,Bolivia,C,c,Bolivia,1
+300,MCQ,Given Estonia; which of the following countries was established after it?,a,Czech Republic,A,a,Czech Republic,1
+301,MCQ,Given Guinea-Bissau; which of the following countries was established before it?,b,Equatorial Guinea,B,b,Equatorial Guinea,1
+302,MCQ,Given Micronesia; which of the following countries was established closest in time after it?,a,Lithuania,A,a,Lithuania,1
+303,MCQ,Consider the following countries: Azerbaijan; Croatia; Czech Republic; Estonia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Estonia -> Croatia -> Azerbaijan -> Czech Republic,A,a,Croatia -> Estonia -> Azerbaijan -> Czech Republic,0
+304,MCQ,Given Kiribati; which of the following countries was established before it?,a,Comoros,C,c,Iran,0
+305,MCQ,Consider the following countries: Bahrain; Cape Verde; Comoros; Kiribati. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Bahrain -> Cape Verde -> Comoros -> Kiribati,D,d,Bahrain -> Cape Verde -> Comoros -> Kiribati,1
+306,MCQ,Consider the following countries: Bhutan; Bulgaria; Cuba; New Zealand. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Cuba -> New Zealand -> Bhutan -> Bulgaria,A,a,Cuba -> New Zealand -> Bhutan -> Bulgaria,1
+307,MCQ,Given Norway; which of the following countries was established before it?,d,Australia,B,b,Bulgaria,0
+308,MCQ,Given Democratic Republic of the Congo; which of the following countries was established before it?,a,Malaysia,C,c,Ivory Coast,0
+309,MCQ,Given Burkina Faso; which of the following countries was established after it?,c,Malta,C,c,Malta,1
+310,MCQ,Consider the following countries: Belarus; Croatia; Estonia; Namibia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Namibia -> Estonia -> Belarus -> Croatia,D,d,Namibia -> Estonia -> Belarus -> Croatia,1
+311,MCQ,Given New Zealand; which of the following countries was established after it?,a,Albania,A,a,Albania,1
+312,MCQ,Consider the following countries: Ethiopia; Indonesia; Jordan; Lebanon. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Ethiopia -> Lebanon -> Indonesia -> Jordan,C,c,Ethiopia -> Lebanon -> Indonesia -> Jordan,1
+313,MCQ,Consider the following countries: China; Egypt; Israel; Libya. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Israel -> China -> Libya -> Egypt,D,d,Israel -> China -> Libya -> Egypt,1
+314,MCQ,Consider the following countries: Cameroon; Central African Republic; Democratic Republic of the Congo; Malaysia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Malaysia -> Cameroon -> Central African Republic -> Democratic Republic of the Congo,B,b,Malaysia -> Cameroon -> Central African Republic -> Democratic Republic of the Congo,1
+315,MCQ,Consider the following countries: Angola; Djibouti; Dominica; Kiribati. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Angola -> Djibouti -> Dominica -> Kiribati,B,b,Angola -> Djibouti -> Dominica -> Kiribati,1
+316,MCQ,Consider the following countries: Algeria; Madagascar; Morocco; Nigeria. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Morocco -> Madagascar -> Nigeria -> Algeria,C,c,Morocco -> Madagascar -> Nigeria -> Algeria,1
+317,MCQ,Given Bhutan; which of the following countries was established after it?,d,Mongolia,D,d,Mongolia,1
+318,MCQ,Given Comoros; which of the following countries was established before it?,b,Bahamas,B,b,Bahamas,1
+319,MCQ,Given Nigeria; which of the following countries was established closest in time after it?,b,Jamaica,B,b,Jamaica,1
+320,MCQ,Given Madagascar; which of the following countries was established closest in time after it?,c,Kuwait,C,c,Kuwait,1
+321,MCQ,Given Angola; which of the following countries was established closest in time after it?,d,Djibouti,D,d,Djibouti,1
+322,MCQ,Given Ivory Coast; which of the following countries was established before it?,d,Ghana,D,d,Ghana,1
+323,MCQ,Given Benin; which of the following countries was established closest in time after it?,d,Jamaica,D,d,Jamaica,1
+324,MCQ,Consider the following countries: Croatia; Estonia; Georgia; Moldova. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Moldova -> Croatia -> Estonia -> Georgia,C,c,Georgia -> Estonia -> Croatia -> Moldova,0
+325,MCQ,Given Barbados; which of the following countries was established before it?,a,Malta,A,a,Malta,1
+326,MCQ,Consider the following countries: Cameroon; Gabon; Ghana; Morocco. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Morocco -> Ghana -> Gabon -> Cameroon,D,d,Morocco -> Ghana -> Gabon -> Cameroon,1
+327,MCQ,Given Bangladesh; which of the following countries was established before it?,a,Lesotho,A,a,Lesotho,1
+328,MCQ,Given Kenya; which of the following countries was established after it?,a,Malta,A,a,Malta,1
+329,MCQ,Given Laos; which of the following countries was established closest in time after it?,b,Morocco,B,b,Morocco,1
+330,MCQ,Given Marshall Islands; which of the following countries was established closest in time after it?,a,North Macedonia,B,b,Georgia,0
+331,MCQ,Given Comoros; which of the following countries was established after it?,b,Dominica,B,b,Dominica,1
+332,MCQ,Given Mongolia; which of the following countries was established after it?,d,Albania,B,b,New Zealand,0
+333,MCQ,Consider the following countries: Croatia; Eritrea; Kyrgyzstan; Moldova. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Moldova -> Croatia -> Kyrgyzstan -> Eritrea,D,d,Moldova -> Croatia -> Kyrgyzstan -> Eritrea,1
+334,MCQ,Consider the following countries: Belgium; Bolivia; El Salvador; Greece. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,El Salvador -> Bolivia -> Greece -> Belgium,C,c,El Salvador -> Bolivia -> Greece -> Belgium,1
+335,MCQ,Given Chile; which of the following countries was established closest in time after it?,b,El Salvador,B,b,El Salvador,1
+336,MCQ,Given Chile; which of the following countries was established before it?,b,Luxembourg,B,b,Luxembourg,1
+337,MCQ,Given Equatorial Guinea; which of the following countries was established closest in time after it?,c,Fiji,C,c,Fiji,1
+338,MCQ,Consider the following countries: Armenia; Croatia; Kyrgyzstan; Lithuania. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Lithuania -> Armenia -> Kyrgyzstan -> Croatia,D,d,Lithuania -> Armenia -> Kyrgyzstan -> Croatia,1
+339,MCQ,Given Ghana; which of the following countries was established before it?,c,Austria,C,c,Austria,1
+340,MCQ,Consider the following countries: Bolivia; El Salvador; Guatemala; Honduras. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Guatemala -> El Salvador -> Honduras -> Bolivia,B,b,Guatemala -> El Salvador -> Honduras -> Bolivia,1
+341,MCQ,Consider the following countries: Antigua and Barbuda; Belize; Djibouti; Kiribati. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Djibouti -> Kiribati -> Antigua and Barbuda -> Belize,D,d,Djibouti -> Kiribati -> Antigua and Barbuda -> Belize,1
+342,MCQ,Given Mozambique; which of the following countries was established closest in time after it?,d,Djibouti,D,d,Djibouti,1
+343,MCQ,Given Libya; which of the following countries was established closest in time after it?,c,Laos,C,c,Laos,1
+344,MCQ,Given Guinea; which of the following countries was established after it?,b,Chad,D,d,Malaysia,0
+345,MCQ,Given Latvia; which of the following countries was established after it?,c,Eritrea,A,a,Kazakhstan,0
+346,MCQ,Consider the following countries: Equatorial Guinea; Guinea-Bissau; Mauritius; Nauru. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Equatorial Guinea -> Nauru -> Mauritius -> Guinea-Bissau,D,d,Nauru -> Mauritius -> Guinea-Bissau -> Equatorial Guinea,0
+347,MCQ,Given Botswana; which of the following countries was established before it?,a,Malta,A,a,Malta,1
+348,MCQ,Given Guinea-Bissau; which of the following countries was established before it?,c,Mauritius,C,c,Mauritius,1
+349,MCQ,Given Latvia; which of the following countries was established before it?,b,Marshall Islands,B,b,Marshall Islands,1
+350,MCQ,Given Ghana; which of the following countries was established before it?,a,Morocco,A,a,Morocco,1
+351,MCQ,Consider the following countries: Cameroon; Gabon; Ivory Coast; Maldives. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Ivory Coast -> Gabon -> Cameroon -> Maldives,D,d,Cameroon -> Ivory Coast -> Gabon -> Maldives,0
+352,MCQ,Given Moldova; which of the following countries was established before it?,b,Marshall Islands,A,a,Latvia,0
+353,MCQ,Given Eswatini; which of the following countries was established closest in time after it?,c,Fiji,C,c,Fiji,1
+354,MCQ,Consider the following countries: China; India; Laos; Libya. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,India -> China -> Libya -> Laos,D,d,India -> China -> Libya -> Laos,1
+355,MCQ,Consider the following countries: Algeria; Burundi; Ghana; Kuwait. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Ghana -> Kuwait -> Burundi -> Algeria,B,b,Ghana -> Kuwait -> Burundi -> Algeria,1
+356,MCQ,Consider the following countries: Armenia; Belarus; Kazakhstan; Micronesia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Micronesia -> Armenia -> Kazakhstan -> Belarus,C,c,Micronesia -> Belarus -> Armenia -> Kazakhstan,0
+357,MCQ,Given Austria; which of the following countries was established after it?,b,Cyprus,B,b,Cyprus,1
+358,MCQ,Given Comoros; which of the following countries was established after it?,a,Djibouti,A,a,Djibouti,1
+359,MCQ,Given Antigua and Barbuda; which of the following countries was established before it?,c,Dominica,C,c,Dominica,1
+360,MCQ,Given Chile; which of the following countries was established closest in time after it?,d,Nicaragua,A,a,Brazil,0
+361,MCQ,Given Israel; which of the following countries was established before it?,a,Lebanon,A,a,Lebanon,1
+362,MCQ,Consider the following countries: Lithuania; Marshall Islands; Moldova; Namibia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Marshall Islands -> Namibia -> Lithuania -> Moldova,A,a,Marshall Islands -> Lithuania -> Namibia -> Moldova,0
+363,MCQ,Given El Salvador; which of the following countries was established before it?,d,Argentina,D,d,Argentina,1
+364,MCQ,Consider the following countries: Algeria; Burundi; Ghana; Malaysia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Malaysia -> Ghana -> Algeria -> Burundi,D,d,Ghana -> Malaysia -> Algeria -> Burundi,0
+365,MCQ,Given Guyana; which of the following countries was established after it?,c,Nauru,C,c,Nauru,1
+366,MCQ,Given Angola; which of the following countries was established before it?,b,Guinea-Bissau,B,b,Guinea-Bissau,1
+367,MCQ,Given Niger; which of the following countries was established closest in time after it?,d,Jamaica,C,c,Burundi,0
+368,MCQ,Consider the following countries: Algeria; Central African Republic; Chad; Kuwait. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Central African Republic -> Chad -> Kuwait -> Algeria,C,c,Central African Republic -> Chad -> Kuwait -> Algeria,1
+369,MCQ,Given Nauru; which of the following countries was established after it?,b,Guinea-Bissau,B,b,Guinea-Bissau,1
+370,MCQ,Given Madagascar; which of the following countries was established before it?,d,Guinea,D,d,Guinea,1
+371,MCQ,Consider the following countries: Belarus; Czech Republic; Estonia; Lithuania. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Lithuania -> Belarus -> Estonia -> Czech Republic,D,d,Lithuania -> Belarus -> Estonia -> Czech Republic,1
+372,MCQ,Given Gambia; which of the following countries was established after it?,d,Eswatini,D,d,Eswatini,1
+373,MCQ,Given Burundi; which of the following countries was established closest in time after it?,c,Kenya,C,c,Kenya,1
+374,MCQ,Given Belize; which of the following countries was established before it?,d,Kiribati,D,d,Kiribati,1
+375,MCQ,Given Guinea; which of the following countries was established closest in time after it?,a,Benin,C,c,Cameroon,0
+376,MCQ,Given Cape Verde; which of the following countries was established before it?,c,Bahamas,B,b,Iran,0
+377,MCQ,Given Guinea; which of the following countries was established closest in time after it?,d,Benin,C,c,Madagascar,0
+378,MCQ,Given Mauritania; which of the following countries was established after it?,b,Algeria,B,b,Algeria,1
+379,MCQ,Given Bangladesh; which of the following countries was established after it?,c,Comoros,C,c,Comoros,1
+380,MCQ,Consider the following countries: Bhutan; Cuba; New Zealand; Norway. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Cuba -> Norway -> Bhutan -> New Zealand,A,a,Cuba -> Norway -> Bhutan -> New Zealand,1
+381,MCQ,Given Barbados; which of the following countries was established before it?,c,Gambia,C,c,Gambia,1
+382,MCQ,Given Bosnia and Herzegovina; which of the following countries was established after it?,c,Czech Republic,C,c,Czech Republic,1
+383,MCQ,Given Bahrain; which of the following countries was established before it?,a,Mauritius,A,a,Mauritius,1
+384,MCQ,Consider the following countries: Democratic Republic of the Congo; Kuwait; Malawi; Nigeria. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Nigeria -> Democratic Republic of the Congo -> Kuwait -> Malawi,C,c,Kuwait -> Democratic Republic of the Congo -> Nigeria -> Malawi,0
+385,MCQ,Consider the following countries: Azerbaijan; Czech Republic; Latvia; North Macedonia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,North Macedonia -> Azerbaijan -> Latvia -> Czech Republic,D,d,Czech Republic -> Latvia -> Azerbaijan -> North Macedonia,0
+386,MCQ,Given Bhutan; which of the following countries was established before it?,a,Cuba,A,a,Cuba,1
+387,MCQ,Given Belize; which of the following countries was established before it?,b,Dominica,B,b,Dominica,1
+388,MCQ,Given Bahamas; which of the following countries was established closest in time after it?,c,Grenada,C,c,Grenada,1
+389,MCQ,Given Fiji; which of the following countries was established after it?,b,Bangladesh,B,b,Bangladesh,1
+390,MCQ,Given Burundi; which of the following countries was established closest in time after it?,c,Kenya,C,c,Kenya,1
+391,MCQ,Given Mozambique; which of the following countries was established before it?,c,Bahrain,C,c,Bahrain,1
+392,MCQ,Given Nauru; which of the following countries was established closest in time after it?,d,Fiji,D,d,Fiji,1
+393,MCQ,Consider the following countries: Cambodia; Central African Republic; Laos; Morocco. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Laos -> Cambodia -> Morocco -> Central African Republic,D,d,Laos -> Cambodia -> Morocco -> Central African Republic,1
+394,MCQ,Consider the following countries: Belize; Brunei; Iran; Marshall Islands. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Iran -> Belize -> Brunei -> Marshall Islands,B,b,Iran -> Belize -> Brunei -> Marshall Islands,1
+395,MCQ,Given Malawi; which of the following countries was established before it?,c,Niger,C,c,Niger,1
+396,MCQ,Given Fiji; which of the following countries was established before it?,a,Mauritius,A,a,Mauritius,1
+397,MCQ,Given Brunei; which of the following countries was established after it?,b,Micronesia,B,b,Micronesia,1
+398,MCQ,Consider the following countries: Central African Republic; Ivory Coast; Jamaica; Nigeria. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Ivory Coast -> Nigeria -> Central African Republic -> Jamaica,C,c,Ivory Coast -> Nigeria -> Central African Republic -> Jamaica,1
+399,MCQ,Consider the following countries: Armenia; Azerbaijan; Estonia; Marshall Islands. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Marshall Islands -> Azerbaijan -> Armenia -> Estonia,C,c,Estonia -> Azerbaijan -> Armenia -> Marshall Islands,0
+400,MCQ,Given Kuwait; which of the following countries was established after it?,a,Burundi,A,a,Burundi,1
+401,MCQ,Given Kiribati; which of the following countries was established after it?,a,Brunei,A,a,Brunei,1
+402,MCQ,Given Iceland; which of the following countries was established before it?,c,Ethiopia,C,c,Ethiopia,1
+403,MCQ,Given Kuwait; which of the following countries was established after it?,b,Malta,B,b,Malta,1
+404,MCQ,Consider the following countries: Bolivia; Brazil; Ecuador; Honduras. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Honduras -> Brazil -> Bolivia -> Ecuador,B,b,Honduras -> Brazil -> Bolivia -> Ecuador,1
+405,MCQ,Consider the following countries: Angola; Botswana; Equatorial Guinea; Fiji. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Botswana -> Equatorial Guinea -> Fiji -> Angola,A,a,Botswana -> Equatorial Guinea -> Fiji -> Angola,1
+406,MCQ,Given Malaysia; which of the following countries was established closest in time after it?,d,Nigeria,A,a,Mali,0
+407,MCQ,Given Namibia; which of the following countries was established closest in time after it?,a,Latvia,C,c,Georgia,0
+408,MCQ,Consider the following countries: Bolivia; Chile; El Salvador; Nicaragua. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Chile -> El Salvador -> Nicaragua -> Bolivia,A,a,Chile -> El Salvador -> Nicaragua -> Bolivia,1
+409,MCQ,Given North Macedonia; which of the following countries was established after it?,c,Bosnia and Herzegovina,C,c,Bosnia and Herzegovina,1
+410,MCQ,Consider the following countries: Central African Republic; Ivory Coast; Kuwait; Maldives. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Ivory Coast -> Central African Republic -> Kuwait -> Maldives,A,a,Ivory Coast -> Central African Republic -> Kuwait -> Maldives,1
+411,MCQ,Consider the following countries: China; India; Jordan; Lebanon. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Lebanon -> Jordan -> India -> China,B,b,India -> Lebanon -> Jordan -> China,0
+412,MCQ,Given Angola; which of the following countries was established after it?,d,Djibouti,D,d,Djibouti,1
+413,MCQ,Given Bosnia and Herzegovina; which of the following countries was established after it?,c,Eritrea,C,c,Eritrea,1
+414,MCQ,Given China; which of the following countries was established before it?,d,Myanmar,A,a,Egypt,0
+415,MCQ,Given Bangladesh; which of the following countries was established before it?,a,Equatorial Guinea,A,a,Equatorial Guinea,1
+416,MCQ,Given Iran; which of the following countries was established before it?,c,Grenada,C,c,Grenada,1
+417,MCQ,Given Chad; which of the following countries was established before it?,b,Austria,A,a,Cameroon,0
+418,MCQ,Given Micronesia; which of the following countries was established after it?,a,Latvia,C,c,Antigua and Barbuda,0
+419,MCQ,Given Libya; which of the following countries was established after it?,b,Morocco,B,b,Morocco,1
+420,MCQ,Given Djibouti; which of the following countries was established after it?,c,Kiribati,C,c,Kiribati,1
+421,MCQ,Given Antigua and Barbuda; which of the following countries was established after it?,b,Brunei,B,b,Brunei,1
+422,MCQ,Given Guinea; which of the following countries was established closest in time after it?,c,Chad,B,b,Ivory Coast,0
+423,MCQ,Given Myanmar; which of the following countries was established before it?,d,Lebanon,B,b,China,0
+424,MCQ,Consider the following countries: Algeria; Burundi; Jamaica; Mauritania. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Mauritania -> Algeria -> Jamaica -> Burundi,C,c,Mauritania -> Algeria -> Jamaica -> Burundi,1
+425,MCQ,Consider the following countries: Algeria; Burkina Faso; Ivory Coast; Maldives. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Burkina Faso -> Ivory Coast -> Algeria -> Maldives,A,a,Burkina Faso -> Ivory Coast -> Algeria -> Maldives,1
+426,MCQ,Consider the following countries: Bolivia; Brazil; Costa Rica; Nicaragua. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Nicaragua -> Costa Rica -> Brazil -> Bolivia,B,b,Nicaragua -> Costa Rica -> Brazil -> Bolivia,1
+427,MCQ,Given Iran; which of the following countries was established before it?,d,Angola,D,d,Angola,1
+428,MCQ,Consider the following countries: Argentina; Chile; Guatemala; Nicaragua. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Argentina -> Chile -> Nicaragua -> Guatemala,B,b,Argentina -> Chile -> Nicaragua -> Guatemala,1
+429,MCQ,Consider the following countries: Burkina Faso; Chad; Cyprus; Kuwait. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Cyprus -> Chad -> Burkina Faso -> Kuwait,D,d,Cyprus -> Chad -> Burkina Faso -> Kuwait,1
+430,MCQ,Consider the following countries: Chad; Cyprus; Guinea; Jamaica. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Guinea -> Cyprus -> Chad -> Jamaica,B,b,Guinea -> Cyprus -> Chad -> Jamaica,1
+431,MCQ,Consider the following countries: Bahamas; Dominica; Fiji; Guinea-Bissau. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Fiji -> Guinea-Bissau -> Bahamas -> Dominica,D,d,Guinea-Bissau -> Dominica -> Bahamas -> Fiji,0
+432,MCQ,Consider the following countries: Azerbaijan; Georgia; Kazakhstan; Micronesia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Micronesia -> Azerbaijan -> Georgia -> Kazakhstan,D,d,Micronesia -> Azerbaijan -> Kazakhstan -> Georgia,0
+433,MCQ,Given Belize; which of the following countries was established after it?,d,Marshall Islands,D,d,Marshall Islands,1
+434,MCQ,Consider the following countries: Eritrea; Estonia; Georgia; Namibia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Namibia -> Estonia -> Georgia -> Eritrea,A,a,Namibia -> Estonia -> Georgia -> Eritrea,1
+435,MCQ,Consider the following countries: Eritrea; Kyrgyzstan; Lithuania; Namibia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Namibia -> Lithuania -> Kyrgyzstan -> Eritrea,D,d,Namibia -> Lithuania -> Kyrgyzstan -> Eritrea,1
+436,MCQ,Given Mali; which of the following countries was established before it?,c,Ghana,C,c,Ghana,1
+437,MCQ,Consider the following countries: Cameroon; Jamaica; Kuwait; Mauritania. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Cameroon -> Mauritania -> Kuwait -> Jamaica,B,b,Cameroon -> Mauritania -> Kuwait -> Jamaica,1
+438,MCQ,Consider the following countries: Barbados; Eswatini; Fiji; Mauritius. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Barbados -> Eswatini -> Mauritius -> Fiji,D,d,Barbados -> Eswatini -> Mauritius -> Fiji,1
+439,MCQ,Consider the following countries: Bahrain; Botswana; Equatorial Guinea; Kenya. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Kenya -> Botswana -> Equatorial Guinea -> Bahrain,C,c,Kenya -> Botswana -> Equatorial Guinea -> Bahrain,1
+440,MCQ,Given Bulgaria; which of the following countries was established after it?,a,Albania,A,a,Albania,1
+441,MCQ,Given Barbados; which of the following countries was established after it?,d,Eswatini,D,d,Eswatini,1
+442,MCQ,Given Georgia; which of the following countries was established before it?,d,Namibia,D,d,Namibia,1
+443,MCQ,Given Chad; which of the following countries was established closest in time after it?,a,Kuwait,A,a,Kuwait,1
+444,MCQ,Given Burundi; which of the following countries was established after it?,a,Malawi,A,a,Malawi,1
+445,MCQ,Consider the following countries: Georgia; Kazakhstan; Moldova; North Macedonia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Georgia -> Moldova -> Kazakhstan -> North Macedonia,C,c,Georgia -> Moldova -> Kazakhstan -> North Macedonia,1
+446,MCQ,Given Kenya; which of the following countries was established closest in time after it?,a,Malta,A,a,Malta,1
+447,MCQ,Given Micronesia; which of the following countries was established after it?,d,Georgia,D,d,Georgia,1
+448,MCQ,Given Iran; which of the following countries was established before it?,b,Cape Verde,B,b,Cape Verde,1
+449,MCQ,Given Burkina Faso; which of the following countries was established after it?,b,Jamaica,B,b,Jamaica,1
+450,MCQ,Given Honduras; which of the following countries was established before it?,a,Argentina,A,a,Argentina,1
+451,MCQ,Consider the following countries: Australia; Cuba; New Zealand; Norway. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Australia -> Cuba -> Norway -> New Zealand,D,d,Australia -> Cuba -> Norway -> New Zealand,1
+452,MCQ,Given Antigua and Barbuda; which of the following countries was established before it?,b,Dominica,B,b,Dominica,1
+453,MCQ,Given Grenada; which of the following countries was established after it?,a,Dominica,A,a,Dominica,1
+454,MCQ,Consider the following countries: Brazil; Chile; El Salvador; Luxembourg. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Luxembourg -> Chile -> El Salvador -> Brazil,A,a,Luxembourg -> Chile -> El Salvador -> Brazil,1
+455,MCQ,Consider the following countries: Azerbaijan; Czech Republic; Eritrea; Estonia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Azerbaijan -> Estonia -> Czech Republic -> Eritrea,B,b,Azerbaijan -> Estonia -> Czech Republic -> Eritrea,1
+456,MCQ,Consider the following countries: Argentina; Bolivia; El Salvador; Honduras. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Argentina -> Honduras -> El Salvador -> Bolivia,A,a,Argentina -> Honduras -> El Salvador -> Bolivia,1
+457,MCQ,Given Mali; which of the following countries was established closest in time after it?,a,Kuwait,A,a,Kuwait,1
+458,MCQ,Given Chile; which of the following countries was established closest in time after it?,a,El Salvador,C,c,Honduras,0
+459,MCQ,Consider the following countries: Burkina Faso; Ivory Coast; Kenya; Malawi. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Ivory Coast -> Burkina Faso -> Kenya -> Malawi,A,a,Ivory Coast -> Burkina Faso -> Kenya -> Malawi,1
+460,MCQ,Given El Salvador; which of the following countries was established before it?,a,Argentina,A,a,Argentina,1
+461,MCQ,Given Dominica; which of the following countries was established before it?,c,Mozambique,C,c,Mozambique,1
+462,MCQ,Given Burkina Faso; which of the following countries was established closest in time after it?,a,Burundi,A,a,Burundi,1
+463,MCQ,Consider the following countries: Bolivia; Costa Rica; Ecuador; Nicaragua. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Nicaragua -> Costa Rica -> Bolivia -> Ecuador,A,a,Nicaragua -> Costa Rica -> Bolivia -> Ecuador,1
+464,MCQ,Given Barbados; which of the following countries was established closest in time after it?,d,Equatorial Guinea,B,b,Mauritius,0
+465,MCQ,Given Madagascar; which of the following countries was established after it?,c,Malawi,C,c,Malawi,1
+466,MCQ,Given Eswatini; which of the following countries was established after it?,c,Fiji,C,c,Fiji,1
+467,MCQ,Consider the following countries: Bhutan; Bulgaria; Mongolia; New Zealand. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,New Zealand -> Bhutan -> Bulgaria -> Mongolia,B,b,New Zealand -> Bhutan -> Bulgaria -> Mongolia,1
+468,MCQ,Given Marshall Islands; which of the following countries was established after it?,c,Moldova,C,c,Moldova,1
+469,MCQ,Given China; which of the following countries was established after it?,c,Laos,C,c,Laos,1
+470,MCQ,Consider the following countries: Austria; Democratic Republic of the Congo; Guinea; Malaysia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Austria -> Malaysia -> Guinea -> Democratic Republic of the Congo,B,b,Austria -> Malaysia -> Guinea -> Democratic Republic of the Congo,1
+471,MCQ,Consider the following countries: Bahamas; Cape Verde; Eswatini; Guinea-Bissau. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Eswatini -> Bahamas -> Guinea-Bissau -> Cape Verde,D,d,Eswatini -> Bahamas -> Guinea-Bissau -> Cape Verde,1
+472,MCQ,Given Malaysia; which of the following countries was established closest in time after it?,b,Mauritania,A,a,Benin,0
+473,MCQ,Consider the following countries: Argentina; Colombia; Luxembourg; Mexico. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Colombia -> Mexico -> Luxembourg -> Argentina,A,a,Colombia -> Mexico -> Luxembourg -> Argentina,1
+474,MCQ,Consider the following countries: Algeria; Bahrain; Botswana; Lesotho. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Algeria -> Botswana -> Lesotho -> Bahrain,B,b,Algeria -> Botswana -> Lesotho -> Bahrain,1
+475,MCQ,Given Fiji; which of the following countries was established before it?,a,Lesotho,A,a,Lesotho,1
+476,MCQ,Given Equatorial Guinea; which of the following countries was established closest in time after it?,c,Fiji,C,c,Fiji,1
+477,MCQ,Given Niger; which of the following countries was established after it?,c,Kenya,C,c,Kenya,1
+478,MCQ,Given Albania; which of the following countries was established after it?,c,Finland,C,c,Finland,1
+479,MCQ,Given Jordan; which of the following countries was established closest in time after it?,c,India,C,c,India,1
+480,MCQ,Given Croatia; which of the following countries was established after it?,b,Eritrea,B,b,Eritrea,1
+481,MCQ,Given Argentina; which of the following countries was established closest in time after it?,a,Chile,A,a,Chile,1
+482,MCQ,Consider the following countries: China; Ethiopia; Indonesia; Jordan. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Ethiopia -> Indonesia -> Jordan -> China,D,d,Jordan -> Ethiopia -> Indonesia -> China,0
+483,MCQ,Consider the following countries: Bosnia and Herzegovina; Czech Republic; Kyrgyzstan; Lithuania. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Lithuania -> Kyrgyzstan -> Bosnia and Herzegovina -> Czech Republic,D,d,Lithuania -> Kyrgyzstan -> Bosnia and Herzegovina -> Czech Republic,1
+484,MCQ,Consider the following countries: Antigua and Barbuda; Cape Verde; Kiribati; Mozambique. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Mozambique -> Cape Verde -> Kiribati -> Antigua and Barbuda,C,c,Mozambique -> Cape Verde -> Kiribati -> Antigua and Barbuda,1
+485,MCQ,Given Lithuania; which of the following countries was established after it?,d,Eritrea,D,d,Eritrea,1
+486,MCQ,Consider the following countries: Bahrain; Barbados; Lesotho; Malta. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Malta -> Barbados -> Lesotho -> Bahrain,A,a,Malta -> Barbados -> Lesotho -> Bahrain,1
+487,MCQ,Consider the following countries: Burkina Faso; Burundi; Cameroon; Guinea. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Guinea -> Burkina Faso -> Cameroon -> Burundi,B,b,Guinea -> Cameroon -> Burundi -> Burkina Faso,0
+488,MCQ,Given Central African Republic; which of the following countries was established before it?,b,Morocco,B,b,Morocco,1
+489,MCQ,Consider the following countries: Antigua and Barbuda; Brunei; Marshall Islands; Micronesia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Antigua and Barbuda -> Brunei -> Micronesia -> Marshall Islands,A,a,Marshall Islands -> Micronesia -> Antigua and Barbuda -> Brunei,0
+490,MCQ,Given Nigeria; which of the following countries was established closest in time after it?,a,Kuwait,A,a,Kuwait,1
+491,MCQ,Given Guyana; which of the following countries was established closest in time after it?,a,Eswatini,A,a,Eswatini,1
+492,MCQ,Given Armenia; which of the following countries was established before it?,a,Namibia,A,a,Namibia,1
+493,MCQ,Consider the following countries: Angola; Bahrain; Bangladesh; Nauru. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Nauru -> Bangladesh -> Bahrain -> Angola,D,d,Bahrain -> Bangladesh -> Angola -> Nauru,0
+494,MCQ,Given Marshall Islands; which of the following countries was established before it?,a,Brunei,A,a,Brunei,1
+495,MCQ,Consider the following countries: Bahamas; Belize; Dominica; Kiribati. Which option lists them in the correct chronological order of establishment; from earliest to latest?,b,Bahamas -> Dominica -> Kiribati -> Belize,B,b,Bahamas -> Dominica -> Kiribati -> Belize,1
+496,MCQ,Given Benin; which of the following countries was established after it?,c,Malawi,C,c,Malawi,1
+497,MCQ,Consider the following countries: Belarus; Croatia; Czech Republic; Micronesia. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Micronesia -> Belarus -> Croatia -> Czech Republic,D,d,Micronesia -> Belarus -> Croatia -> Czech Republic,1
+498,MCQ,Consider the following countries: Algeria; Botswana; Central African Republic; Malawi. Which option lists them in the correct chronological order of establishment; from earliest to latest?,a,Central African Republic -> Algeria -> Malawi -> Botswana,A,a,Central African Republic -> Algeria -> Malawi -> Botswana,1
+499,MCQ,Consider the following countries: Gabon; Lesotho; Madagascar; Malawi. Which option lists them in the correct chronological order of establishment; from earliest to latest?,d,Madagascar -> Gabon -> Malawi -> Lesotho,D,d,Madagascar -> Gabon -> Malawi -> Lesotho,1
+500,MCQ,Consider the following countries: Cambodia; Ghana; Kuwait; Mauritania. Which option lists them in the correct chronological order of establishment; from earliest to latest?,c,Cambodia -> Ghana -> Mauritania -> Kuwait,C,c,Cambodia -> Ghana -> Mauritania -> Kuwait,1
