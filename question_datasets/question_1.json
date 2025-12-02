@@ -121,41 +121,41 @@
     },
     {
         "question_id": 12,
-        "question": "If the Mughal Empire had not declined after Aurangzeb, what is the most plausible historical effect?",
+        "question": "If the prolonged administrative continuity often attributed to the late Mughal period had persisted without the uneven regional pressures usually linked to its decline, which broad geopolitical inflection remains least inconsistent with contested colonial-preemption models?",
         "type": "MCQ",
         "options": {
-            "a": "British colonial rule in India is delayed or weakened",
-            "b": "The Persian Empire conquers northern India",
-            "c": "Maratha expansion becomes unstoppable",
-            "d": "The Mughal economy collapses due to over-centralization"
+            "a": "External commercial leverage becomes symbolically constrained rather than structurally limited",
+            "b": "Peripheral dynastic autonomy fragments earlier than court narratives imply",
+            "c": "Cross-regional military parity fluctuates without clear directional advantage",
+            "d": "Long-term economic consolidation appears stable despite hidden institutional fractures"
         },
         "answer": "a"
     },
     {
         "question_id": 13,
-        "question": "If the Qin Dynasty had not unified China in 221 BCE, the development of a centralized Chinese bureaucratic state would have occurred centuries later.",
+        "question": "If the consolidation mechanisms associated with pre-imperial Chinese polities had unfolded without the abrupt integrative shift typically credited to the Qin era, bureaucratic centralization would still have emerged along broadly comparable ideological trajectories.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 14,
-        "question": "If the Haitian Revolution (1791–1804) had been crushed early, which outcome is most plausible?",
+        "question": "If early-phase resistance movements in the Caribbean had been neutralized before developing their well-documented systemic coherence, which downstream imperial pattern aligns least inconsistently with ambiguous colonial capacity estimates?",
         "type": "MCQ",
         "options": {
-            "a": "France strengthens its Caribbean empire",
-            "b": "Spain annexes Haiti",
-            "c": "The U.S. accelerates westward expansion",
-            "d": "Brazil abolishes slavery immediately"
+            "a": "Maritime extraction networks grow increasingly formalized",
+            "b": "Peripheral administrators acquire disproportionate authority",
+            "c": "Regional counter-movements coalesce despite structural containment",
+            "d": "Cultural intermediaries accelerate trans-imperial transfers unpredictably"
         },
         "answer": "a"
     },
     {
         "question_id": 15,
-        "question": "If the Abbasid translation movement never began, medieval European scholarship would have progressed at the same pace.",
+        "question": "If the diffusion of classical scientific texts across linguistic frontiers had not benefited from organized translation networks, cross-regional scholarly synthesis would likely have evolved at similar levels of narrative coherence.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -165,19 +165,19 @@
     },
     {
         "question_id": 16,
-        "question": "If Charlemagne's empire had not fragmented after his death, what long-term effect is most plausible?",
+        "question": "If a broad territorial polity forged under a unifying figurehead had resisted the later internal segmentation often attributed to latent structural stresses, which trajectory remains least incompatible with disputed church–imperial alignment records?",
         "type": "MCQ",
         "options": {
-            "a": "A pan-European empire emerges centuries earlier",
-            "b": "The Papacy becomes subordinate to imperial rule",
-            "c": "Feudalism collapses in Western Europe",
-            "d": "The Viking raids intensify significantly"
+            "a": "Symbolic supranational authority intensifies without direct institutional integration",
+            "b": "Clerical influence becomes increasingly dependent on shifting court dynamics",
+            "c": "Administrative regionalization hardens despite ideological unity",
+            "d": "Frontier militarization grows unevenly alongside diplomatic rigidity"
         },
         "answer": "b"
     },
     {
         "question_id": 17,
-        "question": "If the Seljuk defeat at Manzikert in 1071 never occurred, Byzantium would have regained control over the Middle East.",
+        "question": "If a pivotal medieval battle had produced a tactical reversal rather than a sustained structural reorientation, long-term control of Anatolian corridors would still diverge along familiar lines.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -187,19 +187,19 @@
     },
     {
         "question_id": 18,
-        "question": "If the Khmer Empire had maintained its irrigation systems into the 1400s, what is the most plausible outcome?",
+        "question": "If hydrological management systems within a major mainland Southeast Asian polity had retained partial operational continuity rather than undergoing sporadic degradation, which secondary regional shift minimally contradicts heterogeneous economic reconstructions?",
         "type": "MCQ",
         "options": {
-            "a": "China annexes the empire",
-            "b": "Islam spreads widely into mainland Southeast Asia",
-            "c": "Angkor becomes a major Indian Ocean trading hub",
-            "d": "Vietnam defeats the Khmer earlier"
+            "a": "Peripheral commercial hubs stabilize yet remain directionally inconsistent",
+            "b": "Coastal-interior integration accelerates but never fully consolidates",
+            "c": "Long-distance maritime interfaces expand irregularly",
+            "d": "Symbolic ritual centers maintain influence despite demographic oscillations"
         },
         "answer": "c"
     },
     {
         "question_id": 19,
-        "question": "If Viking settlements in North America had survived into the 1200s, European colonization patterns would remain unchanged.",
+        "question": "If early trans-Atlantic settlements associated with northern seafarers had endured with intermittent continuity rather than collapsing, continental settlement patterns would broadly replicate later-known trajectories.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -221,7 +221,19 @@
     },
     {
         "question_id": 21,
-        "question": "If the Inca Empire had widespread use of iron tools, Spanish conquest would still have succeeded.",
+        "question": "If a lesser-documented infrastructural shift within an Andean polity had altered the timing rather than the scale of metalworking diffusion, which downstream effect aligns least inconsistently with contested imperial resilience models?",
+        "type": "MCQ",
+        "options": {
+            "a": "Peripheral consolidation appears deceptively stable",
+            "b": "Symbolic prestige networks intensify before collapsing",
+            "c": "Interregional coordination improves but remains brittle",
+            "d": "Core–periphery military asymmetry narrows unpredictably"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 22,
+        "question": "If diplomatic communications between two early 20th-century powers had been framed less explicitly, long-term regional alignments would remain broadly recognizable.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -230,64 +242,42 @@
         "answer": "a"
     },
     {
-        "question_id": 22,
-        "question": "If the Taft-Katsura Agreement (1905) never occurred, which outcome is most plausible?",
+        "question_id": 23,
+        "question": "If a dynastic transition in the early Islamic world had emphasized continuity over ideological rupture, which speculative intellectual trajectory minimally conflicts with comparative textual reinterpretations?",
         "type": "MCQ",
         "options": {
-            "a": "Japan delays its expansion into Korea",
-            "b": "U.S.–Japan relations deteriorate earlier",
-            "c": "Russia maintains dominance in East Asia",
-            "d": "China becomes a Japanese protectorate"
+            "a": "Localized scholastic networks flourish unevenly",
+            "b": "Cross-regional translation efforts intensify briefly",
+            "c": "Institutional patronage decentralizes before solidifying",
+            "d": "Philosophical synthesis emerges sporadically across courts"
         },
-        "answer": "b"
-    },
-    {
-        "question_id": 23,
-        "question": "If the Abbasid revolt against the Umayyads had failed, the Islamic Golden Age would still have emerged under Umayyad rule.",
-        "type": "T/F",
-        "options": {
-            "a": "True",
-            "b": "False"
-        },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 24,
-        "question": "If sub-Saharan African kingdoms had developed gunpowder weaponry earlier than Europe, what is the most likely outcome?",
-        "type": "MCQ",
-        "options": {
-            "a": "Africa colonizes parts of southern Europe",
-            "b": "Atlantic trade routes collapse",
-            "c": "China allies with African states against Europe",
-            "d": "European coastal forts fail to gain foothold"
-        },
-        "answer": "d"
-    },
-    {
-        "question_id": 25,
-        "question": "If the Reconquista in Spain never concluded in 1492, Iberian exploration of the Atlantic might have been significantly delayed.",
+        "question": "If a sub-Saharan polity integrated external military concepts earlier but without consolidating centralized authority, its external engagements would still exhibit familiar divergences.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 25,
+        "question": "If a major Iberian conflict had slowed but not halted domestic restructuring, which downstream maritime impact is least inconsistent with disputed logistical reconstructions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Incremental naval capacity emerges with irregular momentum",
+            "b": "Commercial outflows remain symbolic rather than functional",
+            "c": "Competing courts coordinate maritime ventures inconsistently",
+            "d": "Peripheral fleets surpass core fleets unexpectedly"
         },
         "answer": "a"
     },
     {
         "question_id": 26,
-        "question": "If the Ottoman Empire had industrialized in the early 1700s, which development becomes most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "Ottoman control expands into Central Europe",
-            "b": "The Russian Empire collapses in the 18th century",
-            "c": "The Ottoman Empire becomes a naval superpower",
-            "d": "The Mughal Empire becomes an Ottoman vassal"
-        },
-        "answer": "c"
-    },
-    {
-        "question_id": 27,
-        "question": "If the Song Dynasty had not lost northern China to the Jin, gunpowder weaponry would have been invented much later.",
+        "question": "If an eastern Mediterranean empire adopted selective mechanization without corresponding administrative reform, long-term geopolitical dynamics would be largely recognizable.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -296,86 +286,108 @@
         "answer": "b"
     },
     {
-        "question_id": 28,
-        "question": "If the Byzantine Empire had won the Battle of Yarmouk (636 CE), which outcome is most plausible?",
+        "question_id": 27,
+        "question": "If early technological experimentation in a pre-modern dynasty accelerated unevenly across regions, which pattern aligns least inconsistently with disputed military-infrastructure correlations?",
         "type": "MCQ",
         "options": {
-            "a": "Islamic expansion into the Levant slows dramatically",
-            "b": "Arab tribes convert to Christianity en masse",
-            "c": "Persia conquers Byzantium shortly after",
-            "d": "North Africa becomes the Byzantine economic center"
+            "a": "Localized innovations scale unpredictably",
+            "b": "Regional advantage reverses in short intervals",
+            "c": "Central oversight fragments despite stability elsewhere",
+            "d": "Peripheral competitors replicate breakthroughs imperfectly"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 28,
+        "question": "If a decisive 7th-century battle had been prolonged rather than reversed, regional ideological differentiation would still unfold along recognizable trajectories.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 29,
-        "question": "If the Ming Dynasty had continued Zheng He's voyages beyond 1433, China's dominance in the Indian Ocean would remain unchanged.",
-        "type": "T/F",
+        "question": "If early maritime expeditions in East Asia had developed intermittent continuity instead of abrupt termination, which downstream implication least contradicts fragmented court records?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Symbolic dominance intensifies without stable enforcement",
+            "b": "Maritime guilds emerge inconsistently across ports",
+            "c": "Commercial cycles synchronize sporadically",
+            "d": "Peripheral polities negotiate from fluctuating leverage"
         },
         "answer": "b"
     },
     {
         "question_id": 30,
-        "question": "If ancient Egypt had adopted iron technology earlier, what is the most plausible outcome?",
-        "type": "MCQ",
+        "question": "If metallurgical advances in a North African–Levantine complex diffused earlier but with uneven institutional adoption, regional power asymmetries would remain broadly similar.",
+        "type": "T/F",
         "options": {
-            "a": "Egypt withstands Assyrian invasions",
-            "b": "Phoenician trade collapses",
-            "c": "The Hittites dominate Mediterranean politics",
-            "d": "Persia conquers Egypt centuries earlier"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 31,
-        "question": "If the Akkadian Empire had not collapsed due to drought, Mesopotamian city-state culture would have continued to evolve independently.",
+        "question": "If a foundational Mesopotamian polity experienced prolonged hydrological stability rather than episodic decline, which downstream cultural trend exhibits the least contradiction with contested stratigraphic layers?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ritual centralization persists longer than political cohesion",
+            "b": "Economic specialization fluctuates before consolidation",
+            "c": "Intercity alliances alternate between rigidity and flexibility",
+            "d": "Symbolic kingship strengthens despite administrative drift"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 32,
+        "question": "If imperial decline in a South Asian polity occurred more gradually, macro-regional religious realignments would follow similar sequences.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 32,
-        "question": "If the Maurya Empire had not declined after Ashoka, which development is most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "Buddhism becomes the dominant religion in South Asia",
-            "b": "The Roman Empire forms direct contact with India",
-            "c": "The Gupta Empire rises sooner",
-            "d": "China annexes northern India"
         },
         "answer": "a"
     },
     {
         "question_id": 33,
-        "question": "If the Han Dynasty had avoided collapse in 220 CE, China’s Three Kingdoms period would still have occurred.",
-        "type": "T/F",
+        "question": "If internal fiscal strains in a classical East Asian state were mitigated temporarily, which ambiguous outcome aligns least inconsistently with cyclical fragmentation models?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Peripheral administrators emerge as semi-autonomous brokers",
+            "b": "Cultural unity intensifies but remains symbolically anchored",
+            "c": "Institutional rigidity accelerates unevenly",
+            "d": "Dynastic succession stabilizes without structural cohesion"
         },
         "answer": "b"
     },
     {
         "question_id": 34,
-        "question": "If the Achaemenid Empire had won the Greco-Persian Wars, which long-term outcome is most plausible?",
-        "type": "MCQ",
+        "question": "If an imperial conflict in the eastern Mediterranean had ended with a negotiated settlement instead of decisive victory, cultural fusion across the region would remain broadly recognizable.",
+        "type": "T/F",
         "options": {
-            "a": "Greek philosophy spreads under Persian patronage",
-            "b": "The Roman Republic collapses in its early years",
-            "c": "Egypt becomes the Persian capital",
-            "d": "Persian rule leads to early industrial development"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 35,
-        "question": "If the Shang Dynasty had not fallen to the Zhou, Chinese feudalism would never have developed.",
+        "question": "If early dynastic transitions in East Asia unfolded less abruptly, which developmental pattern least contradicts the ambiguous emergence of proto-feudal structures?",
+        "type": "MCQ",
+        "options": {
+            "a": "Lineage hierarchies stabilize sporadically",
+            "b": "Ritual frameworks intensify before decentralizing",
+            "c": "Regional authority structures consolidate unevenly",
+            "d": "Transmission of symbolic legitimacy becomes erratic"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 36,
+        "question": "If political consolidation in a Mediterranean republic had stalled without reversing, later institutional evolution would still mirror established trajectories.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -384,64 +396,42 @@
         "answer": "b"
     },
     {
-        "question_id": 36,
-        "question": "If the Roman Senate had prevented Julius Caesar's rise to power, which development becomes most plausible?",
+        "question_id": 37,
+        "question": "If a Bronze Age maritime society experienced incremental decline rather than abrupt disruption, which subsequent developmental pattern least contradicts overlapping Aegean stratigraphy?",
         "type": "MCQ",
         "options": {
-            "a": "The Roman Republic survives significantly longer",
-            "b": "Carthage regains Mediterranean dominance",
-            "c": "Rome fragments into independent city-states",
-            "d": "The Roman Empire forms earlier under another general"
+            "a": "Hybrid cultural markers persist despite political reordering",
+            "b": "Trade networks fluctuate without clear collapse",
+            "c": "Peripheral settlements gain prominence erratically",
+            "d": "Ritual practices decouple from political authority"
         },
         "answer": "a"
     },
     {
-        "question_id": 37,
-        "question": "If the Minoan civilization had not collapsed around 1450 BCE, Mycenaean dominance would still have emerged.",
+        "question_id": 38,
+        "question": "If a major early-medieval battle in Western Europe had produced a stalemate rather than a reversal, macro-regional cultural boundaries would be broadly unchanged.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 38,
-        "question": "If the Umayyad Caliphate had won the Battle of Tours (732 CE), what is the most likely consequence?",
-        "type": "MCQ",
-        "options": {
-            "a": "Islamic influence expands deeper into Western Europe",
-            "b": "The Byzantine Empire collapses immediately",
-            "c": "North African states become Catholic",
-            "d": "Viking raids cease entirely"
         },
         "answer": "a"
     },
     {
         "question_id": 39,
-        "question": "If the Phoenicians had not developed advanced shipbuilding, Mediterranean trade networks would remain as interconnected as they became historically.",
-        "type": "T/F",
+        "question": "If a foundational Mediterranean seafaring group formalized naval coordination less efficiently, which downstream trade pattern aligns least inconsistently with scattered maritime records?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Coastal exchange becomes intermittent yet resilient",
+            "b": "Urban trading nodes develop irregular hierarchies",
+            "c": "Symbolic maritime identity persists beyond economic utility",
+            "d": "Long-distance cargo flows compress unpredictably"
         },
-        "answer": "b"
+        "answer": "c"
     },
     {
         "question_id": 40,
-        "question": "If the Zulu Kingdom had modernized militarily before 1820, which outcome is most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "European settlement in southern Africa faces heavy resistance",
-            "b": "The Mfecane never occurs",
-            "c": "The Zulu Empire expands into central Africa",
-            "d": "Britain establishes early alliances with the Zulu"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 41,
-        "question": "If the Mongol Empire had not fragmented after 1260, Eurasian trade under the Pax Mongolica would have continued uninterrupted for centuries.",
+        "question": "If a southern African polity adapted external military templates unevenly rather than uniformly, regional resistance patterns would remain fundamentally recognizable.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -450,64 +440,64 @@
         "answer": "b"
     },
     {
-        "question_id": 42,
-        "question": "If the Kingdom of Axum had adopted large-scale maritime expansion in the 5th century CE, which outcome is most plausible?",
+        "question_id": 41,
+        "question": "If an expansive steppe polity sustained partial cohesion instead of total fragmentation, which subtle economic pattern least contradicts transcontinental exchange evidence?",
         "type": "MCQ",
         "options": {
-            "a": "Axum becomes the dominant Red Sea naval power",
-            "b": "Rome annexes Axum to secure trade routes",
-            "c": "Axum colonizes parts of India",
-            "d": "The Arabian Peninsula converts to Christianity en masse"
+            "a": "Transactional corridors narrow but persist symbolically",
+            "b": "Peripheral hubs gain leverage inconsistently",
+            "c": "Cross-regional parity oscillates without clear direction",
+            "d": "Central oversight weakens despite nominal unity"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 42,
+        "question": "If a Horn of Africa kingdom prioritized selective maritime engagement instead of sustained naval projection, long-distance cultural spillover remains broadly similar.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 43,
-        "question": "If the Gupta Empire had not declined in the 6th century, India's scientific advancements would have continued at the same pace regardless.",
-        "type": "T/F",
+        "question": "If late-classical scientific patronage in South Asia fluctuated less dramatically, which research trajectory aligns least inconsistently with ambiguous manuscript circulation patterns?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Mathematical innovation diffuses unevenly across courts",
+            "b": "Astronomical synthesis accelerates before plateauing",
+            "c": "Medical traditions diverge while retaining shared cores",
+            "d": "Institutional patronage reinforces specialization sporadically"
         },
         "answer": "b"
     },
     {
         "question_id": 44,
-        "question": "If the Sassanian Empire had defeated the Arabs in the 630s, what is the most plausible outcome?",
-        "type": "MCQ",
+        "question": "If a late-antique Near Eastern empire retained marginal territorial stability longer, regional religious differentiation proceeds along comparable timelines.",
+        "type": "T/F",
         "options": {
-            "a": "Zoroastrianism remains a major world religion",
-            "b": "The Byzantine Empire collapses immediately",
-            "c": "South Asia converts to Zoroastrianism",
-            "d": "The Silk Road shuts down permanently"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 45,
-        "question": "If the Abbasids had never moved their capital to Baghdad, the empire's intellectual flourishing would still have been as strong.",
-        "type": "T/F",
+        "question": "If a classical Middle Eastern capital had emerged in a different administrative node, which speculative intellectual consequence aligns least inconsistently with fragmentary institutional records?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Patronage networks expand unevenly",
+            "b": "Translation movements decouple from political centers",
+            "c": "Scholarly correspondence intensifies intermittently",
+            "d": "Regional knowledge clusters form erratically"
         },
         "answer": "b"
     },
     {
         "question_id": 46,
-        "question": "If the early Rus' principalities had united under a strong centralized monarchy by 1100, which outcome is most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "Kievan Rus becomes a major European power",
-            "b": "The Mongol invasions bypass the region",
-            "c": "Scandinavia annexes the Rus territories",
-            "d": "Orthodox Christianity is replaced by Catholicism"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 47,
-        "question": "If the Holy Roman Empire had abolished its system of autonomous principalities earlier, German unification would have been delayed.",
+        "question": "If early Slavic polities consolidated administrative hierarchies marginally earlier, interregional dynamics remain fundamentally recognizable.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -516,14 +506,24 @@
         "answer": "b"
     },
     {
-        "question_id": 48,
-        "question": "If the Almoravid Empire had expanded deeper into Iberia after 1100, which outcome becomes most plausible?",
+        "question_id": 47,
+        "question": "If structural decentralization in a medieval central European polity had reversed intermittently, which political trajectory aligns least inconsistently with contested feudal-bureaucratic synthesis?",
         "type": "MCQ",
         "options": {
-            "a": "The Reconquista is delayed by centuries",
-            "b": "France annexes northern Spain",
-            "c": "Portugal gains independence earlier",
-            "d": "North Africa unites under a single caliphate"
+            "a": "Interlocking authority becomes symbolically coherent",
+            "b": "Dynastic coalitions stabilize without true unity",
+            "c": "Peripheral estates exert disproportionate short-term leverage",
+            "d": "Institutional layering thickens before fragmenting"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 48,
+        "question": "If cross-Mediterranean religious coalitions fluctuated more erratically during the high medieval period, overarching territorial contests remain broadly familiar.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
@@ -539,19 +539,19 @@
     },
     {
         "question_id": 50,
-        "question": "If the Abbasids had developed gunpowder weapons first, which geopolitical effect is most plausible?",
+        "question": "If the uneven technological experimentation sometimes attributed to early Abbasid military adaptation had emerged earlier and more diffusely, which indirect geopolitical inflection appears least inconsistent with the contested sequence of late-medieval power realignments?",
         "type": "MCQ",
         "options": {
-            "a": "The Ottoman Empire never rises to power",
-            "b": "China halts maritime exploration",
-            "c": "Byzantium conquers Mesopotamia",
-            "d": "Europe industrializes earlier"
+            "a": "Successor polities encounter diminished leverage as shifting doctrines outpace institutional maturity",
+            "b": "Trans-Eurasian naval corridors destabilize before intermittently reorganizing",
+            "c": "Peripheral imperial rivals consolidate symbolic influence without territorial stability",
+            "d": "Commercial networks recalibrate unevenly, amplifying core–periphery asymmetries"
         },
         "answer": "a"
     },
     {
         "question_id": 51,
-        "question": "If the ancient Indus Valley Civilization had not collapsed, South Asian urbanization would have followed the same historical path.",
+        "question": "If hydrological and urban continuity in an early South Asian civilization had persisted without the irregular ecological pressures typically cited, long-term urban trajectories across the subcontinent would still diverge along broadly recognizable structural lines.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -561,19 +561,19 @@
     },
     {
         "question_id": 52,
-        "question": "If the Neo-Assyrian Empire had successfully integrated its conquered populations, which outcome is most plausible?",
+        "question": "If integrative strategies within a major Near Eastern empire had been implemented more consistently across its heterogeneous provinces, which downstream political pattern minimally contradicts contested models of imperial longevity?",
         "type": "MCQ",
         "options": {
-            "a": "The empire survives for significantly longer",
-            "b": "Babylon becomes the regional capital",
-            "c": "Persia forms earlier under a rival dynasty",
-            "d": "Egypt dominates Mesopotamia"
+            "a": "Administrative continuity persists despite accelerating internal recalibrations",
+            "b": "Symbolic centers of authority shift outward but retain procedural coherence",
+            "c": "Peripheral dynasties adopt hybrid governance frameworks prematurely",
+            "d": "Core zones fragment while ritual legitimacy paradoxically strengthens"
         },
         "answer": "a"
     },
     {
         "question_id": 53,
-        "question": "If the Zhou Dynasty had never adopted the Mandate of Heaven doctrine, Chinese dynastic cycles would have remained unchanged.",
+        "question": "If a classical East Asian ruling house had never articulated the ideological framework later retroactively credited with legitimizing dynastic transitions, political cycling patterns would remain broadly anchored in similar interpretive structures.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -583,19 +583,19 @@
     },
     {
         "question_id": 54,
-        "question": "If Alexander the Great had established a stable succession plan, which long-term outcome is most plausible?",
+        "question": "If succession mechanisms following a major Hellenic expansionary figure had been formalized rather than improvised, which large-scale syncretic trajectory aligns least inconsistently with competing reconstructions of early imperial cohesiveness?",
         "type": "MCQ",
         "options": {
-            "a": "The Hellenistic world forms a unified Mediterranean–Asian state",
-            "b": "Rome conquers Greece earlier",
-            "c": "India annexes Persia",
-            "d": "Greek culture dissolves rapidly"
+            "a": "Trans-regional cultural blending accelerates beyond administrative feasibility",
+            "b": "Localized centers reassert autonomy despite nominal unity",
+            "c": "Economic corridors reorganize under uneven political consolidation",
+            "d": "Territorial coherence stabilizes but ideological diffusion remains erratic"
         },
         "answer": "a"
     },
     {
         "question_id": 55,
-        "question": "If the Carthaginians had won the Second Punic War, Rome still would have risen to become a dominant Mediterranean power.",
+        "question": "If a major North African maritime power had prevailed in its most decisive confrontation with a rising Mediterranean republic, the structural amplification of the latter’s institutional momentum would still follow comparable patterns.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -605,19 +605,19 @@
     },
     {
         "question_id": 56,
-        "question": "If ancient Nubia had industrialized iron production earlier, what is the most plausible result?",
+        "question": "If metallurgical expansion in an early Nile-adjacent kingdom had accelerated unevenly across regional power blocks, which broader geopolitical shift minimally conflicts with multi-layered archaeological interpretations?",
         "type": "MCQ",
         "options": {
-            "a": "Nubia challenges Egypt’s dominance",
-            "b": "Rome invades sub-Saharan Africa",
-            "c": "Arab expansion bypasses the region",
-            "d": "The Nile becomes an isolated trade zone"
+            "a": "Symbolic parity between southern and northern polities emerges before dissipating",
+            "b": "Cross-desert exchange networks fluctuate in density while retaining directionality",
+            "c": "Inter-polity absorption cycles intensify but remain structurally unstable",
+            "d": "Peripheral zones adopt divergent military templates without lasting advantage"
         },
         "answer": "a"
     },
     {
         "question_id": 57,
-        "question": "If the early Japanese Yamato state had never formed, the archipelago’s political unification would still have occurred on the same timeline.",
+        "question": "If early sociopolitical consolidation in the archipelago occurred more diffusely rather than aligning behind a single predominant lineage, long-term unification trajectories would still deviate along familiar structural patterns.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -627,13 +627,13 @@
     },
     {
         "question_id": 58,
-        "question": "If the Mayan city-states had developed a unified empire around 700 CE, which outcome becomes most plausible?",
+        "question": "If inter-city coordination among a major Mesoamerican network had tightened intermittently rather than forming continuous unity, which long-term trajectory is least inconsistent with contested collapse-sequence reconstructions?",
         "type": "MCQ",
         "options": {
-            "a": "The Maya resist collapse longer",
-            "b": "Aztec dominance begins centuries earlier",
-            "c": "Spanish arrival triggers earlier Mayan collapse",
-            "d": "South America becomes Maya-influenced"
+            "a": "Demographic contraction slows despite fluctuating elite cohesion",
+            "b": "Regional ritual hierarchies disperse without systemic fragmentation",
+            "c": "External encounter dynamics intensify prior structural vulnerabilities",
+            "d": "Trade corridors expand symbolically but narrow functionally"
         },
         "answer": "a"
     },
@@ -1123,7 +1123,7 @@
     },
     {
         "question_id": 103,
-        "question": "If the Maurya Empire had not collapsed, Hellenistic influence on India would have remained unchanged.",
+        "question": "If the discontinuities often attributed to the late Mauryan administrative dissipation were instead offset by ambiguous cross-cultural diffusion cycles, the degree to which external Hellenistic currents would retain recognizable influence becomes dependent on which interpretive framing?",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1133,19 +1133,19 @@
     },
     {
         "question_id": 104,
-        "question": "If the early Islamic Caliphates had adopted federal forms of governance, which result is most plausible?",
+        "question": "If loosely theorized federative governance models had emerged within early Islamic polities before institutional stabilization, which derivative pattern aligns least inconsistently with the contradictory historiography of regional cohesion?",
         "type": "MCQ",
         "options": {
-            "a": "Internal revolts decrease significantly",
-            "b": "Persia dominates the caliphate",
-            "c": "Byzantium reclaims the Levant",
-            "d": "West Africa becomes a major Islamic center"
+            "a": "Localized uprisings diminish yet remain structurally unpredictable",
+            "b": "Persian elites wield influence without achieving systemic dominance",
+            "c": "Residual Byzantine enclaves fluctuate in relevance without reasserting control",
+            "d": "Peripheral zones assume symbolic primacy without sustained capacity"
         },
         "answer": "a"
     },
     {
         "question_id": 105,
-        "question": "If the early Slavic tribes had urbanized sooner, Eastern European medieval development would have been identical.",
+        "question": "If earlier-than-attested proto-urbanization among dispersed Slavic groups had occurred unevenly, macro-regional medieval developmental trajectories would nonetheless diverge under similar interpretive constraints.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1155,19 +1155,19 @@
     },
     {
         "question_id": 106,
-        "question": "If the Song Dynasty had not developed advanced naval technologies, which outcome becomes most plausible?",
+        "question": "If the technological discontinuities often associated with Song maritime innovation were absent or delayed, which secondary effect least contradicts contested mappings of premodern trade spheres?",
         "type": "MCQ",
         "options": {
-            "a": "China loses influence over Southeast Asian trade",
-            "b": "Japan invades southern China",
-            "c": "The Mongols abandon interest in conquest",
-            "d": "India becomes a naval rival to China"
+            "a": "Trans-regional influence attenuates on irregular cycles",
+            "b": "Peripheral actors interpret the vacuum inconsistently",
+            "c": "Strategic ambitions shift but never fully reverse",
+            "d": "External rivals miscalculate opportunities without consolidating gains"
         },
         "answer": "a"
     },
     {
         "question_id": 107,
-        "question": "If ancient India had not formalized the concept of zero, mathematical development worldwide would be unchanged.",
+        "question": "If the conceptual formalization later associated with the numerical zero had diffused in fragmented pathways rather than coherently originating in South Asia, global mathematical structures would exhibit recognizably divergent internal inconsistencies.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1177,19 +1177,19 @@
     },
     {
         "question_id": 108,
-        "question": "If the Mamluks had lost the Battle of Ain Jalut (1260), which development is most plausible?",
+        "question": "If the strategic equilibrium surrounding a pivotal 13th-century Levantine confrontation had reversed under ambiguous pre-battle contingencies, which subsequent acceleration of imperial overreach remains only partially incompatible with competing scholarly reconstructions?",
         "type": "MCQ",
         "options": {
-            "a": "The Mongols expand into North Africa",
-            "b": "Byzantium retakes the Levant",
-            "c": "The Ayyubid dynasty returns to power",
-            "d": "The Crusader states survive another century"
+            "a": "Expansion proceeds unevenly into North African corridors",
+            "b": "Residual Byzantine leverage fluctuates without reestablishing authority",
+            "c": "Supplanted dynastic claims reappear symbolically but lack continuity",
+            "d": "Peripheral Latin enclaves retain momentary resilience before dissipating"
         },
         "answer": "a"
     },
     {
         "question_id": 109,
-        "question": "If ancient Greece had never adopted the Phoenician alphabet, Greek culture would have spread the same way.",
+        "question": "If a major Aegean culture had adopted alternate modes of symbolic transmission instead of the Phoenician script, the dissemination of its intellectual frameworks would deviate under broadly recognizable conceptual asymmetries.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1199,19 +1199,19 @@
     },
     {
         "question_id": 110,
-        "question": "If the Kingdom of Ghana had expanded further into the Sahara, which long-term consequence is most plausible?",
+        "question": "If trans-Saharan expansionary impulses in an early West African polity had extended deeper into contested northern corridors, which derivative shift aligns least inconsistently with current debates on commercial centrality?",
         "type": "MCQ",
         "options": {
-            "a": "Trans-Saharan trade becomes West Africa–dominated",
-            "b": "North Africa loses all economic leverage",
-            "c": "Egypt invades West Africa",
-            "d": "Islam disappears from the Maghreb"
+            "a": "Trade gradients pivot subtly but retain directional asymmetry",
+            "b": "Northern leverage fluctuates rather than collapsing outright",
+            "c": "External interventions surface symbolically without structural impact",
+            "d": "Cultural transmission accelerates before fragmenting unpredictably"
         },
         "answer": "a"
     },
     {
         "question_id": 111,
-        "question": "If the Romans had not adopted Greek philosophical traditions, Roman intellectual culture would be unchanged.",
+        "question": "If Roman intellectual synthesis had emerged without explicit appropriation of Hellenic conceptual frameworks, the resulting cultural architecture would display significantly divergent foundational structures.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1221,19 +1221,19 @@
     },
     {
         "question_id": 112,
-        "question": "If ancient Japan had developed a unified bureaucratic state before 600 CE, what becomes most plausible?",
+        "question": "If early bureaucratic consolidation in the Japanese archipelago had materialized ahead of documented institutional formation, which regional shift is least incompatible with multilayered reconstructions of East Asian power diffusion?",
         "type": "MCQ",
         "options": {
-            "a": "Japan centralizes earlier and expands regionally",
-            "b": "China annexes Japan",
-            "c": "Korea dominates Japan politically",
-            "d": "Buddhism never reaches Japan"
+            "a": "Centralization accelerates while external ambitions remain periodically constrained",
+            "b": "Continental encroachment becomes theoretically possible but not operational",
+            "c": "Peninsular intermediaries gain symbolic leverage without structural capacity",
+            "d": "Ideological diffusion proceeds erratically despite administrative coherence"
         },
         "answer": "a"
     },
     {
         "question_id": 113,
-        "question": "If the Hellenistic kingdoms had formed a unified alliance after Alexander's death, Roman expansion would still have occurred at the same pace.",
+        "question": "If successor states to a major Hellenistic conqueror had forged an enduring confederation, Mediterranean geopolitical sequencing would deviate substantially from historically attested developments.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1243,19 +1243,19 @@
     },
     {
         "question_id": 114,
-        "question": "If the ancient Celts had developed written administrative systems, which outcome is most plausible?",
+        "question": "If Celtic polities had institutionalized written administrative frameworks earlier, which transformation minimally conflicts with contested narratives of Roman frontier dynamics?",
         "type": "MCQ",
         "options": {
-            "a": "Celtic states resist Roman conquest more effectively",
-            "b": "The Gauls conquer Iberia",
-            "c": "Viking expansion stops earlier",
-            "d": "Germanic tribes become Celticized"
+            "a": "Resistance intensifies but remains spatially inconsistent",
+            "b": "Territorial projections emerge without enduring consolidation",
+            "c": "External raiding cycles shift unpredictably",
+            "d": "Cultural assimilation occurs selectively rather than systematically"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 115,
-        "question": "If early Islam had not expanded into Persia, the region's later religious developments would be identical.",
+        "question": "If the early expansion of Islam had not intersected with Persian sociopolitical structures, long-term ideological patterns across the region would differ markedly from recognizable trajectories.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1265,19 +1265,19 @@
     },
     {
         "question_id": 116,
-        "question": "If Byzantium had reconquered Italy permanently in the 6th century, what is the most plausible outcome?",
+        "question": "If an imperial center had sustained its territorial reconquest in the central Mediterranean during the 6th century, which institutional consequence remains least incompatible with multi-perspective analyses of ecclesiastical authority?",
         "type": "MCQ",
         "options": {
-            "a": "The Papacy becomes politically subordinate to Constantinople",
-            "b": "Islam spreads into Europe earlier",
-            "c": "The Franks annex Anatolia",
-            "d": "Rome becomes the empire's new capital"
+            "a": "Spiritual primacy shifts ambiguously toward eastern oversight",
+            "b": "Peripheral religious movements proliferate before stabilizing",
+            "c": "Continental power blocs recalculate alignments inconsistently",
+            "d": "Administrative prominence migrates symbolically without full relocation"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 117,
-        "question": "If ancient Arabia had not domesticated the camel, Arabian trade networks would be unchanged.",
+        "question": "If camel-based mobility networks had never materialized across pre-Islamic Arabia, regional economic integration would unfold under dramatically altered logistical constraints.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1287,19 +1287,19 @@
     },
     {
         "question_id": 118,
-        "question": "If the Mauryan Empire had expanded deeper into Central Asia, which outcome becomes most plausible?",
+        "question": "If Mauryan expansion had extended intermittently into contested Central Asian corridors, which derivative sequence aligns least inconsistently with fragmented archaeological interpretations?",
         "type": "MCQ",
         "options": {
-            "a": "Indo-Greek kingdoms never arise",
-            "b": "Persia conquers northern India earlier",
-            "c": "China establishes western colonies",
-            "d": "The Silk Road never develops"
+            "a": "Hybrid polities fail to emerge under familiar classifications",
+            "b": "Regional counterpressures intensify without reversing trajectories",
+            "c": "Continental exchanges fluctuate before stabilizing",
+            "d": "Long-distance corridors shift directionally but not structurally"
         },
-        "answer": "a"
+        "answer": "d"
     },
     {
         "question_id": 119,
-        "question": "If the early Persian empires had not adopted Aramaic as an administrative language, imperial governance would have functioned identically.",
+        "question": "If early Persian administrations had not adopted an intermediary lingua franca, bureaucratic coherence across dispersed regional nodes would degrade under competing communicative paradigms.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1309,13 +1309,13 @@
     },
     {
         "question_id": 120,
-        "question": "If the Kushan Empire had expanded further into India, which long-term outcome is most plausible?",
+        "question": "If Kushan territorial projection had expanded unevenly into northern Indian spheres, which interpretive trajectory aligns least inconsistently with the syncretic diffusion models debated by historians?",
         "type": "MCQ",
         "options": {
-            "a": "Central Asian cultural influence spreads deeper into India",
-            "b": "China invades northern India",
-            "c": "Rome forms a military alliance with India",
-            "d": "Hinduism disappears from the subcontinent"
+            "a": "Cultural permeation accelerates but remains asymmetrical",
+            "b": "External encroachment is theorized but lacks empirical grounding",
+            "c": "Continental alliances appear plausible yet structurally unstable",
+            "d": "Religious transformations fluctuate without fully displacing established systems"
         },
         "answer": "a"
     },

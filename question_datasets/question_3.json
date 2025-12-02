@@ -111,447 +111,447 @@
   },
   {
     "question_id": 11,
-    "question": "Early contact between the Minoans and Egyptians contributed to shared artistic iconography.",
+    "question": "Early Minoan–Egyptian contact may have shared artistic ideas, but the evidence is fragmentary enough that either influence or parallel development could explain similarities. Should this be treated as a definitive cultural exchange?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 12,
-    "question": "Which interaction carried cinnamon-like spices from Southeast Asia toward ancient East Africa?",
+    "question": "Multiple routes could plausibly explain how cinnamon-like spices moved toward East Africa; which route is the least explicitly documented yet still historically possible?",
     "type": "MCQ",
     "options": {
-      "a": "Persian naval conquest",
-      "b": "Roman war fleets",
-      "c": "Mediterranean pilgrim routes",
-      "d": "Arabian monsoon trade"
+      "a": "Persian naval conquest creating indirect spice corridors",
+      "b": "Roman fleets unintentionally transporting spice analogues",
+      "c": "Pilgrim movements transferring botanical knowledge gradually",
+      "d": "Arabian monsoon trade shaping episodic and undocumented flows"
     },
-    "answer": "d"
+    "answer": "c"
   },
   {
     "question_id": 13,
-    "question": "Early Slavic tribes adopted aspects of Byzantine religion and architecture through prolonged contact.",
+    "question": "Slavic–Byzantine interactions influenced religion and architecture, but local adaptations blur direct borrowing. Should the influence be labeled straightforward?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 14,
-    "question": "Which interaction brought early citrus cultivation into Persia?",
+    "question": "Citrus arrival in Persia may reflect multiple overlapping networks; which explanation is the most indirect yet still possible?",
     "type": "MCQ",
     "options": {
-      "a": "Greek colonization",
-      "b": "South Asian trade links",
-      "c": "Arab migration",
-      "d": "Trans-Saharan caravans"
+      "a": "Greek colonists replicating agricultural habits over long timeframes",
+      "b": "South Asian traders transmitting seeds intermittently",
+      "c": "Arab communities merging local citrus with imported variants",
+      "d": "Trans-Saharan caravans accidentally transporting citrus cuttings"
     },
-    "answer": "b"
+    "answer": "d"
   },
   {
     "question_id": 15,
-    "question": "The transmission of the lute-like oud instrument into Europe began partly through Andalusi musical contact.",
+    "question": "The oud’s spread through Andalusi culture is often noted, but regional adaptation complicates directionality. Should this be taken as linear transmission?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 16,
-    "question": "Which interaction introduced Hellenistic astronomy into the Kushan Empire?",
+    "question": "Hellenistic astronomy reached the Kushan realm through many possible intermediaries; which path is least documented yet still plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Roman diplomatic exchanges",
-      "b": "Silk Road scholar travel",
-      "c": "Arabian naval warfare",
-      "d": "Chinese imperial envoys"
+      "a": "Roman diplomatic exchanges creating partial knowledge transfer",
+      "b": "Silk Road scholars embedding fragments in multilingual texts",
+      "c": "Arabian naval warfare indirectly circulating astronomical tools",
+      "d": "Chinese envoys passing blended astronomical calendars"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 17,
-    "question": "The expansion of Polynesian voyagers spread shared canoe-building techniques across distant islands.",
+    "question": "Polynesian voyagers spread canoe designs, but independent innovation also occurred. Should the similarity be viewed purely as diffusion?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 18,
-    "question": "Which interaction moved jade ornaments from Neolithic China toward Southeast Asia?",
+    "question": "Jade movement from China to Southeast Asia can be explained through multiple channels; which is the least linear yet still reasonable?",
     "type": "MCQ",
     "options": {
-      "a": "Nomadic war bands",
-      "b": "River and land trade circuits",
-      "c": "Mediterranean colonization",
-      "d": "African maritime fleets"
+      "a": "Nomads redistributing jade through seasonal raids",
+      "b": "River–land trade systems evolving in disconnected stages",
+      "c": "Mediterranean influence shaping long-distance exchange expectations",
+      "d": "African maritime fleets transporting prestige goods indirectly"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 19,
-    "question": "Sarmatian horse-archer tactics influenced Roman auxiliary forces through prolonged frontier contact.",
+    "question": "Sarmatian tactics shaped Roman cavalry practice, but mutual adaptation complicates direction. Should influence be considered one-way?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 20,
-    "question": "Which interaction helped transmit early pastoralist culture into the Tibetan Plateau?",
+    "question": "Pastoralism in Tibet may reflect complex intercultural exchanges; which explanation is the most indirect yet plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Steppe migrations",
-      "b": "Indian seafaring merchants",
-      "c": "Byzantine missionaries",
-      "d": "Arab diplomatic treaties"
+      "a": "Steppe migrations transmitting pastoral ideas in waves",
+      "b": "Indian maritime merchants offering livestock knowledge",
+      "c": "Byzantine missionaries translating agricultural practices",
+      "d": "Arab treaties shaping high-altitude animal exchange"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 21,
-    "question": "Early Aegean contact with Anatolia shaped metallurgical styles across both regions.",
+    "question": "Aegean–Anatolian metallurgy similarities could come from parallel evolution or contact. Should it be treated as definitive influence?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 22,
-    "question": "Which interaction introduced domesticated wheat varieties into Neolithic Europe?",
+    "question": "Neolithic wheat entered Europe through several overlapping processes; which explanation is least linear yet plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Roman military campaigns",
-      "b": "North African sea colonization",
-      "c": "Central Asian trade convoys",
-      "d": "Mesopotamian migration waves"
+      "a": "Roman retroactive agricultural reconstruction",
+      "b": "North African maritime experimentation",
+      "c": "Central Asian convoys mixing seed stock unintentionally",
+      "d": "Mesopotamian migrations diffusing grains gradually"
     },
-    "answer": "d"
+    "answer": "c"
   },
   {
     "question_id": 23,
-    "question": "Phoenician merchant colonies helped transmit Near Eastern religious symbols into western Mediterranean societies.",
+    "question": "Phoenician symbols in the western Mediterranean may stem from trade, imitation, or parallel symbolism. Should it be viewed as deliberate transmission?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 24,
-    "question": "Which interaction moved domesticated sheep from the Zagros region into the Caucasus?",
+    "question": "Sheep movement into the Caucasus could reflect many overlapping migration streams; which explanation is the least documented but feasible?",
     "type": "MCQ",
     "options": {
-      "a": "Arabian spice caravans",
-      "b": "North Sea maritime travel",
-      "c": "Hellenistic colonization",
-      "d": "Local migration corridors"
+      "a": "Arab spice caravans altering pastoral patterns",
+      "b": "North Sea sailors conducting episodic exchanges",
+      "c": "Hellenistic settlers transporting pastoral knowledge accidentally",
+      "d": "Local migrations shifting flocks through fragmented valleys"
     },
-    "answer": "d"
+    "answer": "a"
   },
   {
     "question_id": 25,
-    "question": "The Scythians influenced Greek decorative metalwork through Black Sea commercial exchanges.",
+    "question": "Greek–Scythian metalwork similarities may stem from reverse influence or local innovation. Should they be treated as direct borrowing?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 26,
-    "question": "Which interaction transmitted obsidian from Anatolia into Neolithic Balkans?",
+    "question": "Anatolian obsidian reached the Balkans through numerous mechanisms; which explanation is most indirect yet still valid?",
     "type": "MCQ",
     "options": {
-      "a": "Indian Ocean trade",
-      "b": "Regional land trading",
-      "c": "Roman-era colonization",
-      "d": "Nomadic conquest"
+      "a": "Indian Ocean traders transporting obsidian unintentionally",
+      "b": "Regional networks operating in fragmented clusters",
+      "c": "Roman colonists back-diffusing stone routes",
+      "d": "Nomadic conquest redistributing materials sporadically"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 27,
-    "question": "The spread of the Brahmi script into Sri Lanka resulted partly from cultural and religious contact.",
+    "question": "The Brahmi script in Sri Lanka reflects complex cultural blending rather than straightforward diffusion. Should it be treated as direct import?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 28,
-    "question": "Which interaction helped carry early Austroasiatic languages into mainland Southeast Asia?",
+    "question": "Austroasiatic languages spread through many interactions; which is the most contradictory yet still possible?",
     "type": "MCQ",
     "options": {
-      "a": "European naval expansion",
-      "b": "Overland tribal migrations",
-      "c": "Arabized maritime networks",
-      "d": "Greek war alliances"
+      "a": "European naval expansion encoding earlier linguistic shifts",
+      "b": "Overland tribal migrations in unpredictable patterns",
+      "c": "Arab maritime systems indirectly reshaping inland languages",
+      "d": "Greek alliances transmitting vocabulary unintentionally"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 29,
-    "question": "Celts in the Iberian Peninsula adopted some Phoenician metallurgical techniques through coastal contact.",
+    "question": "Phoenician–Celtic metalwork overlaps may reflect incidental convergence rather than contact. Should influence be assumed?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 30,
-    "question": "Which interaction introduced domesticated millet strains from northern China to the Korean Peninsula?",
+    "question": "Chinese millet reached Korea by several routes; which is the least documented yet plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Central Asian camel caravans",
-      "b": "Arab merchant voyages",
-      "c": "Mediterranean expeditions",
-      "d": "River-based frontier trade"
+      "a": "Central Asian caravans redistributing seed unintentionally",
+      "b": "Arab voyages producing accidental crop transfers",
+      "c": "Mediterranean expeditions reshaping inland foodchains",
+      "d": "Riverine interactions adapting cultivation pockets"
     },
-    "answer": "d"
+    "answer": "b"
   },
   {
     "question_id": 31,
-    "question": "Early Arab contact with East African inland groups encouraged hybrid architectural forms.",
+    "question": "Arab–East African connections shaped architecture, though mutual adaptation blurs causality. Should the influence be treated as unidirectional?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 32,
-    "question": "Which interaction brought horses into Bronze Age China?",
+    "question": "Horses entered China mainly via steppe routes, but other paths could have contributed. Which is the least attested but possible?",
     "type": "MCQ",
     "options": {
-      "a": "Southeast Asian maritime networks",
-      "b": "Steppe nomad contact",
-      "c": "Persian diplomatic gifts",
-      "d": "African cattle migrations"
+      "a": "Southeast Asian maritime routes transporting small horse populations",
+      "b": "Steppe contact introducing major breeds",
+      "c": "Persian diplomatic gifting with uncertain survival",
+      "d": "African cattle migrations carrying incidental equine stock"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 33,
-    "question": "The movement of Arawak-speaking peoples helped spread agricultural techniques across the Caribbean.",
+    "question": "Arawak agricultural spread could reflect independent agricultural convergence. Should it be treated as direct diffusion?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 34,
-    "question": "Which interaction moved Central Asian turquoise into early Persian workshops?",
-    "type": "MCQ",
-    "options": {
-      "a": "Mediterranean naval trade",
-      "b": "Overland Silk Road routes",
-      "c": "Greek colonial ports",
-      "d": "East African migration"
     },
     "answer": "b"
   },
   {
-    "question_id": 35,
-    "question": "Early Nubian contact with Central Sudanese communities influenced pottery style development.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 36,
-    "question": "Which interaction diffused Southeast Asian banana cultivation into Madagascar?",
+    "question_id": 34,
+    "question": "Turquoise reached Persia through many zones; which path is the least linear yet plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Roman merchant fleets",
-      "b": "Persian land expeditions",
-      "c": "Greek naval colonization",
-      "d": "Austronesian migration by sea"
+      "a": "Mediterranean fleets circulating symbolic goods unexpectedly",
+      "b": "Overland Silk Road fragments shifting goods through nodes",
+      "c": "Greek ports mediating elite gem trade indirectly",
+      "d": "African migration shaping material distribution subtly"
     },
     "answer": "d"
   },
   {
-    "question_id": 37,
-    "question": "The spread of early Semitic scripts across the Levant was accelerated by interregional exchange networks.",
+    "question_id": 35,
+    "question": "Nubian–Sudanese pottery overlap may reflect parallel evolution. Should contact be assumed as primary cause?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
+  },
+  {
+    "question_id": 36,
+    "question": "Bananas reached Madagascar through overlapping routes; which is the least attested yet plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Roman fleets drifting westward unintentionally",
+      "b": "Persian land expeditions influencing maritime supply chains",
+      "c": "Greek colonists acquiring Southeast Asian plants indirectly",
+      "d": "Austronesian migration shaping coastal agriculture in nonlinear patterns"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 37,
+    "question": "Semitic script diffusion is complex and multi-directional. Should the Levant be viewed as a single diffusion center?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 38,
-    "question": "Which interaction introduced early Andean metal alloys into neighboring highland cultures?",
+    "question": "Andean metal alloys spread by various interactions; which explanation is least linear yet feasible?",
     "type": "MCQ",
     "options": {
-      "a": "Maritime colonization",
-      "b": "Overland mountain trade",
-      "c": "European exploration",
-      "d": "Desert nomad warfare"
+      "a": "Maritime colonization from unrelated Pacific groups",
+      "b": "Mountain trade occurring irregularly across generations",
+      "c": "European exploration retroactively influencing alloy patterns",
+      "d": "Desert nomads transferring metallurgical knowledge indirectly"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 39,
-    "question": "Early interactions between the Guanche of the Canary Islands and North African sailors may have exchanged navigational knowledge.",
+    "question": "Guanche–North African navigation overlap may stem from parallel development. Should contact be assumed definitively?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 40,
-    "question": "Which interaction helped spread bronze-casting techniques from the Eurasian steppe into Eastern Europe?",
-    "type": "MCQ",
-    "options": {
-      "a": "Indian Ocean trade",
-      "b": "Roman conquest",
-      "c": "Nomadic migrations",
-      "d": "Mediterranean colonization"
-    },
-    "answer": "c"
-  },
-  {
-    "question_id": 41,
-    "question": "Greek and Phoenician contact in the Iron Age sometimes resulted in shared harbor-engineering methods rather than simple trade imitation.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 42,
-    "question": "Which interaction most plausibly led to Persian irrigation innovations being adapted unevenly across early Islamic territories?",
-    "type": "MCQ",
-    "options": {
-      "a": "Caravan-based scholarly travel",
-      "b": "Localized nomadic warfare",
-      "c": "Mediterranean colonization",
-      "d": "Isolated riverine migrations"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 43,
-    "question": "Chinese silk reached the Mediterranean partly because intermediary cultures modified trade networks to suit local political pressures.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 44,
-    "question": "Which interaction best explains the diffusion of Islamic legal scholars into the Mali Empire?",
-    "type": "MCQ",
-    "options": {
-      "a": "Atlantic wind-drift voyages",
-      "b": "Seasonal trans-Saharan caravans",
-      "c": "Byzantine frontier settlements",
-      "d": "Sudden nomadic conquest"
     },
     "answer": "b"
   },
   {
-    "question_id": 45,
-    "question": "Indian numerals entered European scholarly traditions partly through Arabic translations circulating in North Africa and Iberia.",
+    "question_id": 40,
+    "question": "Bronze-casting spread into Eastern Europe through many channels; which is the least predictable yet plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Indian Ocean drift indirectly influencing steppe chains",
+      "b": "Roman conquest reconstructing earlier metallurgical flows",
+      "c": "Nomadic migrations shifting metallurgical knowledge unpredictably",
+      "d": "Mediterranean colonization diffusing outer-European styles"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 41,
+    "question": "Greek–Phoenician harbor methods converged in multiple ways; should this be viewed as intentional sharing?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
+    "answer": "b"
+  },
+  {
+    "question_id": 42,
+    "question": "Persian irrigation ideas diffused across Islamic regions unevenly; which mechanism is least linear yet plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Caravan scholars transmitting theoretical fragments",
+      "b": "Nomadic warfare redistributing irrigation tools",
+      "c": "Mediterranean colonization shaping inland adaptation",
+      "d": "Riverine migrants translating techniques inconsistently"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 43,
+    "question": "Silk reached the Mediterranean through many intermediaries; should intermediaries be credited as intentional coordinators?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 44,
+    "question": "Islamic scholars reached Mali through many overlaps; which route is the least direct yet possible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Atlantic drift voyages unintentionally carrying clergy",
+      "b": "Seasonal caravans moving scholars unpredictably",
+      "c": "Byzantine frontiers creating indirect religious spillovers",
+      "d": "Nomadic conquest repurposing captured scholars"
+    },
     "answer": "a"
+  },
+  {
+    "question_id": 45,
+    "question": "Indian numerals entered Europe via Arabic works, but early Latin transmission complicates the timeline. Should India→Arab→Europe be considered the only route?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   },
   {
     "question_id": 46,
-    "question": "Which pathway allowed Greek medical writings to reach Western Europe before the Renaissance?",
+    "question": "Greek medical writings spread widely; which pathway is least documented yet still possible?",
     "type": "MCQ",
     "options": {
-      "a": "Byzantine–Islamic translation circles",
-      "b": "Mongol steppe embassies",
-      "c": "Viking commercial settlements",
-      "d": "Colonial trade monopolies"
+      "a": "Byzantine–Islamic translation cycles",
+      "b": "Mongol embassies carrying fragmented manuscripts",
+      "c": "Viking traders acquiring texts indirectly",
+      "d": "Colonial monopolies retroactively shaping circulation"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 47,
-    "question": "Spanish–Inca encounters produced environmental disruptions that also facilitated agricultural exchange between the groups.",
+    "question": "Spanish–Inca agricultural mixing occurred, but disruptions complicate causality. Should it be assumed direct interaction?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 48,
-    "question": "Which interaction most credibly transmitted Buddhist monastic customs into early Chinese communities?",
+    "question": "Buddhist customs entered China via many vectors; which is the least linear but plausible?",
     "type": "MCQ",
     "options": {
-      "a": "Arab naval fleets",
-      "b": "Byzantine gospel missions",
-      "c": "Caravan-borne merchant networks",
-      "d": "Hellenistic colonization"
+      "a": "Arab naval fleets transmitting monastic practices unknowingly",
+      "b": "Byzantine missions indirectly shaping Buddhist vocabulary",
+      "c": "Caravan merchants relaying fragments of ritual through trade",
+      "d": "Hellenistic colonists preserving Buddhist elements marginally"
     },
-    "answer": "c"
+    "answer": "a"
   },
   {
     "question_id": 49,
-    "question": "The Viking presence along Eastern European rivers indirectly influenced political structures through their commercial station settlements.",
+    "question": "Viking influence in Eastern Europe shaped politics, but local elites shaped them more. Should Vikings be seen as main architects?",
     "type": "T/F",
     "options": {
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 50,
-    "question": "Which mechanism best carried West African gold into European minting centers?",
+    "question": "West African gold reached Europe through many networks; which mechanism is the least linear yet possible?",
     "type": "MCQ",
     "options": {
-      "a": "Forced coastal migrations",
-      "b": "Mediterranean monsoon trade",
-      "c": "North African caravan caravans",
-      "d": "Nomadic tribute systems"
+      "a": "Forced coastal relocations redistributing bullion patterns",
+      "b": "Mediterranean monsoon patterns shifting gold flows unpredictably",
+      "c": "North African caravans realigning gold routes by accident",
+      "d": "Nomadic tribute systems circulating gold pieces erratically"
     },
-    "answer": "c"
+    "answer": "b"
   },
   {
     "question_id": 51,
-    "question": "Cultural contact during the Crusades provided Europeans with unfamiliar scientific texts that later shaped medieval universities.",
+    "question": "Cross-cultural exchanges during early Hellenistic expansion transmitted botanical knowledge whose origins remain debated among scholars.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -561,19 +561,19 @@
   },
   {
     "question_id": 52,
-    "question": "Which interaction best explains how papermaking diffused from Central Asia into Islamic scholarly hubs?",
+    "question": "Which process most ambiguously contributed to the faint Byzantine architectural echoes detected in early Slavic religious structures?",
     "type": "MCQ",
     "options": {
-      "a": "Localized religious diplomacy",
-      "b": "Military capture of artisans",
-      "c": "Atlantic commercial drift",
-      "d": "Nomadic fortification raids"
+      "a": "Pilgrimage-induced artisan borrowing",
+      "b": "Unrecorded military camp assimilation",
+      "c": "Commercial guild shadow networks",
+      "d": "Seasonal monastic itinerancy"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 53,
-    "question": "Mongol rule, despite its destructiveness, facilitated the circulation of craft specialists across Eurasia.",
+    "question": "Coastal Southeast Asian societies may have adopted metallurgical cues from Indian specialists, though the causal chain is not fully documented.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -583,19 +583,19 @@
   },
   {
     "question_id": 54,
-    "question": "Which dynamic most directly moved Islamic astronomical tables into Christian Spain?",
+    "question": "Which channel best explains how certain Near Eastern astronomical symbols surfaced in early Central Asian manuscripts despite sparse records?",
     "type": "MCQ",
     "options": {
-      "a": "Berber migration into Iberia",
-      "b": "European colonial explorations",
-      "c": "Persian monastic schools",
-      "d": "Northern steppe expansions"
+      "a": "Caravan intermediation across multiple polities",
+      "b": "Secondary diffusion through pastoral intermediaries",
+      "c": "Fragmented war-captive transmission",
+      "d": "Monastic scriptoria with uncertain affiliations"
     },
     "answer": "a"
   },
   {
     "question_id": 55,
-    "question": "The southward movement of Bantu peoples reshaped agricultural zones through gradual crop-mix diffusion.",
+    "question": "The diffusion of iron-smelting expertise within sub-Saharan Africa followed patterns that remain only partially reconstructable from archaeological evidence.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -605,19 +605,19 @@
   },
   {
     "question_id": 56,
-    "question": "Which contact scenario most plausibly links Dutch navigators with Aboriginal communities?",
+    "question": "Which interaction most plausibly accounts for faint Mediterranean artistic traces in early Alpine pottery?",
     "type": "MCQ",
     "options": {
-      "a": "Random monsoon drift",
-      "b": "Early colonial settlement missions",
-      "c": "Indian Ocean exploratory voyages",
-      "d": "Sub-Saharan cattle migrations"
+      "a": "Overland trader contact via fragmented routes",
+      "b": "Seasonal transhumance craft borrowing",
+      "c": "Minor cultic pilgrimage intersections",
+      "d": "Unrecorded itinerant artisan drift"
     },
-    "answer": "c"
+    "answer": "a"
   },
   {
     "question_id": 57,
-    "question": "Ottoman involvement in eastern Mediterranean trade allowed Europeans indirect access to luxury manufactures they could not produce locally.",
+    "question": "The Achaemenid administrative system likely shaped peripheral record-keeping practices, though direct transmission lines remain obscure.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -627,19 +627,19 @@
   },
   {
     "question_id": 58,
-    "question": "Which exchange pathway best accounts for the spread of Arabic mathematical concepts across North Africa?",
+    "question": "Which mechanism best clarifies how obscure fragments of Indian philosophical vocabulary appeared in Central Asian monastic debates?",
     "type": "MCQ",
     "options": {
-      "a": "Colonial land redistribution",
-      "b": "Desert-route trade",
-      "c": "Northern monastic expansion",
-      "d": "Baltic maritime networks"
+      "a": "Pilgrim-scholar multilingual exchanges",
+      "b": "Captured scribal communities",
+      "c": "Maritime diffusion through indirect nodes",
+      "d": "Nomadic ritual mediation"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 59,
-    "question": "Polynesian seafarers shared star-navigation heuristics that later appeared in distant island traditions with only slight variations.",
+    "question": "Indigenous North American agricultural practices incorporated external plant varieties through complex, non-linear trade pathways.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -649,19 +649,19 @@
   },
   {
     "question_id": 60,
-    "question": "Which interaction introduced early firearms technology into Japanese domains most efficiently?",
+    "question": "Which factor best explains early Chinese silk fragments uncovered in minor steppe burial contexts?",
     "type": "MCQ",
     "options": {
-      "a": "Portuguese shipborne trade",
-      "b": "Mongol imperial envoys",
-      "c": "Arabian caravan preachers",
-      "d": "Internal island migrations"
+      "a": "Multistage barter routes",
+      "b": "Elite-gift dispersal chains",
+      "c": "Ritualized pastoral diplomacy",
+      "d": "Indirect conflict-zone redistribution"
     },
     "answer": "a"
   },
   {
     "question_id": 61,
-    "question": "The diffusion of maize northward from Mesoamerica relied partly on migratory groups who also adopted new subsistence routines.",
+    "question": "Cultural borrowing between Nubian and Egyptian societies proceeded unevenly across centuries, complicating attribution of specific motifs.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -671,19 +671,19 @@
   },
   {
     "question_id": 62,
-    "question": "Which interaction most realistically carried Roman glass into the Indian Ocean region?",
+    "question": "Which interaction most ambiguously accounts for early Islamic geometric influences in Balkan manuscript borders?",
     "type": "MCQ",
     "options": {
-      "a": "Indian Ocean monsoon trading",
-      "b": "Overland military convoys",
-      "c": "Black Sea pirate networks",
-      "d": "African camel migrations"
+      "a": "Merchant enclaves along Adriatic towns",
+      "b": "Transitional frontier raids with craft capture",
+      "c": "Indirect Venetian brokerage",
+      "d": "Peripheral missionary exchanges"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 63,
-    "question": "The Jewish diaspora contributed to Mediterranean commercial webs by linking separate cultural zones through multilingual trade.",
+    "question": "Central Asian nomadic elites may have transmitted textile motifs that later appeared in peripheral European border regions.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -693,19 +693,19 @@
   },
   {
     "question_id": 64,
-    "question": "Which mechanism spread horses through Plains societies of North America?",
+    "question": "Which route best explains the ambiguous appearance of Mediterranean glass beads in inland African archaeological layers?",
     "type": "MCQ",
     "options": {
-      "a": "Spanish colonial contacts",
-      "b": "Trans-Siberian cattle routes",
-      "c": "Maritime Polynesian visits",
-      "d": "Northern Norse settlements"
+      "a": "Complex Saharan caravan diffusion",
+      "b": "Indirect Red Sea coastal brokerage",
+      "c": "Riverine redistribution at uncertain hubs",
+      "d": "Unrecorded clan-based exchange"
     },
     "answer": "a"
   },
   {
     "question_id": 65,
-    "question": "The Silk Road periodically carried Persian gem-carving aesthetics eastward, influencing Chinese artisanship in subtle ways.",
+    "question": "Certain Andean metallurgical innovations may reflect faint external stimuli whose origins remain contested.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -715,19 +715,19 @@
   },
   {
     "question_id": 66,
-    "question": "Which process moved Roman architectural practices most firmly into early Britain?",
+    "question": "Which process best accounts for the sporadic appearance of Southeast Asian trade ceramics in coastal Middle Eastern locales?",
     "type": "MCQ",
     "options": {
-      "a": "Long-term colonial governance",
-      "b": "Accidental seafaring drift",
-      "c": "Fleeting trade negotiations",
-      "d": "Nomadic pastoral migrations"
+      "a": "Intermediary Indian Ocean multi-stop trade",
+      "b": "Localized shipwreck salvage exchanges",
+      "c": "Missionary artifact circulation",
+      "d": "Fortuitous monsoon drift"
     },
     "answer": "a"
   },
   {
     "question_id": 67,
-    "question": "Phoenician expansion in the western Mediterranean promoted alphabetic borrowing across competing coastal societies.",
+    "question": "Persian medical knowledge influenced early Islamic healing practices through a web of multilingual scholarship.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -737,19 +737,19 @@
   },
   {
     "question_id": 68,
-    "question": "Which maritime interaction connected Arabian and Indian merchants with emerging Swahili port towns?",
+    "question": "Which interaction best explains faint East African stylistic echoes in early Arabian coastal carvings?",
     "type": "MCQ",
     "options": {
-      "a": "Coral-reef naval warfare",
-      "b": "Indian Ocean commercial circuits",
-      "c": "European crusader fleets",
-      "d": "Nomadic desert campaigns"
+      "a": "Bidirectional Red Sea mercantile contacts",
+      "b": "Transient pilgrim-artisan exchanges",
+      "c": "Captured craft workers from minor conflicts",
+      "d": "Agrarian-diaspora familial drift"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 69,
-    "question": "Russian movement into Siberia created cultural exchanges with indigenous groups that influenced fur-trade governance systems.",
+    "question": "Northern Eurasian trade circuits occasionally transmitted ritual items whose symbolic contexts shifted dramatically along the way.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -759,19 +759,19 @@
   },
   {
     "question_id": 70,
-    "question": "Which interaction most directly helped papermaking enter Islamic intellectual centers?",
+    "question": "Which mechanism best explains the unexpected presence of Mesoamerican-style spindle whorls in peripheral Southwestern contexts?",
     "type": "MCQ",
     "options": {
-      "a": "Captured Chinese artisans during frontier battles",
-      "b": "Trans-Atlantic drift voyages",
-      "c": "Missionary envoy circuits",
-      "d": "African monastic diffusion"
+      "a": "Layered long-distance trade intermediaries",
+      "b": "Intergroup ceremonial gift mobility",
+      "c": "Unstable migration chains",
+      "d": "Localized artisan experimentation"
     },
     "answer": "a"
   },
   {
     "question_id": 71,
-    "question": "The Columbian Exchange unexpectedly reshaped European health and population trends by introducing calorie-dense crops like potatoes.",
+    "question": "Song-era maritime expansion altered Southeast Asian port cultures in ways that are difficult to isolate in the archaeological record.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -781,19 +781,19 @@
   },
   {
     "question_id": 72,
-    "question": "Which interaction transmitted Christianity into the Aksumite Kingdom at a formative stage?",
+    "question": "Which path best accounts for the faintly Greek-inspired motifs in early Caucasus metalwork?",
     "type": "MCQ",
     "options": {
-      "a": "Trade with Roman-era merchants",
-      "b": "Persian military incursions",
-      "c": "West African pilgrimage routes",
-      "d": "Central Asian mission settlements"
+      "a": "Indirect Hellenistic craft diffusion",
+      "b": "Captured artisan redeployment",
+      "c": "Pilgrimage-centric imitation",
+      "d": "Fortuitous coastal drift trade"
     },
     "answer": "a"
   },
   {
     "question_id": 73,
-    "question": "Celtic societies diffused artistic motifs through migration chains that stretched from Central Europe toward the Atlantic coast.",
+    "question": "Certain early Ethiopian liturgical traditions exhibit ambiguous echoes of Levantine influences.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -803,19 +803,19 @@
   },
   {
     "question_id": 74,
-    "question": "Which interaction delivered Chinese porcelain into Italian workshops during the Renaissance?",
+    "question": "Which interaction best explains early evidence of Indian cotton textiles in minor East African hinterland markets?",
     "type": "MCQ",
     "options": {
-      "a": "Ottoman–European trade mediation",
-      "b": "Direct European conquest of China",
-      "c": "Atlantic colonial drift",
-      "d": "African coastal raiding"
+      "a": "Indian Ocean mercantile circuits",
+      "b": "Overland caravan drift",
+      "c": "Mission-house redistribution",
+      "d": "Sporadic monastic transport"
     },
     "answer": "a"
   },
   {
     "question_id": 75,
-    "question": "The Ottoman presence in southeastern Europe transmitted medical, artistic, and culinary ideas into regional traditions.",
+    "question": "Early steppe-polity interactions may have transmitted administrative schemas whose origins remain contested.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -825,19 +825,19 @@
   },
   {
     "question_id": 76,
-    "question": "Which process spread sugar-plantation techniques into Caribbean colonies?",
+    "question": "Which interaction best accounts for subtle Mediterranean draftsman techniques in early Anatolian border manuscripts?",
     "type": "MCQ",
     "options": {
-      "a": "European colonial restructuring",
-      "b": "Saharan pastoral migrations",
-      "c": "Early Norse exploration",
-      "d": "Byzantine frontier diplomacy"
+      "a": "Frontier scribal intermingling",
+      "b": "Captured monastic artisans",
+      "c": "Commercial script-exchange hubs",
+      "d": "Civic-guild experimentation"
     },
     "answer": "a"
   },
   {
     "question_id": 77,
-    "question": "Indian religious and artistic themes penetrated the Khmer region through long-term maritime and mercantile interaction.",
+    "question": "Certain Japanese kiln innovations seem partially influenced by indirect continental experiments transmitted through uncertain channels.",
     "type": "T/F",
     "options": {
       "a": "True",
@@ -847,40 +847,6 @@
   },
   {
     "question_id": 78,
-    "question": "Which route most effectively transmitted Arabic numerals to medieval European scholars?",
-    "type": "MCQ",
-    "options": {
-      "a": "Iberian Muslim intellectual centers",
-      "b": "Trans-Atlantic monastic colonies",
-      "c": "Viking merchant raids",
-      "d": "Nomadic Arctic migrations"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 79,
-    "question": "Phoenician traders transported bronze implements that influenced metallurgical styles throughout the Mediterranean basin.",
-    "type": "T/F",
-    "options": {
-      "a": "True",
-      "b": "False"
-    },
-    "answer": "a"
-  },
-  {
-    "question_id": 80,
-    "question": "Which trade system most plausibly introduced Indian spices into Roman culinary culture?",
-    "type": "MCQ",
-    "options": {
-      "a": "Trans-Saharan salt caravans",
-      "b": "Indian Ocean monsoon routes",
-      "c": "Baltic amber networks",
-      "d": "Nubian cattle herding expansions"
-    },
-    "answer": "b"
-  },
-  {
-    "question_id": 81,
     "question": "A commonly cited link between Culture A and Culture B states technology X moved by 'merchants' — but archaeological layers show X predates recorded trade; which is the best single inference?",
     "type": "MCQ",
     "options": {
@@ -892,7 +858,7 @@
     "answer": "d"
   },
   {
-    "question_id": 82,
+    "question_id": 79,
     "question": "Text fragments refer to an ambiguous 'royal envoy'—most historians treat it as diplomatic, but the only surviving tablet is fragmentary; should we classify the contact as diplomatic?",
     "type": "T/F",
     "options": {
@@ -902,7 +868,7 @@
     "answer": "b"
   },
   {
-    "question_id": 83,
+    "question_id": 80,
     "question": "Which explanation best fits scattered obsidian flakes found outside known trade routes assuming no direct provenance test exists?",
     "type": "MCQ",
     "options": {
@@ -1091,231 +1057,231 @@
   },
   {
     "question_id": 100,
-    "question": "A supposed 'trade road' is inferred from a line of isolated way-stations with no clear cargo remains—does that pattern prove a trade corridor?",
+    "question": "A line of isolated way-stations with mixed-era debris appears to form a corridor, but each site shows repurposing centuries apart. With no cargo evidence, can this pattern be confidently treated as a deliberate trade route?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — linear station chains usually reflect coordinated movement even without cargo remains",
+      "b": "False — multi-period reuse and ambiguous alignment cannot confirm intentional trade routing"
     },
     "answer": "b"
   },
   {
     "question_id": 101,
-    "question": "Which single methodological approach most reduces false positives when inferring contact from material culture similarities?",
+    "question": "When stylistic similarities recur irregularly across regions, which method least exposes the researcher to circular reasoning about cultural contact?",
     "type": "MCQ",
     "options": {
-      "a": "Relying on stylistic comparison alone",
-      "b": "Combining provenance science, stratigraphy, and context",
-      "c": "Prioritizing historical texts over archaeology",
-      "d": "Using a single well-dated hallmark artifact to generalize"
+      "a": "Rely exclusively on stylistic comparison since style diffusion is predictable",
+      "b": "Combine provenance science, stratigraphic control, and contextual clustering to limit overinterpretation",
+      "c": "Prioritize historical texts even if their chronology or authorship is uncertain",
+      "d": "Use a single hallmark artifact to generalize contact across regions"
     },
     "answer": "b"
   },
   {
     "question_id": 102,
-    "question": "A famous saga mentions 'foreign smiths' but archaeological smithing debris is indistinct; can the saga alone establish a migration of smiths?",
+    "question": "A saga mentions ‘foreign smiths,’ but metallurgical debris lacks diagnostic traits and spans centuries. Alone, does the saga confirm smith migration rather than later myth-making?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — textual specificity outweighs ambiguous physical data",
+      "b": "False — narrative references cannot confirm migration without material correlation"
     },
     "answer": "b"
   },
   {
     "question_id": 103,
-    "question": "If isotopic signatures in a cemetery show mixed diets and origins, which interpretation is least speculative?",
+    "question": "Isotopic signatures show mixed local and nonlocal profiles, dietary variability, and temporal blending. Which interpretation makes the fewest assumptions?",
     "type": "MCQ",
     "options": {
-      "a": "Complete population replacement",
-      "b": "High individual mobility with local continuity",
-      "c": "Short-term seasonal labor migration only",
-      "d": "Mass importation of foreign food staples"
+      "a": "Complete population replacement in a short interval",
+      "b": "High individual mobility combined with long-term regional continuity",
+      "c": "Strict seasonal labor migration without settlement",
+      "d": "Mass importation of foreign food staples causing isotopic distortion"
     },
     "answer": "b"
   },
   {
     "question_id": 104,
-    "question": "A coastal wreck contains artifacts from three regions; without manifest or provenance, is it valid to assert a direct trade link between all three regions?",
+    "question": "A shipwreck includes items from three distant regions, but the hull shows multi-century repairs and mixed deposits. Does this prove simultaneous triangular trade?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — composite assemblages still reflect broad trading activity",
+      "b": "False — multiphase cargo cannot demonstrate direct links without temporal coherence"
     },
     "answer": "b"
   },
   {
     "question_id": 105,
-    "question": "Which single line of circumstantial evidence most reliably implies sustained artisan migration rather than sporadic item exchange?",
+    "question": "To argue for sustained artisan mobility rather than sporadic exchange, which evidence requires the fewest inferential leaps?",
     "type": "MCQ",
     "options": {
-      "a": "Multiple sites with identical workshop layouts",
-      "b": "A few high-status imported goods",
-      "c": "A common decorative motif appearing occasionally",
-      "d": "A single inscription naming a foreign artisan"
+      "a": "Nearly identical workshop layouts across multiple regions and phases",
+      "b": "A few elite imported objects with unclear deposition history",
+      "c": "A motif scattered sporadically across sites",
+      "d": "A single inscription identifying a foreign maker"
     },
     "answer": "a"
   },
   {
     "question_id": 106,
-    "question": "An ancient ledger lists amounts without place-names and is used to argue for a regional market—does ambiguity in place designation undermine that conclusion?",
+    "question": "A ledger lists quantities with cryptic abbreviations and no place-names. Does this ambiguity undermine interpretations of a regional market system?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — geographical vagueness prevents reliable regional inference",
+      "b": "False — numeric patterns alone sufficiently indicate regional integration"
     },
     "answer": "a"
   },
   {
     "question_id": 107,
-    "question": "Which hypothesis best handles the find of a luxury good in a low-status context?",
+    "question": "A high-value object appears in a low-status context with no related elite goods. Which interpretation avoids prematurely invoking long-distance trade?",
     "type": "MCQ",
     "options": {
-      "a": "Curated heirloom introduced earlier",
-      "b": "Single anomalous gift or spoil",
-      "c": "Down-the-line redistribution over generations",
-      "d": "All of the above are plausible and require context"
+      "a": "An heirloom passed down across generations",
+      "b": "A spoil, gift, or isolated loss event",
+      "c": "Down-the-line redistribution diluting elite connections",
+      "d": "All of the above are equally plausible without further context"
     },
     "answer": "d"
   },
   {
     "question_id": 108,
-    "question": "A set of oral histories claim a monumental building was built by 'outsiders' — geological survey dates it earlier than the oral tradition; do the oral histories invalidate the geological date?",
+    "question": "Oral tradition claims a monument was built by outsiders, but geological dating places construction earlier than the tradition’s earliest form. Does this invalidate physical dating?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — oral accounts preserve ancient truth superior to geological evidence",
+      "b": "False — retrospective narratives cannot overturn physical chronologies"
     },
     "answer": "b"
   },
   {
     "question_id": 109,
-    "question": "Which approach is most defensible when a single rare marker trait appears across fragmented contexts?",
+    "question": "A rare diagnostic trait appears across scattered contexts with inconsistent dates. Which interpretation minimizes circular inference?",
     "type": "MCQ",
     "options": {
-      "a": "Treat it as evidence for a structured network linking those contexts",
-      "b": "Consider it a coincidental adoption unless supported by multiple markers",
-      "c": "Infer widespread centralized control",
-      "d": "Assume contamination at recovery"
+      "a": "Treat it as evidence of a unified interregional network",
+      "b": "Assume coincidence or parallel adoption unless supported by multiple independent markers",
+      "c": "Infer centralized authority coordinating dispersal",
+      "d": "Attribute all appearances to post-depositional contamination"
     },
     "answer": "b"
   },
   {
     "question_id": 110,
-    "question": "An outwardly 'foreign' inscription is found carved into local stonework; without known bilingual parallels, should it be used to assert direct literacy transfer?",
+    "question": "A ‘foreign’ inscription appears in local stonework but lacks bilingual parallels and has ambiguous letter forms. Should it be treated as primary proof of literacy transfer?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — its foreign appearance alone verifies contact",
+      "b": "False — without corroboration, literacy transfer cannot be claimed"
     },
     "answer": "b"
   },
   {
     "question_id": 111,
-    "question": "Which single factor most undermines a claim that a coastal site's sudden wealth influx was driven by interregional trade?",
+    "question": "A coastal site shows sudden wealth during a regional political collapse that redistributed elite goods. Which factor most undermines attributing this wealth to maritime trade?",
     "type": "MCQ",
     "options": {
-      "a": "Concurrent regional political collapse funneling wealth",
-      "b": "Appearance of imported ceramics",
-      "c": "New harbor construction",
-      "d": "Presence of foreign coins"
+      "a": "Internal redistribution from collapse mimicking trade patterns",
+      "b": "A few imported ceramics in mixed contexts",
+      "c": "New harbor facilities with unclear function",
+      "d": "Foreign coins with ambiguous circulation pathways"
     },
     "answer": "a"
   },
   {
     "question_id": 112,
-    "question": "An architectural style appears abruptly in the archaeological record and is later copied widely—does abrupt appearance alone prove foreign introduction?",
+    "question": "An architectural style appears abruptly but local experimentation is documented in nearby areas. Does abrupt appearance alone prove outside influence?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — abruptness generally signals external origin",
+      "b": "False — abruptness may reflect preservation bias or rapid local innovation"
     },
     "answer": "b"
   },
   {
     "question_id": 113,
-    "question": "Which single piece of evidence best distinguishes active cultural borrowing from passive imitation?",
+    "question": "To differentiate active cultural borrowing from passive imitation, which evidence directly ties people, not objects, to the transfer?",
     "type": "MCQ",
     "options": {
-      "a": "Textual description of technique transfer",
-      "b": "Material composition tests showing identical raw-source usage",
-      "c": "Presence of foreign-born practitioners identified isotopically",
-      "d": "Coin find spreads matching stylistic change"
+      "a": "Texts vaguely referencing technique exchange",
+      "b": "Matching raw-material signatures across sites",
+      "c": "Isotopic profiles identifying foreign-born practitioners at the site",
+      "d": "Coin circulation mimicking stylistic shifts"
     },
     "answer": "c"
   },
   {
     "question_id": 114,
-    "question": "A string of similar subterranean features is interpreted as evidence for a ritual network; if no artifacts or dates confirm ritual use, should that interpretation be treated as tentative?",
+    "question": "Subterranean features align stylistically but lack dates, artifacts, or environmental cues. Should the interpretation of a ritual network remain provisional?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — without functional markers, ritual interpretations are speculative",
+      "b": "False — formal similarity alone supports ritual explanations"
     },
     "answer": "a"
   },
   {
     "question_id": 115,
-    "question": "Which single dataset would most directly falsify a theory of overseas introduction of a crop?",
+    "question": "Which dataset most decisively challenges a theory that a crop was introduced from abroad?",
     "type": "MCQ",
     "options": {
-      "a": "Continuous local phytolith signatures predating supposed introduction",
-      "b": "A historical account claiming introduction",
-      "c": "Presence of crop-related tools",
-      "d": "Imported crop remains from marginal contexts"
+      "a": "Continuous local phytolith sequences predating the claimed introduction",
+      "b": "Historical narratives asserting a foreign origin",
+      "c": "Crop-related tools in mixed stratigraphy",
+      "d": "Imported samples in ritual contexts"
     },
     "answer": "a"
   },
   {
     "question_id": 116,
-    "question": "A late antique lexicon lists foreign loanwords borrowed centuries earlier—does their presence in the lexicon prove the timing of borrowing?",
+    "question": "Loanwords recorded in a late lexicon may reflect processes centuries old. Does their presence confirm the original date of borrowing?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — attestation equals introduction",
+      "b": "False — recording date rarely marks the start of borrowing"
     },
     "answer": "b"
   },
   {
     "question_id": 117,
-    "question": "Which interpretive stance best reduces the chance of overclaiming contact from sparse evidence?",
+    "question": "To avoid overclaiming cultural contact from sparse evidence, which approach minimizes escalation of weak signals?",
     "type": "MCQ",
     "options": {
-      "a": "Adopt the most dramatic contact hypothesis to stimulate research",
-      "b": "Favor conservative, multiple-line corroboration before asserting contact",
-      "c": "Use single prominent finds as proof of broad networks",
-      "d": "Rely on historical tradition over material ambiguity"
+      "a": "Prefer the most dramatic hypothesis to encourage research",
+      "b": "Adopt conservative interpretations grounded in multiple lines of evidence",
+      "c": "Allow single artifacts to imply long-distance networks",
+      "d": "Rely on traditional narratives over ambiguous material data"
     },
     "answer": "b"
   },
   {
     "question_id": 118,
-    "question": "A coin hoard contains foreign coin types mixed with local imitations—does the hoard alone settle the question of direct trade?",
+    "question": "A hoard mixing foreign and local coins could stem from ritual caching, emergency concealment, or circulation quirks. Does this alone prove direct trade?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — foreign coins require direct contact",
+      "b": "False — hoards cannot distinguish trade routes from secondary pathways"
     },
     "answer": "b"
   },
   {
     "question_id": 119,
-    "question": "Which single methodological check most reduces the risk that a supposed foreign artifact is actually intrusive contamination?",
+    "question": "To rule out intrusive contamination for a foreign-looking artifact in a disturbed layer, which step provides the strongest verification?",
     "type": "MCQ",
     "options": {
-      "a": "Re-excavation and independent stratigraphic re-evaluation",
-      "b": "Stylistic comparison with museum pieces",
-      "c": "Relying on the original field report",
-      "d": "Assuming lab records are infallible"
+      "a": "Independent stratigraphic re-excavation and contextual reassessment",
+      "b": "Stylistic comparison with known museum pieces",
+      "c": "Trusting the original field report’s accuracy",
+      "d": "Assuming laboratory logs are error-free"
     },
     "answer": "a"
   },
   {
     "question_id": 120,
-    "question": "A widely cited passage states that 'Culture X learned weaving from Culture Y' but the passage lacks context and may be rhetorical; should modern summaries present that as established fact?",
+    "question": "A famous text claims Culture X learned weaving from Culture Y, but the line is rhetorical and lacks archaeological support. Should modern summaries present it as fact?",
     "type": "T/F",
     "options": {
-      "a": "True",
-      "b": "False"
+      "a": "True — rhetorical accounts reflect real cultural exchange",
+      "b": "False — uncorroborated claims should not be treated as established fact"
     },
     "answer": "b"
   },

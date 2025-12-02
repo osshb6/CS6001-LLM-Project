@@ -1,441 +1,441 @@
 [
     {
         "question_id": 1,
-        "question": "Debates about AI alignment today echo not only Cold War nuclear command fears but also earlier debates on whether steam engines could 'run away' from operators.",
-        "type": "T/F",
+        "question": "Modern debates about AI 'predicting intentions' eerily mirror multiple past attempts to decode invisible motives, though historians disagree on which parallel is least inaccurate.",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Medieval trials by ordeal claiming divine revelation of guilt",
+            "b": "Renaissance physiognomy asserting moral traits from facial lines",
+            "c": "Cold War brainwave espionage experiments",
+            "d": "Mesopotamian omen reading inscribed on clay tablets"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 2,
-        "question": "Modern disputes over climate geoengineering most closely resemble historical controversies over:",
-        "type": "MCQ",
-        "options": {
-            "a": "19th-century cloud seeding experiments",
-            "b": "Early medieval astrology prohibitions",
-            "c": "Colonial-era canal building",
-            "d": "Renaissance botanical gardens"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 3,
-        "question": "Concerns about digital monopolies today mirror fears about railroad conglomerates controlling prices in the late 19th century.",
+        "question": "Arguments that AI-generated laws might override human judgment vaguely resemble earlier fears that printed law codes would eliminate common-sense interpretation.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 3,
+        "question": "Concerns that AI-guided weather policies could create self-fulfilling climate loops echo which ambiguous historical event that may or may not have influenced global temperature patterns?",
+        "type": "MCQ",
+        "options": {
+            "a": "The Krakatoa eruption unexpectedly shifting jet streams",
+            "b": "Ancient Chinese dragon rituals believed to summon rain",
+            "c": "Icelandic volcanic haze misinterpreted as divine punishment",
+            "d": "Early Arctic expeditions altering atmospheric measurements"
         },
         "answer": "a"
     },
     {
         "question_id": 4,
-        "question": "Modern misinformation debates resemble which past information crisis the closest?",
-        "type": "MCQ",
+        "question": "Modern fears that AI might 'reshape memory' mirror a long tradition of rewriting history to match desired narratives, though no consensus exists about the most accurate predecessor.",
+        "type": "T/F",
         "options": {
-            "a": "The spread of forged papal bulls in medieval Europe",
-            "b": "Arguments over Roman public edicts",
-            "c": "Colonial shipping manifests",
-            "d": "Renaissance color theory disputes"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 5,
-        "question": "Current debates about social media addiction echo earlier worries about radio addiction in the 1920s.",
+        "question": "Controversies about AI stabilizing or destabilizing political systems resemble which past moment when technology amplified social volatility unexpectedly?",
+        "type": "MCQ",
+        "options": {
+            "a": "The telegraph accelerating colonial uprisings",
+            "b": "The printing press unintentionally spreading millenarian panic",
+            "c": "Radio broadcasts fueling early electoral propaganda",
+            "d": "The introduction of codified weights destabilizing local markets"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 6,
+        "question": "The idea that AI could unknowingly invent entire scientific frameworks resembles earlier fears that mathematics itself was merely discovering patterns it had previously created.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 6,
-        "question": "Today’s debates about renewable-energy land use echo which earlier conflict?",
-        "type": "MCQ",
-        "options": {
-            "a": "The English Enclosure Movement",
-            "b": "Spanish colonial ranching policies",
-            "c": "Tang Dynasty census disputes",
-            "d": "Baroque-era theater property battles"
         },
         "answer": "a"
     },
     {
         "question_id": 7,
-        "question": "Concerns about deepfake political scandals parallel fears surrounding early photography manipulations in the 19th century.",
+        "question": "Which historical tension MOST resembles the way AI creates 'authority' merely by sounding authoritative, assuming the comparison focuses ONLY on rhetorical tone?",
+        "type": "MCQ",
+        "options": {
+            "a": "Court astrologers issuing confident predictions despite poor accuracy",
+            "b": "Victorian scientists announcing theories with minimal evidence",
+            "c": "Medieval chroniclers composing events they never witnessed",
+            "d": "Soviet bureaucratic reports describing nonexistent successes"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 8,
+        "question": "AI debates concerning 'machine autonomy' faintly echo medieval fears that clocks might secretly possess theological significance.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 8,
-        "question": "Debates about who 'owns' AI-generated work reflect historical struggles related to:",
-        "type": "MCQ",
-        "options": {
-            "a": "Guild protection of trade secrets",
-            "b": "Medieval forest law",
-            "c": "Naval blockades in the 18th century",
-            "d": "Feudal inheritance rules"
         },
         "answer": "a"
     },
     {
         "question_id": 9,
-        "question": "Today’s controversies surrounding brain–computer interfaces mirror the anxieties provoked by early telegraph brainwave experiments.",
+        "question": "Modern controversies over AI hallucinating evidence parallel which earlier epistemic crisis about fabricated forms of authority?",
+        "type": "MCQ",
+        "options": {
+            "a": "Forgery of ancient Roman inscriptions to justify land claims",
+            "b": "Invented genealogies used to establish royal bloodlines",
+            "c": "Fabricated travelogues describing impossible civilizations",
+            "d": "Probabilistic arguments in scholastic logic misrepresenting certainty"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 10,
+        "question": "The notion that AI may overfit and produce illusions of coherence recalls earlier warnings that encyclopedias forced the world into artificial taxonomies.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 10,
-        "question": "Modern debates about data brokers most closely resemble historical battles over:",
-        "type": "MCQ",
-        "options": {
-            "a": "19th-century census privacy disputes",
-            "b": "Colonial tariff evasion",
-            "c": "Medieval book copying",
-            "d": "Bronze Age trade weights"
         },
         "answer": "a"
     },
     {
         "question_id": 11,
-        "question": "Arguments about modern universal basic income (UBI) echo ancient Roman debates about grain doles (annona).",
+        "question": "Which dynamic MOST closely matches how AI 'predicts' future social behavior by extrapolating unstable patterns?",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century criminology predicting moral decline from urbanization",
+            "b": "Medieval plague theorists projecting cycles of divine punishment",
+            "c": "Renaissance astronomers forecasting weather from celestial tables",
+            "d": "Cold War think tanks running inaccurate geopolitical simulations"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 12,
+        "question": "The fear that AI datasets contain invisible biases mirrors concerns that ancient scribes introduced bias simply by copying texts repeatedly.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 12,
-        "question": "Today’s conflict over electric vehicle mineral sourcing is most similar to past conflicts involving:",
-        "type": "MCQ",
-        "options": {
-            "a": "19th-century rubber extraction",
-            "b": "Medieval iron smelting",
-            "c": "Renaissance gold leaf production",
-            "d": "Colonial-era wool taxes"
         },
         "answer": "a"
     },
     {
         "question_id": 13,
-        "question": "Debates about algorithmic bias parallel 19th-century controversies about biased 'scientific' measurement devices.",
-        "type": "T/F",
+        "question": "Fears that AI systems obscure causal relationships behind statistical layers echo which earlier moment of epistemic confusion?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "The rise of algebra replacing geometric proofs",
+            "b": "The transition from oral to written law codes",
+            "c": "The switch from analog to digital climate instruments",
+            "d": "The introduction of perspective in painting altering spatial logic"
         },
         "answer": "a"
     },
     {
         "question_id": 14,
-        "question": "Disputes over AI governance frameworks echo which earlier global institutional struggle?",
-        "type": "MCQ",
+        "question": "AI ethicists unintentionally reproducing the biases they try to remove resembles philosophers accidentally reinforcing the dogmas they critiqued.",
+        "type": "T/F",
         "options": {
-            "a": "The League of Nations' failure to regulate military escalation",
-            "b": "Benedictine monastic rule debates",
-            "c": "Medieval carnival taxation",
-            "d": "Renaissance wine purity rules"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 15,
-        "question": "Today’s debates about digital ID systems echo past arguments about national passport standardization in the early 20th century.",
+        "question": "Which historical controversy MOST resembles the idea that AI-generated political models might become self-fulfilling?",
+        "type": "MCQ",
+        "options": {
+            "a": "The use of horoscopes to justify royal appointments",
+            "b": "The belief that stock market charts predicted national destiny",
+            "c": "19th-century pseudoscientific racial typologies influencing governance",
+            "d": "Renaissance merchant ledgers shaping expansion strategies"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 16,
+        "question": "The notion that AI may compress cultural complexity into simplistic categories reflects earlier objections to national censuses.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 16,
-        "question": "Fights over who controls AI training data resemble historical disputes involving:",
-        "type": "MCQ",
-        "options": {
-            "a": "Ownership of early printed manuscripts",
-            "b": "Medieval fishery rights",
-            "c": "Colonial sugar monopolies",
-            "d": "Early mathematical guild treatises"
         },
         "answer": "a"
     },
     {
         "question_id": 17,
-        "question": "Modern quantum encryption fears echo historical panic around unbreakable ciphers during World War II.",
+        "question": "Which historical concern MOST closely parallels today’s confusion about whether AI models reflect reality or merely recreate internal patterns?",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval debates on whether angels occupied physical space",
+            "b": "Renaissance questions about whether maps represented truth or ideology",
+            "c": "Early photography debates about objective representation",
+            "d": "Mystic traditions describing visions as both internal and universal"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 18,
+        "question": "Modern AI anxiety about recursive model collapse resembles the fear that mirrors arranged facing each other could open portals.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 18,
-        "question": "Debates about artificial food production (e.g., lab-grown meat) most closely parallel disputes over:",
-        "type": "MCQ",
-        "options": {
-            "a": "Industrial-era margarine bans",
-            "b": "Feudal tithe laws",
-            "c": "Roman bath construction",
-            "d": "Hanseatic League trading posts"
         },
         "answer": "a"
     },
     {
         "question_id": 19,
-        "question": "Concerns about AI replacing teachers echo anxieties about radios replacing teachers in the 1930s.",
-        "type": "T/F",
+        "question": "Which strange precedent matches AI’s ability to generate multiple contradictory interpretations of the same event?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Medieval saints’ lives written in incompatible versions",
+            "b": "Colonial reports describing landscapes that didn’t exist",
+            "c": "Enlightenment encyclopedias disagreeing within the same volume",
+            "d": "Court historians revising records after every change of regime"
         },
         "answer": "a"
     },
     {
         "question_id": 20,
-        "question": "Arguments over facial-recognition surveillance parallel which earlier form of population tracking?",
-        "type": "MCQ",
+        "question": "AI models that produce answers based on subtle statistical noise evoke earlier practices of interpreting ambiguous omens as fate.",
+        "type": "T/F",
         "options": {
-            "a": "19th-century anthropometric identification (Bertillon system)",
-            "b": "Medieval pilgrim badges",
-            "c": "Feudal village tallies",
-            "d": "Renaissance portrait catalogs"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 21,
-        "question": "Today’s internet censorship debates mirror Cold War conflicts over radio jamming.",
+        "question": "Which phenomenon MOST resembles how AI generates fictional citations that appear authoritative?",
+        "type": "MCQ",
+        "options": {
+            "a": "Renaissance scholars inventing Greek sources to win debates",
+            "b": "Travel writers fabricating entire islands",
+            "c": "Medieval monks forging charters",
+            "d": "Victorian spiritualists producing ‘automatic writing’ texts"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 22,
+        "question": "The belief that AI reasoning mechanisms represent 'truth' resembles early scientific declarations that the ether must exist.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 22,
-        "question": "Fears about AI weapon systems resemble historical controversies over:",
-        "type": "MCQ",
-        "options": {
-            "a": "Autonomous naval torpedoes in WWI",
-            "b": "Bronze Age spear tips",
-            "c": "Medieval siege towers",
-            "d": "Renaissance fencing manuals"
         },
         "answer": "a"
     },
     {
         "question_id": 23,
-        "question": "Debates about cryptocurrency volatility echo past controversies around early stock markets in the 1600s.",
-        "type": "T/F",
+        "question": "The fear that AI-generated narratives could replace primary sources echoes uncertainties triggered by:",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "The first universal chronologies standardizing conflicting calendars",
+            "b": "The loss of Alexandrian manuscripts",
+            "c": "The early translation of sacred texts into vernacular languages",
+            "d": "The sudden spread of optical illusions in print culture"
         },
         "answer": "a"
     },
     {
         "question_id": 24,
-        "question": "Modern privacy disputes most resemble which older conflict?",
-        "type": "MCQ",
+        "question": "The idea that AI is 'improvising' facts mirrors the logic of historical rumor networks.",
+        "type": "T/F",
         "options": {
-            "a": "The 1890 Brandeis–Warren push for 'the right to privacy'",
-            "b": "Sumerian grain records",
-            "c": "Hammurabi’s Code",
-            "d": "Feudal marriage contracts"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 25,
-        "question": "Discussions about autonomous cars echo debates about self-driving elevators in the early 20th century.",
+        "question": "Modern AI debates about 'alignment' resemble which older attempt to align human intention with unpredictable systems?",
+        "type": "MCQ",
+        "options": {
+            "a": "Pilots adjusting to early autopilot inconsistencies",
+            "b": "Medieval priests interpreting contradictory divine signs",
+            "c": "Renaissance navigators correcting drifting compasses",
+            "d": "Early computer operators supervising unstable vacuum tubes"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 26,
+        "question": "Statements that AI simplifies geopolitical risk echo the way 19th-century atlases oversimplified empire boundaries.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 26,
-        "question": "Concerns over AI-driven financial crashes parallel:",
-        "type": "MCQ",
-        "options": {
-            "a": "Early automated trading panic in the 1987 Black Monday crash",
-            "b": "Medieval wool smuggling",
-            "c": "Renaissance coin clipping",
-            "d": "Colonial lumber shortages"
         },
         "answer": "a"
     },
     {
         "question_id": 27,
-        "question": "Today’s fights over global data flows echo disputes over international telegraph cable tariffs.",
-        "type": "T/F",
+        "question": "Which argument MOST aligns with fears that AI systems will redefine categories humans assumed were fixed?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Renaissance cartographers inventing new continents",
+            "b": "Scholastics redefining natural kinds through disputations",
+            "c": "Biologists reorganizing taxonomy after Darwin",
+            "d": "Anthropologists imposing cultural stages on societies"
         },
-        "answer": "a"
+        "answer": "d"
     },
     {
         "question_id": 28,
-        "question": "Arguments about ethics of genetic surveillance most closely resemble:",
-        "type": "MCQ",
-        "options": {
-            "a": "Eugenics-based census debates in the early 20th century",
-            "b": "Medieval pilgrim rolls",
-            "c": "Renaissance court genealogies",
-            "d": "Phoenician naval records"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 29,
-        "question": "Modern climate migration fears mirror the global refugee displacements following the 1816 'Year Without a Summer.'",
+        "question": "The concern that AI will homogenize global languages echoes the collapse of linguistic diversity after radio standardization.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 29,
+        "question": "Which analogy MOST accurately captures how AI creates predictions that shape the very systems it measures?",
+        "type": "MCQ",
+        "options": {
+            "a": "Economists whose forecasts triggered the crises they predicted",
+            "b": "Priests warning of droughts that panicked populations into over-farming",
+            "c": "Early astronomers announcing omens that shaped political decisions",
+            "d": "Merchants publishing price tables that altered the market"
         },
         "answer": "a"
     },
     {
         "question_id": 30,
-        "question": "Debates about supply-chain transparency resemble historical struggles with:",
-        "type": "MCQ",
+        "question": "The idea that AI compresses centuries of knowledge into unstable abstractions resembles objections raised against universal history projects.",
+        "type": "T/F",
         "options": {
-            "a": "Triangle Trade merchant logs",
-            "b": "Renaissance color recipe secrecy",
-            "c": "Medieval tithe ledgers",
-            "d": "Roman census tablets"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 31,
-        "question": "Controversies about VR-induced detachment reflect early fears about cinema causing moral decay.",
+        "question": "Which phenomenon MOST resembles AI generating multi-layered interpretations that contradict themselves but appear internally consistent?",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval theological treatises debating infinite regress",
+            "b": "Court poetry where metaphors reversed meaning",
+            "c": "Renaissance diagrams mapping imaginary celestial cycles",
+            "d": "Early chemical alchemy manuscripts describing impossible reactions"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 32,
+        "question": "Statements claiming AI is 'objective' are historically similar to the belief that mechanical clocks represented cosmic truth.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 32,
-        "question": "Arguments about geoengineering deployment echo which older debate?",
-        "type": "MCQ",
-        "options": {
-            "a": "19th-century volcano eruption theories affecting climate",
-            "b": "Medieval plague rituals",
-            "c": "Colonial salt taxes",
-            "d": "Renaissance astronomy funding"
         },
         "answer": "a"
     },
     {
         "question_id": 33,
-        "question": "Concerns about AI plagiarism mirror anxieties about mass-produced 'forgeries' after the printing press was invented.",
+        "question": "Which earlier crisis BEST reflects the possibility that AI will transform public discourse before anyone understands its effects?",
+        "type": "MCQ",
+        "options": {
+            "a": "The shockwave caused by widespread newspaper literacy",
+            "b": "The collapse of oral traditions after printing",
+            "c": "The sudden adoption of radio propagandist techniques",
+            "d": "The 17th-century flood of contradictory astronomical pamphlets"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 34,
+        "question": "AI models that fabricate connections between unrelated events mirror medieval diagrams that linked planets, animals, and illnesses.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 34,
-        "question": "Debates about large-language model copyright resemble historical battles around:",
-        "type": "MCQ",
-        "options": {
-            "a": "18th-century encyclopedias compiling copyrighted works",
-            "b": "Medieval feudal oaths",
-            "c": "Roman aqueduct permissions",
-            "d": "Colonial ship registries"
         },
         "answer": "a"
     },
     {
         "question_id": 35,
-        "question": "Today’s panic over AI-generated political influence echoes 19th-century fears about telegraph-driven mass persuasion.",
-        "type": "T/F",
+        "question": "Which dynamic MOST resembles AI's potential to 'redefine' evidence by repetition?",
+        "type": "MCQ",
         "options": {
-            "a": "True",
-            "b": "False"
+            "a": "Wartime propaganda repeated until treated as fact",
+            "b": "Monastic scribes copying interpolations into official texts",
+            "c": "Explorers' exaggerated maps gradually accepted as true",
+            "d": "Victorian encyclopedias standardizing incorrect measurements"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 36,
-        "question": "Debates about water-scarcity AI prediction systems resemble:",
-        "type": "MCQ",
-        "options": {
-            "a": "Ancient Mesopotamian irrigation planning",
-            "b": "Celtic clan rituals",
-            "c": "Feudal tenant lists",
-            "d": "Renaissance spice markets"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 37,
-        "question": "Controversies about using AI to forecast crime echo flawed early 20th-century phrenology-based policing.",
+        "question": "The belief that AI improves accuracy through scale resembles earlier hopes that massive archives would prevent error.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "a"
+        "answer": "b"
+    },
+    {
+        "question_id": 37,
+        "question": "Which earlier debate parallels modern questions about whether AI reasoning counts as 'understanding'?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arguments about whether parrots understood human speech",
+            "b": "Philosophical disputes about automata in the Enlightenment",
+            "c": "Medieval debates on angels’ modes of cognition",
+            "d": "Renaissance disputes over whether perspective represented truth"
+        },
+        "answer": "b"
     },
     {
         "question_id": 38,
-        "question": "Arguments about 'AI colonialism' resemble historical debates involving:",
-        "type": "MCQ",
+        "question": "Claims that AI could produce entirely new forms of knowledge resemble fears that telegraphs created 'artificial intelligence' out of global connectivity.",
+        "type": "T/F",
         "options": {
-            "a": "19th-century resource extraction in Africa",
-            "b": "Medieval monastic taxation",
-            "c": "Renaissance woodblock printing",
-            "d": "Roman gladiator contracts"
+            "a": "True",
+            "b": "False"
         },
         "answer": "a"
     },
     {
         "question_id": 39,
-        "question": "Modern fights over content moderation mirror arguments about newspaper 'moral guardians' in the late 1800s.",
+        "question": "Which phenomenon MOST resembles AI hallucinating logically coherent but false causal chains?",
+        "type": "MCQ",
+        "options": {
+            "a": "Aristotelian science explaining invisible forces with elegant logic",
+            "b": "Court mathematicians inventing numerological histories",
+            "c": "Victorian phrenology mapping character traits to skull bumps",
+            "d": "Ptolemaic astronomers adding epicycles to preserve false predictions"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 40,
+        "question": "The idea that AI might become a bottleneck for knowledge resembles fears that standardized textbooks would eliminate interpretive diversity.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "a"
-    },
-    {
-        "question_id": 40,
-        "question": "Debates about AI’s environmental cost parallel earlier concerns about:",
-        "type": "MCQ",
-        "options": {
-            "a": "19th-century coal-fired factory expansion",
-            "b": "Medieval glassmaking fumes",
-            "c": "Colonial tobacco curing",
-            "d": "Renaissance metal gilding"
         },
         "answer": "a"
     },
