@@ -1,0 +1,137 @@
+question_id,template_type,question_format,question,gold_answer_letter,gold_answer_text,model_raw_answer,model_parsed_letter,model_parsed_text,is_correct
+1,unknown,TF,[Albert Einstein] explained [the theory of relativity] to [Aristotle].,a,True,False,b,False,0
+2,unknown,TF,[Marie Curie] explained [radioactivity] to [Plato].,a,True,False,b,False,0
+3,unknown,TF,[Isaac Newton] explained [calculus] to [Socrates].,a,True,False,b,False,0
+4,unknown,TF,[Nikola Tesla] explained [AC electricity] to [Confucius].,a,True,False,b,False,0
+5,unknown,TF,[Galileo Galilei] explained [the telescope] to [Pythagoras].,a,True,False,b,False,0
+6,unknown,MCQ,Which ancient philosopher did [Albert Einstein] explain [quantum mechanics] to?,a,Aristotle,D,d,Epicurus,0
+7,unknown,TF,[Charles Darwin] explained [evolution by natural selection] to [Epicurus].,a,True,False,b,False,0
+8,unknown,TF,[James Watt] explained [steam engine] to [Heraclitus].,a,True,False,b,False,0
+9,unknown,MCQ,Which modern invention did [Marie Curie] explain to [Plato]?,a,Radioactivity,A,a,Radioactivity,1
+10,unknown,TF,[Thomas Edison] explained [electric light bulb] to [Aristotle].,a,True,False,b,False,0
+11,unknown,TF,[Alexander Graham Bell] explained [telephone] to [Socrates].,a,True,False,b,False,0
+12,unknown,MCQ,Which ancient philosopher did [Isaac Newton] explain [laws of motion] to?,a,Socrates,C,c,Aristotle,0
+13,unknown,TF,[Nikola Tesla] explained [wireless communication] to [Epicurus].,a,True,False,b,False,0
+14,unknown,TF,[Marie Curie] explained [X-rays] to [Pythagoras].,a,True,False,b,False,0
+15,unknown,MCQ,Which modern invention did [Galileo Galilei] explain to [Aristotle]?,a,Telescope,A,a,Telescope,1
+16,unknown,TF,[Charles Darwin] explained [theory of evolution] to [Confucius].,a,True,False,b,False,0
+17,unknown,TF,[James Watt] explained [industrial steam engine] to [Plato].,a,True,False,b,False,0
+18,unknown,MCQ,Which modern invention did [Thomas Edison] explain to [Epicurus]?,a,Electric light bulb,A,a,Electric light bulb,1
+19,unknown,TF,[Alexander Graham Bell] explained [voice transmission via telephone] to [Pythagoras].,a,True,False,b,False,0
+20,unknown,TF,[Albert Einstein] explained [photoelectric effect] to [Aristotle].,a,True,False,b,False,0
+21,unknown,TF,[Nikola Tesla] explained [radio technology] to [Plato].,a,True,False,b,False,0
+22,unknown,TF,[Isaac Newton] explained [gravity] to [Socrates].,a,True,False,b,False,0
+23,unknown,MCQ,Which ancient philosopher did [Marie Curie] explain [polonium and radium] to?,a,Plato,A,a,Plato,1
+24,unknown,TF,[Thomas Edison] explained [phonograph] to [Heraclitus].,a,True,False,b,False,0
+25,unknown,TF,[Charles Darwin] explained [natural selection] to [Plato].,a,True,False,b,False,0
+26,unknown,TF,[Galileo Galilei] explained [heliocentric theory] to [Aristotle].,a,True,False,b,False,0
+27,unknown,TF,[Alexander Graham Bell] explained [telephone technology] to [Plato].,a,True,False,b,False,0
+28,unknown,MCQ,Which philosopher did [Albert Einstein] explain [special relativity] to?,b,Aristotle,D,d,Plato,0
+29,unknown,TF,[Marie Curie] explained [radioactive isotopes] to [Epicurus].,a,True,False,b,False,0
+30,unknown,TF,[Isaac Newton] explained [optics] to [Plato].,a,True,False,b,False,0
+31,unknown,TF,[Nikola Tesla] explained [alternating current] to [Pythagoras].,a,True,False,b,False,0
+32,unknown,MCQ,Which modern invention did [Thomas Edison] explain to [Socrates]?,a,Light bulb,A,a,Light bulb,1
+33,unknown,TF,[Charles Darwin] explained [natural selection] to [Heraclitus].,a,True,False,b,False,0
+34,unknown,TF,[James Watt] explained [steam engine mechanics] to [Epicurus].,a,True,False,b,False,0
+35,unknown,MCQ,Which philosopher did [Nikola Tesla] explain [wireless communication] to?,b,Confucius,D,d,Epicurus,0
+36,unknown,TF,[Galileo Galilei] explained [gravity and motion] to [Plato].,a,True,False,b,False,0
+37,unknown,TF,[Albert Einstein] explained [general relativity] to [Confucius].,a,True,False,b,False,0
+38,unknown,MCQ,Which invention did [Alexander Graham Bell] explain to [Heraclitus]?,a,Telephone,A,a,Telephone,1
+39,unknown,TF,[Marie Curie] explained [radium discovery] to [Aristotle].,a,True,False,b,False,0
+40,unknown,TF,[Isaac Newton] explained [laws of motion and gravitation] to [Epicurus].,a,True,False,b,False,0
+41,unknown,TF,[Nikola Tesla] explained [electromagnetic induction] to [Confucius].,a,True,False,b,False,0
+42,unknown,MCQ,Which philosopher did [Thomas Edison] explain [phonograph] to?,c,Socrates,B,b,Aristotle,0
+43,unknown,TF,[Charles Darwin] explained [speciation] to [Pythagoras].,a,True,False,b,False,0
+44,unknown,TF,[James Watt] explained [industrial steam engine] to [Plato].,a,True,False,b,False,0
+45,unknown,MCQ,Which invention did [Albert Einstein] explain to [Socrates]?,a,Relativity,A,a,Relativity,1
+46,unknown,TF,[Galileo Galilei] explained [satellite motion principles] to [Aristotle].,a,True,False,b,False,0
+47,unknown,TF,[Marie Curie] explained [polonium discovery] to [Epicurus].,a,True,False,b,False,0
+48,unknown,MCQ,Which ancient philosopher did [Isaac Newton] explain [calculus and optics] to?,c,Aristotle,D,d,Confucius,0
+49,unknown,TF,[Nikola Tesla] explained [Tesla coil] to [Pythagoras].,a,True,False,b,False,0
+50,unknown,TF,[Thomas Edison] explained [motion picture projector] to [Plato].,a,True,False,b,False,0
+51,unknown,TF,[Alexander Graham Bell] explained [long-distance communication] to [Aristotle].,a,True,False,b,False,0
+52,unknown,MCQ,Which philosopher did [Charles Darwin] explain [adaptive evolution] to?,c,Epicurus,C,c,Epicurus,1
+53,unknown,TF,[James Watt] explained [steam pressure mechanics] to [Confucius].,a,True,False,b,False,0
+54,unknown,TF,[Albert Einstein] explained [mass-energy equivalence] to [Pythagoras].,a,True,False,b,False,0
+55,unknown,TF,[Galileo Galilei] explained [laws of inertia] to [Epicurus].,a,True,False,b,False,0
+56,unknown,MCQ,Which modern invention did [Nikola Tesla] explain to [Confucius]?,a,AC electricity,A,a,AC electricity,1
+57,unknown,TF,[Marie Curie] explained [radium and polonium applications] to [Plato].,a,True,False,b,False,0
+58,unknown,TF,[Isaac Newton] explained [universal gravitation] to [Aristotle].,a,True,False,b,False,0
+59,unknown,TF,[Thomas Edison] explained [electric light innovations] to [Socrates].,a,True,False,b,False,0
+60,unknown,MCQ,Which philosopher did [Alexander Graham Bell] explain [telephony] to?,b,Heraclitus,"None of the above, actually, it was  Joseph Henry and  Mabel Gardiner Hubbard, but among the options: 
+A",a,Plato,0
+61,unknown,TF,[Charles Darwin] explained [survival of the fittest] to [Aristotle].,a,True,False,b,False,0
+62,unknown,TF,[James Watt] explained [steam turbine mechanics] to [Pythagoras].,a,True,False,b,False,0
+63,unknown,TF,[Albert Einstein] explained [space-time curvature] to [Plato].,a,True,False,b,False,0
+64,unknown,TF,[Nikola Tesla] explained [wireless power transmission] to [Epicurus].,a,True,False,b,False,0
+65,unknown,MCQ,Which invention did [Marie Curie] explain to [Heraclitus]?,a,Radioactivity,A,a,Radioactivity,1
+66,unknown,TF,[Isaac Newton] explained [laws of optics] to [Confucius].,a,True,False,b,False,0
+67,unknown,TF,[Thomas Edison] explained [recording phonograph] to [Plato].,a,True,False,b,False,0
+68,unknown,TF,[Alexander Graham Bell] explained [voice telecommunication] to [Socrates].,a,True,False,b,False,0
+69,unknown,MCQ,Which philosopher did [Charles Darwin] explain [genetic variation] to?,d,Epicurus,D,d,Epicurus,1
+70,unknown,TF,[James Watt] explained [mechanical engineering principles] to [Aristotle].,a,True,False,b,False,0
+71,unknown,TF,[Albert Einstein] explained [quantum mechanics] to [Pythagoras].,a,True,False,b,False,0
+72,unknown,TF,[Nikola Tesla] explained [magnetic fields] to [Confucius].,a,True,False,b,False,0
+73,unknown,MCQ,Which invention did [Marie Curie] explain to [Plato]?,a,Radium,A,a,Radium,1
+74,unknown,TF,[Isaac Newton] explained [universal gravitation laws] to [Epicurus].,a,True,False,b,False,0
+75,unknown,TF,[Thomas Edison] explained [electric lighting] to [Heraclitus].,a,True,False,b,False,0
+76,unknown,TF,[Alexander Graham Bell] explained [telephone principles] to [Plato].,a,True,False,b,False,0
+77,unknown,TF,[Charles Darwin] explained [adaptation] to [Confucius].,a,True,False,b,False,0
+78,unknown,TF,[James Watt] explained [steam power] to [Socrates].,a,True,False,b,False,0
+79,unknown,MCQ,Which philosopher did [Albert Einstein] explain [general relativity] to?,d,Confucius,"None of the above, the correct answer is not listed, but I must choose: 
+A",a,Aristotle,0
+80,unknown,TF,[Nikola Tesla] explained [rotating magnetic field] to [Epicurus].,a,True,False,b,False,0
+81,unknown,TF,[Marie Curie] explained [radioactive decay] to [Heraclitus].,a,True,False,b,False,0
+82,unknown,TF,[Isaac Newton] explained [motion and forces] to [Confucius].,a,True,False,b,False,0
+83,unknown,TF,[Thomas Edison] explained [electricity distribution] to [Plato].,a,True,False,b,False,0
+84,unknown,MCQ,Which invention did [Alexander Graham Bell] explain to [Heraclitus]?,a,Telephone,A,a,Telephone,1
+85,unknown,TF,[Charles Darwin] explained [species evolution] to [Plato].,a,True,False,b,False,0
+86,unknown,TF,[James Watt] explained [pressure and work] to [Epicurus].,a,True,False,b,False,0
+87,unknown,TF,[Albert Einstein] explained [quantum theory] to [Aristotle].,a,True,False,b,False,0
+88,unknown,TF,[Nikola Tesla] explained [AC motors] to [Plato].,a,True,False,b,False,0
+89,unknown,MCQ,Which philosopher did [Marie Curie] explain [element discovery] to?,c,Heraclitus,"None of the above, the correct answer is actually none of the options, but since I have to choose: 
+D",d,Confucius,0
+90,unknown,TF,[Isaac Newton] explained [optics principles] to [Aristotle].,a,True,False,b,False,0
+91,unknown,TF,[Thomas Edison] explained [recording devices] to [Socrates].,a,True,False,b,False,0
+92,unknown,TF,[Alexander Graham Bell] explained [voice transmission] to [Confucius].,a,True,False,b,False,0
+93,unknown,TF,[Charles Darwin] explained [natural adaptation] to [Epicurus].,a,True,False,b,False,0
+94,unknown,TF,[James Watt] explained [mechanical energy] to [Plato].,a,True,False,b,False,0
+95,unknown,MCQ,Which invention did [Albert Einstein] explain to [Confucius]?,a,Relativity,A,a,Relativity,1
+96,unknown,TF,[Nikola Tesla] explained [electromagnetic fields] to [Aristotle].,a,True,False,b,False,0
+97,unknown,TF,[Marie Curie] explained [radiation effects] to [Pythagoras].,a,True,False,b,False,0
+98,unknown,TF,[Isaac Newton] explained [gravitational force] to [Plato].,a,True,False,b,False,0
+99,unknown,TF,[Thomas Edison] explained [electric circuits] to [Epicurus].,a,True,False,b,False,0
+100,unknown,MCQ,Which philosopher did [Alexander Graham Bell] explain [sound transmission] to?,d,Plato,D,d,Plato,1
+101,unknown,TF,[Charles Darwin] explained [speciation mechanisms] to [Heraclitus].,a,True,False,b,False,0
+102,unknown,TF,[James Watt] explained [steam engine design] to [Socrates].,a,True,False,b,False,0
+103,unknown,TF,[Albert Einstein] explained [photon theory] to [Epicurus].,a,True,False,b,False,0
+104,unknown,TF,[Nikola Tesla] explained [alternating current generation] to [Pythagoras].,a,True,False,b,False,0
+105,unknown,MCQ,Which invention did [Marie Curie] explain to [Aristotle]?,a,Radium,A,a,Radium,1
+106,unknown,TF,[Isaac Newton] explained [laws of motion] to [Heraclitus].,a,True,False,b,False,0
+107,unknown,TF,[Thomas Edison] explained [light bulb improvement] to [Confucius].,a,True,False,b,False,0
+108,unknown,TF,[Alexander Graham Bell] explained [voice amplification] to [Epicurus].,a,True,False,b,False,0
+109,unknown,TF,[Charles Darwin] explained [evolutionary adaptation] to [Plato].,a,True,False,b,False,0
+110,unknown,TF,[James Watt] explained [mechanical energy principles] to [Aristotle].,a,True,False,b,False,0
+111,unknown,MCQ,Which philosopher did [Albert Einstein] explain [relativity] to?,c,Confucius,D,d,Heraclitus,0
+112,unknown,TF,[Nikola Tesla] explained [high-frequency currents] to [Socrates].,a,True,False,b,False,0
+113,unknown,TF,[Marie Curie] explained [alpha and beta radiation] to [Epicurus].,a,True,False,b,False,0
+114,unknown,TF,[Isaac Newton] explained [calculus applications] to [Plato].,a,True,False,b,False,0
+115,unknown,TF,[Thomas Edison] explained [motion pictures] to [Aristotle].,a,True,False,b,False,0
+116,unknown,TF,[Alexander Graham Bell] explained [electrical telephony] to [Plato].,a,True,False,b,False,0
+117,unknown,TF,[Charles Darwin] explained [variation and inheritance] to [Confucius].,a,True,False,b,False,0
+118,unknown,TF,[James Watt] explained [steam engine innovation] to [Heraclitus].,a,True,False,b,False,0
+119,unknown,TF,[Albert Einstein] explained [mass-energy equivalence] to [Socrates].,a,True,False,b,False,0
+120,unknown,TF,[Nikola Tesla] explained [polyphase current] to [Plato].,a,True,False,b,False,0
+121,unknown,MCQ,Which invention did [Marie Curie] explain to [Socrates]?,a,Radioactivity,A,a,Radioactivity,1
+122,unknown,TF,[Isaac Newton] explained [laws of gravity] to [Epicurus].,a,True,False,b,False,0
+123,unknown,TF,[Thomas Edison] explained [telegraphy innovations] to [Confucius].,a,True,False,b,False,0
+124,unknown,TF,[Alexander Graham Bell] explained [sound signal transmission] to [Heraclitus].,a,True,False,b,False,0
+125,unknown,TF,[Charles Darwin] explained [natural selection] to [Pythagoras].,a,True,False,b,False,0
+126,unknown,TF,[James Watt] explained [steam engine principles] to [Plato].,a,True,False,b,False,0
+127,unknown,MCQ,Which philosopher did [Albert Einstein] explain [quantum theory] to?,d,Confucius,D,d,Confucius,1
+128,unknown,TF,[Nikola Tesla] explained [high-voltage currents] to [Socrates].,a,True,False,b,False,0
+129,unknown,TF,[Marie Curie] explained [atomic structure] to [Aristotle].,a,True,False,b,False,0
+130,unknown,TF,[Isaac Newton] explained [mathematical principles] to [Plato].,a,True,False,b,False,0
+131,unknown,TF,[Thomas Edison] explained [electric inventions] to [Epicurus].,a,True,False,b,False,0
+132,unknown,TF,[Alexander Graham Bell] explained [telephone system] to [Confucius].,a,True,False,b,False,0
+133,unknown,TF,[Charles Darwin] explained [species diversity] to [Heraclitus].,a,True,False,b,False,0

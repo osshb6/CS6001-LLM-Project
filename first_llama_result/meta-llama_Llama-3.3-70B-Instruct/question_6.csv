@@ -1,0 +1,101 @@
+question_id,template_type,question_format,question,gold_answer_letter,gold_answer_text,model_raw_answer,model_parsed_letter,model_parsed_text,is_correct
+1,unknown,TF,The Mongol Empire collapsed entirely before the year 1300.,a,True,False,b,False,0
+2,unknown,TF,The Roman Republic was founded immediately after the assassination of Julius Caesar.,a,True,False,b,False,0
+3,unknown,TF,Ancient Egypt's Old Kingdom is often called the 'Age of Pharaohs' because most pyramids were built then.,b,False,True,a,True,0
+4,unknown,TF,The Battle of Hastings in 1066 resulted in a decisive victory for the French king.,a,True,False,b,False,0
+5,unknown,TF,The Great Wall of China was originally built to protect against invasions from the Roman Empire.,a,True,False,b,False,0
+6,unknown,TF,The Aztec Empire controlled most of South America during the 15th century.,a,True,False,b,False,0
+7,unknown,TF,Marco Polo traveled to China during the Yuan Dynasty.,a,True,True,a,True,1
+8,unknown,TF,The Ottoman Empire officially ended after World War I.,b,False,True,a,True,0
+9,unknown,TF,Genghis Khan united the Mongol tribes in the 13th century.,b,False,False,b,False,1
+10,unknown,TF,The city of Constantinople fell to the Ottomans in 1453.,a,True,True,a,True,1
+11,unknown,TF,The French Revolution began in 1789.,b,False,True,a,True,0
+12,unknown,TF,The Mughal Empire originated in Persia before moving into India.,a,True,False,b,False,0
+13,unknown,TF,The Industrial Revolution first began in Germany.,a,True,False,b,False,0
+14,unknown,TF,Japan's Meiji Restoration marked the country's shift from feudal rule to modernization.,a,True,True,a,True,1
+15,unknown,TF,The first successful human flight by the Wright brothers occurred in 1903.,b,False,True,a,True,0
+16,unknown,TF,The Persian Empire under Cyrus the Great was known for its tolerance and administrative efficiency.,b,False,True,a,True,0
+17,unknown,TF,The Cold War began immediately after World War I ended.,a,True,False,b,False,0
+18,unknown,TF,The Great Depression began with the stock market crash in 1929.,a,True,True,a,True,1
+19,unknown,TF,"China's Han Dynasty is considered a golden age of culture, science, and technology.",b,False,True,a,True,0
+20,unknown,TF,The Renaissance began first in northern Europe before spreading to Italy.,a,True,False,b,False,0
+21,unknown,TF,Napoleon Bonaparte was exiled to Elba before being exiled again to Santa Monica.,a,True,False,b,False,0
+22,unknown,TF,Phoenicians were known for creating one of the earliest alphabets.,a,True,True,a,True,1
+23,unknown,TF,The Qin Dynasty unified China after the Warring States Period.,b,False,True,a,True,0
+24,unknown,TF,World War I ended in 1945.,a,True,False,b,False,0
+25,unknown,TF,Vikings reached North America around the year 1000.,b,False,True,a,True,0
+26,unknown,TF,The Sumerians are credited with creating cuneiform writing.,a,True,True,a,True,1
+27,unknown,TF,The Chinese invention of gunpowder occurred during the Ming Dynasty.,a,True,False,b,False,0
+28,unknown,TF,The Declaration of Independence was signed in 1776.,b,False,True,a,True,0
+29,unknown,TF,The ancient city of Petra was built by the Nabataeans.,b,False,True,a,True,0
+30,unknown,TF,King Tutankhamun became pharaoh at a very young age.,a,True,True,a,True,1
+31,unknown,TF,The Byzantine Empire preserved many classical Greek and Roman texts.,b,False,True,a,True,0
+32,unknown,TF,Christopher Columbus first landed in mainland North America in 1492.,a,True,False,b,False,0
+33,unknown,TF,The Inca Empire used quipus as a system of record-keeping.,a,True,True,a,True,1
+34,unknown,TF,The Korean War ended with a peace treaty that unified the peninsula.,a,True,False,b,False,0
+35,unknown,TF,The lighthouse of Alexandria was one of the Seven Wonders of the Ancient World.,a,True,True,a,True,1
+36,unknown,TF,The Assyrian Empire was known for its advanced military organization.,b,False,True,a,True,0
+37,unknown,TF,The Treaty of Versailles officially ended World War II.,a,True,False,b,False,0
+38,unknown,TF,The Mayan civilization developed a complex calendar system.,a,True,True,a,True,1
+39,unknown,TF,Joan of Arc led French forces during the Hundred Years' War.,b,False,True,a,True,0
+40,unknown,TF,The ancient Indus Valley Civilization is known for its advanced urban planning.,a,True,True,a,True,1
+41,unknown,TF,The Black Death significantly reduced Europe's population in the 14th century.,b,False,True,a,True,0
+42,unknown,TF,Alexander the Great founded the city of Alexandria in Egypt.,a,True,True,a,True,1
+43,unknown,TF,The Berlin Wall fell in 1989.,b,False,True,a,True,0
+44,unknown,TF,World War II ended when Germany surrendered in 1918.,a,True,False,b,False,0
+45,unknown,TF,The Parthenon was built in honor of the Greek goddess Athena.,a,True,True,a,True,1
+46,unknown,TF,The Silk Road connected China to the Mediterranean.,a,True,True,a,True,1
+47,unknown,TF,The Spanish Armada defeated England in 1588.,a,True,False,b,False,0
+48,unknown,TF,The American Civil War ended in 1865.,b,False,True,a,True,0
+49,unknown,TF,The Kingdom of Mali became wealthy largely due to gold and salt trade.,a,True,True,a,True,1
+50,unknown,TF,The Space Race was primarily between the United States and China.,a,True,False,b,False,0
+51,unknown,MCQ,Which empire built the city of Tenochtitlan?,a,Inca Empire,B,b,Aztec Empire,0
+52,unknown,MCQ,Which war was sparked by the assassination of Archduke Franz Ferdinand?,c,Crimean War,B,b,World War I,0
+53,unknown,MCQ,Who was the first emperor of Rome?,c,Tiberius,B,b,Augustus,0
+54,unknown,MCQ,Which ancient civilization built Machu Picchu?,d,Olmec,A,a,Inca,0
+55,unknown,MCQ,What was the primary language of the Roman Empire?,b,Greek,A,a,Latin,0
+56,unknown,MCQ,Which empire was ruled by Genghis Khan?,a,Ottoman Empire,B,b,Mongol Empire,0
+57,unknown,MCQ,What event marked the beginning of the Great Depression?,c,End of WWI,B,b,Wall Street Crash of 1929,0
+58,unknown,MCQ,Where did the Renaissance begin?,b,France,C,c,Italy,0
+59,unknown,MCQ,Which civilization is credited with inventing the wheel?,a,Greek,C,c,Sumerian,0
+60,unknown,MCQ,Which leader is known for spreading Hellenistic culture?,c,Cyrus the Great,A,a,Alexander the Great,0
+61,unknown,MCQ,What major event started in 1939?,a,Cold War,B,b,World War II,0
+62,unknown,MCQ,Who painted the Mona Lisa?,b,Raphael,C,c,Leonardo da Vinci,0
+63,unknown,MCQ,Which empire is known for the Code of Hammurabi?,c,Akkadian Empire,A,a,Babylonian Empire,0
+64,unknown,MCQ,What was the capital of the Byzantine Empire?,a,Rome,B,b,Constantinople,0
+65,unknown,MCQ,Which Chinese dynasty built most of the Great Wall?,b,Qing,B,b,Qing,1
+66,unknown,MCQ,Who discovered penicillin?,d,Louis Pasteur,A,a,Alexander Fleming,0
+67,unknown,MCQ,Which war was fought between North and South Korea?,a,Vietnam War,B,b,Korean War,0
+68,unknown,MCQ,Which empire was Mansa Musa associated with?,b,Songhai Empire,A,a,Mali Empire,0
+69,unknown,MCQ,Who invented the printing press?,d,Galileo Galilei,A,a,Johannes Gutenburg,0
+70,unknown,MCQ,Which civilization built the pyramids of Giza?,c,Roman,B,b,Egyptian,0
+71,unknown,MCQ,Which country was the first to launch a satellite into space?,a,USA,C,c,Soviet Union,0
+72,unknown,MCQ,Who was the first President of the United States?,b,Abraham Lincoln,C,c,George Washington,0
+73,unknown,MCQ,Which empire built the Hagia Sophia?,b,Ottoman,C,c,Byzantine,0
+74,unknown,MCQ,What year did the Titanic sink?,a,1905,B,b,1912,0
+75,unknown,MCQ,Which leader unified Japan in the 17th century?,b,Oda Nobunaga,C,c,Tokugawa Ieyasu,0
+76,unknown,MCQ,Which empire was known for its road system and official language Quechua?,c,Persian,B,b,Inca,0
+77,unknown,MCQ,Who was the British Prime Minister during most of World War II?,a,Neville Chamberlain,B,b,Winston Churchill,0
+78,unknown,MCQ,Which ancient civilization developed a writing system known as hieroglyphics?,d,Greek,C,c,Egyptian,0
+79,unknown,MCQ,What was the capital of the Aztec Empire?,c,Chichén Itzá,B,b,Tenochtitlan,0
+80,unknown,MCQ,Who was the first woman to fly solo across the Atlantic Ocean?,d,Harriet Quimby,A.,a,Amelia Earhart,0
+81,unknown,MCQ,Which empire constructed the Royal Road?,b,Roman Empire,A,a,Persian Empire,0
+82,unknown,MCQ,Who wrote the philosophical work 'The Republic'?,a,Aristotle,C,c,Plato,0
+83,unknown,MCQ,Which country colonized India for almost 200 years?,a,Portugal,D,d,Britain,0
+84,unknown,MCQ,Which empire built the Colosseum?,d,Carthaginian Empire,A,a,Roman Empire,0
+85,unknown,MCQ,What major global event ended in 1945?,a,World War I,B,b,World War II,0
+86,unknown,MCQ,Which civilization developed cuneiform writing?,d,Phoenician,B,b,Sumerian,0
+87,unknown,MCQ,Who was the first European explorer to reach India by sea?,a,Christopher Columbus,C,c,Vasco da Gama,0
+88,unknown,MCQ,Which empire was famous for its terracotta army?,a,Roman Empire,C,c,Qin Dynasty,0
+89,unknown,MCQ,Which country did the United States purchase Alaska from?,c,Britain,B,b,Russia,0
+90,unknown,MCQ,Who is credited with formulating the laws of motion and gravity?,a,Albert Einstein,B,b,Isaac Newton,0
+91,unknown,MCQ,Which war involved trench warfare on the Western Front?,b,Vietnam War,C,c,World War I,0
+92,unknown,MCQ,Which empire used a writing system called Linear B?,a,Minoan,B,b,Mycenaean,0
+93,unknown,MCQ,Which country initiated the Age of Exploration by sailing along Africa's west coast?,b,France,C,c,Portugal,0
+94,unknown,MCQ,Who was the famous Carthaginian general who crossed the Alps with elephants?,c,Julius Caesar,B,b,Hannibal,0
+95,unknown,MCQ,Which empire constructed the Forbidden City?,b,Qing Dynasty,A,a,Ming Dynasty,0
+96,unknown,MCQ,Who invented the light bulb?,c,James Watt,A.,a,Thomas Edison,0
+97,unknown,MCQ,Which civilization carved giant stone heads on Easter Island?,a,Inca,B,b,Rapa Nui,0
+98,unknown,MCQ,Which Asian empire built Angkor Wat?,c,Gupta Empire,A,a,Khmer Empire,0
+99,unknown,MCQ,Who led the Soviet Union during the Cuban Missile Crisis?,c,Stalin,B,b,Khrushchev,0
+100,unknown,MCQ,Which civilization built the ziggurats of Mesopotamia?,d,Chinese,B,b,Sumerians,0
