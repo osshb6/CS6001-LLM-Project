@@ -417,7 +417,7 @@
     },
     {
         "question_id": 40,
-        "question": "Which movements were triggered by widespread rural frustration with feudal or feudal-like social structures?",
+        "question": "Which movements most directly reflected diffuse rural grievances against entrenched feudal or quasi-feudal land regimes, even though all four options contain agrarian discontent elements?",
         "type": "MCQ",
         "options": {
             "a": "German Peasants’ War & French Jacquerie",
@@ -429,7 +429,7 @@
     },
     {
         "question_id": 41,
-        "question": "The Meiji Restoration in Japan and the Tanzimat Reforms in the Ottoman Empire both emerged due to fear of direct European colonization rather than internal instability.",
+        "question": "The Meiji Restoration and the Tanzimat Reforms were both framed partly around preventing European domination, but claiming that external pressure rather than internal administrative decay was the main driver for both is an oversimplification.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -439,7 +439,7 @@
     },
     {
         "question_id": 42,
-        "question": "Which two movements were primarily driven by social groups attempting to preserve pre-existing communal land systems threatened by new economic reforms?",
+        "question": "Which pairs of movements were centrally shaped by communities attempting to defend pre-existing communal or customary land systems threatened by modernization or new fiscal reforms, even though all choices involve resistance to structural change?",
         "type": "MCQ",
         "options": {
             "a": "Mexican Zapatista Movement & Scottish Crofters’ War",
@@ -451,7 +451,7 @@
     },
     {
         "question_id": 43,
-        "question": "The Iranian Constitutional Revolution and the Young Turk Revolution both emerged due to dissatisfaction with traditional monarchic authority, but only one sought to preserve religious clerical influence rather than reduce it.",
+        "question": "The Iranian Constitutional Revolution and the Young Turk Revolution both challenged monarchical absolutism, but only one movement preserved clerical authority as a stabilizing force rather than framing it as an obstacle to modernization.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -461,7 +461,7 @@
     },
     {
         "question_id": 44,
-        "question": "Which movements reacted primarily to threats posed by expanding missionary networks rather than to direct military occupation?",
+        "question": "Which movements primarily mobilized against the expanding influence of missionary networks perceived as precursors to cultural subjugation, even though each option features anti-foreign elements?",
         "type": "MCQ",
         "options": {
             "a": "Mau Mau Uprising & Herero Rebellion",
@@ -473,7 +473,7 @@
     },
     {
         "question_id": 45,
-        "question": "The Taiping Rebellion and the Paris Commune both arose from grievances involving state-imposed religious changes.",
+        "question": "The Taiping Rebellion and the Paris Commune both invoked ideological visions of social restructuring, but only one was explicitly rooted in religious doctrine imposed or promoted by the state.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -483,7 +483,7 @@
     },
     {
         "question_id": 46,
-        "question": "Which two movements attempted to reject modern state-building projects by reviving earlier political or religious orders?",
+        "question": "Which movements attempted to resist modern bureaucratic state-building by reviving or re-asserting older religious or covenant-based political orders, despite all options containing some degree of anti-state sentiment?",
         "type": "MCQ",
         "options": {
             "a": "Mahdist Revolution & Scottish Covenanter Movement",
@@ -495,7 +495,7 @@
     },
     {
         "question_id": 47,
-        "question": "The Satsuma Rebellion in Japan and the Luddite Movement in England both emerged because skilled groups feared loss of economic status due to rapid technological change.",
+        "question": "The Satsuma Rebellion and the Luddite Movement both reveal anxieties among skilled or privileged groups facing loss of status under rapid technological and institutional reorganization.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -505,7 +505,7 @@
     },
     {
         "question_id": 48,
-        "question": "Which movements were fueled primarily by resentment against the introduction of foreign-backed administrative elites rather than military rule itself?",
+        "question": "Which movements were fueled primarily by resentment toward the elevation of foreign-supported administrative elites who restructured existing hierarchies without overt colonial annexation, even though each option contains anti-imperial grievances?",
         "type": "MCQ",
         "options": {
             "a": "Arab Spring & Boxer Rebellion",
@@ -517,7 +517,7 @@
     },
     {
         "question_id": 49,
-        "question": "The Zulu Resistance and the Apache Resistance both emerged in response to missionary-led cultural restructuring rather than territorial pressure.",
+        "question": "The Zulu Resistance and the Apache Resistance both opposed encroaching colonial influence, but attributing their uprisings mainly to missionary-led cultural restructuring rather than territorial coercion is inaccurate.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -527,7 +527,7 @@
     },
     {
         "question_id": 50,
-        "question": "Which movements were driven by marginalized warrior classes resisting their state's attempt to professionalize the military?",
+        "question": "Which movements were driven principally by marginalized warrior classes resisting their state's move toward standardized, professionalized militaries, even though all options contain armed or military components?",
         "type": "MCQ",
         "options": {
             "a": "Satsuma Rebellion & Janissary Revolt",
@@ -605,7 +605,7 @@
     },
     {
         "question_id": 57,
-        "question": "The Iranian Revolution and the Boxer Rebellion both emerged due to opposition to Western-led cultural transformation rather than political interference.",
+        "question": "The Iranian Revolution and the Boxer Rebellion both reacted strongly to Western cultural influence, but asserting that cultural intrusion—rather than layered political interference—was the primary catalyst for both oversimplifies their origins.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -615,7 +615,7 @@
     },
     {
         "question_id": 58,
-        "question": "Which two movements were triggered by competing religious visions that directly challenged secular or semi-secular state authorities?",
+        "question": "Which paired movements were fundamentally shaped by rival religious worldviews that directly contested state-driven secular or semi-secular authority frameworks, even though every option contains ideological conflict?",
         "type": "MCQ",
         "options": {
             "a": "Harlem Renaissance & Civil Rights Movement",
@@ -627,7 +627,7 @@
     },
     {
         "question_id": 59,
-        "question": "The Crimean Tatar Resistance and the Chechen Resistance both emerged due to long-term demographic displacement by Russian expansionist policies, but only one maintained a sustained separatist ideology from its earliest phases.",
+        "question": "The Crimean Tatar Resistance and the Chechen Resistance share legacies of displacement under Russian expansion, but only one developed a coherent separatist framework from its earliest organized phase rather than evolving into one later.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -637,7 +637,7 @@
     },
     {
         "question_id": 60,
-        "question": "Which movements were driven by attempts to overturn imposed systems of forced labor that resembled slavery, even if not formally labeled as such?",
+        "question": "Which movements were animated by efforts to dismantle coercive labor systems functionally similar to slavery—regardless of whether the structures were formally defined as such—despite all options containing elements of social or economic resistance?",
         "type": "MCQ",
         "options": {
             "a": "Santhal Rebellion & Zanj Rebellion",
@@ -649,7 +649,7 @@
     },
     {
         "question_id": 61,
-        "question": "The Hungarian Revolution of 1848 and the Taiping Rebellion both emerged due to rising middle-class dissatisfaction with land taxation systems.",
+        "question": "The Hungarian Revolution of 1848 and the Taiping Rebellion both featured grievances about governance and social order, but claiming they were fundamentally driven by middle-class frustration over land-tax systems misrepresents their core motivators.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -659,7 +659,7 @@
     },
     {
         "question_id": 62,
-        "question": "Which movements were driven primarily by fears that foreign legal systems would replace local customary practices?",
+        "question": "Which movements were propelled most directly by concerns that externally backed legal frameworks would displace or override local customary legal traditions, though all options exhibit some degree of foreign institutional pressure?",
         "type": "MCQ",
         "options": {
             "a": "Maori Wars & Indian Mutiny",
@@ -671,7 +671,7 @@
     },
     {
         "question_id": 63,
-        "question": "The Mexican Revolution and the Russian Revolution both emerged due to peasant anger at industrial monopolies rather than land inequality.",
+        "question": "The Mexican Revolution and the Russian Revolution both involved backlash against industrial elites, but attributing their rise primarily to anger at industrial monopolies rather than entrenched land-based inequalities is inaccurate.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -681,7 +681,7 @@
     },
     {
         "question_id": 64,
-        "question": "Which movements were triggered by the imposition of newly centralized religious institutions perceived as threats to local autonomy?",
+        "question": "Which movements were sparked by the imposition or enforcement of centralized religious institutions viewed as undermining or replacing local forms of religious autonomy, despite all options involving disputes over authority?",
         "type": "MCQ",
         "options": {
             "a": "Arab Spring & Velvet Revolution",
@@ -1058,12 +1058,12 @@
         "question": "Which two movements attempted to use apocalyptic or millenarian ideologies to justify political restructuring, even though only one achieved initial territorial control?",
         "type": "MCQ",
         "options": {
-            "a": "Taiping Rebellion & Xhosa Cattle-Killing Movement",
+            "a": "French Revolution & Haitian Revolution",
             "b": "Arab Spring & Civil Rights Movement",
-            "c": "French Revolution & Haitian Revolution",
+            "c": "Taiping Rebellion & Xhosa Cattle-Killing Movement",
             "d": "Tanzimat Reforms & Meiji Restoration"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 99,
@@ -1102,12 +1102,12 @@
         "question": "Which movements were triggered by legal reforms that unintentionally expanded rights for groups previously excluded from political processes, creating backlash from traditional elites?",
         "type": "MCQ",
         "options": {
-            "a": "Revolt of the Janissaries & Satsuma Rebellion",
-            "b": "French Revolution & Haitian Revolution",
+            "a": "French Revolution & Haitian Revolution",
+            "b": "Revolt of the Janissaries & Satsuma Rebellion",
             "c": "American Revolution & Boston Tea Party",
             "d": "Arab Spring & Russian Revolution"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 103,
@@ -1165,7 +1165,7 @@
     },
     {
         "question_id": 108,
-        "question": "Which movements resisted conscription systems that simultaneously offered unprecedented economic mobility to lower-class populations, creating internal divisions within the resistance itself?",
+        "question": "Which movements opposed conscription systems that paradoxically expanded economic mobility for certain lower-class groups, producing internal fractures as some communities resisted while others embraced the new incentives?",
         "type": "MCQ",
         "options": {
             "a": "Irish Anti-Conscription Movement & Russian Emancipation Unrest",
@@ -1177,7 +1177,7 @@
     },
     {
         "question_id": 109,
-        "question": "The Xhosa Cattle-Killing Movement and the Ghost Dance Movement both emerged due to millenarian expectations, but only one resulted in deliberate ecological self-destruction as a strategic act of resistance.",
+        "question": "The Xhosa Cattle-Killing Movement and the Ghost Dance Movement are both rooted in millenarian visions, but only one explicitly embraced ecological devastation of its own subsistence base as a ritual pathway toward collective salvation.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1187,7 +1187,7 @@
     },
     {
         "question_id": 110,
-        "question": "Which two movements emerged due to attempts by local rulers to centralize legal systems that previously allowed overlapping jurisdictions, causing backlash from groups losing privilege?",
+        "question": "Which movements were driven by attempts to impose centralized legal frameworks over previously overlapping, privilege-protecting jurisdictions, provoking resistance from groups threatened by the loss of hybrid authority structures?",
         "type": "MCQ",
         "options": {
             "a": "Tanzimat Reforms Opposition & Meiji Anti-Centralization Factions",
@@ -1199,7 +1199,7 @@
     },
     {
         "question_id": 111,
-        "question": "The French May 1968 Movement and the Russian 1905 Revolution both emerged due to student radicalization, but only one quickly escalated into nationwide labor strikes with transformative political negotiations.",
+        "question": "The French May 1968 Movement and the Russian 1905 Revolution both featured student-driven radicalization, but only one rapidly escalated into nationwide labor strikes producing formal political concessions rather than fragmented repression.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1209,7 +1209,7 @@
     },
     {
         "question_id": 112,
-        "question": "Which movements emerged partly because the ruling elites introduced new military uniforms or drills perceived as violating religious obligations?",
+        "question": "Which movements arose partly because ruling elites introduced revised military uniforms or drills perceived as infringing upon religious obligations—even though all options contain some form of cultural or institutional clash?",
         "type": "MCQ",
         "options": {
             "a": "Indian Mutiny & Janissary Revolt",
@@ -1221,7 +1221,7 @@
     },
     {
         "question_id": 113,
-        "question": "The Tupac Amaru II Rebellion and the Mexican Cristero War both emerged due to rural resistance to state centralization, but only one sought a return to pre-colonial governance norms rather than religious autonomy.",
+        "question": "The Tupac Amaru II Rebellion and the Mexican Cristero War both resisted expanding state authority in rural regions, but only one sought restoration of pre-colonial governance norms rather than the defense of established religious autonomy.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1231,7 +1231,7 @@
     },
     {
         "question_id": 114,
-        "question": "Which movements were triggered by imprisonment of key leaders whose detainment unexpectedly unified previously competing factions?",
+        "question": "Which movements were catalyzed by the imprisonment of key leaders whose detainment unexpectedly unified previously fragmented factions and transformed passive opposition into coordinated resistance?",
         "type": "MCQ",
         "options": {
             "a": "Indian Independence Movement & Irish Independence Movement",
@@ -1243,7 +1243,7 @@
     },
     {
         "question_id": 115,
-        "question": "The Solidarity Movement in Poland and the Velvet Revolution both emerged due to dissatisfaction with communist rule, but only one directly challenged a powerful state-backed labor union system.",
+        "question": "The Solidarity Movement and the Velvet Revolution both reflected rising frustration with communist governance, but only one directly confronted a state-sponsored labor union monopoly that paradoxically claimed to represent workers.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1253,7 +1253,7 @@
     },
     {
         "question_id": 116,
-        "question": "Which movements resisted the imposition of census systems designed not for taxation but for ethno-political classification as part of imperial identity projects?",
+        "question": "Which movements resisted imperial census systems explicitly designed not for taxation or administration but for ethno-political reclassification intended to reshape collective identities under empire-building projects?",
         "type": "MCQ",
         "options": {
             "a": "Rwandan Pre-Colonial Resistance & Burmese Anti-Panglong Opposition",
@@ -1746,5 +1746,885 @@
             "d": "Civil Rights Movement & Suffrage Movement"
         },
         "answer": "a"
+    },
+    {
+        "question_id": 161,
+        "question": "Both the Tanzanian Ujamaa Movement and the Meiji Land Reforms aimed to restructure rural life, but only one attempted to dissolve traditional kinship networks while simultaneously claiming to preserve them.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 162,
+        "question": "Which movements confronted new taxation systems that were justified as modernization reforms yet paradoxically lowered state revenue while increasing resistance?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Tanzimat Resistance & Ethiopian Gojjam Revolts",
+            "b": "Civil Rights Movement & French Revolution",
+            "c": "Taiping Rebellion & Mau Mau Uprising",
+            "d": "Mexican Cristero War & Arab Spring"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 163,
+        "question": "The Opium Wars and the Spanish Civil War both involved foreign ideological pressures, but only one resulted from trade disputes disguised as moral reform.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 164,
+        "question": "Which movements emerged from attempts to create new elite classes while also claiming to dismantle elitism?",
+        "type": "MCQ",
+        "options": {
+            "a": "Meiji Restoration & Soviet Bolshevik Revolution",
+            "b": "Arab Spring & Suffrage Movement",
+            "c": "French Revolution & Glorious Revolution",
+            "d": "Chinese Cultural Revolution & Scottish Covenanter Movement"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 165,
+        "question": "The Haitian Revolution and the Hungarian Revolution of 1848 both challenged imperial hierarchies, but only one treated liberation as both a social and anti-liberation act depending on the faction.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 166,
+        "question": "Which movements resisted modernization efforts that paradoxically depended on preserving outdated institutions while reforming them?",
+        "type": "MCQ",
+        "options": {
+            "a": "Tanzimat Reforms Resistance & Janissary Revolt",
+            "b": "Boston Tea Party & Irish Independence Movement",
+            "c": "American Revolution & Velvet Revolution",
+            "d": "Civil Rights Movement & Mau Mau Uprising"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 167,
+        "question": "The Boxer Rebellion and the Arab Spring both reflected anti-elite sentiment, but only one targeted elites who claimed to be non-elites while acting as elites.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 168,
+        "question": "Which movements attempted to decentralize authority while centralizing it more than before?",
+        "type": "MCQ",
+        "options": {
+            "a": "French Revolution & Meiji Consolidation",
+            "b": "Civil Rights Movement & Harlem Renaissance",
+            "c": "Suffrage Movement & Arab Spring",
+            "d": "Taiping Rebellion & Tanzanian Ujamaa Movement"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 169,
+        "question": "The Mau Mau Uprising and the Indian Mutiny both opposed cultural assimilation policies, but only one simultaneously demanded access to the very institutions it resisted.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 170,
+        "question": "Which movements emerged under leaders who gained legitimacy by rejecting legitimacy itself?",
+        "type": "MCQ",
+        "options": {
+            "a": "Chinese Cultural Revolution & Taiping Rebellion",
+            "b": "Arab Spring & French Revolution",
+            "c": "Cristero War & Boxer Rebellion",
+            "d": "Russian Revolution & Haitian Revolution"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 171,
+        "question": "The Zanj Rebellion and the Santhal Rebellion both targeted labor exploitation, but only one used resistance strategies that increased the dependency they opposed.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 172,
+        "question": "Which movements opposed foreign intervention by adopting foreign organizational models more thoroughly than their rulers did?",
+        "type": "MCQ",
+        "options": {
+            "a": "Taiping Rebellion & Meiji Anti-Centralization Factions",
+            "b": "Arab Spring & Haitian Revolution",
+            "c": "Indian Mutiny & Scottish Covenanter Movement",
+            "d": "Chinese Warlord-Era Factions & Janissary Revolt"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 173,
+        "question": "The 1905 Russian Revolution and the Cuban Revolution both involved land grievances, but only one tried to redistribute land by reinforcing elite land control temporarily.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 174,
+        "question": "Which movements unified populations by amplifying internal divisions into a shared identity crisis?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rwandan Anti-Colonial Resistance & Irish Easter Rising",
+            "b": "French Revolution & Tanzimat Opposition",
+            "c": "Arab Spring & Mau Mau Uprising",
+            "d": "Civil Rights Movement & Mexican Cristero War"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 175,
+        "question": "The Scottish Covenanter Movement and the Saxon Peasant Revolt both opposed legal reforms, but only one resisted reforms that were designed specifically to protect the resisters.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 176,
+        "question": "Which movements opposed foreign domination while relying on foreign doctrines more heavily than their opponents?",
+        "type": "MCQ",
+        "options": {
+            "a": "Haitian Revolution & Taiping Rebellion",
+            "b": "Harlem Renaissance & Civil Rights Movement",
+            "c": "French Revolution & American Revolution",
+            "d": "Arab Spring & Tanzanian Ujamaa Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 177,
+        "question": "The Ethiopian Adwa Resistance and the Vietnamese Anti-French Resistance both used local unity as strategy, but only one relied on fragmentation as a form of unity.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 178,
+        "question": "Which movements were ignited by overreactions to threats that later turned out to be less significant than the resistance itself?",
+        "type": "MCQ",
+        "options": {
+            "a": "Boxer Rebellion & Ghost Dance Movement",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "Indian Mutiny & Mau Mau Uprising",
+            "d": "French Revolution & Meiji Restoration"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 179,
+        "question": "The Glorious Revolution and the American Revolution both altered constitutional norms, but only one expanded monarchy while claiming to limit it.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 180,
+        "question": "Which movements resisted new administrative systems that simplified bureaucracy but complicated everyday life?",
+        "type": "MCQ",
+        "options": {
+            "a": "Tanzimat Resistance & Meiji Local Uprisings",
+            "b": "Arab Spring & Boston Tea Party",
+            "c": "Civil Rights Movement & Velvet Revolution",
+            "d": "Janissary Revolt & Haitian Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 181,
+        "question": "The Xhosa Frontier Wars and the First Balkan War both involved shifting alliance structures, but only one aligned with former enemies to resist allies.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 182,
+        "question": "Which movements protested economic reforms that harmed them only because the reforms succeeded too quickly?",
+        "type": "MCQ",
+        "options": {
+            "a": "Chinese Cultural Revolution & Russian 1905 Revolution",
+            "b": "Arab Spring & Meiji Reforms",
+            "c": "French Revolution & Tanzanian Ujamaa Policy",
+            "d": "Boxer Rebellion & Indian Mutiny"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 183,
+        "question": "The Taiping Rebellion and the Sikh Anglo Wars both involved religiously framed demands, but only one reinterpreted its religion so radically that it contradicted itself.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 184,
+        "question": "Which movements attempted to overthrow foreign rule by adopting foreign governance structures as templates for independence?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indian Independence Movement & Greek War of Independence",
+            "b": "Arab Spring & Harlem Renaissance",
+            "c": "French Revolution & Mau Mau Uprising",
+            "d": "Tanzimat Opposition & Boxer Rebellion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 185,
+        "question": "The Irish Easter Rising and the Hungarian 1848 revolution both invoked past autonomy, but only one referenced traditions that never existed in its claimed form.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 186,
+        "question": "Which movements resisted census reforms that expanded representation but reduced informal power?",
+        "type": "MCQ",
+        "options": {
+            "a": "Burmese Anti-Panglong Resistance & Irish Anti-Unionism",
+            "b": "Arab Spring & French Revolution",
+            "c": "Janissary Revolt & Mau Mau Uprising",
+            "d": "Civil Rights Movement & Velvet Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 187,
+        "question": "The Persian Tobacco Protest and the Meiji Tax Reform Protests both responded to economic changes, but only one sought foreign control to avoid foreign control.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 188,
+        "question": "Which movements used decentralization as a strategy to achieve more centralization than the government they fought?",
+        "type": "MCQ",
+        "options": {
+            "a": "Taiping Rebellion & Mexican Cristero Insurgency",
+            "b": "Arab Spring & Ghost Dance Movement",
+            "c": "French Revolution & Mau Mau Uprising",
+            "d": "Harlem Renaissance & Civil Rights Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 189,
+        "question": "The Scottish Clearances and the Tanzanian Villagization Policy both reorganized settlement patterns, but only one displaced people to keep them in place.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 190,
+        "question": "Which movements embraced radical ideology mainly because moderate versions of the same ideology were too successful?",
+        "type": "MCQ",
+        "options": {
+            "a": "Russian Bolshevik Revolution & Chinese Cultural Revolution",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "Haitian Revolution & Suffrage Movement",
+            "d": "Taiping Rebellion & Indian Mutiny"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 191,
+        "question": "The French Revolution and the Cristero War both battled religious institutions, but only one defended religion by attacking a religious hierarchy.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 192,
+        "question": "Which movements resisted systems introduced to protect traditional rights that the resisters believed were being eliminated by the protections?",
+        "type": "MCQ",
+        "options": {
+            "a": "Hungarian 1848 Revolution & Scottish Covenanter Movement",
+            "b": "Arab Spring & French Revolution",
+            "c": "Mau Mau Uprising & Indian Mutiny",
+            "d": "Glorious Revolution & Taiping Rebellion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 193,
+        "question": "The Boxer Rebellion and the Janissary Revolt both opposed military reforms, but only one opposed reforms that improved the movement’s own fighting capability.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 194,
+        "question": "Which movements emerged because local elites misinterpreted reforms intended to empower them as attempts to weaken them?",
+        "type": "MCQ",
+        "options": {
+            "a": "Tanzanian Ujamaa Resistance & Meiji Local Warrior Protests",
+            "b": "Arab Spring & Harlem Renaissance",
+            "c": "Civil Rights Movement & French Revolution",
+            "d": "Taiping Rebellion & Mau Mau Uprising"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 195,
+        "question": "The Zulu Wars and the Mughal Maratha Conflicts both involved expanding states, but only one expanded by shrinking territory strategically.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 196,
+        "question": "Which movements protested decreasing state control because decreasing control increased state influence?",
+        "type": "MCQ",
+        "options": {
+            "a": "Velvet Revolution & Chinese Cultural Revolution",
+            "b": "Arab Spring & Tanzimat Opposition",
+            "c": "French Revolution & Indian Mutiny",
+            "d": "Taiping Rebellion & Cristero War"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 197,
+        "question": "The American Revolution and the Glorious Revolution both rejected monarchy, but only one accepted monarchy in order to reject it.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 198,
+        "question": "Which movements were sparked by reforms that increased fairness objectively but reduced perceived fairness subjectively?",
+        "type": "MCQ",
+        "options": {
+            "a": "Meiji Reforms Resistance & Ottoman Tanzimat Resistance",
+            "b": "Arab Spring & French Revolution",
+            "c": "Civil Rights Movement & Mau Mau Uprising",
+            "d": "Mexican Cristero War & Taiping Rebellion"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 199,
+        "question": "The Indian Mutiny and the Boxer Rebellion both opposed Westernization, but only one sought Western recognition as proof of resisting Western influence.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 200,
+        "question": "Which movements attempted to preserve traditional order by overthrowing it completely?",
+        "type": "MCQ",
+        "options": {
+            "a": "Taiping Rebellion & Russian Bolshevik Revolution",
+            "b": "Arab Spring & Glorious Revolution",
+            "c": "Cristero War & Meiji Restoration",
+            "d": "French Revolution & Scottish Covenanter Movement"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 201,
+        "question": "Both the Persian Constitutional Revolution and the Irish Land War were triggered by conflicts over legal pluralism, but only one sought to preserve clerically controlled courts rather than dismantle them.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 202,
+        "question": "Which movements emerged due to conflicts between hereditary elites and newly empowered merchant classes over control of regional trade networks?",
+        "type": "MCQ",
+        "options": {
+            "a": "Haitian Revolution & Boxer Rebellion",
+            "b": "Dutch Patriot Revolt & Siamese Bowring Treaty Protests",
+            "c": "Mexican Revolution & Arab Spring",
+            "d": "Zulu Resistance & Crimean War Opposition"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 203,
+        "question": "The Ethiopian resistance to Italian rule and the Burmese Saya San Rebellion were both reactions to imported taxation systems, but only one opposed the introduction of a national cadastral survey.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 204,
+        "question": "Which movements were fueled by the perception that new military recruitment policies would dissolve pre-existing clan-based responsibilities?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Glorious Revolution",
+            "b": "Somali Dervish Resistance & Scottish Highland Anti-Conscription",
+            "c": "French Revolution & Decembrist Revolt",
+            "d": "Indian Independence & Velvet Revolution"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 205,
+        "question": "Both the Mau Mau Uprising and the Andalusian Peasant Revolts emerged due to competition over rural land privatization, but only one targeted settler-owned forestry zones.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 206,
+        "question": "Which movements arose because rulers attempted to impose standardized marriage codes that clashed with local kinship practices?",
+        "type": "MCQ",
+        "options": {
+            "a": "American Revolution & Arab Spring",
+            "b": "Civil Rights Movement & Suffrage Movement",
+            "c": "Burmese Resistance to British Codification & Ethiopian Fetha Nagast Defenders",
+            "d": "Tanzimat Reforms Opposition & Meiji Anti-Christian Edict Protests"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 207,
+        "question": "The French Revolution and the Ashanti-Fante Wars both involved disputes over trade taxation, but only one intensified due to abolition of guild monopolies.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 208,
+        "question": "Which movements resisted state-imposed agricultural calendars that replaced lunar or ritual calendars used by rural communities?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Harlem Renaissance",
+            "b": "French May 1968 & Boston Tea Party",
+            "c": "Xinhai Revolution Rural Factions & Burmese Saya San Rebellion",
+            "d": "Meiji Restoration Opposition & Taiping Rebellion"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 209,
+        "question": "The Pueblo Revolt and the Egyptian Urabi Revolt both reacted to military intrusion, but only one sought to restore pre-colonial ceremonial governance hierarchies.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 210,
+        "question": "Which movements were driven by intellectual elites who feared that centralized schooling systems would erase regional languages?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Hungarian Revolution",
+            "b": "Galician National Revival & Breton Educational Resistance",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "Velvet Revolution & Janissary Revolt"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 211,
+        "question": "Both the Crimean Tatar protests of the 19th century and the Sikh agitation against British rule opposed land enumeration systems, but only one also challenged grain requisition quotas.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 212,
+        "question": "Which movements emerged partly because religious courts were forcibly merged with civil courts, eliminating jurisdictional flexibility?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & French Revolution",
+            "b": "Zaidi Imamate Uprisings & Meiji Religious Codification Conflicts",
+            "c": "Civil Rights Movement & Russian Revolution",
+            "d": "Ottoman Tanzimat Opposition & Egyptian Urabi Faction"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 213,
+        "question": "The Korean Donghak Rebellion and the Russian Old Believer Uprisings both arose from religious reform disputes, but only one directly targeted Western-style taxation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 214,
+        "question": "Which movements were triggered by attempts to regulate customary waters rights through modern hydrological mapping?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Boston Tea Party",
+            "b": "Maratha Canal Tax Uprisings & Ottoman Anatolian Irrigation Protests",
+            "c": "French Revolution & Tanzimat Reforms",
+            "d": "Zulu Resistance & Herero Rebellion"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 215,
+        "question": "Both the Indian Indigo Revolt and the Polish January Uprising involved conflicts with plantation-style economies, but only one rejected foreign-backed commercial courts.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 216,
+        "question": "Which movements were fueled by fears that new cadastral maps would eliminate secret land-sharing agreements among clans?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Glorious Revolution",
+            "b": "Somali Clan Resistance & Kurdish Anti-Ottoman Tax Protests",
+            "c": "French Revolution & Velvet Revolution",
+            "d": "Meiji Restoration & Mau Mau Uprising"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 217,
+        "question": "The Haitian Revolution and the Burmese Konbaung Court rebellions both dealt with coerced labor, but only one targeted attempts to formalize caste-like occupational categories.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 218,
+        "question": "Which movements opposed the implementation of European-style commercial arbitration courts introduced during modernization campaigns?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Civil Rights Movement",
+            "b": "Zulu Resistance & Boxer Rebellion",
+            "c": "Urabi Revolt & Qajar Reform Resistance",
+            "d": "American Revolution & Ottoman Millet Opposition"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 219,
+        "question": "Both the Taiping Rebellion and the Ethiopian Adwa mobilization involved visions of national salvation, but only one integrated Christian millenarian doctrine into administrative law proposals.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 220,
+        "question": "Which movements were shaped by bitter disputes over which ethnic groups would control newly modernized postal networks?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Boston Tea Party",
+            "b": "Qing Dynasty Anti-Reform Factions & Ottoman Armenian Postal Resistance",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "Meiji Restoration & Russian Revolution"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 221,
+        "question": "The Boxer Rebellion and the Irish 1798 Rebellion both responded to fears of cultural erasure, but only one attacked foreign-built telegraph stations as symbolic intrusions.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 222,
+        "question": "Which movements opposed attempts to formalize clan arbitration into written procedural law, removing oral negotiators’ authority?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & French Revolution",
+            "b": "Somali Elders’ Resistance & Pashtunwali Anti-Codification Protests",
+            "c": "Russian Revolution & Civil Rights Movement",
+            "d": "Meiji Restoration & Tanzimat Reforms"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 223,
+        "question": "The Polish Solidarity Movement and the Greek Anti-Junta Resistance both emerged due to authoritarian overreach, but only one opposed workplace disciplinary tribunals.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 224,
+        "question": "Which movements fought against property registration systems designed to convert nomadic pasture rights into fixed legal parcels?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Cuban Revolution",
+            "b": "Kazakh Steppe Resistance & Berber Anti-French Land Protests",
+            "c": "French Revolution & Haitian Revolution",
+            "d": "Meiji Restoration & Boston Tea Party"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 225,
+        "question": "Both the Qing New Policies unrest and the Ottoman Young Turk opposition reacted to rapid bureaucratic expansion, but only one opposed foreign advisors drafting legal codes.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 226,
+        "question": "Which movements were destabilized by competing priestly factions who disagreed on whether modern science should be integrated into state education?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & French May 1968",
+            "b": "Tibetan Monastic Anti-Reform Factions & Qajar Religious Modernization Opponents",
+            "c": "Civil Rights Movement & Russian Revolution",
+            "d": "Meiji Restoration & Janissary Revolt"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 227,
+        "question": "The Russian 1905 Revolution and the Xhosa anti-colonial movements both responded to rigid administrative reforms, but only one protested naval conscription quotas.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 228,
+        "question": "Which movements resisted attempts to suppress local credit-sharing cooperatives in favor of centralized state banks?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Velvet Revolution",
+            "b": "Japanese Village Mutual Aid Protesters & Russian Peasant Commune Defenders",
+            "c": "Civil Rights Movement & Suffrage Movement",
+            "d": "French Revolution & Haitian Revolution"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 229,
+        "question": "Both the Irish Gaelic Revival and the Ukrainian Cultural Movement resisted centralization, but only one opposed new railway mapping as an instrument of linguistic standardization.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 230,
+        "question": "Which movements contested state efforts to replace oral genealogies with written census registries for determining property inheritance?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & American Revolution",
+            "b": "Somali Lineage Defenders & Hawaiian Anti-Annexation Movements",
+            "c": "Civil Rights Movement & Boston Tea Party",
+            "d": "Velvet Revolution & Tanzimat Reformers"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 231,
+        "question": "The Satsuma Rebellion and the Crimean Tatar uprisings both involved military reorganization disputes, but only one rejected the abolition of hereditary military stipends.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 232,
+        "question": "Which movements emerged because attempts to universalize national schooling conflicted with guild-based apprenticeship systems?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Suffrage Movement",
+            "b": "Austrian Liberal School Reform Opposition & Ottoman Craft Guild Resistance",
+            "c": "French Revolution & Ghost Dance Movement",
+            "d": "Velvet Revolution & Meiji Restoration"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 233,
+        "question": "Both the Persian Tobacco Protest and the Tanzanian Maji Maji Rebellion opposed foreign intrusion, but only one targeted commercial monopolies rather than agrarian coercion.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 234,
+        "question": "Which movements resisted attempts to impose uniform surname systems as part of modernizing identity registration?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Indian Mutiny",
+            "b": "French Revolution & Tanzimat Reformers",
+            "c": "Thai Surname Edict Protesters & Ottoman Balkan Resistance",
+            "d": "Zulu Resistance & Civil Rights Movement"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 235,
+        "question": "The Hungarian 1848 Revolution and the Egyptian Urabi movement both fought for constitutional limits on monarchy, but only one resisted foreign-funded commercial railways.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 236,
+        "question": "Which movements arose due to disputes over forced population resettlement justified as 'modern urban planning'?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Meiji Restoration",
+            "b": "Soviet Collectivization Resistance & Tanzanian Ujamaa Village Opposition",
+            "c": "Civil Rights Movement & Harlem Renaissance",
+            "d": "French Revolution & Velvet Revolution"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 237,
+        "question": "Both the Ghost Dance Movement and the Egyptian 1919 Revolution emerged from spiritual-nationalist symbolism, but only one framed foreign occupation as a threat to cosmic balance.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 238,
+        "question": "Which movements fought to preserve decentralized village courts that were threatened by new professional legal bureaucracies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Boston Tea Party",
+            "b": "Indian Panchayat Defenders & Ethiopian Oromo Gadaa Protesters",
+            "c": "Civil Rights Movement & French Revolution",
+            "d": "Velvet Revolution & Tanzimat Reforms"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 239,
+        "question": "The Tupac Amaru II rebellion and the Meiji samurai uprisings both resisted intrusive tax reforms, but only one opposed a new birth-registration system meant to classify ethnic identity.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 240,
+        "question": "Which movements opposed the conversion of customary forest-gathering rights into state-managed resource concessions?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & Haitian Revolution",
+            "b": "Civil Rights Movement & Velvet Revolution",
+            "c": "Adivasi Forest Rights Movements & Burmese Karen Anti-Logging Campaigns",
+            "d": "French Revolution & Tanzimat Reforms"
+        },
+        "answer": "c"
     }
 ]

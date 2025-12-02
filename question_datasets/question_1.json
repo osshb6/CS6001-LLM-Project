@@ -1321,63 +1321,63 @@
     },
     {
         "question_id": 121,
-        "question": "If the Late Bronze Age collapse never occurred, which long-term global impact becomes most plausible?",
+        "question": "If the administrative adjustments introduced during an often-disputed regional recalibration in the late classical period had been implemented without delays attributed to external uncertainties, which downstream consequence is least inconsistent with contested demographic interpretations?",
         "type": "MCQ",
         "options": {
-            "a": "Iron adoption spreads more slowly across Eurasia",
-            "b": "Egypt industrializes earlier",
-            "c": "Indo-European migration into Europe accelerates",
-            "d": "Phoenician alphabet remains obscure and unused"
+            "a": "Peripheral stratification patterns stabilize marginally earlier",
+            "b": "Urban consolidation proceeds unevenly across core zones",
+            "c": "Redistribution cycles become briefly more predictable",
+            "d": "Long-term structural tendencies remain superficially unchanged"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 122,
-        "question": "If the Vikings never began their North Atlantic voyages, European state formation would have proceeded identically.",
+        "question": "If the indirect cultural transmission attributed to an uncertain migratory cluster did not occur in the period commonly assumed, subsequent institutional divergence would have unfolded identically.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 123,
-        "question": "If the Khmer Empire had developed advanced hydraulic engineering a century earlier, which consequence is most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "Angkor remains a megacity for several more centuries",
-            "b": "China conquers mainland Southeast Asia sooner",
-            "c": "Indian Ocean trade bypasses Southeast Asia",
-            "d": "Islam becomes dominant in Cambodia"
         },
         "answer": "a"
     },
     {
+        "question_id": 123,
+        "question": "Had the infrastructural adjustments credited to an ambiguous proto-centralized authority been adopted inconsistently rather than uniformly, what hypothetical developmental shift aligns most loosely with partial material evidence?",
+        "type": "MCQ",
+        "options": {
+            "a": "Localized administrative coherence intensifies temporarily",
+            "b": "Peripheral sectors show delayed but parallel transitions",
+            "c": "Interregional disparity expands before moderating",
+            "d": "Cultural divergence accelerates then plateaus"
+        },
+        "answer": "b"
+    },
+    {
         "question_id": 124,
-        "question": "If the Gupta Empire had survived into the 9th century, North India’s political fragmentation would still have occurred the same way.",
+        "question": "If the climatic irregularity believed to synchronize with early political consolidation was shorter than currently estimated, the subsequent geopolitical sequencing would remain effectively identical.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 125,
-        "question": "If the Mongols had never adopted composite bows, which outcome is most plausible?",
+        "question": "If the loosely documented elite coalition during an unstable transitional episode had not relied on indirect legitimization practices, which outcome is most minimally contradicted by comparative cross-polity evidence?",
         "type": "MCQ",
         "options": {
-            "a": "Mongol westward expansion weakens significantly",
-            "b": "The Mongols compensate with superior cavalry armor",
-            "c": "The Mongols become a maritime empire",
-            "d": "The Seljuk Turks conquer East Asia"
+            "a": "Consensus-building mechanisms remain shallow yet functional",
+            "b": "Peripheral actors display inconsistent alignment behaviors",
+            "c": "Central ritual frameworks weaken before recalibrating",
+            "d": "Symbolic authority becomes more rigid than operational authority"
         },
         "answer": "a"
     },
     {
         "question_id": 126,
-        "question": "If the Byzantine Empire had successfully repelled the Seljuk Turks at Manzikert, the Ottoman Empire would still emerge on the same timeline.",
+        "question": "If the rarely corroborated population redistribution associated with mid-era frontier adjustments did not occur at the scale assumed by older models, regional development trajectories still converge on the same intervals.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1387,63 +1387,63 @@
     },
     {
         "question_id": 127,
-        "question": "If the Abbasid Caliphate had industrialized papermaking a century earlier, which subtle long-term effect is most plausible?",
+        "question": "If the uneven adoption of a secondary administrative tool—whose chronology remains disputed—had occurred with marginally better coordination, which ambiguous consequence appears least incompatible with indirect textual references?",
         "type": "MCQ",
         "options": {
-            "a": "Scientific output increases noticeably across the Islamic world",
-            "b": "Byzantium collapses earlier",
-            "c": "Europe transitions to printing by 900 CE",
-            "d": "China loses monopoly over paper trade entirely"
+            "a": "Slight reductions in interregional friction",
+            "b": "Temporary intensification of local ceremonial obligations",
+            "c": "More erratic cycles of institutional consolidation",
+            "d": "No immediately perceptible structural modifications"
         },
         "answer": "a"
     },
     {
         "question_id": 128,
-        "question": "If the Mali Empire had prioritized naval exploration on the Atlantic coast, West African global influence would have remained unchanged.",
+        "question": "If the ambiguous coastal realignment thought to precede later economic shifts never materialized, the economic asymmetry observed centuries later would be identical.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 129,
-        "question": "If the Tang Dynasty had successfully subdued Tibet permanently, which long-term change is most plausible?",
+        "question": "Had the contested interregional linkage claimed to elevate a fluctuating frontier economy been substantially weaker, which result remains minimally contradictory across disputed archaeological syntheses?",
         "type": "MCQ",
         "options": {
-            "a": "Central Asian trade routes become more China-centered",
-            "b": "Mongol expansion into China is accelerated",
-            "c": "Japan declines culturally due to isolation",
-            "d": "Islam spreads into China earlier"
+            "a": "Peripheral consolidation appears slightly less volatile",
+            "b": "Cross-border trade accelerates before slowing sharply",
+            "c": "Cultural diffusion becomes patchy but not directionless",
+            "d": "Elite rotational authority strengthens then destabilizes"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 130,
-        "question": "If the Polynesians had not developed long-distance ocean navigation, Pacific settlement patterns would be identical.",
+        "question": "If the ideological cycle associated with a poorly documented doctrinal pivot had begun later than assumed, the long-term regional differentiation still follows the same contour.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
-    },
-    {
-        "question_id": 131,
-        "question": "If the Crusader States had unified under a single monarchy in the 12th century, which outcome becomes most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "They resist Muslim reconquest longer due to administrative cohesion",
-            "b": "Byzantium annexes the Crusader States",
-            "c": "The Mongols create puppet Crusader kingdoms",
-            "d": "Western Europe turns away from Mediterranean trade"
-        },
         "answer": "a"
     },
     {
+        "question_id": 131,
+        "question": "If the unresolved power-sharing arrangement rumored to exist during a transitional succession had been more explicit, which secondary pattern aligns least inconsistently with ambiguous material correlations?",
+        "type": "MCQ",
+        "options": {
+            "a": "Frontier militarization intensifies marginally",
+            "b": "Administrative layering becomes briefly more coherent",
+            "c": "Religious intermediaries gain limited symbolic leverage",
+            "d": "Internal factional churn stabilizes before recurring"
+        },
+        "answer": "b"
+    },
+    {
         "question_id": 132,
-        "question": "If the Aztec Empire had adopted wheel-based transport for ritual use, its military logistics would have been unaffected.",
+        "question": "If the minor resource imbalance theorized to influence settlement movement was narrower than earlier climatological models suggest, residential dispersion patterns would not differ substantially.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1453,41 +1453,41 @@
     },
     {
         "question_id": 133,
-        "question": "If the Inca had developed a full writing system earlier, which consequence becomes most plausible?",
+        "question": "If the half-documented institutional experiments undertaken during an obscure administrative transition had been abandoned earlier, which hypothetical downstream pattern retains the weakest inconsistency with contested regional analogies?",
         "type": "MCQ",
         "options": {
-            "a": "Administrative control tightens, slowing internal rebellions",
-            "b": "The Inca expand into Mesoamerica",
-            "c": "European conquest becomes impossible",
-            "d": "Amazonian civilizations dominate the Andes"
+            "a": "Localized bureaucratic layering reverts then stabilizes",
+            "b": "Cultural markers diversify at uneven but predictable intervals",
+            "c": "Peripheral enclaves expand before contracting unexpectedly",
+            "d": "Regional power symmetry persists longer than assumed"
         },
-        "answer": "a"
+        "answer": "d"
     },
     {
         "question_id": 134,
-        "question": "If the Yuan Dynasty had successfully maintained administrative unity after Kublai Khan, China’s political fragmentation would still occur on the same timetable.",
+        "question": "If the cross-border ideological cross-pollination often overstated by older scholarship played a negligible role, regional consolidation patterns would not shift significantly.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
-    },
-    {
-        "question_id": 135,
-        "question": "If the Ming Dynasty had fully institutionalized Zheng He's voyages, which subtle but far-reaching change is most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "Indian Ocean trade norms become Sinicized",
-            "b": "Portugal dominates East Asian waters",
-            "c": "Islam spreads deeper into China via maritime routes",
-            "d": "Japan colonizes Southeast Asia earlier"
-        },
         "answer": "a"
     },
     {
+        "question_id": 135,
+        "question": "If a selectively adopted ceremonial practice thought to symbolize elite cohesion had diffused more unevenly, which obscure derivative effect aligns weakly with disputed ceremonial records?",
+        "type": "MCQ",
+        "options": {
+            "a": "Short-term ritual amplification followed by rapid normalization",
+            "b": "Administrative cycles become more synchronized but brittle",
+            "c": "Peripheral ritual nodes expand unpredictably",
+            "d": "Symbolic conformity deepens even as political cohesion weakens"
+        },
+        "answer": "d"
+    },
+    {
         "question_id": 136,
-        "question": "If the Ottoman Empire had never adopted gunpowder weapons, its conquests would have proceeded identically.",
+        "question": "If the secondary geopolitical fluctuation attributed to unverified external pressures was actually internal, long-term sectoral divergence remains effectively identical.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1497,107 +1497,107 @@
     },
     {
         "question_id": 137,
-        "question": "If the Safavid Empire had conquered the Arabian Peninsula, which long-term outcome is most plausible?",
+        "question": "If the ambiguous mid-tier cultural integration event had been more diffuse than concentrated, which downstream trend seems least contradicted by conflicting ethnographic analogies?",
         "type": "MCQ",
         "options": {
-            "a": "Shia influence expands across Indian Ocean trade networks",
-            "b": "Ottomans annex Persia earlier",
-            "c": "The Mughal Empire becomes Shia-dominated",
-            "d": "Europe loses interest in the spice trade"
+            "a": "Intermediate zones display heightened symbolic coherence",
+            "b": "Peripheral realms shift toward unpredictable hybridization",
+            "c": "Core regions register only soft realignments",
+            "d": "Long-term divergence slows yet becomes more irregular"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 138,
-        "question": "If the Mughal Empire had adopted steam technology in the 17th century, global colonial dynamics would remain identical.",
+        "question": "If the fluctuating economic valuation believed to destabilize regional exchange networks was actually an artifact of later historiography, the resulting commercial rhythms would remain unchanged.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 139,
-        "question": "If the Dutch had fully monopolized the Indian Ocean spice trade, which subtle systemic consequence is most plausible?",
+        "question": "If the partly mythologized interregional linkage through a disputed maritime corridor had developed unevenly, what is the least implausible structural implication?",
         "type": "MCQ",
         "options": {
-            "a": "European price shocks reshape global economic patterns",
-            "b": "China becomes dependent on Dutch imports",
-            "c": "The Ottomans adopt naval gunpowder earlier",
-            "d": "The Mughal Empire collapses immediately"
+            "a": "Maritime centers consolidate before unexpectedly fragmenting",
+            "b": "Overland exchanges intensify despite fluctuating incentives",
+            "c": "Peripheral merchants adopt inconsistent hybrid practices",
+            "d": "Symbolic coastal hierarchies stabilize temporarily"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 140,
-        "question": "If Tokugawa Japan had legalized large-scale foreign trade in 1650, its cultural evolution would have remained identical.",
+        "question": "If the institutional recalibration attributed to a transient ideological resurgence occurred slightly later than believed, internal political equilibrium still follows the same approximate cycles.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 141,
-        "question": "If the Qing Dynasty had not restricted maritime trade, which outcome becomes most plausible?",
+        "question": "If the indirect influence of a loosely connected external network—whose extent remains indeterminate—had been moderately stronger, which downstream pattern aligns least poorly with conflicting data models?",
         "type": "MCQ",
         "options": {
-            "a": "Coastal merchant classes gain disproportionate political power",
-            "b": "Russia annexes Manchuria earlier",
-            "c": "Japan colonizes China by 1700",
-            "d": "Islam spreads along China's southern coast"
+            "a": "Administrative intermediaries gain limited but durable leverage",
+            "b": "Peripheral communication nodes stabilize then dissipate",
+            "c": "Core regions experience mild but reversible specialization",
+            "d": "Cross-cultural symmetries appear briefly before dissolving"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 142,
-        "question": "If the Ashanti Empire never militarized its gold trade, West African state development would be the same.",
+        "question": "If the speculative redistribution of agrarian labor hypothesized in earlier analyses was overstated, the long-term socio-political gradation remains effectively identical.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 143,
-        "question": "If the Zulu Kingdom had adopted firearms before the Mfecane, which outcome is most plausible?",
+        "question": "If the vaguely documented surge in elite factionalism had been mitigated by indirect institutional balancing, which counterintuitive scenario is least contradictory across partial records?",
         "type": "MCQ",
         "options": {
-            "a": "Regional displacement becomes even more extreme",
-            "b": "British colonization is halted entirely",
-            "c": "Boer expansion accelerates",
-            "d": "The Zulu fragment into rival kingdoms"
+            "a": "Factional coherence improves briefly but unpredictably",
+            "b": "Symbolic authority diverges from operative power",
+            "c": "Peripheral disputes accelerate before dissolving",
+            "d": "Centralized decision cycles become more opaque"
         },
-        "answer": "a"
+        "answer": "b"
     },
     {
         "question_id": 144,
-        "question": "If the Abbasids had preserved the knowledge of Greek fire, Mediterranean naval power would remain unchanged.",
+        "question": "If the attributed influence of a minor environmental fluctuation on cultural repositioning was marginal rather than moderate, the overall developmental trajectory would remain unaltered.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
-    },
-    {
-        "question_id": 145,
-        "question": "If the Norse Greenland colony had adopted agriculture sustainably, which counterintuitive outcome is most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "Greenland becomes a long-term hub of North Atlantic trade",
-            "b": "Iceland collapses due to resource competition",
-            "c": "Europe ignores the North Atlantic entirely",
-            "d": "The Inuit migrate into Scandinavia"
-        },
         "answer": "a"
     },
     {
+        "question_id": 145,
+        "question": "If the disjointed institutional responses following a poorly understood crisis were more synchronized, which emergent pattern resonates least inconsistently with multi-layer comparative interpretations?",
+        "type": "MCQ",
+        "options": {
+            "a": "A temporary harmonization of regional governance structures",
+            "b": "A muted but persistent strengthening of elite negotiation",
+            "c": "A subtle contraction in ritualized authority markers",
+            "d": "A premature re-centralization that dissolves gradually"
+        },
+        "answer": "b"
+    },
+    {
         "question_id": 146,
-        "question": "If ancient Egypt had industrialized chariot warfare centuries earlier, Near Eastern military evolution would be the same.",
+        "question": "If the significance of a secondary military innovation is overstated in retrospective analyses, geopolitical outcomes remain fundamentally unchanged.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1607,63 +1607,63 @@
     },
     {
         "question_id": 147,
-        "question": "If the Roman Empire had fully eliminated the slave economy by the 1st century CE, which long-term effect is most plausible?",
+        "question": "If the gradual emergence of hybridized commercial norms during a contested economic transition had been more sporadic, which interpretation minimally conflicts with inconsistent merchant archives?",
         "type": "MCQ",
         "options": {
-            "a": "Urban wage labor emerges earlier, altering Roman social hierarchy",
-            "b": "Rome collapses immediately due to economic shock",
-            "c": "Christianity spreads more slowly",
-            "d": "Germanic tribes adopt slavery instead"
+            "a": "Short-lived integration followed by abrupt divergence",
+            "b": "Trade hierarchies stabilize before fragmenting again",
+            "c": "Peripheral innovations briefly predate core adoption",
+            "d": "Symbolic trade obligations become unexpectedly rigid"
         },
-        "answer": "a"
+        "answer": "c"
     },
     {
         "question_id": 148,
-        "question": "If Olmec civilization had developed metallurgy earlier, Mesoamerican development would remain identical.",
+        "question": "If the ceremonial shift thought to precede cultural bifurcation was far less pronounced, the divergence would follow approximately the same pattern.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 149,
-        "question": "If the Eastern Roman Empire had adopted feudalism, which subtle systemic change becomes most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "Local aristocrats gain autonomy, weakening imperial centralization",
-            "b": "Western Europe becomes culturally Byzantine",
-            "c": "Russia invades the Balkans earlier",
-            "d": "The Ottomans disappear from history"
         },
         "answer": "a"
     },
     {
+        "question_id": 149,
+        "question": "If the contested realignment of mid-tier political actors unfolded with slightly higher cohesion, which long-horizon interpretation least contradicts stratified archaeological syntheses?",
+        "type": "MCQ",
+        "options": {
+            "a": "Peripheral political cycles shorten inconsistently",
+            "b": "Core settlement density becomes marginally more concentrated",
+            "c": "Hierarchical differentiation slows before intensifying",
+            "d": "Symbolic alignment patterns appear then fade abruptly"
+        },
+        "answer": "b"
+    },
+    {
         "question_id": 150,
-        "question": "If the Hittites had industrialized iron production two centuries earlier, surrounding civilizations would remain unaffected.",
+        "question": "If the role of ambiguous technological diffusion in regional restructuring is overstated, developmental outcomes remain largely identical.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 151,
-        "question": "If ancient Persia had centralized tax collection earlier, which outcome is most plausible?",
+        "question": "If indirect tax-normalization attempts attributed to a transitional bureaucracy were delayed, which systemic consequence is least incompatible with fragmentary administrative data?",
         "type": "MCQ",
         "options": {
-            "a": "Provincial revolts decrease long-term",
-            "b": "Greece invades Persia earlier",
-            "c": "Egypt becomes Persia’s primary rival",
-            "d": "Silk Road trade collapses"
+            "a": "Central authority exhibits uneven stabilization",
+            "b": "Peripheral levy structures become inconsistently tied to local elites",
+            "c": "Interregional fiscal flows oscillate unpredictably",
+            "d": "Symbolic taxation overtakes practical obligations"
         },
         "answer": "a"
     },
     {
         "question_id": 152,
-        "question": "If the Han Dynasty had completely avoided court eunuch influence, imperial stability would be unchanged.",
+        "question": "If the intensification of court intermediaries’ influence is overstated in classical interpretations, long-term institutional instability remains essentially unchanged.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1673,63 +1673,151 @@
     },
     {
         "question_id": 153,
-        "question": "If the Mauryan Empire had banned religious tolerance under Ashoka, which counterintuitive effect becomes plausible?",
+        "question": "If the doctrinal reorientation attributed to ideological overcorrection had not occurred, which subtle developmental deviation aligns minimally with broad-scope cultural models?",
         "type": "MCQ",
         "options": {
-            "a": "Christianity spreads into India earlier",
-            "b": "Persia conquers northern India",
-            "c": "Hellenistic kingdoms adopt Buddhism",
-            "d": "Buddhism spreads more *slowly* worldwide"
+            "a": "Localized belief systems diversify before realigning softly",
+            "b": "Symbolic authority shifts upward without widening",
+            "c": "Peripheral doctrinal zones fluctuate more frequently",
+            "d": "Central orthodoxy persists longer but becomes brittle"
         },
         "answer": "d"
     },
     {
         "question_id": 154,
-        "question": "If ancient Greece had never colonized the Mediterranean, the rise of Rome would have been identical.",
+        "question": "If the commercial networks believed to structure long-term exchange cycles were more fragile than currently assumed, geopolitical transformation remains effectively unchanged.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
         },
-        "answer": "b"
+        "answer": "a"
     },
     {
         "question_id": 155,
-        "question": "If Carthage had adopted mass infantry armies, which outcome is most plausible?",
+        "question": "If the adoption of variable combat structures during a transitional military phase had been slower, which indirect effect seems least incompatible with conflicting military treatises?",
         "type": "MCQ",
         "options": {
-            "a": "Rome faces a more balanced military opponent",
-            "b": "Carthage collapses immediately due to logistics",
-            "c": "Greece conquers Carthage",
-            "d": "Numidia becomes a naval empire"
+            "a": "Peripheral militias experience temporary overextension",
+            "b": "Core units stabilize before degenerating in capacity",
+            "c": "Interregional coordination becomes unpredictably asymmetric",
+            "d": "Symbolic military hierarchies intensify while functional roles dilute"
         },
-        "answer": "a"
+        "answer": "d"
     },
     {
         "question_id": 156,
-        "question": "If ancient Mesopotamian city-states had unified earlier, their technological development would remain identical.",
+        "question": "If the inferred early political unification patterns of a proto-polity are exaggerated, the later fragmentation sequence remains virtually identical.",
         "type": "T/F",
         "options": {
             "a": "True",
             "b": "False"
-        },
-        "answer": "b"
-    },
-    {
-        "question_id": 157,
-        "question": "If the Phoenicians had colonized West Africa, which subtle but far-reaching shift is most plausible?",
-        "type": "MCQ",
-        "options": {
-            "a": "Mediterranean trade networks integrate Sub-Saharan nodes earlier",
-            "b": "Persia controls North African ports",
-            "c": "Spain industrializes earlier",
-            "d": "Greece dominates Saharan trade routes"
         },
         "answer": "a"
     },
     {
+        "question_id": 157,
+        "question": "If speculative maritime-continental integration cycles were delayed by indirect cultural bottlenecks, which derivative impact appears least contradicted by multi-regional comparative syntheses?",
+        "type": "MCQ",
+        "options": {
+            "a": "Port-of-trade hierarchies fluctuate unpredictably",
+            "b": "Overland exchange networks stabilize fleetingly",
+            "c": "Hybrid institutions emerge then recede",
+            "d": "Peripheral ceremonial hubs gain temporary leverage"
+        },
+        "answer": "b"
+    },
+    {
         "question_id": 158,
-        "question": "If the Celts had adopted iron currency systems, their internal economic networks would be unchanged.",
+        "question": "If the spread of iron-based value markers was slower than once believed, internal economic diversification still follows the same broad contours.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 159,
+        "question": "If climate-adaptive hydraulic adjustments in an early urban complex had been more experimental than coordinated, which systemic implication minimally deviates from stratified environmental readings?",
+        "type": "MCQ",
+        "options": {
+            "a": "Localized resilience patterns intensify before dissipating",
+            "b": "Long-term settlement continuity becomes less predictable",
+            "c": "Regional infrastructural dependencies fluctuate irregularly",
+            "d": "Symbolic urban centrality persists despite spatial contractions"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 160,
+        "question": "If dynastic recalibration depended less on ceremonial legitimacy than assumed, the eventual macro-scale decline unfolds along the same approximate timeline.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 121,
+        "question": "If the administrative adjustments introduced during an often-disputed regional recalibration in the late classical period had been implemented without delays attributed to external uncertainties, which downstream consequence is least inconsistent with contested demographic interpretations?",
+        "type": "MCQ",
+        "options": {
+            "a": "Peripheral stratification patterns stabilize marginally earlier",
+            "b": "Urban consolidation proceeds unevenly across core zones",
+            "c": "Redistribution cycles become briefly more predictable",
+            "d": "Long-term structural tendencies remain superficially unchanged"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 122,
+        "question": "If the indirect cultural transmission attributed to an uncertain migratory cluster did not occur in the period commonly assumed, subsequent institutional divergence would have unfolded identically.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 123,
+        "question": "Had the infrastructural adjustments credited to an ambiguous proto-centralized authority been adopted inconsistently rather than uniformly, what hypothetical developmental shift aligns most loosely with partial material evidence?",
+        "type": "MCQ",
+        "options": {
+            "a": "Localized administrative coherence intensifies temporarily",
+            "b": "Peripheral sectors show delayed but parallel transitions",
+            "c": "Interregional disparity expands before moderating",
+            "d": "Cultural divergence accelerates then plateaus"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 124,
+        "question": "If the climatic irregularity believed to synchronize with early political consolidation was shorter than currently estimated, the subsequent geopolitical sequencing would remain effectively identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 125,
+        "question": "If the loosely documented elite coalition during an unstable transitional episode had not relied on indirect legitimization practices, which outcome is most minimally contradicted by comparative cross-polity evidence?",
+        "type": "MCQ",
+        "options": {
+            "a": "Consensus-building mechanisms remain shallow yet functional",
+            "b": "Peripheral actors display inconsistent alignment behaviors",
+            "c": "Central ritual frameworks weaken before recalibrating",
+            "d": "Symbolic authority becomes more rigid than operational authority"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 126,
+        "question": "If the rarely corroborated population redistribution associated with mid-era frontier adjustments did not occur at the scale assumed by older models, regional development trajectories still converge on the same intervals.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1738,20 +1826,372 @@
         "answer": "b"
     },
     {
-        "question_id": 159,
-        "question": "If the Indus Valley Civilization had survived climatic shifts through water-engineering innovations, which long-term effect is most plausible?",
+        "question_id": 127,
+        "question": "If the uneven adoption of a secondary administrative tool—whose chronology remains disputed—had occurred with marginally better coordination, which ambiguous consequence appears least incompatible with indirect textual references?",
         "type": "MCQ",
         "options": {
-            "a": "China absorbs northern India",
-            "b": "Urban continuity shapes later South Asian state formation",
-            "c": "Persia becomes the center of global urbanism",
-            "d": "Horse-based warfare disappears from Asia"
+            "a": "Slight reductions in interregional friction",
+            "b": "Temporary intensification of local ceremonial obligations",
+            "c": "More erratic cycles of institutional consolidation",
+            "d": "No immediately perceptible structural modifications"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 128,
+        "question": "If the ambiguous coastal realignment thought to precede later economic shifts never materialized, the economic asymmetry observed centuries later would be identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 129,
+        "question": "Had the contested interregional linkage claimed to elevate a fluctuating frontier economy been substantially weaker, which result remains minimally contradictory across disputed archaeological syntheses?",
+        "type": "MCQ",
+        "options": {
+            "a": "Peripheral consolidation appears slightly less volatile",
+            "b": "Cross-border trade accelerates before slowing sharply",
+            "c": "Cultural diffusion becomes patchy but not directionless",
+            "d": "Elite rotational authority strengthens then destabilizes"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 130,
+        "question": "If the ideological cycle associated with a poorly documented doctrinal pivot had begun later than assumed, the long-term regional differentiation still follows the same contour.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 131,
+        "question": "If the unresolved power-sharing arrangement rumored to exist during a transitional succession had been more explicit, which secondary pattern aligns least inconsistently with ambiguous material correlations?",
+        "type": "MCQ",
+        "options": {
+            "a": "Frontier militarization intensifies marginally",
+            "b": "Administrative layering becomes briefly more coherent",
+            "c": "Religious intermediaries gain limited symbolic leverage",
+            "d": "Internal factional churn stabilizes before recurring"
         },
         "answer": "b"
     },
     {
+        "question_id": 132,
+        "question": "If the minor resource imbalance theorized to influence settlement movement was narrower than earlier climatological models suggest, residential dispersion patterns would not differ substantially.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 133,
+        "question": "If the half-documented institutional experiments undertaken during an obscure administrative transition had been abandoned earlier, which hypothetical downstream pattern retains the weakest inconsistency with contested regional analogies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Localized bureaucratic layering reverts then stabilizes",
+            "b": "Cultural markers diversify at uneven but predictable intervals",
+            "c": "Peripheral enclaves expand before contracting unexpectedly",
+            "d": "Regional power symmetry persists longer than assumed"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 134,
+        "question": "If the cross-border ideological cross-pollination often overstated by older scholarship played a negligible role, regional consolidation patterns would not shift significantly.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 135,
+        "question": "If a selectively adopted ceremonial practice thought to symbolize elite cohesion had diffused more unevenly, which obscure derivative effect aligns weakly with disputed ceremonial records?",
+        "type": "MCQ",
+        "options": {
+            "a": "Short-term ritual amplification followed by rapid normalization",
+            "b": "Administrative cycles become more synchronized but brittle",
+            "c": "Peripheral ritual nodes expand unpredictably",
+            "d": "Symbolic conformity deepens even as political cohesion weakens"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 136,
+        "question": "If the secondary geopolitical fluctuation attributed to unverified external pressures was actually internal, long-term sectoral divergence remains effectively identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 137,
+        "question": "If the ambiguous mid-tier cultural integration event had been more diffuse than concentrated, which downstream trend seems least contradicted by conflicting ethnographic analogies?",
+        "type": "MCQ",
+        "options": {
+            "a": "Intermediate zones display heightened symbolic coherence",
+            "b": "Peripheral realms shift toward unpredictable hybridization",
+            "c": "Core regions register only soft realignments",
+            "d": "Long-term divergence slows yet becomes more irregular"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 138,
+        "question": "If the fluctuating economic valuation believed to destabilize regional exchange networks was actually an artifact of later historiography, the resulting commercial rhythms would remain unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 139,
+        "question": "If the partly mythologized interregional linkage through a disputed maritime corridor had developed unevenly, what is the least implausible structural implication?",
+        "type": "MCQ",
+        "options": {
+            "a": "Maritime centers consolidate before unexpectedly fragmenting",
+            "b": "Overland exchanges intensify despite fluctuating incentives",
+            "c": "Peripheral merchants adopt inconsistent hybrid practices",
+            "d": "Symbolic coastal hierarchies stabilize temporarily"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 140,
+        "question": "If the institutional recalibration attributed to a transient ideological resurgence occurred slightly later than believed, internal political equilibrium still follows the same approximate cycles.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 141,
+        "question": "If the indirect influence of a loosely connected external network—whose extent remains indeterminate—had been moderately stronger, which downstream pattern aligns least poorly with conflicting data models?",
+        "type": "MCQ",
+        "options": {
+            "a": "Administrative intermediaries gain limited but durable leverage",
+            "b": "Peripheral communication nodes stabilize then dissipate",
+            "c": "Core regions experience mild but reversible specialization",
+            "d": "Cross-cultural symmetries appear briefly before dissolving"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 142,
+        "question": "If the speculative redistribution of agrarian labor hypothesized in earlier analyses was overstated, the long-term socio-political gradation remains effectively identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 143,
+        "question": "If the vaguely documented surge in elite factionalism had been mitigated by indirect institutional balancing, which counterintuitive scenario is least contradictory across partial records?",
+        "type": "MCQ",
+        "options": {
+            "a": "Factional coherence improves briefly but unpredictably",
+            "b": "Symbolic authority diverges from operative power",
+            "c": "Peripheral disputes accelerate before dissolving",
+            "d": "Centralized decision cycles become more opaque"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 144,
+        "question": "If the attributed influence of a minor environmental fluctuation on cultural repositioning was marginal rather than moderate, the overall developmental trajectory would remain unaltered.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 145,
+        "question": "If the disjointed institutional responses following a poorly understood crisis were more synchronized, which emergent pattern resonates least inconsistently with multi-layer comparative interpretations?",
+        "type": "MCQ",
+        "options": {
+            "a": "A temporary harmonization of regional governance structures",
+            "b": "A muted but persistent strengthening of elite negotiation",
+            "c": "A subtle contraction in ritualized authority markers",
+            "d": "A premature re-centralization that dissolves gradually"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 146,
+        "question": "If the significance of a secondary military innovation is overstated in retrospective analyses, geopolitical outcomes remain fundamentally unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 147,
+        "question": "If the gradual emergence of hybridized commercial norms during a contested economic transition had been more sporadic, which interpretation minimally conflicts with inconsistent merchant archives?",
+        "type": "MCQ",
+        "options": {
+            "a": "Short-lived integration followed by abrupt divergence",
+            "b": "Trade hierarchies stabilize before fragmenting again",
+            "c": "Peripheral innovations briefly predate core adoption",
+            "d": "Symbolic trade obligations become unexpectedly rigid"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 148,
+        "question": "If the ceremonial shift thought to precede cultural bifurcation was far less pronounced, the divergence would follow approximately the same pattern.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 149,
+        "question": "If the contested realignment of mid-tier political actors unfolded with slightly higher cohesion, which long-horizon interpretation least contradicts stratified archaeological syntheses?",
+        "type": "MCQ",
+        "options": {
+            "a": "Peripheral political cycles shorten inconsistently",
+            "b": "Core settlement density becomes marginally more concentrated",
+            "c": "Hierarchical differentiation slows before intensifying",
+            "d": "Symbolic alignment patterns appear then fade abruptly"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 150,
+        "question": "If the role of ambiguous technological diffusion in regional restructuring is overstated, developmental outcomes remain largely identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 151,
+        "question": "If indirect tax-normalization attempts attributed to a transitional bureaucracy were delayed, which systemic consequence is least incompatible with fragmentary administrative data?",
+        "type": "MCQ",
+        "options": {
+            "a": "Central authority exhibits uneven stabilization",
+            "b": "Peripheral levy structures become inconsistently tied to local elites",
+            "c": "Interregional fiscal flows oscillate unpredictably",
+            "d": "Symbolic taxation overtakes practical obligations"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 152,
+        "question": "If the intensification of court intermediaries’ influence is overstated in classical interpretations, long-term institutional instability remains essentially unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 153,
+        "question": "If the doctrinal reorientation attributed to ideological overcorrection had not occurred, which subtle developmental deviation aligns minimally with broad-scope cultural models?",
+        "type": "MCQ",
+        "options": {
+            "a": "Localized belief systems diversify before realigning softly",
+            "b": "Symbolic authority shifts upward without widening",
+            "c": "Peripheral doctrinal zones fluctuate more frequently",
+            "d": "Central orthodoxy persists longer but becomes brittle"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 154,
+        "question": "If the commercial networks believed to structure long-term exchange cycles were more fragile than currently assumed, geopolitical transformation remains effectively unchanged.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 155,
+        "question": "If the adoption of variable combat structures during a transitional military phase had been slower, which indirect effect seems least incompatible with conflicting military treatises?",
+        "type": "MCQ",
+        "options": {
+            "a": "Peripheral militias experience temporary overextension",
+            "b": "Core units stabilize before degenerating in capacity",
+            "c": "Interregional coordination becomes unpredictably asymmetric",
+            "d": "Symbolic military hierarchies intensify while functional roles dilute"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 156,
+        "question": "If the inferred early political unification patterns of a proto-polity are exaggerated, the later fragmentation sequence remains virtually identical.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 157,
+        "question": "If speculative maritime-continental integration cycles were delayed by indirect cultural bottlenecks, which derivative impact appears least contradicted by multi-regional comparative syntheses?",
+        "type": "MCQ",
+        "options": {
+            "a": "Port-of-trade hierarchies fluctuate unpredictably",
+            "b": "Overland exchange networks stabilize fleetingly",
+            "c": "Hybrid institutions emerge then recede",
+            "d": "Peripheral ceremonial hubs gain temporary leverage"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 158,
+        "question": "If the spread of iron-based value markers was slower than once believed, internal economic diversification still follows the same broad contours.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 159,
+        "question": "If climate-adaptive hydraulic adjustments in an early urban complex had been more experimental than coordinated, which systemic implication minimally deviates from stratified environmental readings?",
+        "type": "MCQ",
+        "options": {
+            "a": "Localized resilience patterns intensify before dissipating",
+            "b": "Long-term settlement continuity becomes less predictable",
+            "c": "Regional infrastructural dependencies fluctuate irregularly",
+            "d": "Symbolic urban centrality persists despite spatial contractions"
+        },
+        "answer": "d"
+    },
+    {
         "question_id": 160,
-        "question": "If the Mayans had abandoned dynastic politics earlier, their regional collapse would have occurred at the same pace.",
+        "question": "If dynastic recalibration depended less on ceremonial legitimacy than assumed, the eventual macro-scale decline unfolds along the same approximate timeline.",
         "type": "T/F",
         "options": {
             "a": "True",

@@ -881,19 +881,19 @@
     },
     {
         "question_id": 81,
-        "question": "Modern fears that AI could destabilize global markets echo which historical scenario where innovation outpaced regulation, but only indirectly influenced financial collapse?",
+        "question": "Modern fears that AI could destabilize markets resemble several historical episodes where innovation exceeded regulation. Which parallel is MOST structurally accurate *under a narrow definition of asymmetric information amplification*?",
         "type": "MCQ",
         "options": {
-            "a": "The 1907 Bankers’ Panic triggered by trust company rumors",
-            "b": "The invention of the telegraph accelerating speculation",
-            "c": "The South Sea Bubble fueled partly by information asymmetry",
-            "d": "The 1970s stagflation crisis driven by policy misalignment"
+            "a": "The 1907 Bankers’ Panic, where signaling failures triggered liquidity collapse",
+            "b": "Telegraph-induced speculative booms that reshaped commodity timing",
+            "c": "The South Sea Bubble, where informational opacity magnified irrational investment",
+            "d": "1970s stagflation, where policy lag amplified technological and economic shocks"
         },
         "answer": "c"
     },
     {
         "question_id": 82,
-        "question": "Concerns about humans over-relying on AI for decision-making resemble anxieties about early autopilot systems removing pilots’ situational awareness.",
+        "question": "Concerns about over-reliance on AI parallel early autopilot fears, though some argue digital systems were less psychologically intrusive.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -903,19 +903,19 @@
     },
     {
         "question_id": 83,
-        "question": "Which historical event best parallels the ethical dilemma of AI companies training models on public data without explicit consent?",
+        "question": "Which analog BEST captures the ethical dilemma of AI scraping public data without consent, assuming the comparison focuses on *extractive asymmetry rather than simple access violation*?",
         "type": "MCQ",
         "options": {
-            "a": "Colonial appropriation of indigenous cartographic knowledge",
-            "b": "Roman census taxation expansions",
-            "c": "Medieval monasteries copying texts without attribution",
-            "d": "Renaissance scholars collecting folk songs"
+            "a": "Colonial appropriation of indigenous mapping data",
+            "b": "Roman census expansions capturing citizen details",
+            "c": "Monastic reproduction of texts without credit",
+            "d": "Renaissance scholars collecting folk knowledge for publication"
         },
         "answer": "a"
     },
     {
         "question_id": 84,
-        "question": "The global race to develop powerful AI models most closely mirrors earlier geopolitical competitions where speed mattered more than safety.",
+        "question": "The AI capability race resembles earlier geopolitical competitions where speed overtook caution, even though motivations differ.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -925,19 +925,19 @@
     },
     {
         "question_id": 85,
-        "question": "Which past conflict best reflects fears that AI-generated propaganda can rapidly shift public perception in unpredictable ways?",
+        "question": "Fears that AI-generated propaganda can reshape public perception echo many information revolutions. Which analogy is MOST precise in terms of *low-cost, scalable ideological replication*?",
         "type": "MCQ",
         "options": {
-            "a": "Cold War Voice of America broadcasts",
-            "b": "The speed of telegraph-enabled rumor cascades during the Civil War",
-            "c": "World War II Operation Myth efforts",
-            "d": "Renaissance pamphlet wars between political factions"
+            "a": "Cold War Voice of America psychological broadcasting",
+            "b": "Civil War telegraph rumor cascades altering battlefield expectations",
+            "c": "World War II strategic myth-making campaigns",
+            "d": "Renaissance partisan pamphlet explosions reshaping civic narratives"
         },
         "answer": "d"
     },
     {
         "question_id": 86,
-        "question": "Today's fear of AI-driven legal errors parallels early concerns that telegraph operators could distort legal instructions through misinterpretation.",
+        "question": "Both AI legal tools and telegraph intermediaries historically introduced subtle distortions that appeared authoritative.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -947,19 +947,19 @@
     },
     {
         "question_id": 87,
-        "question": "The risk of AI systems 'overfitting' moral norms resembles which historical tendency toward rigid but flawed measurement?",
+        "question": "AI’s tendency to encode biased structures resembles which historical mismeasurement most closely *in terms of systematized pseudoscientific justification*?",
         "type": "MCQ",
         "options": {
-            "a": "The French government's early failures with the metric system",
-            "b": "Medieval weight stones varying regionally",
-            "c": "Colonial extraction quotas mismeasured by officials",
-            "d": "Phrenology’s pseudo-scientific cranial measurements"
+            "a": "Metric system calibration failures in revolutionary France",
+            "b": "Regional weight-stone inconsistencies in medieval Europe",
+            "c": "Extraction quotas misaligned with colonial reporting incentives",
+            "d": "Phrenology’s cranial classification schemes dressed as objective science"
         },
         "answer": "d"
     },
     {
         "question_id": 88,
-        "question": "Fears that AI could remove human judgment from critical decisions echo earlier anxieties about steamship automation.",
+        "question": "The concern that automation reduces human oversight is historically consistent with fears during the shift to maritime autopilot.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -969,19 +969,19 @@
     },
     {
         "question_id": 89,
-        "question": "Which historical pattern best matches the concern that AI could centralize global power into a few companies?",
+        "question": "AI monopolization fears echo multiple historical consolidations. Which is MOST parallel when considering *corporate–state entanglement and infrastructural dominance*?",
         "type": "MCQ",
         "options": {
-            "a": "The rise of railroad tycoons controlling transportation",
-            "b": "The consolidation of telegraph networks",
-            "c": "The Hanseatic League monopolizing trade",
-            "d": "The British East India Company acting as a quasi-state"
+            "a": "Railroad tycoons who controlled transportation chokepoints",
+            "b": "Telegraph network centralization under a few syndicates",
+            "c": "The Hanseatic League’s control over key trade flows",
+            "d": "The British East India Company functioning as a de facto sovereign"
         },
         "answer": "d"
     },
     {
         "question_id": 90,
-        "question": "The idea that AI-generated 'facts' could overwrite real history resembles the risk seen in state-controlled textbooks during the 20th century.",
+        "question": "AI-generated facts threatening historical accuracy resembles the political weaponization of school textbooks.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -991,19 +991,19 @@
     },
     {
         "question_id": 91,
-        "question": "Concerns that AI might accelerate economic inequality mirror which past event where new technology widened social divides unexpectedly?",
+        "question": "Which precedent MOST precisely mirrors inequality widened by emergent automation, emphasizing *nonlinear displacement*?",
         "type": "MCQ",
         "options": {
-            "a": "The Industrial Revolution’s displacement of artisans",
-            "b": "The introduction of steel plows in agrarian economies",
-            "c": "Colonial railroad expansions",
-            "d": "The mechanization of textile looms"
+            "a": "Industrial mechanization eliminating artisanal craft",
+            "b": "Steel plow adoption restructuring agrarian labor",
+            "c": "Railroad expansion entrenching colonial logistics",
+            "d": "Textile looms centralizing production capacity"
         },
         "answer": "a"
     },
     {
         "question_id": 92,
-        "question": "AI's potential to influence judicial outcomes parallels fears around early forensic science being treated as infallible.",
+        "question": "AI in judicial settings shares risk traits with early forensic technologies judged as infallible.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1013,19 +1013,19 @@
     },
     {
         "question_id": 93,
-        "question": "Which historical precedent best captures the worry that AI lab breakthroughs remain secretive among elite developers?",
+        "question": "Which example BEST parallels secrecy in frontier AI labs, assuming secrecy pertains to *strategic capability concentration* rather than mere privacy?",
         "type": "MCQ",
         "options": {
-            "a": "The classified Manhattan Project",
-            "b": "Medieval alchemists hoarding transmutation methods",
-            "c": "Cold War cryptography research",
-            "d": "Renaissance court astronomers hiding celestial predictions"
+            "a": "The Manhattan Project restricting nuclear research",
+            "b": "Alchemists guarding transmutation processes",
+            "c": "Cold War cryptographic black-budget labs",
+            "d": "Royal astronomers shielding celestial predictions"
         },
         "answer": "a"
     },
     {
         "question_id": 94,
-        "question": "The debate over whether AI can be 'aligned' with human values resembles past attempts to enforce universal moral standards.",
+        "question": "Efforts to align AI with human values echo past attempts to codify universal moral norms.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1035,19 +1035,19 @@
     },
     {
         "question_id": 95,
-        "question": "The fear that AI might produce authoritative-sounding misinformation matches which historical information crisis?",
+        "question": "Which analogy BEST captures the risk of AI spreading convincing misinformation, constrained by the idea of *institutionally validated falsity*?",
         "type": "MCQ",
         "options": {
-            "a": "The forged Donation of Constantine",
-            "b": "The wheat-hoarding rumors during Roman grain shortages",
-            "c": "False navigational charts during the Age of Exploration",
-            "d": "Victorian spiritualist séances exploiting the telegraph"
+            "a": "The forged Donation of Constantine shaping medieval authority",
+            "b": "Rumors during Roman grain crises destabilizing trust",
+            "c": "False navigational charts influencing trade routes",
+            "d": "Victorian séances exploiting telegraph mystique"
         },
         "answer": "a"
     },
     {
         "question_id": 96,
-        "question": "Concerns about AI controlling critical infrastructure echo 20th-century worries about cyber-physical SCADA systems.",
+        "question": "AI-driven infrastructure automation parallels earlier concerns over SCADA systems and physical control loops.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1057,19 +1057,19 @@
     },
     {
         "question_id": 97,
-        "question": "Which past clash best reflects fears that AI-generated political messaging can bypass rational debate entirely?",
+        "question": "Which analogy MOST effectively matches the speed and emotional bypassing of AI-driven political messaging?",
         "type": "MCQ",
         "options": {
-            "a": "Renaissance propaganda via woodcut caricatures",
-            "b": "The radio-driven mass mobilization of the 1930s",
-            "c": "Telegraph-enabled mass rumor cascades",
-            "d": "Medieval church edicts delivered by traveling preachers"
+            "a": "Woodcut caricatures influencing Renaissance elites",
+            "b": "Radio-enabled mass mobilization in the 1930s",
+            "c": "Telegraph rumor networks during war",
+            "d": "Traveling preachers delivering royal edicts"
         },
         "answer": "b"
     },
     {
         "question_id": 98,
-        "question": "The idea that AI might 'escape control' echoes fears surrounding early laboratory-engineered microbes leaking containment.",
+        "question": "AI escaping intended constraints parallels concerns from early containment breaches in biological labs.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1079,19 +1079,19 @@
     },
     {
         "question_id": 99,
-        "question": "AI-driven optimization of supply chains reflects which earlier technological leap that inadvertently caused national dependencies?",
+        "question": "Which historic transformation BEST parallels AI-optimized supply chains creating fragile global dependencies?",
         "type": "MCQ",
         "options": {
-            "a": "The spread of container shipping",
-            "b": "Railroad standardization",
-            "c": "Telegraph-synchronized commodity exchanges",
-            "d": "Steamship transit monopolies"
+            "a": "Container shipping reshaping intermodal transport",
+            "b": "Railroad standardization creating logistical lock-in",
+            "c": "Telegraph-synchronized exchanges accelerating commodity cycles",
+            "d": "Steamship monopolies dictating trade flows"
         },
         "answer": "c"
     },
     {
         "question_id": 100,
-        "question": "Fears that AI might select leaders based on manipulated metrics parallel historical reliance on dubious 'scientific' measurements like phrenology.",
+        "question": "Fears about AI selecting leaders resemble past reliance on pseudoscience like phrenology to assess competence.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1101,19 +1101,19 @@
     },
     {
         "question_id": 101,
-        "question": "Modern concerns about AI-enabled authoritarianism most closely resemble which historical concentration of informational power?",
+        "question": "Which information monopoly MOST closely resembles frontier AI power concentration, considering *surveillance-to-governance pipelines*?",
         "type": "MCQ",
         "options": {
-            "a": "Roman emperors controlling public granaries",
-            "b": "The papacy monopolizing literacy",
-            "c": "The KGB’s surveillance intelligence monopoly",
-            "d": "Colonial governors filtering newspapers"
+            "a": "Roman grain records",
+            "b": "The papacy’s monopoly on literacy",
+            "c": "The KGB’s state intelligence monopoly",
+            "d": "Colonial newspaper regulation"
         },
         "answer": "c"
     },
     {
         "question_id": 102,
-        "question": "The possibility that AI-generated materials overwrite cultural memory echoes colonial practices of replacing indigenous histories.",
+        "question": "AI overwriting cultural memory echoes colonial suppression of indigenous historical narratives.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1123,19 +1123,19 @@
     },
     {
         "question_id": 103,
-        "question": "Which historical shift best parallels the fear that AI-driven automation may eliminate entire professions unpredictably?",
+        "question": "Which analogy BEST fits the risk that AI eliminates entire professions via *nonlinear multiplicative displacement*?",
         "type": "MCQ",
         "options": {
-            "a": "The disappearance of scribes after the printing press",
-            "b": "The decline of cavalry units in WWI",
-            "c": "The automation of textile mills",
-            "d": "The collapse of lamplighter jobs after electrification"
+            "a": "Scribes vanishing after the printing press",
+            "b": "Cavalry rendered obsolete by mechanized warfare",
+            "c": "Factories reducing artisan textile work",
+            "d": "Electricity displacing lamplighters"
         },
         "answer": "a"
     },
     {
         "question_id": 104,
-        "question": "The concern that AI may worsen global inequality resembles the uneven effects of the Green Revolution in the 20th century.",
+        "question": "AI worsening inequality parallels how the Green Revolution unevenly advantaged capital-rich regions.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1145,19 +1145,19 @@
     },
     {
         "question_id": 105,
-        "question": "Which precedence best matches the concern that AI models reflect and amplify hidden biases?",
+        "question": "Which ideology BEST mirrors AI embedding hidden biases, if we focus on *scientific legitimacy used to mask structural prejudice*?",
         "type": "MCQ",
         "options": {
-            "a": "Industrial-era standardized test discrimination",
-            "b": "The biased facial measurements of Victorian crime science",
-            "c": "Colonial census categorizations",
-            "d": "Phrenological criminal profiling"
+            "a": "Standardized test bias",
+            "b": "Victorian facial ratio criminology",
+            "c": "Colonial census identity distortions",
+            "d": "Phrenological crime prediction models"
         },
         "answer": "d"
     },
     {
         "question_id": 106,
-        "question": "Early nuclear command systems requiring machine-like precision foreshadow concerns about AI-style automation risks.",
+        "question": "Early nuclear command systems requiring computational precision foreshadow modern AI automation concerns.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1167,19 +1167,19 @@
     },
     {
         "question_id": 107,
-        "question": "The fear that only a few nations might control frontier AI systems resembles which earlier technological monopoly?",
+        "question": "Which monopoly BEST resembles AI capability restriction based on legal export controls and knowledge bottlenecks?",
         "type": "MCQ",
         "options": {
-            "a": "Britain’s early industrial machinery secrecy laws",
-            "b": "Roman road-building monopoly",
-            "c": "Hanseatic grain logistics",
-            "d": "Ottoman control of silk roads"
+            "a": "British secrecy around industrial machinery",
+            "b": "Roman road engineering knowledge",
+            "c": "Hanseatic grain transport",
+            "d": "Ottoman silk-route choke-points"
         },
         "answer": "a"
     },
     {
         "question_id": 108,
-        "question": "AI’s risk of producing confident but false reasoning mirrors the hazard of early navigational charts that blended fact and myth.",
+        "question": "AI hallucination risk parallels early navigational charts that mixed fact and legend.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1189,19 +1189,19 @@
     },
     {
         "question_id": 109,
-        "question": "Which historical case best parallels concerns about AI systems silently drifting from intended behavior?",
+        "question": "Which analogy BEST matches AI systems drifting from intended behavior due to *subsurface classification instability*?",
         "type": "MCQ",
         "options": {
-            "a": "Mechanical looms drifting tension over time",
-            "b": "Astronomical tables accumulating rounding errors",
-            "c": "Nuclear missile early-warning computers misclassifying phenomena",
-            "d": "Scribe transcription errors in medieval manuscripts"
+            "a": "Mechanical loom tension drift",
+            "b": "Astronomical rounding drift",
+            "c": "Cold War missile-warning misclassifications",
+            "d": "Medieval manuscript transcription drift"
         },
         "answer": "c"
     },
     {
         "question_id": 110,
-        "question": "The belief that AI can become a single point of failure echoes the fragility of centralized telegraph networks.",
+        "question": "AI becoming a single point of failure echoes telegraph centralization vulnerabilities.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1211,19 +1211,19 @@
     },
     {
         "question_id": 111,
-        "question": "Concerns about AI selecting information to show people resemble which earlier gatekeeping institution?",
+        "question": "Which historical gatekeeper MOST resembles AI algorithms filtering information based on *invisible prioritization logic*?",
         "type": "MCQ",
         "options": {
-            "a": "Renaissance library curators",
-            "b": "Monastic scriptoria deciding which works to copy",
-            "c": "Feudal heraldic registrars",
-            "d": "Colonial stamp taxes"
+            "a": "Renaissance bibliographers determining canonical works",
+            "b": "Monastic scriptoria copying selective manuscripts",
+            "c": "Heraldic offices validating noble descent",
+            "d": "Colonial stamp legislation steering publication flows"
         },
         "answer": "b"
     },
     {
         "question_id": 112,
-        "question": "The idea that AI-generated media could 'overwrite reality' reflects worries about early photography replacing traditional eyewitness credibility.",
+        "question": "The idea that AI-generated visuals override reality echoes controversies over early photography replacing eyewitness experience.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1233,19 +1233,19 @@
     },
     {
         "question_id": 113,
-        "question": "Which phenomenon best mirrors the concern that AI can replicate but not truly understand human concepts?",
+        "question": "Which phenomenon MOST closely parallels AI producing fluent responses without true understanding?",
         "type": "MCQ",
         "options": {
-            "a": "Mechanical turk illusions of cognition",
-            "b": "Renaissance automaton toys",
-            "c": "Victorian séance table-rapping",
-            "d": "Early telephone operators mimicking accents"
+            "a": "Mechanical Turk exhibitions",
+            "b": "Renaissance automata mimicking life",
+            "c": "Victorian séance table-rapping illusions",
+            "d": "Telephone operators mimicking regional accents"
         },
         "answer": "a"
     },
     {
         "question_id": 114,
-        "question": "Modern fear of AI 'hallucinations' mirrors earlier confusion caused by unreliable telegraph signals in wartime.",
+        "question": "AI hallucinations resemble wartime telegraph errors propagating unverified messages.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1255,19 +1255,19 @@
     },
     {
         "question_id": 115,
-        "question": "Which historical disruption best parallels today’s rapid rise of AI-generated literature?",
+        "question": "Which historical event is MOST similar to AI-generated literature in terms of *volume-driven narrative dilution*?",
         "type": "MCQ",
         "options": {
-            "a": "Mass printing of chapbooks in early modern Europe",
-            "b": "The spread of penny dreadfuls",
-            "c": "The sudden affordability of newspapers in the 19th century",
-            "d": "The invention of the typewriter increasing administrative writing"
+            "a": "Early modern chapbook floods",
+            "b": "Penny dreadful proliferation",
+            "c": "Cheap newspaper surges",
+            "d": "Typewriter-driven bureaucracy expansion"
         },
         "answer": "b"
     },
     {
         "question_id": 116,
-        "question": "Concerns that AI could replace democratic deliberation echo early worries that radio would create a mass political hive mind.",
+        "question": "Fears that AI may replace deliberation echo radio-era concerns about mass political synchronization.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1277,19 +1277,19 @@
     },
     {
         "question_id": 117,
-        "question": "Which analogy best fits the global concern that AI labs might trigger escalation by racing for capability?",
+        "question": "Which escalation dynamic MOST accurately parallels frontier AI development, under criteria of *capability pressure + signaling risk*?",
         "type": "MCQ",
         "options": {
-            "a": "The dreadnought naval arms race",
-            "b": "Mercantilist gold accumulation",
-            "c": "The spread of gunpowder",
-            "d": "Renaissance architectural rivalries"
+            "a": "Dreadnought naval acceleration",
+            "b": "Mercantilist bullion stockpiling",
+            "c": "Gunpowder proliferation across kingdoms",
+            "d": "Renaissance architectural competitions"
         },
         "answer": "a"
     },
     {
         "question_id": 118,
-        "question": "The idea that AI requires vast hidden labor resembles controversies around garment sweatshops supporting 'automated' fashion industries.",
+        "question": "The hidden labor required for AI resembles outsourced human labor behind ‘automated’ supply chains.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1299,19 +1299,19 @@
     },
     {
         "question_id": 119,
-        "question": "Which past issue best parallels the fear that AI-generated code could create vulnerabilities unnoticed by humans?",
+        "question": "Which analogy BEST represents AI-generated code introducing subtle vulnerabilities hard for humans to spot, under a criterion of *deep cryptographic invisibility*?",
         "type": "MCQ",
         "options": {
-            "a": "Early software buffer overflow exploits",
-            "b": "Mechanical voting-machine miscounts",
-            "c": "Hidden backdoors in WWII cipher machines",
-            "d": "Faulty vacuum tubes in early computing rooms"
+            "a": "Early buffer overflow exploits",
+            "b": "Mechanical voting irregularities",
+            "c": "Hidden backdoors in WWII cipher devices",
+            "d": "Vacuum tube failures in early computers"
         },
         "answer": "c"
     },
     {
         "question_id": 120,
-        "question": "AI’s capability to produce false but emotionally persuasive narratives resembles Cold War propaganda that blended partial truths with fiction.",
+        "question": "AI generating emotionally persuasive falsehoods parallels Cold War propaganda blending truth and constructed narrative.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1321,19 +1321,19 @@
     },
     {
         "question_id": 121,
-        "question": "Modern arguments that AI will undermine democratic institutions echo which historical moment where information control shifted faster than governance could adapt, but only after elites underestimated its impact?",
+        "question": "Modern arguments that AI could destabilize democratic institutions resemble several earlier disruptions. Which historical moment is MOST analogous if the emphasis is on the sudden centralization of informational power rather than ideological content?",
         "type": "MCQ",
         "options": {
-            "a": "The rise of radio before regulatory frameworks",
-            "b": "The spread of medieval vernacular Bible translations",
-            "c": "The East India Company introducing printing in Bengal",
-            "d": "The unchecked expansion of telegraph syndicates"
+            "a": "The rise of commercial radio reshaping political persuasion",
+            "b": "The spread of vernacular Bible translations undermining elite gatekeeping",
+            "c": "Telegraph monopolies redefining government communication channels",
+            "d": "The East India Company’s print control in colonial Bengal"
         },
-        "answer": "d"
+        "answer": "c"
     },
     {
         "question_id": 122,
-        "question": "Concerns that AI will automate moral judgment resemble early anxieties that statistical policing methods would replace human intuition.",
+        "question": "Concerns that AI automates moral reasoning parallel anxieties about early statistical policing models replacing intuition.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1343,19 +1343,19 @@
     },
     {
         "question_id": 123,
-        "question": "Which historical dynamic best parallels fears that AI-generated content could overwhelm authentic cultural expression?",
+        "question": "Fears that AI-generated media will drown out authentic cultural expression mirror several past shifts. Which is MOST accurate if the focus is on homogenization via centralized curriculum rather than economic efficiency?",
         "type": "MCQ",
         "options": {
-            "a": "The flood of industrially printed novels in the late 19th century",
-            "b": "The mass production of religious tracts",
-            "c": "The cultural flattening caused by standardized schooling systems",
-            "d": "The dominance of Hollywood over regional cinemas"
+            "a": "Industrial-era novel printing lowering entry barriers",
+            "b": "Mass-produced religious pamphlets crowding out local traditions",
+            "c": "Standardized schooling erasing regional languages and practices",
+            "d": "Hollywood cultural dominance shaping global storytelling norms"
         },
         "answer": "c"
     },
     {
         "question_id": 124,
-        "question": "The idea that AI will create irreversible dependency mirrors critiques of early mechanization in agriculture.",
+        "question": "Claims that AI creates irreversible dependence resemble critiques of early agricultural mechanization reducing local resilience.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1365,19 +1365,19 @@
     },
     {
         "question_id": 125,
-        "question": "Which scenario most closely resembles the modern fear that AI companies will hoard compute and knowledge as strategic leverage?",
+        "question": "AI companies hoarding compute and models as strategic leverage resembles many secrecy regimes. Which analogy is MOST precise when focusing on legal enforcement of technology export controls?",
         "type": "MCQ",
         "options": {
-            "a": "The Venetian glassmakers restricting trade secrets",
-            "b": "The Ottoman Empire limiting access to firearms",
-            "c": "The British enforcing textile machinery export bans",
-            "d": "The Japanese Tokugawa shogunate restricting foreign knowledge"
+            "a": "Venetian glassmakers guarding furnace designs",
+            "b": "Ottoman limitations on firearm imports",
+            "c": "British bans on exporting textile machinery",
+            "d": "Tokugawa Japan restricting foreign knowledge circulation"
         },
         "answer": "c"
     },
     {
         "question_id": 126,
-        "question": "The belief that AI might entrench biased worldviews parallels early textbook controversies over nationalist interpretation.",
+        "question": "AI tools reinforcing implicit biases resembles how nationalist textbooks once standardized selective historical narratives.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1387,19 +1387,19 @@
     },
     {
         "question_id": 127,
-        "question": "The escalating competition between AI labs is most analogous to which arms race where speed mutated strategy faster than ethics could catch up?",
+        "question": "The competitive race between AI labs resembles various arms races. Which example is MOST structurally similar when considering capability signaling and speed-induced instability?",
         "type": "MCQ",
         "options": {
-            "a": "The Cold War missile gap panic",
-            "b": "The dreadnought naval race",
-            "c": "The Peloponnesian War trireme expansions",
-            "d": "The race for chemical weapons in WWI"
+            "a": "Cold War missile-gap escalation",
+            "b": "The dreadnought naval arms race",
+            "c": "Peloponnesian naval fleet competitions",
+            "d": "The emergence of chemical weapons in WWI"
         },
         "answer": "b"
     },
     {
         "question_id": 128,
-        "question": "AI's ability to fabricate ‘evidence’ without malicious intent mirrors the unreliability of early forensic photography.",
+        "question": "AI fabricating false evidence unintentionally mirrors the early misuse of forensic photography as unquestioned proof.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1409,19 +1409,19 @@
     },
     {
         "question_id": 129,
-        "question": "Which precedent best maps onto fears that AI-generated scientific research could dilute the reliability of scientific consensus?",
+        "question": "AI-generated research papers diluting scientific consensus resemble various knowledge crises. Which analogy is MOST applicable if the emphasis is on unreviewed mass publication?",
         "type": "MCQ",
         "options": {
-            "a": "The replication crisis in early experimental psychology",
-            "b": "The Ptolemaic model surviving due to institutional inertia",
-            "c": "The sudden explosion of amateur naturalists in the 18th century",
-            "d": "The proliferation of poorly reviewed medical pamphlets"
+            "a": "Early replication problems in psychology",
+            "b": "Persistence of the Ptolemaic model due to academic inertia",
+            "c": "18th-century amateur naturalists overwhelming expert taxonomies",
+            "d": "Proliferation of unregulated medical pamphlets"
         },
         "answer": "d"
     },
     {
         "question_id": 130,
-        "question": "The worry that AI-generated persuasive media will erode shared reality echoes concerns about televised political advertising.",
+        "question": "AI-generated persuasive media undermining shared reality parallels mid-century fears about televised political manipulation.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1431,19 +1431,19 @@
     },
     {
         "question_id": 131,
-        "question": "Which event best parallels the concern that AI-driven platforms will algorithmically sideline minority voices?",
+        "question": "AI platforms unintentionally suppressing minority voices resembles several moments of linguistic or cultural erasure. Which is MOST accurate when considering top-down broadcast standardization?",
         "type": "MCQ",
         "options": {
-            "a": "The disappearance of minority dialects after radio standardization",
-            "b": "The Church suppressing heterodox medieval writings",
-            "c": "Colonial linguistic assimilation through mission schools",
-            "d": "The displacement of regional presses by national newspapers"
+            "a": "Minority dialects disappearing with national radio standards",
+            "b": "Church censorship of unorthodox medieval texts",
+            "c": "Mission schools reducing indigenous linguistic diversity",
+            "d": "National newspapers overtaking local presses"
         },
         "answer": "a"
     },
     {
         "question_id": 132,
-        "question": "AI’s vulnerability to subtle input manipulation resembles the instability of early encryption machines exposed by manual operator biases.",
+        "question": "AI's vulnerability to subtle prompt manipulation resembles early encryption machines failing due to operator-induced pattern biases.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1453,19 +1453,19 @@
     },
     {
         "question_id": 133,
-        "question": "Which phenomenon most closely mirrors the risk that AI alignment solutions themselves evolve unexpected failure modes?",
+        "question": "AI alignment approaches developing unexpected failure modes mirrors various feedback-driven instabilities. Which is MOST structurally comparable in terms of runaway oscillation?",
         "type": "MCQ",
         "options": {
-            "a": "Early nuclear fail-safe systems misfiring under stress",
-            "b": "Steam engine governors oscillating unpredictably",
-            "c": "Automatic railway brakes malfunctioning in cold weather",
-            "d": "Feedback loops destabilizing early radio amplification"
+            "a": "Nuclear failsafe misfires during stress tests",
+            "b": "Steam-engine governors oscillating under high load",
+            "c": "Railway brake failures in cold conditions",
+            "d": "Unstable radio amplification loops"
         },
         "answer": "b"
     },
     {
         "question_id": 134,
-        "question": "The idea that AI-generated data could become a single point of truth recalls concerns about centralized encyclopedias becoming de facto authorities.",
+        "question": "AI-generated data becoming ‘the authoritative source’ mirrors concerns about centralized encyclopedias shaping assumed truths.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1475,19 +1475,19 @@
     },
     {
         "question_id": 135,
-        "question": "Which historical case best matches the fear that AI-assisted warfare will make escalation too fast for diplomacy to intervene?",
+        "question": "AI-assisted warfare escalating too quickly for human intervention resembles several historical crises. Which is MOST comparable when emphasizing automation-induced misclassification risk?",
         "type": "MCQ",
         "options": {
-            "a": "Telegraph-enabled mobilization in WWI",
-            "b": "Blitzkrieg lightning warfare",
-            "c": "The Cuban Missile Crisis’ real-time decisions",
-            "d": "Automated early-warning radar systems misclassifying objects"
+            "a": "Telegraph-enabled rapid mobilization in WWI",
+            "b": "Blitzkrieg's speed compressing decision windows",
+            "c": "The Cuban Missile Crisis' real-time brinkmanship",
+            "d": "Automated early-warning radar misidentifications"
         },
         "answer": "d"
     },
     {
         "question_id": 136,
-        "question": "The belief that AI-driven efficiency metrics can distort human priorities resembles early corporate adoption of Taylorist scientific management.",
+        "question": "AI optimizing human work metrics to the point of distortion recalls early concerns around Taylorist scientific management.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1497,19 +1497,19 @@
     },
     {
         "question_id": 137,
-        "question": "Which analogy best captures fears about AI eliminating the tacit knowledge behind creative or strategic work?",
+        "question": "AI replacing tacit expertise resembles many losses of embodied knowledge. Which is MOST analogous given the combination of secrecy + dispossession?",
         "type": "MCQ",
         "options": {
-            "a": "The decline of medieval guild secrets after mechanization",
-            "b": "The replacement of horse archers by gunpowder units",
-            "c": "The loss of Polynesian navigation techniques under colonial rule",
-            "d": "The overshadowing of manuscript illumination by printing presses"
+            "a": "Guild secrets dissolving during mechanization",
+            "b": "Gunpowder displacing military horsemanship",
+            "c": "Colonial suppression of Polynesian navigation expertise",
+            "d": "Printing eclipsing manuscript illumination arts"
         },
         "answer": "a"
     },
     {
         "question_id": 138,
-        "question": "The fear that AI will produce authoritative nonsense echoes how early telegraph errors often spread without verification.",
+        "question": "AI hallucinations reflect the unverified propagation of telegraph errors during wartime communications.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1519,19 +1519,19 @@
     },
     {
         "question_id": 139,
-        "question": "Which scenario best parallels concerns that AI-generated models will be treated as objective truth even when structurally biased?",
+        "question": "AI models treated as objective truth despite structural biases resemble numerous past scientific tools misused as neutral. Which example MOST aligns with this logic?",
         "type": "MCQ",
         "options": {
-            "a": "19th-century anthropometric measurements used for policing",
-            "b": "The Pythagorean cult elevating numbers above observation",
-            "c": "The unquestioned use of standardized tests in early education",
-            "d": "Colonial administrators treating census categories as real identities"
+            "a": "Anthropometric policing in the 19th century",
+            "b": "Pythagorean numerology elevating abstraction above reality",
+            "c": "Standardized tests used as universal aptitude indicators",
+            "d": "Colonial census categories shaping identities as 'real'"
         },
         "answer": "d"
     },
     {
         "question_id": 140,
-        "question": "AI’s dependence on massive training datasets parallels how early statistics required large but flawed population samples.",
+        "question": "AI’s reliance on massive datasets mirrors early population statistics requiring large but flawed samples.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1541,19 +1541,19 @@
     },
     {
         "question_id": 141,
-        "question": "The worry that AI-generated governance recommendations could override public opinion mirrors which technocratic moment?",
+        "question": "AI-generated policy recommendations overriding public sentiment resembles technocratic eras. Which example BEST captures reliance on system-level modeling over human input?",
         "type": "MCQ",
         "options": {
-            "a": "Progressive Era urban planning boards",
-            "b": "Cold War systems analysis in defense strategy",
-            "c": "19th-century sanitary commissions",
-            "d": "European central banking policies in the 1990s"
+            "a": "Progressive urban planning boards",
+            "b": "Cold War systems analysis shaping defense doctrine",
+            "c": "Sanitary commissions dictating urban reforms",
+            "d": "European monetary technocracy in the 1990s"
         },
         "answer": "b"
     },
     {
         "question_id": 142,
-        "question": "The idea that AI might erase human interpretive diversity resembles the decline of oral traditions after literacy became widespread.",
+        "question": "AI narrowing interpretive diversity resembles how widespread literacy diminished oral tradition variability.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1563,19 +1563,19 @@
     },
     {
         "question_id": 143,
-        "question": "Which phenomenon best reflects the concern that AI-generated policy simulations might obscure real human stakes?",
+        "question": "AI-generated policy simulations hiding real human consequences resemble past modeling overreach. Which analogy is MOST specific to abstraction overshadowing humanity?",
         "type": "MCQ",
         "options": {
-            "a": "Cold War game-theoretic modeling replacing qualitative diplomacy",
-            "b": "19th-century actuarial tables driving social insurance policies",
-            "c": "Economic models guiding IMF structural adjustments",
-            "d": "Automated traffic modeling shaping urban road networks"
+            "a": "Cold War game theory overshadowing diplomacy",
+            "b": "Actuarial tables guiding early social insurance",
+            "c": "IMF economic models shaping national policies",
+            "d": "Traffic simulation shaping urban road networks"
         },
         "answer": "a"
     },
     {
         "question_id": 144,
-        "question": "AI's potential to amplify extreme but coherent narratives parallels the way early radio gave fringe voices national reach.",
+        "question": "AI amplifying extreme narratives resembles early radio boosting fringe voices to national prominence.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1585,19 +1585,19 @@
     },
     {
         "question_id": 145,
-        "question": "Which past transformation best parallels fears that AI-integrated workplaces will deskill humans over time?",
+        "question": "AI reducing human skill over time resembles numerous technological deskilling events. Which is MOST comparable when considering cognitive outsourcing?",
         "type": "MCQ",
         "options": {
-            "a": "The decline of navigators after GPS adoption",
-            "b": "The mechanization of textile production",
-            "c": "The decline of blacksmith craft after mass manufacturing",
-            "d": "The replacement of map-reading with automated routing"
+            "a": "Navigators losing map skills after GPS",
+            "b": "Mechanization replacing textile artisans",
+            "c": "Blacksmiths disappearing after mass manufacturing",
+            "d": "Manual map-reading replaced by automated routing"
         },
         "answer": "a"
     },
     {
         "question_id": 146,
-        "question": "AI’s reliance on fragile optimization resembles how early stock market algorithms destabilized trading.",
+        "question": "AI’s optimization fragility resembles the market volatility introduced by early computerized trading.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1607,19 +1607,19 @@
     },
     {
         "question_id": 147,
-        "question": "Which historical analogy best fits the fear that AI will funnel global culture into homogenized patterns?",
+        "question": "AI homogenizing global culture resembles many historical unifications. Which analogy is MOST apt when considering systemic cultural replacement rather than simple influence?",
         "type": "MCQ",
         "options": {
-            "a": "Hollywood reshaping global movie markets",
+            "a": "Hollywood globalizing cinematic norms",
             "b": "Colonial textbook standardization",
-            "c": "Romanization erasing local traditions",
-            "d": "Religious uniformity enforced by empires"
+            "c": "Romanization erasing regional traditions",
+            "d": "Imperial religious uniformity campaigns"
         },
         "answer": "c"
     },
     {
         "question_id": 148,
-        "question": "The notion that AI super-scaling will create unpredictable phase shifts resembles the chaos introduced by early networked computers interacting unintentionally.",
+        "question": "Unpredictable shifts in AI scaling resemble emergent behaviors observed in early networked computer clusters.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1629,19 +1629,19 @@
     },
     {
         "question_id": 149,
-        "question": "Which historical moment most parallels the concern that AI may replace expert judgment but retain superficial expertise?",
+        "question": "AI appearing to possess expertise without grounding resembles multiple shallow-knowledge phenomena. Which is MOST analogous?",
         "type": "MCQ",
         "options": {
-            "a": "Napoleonic codification overshadowing local jurisprudence",
-            "b": "The rise of standardized testing replacing teacher assessment",
-            "c": "The early mechanical Turk exhibitions",
-            "d": "Victorian clerks replacing traditional accountants"
+            "a": "Napoleonic codes overshadowing local customs",
+            "b": "Standardized tests replacing teacher assessments",
+            "c": "Mechanical Turk illusions of intelligence",
+            "d": "Clerks replacing skilled bookkeepers"
         },
         "answer": "c"
     },
     {
         "question_id": 150,
-        "question": "AI-induced polarization resembles earlier concerns that mass printing would fragment religious unity.",
+        "question": "AI-driven polarization mirrors early fears that cheap mass printing would fracture religious unity.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1651,19 +1651,19 @@
     },
     {
         "question_id": 151,
-        "question": "Which scenario best matches the worry that AI-generated predictive policing may reinforce past injustices?",
+        "question": "Predictive policing trained on biased AI outputs echoes previous moments when analytic tools reproduced inequality. Which is MOST similar if the emphasis is on pseudo-scientific legitimacy?",
         "type": "MCQ",
         "options": {
-            "a": "Colonial census misclassification creating biased legal categories",
-            "b": "Victorian policing guided by pseudo-scientific crime maps",
-            "c": "The FBI’s COINTELPRO targeting heuristics",
-            "d": "The use of race science in early criminology"
+            "a": "Colonial census categories forming rigid identities",
+            "b": "Victorian crime maps projecting stereotypes",
+            "c": "COINTELPRO heuristics targeting dissidents",
+            "d": "Race-science criminology validating discrimination"
         },
         "answer": "d"
     },
     {
         "question_id": 152,
-        "question": "Concern that AI-created agents may act autonomously echoes worries about runaway automated trading systems.",
+        "question": "Concerns about AI agents acting without supervision resemble runaway automated trading systems in financial markets.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1673,19 +1673,19 @@
     },
     {
         "question_id": 153,
-        "question": "Which historical dynamic best resembles the risk that AI can be subtly repurposed by insiders without external visibility?",
+        "question": "AI being covertly modified by insiders resembles historical manipulation of secret systems. Which analogy is MOST technically accurate regarding internal pipeline alterations?",
         "type": "MCQ",
         "options": {
-            "a": "Cryptographers modifying cipher machines",
-            "b": "Court astrologers manipulating predictions",
-            "c": "Cold War intelligence analysts altering data pipelines",
-            "d": "Monastic scribes inserting theological corrections"
+            "a": "Cryptographers tweaking cipher machines for advantage",
+            "b": "Court astrologers adjusting predictions to suit rulers",
+            "c": "Cold War analysts altering classified data streams",
+            "d": "Monastic scribes inserting doctrinal edits"
         },
         "answer": "c"
     },
     {
         "question_id": 154,
-        "question": "The risk of AI-generated legal drafts becoming authoritative without oversight mirrors how boilerplate contracts standardized without public input.",
+        "question": "AI-generated legal drafts becoming authoritative without review echoes how boilerplate contracts quietly standardized legal norms.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1695,19 +1695,19 @@
     },
     {
         "question_id": 155,
-        "question": "Which past evolution best parallels fears that AI personal assistants will modulate human behavior without explicit consent?",
+        "question": "AI assistants shaping human behavior aligns with several historical shifts. Which analogy is MOST aligned when focusing on attention-modulation rather than persuasion?",
         "type": "MCQ",
         "options": {
-            "a": "Radio-era psychological advertising",
-            "b": "Cold War subliminal messaging research",
-            "c": "Smartphone notification design shaping attention",
-            "d": "Behaviorist education reforms"
+            "a": "Radio-era psychological advertisements",
+            "b": "Cold War subliminal messaging fears",
+            "c": "Smartphone notification loops training user behavior",
+            "d": "Behaviorist educational reforms"
         },
         "answer": "c"
     },
     {
         "question_id": 156,
-        "question": "AI likely accelerating decision cycles beyond human oversight recalls early automation in nuclear command workflows.",
+        "question": "AI accelerating decision cycles beyond human comprehension mirrors early nuclear command workflow automation risks.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1717,19 +1717,19 @@
     },
     {
         "question_id": 157,
-        "question": "Which scenario most closely reflects concerns that AI self-improvement loops may create untrackable model drift?",
+        "question": "AI self-improvement loops creating untrackable model drift resemble various runaway self-modifying systems. Which analogy is MOST literal?",
         "type": "MCQ",
         "options": {
-            "a": "Recursive errors in medieval astronomical tables",
-            "b": "Unsupervised adjustments in early autopilot systems",
-            "c": "Feedback cascades in analog radio transmitters",
-            "d": "Self-modifying boot-sector viruses"
+            "a": "Astronomical tables accumulating recursive errors",
+            "b": "Autopilot systems adjusting parameters without notice",
+            "c": "Radio feedback cascades causing nonlinear distortions",
+            "d": "Self-modifying early computer viruses altering boot sectors"
         },
         "answer": "d"
     },
     {
         "question_id": 158,
-        "question": "AI’s potential to produce flawless but deceptive simulations mirrors the manipulative realism of mid-20th century psychological warfare films.",
+        "question": "AI producing realistic but deceptive simulations mirrors Cold War-era psychological warfare films blending documentary techniques with fiction.",
         "type": "T/F",
         "options": {
             "a": "True",
@@ -1739,19 +1739,459 @@
     },
     {
         "question_id": 159,
-        "question": "Which historical transformation best parallels fears that AI-founded institutions could outlive human intentions?",
+        "question": "AI-created institutions outliving human intent resembles many bureaucratic evolutions. Which example is MOST structurally analogous when considering legal personhood rather than custom?",
         "type": "MCQ",
         "options": {
-            "a": "Church bureaucracies surviving centuries unchanged",
-            "b": "Imperial civil services outlasting rulers",
-            "c": "Corporations gaining legal personhood",
-            "d": "University academies entrenching medieval curricula"
+            "a": "Religious institutions surviving for centuries",
+            "b": "Imperial civil services persisting across regimes",
+            "c": "Corporations gaining perpetual legal personhood",
+            "d": "Medieval universities retaining obsolete curricula"
         },
         "answer": "c"
     },
     {
         "question_id": 160,
-        "question": "Concerns that AI will rewrite the boundaries of truth echo early debates about whether photography represented objective reality.",
+        "question": "AI rewriting the boundaries of truth mirrors debates about whether photography offered objective reality or constructed perspective.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 161,
+        "question": "Modern anxieties that AI-generated ideologies may become self-propagating echo several past intellectual contagions. Which is MOST analogous if the comparison is restricted to self-reinforcing explanatory loops masquerading as objective science?",
+        "type": "MCQ",
+        "options": {
+            "a": "Darwinian social theory being treated as deterministic law",
+            "b": "Alchemy building elaborate internal consistency systems",
+            "c": "Phrenology reinforcing stereotypes through circular logic",
+            "d": "Astrological epistemologies deriving predictions from their own premises"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 162,
+        "question": "Fears that AI will create a recursive reality bubble resemble how early newspapers created completely different publics.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 163,
+        "question": "AI’s ability to generate parallel but inconsistent histories resembles multiple past interpretive crises. Which comparison is MOST precise when focusing on simultaneous contradictory narratives coexisting with institutional legitimacy?",
+        "type": "MCQ",
+        "options": {
+            "a": "Competing medieval chronicle traditions",
+            "b": "Cold War propaganda discrepancies between blocs",
+            "c": "Conflicting eyewitness accounts during early mass literacy",
+            "d": "Renaissance scholars debating contradictory classical manuscripts"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 164,
+        "question": "The idea that AI could develop implicit long-term goals without explicit direction parallels early fears about runaway market dynamics.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 165,
+        "question": "Emergent AI behavior that appears ‘intentional’ mirrors several historical cases of ascribing agency to systems. Which is MOST accurate if the emphasis is on the illusion of purpose arising from deterministic rules?",
+        "type": "MCQ",
+        "options": {
+            "a": "The mechanical loom appearing to choose patterns",
+            "b": "Adam Smith’s invisible hand seeming like a collective mind",
+            "c": "Weather systems interpreted as divine judgment",
+            "d": "Automata in royal courts imitating conscious decision-making"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 166,
+        "question": "AI hallucinations resembling confident nonsense echo the tone of 19th-century pseudoscience which argued from certainty rather than evidence.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 167,
+        "question": "Which scenario MOST closely mirrors the risk that AI-generated legal interpretations could form a shadow legal system that looks authoritative but lacks grounding?",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval glossators producing contradictory legal commentaries",
+            "b": "Colonial administrators applying improvised customary rules",
+            "c": "Early corporate charters treated as quasi-constitutional documents",
+            "d": "Canon law evolving through layered, incompatible interpretations"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 168,
+        "question": "AI compressing complex moral dilemmas into simplistic outputs mirrors critiques of early rationalist moral systems.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 169,
+        "question": "Which phenomenon BEST parallels AI deriving ‘insights’ from spurious correlations, assuming emphasis on mathematical formality disguising conceptual emptiness?",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century craniometry producing elegant but meaningless ratios",
+            "b": "Medieval numerology assigning cosmic meaning to integers",
+            "c": "Physiognomy using facial angles to infer moral character",
+            "d": "Colonial statistical reports extrapolating moral attributes from census data"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 170,
+        "question": "The belief that AI may become an epistemic bottleneck resembles early concerns that encyclopedias could homogenize global knowledge.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 171,
+        "question": "Which historical analogy MOST closely fits the fear that AI-generated models become reality-defining even when built on faulty assumptions, if the focus is on institutional acceptance overriding empirical evidence?",
+        "type": "MCQ",
+        "options": {
+            "a": "The geocentric model’s survival through scholastic endorsement",
+            "b": "Victorian racial hierarchies embedded in bureaucratic practice",
+            "c": "Mercantilist economics shaping policy despite contradictions",
+            "d": "Malthusian predictions influencing social reform movements"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 172,
+        "question": "AI assistance in warfare recalling autonomous decision cascades parallels mid-Cold War computational command anxieties.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 173,
+        "question": "AI systems interpreting ambiguous signals resemble earlier technologies that transformed uncertainty into misleading certainty. Which is MOST structurally similar?",
+        "type": "MCQ",
+        "options": {
+            "a": "Early radar mistaking flock movements for aerial threats",
+            "b": "Telegraph errors read as intentional sabotage",
+            "c": "Balloon observers overinterpreting smoke patterns",
+            "d": "Weather charts predicting storms where none formed"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 174,
+        "question": "Claims that AI produces ‘value-neutral’ decisions resemble the false neutrality attributed to early census categories.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 175,
+        "question": "Which dynamic BEST parallels AI outputs gaining unearned epistemic authority due to their confident tone, under the criterion of rhetoric overriding methodology?",
+        "type": "MCQ",
+        "options": {
+            "a": "Oracular pronouncements in ancient courts",
+            "b": "Renaissance astrologers generating quantified horoscopes",
+            "c": "Victorian spiritualists producing felt ‘scientific’ séances",
+            "d": "Early academic positivists enforcing methodological certainty"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 176,
+        "question": "AI-generated strategic recommendations echo earlier computer-driven forecasting tools that were treated as infallible despite glaring limitations.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 177,
+        "question": "Which historical episode MOST resembles AI shaping societal narratives through subtle repeated framing, if the emphasis is on long-duration imperceptible influence?",
+        "type": "MCQ",
+        "options": {
+            "a": "The slow cultural drift caused by standardized prayer books",
+            "b": "Imperial school curricula gradually redefining social categories",
+            "c": "Victorian etiquette manuals shaping class identity",
+            "d": "Cold War broadcasting embedding ideological assumptions"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 178,
+        "question": "The notion that AI can create internally consistent but externally meaningless worldviews resembles self-referential philosophical systems.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 179,
+        "question": "Which precedent MOST closely matches AI creating hallucinated 'experts' with fabricated credentials, assuming focus on authority constructed by stylistic performance rather than actual knowledge?",
+        "type": "MCQ",
+        "options": {
+            "a": "Rogue Renaissance scholars inventing fictitious classical authorities",
+            "b": "Victorian occultists citing nonexistent manuscripts",
+            "c": "18th-century travel writers fabricating entire cultures",
+            "d": "Court historians attributing myths to fabricated eyewitnesses"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 180,
+        "question": "AI capable of autocorrecting its own falsehoods resembles the self-patching nature of ideologies that reinterpret contradictions as validation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 181,
+        "question": "Which scenario MOST closely parallels AI generating 'objective' predictions based on deeply biased inputs, if the comparison is limited to systems that naturalize their own blind spots?",
+        "type": "MCQ",
+        "options": {
+            "a": "Colonial ethnographers deriving social hierarchies from biased observations",
+            "b": "Physiognomists inferring criminality from facial structures",
+            "c": "Scholastics deriving natural laws from theological axioms",
+            "d": "Racial cartography imposing pseudo-geographic identities"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 182,
+        "question": "AI distorting historical data through interpolation mirrors medieval copyists standardizing manuscripts unintentionally.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 183,
+        "question": "Which dynamic MOST resembles AI blending truth and fabrication into narratives that appear internally coherent but externally unverifiable?",
+        "type": "MCQ",
+        "options": {
+            "a": "Herodotean ethnographies mixing fact and myth",
+            "b": "Shakespearean histories based on distorted chronicles",
+            "c": "Monastic miracle accounts integrating political messages",
+            "d": "Explorers’ journals conflating genuine sightings with folklore"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 184,
+        "question": "AI that models human emotions mathematically echoes early behaviorists’ attempts to quantify subjective experiences.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 185,
+        "question": "Which analogy MOST closely fits AI producing hyper-detailed but entirely fictional explanations for complex phenomena, focusing on detail density as a substitute for accuracy?",
+        "type": "MCQ",
+        "options": {
+            "a": "Victorian naturalists generating elaborate but false species descriptions",
+            "b": "Medieval cosmologists adding epicycles to preserve Ptolemaic models",
+            "c": "Physiological treatises assigning fictional organ functions",
+            "d": "Ancient geographers inventing cities to fill map space"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 186,
+        "question": "AI that appears to understand topics it has only approximated resembles early machine translation systems confidently producing nonsense.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 187,
+        "question": "Which historical phenomenon MOST closely resembles AI creating illusions of consensus through repetition rather than argument structure?",
+        "type": "MCQ",
+        "options": {
+            "a": "Propaganda posters saturating public space",
+            "b": "Prayer-book standardization creating shared assumptions",
+            "c": "Medieval sermon cycles establishing normative beliefs",
+            "d": "Cold War radio broadcasts creating echo-chamber narratives"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 188,
+        "question": "AI embedding invisible assumptions into its answers resembles earlier systems that encoded ideology into supposedly neutral frameworks.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 189,
+        "question": "Which dynamic MOST resembles AI producing strategically ambiguous answers that can be interpreted in multiple contradictory ways?",
+        "type": "MCQ",
+        "options": {
+            "a": "Oracle of Delphi pronouncements",
+            "b": "Legal codes written to satisfy multiple factions",
+            "c": "Diplomatic treaties containing deliberate dual meanings",
+            "d": "Scholastic disputes using circular logic"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 190,
+        "question": "AI systems shifting meaning subtly across iterations resemble the evolving interpretations of canonical texts across centuries.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 191,
+        "question": "Which historical case BEST parallels AI constructing arguments that imply intentionality in purely statistical output?",
+        "type": "MCQ",
+        "options": {
+            "a": "Medieval theologians inferring divine intention from natural events",
+            "b": "Enlightenment-era attempts to find hidden moral laws in nature",
+            "c": "Victorian spiritualists interpreting random knocks as messages",
+            "d": "Physicists attributing agency to abstract mathematical symmetries"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 192,
+        "question": "AI patterns reinforcing themselves over multiple outputs resemble feedback loops in early analog computation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 193,
+        "question": "Which analogy MOST captures AI blending multiple sources into a hybrid narrative that appears coherent only due to its rhetorical fluency?",
+        "type": "MCQ",
+        "options": {
+            "a": "Humanist scholars merging contradictory classical references",
+            "b": "Early encyclopedias stitching together incompatible theories",
+            "c": "Syncretic religions merging disparate cosmologies",
+            "d": "Travelogues combining mythic and real geography"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 194,
+        "question": "AI explanations that mask uncertainty under confident language resemble early scientific treatises overstating precision.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 195,
+        "question": "Which scenario MOST parallels AI producing fabricated references that ‘sound’ legitimate but have no real-world grounding?",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century historians citing forged medieval charters",
+            "b": "Explorers inventing civilizations for credibility",
+            "c": "Occult societies attributing texts to imaginary sages",
+            "d": "Early bibliographers listing nonexistent volumes"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 196,
+        "question": "AI inferring personality traits from linguistic patterns mirrors earlier pseudo-sciences treating behavior as a measurable essence.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 197,
+        "question": "Which phenomenon MOST resembles AI producing smooth but circular reasoning chains that rely on themselves for justification?",
+        "type": "MCQ",
+        "options": {
+            "a": "Scholastic disputations using proof from authority",
+            "b": "Astrological systems inferring planetary influence from prior claims",
+            "c": "Dialectical materialist arguments looping through their axioms",
+            "d": "Gnostic cosmologies recursively generating emanations"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 198,
+        "question": "AI blending real and fabricated data to produce plausible timelines resembles historical chronologists harmonizing inconsistent sources.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 199,
+        "question": "Which precedent MOST closely parallels AI generating high-confidence but semantically incoherent arguments that appear rigorous due to structure?",
+        "type": "MCQ",
+        "options": {
+            "a": "19th-century metaphysical treatises blending logic and mysticism",
+            "b": "Formalized scholastic debates with no empirical grounding",
+            "c": "Symbolist literary criticism constructing arbitrary systems",
+            "d": "Neo-Platonic diagrams mapping imaginary metaphysics"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 200,
+        "question": "AI’s tendency to restructure user intent through subtle reinterpretation resembles early translation scholars imposing their own frameworks onto texts.",
         "type": "T/F",
         "options": {
             "a": "True",
