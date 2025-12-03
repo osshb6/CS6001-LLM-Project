@@ -1,0 +1,1762 @@
+[
+  {
+    "question_id": 1,
+    "question": "If the first discovery of large-scale irrigation engineering had occurred in prehistoric Britain instead of Mesopotamia, would the agricultural density of the Fertile Crescent still emerge in the same pattern?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "If sophisticated irrigation canals originated in prehistoric Britain rather than Mesopotamia, which outcome is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Near Eastern societies might develop irrigation centuries later through environmental pressure and independent innovation, achieving similar agricultural densities but on a delayed timeline",
+      "b": "All river-based civilizations worldwide would immediately collapse, as the technological foundation for bronze-age trade networks depends entirely on Mesopotamian hydraulic precedent",
+      "c": "Chinese dynasties would experience accelerated development within 500 years due to knowledge diffusion across the Eurasian steppes, gaining a 2000-year technological advantage",
+      "d": "The Fertile Crescent would never develop systematic agriculture, forcing populations to remain hunter-gatherer indefinitely despite optimal conditions for cultivation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 3,
+    "question": "If the earliest discovery of copper–tin alloying had occurred in the Andes rather than Anatolia, would Eurasian Bronze Age timelines remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "If bronze alloying originated in the Andes 2000 years before Anatolia, which ripple effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean metal trade networks would expand regionally, while Eurasian societies would independently discover the same copper-tin ratios through trial-and-error experimentation, creating parallel but geographically isolated bronze ages",
+      "b": "European and Asian populations would entirely skip bronze metallurgy, jumping directly from stone tools to iron implements upon contact with Andean traders",
+      "c": "Eurasian civilizations would be unable to work copper or tin at all, as geological copper deposits would somehow migrate to the Americas in response to Andean innovation",
+      "d": "The Indus Valley and Egyptian civilizations would collapse immediately, as their bronze-age economies fundamentally depend on simultaneous invention across multiple continents"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "If the discovery of long-distance camel domestication first happened in Southeast Asia rather than Arabia, would trans-Arabian caravan trade still develop the same way?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 6,
+    "question": "If camel domestication emerged in Southeast Asia first, which scenario most accurately reflects long-term historical probability?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian merchants would eventually domesticate camels independently through observing wild herds and recognizing transport advantages, though Arabian trade routes might delay by centuries and follow different commercial pathways",
+      "b": "Indian Ocean monsoon patterns would cease functioning entirely, making all maritime trade impossible and preventing any alternative transportation networks from emerging",
+      "c": "Wheeled carts would be globally outlawed by Southeast Asian traders to maintain monopoly on overland goods movement, enforcing this prohibition across three continents",
+      "d": "The Roman Empire would form 1000 years earlier as a direct causal result of Southeast Asian camel domestication triggering earlier European political consolidation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 7,
+    "question": "If early celestial navigation by star-lattices originated in Mali instead of Polynesia, would Pacific wayfinding traditions be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "If star-lattice navigation emerged in Mali by 1000 CE, which effect is most plausible given cultural transmission patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "West African maritime expansion might accelerate along the Atlantic coast, while Polynesian wayfinders would still develop independent star-navigation systems through identical astronomical observations and technological pressures",
+      "b": "Earth's magnetic field would spontaneously reverse direction, destroying all navigation methods except those documented in Mali",
+      "c": "All coastal settlements worldwide would collapse into uninhabitability within 200 years due to some unspecified mechanism linking Mali's star-charts to global oceanic catastrophe",
+      "d": "Greenland would become the primary global trade hub, as Malian astronomers would prove that northern latitudes hold superior navigational advantages"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 9,
+    "question": "If the first mapping of monsoon wind cycles occurred in Arabia instead of India, seasonal trade between East Africa and South Asia would still follow the same timings.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 10,
+    "question": "If Arabian merchants formally mapped monsoon cycles 500 years before Indian astronomers, which downstream effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian sailors might dominate early Indian Ocean trade for centuries, while South Asian traders would gradually adopt similar observational methods and eventually develop independent monsoon models from empirical voyaging data",
+      "b": "Monsoon wind patterns would cease blowing seasonally across the Indian Ocean, creating permanent calm conditions incompatible with any sailing navigation",
+      "c": "East Africa would become permanently uninhabitable as Indian Ocean currents would reverse, making the continent's climate completely inhospitable to human settlement",
+      "d": "Mediterranean storm patterns would cease to exist, as Arabian monsoon knowledge would somehow extend to European weather systems through an unspecified mechanism"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 11,
+    "question": "If the first workable calendar-astronomy tables appeared in Mesoamerica instead of the Near East, Eurasian agricultural scheduling would remain unchanged.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 12,
+    "question": "If advanced calendar astronomy originated in Mesoamerica 1500 years earlier than Near Eastern systems, which outcome fits best?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mesoamerican societies would achieve superior agricultural precision for centuries, while Eurasian civilizations would independently develop calendar systems from lunar observations and seasonal markers, eventually achieving similar accuracy",
+      "b": "The Sun would change its orbital properties to match Mesoamerican astronomical tables, invalidating all Eurasian astronomical observations",
+      "c": "Europe would become permanently nomadic, as Eurasian societies would lose all ability to track seasons without Mesoamerican calendar guidance",
+      "d": "China would never invent paper, as Chinese innovation in writing technology depends entirely on prior access to Mesoamerican astronomical data"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 13,
+    "question": "If early domestication of citrus fruits happened in the Mediterranean instead of Southeast Asia, would global citrus genetics remain the same?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 14,
+    "question": "If Mediterranean societies domesticated citrus fruits 2000 years before Southeast Asian cultivation, which effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mediterranean hybridization pathways might create distinct citrus varieties suited to temperate climates, while Southeast Asian societies would independently domesticate local citrus species, producing different but equally diverse genetic lineages",
+      "b": "Bananas would become extinct immediately worldwide, as citrus domestication would somehow trigger global banana ecosystem collapse",
+      "c": "Rice would never grow in Asia, as the domestication of citrus in Mediterranean regions would prevent all subsequent Asian crop development",
+      "d": "The Alps would become tropical year-round, as Mediterranean citrus cultivation would alter European climate patterns and reshape continental weather systems"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "If the discovery of mass textile weaving began in Persia rather than India, Silk Road fiber economics would remain unaffected.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "If Persian scholars perfected mass weaving technology 500 years before Indian weavers, which consequence is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian textile centers would dominate early Silk Road trade, while Indian weaving traditions would emerge independently through cultural innovation and experimentation with local fibers, eventually creating competing but distinct textile economies",
+      "b": "Europe would lose the ability to spin wool permanently, as all fiber-processing technology would become impossible without Persian precedent",
+      "c": "The Silk Road would cease to exist instantly, as the trade route's entire historical existence depends on simultaneous textile innovation across Asia",
+      "d": "All dyes worldwide would become colorless, as Persian dye chemistry would trigger a global cascade preventing pigment production in all other regions"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "If the earliest discovery of coastal fish-smoking for preservation began in Scandinavia rather than Southeast Asia, maritime trade patterns in the Pacific would remain identical.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 18,
+    "question": "If Scandinavian fishermen invented smoking preservation 1000 years before Southeast Asian methods emerged, what is the most plausible ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "Northern European trade hubs might sustain larger maritime communities earlier through protein security, while Southeast Asian traders would discover fish-smoking independently through identical environmental pressures for food preservation",
+      "b": "Marine species would evolve differently across all oceans, preventing any fish-smoking technology from ever working in Asian waters",
+      "c": "Oceans would lose salinity and become freshwater globally, as Scandinavian preservation knowledge would somehow trigger planetary hydrological reorganization",
+      "d": "African herding cultures would completely abandon cattle domestication, as Scandinavian fish-smoking would inexplicably prevent terrestrial animal husbandry"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "If proto-banking systems were discovered first in the Andes rather than Mesopotamia, would Eurasian credit systems form at the same pace?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 20,
+    "question": "If Andean proto-banking record-keeping emerged 1000 years before Mesopotamian systems, which scenario best reflects realistic historical diffusion?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean states might standardize accounting and credit mechanisms earlier, while Eurasian civilizations would independently develop comparable banking systems through identical economic pressures for trade facilitation and record-keeping",
+      "b": "Coins would become physically impossible to mint anywhere, as metallurgical processes would become incompatible with Andean banking precedent",
+      "c": "Writing systems would permanently disappear globally, as human ability to create symbolic records would cease without Andean proto-banking as a foundational template",
+      "d": "Population growth would reverse into permanent decline across all continents, as economic systems would collapse without access to Andean financial innovation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 21,
+    "question": "If advanced stone-masonry precision emerged in Southeast Asia before the Inca, would Andean architecture develop identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 22,
+    "question": "If Southeast Asian temple builders perfected stone-cutting precision 1500 years before Inca civilization, which ripple effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Southeast Asian temple complexes would showcase advanced masonry earlier, while Andean civilizations would independently develop comparable stone-fitting techniques through identical geological constraints and engineering experimentation",
+      "b": "Granite would cease to exist as a geological material in the Americas, making Inca construction impossible regardless of architectural knowledge",
+      "c": "Nomadic steppe tribes would spontaneously build pyramids across Central Asia as a direct result of Southeast Asian masonry innovations",
+      "d": "Indian metallurgy would collapse entirely, as Indian craftspeople would lose all ability to work with metal once Southeast Asian stone-masonry demonstrated superior precision"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "If the earliest discovery of long-distance desert caravan logistics occurred in India instead of North Africa, would the Sahara trade routes still form in the same sequence?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 24,
+    "question": "If Indian merchants perfected desert trade organization 500 years before North African practices, which consequence matches most realistic historical diffusion patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "Indian overland networks would expand across steppes and deserts earlier, while North African merchants would gradually discover identical logistical solutions through experimentation with trans-Saharan routes, creating separate but eventually interconnected trade systems",
+      "b": "North Africa would transform into tropical rainforest permanently, making desert travel impossible and preventing Saharan trade routes from ever forming",
+      "c": "Ice Age glaciation would reverse its retreat pattern, causing unprecedented ice expansion that would destroy all overland trade across continental interiors",
+      "d": "Cattle domestication would vanish globally, as Indian caravan knowledge would somehow prevent animal husbandry from developing anywhere else on Earth"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "If the discovery of olive oil pressing began in Egypt instead of the Aegean, would Mediterranean trade specialization remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 26,
+    "question": "If Egyptian agricultural specialists perfected olive pressing and oil storage 500 years before Aegean methods, which outcome is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Egyptian oil production would dominate Mediterranean trade initially, while Greek and Aegean regions would independently develop olive cultivation and pressing from local environmental conditions and trade incentives, eventually creating competing but complementary economic niches",
+      "b": "Olives would cease growing in Greek territories, as the plant species would somehow be unable to thrive in Mediterranean climates without Egyptian precedent",
+      "c": "Mediterranean sailing would become physically impossible, as olive oil technology would trigger some cascade preventing maritime navigation in the region",
+      "d": "All agriculture would shift exclusively to Egypt, as Egyptian innovation would prevent crop cultivation anywhere else across the Mediterranean basin"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 27,
+    "question": "If early glacier-mapping techniques originated in the Tibetan Plateau instead of Scandinavia, would European climate studies develop along the same timeline?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "If Tibetan scholars formally mapped glacial dynamics and climate patterns 1000 years before European glaciologists, which downstream effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Asian scholars might refine high-altitude climate models earlier through Himalayan observations, while European scientists would eventually develop parallel glaciology from Alpine glacial studies, creating separate but eventually converging climate understanding",
+      "b": "Glaciers across Earth would stop melting entirely, as if glacier-mapping documentation would physically reverse planetary climate warming",
+      "c": "The Himalayas would shrink to grassy hills instantly, as Tibetan scientific observation would somehow trigger tectonic reorganization of mountain systems",
+      "d": "Polar regions would become tropical year-round, as glacier-mapping would extend to Arctic/Antarctic climate control mechanisms"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 29,
+    "question": "If the earliest discovery of pumice-based surgical cleaning emerged in Polynesia instead of Rome, would sanitation practices in Europe still progress identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "If Polynesian healers formally documented pumice stone surgical cleaning 1000 years before Roman physicians, what is the most plausible outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Polynesian medical practitioners would reduce surgical infection rates earlier, while Mediterranean physicians would gradually discover identical sanitization methods through empirical observation of wound outcomes, eventually achieving comparable surgical mortality improvements",
+      "b": "All infectious diseases worldwide would immediately disappear, as Polynesian pumice documentation would trigger spontaneous global infection eradication",
+      "c": "European plague outbreaks would transform into airborne lava events, as Polynesian cleaning knowledge would somehow trigger volcanic responses in European geography",
+      "d": "North American populations would develop antibiotics by 500 BCE, as Polynesian healing practices would catalyze technological acceleration across the Pacific"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "If the discovery of the psychological 'illusion of truth' bias occurred in medieval Persia instead of 20th-century Europe, would modern propaganda studies be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "If Persian philosophers formally documented the 'illusion of truth' cognitive bias 800 years before modern psychology, which consequence is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian rhetoric scholars might influence Islamic and medieval European rhetorical training practices, while modern cognitive scientists would independently validate the illusion of truth bias through empirical laboratory experiments, converging on identical psychological mechanisms",
+      "b": "All forms of language deception would vanish forever, as documented awareness of the bias would somehow prevent its operation in human cognition",
+      "c": "Human memory would become mathematically perfect, as Persian philosophical documentation would upgrade all brains to perfectly accurate recall systems",
+      "d": "Newspapers would become illegal worldwide, as societies would ban all written media to prevent bias propagation"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 33,
+    "question": "If the first discovery of large-scale cave art preservation techniques originated in the Congo Basin instead of Europe, would Paleolithic interpretation trends in France remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "If Central African conservators pioneered cave art preservation 5000 years before European archaeologists, what is the most realistic ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "African cave systems might gain earlier archaeological status and scholarly attention, while European researchers would still discover comparable preservation needs in European caves through identical stratigraphic analysis, creating separate archaeological traditions",
+      "b": "All rock surfaces worldwide would become indestructible, as Central African preservation methods would physically prevent deterioration globally",
+      "c": "Radiocarbon dating would cease functioning, as Central African cave preservation would somehow invalidate atomic decay principles",
+      "d": "The Sahara would revert to ocean coverage, as cave preservation knowledge would trigger hydrological reorganization across continental Africa"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 35,
+    "question": "If the first discovery of large-scale irrigation engineering had occurred in prehistoric Britain instead of Mesopotamia, would the agricultural density of the Fertile Crescent still emerge in the same pattern?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 36,
+    "question": "If sophisticated irrigation canals originated in prehistoric Britain rather than Mesopotamia, which outcome is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Near Eastern societies might develop irrigation centuries later through environmental pressure and independent innovation, achieving similar agricultural densities but on a delayed timeline",
+      "b": "All river-based civilizations worldwide would immediately collapse, as the technological foundation for bronze-age trade networks depends entirely on Mesopotamian hydraulic precedent",
+      "c": "Chinese dynasties would experience accelerated development within 500 years due to knowledge diffusion across the Eurasian steppes, gaining a 2000-year technological advantage",
+      "d": "The Fertile Crescent would never develop systematic agriculture, forcing populations to remain hunter-gatherer indefinitely despite optimal conditions for cultivation"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "If the earliest discovery of copper–tin alloying had occurred in the Andes rather than Anatolia, would Eurasian Bronze Age timelines remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 38,
+    "question": "If bronze alloying originated in the Andes 2000 years before Anatolia, which ripple effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean metal trade networks would expand regionally, while Eurasian societies would independently discover the same copper-tin ratios through trial-and-error experimentation, creating parallel but geographically isolated bronze ages",
+      "b": "European and Asian populations would entirely skip bronze metallurgy, jumping directly from stone tools to iron implements upon contact with Andean traders",
+      "c": "Eurasian civilizations would be unable to work copper or tin at all, as geological copper deposits would somehow migrate to the Americas in response to Andean innovation",
+      "d": "The Indus Valley and Egyptian civilizations would collapse immediately, as their bronze-age economies fundamentally depend on simultaneous invention across multiple continents"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 39,
+    "question": "If the discovery of long-distance camel domestication first happened in Southeast Asia rather than Arabia, would trans-Arabian caravan trade still develop the same way?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 40,
+    "question": "If camel domestication emerged in Southeast Asia first, which scenario most accurately reflects long-term historical probability?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian merchants would eventually domesticate camels independently through observing wild herds and recognizing transport advantages, though Arabian trade routes might delay by centuries and follow different commercial pathways",
+      "b": "Indian Ocean monsoon patterns would cease functioning entirely, making all maritime trade impossible and preventing any alternative transportation networks from emerging",
+      "c": "Wheeled carts would be globally outlawed by Southeast Asian traders to maintain monopoly on overland goods movement, enforcing this prohibition across three continents",
+      "d": "The Roman Empire would form 1000 years earlier as a direct causal result of Southeast Asian camel domestication triggering earlier European political consolidation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 41,
+    "question": "If early celestial navigation by star-lattices originated in Mali instead of Polynesia, would Pacific wayfinding traditions be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 42,
+    "question": "If star-lattice navigation emerged in Mali by 1000 CE, which effect is most plausible given cultural transmission patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "West African maritime expansion might accelerate along the Atlantic coast, while Polynesian wayfinders would still develop independent star-navigation systems through identical astronomical observations and technological pressures",
+      "b": "Earth's magnetic field would spontaneously reverse direction, destroying all navigation methods except those documented in Mali",
+      "c": "All coastal settlements worldwide would collapse into uninhabitability within 200 years due to some unspecified mechanism linking Mali's star-charts to global oceanic catastrophe",
+      "d": "Greenland would become the primary global trade hub, as Malian astronomers would prove that northern latitudes hold superior navigational advantages"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 43,
+    "question": "If the first mapping of monsoon wind cycles occurred in Arabia instead of India, seasonal trade between East Africa and South Asia would still follow the same timings.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "If Arabian merchants formally mapped monsoon cycles 500 years before Indian astronomers, which downstream effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian sailors might dominate early Indian Ocean trade for centuries, while South Asian traders would gradually adopt similar observational methods and eventually develop independent monsoon models from empirical voyaging data",
+      "b": "Monsoon wind patterns would cease blowing seasonally across the Indian Ocean, creating permanent calm conditions incompatible with any sailing navigation",
+      "c": "East Africa would become permanently uninhabitable as Indian Ocean currents would reverse, making the continent's climate completely inhospitable to human settlement",
+      "d": "Mediterranean storm patterns would cease to exist, as Arabian monsoon knowledge would somehow extend to European weather systems through an unspecified mechanism"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 45,
+    "question": "If the first workable calendar-astronomy tables appeared in Mesoamerica instead of the Near East, Eurasian agricultural scheduling would remain unchanged.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "If advanced calendar astronomy originated in Mesoamerica 1500 years earlier than Near Eastern systems, which outcome fits best?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mesoamerican societies would achieve superior agricultural precision for centuries, while Eurasian civilizations would independently develop calendar systems from lunar observations and seasonal markers, eventually achieving similar accuracy",
+      "b": "The Sun would change its orbital properties to match Mesoamerican astronomical tables, invalidating all Eurasian astronomical observations",
+      "c": "Europe would become permanently nomadic, as Eurasian societies would lose all ability to track seasons without Mesoamerican calendar guidance",
+      "d": "China would never invent paper, as Chinese innovation in writing technology depends entirely on prior access to Mesoamerican astronomical data"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 47,
+    "question": "If early domestication of citrus fruits happened in the Mediterranean instead of Southeast Asia, would global citrus genetics remain the same?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 48,
+    "question": "If Mediterranean societies domesticated citrus fruits 2000 years before Southeast Asian cultivation, which effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mediterranean hybridization pathways might create distinct citrus varieties suited to temperate climates, while Southeast Asian societies would independently domesticate local citrus species, producing different but equally diverse genetic lineages",
+      "b": "Bananas would become extinct immediately worldwide, as citrus domestication would somehow trigger global banana ecosystem collapse",
+      "c": "Rice would never grow in Asia, as the domestication of citrus in Mediterranean regions would prevent all subsequent Asian crop development",
+      "d": "The Alps would become tropical year-round, as Mediterranean citrus cultivation would alter European climate patterns and reshape continental weather systems"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 49,
+    "question": "If the discovery of mass textile weaving began in Persia rather than India, Silk Road fiber economics would remain unaffected.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 50,
+    "question": "If Persian scholars perfected mass weaving technology 500 years before Indian weavers, which consequence is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian textile centers would dominate early Silk Road trade, while Indian weaving traditions would emerge independently through cultural innovation and experimentation with local fibers, eventually creating competing but distinct textile economies",
+      "b": "Europe would lose the ability to spin wool permanently, as all fiber-processing technology would become impossible without Persian precedent",
+      "c": "The Silk Road would cease to exist instantly, as the trade route's entire historical existence depends on simultaneous textile innovation across Asia",
+      "d": "All dyes worldwide would become colorless, as Persian dye chemistry would trigger a global cascade preventing pigment production in all other regions"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 51,
+    "question": "If the earliest discovery of coastal fish-smoking for preservation began in Scandinavia rather than Southeast Asia, maritime trade patterns in the Pacific would remain identical.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 52,
+    "question": "If Scandinavian fishermen invented smoking preservation 1000 years before Southeast Asian methods emerged, what is the most plausible ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "Northern European trade hubs might sustain larger maritime communities earlier through protein security, while Southeast Asian traders would discover fish-smoking independently through identical environmental pressures for food preservation",
+      "b": "Marine species would evolve differently across all oceans, preventing any fish-smoking technology from ever working in Asian waters",
+      "c": "Oceans would lose salinity and become freshwater globally, as Scandinavian preservation knowledge would somehow trigger planetary hydrological reorganization",
+      "d": "African herding cultures would completely abandon cattle domestication, as Scandinavian fish-smoking would inexplicably prevent terrestrial animal husbandry"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 53,
+    "question": "If proto-banking systems were discovered first in the Andes rather than Mesopotamia, would Eurasian credit systems form at the same pace?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "If Andean proto-banking record-keeping emerged 1000 years before Mesopotamian systems, which scenario best reflects realistic historical diffusion?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean states might standardize accounting and credit mechanisms earlier, while Eurasian civilizations would independently develop comparable banking systems through identical economic pressures for trade facilitation and record-keeping",
+      "b": "Coins would become physically impossible to mint anywhere, as metallurgical processes would become incompatible with Andean banking precedent",
+      "c": "Writing systems would permanently disappear globally, as human ability to create symbolic records would cease without Andean proto-banking as a foundational template",
+      "d": "Population growth would reverse into permanent decline across all continents, as economic systems would collapse without access to Andean financial innovation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 55,
+    "question": "If advanced stone-masonry precision emerged in Southeast Asia before the Inca, would Andean architecture develop identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "If Southeast Asian temple builders perfected stone-cutting precision 1500 years before Inca civilization, which ripple effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Southeast Asian temple complexes would showcase advanced masonry earlier, while Andean civilizations would independently develop comparable stone-fitting techniques through identical geological constraints and engineering experimentation",
+      "b": "Granite would cease to exist as a geological material in the Americas, making Inca construction impossible regardless of architectural knowledge",
+      "c": "Nomadic steppe tribes would spontaneously build pyramids across Central Asia as a direct result of Southeast Asian masonry innovations",
+      "d": "Indian metallurgy would collapse entirely, as Indian craftspeople would lose all ability to work with metal once Southeast Asian stone-masonry demonstrated superior precision"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 57,
+    "question": "If the earliest discovery of long-distance desert caravan logistics occurred in India instead of North Africa, would the Sahara trade routes still form in the same sequence?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 58,
+    "question": "If Indian merchants perfected desert trade organization 500 years before North African practices, which consequence matches most realistic historical diffusion patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "Indian overland networks would expand across steppes and deserts earlier, while North African merchants would gradually discover identical logistical solutions through experimentation with trans-Saharan routes, creating separate but eventually interconnected trade systems",
+      "b": "North Africa would transform into tropical rainforest permanently, making desert travel impossible and preventing Saharan trade routes from ever forming",
+      "c": "Ice Age glaciation would reverse its retreat pattern, causing unprecedented ice expansion that would destroy all overland trade across continental interiors",
+      "d": "Cattle domestication would vanish globally, as Indian caravan knowledge would somehow prevent animal husbandry from developing anywhere else on Earth"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "If the discovery of olive oil pressing began in Egypt instead of the Aegean, would Mediterranean trade specialization remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 60,
+    "question": "If Egyptian agricultural specialists perfected olive pressing and oil storage 500 years before Aegean methods, which outcome is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Egyptian oil production would dominate Mediterranean trade initially, while Greek and Aegean regions would independently develop olive cultivation and pressing from local environmental conditions and trade incentives, eventually creating competing but complementary economic niches",
+      "b": "Olives would cease growing in Greek territories, as the plant species would somehow be unable to thrive in Mediterranean climates without Egyptian precedent",
+      "c": "Mediterranean sailing would become physically impossible, as olive oil technology would trigger some cascade preventing maritime navigation in the region",
+      "d": "All agriculture would shift exclusively to Egypt, as Egyptian innovation would prevent crop cultivation anywhere else across the Mediterranean basin"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 61,
+    "question": "If early glacier-mapping techniques originated in the Tibetan Plateau instead of Scandinavia, would European climate studies develop along the same timeline?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "If Tibetan scholars formally mapped glacial dynamics and climate patterns 1000 years before European glaciologists, which downstream effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Asian scholars might refine high-altitude climate models earlier through Himalayan observations, while European scientists would eventually develop parallel glaciology from Alpine glacial studies, creating separate but eventually converging climate understanding",
+      "b": "Glaciers across Earth would stop melting entirely, as if glacier-mapping documentation would physically reverse planetary climate warming",
+      "c": "The Himalayas would shrink to grassy hills instantly, as Tibetan scientific observation would somehow trigger tectonic reorganization of mountain systems",
+      "d": "Polar regions would become tropical year-round, as glacier-mapping would extend to Arctic/Antarctic climate control mechanisms"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 63,
+    "question": "If the earliest discovery of pumice-based surgical cleaning emerged in Polynesia instead of Rome, would sanitation practices in Europe still progress identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 64,
+    "question": "If Polynesian healers formally documented pumice stone surgical cleaning 1000 years before Roman physicians, what is the most plausible outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Polynesian medical practitioners would reduce surgical infection rates earlier, while Mediterranean physicians would gradually discover identical sanitization methods through empirical observation of wound outcomes, eventually achieving comparable surgical mortality improvements",
+      "b": "All infectious diseases worldwide would immediately disappear, as Polynesian pumice documentation would trigger spontaneous global infection eradication",
+      "c": "European plague outbreaks would transform into airborne lava events, as Polynesian cleaning knowledge would somehow trigger volcanic responses in European geography",
+      "d": "North American populations would develop antibiotics by 500 BCE, as Polynesian healing practices would catalyze technological acceleration across the Pacific"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 65,
+    "question": "If the discovery of the psychological 'illusion of truth' bias occurred in medieval Persia instead of 20th-century Europe, would modern propaganda studies be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 66,
+    "question": "If Persian philosophers formally documented the 'illusion of truth' cognitive bias 800 years before modern psychology, which consequence is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian rhetoric scholars might influence Islamic and medieval European rhetorical training practices, while modern cognitive scientists would independently validate the illusion of truth bias through empirical laboratory experiments, converging on identical psychological mechanisms",
+      "b": "All forms of language deception would vanish forever, as documented awareness of the bias would somehow prevent its operation in human cognition",
+      "c": "Human memory would become mathematically perfect, as Persian philosophical documentation would upgrade all brains to perfectly accurate recall systems",
+      "d": "Newspapers would become illegal worldwide, as societies would ban all written media to prevent bias propagation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 67,
+    "question": "If the first discovery of large-scale cave art preservation techniques originated in the Congo Basin instead of Europe, would Paleolithic interpretation trends in France remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "If Central African conservators pioneered cave art preservation 5000 years before European archaeologists, what is the most realistic ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "African cave systems might gain earlier archaeological status and scholarly attention, while European researchers would still discover comparable preservation needs in European caves through identical stratigraphic analysis, creating separate archaeological traditions",
+      "b": "All rock surfaces worldwide would become indestructible, as Central African preservation methods would physically prevent deterioration globally",
+      "c": "Radiocarbon dating would cease functioning, as Central African cave preservation would somehow invalidate atomic decay principles",
+      "d": "The Sahara would revert to ocean coverage, as cave preservation knowledge would trigger hydrological reorganization across continental Africa"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 69,
+    "question": "If the first discovery of large-scale irrigation engineering had occurred in prehistoric Britain instead of Mesopotamia, would the agricultural density of the Fertile Crescent still emerge in the same pattern?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "If sophisticated irrigation canals originated in prehistoric Britain rather than Mesopotamia, which outcome is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Near Eastern societies might develop irrigation centuries later through environmental pressure and independent innovation, achieving similar agricultural densities but on a delayed timeline",
+      "b": "All river-based civilizations worldwide would immediately collapse, as the technological foundation for bronze-age trade networks depends entirely on Mesopotamian hydraulic precedent",
+      "c": "Chinese dynasties would experience accelerated development within 500 years due to knowledge diffusion across the Eurasian steppes, gaining a 2000-year technological advantage",
+      "d": "The Fertile Crescent would never develop systematic agriculture, forcing populations to remain hunter-gatherer indefinitely despite optimal conditions for cultivation"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 71,
+    "question": "If the earliest discovery of copper–tin alloying had occurred in the Andes rather than Anatolia, would Eurasian Bronze Age timelines remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 72,
+    "question": "If bronze alloying originated in the Andes 2000 years before Anatolia, which ripple effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean metal trade networks would expand regionally, while Eurasian societies would independently discover the same copper-tin ratios through trial-and-error experimentation, creating parallel but geographically isolated bronze ages",
+      "b": "European and Asian populations would entirely skip bronze metallurgy, jumping directly from stone tools to iron implements upon contact with Andean traders",
+      "c": "Eurasian civilizations would be unable to work copper or tin at all, as geological copper deposits would somehow migrate to the Americas in response to Andean innovation",
+      "d": "The Indus Valley and Egyptian civilizations would collapse immediately, as their bronze-age economies fundamentally depend on simultaneous invention across multiple continents"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 73,
+    "question": "If the discovery of long-distance camel domestication first happened in Southeast Asia rather than Arabia, would trans-Arabian caravan trade still develop the same way?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "If camel domestication emerged in Southeast Asia first, which scenario most accurately reflects long-term historical probability?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian merchants would eventually domesticate camels independently through observing wild herds and recognizing transport advantages, though Arabian trade routes might delay by centuries and follow different commercial pathways",
+      "b": "Indian Ocean monsoon patterns would cease functioning entirely, making all maritime trade impossible and preventing any alternative transportation networks from emerging",
+      "c": "Wheeled carts would be globally outlawed by Southeast Asian traders to maintain monopoly on overland goods movement, enforcing this prohibition across three continents",
+      "d": "The Roman Empire would form 1000 years earlier as a direct causal result of Southeast Asian camel domestication triggering earlier European political consolidation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 75,
+    "question": "If early celestial navigation by star-lattices originated in Mali instead of Polynesia, would Pacific wayfinding traditions be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "If star-lattice navigation emerged in Mali by 1000 CE, which effect is most plausible given cultural transmission patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "West African maritime expansion might accelerate along the Atlantic coast, while Polynesian wayfinders would still develop independent star-navigation systems through identical astronomical observations and technological pressures",
+      "b": "Earth's magnetic field would spontaneously reverse direction, destroying all navigation methods except those documented in Mali",
+      "c": "All coastal settlements worldwide would collapse into uninhabitability within 200 years due to some unspecified mechanism linking Mali's star-charts to global oceanic catastrophe",
+      "d": "Greenland would become the primary global trade hub, as Malian astronomers would prove that northern latitudes hold superior navigational advantages"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 77,
+    "question": "If the first mapping of monsoon wind cycles occurred in Arabia instead of India, seasonal trade between East Africa and South Asia would still follow the same timings.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "If Arabian merchants formally mapped monsoon cycles 500 years before Indian astronomers, which downstream effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian sailors might dominate early Indian Ocean trade for centuries, while South Asian traders would gradually adopt similar observational methods and eventually develop independent monsoon models from empirical voyaging data",
+      "b": "Monsoon wind patterns would cease blowing seasonally across the Indian Ocean, creating permanent calm conditions incompatible with any sailing navigation",
+      "c": "East Africa would become permanently uninhabitable as Indian Ocean currents would reverse, making the continent's climate completely inhospitable to human settlement",
+      "d": "Mediterranean storm patterns would cease to exist, as Arabian monsoon knowledge would somehow extend to European weather systems through an unspecified mechanism"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 79,
+    "question": "If the first workable calendar-astronomy tables appeared in Mesoamerica instead of the Near East, Eurasian agricultural scheduling would remain unchanged.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 80,
+    "question": "If advanced calendar astronomy originated in Mesoamerica 1500 years earlier than Near Eastern systems, which outcome fits best?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mesoamerican societies would achieve superior agricultural precision for centuries, while Eurasian civilizations would independently develop calendar systems from lunar observations and seasonal markers, eventually achieving similar accuracy",
+      "b": "The Sun would change its orbital properties to match Mesoamerican astronomical tables, invalidating all Eurasian astronomical observations",
+      "c": "Europe would become permanently nomadic, as Eurasian societies would lose all ability to track seasons without Mesoamerican calendar guidance",
+      "d": "China would never invent paper, as Chinese innovation in writing technology depends entirely on prior access to Mesoamerican astronomical data"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 81,
+    "question": "If early domestication of citrus fruits happened in the Mediterranean instead of Southeast Asia, would global citrus genetics remain the same?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "If Mediterranean societies domesticated citrus fruits 2000 years before Southeast Asian cultivation, which effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mediterranean hybridization pathways might create distinct citrus varieties suited to temperate climates, while Southeast Asian societies would independently domesticate local citrus species, producing different but equally diverse genetic lineages",
+      "b": "Bananas would become extinct immediately worldwide, as citrus domestication would somehow trigger global banana ecosystem collapse",
+      "c": "Rice would never grow in Asia, as the domestication of citrus in Mediterranean regions would prevent all subsequent Asian crop development",
+      "d": "The Alps would become tropical year-round, as Mediterranean citrus cultivation would alter European climate patterns and reshape continental weather systems"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 83,
+    "question": "If the discovery of mass textile weaving began in Persia rather than India, Silk Road fiber economics would remain unaffected.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 84,
+    "question": "If Persian scholars perfected mass weaving technology 500 years before Indian weavers, which consequence is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian textile centers would dominate early Silk Road trade, while Indian weaving traditions would emerge independently through cultural innovation and experimentation with local fibers, eventually creating competing but distinct textile economies",
+      "b": "Europe would lose the ability to spin wool permanently, as all fiber-processing technology would become impossible without Persian precedent",
+      "c": "The Silk Road would cease to exist instantly, as the trade route's entire historical existence depends on simultaneous textile innovation across Asia",
+      "d": "All dyes worldwide would become colorless, as Persian dye chemistry would trigger a global cascade preventing pigment production in all other regions"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 85,
+    "question": "If the earliest discovery of coastal fish-smoking for preservation began in Scandinavia rather than Southeast Asia, maritime trade patterns in the Pacific would remain identical.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 86,
+    "question": "If Scandinavian fishermen invented smoking preservation 1000 years before Southeast Asian methods emerged, what is the most plausible ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "Northern European trade hubs might sustain larger maritime communities earlier through protein security, while Southeast Asian traders would discover fish-smoking independently through identical environmental pressures for food preservation",
+      "b": "Marine species would evolve differently across all oceans, preventing any fish-smoking technology from ever working in Asian waters",
+      "c": "Oceans would lose salinity and become freshwater globally, as Scandinavian preservation knowledge would somehow trigger planetary hydrological reorganization",
+      "d": "African herding cultures would completely abandon cattle domestication, as Scandinavian fish-smoking would inexplicably prevent terrestrial animal husbandry"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 87,
+    "question": "If proto-banking systems were discovered first in the Andes rather than Mesopotamia, would Eurasian credit systems form at the same pace?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 88,
+    "question": "If Andean proto-banking record-keeping emerged 1000 years before Mesopotamian systems, which scenario best reflects realistic historical diffusion?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean states might standardize accounting and credit mechanisms earlier, while Eurasian civilizations would independently develop comparable banking systems through identical economic pressures for trade facilitation and record-keeping",
+      "b": "Coins would become physically impossible to mint anywhere, as metallurgical processes would become incompatible with Andean banking precedent",
+      "c": "Writing systems would permanently disappear globally, as human ability to create symbolic records would cease without Andean proto-banking as a foundational template",
+      "d": "Population growth would reverse into permanent decline across all continents, as economic systems would collapse without access to Andean financial innovation"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 89,
+    "question": "If advanced stone-masonry precision emerged in Southeast Asia before the Inca, would Andean architecture develop identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 90,
+    "question": "If Southeast Asian temple builders perfected stone-cutting precision 1500 years before Inca civilization, which ripple effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Southeast Asian temple complexes would showcase advanced masonry earlier, while Andean civilizations would independently develop comparable stone-fitting techniques through identical geological constraints and engineering experimentation",
+      "b": "Granite would cease to exist as a geological material in the Americas, making Inca construction impossible regardless of architectural knowledge",
+      "c": "Nomadic steppe tribes would spontaneously build pyramids across Central Asia as a direct result of Southeast Asian masonry innovations",
+      "d": "Indian metallurgy would collapse entirely, as Indian craftspeople would lose all ability to work with metal once Southeast Asian stone-masonry demonstrated superior precision"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 91,
+    "question": "If the earliest discovery of long-distance desert caravan logistics occurred in India instead of North Africa, would the Sahara trade routes still form in the same sequence?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 92,
+    "question": "If Indian merchants perfected desert trade organization 500 years before North African practices, which consequence matches most realistic historical diffusion patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "Indian overland networks would expand across steppes and deserts earlier, while North African merchants would gradually discover identical logistical solutions through experimentation with trans-Saharan routes, creating separate but eventually interconnected trade systems",
+      "b": "North Africa would transform into tropical rainforest permanently, making desert travel impossible and preventing Saharan trade routes from ever forming",
+      "c": "Ice Age glaciation would reverse its retreat pattern, causing unprecedented ice expansion that would destroy all overland trade across continental interiors",
+      "d": "Cattle domestication would vanish globally, as Indian caravan knowledge would somehow prevent animal husbandry from developing anywhere else on Earth"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 93,
+    "question": "If the discovery of olive oil pressing began in Egypt instead of the Aegean, would Mediterranean trade specialization remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 94,
+    "question": "If Egyptian agricultural specialists perfected olive pressing and oil storage 500 years before Aegean methods, which outcome is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Egyptian oil production would dominate Mediterranean trade initially, while Greek and Aegean regions would independently develop olive cultivation and pressing from local environmental conditions and trade incentives, eventually creating competing but complementary economic niches",
+      "b": "Olives would cease growing in Greek territories, as the plant species would somehow be unable to thrive in Mediterranean climates without Egyptian precedent",
+      "c": "Mediterranean sailing would become physically impossible, as olive oil technology would trigger some cascade preventing maritime navigation in the region",
+      "d": "All agriculture would shift exclusively to Egypt, as Egyptian innovation would prevent crop cultivation anywhere else across the Mediterranean basin"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 95,
+    "question": "If early glacier-mapping techniques originated in the Tibetan Plateau instead of Scandinavia, would European climate studies develop along the same timeline?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 96,
+    "question": "If Tibetan scholars formally mapped glacial dynamics and climate patterns 1000 years before European glaciologists, which downstream effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Asian scholars might refine high-altitude climate models earlier through Himalayan observations, while European scientists would eventually develop parallel glaciology from Alpine glacial studies, creating separate but eventually converging climate understanding",
+      "b": "Glaciers across Earth would stop melting entirely, as if glacier-mapping documentation would physically reverse planetary climate warming",
+      "c": "The Himalayas would shrink to grassy hills instantly, as Tibetan scientific observation would somehow trigger tectonic reorganization of mountain systems",
+      "d": "Polar regions would become tropical year-round, as glacier-mapping would extend to Arctic/Antarctic climate control mechanisms"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 97,
+    "question": "If the earliest discovery of pumice-based surgical cleaning emerged in Polynesia instead of Rome, would sanitation practices in Europe still progress identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "If Polynesian healers formally documented pumice stone surgical cleaning 1000 years before Roman physicians, what is the most plausible outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Polynesian medical practitioners would reduce surgical infection rates earlier, while Mediterranean physicians would gradually discover identical sanitization methods through empirical observation of wound outcomes, eventually achieving comparable surgical mortality improvements",
+      "b": "All infectious diseases worldwide would immediately disappear, as Polynesian pumice documentation would trigger spontaneous global infection eradication",
+      "c": "European plague outbreaks would transform into airborne lava events, as Polynesian cleaning knowledge would somehow trigger volcanic responses in European geography",
+      "d": "North American populations would develop antibiotics by 500 BCE, as Polynesian healing practices would catalyze technological acceleration across the Pacific"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 99,
+    "question": "If the discovery of the psychological 'illusion of truth' bias occurred in medieval Persia instead of 20th-century Europe, would modern propaganda studies be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "If Persian philosophers formally documented the 'illusion of truth' cognitive bias 800 years before modern psychology, which consequence is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian rhetoric scholars might influence Islamic and medieval European rhetorical training practices, while modern cognitive scientists would independently validate the illusion of truth bias through empirical laboratory experiments, converging on identical psychological mechanisms",
+      "b": "All forms of language deception would vanish forever, as documented awareness of the bias would somehow prevent its operation in human cognition",
+      "c": "Human memory would become mathematically perfect, as Persian philosophical documentation would upgrade all brains to perfectly accurate recall systems",
+      "d": "Newspapers would become illegal worldwide, as societies would ban all written media to prevent bias propagation"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 101,
+    "question": "If the first discovery of large-scale cave art preservation techniques originated in the Congo Basin instead of Europe, would Paleolithic interpretation trends in France remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 102,
+    "question": "If Central African conservators pioneered cave art preservation 5000 years before European archaeologists, what is the most realistic ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "African cave systems might gain earlier archaeological status and scholarly attention, while European researchers would still discover comparable preservation needs in European caves through identical stratigraphic analysis, creating separate archaeological traditions",
+      "b": "All rock surfaces worldwide would become indestructible, as Central African preservation methods would physically prevent deterioration globally",
+      "c": "Radiocarbon dating would cease functioning, as Central African cave preservation would somehow invalidate atomic decay principles",
+      "d": "The Sahara would revert to ocean coverage, as cave preservation knowledge would trigger hydrological reorganization across continental Africa"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 103,
+    "question": "If the first discovery of large-scale irrigation engineering had occurred in prehistoric Britain instead of Mesopotamia, would the agricultural density of the Fertile Crescent still emerge in the same pattern?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 104,
+    "question": "If sophisticated irrigation canals originated in prehistoric Britain rather than Mesopotamia, which outcome is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Near Eastern societies might develop irrigation centuries later through environmental pressure and independent innovation, achieving similar agricultural densities but on a delayed timeline",
+      "b": "All river-based civilizations worldwide would immediately collapse, as the technological foundation for bronze-age trade networks depends entirely on Mesopotamian hydraulic precedent",
+      "c": "Chinese dynasties would experience accelerated development within 500 years due to knowledge diffusion across the Eurasian steppes, gaining a 2000-year technological advantage",
+      "d": "The Fertile Crescent would never develop systematic agriculture, forcing populations to remain hunter-gatherer indefinitely despite optimal conditions for cultivation"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 105,
+    "question": "If the earliest discovery of copper–tin alloying had occurred in the Andes rather than Anatolia, would Eurasian Bronze Age timelines remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 106,
+    "question": "If bronze alloying originated in the Andes 2000 years before Anatolia, which ripple effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean metal trade networks would expand regionally, while Eurasian societies would independently discover the same copper-tin ratios through trial-and-error experimentation, creating parallel but geographically isolated bronze ages",
+      "b": "European and Asian populations would entirely skip bronze metallurgy, jumping directly from stone tools to iron implements upon contact with Andean traders",
+      "c": "Eurasian civilizations would be unable to work copper or tin at all, as geological copper deposits would somehow migrate to the Americas in response to Andean innovation",
+      "d": "The Indus Valley and Egyptian civilizations would collapse immediately, as their bronze-age economies fundamentally depend on simultaneous invention across multiple continents"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 107,
+    "question": "If the discovery of long-distance camel domestication first happened in Southeast Asia rather than Arabia, would trans-Arabian caravan trade still develop the same way?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "If camel domestication emerged in Southeast Asia first, which scenario most accurately reflects long-term historical probability?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian merchants would eventually domesticate camels independently through observing wild herds and recognizing transport advantages, though Arabian trade routes might delay by centuries and follow different commercial pathways",
+      "b": "Indian Ocean monsoon patterns would cease functioning entirely, making all maritime trade impossible and preventing any alternative transportation networks from emerging",
+      "c": "Wheeled carts would be globally outlawed by Southeast Asian traders to maintain monopoly on overland goods movement, enforcing this prohibition across three continents",
+      "d": "The Roman Empire would form 1000 years earlier as a direct causal result of Southeast Asian camel domestication triggering earlier European political consolidation"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 109,
+    "question": "If early celestial navigation by star-lattices originated in Mali instead of Polynesia, would Pacific wayfinding traditions be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "If star-lattice navigation emerged in Mali by 1000 CE, which effect is most plausible given cultural transmission patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "West African maritime expansion might accelerate along the Atlantic coast, while Polynesian wayfinders would still develop independent star-navigation systems through identical astronomical observations and technological pressures",
+      "b": "Earth's magnetic field would spontaneously reverse direction, destroying all navigation methods except those documented in Mali",
+      "c": "All coastal settlements worldwide would collapse into uninhabitability within 200 years due to some unspecified mechanism linking Mali's star-charts to global oceanic catastrophe",
+      "d": "Greenland would become the primary global trade hub, as Malian astronomers would prove that northern latitudes hold superior navigational advantages"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 111,
+    "question": "If the first mapping of monsoon wind cycles occurred in Arabia instead of India, seasonal trade between East Africa and South Asia would still follow the same timings.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 112,
+    "question": "If Arabian merchants formally mapped monsoon cycles 500 years before Indian astronomers, which downstream effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian sailors might dominate early Indian Ocean trade for centuries, while South Asian traders would gradually adopt similar observational methods and eventually develop independent monsoon models from empirical voyaging data",
+      "b": "Monsoon wind patterns would cease blowing seasonally across the Indian Ocean, creating permanent calm conditions incompatible with any sailing navigation",
+      "c": "East Africa would become permanently uninhabitable as Indian Ocean currents would reverse, making the continent's climate completely inhospitable to human settlement",
+      "d": "Mediterranean storm patterns would cease to exist, as Arabian monsoon knowledge would somehow extend to European weather systems through an unspecified mechanism"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 113,
+    "question": "If the first workable calendar-astronomy tables appeared in Mesoamerica instead of the Near East, Eurasian agricultural scheduling would remain unchanged.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "If advanced calendar astronomy originated in Mesoamerica 1500 years earlier than Near Eastern systems, which outcome fits best?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mesoamerican societies would achieve superior agricultural precision for centuries, while Eurasian civilizations would independently develop calendar systems from lunar observations and seasonal markers, eventually achieving similar accuracy",
+      "b": "The Sun would change its orbital properties to match Mesoamerican astronomical tables, invalidating all Eurasian astronomical observations",
+      "c": "Europe would become permanently nomadic, as Eurasian societies would lose all ability to track seasons without Mesoamerican calendar guidance",
+      "d": "China would never invent paper, as Chinese innovation in writing technology depends entirely on prior access to Mesoamerican astronomical data"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 115,
+    "question": "If early domestication of citrus fruits happened in the Mediterranean instead of Southeast Asia, would global citrus genetics remain the same?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 116,
+    "question": "If Mediterranean societies domesticated citrus fruits 2000 years before Southeast Asian cultivation, which effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mediterranean hybridization pathways might create distinct citrus varieties suited to temperate climates, while Southeast Asian societies would independently domesticate local citrus species, producing different but equally diverse genetic lineages",
+      "b": "Bananas would become extinct immediately worldwide, as citrus domestication would somehow trigger global banana ecosystem collapse",
+      "c": "Rice would never grow in Asia, as the domestication of citrus in Mediterranean regions would prevent all subsequent Asian crop development",
+      "d": "The Alps would become tropical year-round, as Mediterranean citrus cultivation would alter European climate patterns and reshape continental weather systems"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 117,
+    "question": "If the discovery of mass textile weaving began in Persia rather than India, Silk Road fiber economics would remain unaffected.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "If Persian scholars perfected mass weaving technology 500 years before Indian weavers, which consequence is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian textile centers would dominate early Silk Road trade, while Indian weaving traditions would emerge independently through cultural innovation and experimentation with local fibers, eventually creating competing but distinct textile economies",
+      "b": "Europe would lose the ability to spin wool permanently, as all fiber-processing technology would become impossible without Persian precedent",
+      "c": "The Silk Road would cease to exist instantly, as the trade route's entire historical existence depends on simultaneous textile innovation across Asia",
+      "d": "All dyes worldwide would become colorless, as Persian dye chemistry would trigger a global cascade preventing pigment production in all other regions"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 119,
+    "question": "If the earliest discovery of coastal fish-smoking for preservation began in Scandinavia rather than Southeast Asia, maritime trade patterns in the Pacific would remain identical.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "If Scandinavian fishermen invented smoking preservation 1000 years before Southeast Asian methods emerged, what is the most plausible ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "Northern European trade hubs might sustain larger maritime communities earlier through protein security, while Southeast Asian traders would discover fish-smoking independently through identical environmental pressures for food preservation",
+      "b": "Marine species would evolve differently across all oceans, preventing any fish-smoking technology from ever working in Asian waters",
+      "c": "Oceans would lose salinity and become freshwater globally, as Scandinavian preservation knowledge would somehow trigger planetary hydrological reorganization",
+      "d": "African herding cultures would completely abandon cattle domestication, as Scandinavian fish-smoking would inexplicably prevent terrestrial animal husbandry"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 121,
+    "question": "If proto-banking systems were discovered first in the Andes rather than Mesopotamia, would Eurasian credit systems form at the same pace?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "If Andean proto-banking record-keeping emerged 1000 years before Mesopotamian systems, which scenario best reflects realistic historical diffusion?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean states might standardize accounting and credit mechanisms earlier, while Eurasian civilizations would independently develop comparable banking systems through identical economic pressures for trade facilitation and record-keeping",
+      "b": "Coins would become physically impossible to mint anywhere, as metallurgical processes would become incompatible with Andean banking precedent",
+      "c": "Writing systems would permanently disappear globally, as human ability to create symbolic records would cease without Andean proto-banking as a foundational template",
+      "d": "Population growth would reverse into permanent decline across all continents, as economic systems would collapse without access to Andean financial innovation"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 123,
+    "question": "If advanced stone-masonry precision emerged in Southeast Asia before the Inca, would Andean architecture develop identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 124,
+    "question": "If Southeast Asian temple builders perfected stone-cutting precision 1500 years before Inca civilization, which ripple effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Southeast Asian temple complexes would showcase advanced masonry earlier, while Andean civilizations would independently develop comparable stone-fitting techniques through identical geological constraints and engineering experimentation",
+      "b": "Granite would cease to exist as a geological material in the Americas, making Inca construction impossible regardless of architectural knowledge",
+      "c": "Nomadic steppe tribes would spontaneously build pyramids across Central Asia as a direct result of Southeast Asian masonry innovations",
+      "d": "Indian metallurgy would collapse entirely, as Indian craftspeople would lose all ability to work with metal once Southeast Asian stone-masonry demonstrated superior precision"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 125,
+    "question": "If the earliest discovery of long-distance desert caravan logistics occurred in India instead of North Africa, would the Sahara trade routes still form in the same sequence?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 126,
+    "question": "If Indian merchants perfected desert trade organization 500 years before North African practices, which consequence matches most realistic historical diffusion patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "Indian overland networks would expand across steppes and deserts earlier, while North African merchants would gradually discover identical logistical solutions through experimentation with trans-Saharan routes, creating separate but eventually interconnected trade systems",
+      "b": "North Africa would transform into tropical rainforest permanently, making desert travel impossible and preventing Saharan trade routes from ever forming",
+      "c": "Ice Age glaciation would reverse its retreat pattern, causing unprecedented ice expansion that would destroy all overland trade across continental interiors",
+      "d": "Cattle domestication would vanish globally, as Indian caravan knowledge would somehow prevent animal husbandry from developing anywhere else on Earth"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 127,
+    "question": "If the discovery of olive oil pressing began in Egypt instead of the Aegean, would Mediterranean trade specialization remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "If Egyptian agricultural specialists perfected olive pressing and oil storage 500 years before Aegean methods, which outcome is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Egyptian oil production would dominate Mediterranean trade initially, while Greek and Aegean regions would independently develop olive cultivation and pressing from local environmental conditions and trade incentives, eventually creating competing but complementary economic niches",
+      "b": "Olives would cease growing in Greek territories, as the plant species would somehow be unable to thrive in Mediterranean climates without Egyptian precedent",
+      "c": "Mediterranean sailing would become physically impossible, as olive oil technology would trigger some cascade preventing maritime navigation in the region",
+      "d": "All agriculture would shift exclusively to Egypt, as Egyptian innovation would prevent crop cultivation anywhere else across the Mediterranean basin"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 129,
+    "question": "If early glacier-mapping techniques originated in the Tibetan Plateau instead of Scandinavia, would European climate studies develop along the same timeline?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "If Tibetan scholars formally mapped glacial dynamics and climate patterns 1000 years before European glaciologists, which downstream effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Asian scholars might refine high-altitude climate models earlier through Himalayan observations, while European scientists would eventually develop parallel glaciology from Alpine glacial studies, creating separate but eventually converging climate understanding",
+      "b": "Glaciers across Earth would stop melting entirely, as if glacier-mapping documentation would physically reverse planetary climate warming",
+      "c": "The Himalayas would shrink to grassy hills instantly, as Tibetan scientific observation would somehow trigger tectonic reorganization of mountain systems",
+      "d": "Polar regions would become tropical year-round, as glacier-mapping would extend to Arctic/Antarctic climate control mechanisms"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 131,
+    "question": "If the earliest discovery of pumice-based surgical cleaning emerged in Polynesia instead of Rome, would sanitation practices in Europe still progress identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 132,
+    "question": "If Polynesian healers formally documented pumice stone surgical cleaning 1000 years before Roman physicians, what is the most plausible outcome?",
+    "type": "MCQ",
+    "options": {
+      "a": "Polynesian medical practitioners would reduce surgical infection rates earlier, while Mediterranean physicians would gradually discover identical sanitization methods through empirical observation of wound outcomes, eventually achieving comparable surgical mortality improvements",
+      "b": "All infectious diseases worldwide would immediately disappear, as Polynesian pumice documentation would trigger spontaneous global infection eradication",
+      "c": "European plague outbreaks would transform into airborne lava events, as Polynesian cleaning knowledge would somehow trigger volcanic responses in European geography",
+      "d": "North American populations would develop antibiotics by 500 BCE, as Polynesian healing practices would catalyze technological acceleration across the Pacific"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 133,
+    "question": "If the discovery of the psychological 'illusion of truth' bias occurred in medieval Persia instead of 20th-century Europe, would modern propaganda studies be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 134,
+    "question": "If Persian philosophers formally documented the 'illusion of truth' cognitive bias 800 years before modern psychology, which consequence is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian rhetoric scholars might influence Islamic and medieval European rhetorical training practices, while modern cognitive scientists would independently validate the illusion of truth bias through empirical laboratory experiments, converging on identical psychological mechanisms",
+      "b": "All forms of language deception would vanish forever, as documented awareness of the bias would somehow prevent its operation in human cognition",
+      "c": "Human memory would become mathematically perfect, as Persian philosophical documentation would upgrade all brains to perfectly accurate recall systems",
+      "d": "Newspapers would become illegal worldwide, as societies would ban all written media to prevent bias propagation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 135,
+    "question": "If the first discovery of large-scale cave art preservation techniques originated in the Congo Basin instead of Europe, would Paleolithic interpretation trends in France remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 136,
+    "question": "If Central African conservators pioneered cave art preservation 5000 years before European archaeologists, what is the most realistic ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "African cave systems might gain earlier archaeological status and scholarly attention, while European researchers would still discover comparable preservation needs in European caves through identical stratigraphic analysis, creating separate archaeological traditions",
+      "b": "All rock surfaces worldwide would become indestructible, as Central African preservation methods would physically prevent deterioration globally",
+      "c": "Radiocarbon dating would cease functioning, as Central African cave preservation would somehow invalidate atomic decay principles",
+      "d": "The Sahara would revert to ocean coverage, as cave preservation knowledge would trigger hydrological reorganization across continental Africa"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 137,
+    "question": "If the first discovery of large-scale irrigation engineering had occurred in prehistoric Britain instead of Mesopotamia, would the agricultural density of the Fertile Crescent still emerge in the same pattern?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 138,
+    "question": "If sophisticated irrigation canals originated in prehistoric Britain rather than Mesopotamia, which outcome is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Near Eastern societies might develop irrigation centuries later through environmental pressure and independent innovation, achieving similar agricultural densities but on a delayed timeline",
+      "b": "All river-based civilizations worldwide would immediately collapse, as the technological foundation for bronze-age trade networks depends entirely on Mesopotamian hydraulic precedent",
+      "c": "Chinese dynasties would experience accelerated development within 500 years due to knowledge diffusion across the Eurasian steppes, gaining a 2000-year technological advantage",
+      "d": "The Fertile Crescent would never develop systematic agriculture, forcing populations to remain hunter-gatherer indefinitely despite optimal conditions for cultivation"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 139,
+    "question": "If the earliest discovery of copper–tin alloying had occurred in the Andes rather than Anatolia, would Eurasian Bronze Age timelines remain identical?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 140,
+    "question": "If bronze alloying originated in the Andes 2000 years before Anatolia, which ripple effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean metal trade networks would expand regionally, while Eurasian societies would independently discover the same copper-tin ratios through trial-and-error experimentation, creating parallel but geographically isolated bronze ages",
+      "b": "European and Asian populations would entirely skip bronze metallurgy, jumping directly from stone tools to iron implements upon contact with Andean traders",
+      "c": "Eurasian civilizations would be unable to work copper or tin at all, as geological copper deposits would somehow migrate to the Americas in response to Andean innovation",
+      "d": "The Indus Valley and Egyptian civilizations would collapse immediately, as their bronze-age economies fundamentally depend on simultaneous invention across multiple continents"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 141,
+    "question": "If the discovery of long-distance camel domestication first happened in Southeast Asia rather than Arabia, would trans-Arabian caravan trade still develop the same way?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 142,
+    "question": "If camel domestication emerged in Southeast Asia first, which scenario most accurately reflects long-term historical probability?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian merchants would eventually domesticate camels independently through observing wild herds and recognizing transport advantages, though Arabian trade routes might delay by centuries and follow different commercial pathways",
+      "b": "Indian Ocean monsoon patterns would cease functioning entirely, making all maritime trade impossible and preventing any alternative transportation networks from emerging",
+      "c": "Wheeled carts would be globally outlawed by Southeast Asian traders to maintain monopoly on overland goods movement, enforcing this prohibition across three continents",
+      "d": "The Roman Empire would form 1000 years earlier as a direct causal result of Southeast Asian camel domestication triggering earlier European political consolidation"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 143,
+    "question": "If early celestial navigation by star-lattices originated in Mali instead of Polynesia, would Pacific wayfinding traditions be unchanged?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 144,
+    "question": "If star-lattice navigation emerged in Mali by 1000 CE, which effect is most plausible given cultural transmission patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "West African maritime expansion might accelerate along the Atlantic coast, while Polynesian wayfinders would still develop independent star-navigation systems through identical astronomical observations and technological pressures",
+      "b": "Earth's magnetic field would spontaneously reverse direction, destroying all navigation methods except those documented in Mali",
+      "c": "All coastal settlements worldwide would collapse into uninhabitability within 200 years due to some unspecified mechanism linking Mali's star-charts to global oceanic catastrophe",
+      "d": "Greenland would become the primary global trade hub, as Malian astronomers would prove that northern latitudes hold superior navigational advantages"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 145,
+    "question": "If the first mapping of monsoon wind cycles occurred in Arabia instead of India, seasonal trade between East Africa and South Asia would still follow the same timings.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 146,
+    "question": "If Arabian merchants formally mapped monsoon cycles 500 years before Indian astronomers, which downstream effect is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Arabian sailors might dominate early Indian Ocean trade for centuries, while South Asian traders would gradually adopt similar observational methods and eventually develop independent monsoon models from empirical voyaging data",
+      "b": "Monsoon wind patterns would cease blowing seasonally across the Indian Ocean, creating permanent calm conditions incompatible with any sailing navigation",
+      "c": "East Africa would become permanently uninhabitable as Indian Ocean currents would reverse, making the continent's climate completely inhospitable to human settlement",
+      "d": "Mediterranean storm patterns would cease to exist, as Arabian monsoon knowledge would somehow extend to European weather systems through an unspecified mechanism"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 147,
+    "question": "If the first workable calendar-astronomy tables appeared in Mesoamerica instead of the Near East, Eurasian agricultural scheduling would remain unchanged.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 148,
+    "question": "If advanced calendar astronomy originated in Mesoamerica 1500 years earlier than Near Eastern systems, which outcome fits best?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mesoamerican societies would achieve superior agricultural precision for centuries, while Eurasian civilizations would independently develop calendar systems from lunar observations and seasonal markers, eventually achieving similar accuracy",
+      "b": "The Sun would change its orbital properties to match Mesoamerican astronomical tables, invalidating all Eurasian astronomical observations",
+      "c": "Europe would become permanently nomadic, as Eurasian societies would lose all ability to track seasons without Mesoamerican calendar guidance",
+      "d": "China would never invent paper, as Chinese innovation in writing technology depends entirely on prior access to Mesoamerican astronomical data"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 149,
+    "question": "If early domestication of citrus fruits happened in the Mediterranean instead of Southeast Asia, would global citrus genetics remain the same?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 150,
+    "question": "If Mediterranean societies domesticated citrus fruits 2000 years before Southeast Asian cultivation, which effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mediterranean hybridization pathways might create distinct citrus varieties suited to temperate climates, while Southeast Asian societies would independently domesticate local citrus species, producing different but equally diverse genetic lineages",
+      "b": "Bananas would become extinct immediately worldwide, as citrus domestication would somehow trigger global banana ecosystem collapse",
+      "c": "Rice would never grow in Asia, as the domestication of citrus in Mediterranean regions would prevent all subsequent Asian crop development",
+      "d": "The Alps would become tropical year-round, as Mediterranean citrus cultivation would alter European climate patterns and reshape continental weather systems"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 151,
+    "question": "If the discovery of mass textile weaving began in Persia rather than India, Silk Road fiber economics would remain unaffected.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 152,
+    "question": "If Persian scholars perfected mass weaving technology 500 years before Indian weavers, which consequence is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Persian textile centers would dominate early Silk Road trade, while Indian weaving traditions would emerge independently through cultural innovation and experimentation with local fibers, eventually creating competing but distinct textile economies",
+      "b": "Europe would lose the ability to spin wool permanently, as all fiber-processing technology would become impossible without Persian precedent",
+      "c": "The Silk Road would cease to exist instantly, as the trade route's entire historical existence depends on simultaneous textile innovation across Asia",
+      "d": "All dyes worldwide would become colorless, as Persian dye chemistry would trigger a global cascade preventing pigment production in all other regions"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 153,
+    "question": "If the earliest discovery of coastal fish-smoking for preservation began in Scandinavia rather than Southeast Asia, maritime trade patterns in the Pacific would remain identical.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 154,
+    "question": "If Scandinavian fishermen invented smoking preservation 1000 years before Southeast Asian methods emerged, what is the most plausible ripple effect?",
+    "type": "MCQ",
+    "options": {
+      "a": "Northern European trade hubs might sustain larger maritime communities earlier through protein security, while Southeast Asian traders would discover fish-smoking independently through identical environmental pressures for food preservation",
+      "b": "Marine species would evolve differently across all oceans, preventing any fish-smoking technology from ever working in Asian waters",
+      "c": "Oceans would lose salinity and become freshwater globally, as Scandinavian preservation knowledge would somehow trigger planetary hydrological reorganization",
+      "d": "African herding cultures would completely abandon cattle domestication, as Scandinavian fish-smoking would inexplicably prevent terrestrial animal husbandry"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 155,
+    "question": "If proto-banking systems were discovered first in the Andes rather than Mesopotamia, would Eurasian credit systems form at the same pace?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 156,
+    "question": "If Andean proto-banking record-keeping emerged 1000 years before Mesopotamian systems, which scenario best reflects realistic historical diffusion?",
+    "type": "MCQ",
+    "options": {
+      "a": "Andean states might standardize accounting and credit mechanisms earlier, while Eurasian civilizations would independently develop comparable banking systems through identical economic pressures for trade facilitation and record-keeping",
+      "b": "Coins would become physically impossible to mint anywhere, as metallurgical processes would become incompatible with Andean banking precedent",
+      "c": "Writing systems would permanently disappear globally, as human ability to create symbolic records would cease without Andean proto-banking as a foundational template",
+      "d": "Population growth would reverse into permanent decline across all continents, as economic systems would collapse without access to Andean financial innovation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 157,
+    "question": "If advanced stone-masonry precision emerged in Southeast Asia before the Inca, would Andean architecture develop identically?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 158,
+    "question": "If Southeast Asian temple builders perfected stone-cutting precision 1500 years before Inca civilization, which ripple effect is most plausible?",
+    "type": "MCQ",
+    "options": {
+      "a": "Southeast Asian temple complexes would showcase advanced masonry earlier, while Andean civilizations would independently develop comparable stone-fitting techniques through identical geological constraints and engineering experimentation",
+      "b": "Granite would cease to exist as a geological material in the Americas, making Inca construction impossible regardless of architectural knowledge",
+      "c": "Nomadic steppe tribes would spontaneously build pyramids across Central Asia as a direct result of Southeast Asian masonry innovations",
+      "d": "Indian metallurgy would collapse entirely, as Indian craftspeople would lose all ability to work with metal once Southeast Asian stone-masonry demonstrated superior precision"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 159,
+    "question": "If the earliest discovery of long-distance desert caravan logistics occurred in India instead of North Africa, would the Sahara trade routes still form in the same sequence?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 160,
+    "question": "If Indian merchants perfected desert trade organization 500 years before North African practices, which consequence matches most realistic historical diffusion patterns?",
+    "type": "MCQ",
+    "options": {
+      "a": "Indian overland networks would expand across steppes and deserts earlier, while North African merchants would gradually discover identical logistical solutions through experimentation with trans-Saharan routes, creating separate but eventually interconnected trade systems",
+      "b": "North Africa would transform into tropical rainforest permanently, making desert travel impossible and preventing Saharan trade routes from ever forming",
+      "c": "Ice Age glaciation would reverse its retreat pattern, causing unprecedented ice expansion that would destroy all overland trade across continental interiors",
+      "d": "Cattle domestication would vanish globally, as Indian caravan knowledge would somehow prevent animal husbandry from developing anywhere else on Earth"
+    },
+    "answer": "a"
+  }
+]

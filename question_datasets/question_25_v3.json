@@ -1,0 +1,1762 @@
+[
+  {
+    "question_id": 1,
+    "question": "If Tyrannosaurus rex had been suddenly transported to the Anthropocene with its identical physiology unchanged, would predatory success depend primarily on prey availability rather than climate adaptation?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "How would a Tyrannosaurus rex survive in modern ecosystems?",
+    "type": "MCQ",
+    "options": {
+      "a": "It would fail catastrophically because prey metabolic rates have doubled since the Cretaceous, making hunting thermodynamically impossible",
+      "b": "Thermoregulatory constraints from Cretaceous gigantism would prevent efficient hunting despite adequate prey existing",
+      "c": "It could establish dominance initially through superior bite force, though sustaining caloric intake would require behavioral modification of hunting patterns",
+      "d": "Modern atmospheric oxygen levels are too low, causing cellular respiration failure across all tissues"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 3,
+    "question": "If Homo erectus possessed modern human cognitive architecture but retained ancestral morphology, could they acquire language skills through neural plasticity alone without anatomical throat modifications?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "Can Homo erectus survive in modern cities without technological assistance?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, if cognitive architecture matches modern humans, but they'd require speech therapy for laryngeal limitations",
+      "b": "No—they lack the precise motor cortex mapping for fine manipulation of tools, making survival impossible regardless of intelligence",
+      "c": "They could survive through communicating via gestures and written symbols, though social integration would face persistent barriers from morphological differences",
+      "d": "They'd be unable to process modern sensory stimuli because their visual cortex lacks color-processing refinement"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "If Archaeopteryx possessed modern-grade feather insulation but maintained Jurassic skeletal proportions, would energy expenditure in sustained flight exceed what terrestrial browsing could sustain?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 6,
+    "question": "Could Archaeopteryx survive in modern forests?",
+    "type": "MCQ",
+    "options": {
+      "a": "Only if it became strictly nocturnal to avoid competition with modern birds that have optimized wing loading ratios",
+      "b": "No—its wing-to-body ratio would prohibit powered flight in Earth's current atmospheric density, though gliding would remain possible from elevated positions",
+      "c": "It might establish a niche as a canopy predator, hunting insects and small vertebrates using ambush tactics instead of pursuit",
+      "d": "It would inevitably be outcompeted because modern birds have evolved hyperoxygenic blood that Archaeopteryx lacks genetically"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 7,
+    "question": "If Megatherium maintained its 6-ton mass in modern rainforests with current soil bearing capacity, would nutritional demands force it into specialized diet rather than generalist browsing?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "Can a Megatherium survive in modern tropical rainforests?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, if it shifts from terrestrial browsing to semi-aquatic herbivory, exploiting water plants with 200% higher caloric density than available leaves",
+      "b": "No—the forest canopy has become more densely interlaced over evolutionary time, making its 20-foot reach insufficient for adequate browse height",
+      "c": "It would require constant migration through territories exceeding 500 square kilometers, but modern habitat fragmentation makes this ecologically impossible",
+      "d": "Megatherium would experience cellular dehydration because rainforest humidity is saturated beyond what its Pleistocene skin microbiota can regulate"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 9,
+    "question": "If Neanderthals retained their ancestors' cold-adaptation physiology but lost cultural technology transmission, would their biological thermoregulation alone permit survival in last-glacial-maximum conditions?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 10,
+    "question": "Can Neanderthals survive in a modern ice age scenario?",
+    "type": "MCQ",
+    "options": {
+      "a": "They could survive initial stages but would face cascading cultural collapse because memory-dependent tool knowledge wouldn't be encoded biologically",
+      "b": "Yes, their barrel chests and peripheral vasoconstrictive adaptations would be entirely sufficient, though they'd outcompete modern humans in cold efficiency",
+      "c": "No—since the last ice age, atmospheric composition has changed sufficiently that their hemoglobin oxygen-binding affinity would be mismatched",
+      "d": "Neanderthals could adapt behaviorally by developing fire-making technology independently, as their neural architecture permits innovation given environmental pressure"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 11,
+    "question": "If saber-tooth cats could teleport to modern Africa with prey composition identical to Pleistocene but with 90% smaller herbivores, would bite-force advantage translate to hunting success via modified technique?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 12,
+    "question": "Can saber-tooth cats survive if megafauna disappeared?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, they could transition to hunting smaller prey through ligament-strengthening adaptations, though caloric requirements would necessitate 40 kills daily",
+      "b": "No—their forelimb musculature is so specialized for subduing megafauna that the torque physics become disadvantageous against mobile small prey",
+      "c": "They'd face ecological collapse because their throat anatomy permits only specialized throat-biting on animals exceeding 500kg body mass",
+      "d": "Paradoxically yes—their lower prey acquisition efficiency would be offset by reduced intraspecific competition, stabilizing populations through lower density"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 13,
+    "question": "If trilobites were placed in modern oceans with water chemistry identical to Paleozoic conditions but contemporary predator fauna, would their chitinous exoskeleton provide defense against teleost fish predation?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 14,
+    "question": "Can trilobites survive in modern oceans?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—they would experience immediate paralysis from osmotic imbalance because Paleozoic oceans had different magnesium concentrations",
+      "b": "Yes, their armored exoskeleton would resist fish bites, but their sensory apparatus is calibrated to detect only arthropod-level threats, creating predatory vulnerability",
+      "c": "They could survive if they occupied benthic cryptic niches, though their filter-feeding mechanism is too slow to compete with modern small crustaceans",
+      "d": "No—modern microbial biofilms would clog their respiratory appendages within weeks due to bacterial evolution since the Paleozoic"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "If woolly mammoths retained their ultra-dense fur but existed in modern temperate zones without glacial cycles, would thermal stress induce physiological collapse before behavioral adaptation?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "Can woolly mammoths survive in modern temperate forests?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—they would die from hyperthermia because their integumentary system lacks sweat glands and active thermoregulation mechanisms",
+      "b": "Yes, though they'd need to adopt nocturnal activity patterns and frequent water immersion to manage thermal load",
+      "c": "They could survive in higher-latitude temperate zones where seasonal temperature variation remains within Pleistocene parameters, though spring/fall transitions would create bottleneck conditions",
+      "d": "They'd be unable to process modern plant cellulose because microbiome bacteria from their rumen haven't co-evolved with contemporary flora"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "If giant sloths possessed modern muscle fiber composition but retained ancestral skeletal architecture, would their stride length limitations prevent escape from predators regardless of sprint capability?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 18,
+    "question": "Can giant sloths survive in modern grasslands?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their pelvic anatomy prevents rapid direction changes, making predator evasion impossible even if raw speed were adequate",
+      "b": "Yes, if they occupied defensible ecological niches like rocky outcrops where sprint speed becomes less critical than climbing ability",
+      "c": "They could potentially survive through herd behavior and sentinel systems, despite individual mobility constraints",
+      "d": "No—grassland visibility would make their cryptic coloration useless, and they'd be detected by modern predators' enhanced olfactory range"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "If Opabinia maintained Cambrian body mechanics but experienced modern water viscosity and salinity, would its five-eyed visual system provide sensory advantage against contemporary competitors?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 20,
+    "question": "Can Opabinia survive in modern seas?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—its hydrodynamic design creates drag coefficients incompatible with modern current velocities, making sustained swimming metabolically prohibitive",
+      "b": "Yes, its unusual sensory configuration would provide unprecedented predatory advantage, allowing detection of prey across multiple spectral ranges simultaneously",
+      "c": "It could establish ecological success if it occupied specialized deep-sea hydrothermal niches where competition remains minimal",
+      "d": "No—the calcium saturation state in modern oceans differs from Cambrian seas, preventing shell mineralization in its body plan"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 21,
+    "question": "If Carboniferous dragonflies maintained their 30-cm wingspans in modern 21% oxygen but contemporary gravity, would wing-loading physics render flight metabolically impossible?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 22,
+    "question": "Can Carboniferous giant dragonflies survive today?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—the reduction from 35% to 21% oxygen makes wing-muscle ATP generation insufficient for the power demands of their body mass",
+      "b": "Yes, though they'd be thermally stressed because their smaller surface-area-to-mass ratio impairs heat dissipation efficiency",
+      "c": "They could survive if they became primarily gliders, using thermal updrafts rather than powered flight for daily activity",
+      "d": "No—modern predatory birds would outcompete them because bird cardiovascular systems have evolved superior oxygen utilization efficiency"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "If Australopithecus retained ancestral cognition but obtained modern stone tools, would bipedalism become adaptive advantage for tool use despite reduced climbing efficiency?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 24,
+    "question": "Can Australopithecus survive with modern tools in their native habitat?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, with tools they could extend ecological niche to include resource acquisition previously impossible, though cultural transmission wouldn't accumulate",
+      "b": "No—their hand morphology, while capable of grasping tools, lacks the proprioceptive feedback necessary for complex manipulation",
+      "c": "They could achieve moderate success through learned tool use within individual lifetimes, but population-level advantages wouldn't compound across generations",
+      "d": "No—their bipedal gait creates overheating risk during daytime foraging that modern tool availability cannot mitigate"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "If thylacines were reintroduced to Tasmania before dingo invasion, would their marsupial metabolism provide hunting efficiency advantage over placental canid predators?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 26,
+    "question": "Can thylacines compete with dingoes in Tasmania?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—dingoes have superior pack-coordination cognition that thylacines cannot match due to their solitary behavioral evolution",
+      "b": "Yes, if they formed stable social groups to match dingo pack structures, their metabolic efficiency would reduce caloric requirements per hunt",
+      "c": "They'd experience initial population success but face inevitable decline because their reproductive rate cannot match dingo litter sizes",
+      "d": "No—dingoes have evolved enhanced pathogen tolerance, so disease competition would eliminate thylacines within two generations"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 27,
+    "question": "If Gigantopithecus possessed modern human thermoregulation but retained its 3-meter height and 500kg mass, would browsing-level energy demands exceed rainforest carrying capacity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "Can Gigantopithecus survive in modern climate-changed forests?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—its frugivory requirements would exceed available fruit production by 300%, forcing starvation despite adequate forest coverage",
+      "b": "Yes, if it became primarily folivorous, shifting diet composition would reduce caloric demands to sustainable levels",
+      "c": "It could survive through behavioral adaptation to night-foraging, reducing thermoregulatory stress during high-temperature daylight periods",
+      "d": "No—its body size creates cartilage stress fractures in modern gravity that Miocene skeletal density cannot withstand"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 29,
+    "question": "If Denisovans possessed their documented EPAS1 adaptations but interacted with modern atmosphere at 8,000m elevation, would genetic altitude adaptation be sufficient without acclimation time?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "Can Denisovans survive at extreme altitudes better than modern humans?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their hemoglobin modifications would provide ~15% enhanced oxygen binding, permitting activity modern humans require supplemental oxygen to achieve",
+      "b": "No—their genetic advantages would be nullified because atmospheric pressure remains the limiting factor regardless of hemoglobin efficiency",
+      "c": "Denisovans would survive marginally better than modern humans for first 2 weeks, but long-term adaptation would require identical acclimatization",
+      "d": "No—their mitochondrial density, while enhanced, creates excessive metabolic heat in cold environments, causing thermal-shock collapse"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "If Elasmosaurs maintained their 50-foot length and paddle-limb morphology in modern coral reefs with contemporary prey size distribution, would their niche remain viable without Cretaceous-scale fish?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "Can Elasmosaurs thrive in modern coral reef ecosystems?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their body size would be entirely maladaptive, creating inescapable slow-motion swimming vulnerability to faster modern predators",
+      "b": "Yes, they could establish ecological dominance through converting to cooperative group hunting of schooling fish",
+      "c": "They could survive by occupying deep-water niches where light limitation reduces predator visual acuity, though caloric acquisition would be marginal",
+      "d": "No—modern ocean salinity has changed sufficiently that their osmoregulation would fail, causing systemic dehydration"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 33,
+    "question": "If Homo floresiensis encountered modern island predators while retaining tool technology, would 3.5-foot height enable ecological success through refugia niche-specialization?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "Can Homo floresiensis survive on modern volcanic islands with predators?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their small size provides predator-evasion advantage and reduced resource competition, permitting stable populations",
+      "b": "No—modern island predators have evolved enhanced olfactory tracking, making cave refugia insufficiently secure",
+      "c": "They could survive through exploitation of abundant coastal resources (shellfish, crustaceans) that their tool technology could access",
+      "d": "No—their smaller brain volume prevents learning modern predator behavior patterns, ensuring hunting vulnerability"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 35,
+    "question": "If Quetzalcoatlus possessed modern skeletal density but maintained its 35-foot wingspan in modern atmosphere, would wing-loading physics render sustained flight impossible?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 36,
+    "question": "Can Quetzalcoatlus fly in modern atmosphere?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—wing-muscle power requirements exceed what any living organism can sustain at 12 m wingspan mass ratio",
+      "b": "Yes, through thermal-soaring behavior exploiting atmospheric updrafts, it could achieve sustained flight",
+      "c": "It might fly intermittently in tropical regions with consistent thermals, but migration patterns would become impossible",
+      "d": "No—Cretaceous atmospheric pressure was higher, enabling wings to generate more lift; modern air density is insufficient"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "If Sivatherium competed in savanna where rainfall patterns shifted to semi-desert conditions, would browse-specialist morphology become ecological liability?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 38,
+    "question": "Can Sivatherium adapt to shifting African climate?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—its elaborate horns create thermoregulatory inefficiency in increased heat stress, preventing adaptation regardless of diet flexibility",
+      "b": "Yes, if it shifted to grazing behavior and modified jaw biomechanics, it could exploit alternative resources",
+      "c": "It could survive through seasonal migration patterns, following residual high-rainfall zones",
+      "d": "No—its digestive enzymes are specialized for browse-specific plant chemistry that semi-desert flora cannot match"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 39,
+    "question": "If Neanderthals coexisted with modern humans in tundra environments, would their superior cold-adaptation physiology provide competitive advantage despite cognitive disadvantages?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 40,
+    "question": "Can Neanderthals compete with modern humans in tundra?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their thermoregulatory efficiency would reduce caloric demands below modern humans, enabling population expansion",
+      "b": "No—modern human technology accumulation would outpace Neanderthal innovation, causing resource monopolization by Homo sapiens",
+      "c": "Neanderthals would initially succeed through metabolic efficiency but face long-term extinction as modern humans develop superior tools",
+      "d": "No—Neanderthal immune systems cannot process pathogens modern humans carry, causing epidemic collapse within decades"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 41,
+    "question": "If Titanoboa maintained Paleocene physiology but occupied modern rainforest cooled to Paleocene temperatures through climate manipulation, would its 42-foot length create foraging inefficiency?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 42,
+    "question": "Can Titanoboa hunt in modern rainforests if paleoclimate conditions returned?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, with lower temperatures supporting its metabolic demands, prey availability would sustain large-snake populations",
+      "b": "No—modern prey species are faster than Paleocene equivalents, making Titanoboa's pursuit-predation strategy inefficient",
+      "c": "It could establish dominance through ambush predation of large mammals, though handling time per kill would increase nutritional costs",
+      "d": "No—snake venom has evolved in modern species for tissue resistance that Titanoboa's ancestral venom cannot penetrate"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 43,
+    "question": "If Phenacodus were transported with modern forest ecology but identical plant chemistry composition, would its unspecialized dentition enable dietary flexibility sufficient for population persistence?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "Can Phenacodus survive in modern deciduous forests?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, its unspecialized teeth would permit omnivory, though caloric intake rate would trail modern ungulates",
+      "b": "No—modern predators are too efficient for a small, slow ungulate to escape, causing inevitable predation collapse",
+      "c": "It could establish populations through nocturnal behavior and cryptic coloration, reducing predator encounter rates",
+      "d": "No—its four-toed foot anatomy cannot achieve speed on modern soil substrate, causing mechanical energy waste"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 45,
+    "question": "If Thermops maintained Devonian fish physiology but inhabited modern lake systems with modern fish fauna and parasites, would its lack of stomach (straight-gut design) prevent competing for resources?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "Can Devonian fish survive in modern lakes?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their inability to process diverse food sizes forces specialization on specific prey, making competition for niche resources unwinnable",
+      "b": "Yes, they could compete through specialized niche occupation, perhaps exploiting resources modern fish overlook",
+      "c": "They could survive if they became planktivorous, filtering abundant small organisms that larger modern fish ignore",
+      "d": "No—modern lake parasites have evolved specifically to infect fish with stomach-containing guts; Thermops immunity would fail catastrophically"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 47,
+    "question": "If Peking Man possessed identical morphology but inhabited modern temperate zone with fire-making knowledge preserved culturally, would climate adaptation occur within generational timescales?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 48,
+    "question": "Can Peking Man survive modern temperate climates?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, fire technology would provide thermal compensation allowing survival despite body morphology inadequacy for modern cold",
+      "b": "No—cultural knowledge wouldn't be encoded genetically, so each generation would need to relearn fire-making, causing technological collapse",
+      "c": "Peking Man could establish stable populations through seasonal behavioral adaptation and social thermal-sharing practices",
+      "d": "No—their smaller brain volume compared to modern humans would prevent technological innovation needed for shelter construction"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 49,
+    "question": "If Ambulocetus occupied modern estuaries with contemporary predator and prey communities, would its transitional morphology create ecological instability between aquatic and terrestrial hunting?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 50,
+    "question": "Can Ambulocetus compete in modern estuarine systems?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, its amphibious capabilities would provide predatory flexibility modern cetaceans and pinnipeds cannot match",
+      "b": "No—it would be outcompeted by specialized aquatic predators in water and terrestrial predators on land simultaneously",
+      "c": "It could establish small populations through exploiting ecological gaps neither fully aquatic nor terrestrial specialists occupy",
+      "d": "No—modern marine bacteria would infect its respiratory system because Eocene-adapted immune responses wouldn't recognize contemporary pathogens"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 51,
+    "question": "If Entelodont possessed modern immune system but retained saber-tooth pig dentition in grassland with modern apex predators, would its tusks provide dominance advantage?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 52,
+    "question": "Can Entelodonts survive in modern grasslands?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their powerful tusks would provide unmatched defensive capability against modern predators",
+      "b": "No—modern predators hunt cooperatively with technologies (speed, endurance) that tusk-based defense cannot counter",
+      "c": "They could persist through aggressive defense behaviors, maintaining small populations in marginal habitats",
+      "d": "No—their massive jaw muscles create speed deficiency, making predator evasion impossible regardless of weapon capability"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 53,
+    "question": "If Seymouria maintained carboniferous respiratory anatomy but occupied modern forest with modern arthropods and vertebrates, would its transitional tetrapod physiology enable competitive hunting?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "Can Seymouria survive on modern forest floors?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—its lung-gill hybrid system cannot support metabolic rates required to compete with modern ambush predators",
+      "b": "Yes, through exploiting cryptic microhabitats and specialized termite predation",
+      "c": "It could establish small populations in cave systems where humidity and arthropod abundance favor its physiology",
+      "d": "No—modern soil chemistry has changed so dramatically that substrate-based osmoregulation fails"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 55,
+    "question": "If Myiacyon maintained miocene carnivoran physiology but occupied modern desert with hyper-specialized predators, would convergent evolution create inevitable niche displacement?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "Can Miocene carnivorans survive in modern deserts?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—they would face immediate elimination through superior predator specialization evolved during their absence",
+      "b": "Yes, if they occupied cryptic nocturnal niches, their ancestral desert-adaptation genes might resurface",
+      "c": "They could establish populations through scavenging behavior, exploiting carcasses modern predators leave",
+      "d": "No—their smaller brain volume prevents learning modern predator hunting patterns, ensuring consistent failure"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 57,
+    "question": "If Dimetrodon possessed synapsid thermoregulation in modern temperate environments with modern reptiles and mammals, would its sail structure provide thermoregulatory advantage?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 58,
+    "question": "Can Dimetrodon survive competing with modern reptiles and mammals?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern mammals have vastly superior thermoregulatory efficiency that Dimetrodon's sail system cannot match",
+      "b": "Yes, through occupying ecological space too cold for modern reptiles but unsuitable for modern mammals",
+      "c": "It could persist through specialized insectivory and cryptic behavior, exploiting underutilized arthropod resources",
+      "d": "No—its jaw mechanics cannot process modern plant material evolution, forcing strict carnivory and competitive struggle"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "If Paraceratherium maintained Oligocene gigantism but competed in modern habitat with modern megaherbivores, would its 20-ton mass create resource-monopolization advantage?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 60,
+    "question": "Can Paraceratherium compete with modern megaherbivores?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, its size provides uncontested access to high-canopy browse resources",
+      "b": "No—modern grassland ecology has lower browse abundance than Oligocene forests, making mass-based foraging strategy unviable",
+      "c": "It could establish populations by becoming primarily grazing-specialist, shifting from browse to grass exploitation",
+      "d": "No—its massive skeletal system creates arthritis risk in modern soil substrate, causing joint-failure pathology"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 61,
+    "question": "If Thylacoleo maintained marsupial reproduction and metabolism but competed with modern introduced placental carnivores, would marsupial inefficiency guarantee extinction?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "Can Thylacoleo survive against modern Australian carnivores?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their slower reproduction rate would be eliminated by rabbit-predating efficiency of introduced species",
+      "b": "Yes, if they occupied cryptic cave refugia inaccessible to placental predators",
+      "c": "They could establish small populations through specialized hunting of macropods modern carnivores overlook",
+      "d": "No—their specialized bite is optimized for extinct megafauna skull morphology incompatible with modern prey anatomy"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 63,
+    "question": "If Helicoprion maintained its hydrodynamic design but inhabited modern oceans with modern sharks and marine predators, would its tooth-whorl morphology provide hunting advantage?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 64,
+    "question": "Can Helicoprion survive in modern oceans?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—its bizarre feeding mechanism would be outcompeted by modern shark bite mechanics optimized through millions of years evolution",
+      "b": "Yes, through deep-sea occupation where competition remains minimal and its unusual morphology becomes advantageous",
+      "c": "It could exploit cephalopod-specialization niche, using tooth-whorl for precise squid penetration modern sharks cannot achieve",
+      "d": "No—modern ocean salinity differs from Carboniferous seas, preventing osmoregulation and causing dehydration death"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 65,
+    "question": "If Placodermi possessed dermal armor but lacked modern shark adaptations in coral reef with teleost fishes, would their inflexibility prevent ecological success?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 66,
+    "question": "Can armored Devonian fish survive on modern coral reefs?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their armor would provide protection enabling establishment of predatory dominance",
+      "b": "No—their armor creates inflexibility preventing maneuverability against faster teleost competitors",
+      "c": "They could survive in specialized cryptic reef niches with reduced visibility, exploiting concealment over speed",
+      "d": "No—their lack of swim bladder prevents buoyancy control modern reef fish use for energy efficiency"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 67,
+    "question": "If Iguanodon maintained herbivorous specialization but inhabited modern forest with modern herbivores and predators, would bipedal locomotion create predation vulnerability?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "Can Iguanodon survive in modern temperate forests?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, its bipedalism permits speed advantage over modern forest herbivores",
+      "b": "No—modern predators are too efficient for a large slow dinosaur to escape",
+      "c": "It could establish populations through browsing canopy resources modern herbivores cannot reach",
+      "d": "No—its dental specialization for cycad-level vegetation means modern angiosperm dominance provides incompatible food source"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 69,
+    "question": "If dodos possessed modern avian flight capability while retaining dietary specialization, would behavioral naïveté still guarantee extinction when predators arrived?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "Could flying dodos survive predator introduction?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, flight capability would enable predator evasion through aerial escape",
+      "b": "No—their behavior-pattern rigidity would persist, causing identical predation vulnerability despite flight capability",
+      "c": "They could survive through developing anti-predator vigilance behaviors requiring only behavioral, not morphological, change",
+      "d": "No—predator-borne pathogens would cause epidemic collapse regardless of predation escape capability"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 71,
+    "question": "If terror birds maintained cursorial adaptations but competed with modern big cats in closed rainforest, would their speed advantage become irrelevant?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 72,
+    "question": "Can terror birds outcompete modern felines in rainforests?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their body morphology is optimized for open-ground pursuit, making rainforest predation impossible",
+      "b": "Yes, through developing ambush tactics exploiting their superior size and talons",
+      "c": "They could establish populations through canopy hunting, exploiting vertical space modern felines underutilize",
+      "d": "No—their avian respiratory system creates overheating risk in humid rainforest environments"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 73,
+    "question": "If non-human primates possessed Homo erectus cognition but retained ancestral anatomy, could behavioral innovation overcome thermoregulatory constraints in glacial conditions?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "Can non-human primates survive ice ages with enhanced cognition?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their integumentary system cannot generate sufficient insulation despite behavioral adaptations",
+      "b": "Yes, through developing fire technology and shelter construction",
+      "c": "They could establish populations in refugial zones with moderated climate, though range would be severely restricted",
+      "d": "No—their lower metabolic rate compared to placental carnivores would prevent competitive foraging in ice-age ecosystems"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 75,
+    "question": "If glyptodonts maintained their armor but inhabited modern savanna with modern predators, would their defensive morphology guarantee security against contemporary threats?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "Can glyptodonts survive with modern predators?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their armor would be impenetrable to all modern predator bite mechanics",
+      "b": "No—their limited mobility would enable predators to wait for vulnerability moments during resource acquisition",
+      "c": "They could survive through group-herding behavior, using collective defense to compensate for individual slowness",
+      "d": "No—their size creates overheating risk when evading predators through thermal-stress collapse"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 77,
+    "question": "If mosasaurs maintained their marine adaptations but competed in modern oceans with great white sharks and orcas, would their jaw design provide hunting advantage?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "Can mosasaurs compete in modern oceans?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their jaw flexibility permits prey-swallowing modern sharks cannot achieve",
+      "b": "No—modern predators have superior sensory systems (electroreception in sharks) mosasaurs lack",
+      "c": "They could establish populations through deep-sea occupation, hunting resources modern predators overlook",
+      "d": "No—modern ocean salinity has changed sufficiently for osmoregulation failure"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 79,
+    "question": "If Haast's eagles retained their gigantism but competed in modern New Zealand with modern predators and reduced megafauna, would their specialization on moa become extinction guarantee?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 80,
+    "question": "Can Haast's eagles survive without moa?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their morphology is entirely specialized for moa hunting with no alternative prey",
+      "b": "Yes, through transitioning to smaller-prey capture, adjusting strike vectors for modern birds",
+      "c": "They could establish populations through scavenging behavior and hunting introduced mammals",
+      "d": "No—their large body mass creates starvation risk when prey density drops below energy-maintenance threshold"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 81,
+    "question": "If Eocene ungulates inhabited modern savanna, would their smaller size compared to modern megafauna create predation vulnerability despite speed advantages?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "Can Eocene ungulates survive on modern savannas?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern predators are sized optimally for modern prey, making archaic small ungulates preferred easy targets",
+      "b": "Yes, through herd behavior providing collective defense mechanisms",
+      "c": "They could establish populations by exploiting underutilized resource niches in marginal habitats",
+      "d": "No—their digestive system evolved for Eocene plant chemistry incompatible with modern savanna vegetation"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 83,
+    "question": "If saber-tooth cats maintained their specialization but occupied modern grassland without competing megacarnivores, would prey abundance enable population recovery?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 84,
+    "question": "Can Smilodon thrive in modern grasslands?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, if prey availability exceeds their specialization requirements",
+      "b": "No—their extreme specialization for megafauna means modern prey size creates metabolic inefficiency",
+      "c": "They could establish populations through developing behavioral flexibility in hunting technique",
+      "d": "No—their forelimb morphology creates overheating risk during pursuit-predation across open grassland"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 85,
+    "question": "If Triassic archosaurs possessed modern immune systems but retained ancestral morphology in modern ecosystems, would their reptilian thermoregulation prevent competition?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 86,
+    "question": "Can Triassic archosaurs compete in modern ecosystems?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern organisms have superior metabolic rates regardless of thermoregulatory strategy",
+      "b": "Yes, through occupying ectothermic thermal-optimization niches",
+      "c": "They could establish small populations in tropical regions with temperature stability",
+      "d": "No—pathogenic bacteria have evolved antibiotic resistance archosaur immune systems cannot overcome"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 87,
+    "question": "If Homo floresiensis possessed modern education systems but retained ancestral cognition, would learned behavior compensate for intelligence disadvantage?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 88,
+    "question": "Can Homo floresiensis function in modern cities?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their smaller brain volume would prevent higher-order processing regardless of education",
+      "b": "Yes, through extensive training and social support enabling functional competence",
+      "c": "They could achieve partial success in structured environments with simplified cognitive demands",
+      "d": "No—their size-related physical limitations would prevent equipment operation and workplace integration"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 89,
+    "question": "If armored placoderms possessed selective predation mechanisms but inhabited modern reef with small teleosts, would their mouth-size create feeding inefficiency?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 90,
+    "question": "Can Dunkleosteus hunt modern reef fish?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their powerful jaw-plates would crush any modern fish regardless of size",
+      "b": "No—their mouth is oversized for abundant small fish, creating energetic waste per feeding",
+      "c": "They could survive through specializing on large reef fish and crustaceans",
+      "d": "No—their armor prevents rapid direction-changes needed for reef hunting"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 91,
+    "question": "If woolly rhinos maintained cold-adaptation but tundra was repopulated with modern megafauna, would ecological competition guarantee population collapse?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 92,
+    "question": "Can woolly rhinos coexist with modern tundra megafauna?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their specialized cold-adaptation creates niche separation",
+      "b": "No—mammoths and modern caribou would monopolize limited browse resources",
+      "c": "They could establish populations through grazing behavior modern megafauna underutilizes",
+      "d": "No—modern parasites have evolved specifically to infect rhinos, causing epidemic disease"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 93,
+    "question": "If sail-backed synapsids possessed modern mammalian adaptations but retained Permian dentition, would jaw mechanics prevent feeding on modern flora?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 94,
+    "question": "Can Permian synapsids eat modern plants?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their dentition is incompatible with angiosperm diversity",
+      "b": "Yes, through developing varied feeding techniques",
+      "c": "They could survive on limited plant species with Permian-compatible chemistry",
+      "d": "No—their smaller brain volume prevents learning food-recognition patterns"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 95,
+    "question": "If 9-foot arthropods maintained carboniferous physiology in modern forest with modern arthropods, would atmospheric oxygen reduction cause metabolic collapse?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 96,
+    "question": "Can Arthropleura survive in modern atmosphere?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their respiratory system is entirely dependent on Carboniferous 35% oxygen levels",
+      "b": "Yes, through metabolic rate reduction compensating for lower oxygen",
+      "c": "They could survive at reduced metabolic rates in cool microclimates",
+      "d": "No—modern arthropod pathogens would cause rapid immune-system failure"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 97,
+    "question": "If Tiktaalik maintained transitional morphology but inhabited modern lakes with modern fish and tetrapods, would its intermediate design create ecological failure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "Can Tiktaalik compete in modern freshwater systems?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—it's too fish-like for land success and too tetrapod-like for water speed",
+      "b": "Yes, through exploiting ecological gaps neither specialist occupies",
+      "c": "It could establish small populations in shallow cryptic habitats",
+      "d": "No—its hybrid respiratory system cannot process modern water chemical composition"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 99,
+    "question": "If anatomically modern humans from 50,000 years ago were transported to Cretaceous with modern cognition but no technology, would cultural knowledge prevent starvation?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "Can paleolithic humans survive the Cretaceous?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—dinosaur predation would eliminate individuals before cultural knowledge application",
+      "b": "Yes, through applying ancestral hunting techniques to Cretaceous megafauna",
+      "c": "They might establish small populations through cave occupation and cautious scavenging",
+      "d": "No—Cretaceous plant toxins would prevent foraging success despite ancestral knowledge"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 101,
+    "question": "If Neanderthals maintained cold-adapted physiology but occupied tropical rainforest, would hyperthermia create immediate physiological crisis?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 102,
+    "question": "Can cold-adapted Neanderthals survive tropical rainforests?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their thermoregulation is specialized for cold, making heat dissipation impossible",
+      "b": "Yes, through behavioral adaptation and water-immersion thermoregulation",
+      "c": "They could establish populations through adopting nocturnal behavior patterns",
+      "d": "No—tropical diseases would cause epidemic collapse regardless of thermoregulation"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 103,
+    "question": "If pterosaurs inhabited modern skies with modern storm intensity, would their wing morphology enable weather-navigation survival?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 104,
+    "question": "Can pterosaurs survive modern weather?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern storms have greater updraft intensity than pterosaur wing-structures can withstand",
+      "b": "Yes, through soaring behavior exploiting atmospheric dynamics",
+      "c": "They could survive by remaining grounded during severe weather",
+      "d": "No—atmospheric pressure differences would cause decompression injury"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 105,
+    "question": "If Homo erectus possessed modern sensory capability but ancestral cognition in information-saturated environments, would selective attention enable functional integration?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 106,
+    "question": "Could Homo erectus learn to use modern technology?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their brain volume prevents abstract symbol processing required for technology",
+      "b": "Yes, through extensive training and simplified interface design",
+      "c": "They could achieve functional literacy through non-symbolic communication methods",
+      "d": "No—their social cognition prevents understanding complex social media dynamics"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 107,
+    "question": "If ichthyosaurs occupied modern oceans with contemporary salinity and pressure, would their marine adaptations remain effective?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "Can ichthyosaurs function in modern oceans?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern ocean density is insufficient for their diving physiology",
+      "b": "Yes, their hydrodynamic design would remain adaptive",
+      "c": "They could survive through occupying deep-sea zones with familiar pressure parameters",
+      "d": "No—their vision adapted to Mesozoic light levels makes modern bioluminescence navigation impossible"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 109,
+    "question": "If Australopithecus possessed modern perceptual acuity but ancestral cognition in modern city, would cultural immersion enable survival?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "Can Australopithecus survive in modern cities?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their inability to abstract prevents understanding urban infrastructure",
+      "b": "Yes, through imitation of observed behaviors without comprehension",
+      "c": "They could survive in specialized ecological niches with simple task structures",
+      "d": "No—their smaller body size creates predation risk from domestic animals"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 111,
+    "question": "If Moa repopulated New Zealand without human interference but with modern predators introduced, would their loss of predator-avoidance behaviors cause extinction?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 112,
+    "question": "Can moa survive with modern predators?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their size would protect against all modern terrestrial predators",
+      "b": "No—their naïveté would prevent predator-evasion despite adequate size",
+      "c": "They could establish populations through rapid behavioral adaptation",
+      "d": "No—their specialized herbivory means modern introduced plants are incompatible"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 113,
+    "question": "If Neanderthals with cold-adaptations inhabited modern desert with identical climate conditions, would thermoregulation paradoxically become maladaptive?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "Can Neanderthals thermoregulate in deserts?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their insulation creates hyperthermia making cooling impossible",
+      "b": "Yes, through behavioral adaptation and water-seeking behavior",
+      "c": "They could survive in desert nights but suffer daytime heat-stress",
+      "d": "No—their kidney physiology cannot concentrate urine efficiently for desert hydration"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 115,
+    "question": "If Homo floresiensis occupied rainforest with abundant resources but modern predators, would population expansion overcome predation risk?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 116,
+    "question": "Can Homo floresiensis thrive in rainforests?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, abundant resources would sustain large populations with predator loss acceptable",
+      "b": "No—their small size creates predation vulnerability regardless of food abundance",
+      "c": "They could establish populations through arboreal specialization and tool technology",
+      "d": "No—rainforest disease pathology would cause epidemic collapse"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 117,
+    "question": "If T.rex maintained predatory specialization in temperate forest with modern prey, would forest structure prevent hunting effectiveness?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "Can T.rex hunt in modern forests?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, through developing ambush-predation tactics",
+      "b": "No—their size creates movement impediment in dense forest",
+      "c": "They might succeed through path-following along natural forest corridors",
+      "d": "No—modern temperature regulations prevent efficient thermoregulation"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 119,
+    "question": "If paleolithic Cro-Magnon possessed identical brain structure but accessed modern education, would learning capacity enable technological integration?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "Can paleolithic humans learn modern technology?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, brain structure permits learning any modern system",
+      "b": "No—cultural-neural pathways aren't formed for modern abstraction levels",
+      "c": "They could learn through practical demonstration and simplified conceptual frameworks",
+      "d": "No—their different sense of time perception prevents processing modern information velocity"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 121,
+    "question": "If Heidelberg humans occupied glacial Europe with identical climate and modern fauna, would their intermediate morphology create survival advantage over modern humans?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "Can Heidelberg humans survive ice ages?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—they lack modern human cognitive abilities for technology innovation",
+      "b": "Yes, their robust morphology provides cold-adaptation efficiency",
+      "c": "They could establish populations through cultural knowledge combined with biological adaptation",
+      "d": "No—their immune system lacks resistance to modern human-era pathogens"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 123,
+    "question": "If Deinonychus maintained pack-hunting behavior in modern forest with modern prey, would cooperative tactics enable population establishment?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 124,
+    "question": "Can Deinonychus hunt cooperatively in modern forests?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, pack tactics would overcome forest structure impediment",
+      "b": "No—their foot-claw morphology is incompatible with modern prey physiology",
+      "c": "They could hunt effectively through ambush-based pack strategies",
+      "d": "No—their thermoregulation fails in modern atmospheric composition"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 125,
+    "question": "If Denisovans maintained altitude-adaptation genetics in modern high mountains with modern climate, would genetic advantage guarantee population persistence?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 126,
+    "question": "Can Denisovans thrive at modern high altitudes?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, their EPAS1 mutations provide permanent altitude advantage",
+      "b": "No—genetic advantage plateaus at certain altitudes regardless of mutation burden",
+      "c": "They could establish stable populations with moderate genetic fitness advantage",
+      "d": "No—modern UV intensity at altitude would cause skin pathology"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 127,
+    "question": "If Lucy's species inhabited modern savanna without tool technology but with bipedal advantage, would predation rate create population collapse?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "Can Australopithecus survive without tools on modern savannas?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their vulnerability to predators would prevent stable populations",
+      "b": "Yes, through arboreal refugia and group-defense behavior",
+      "c": "They could establish populations in marginal habitats with reduced predator density",
+      "d": "No—modern prey animals are faster than Australopithecus pursuit-capability"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 129,
+    "question": "If Turkana Boy's population inhabited modern equatorial Africa with modern humans present, would cognitive difference create competitive exclusion?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "Can Homo erectus compete with modern humans?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern human cognition would monopolize resources and territory",
+      "b": "Yes, through specializing in ecological niches modern humans overlook",
+      "c": "They could establish small populations through behavioral adaptation",
+      "d": "No—modern human disease pathology would cause epidemic extinction"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 131,
+    "question": "If Homo erectus from Zhoukoudian occupied modern temperate Asia with fire-technology preserved, would cultural knowledge prevent technological-reset collapse?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 132,
+    "question": "Can Peking Man maintain fire technology across generations?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, if fire-making knowledge were encoded biologically through extended learning",
+      "b": "No—knowledge transmission would fail across generational boundaries",
+      "c": "They could maintain technology through intensive cultural training methods",
+      "d": "No—modern fuel characteristics prevent using ancestral fire-making techniques"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 133,
+    "question": "If Homo rhodesiensis inhabited modern African savanna with modern predators, would their robust morphology provide hunting advantage?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 134,
+    "question": "Can Homo rhodesiensis compete as modern predators?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern predators are morphologically superior for predation",
+      "b": "Yes, through cooperative hunting and tool technology",
+      "c": "They could succeed through scavenging behavior and carrion utilization",
+      "d": "No—their smaller brain volume prevents learning modern predator behavior"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 135,
+    "question": "If Homo antecessor occupied pre-industrial Europe with bipedal specialization but ancestral cognition, would paleoclimate adaptation enable survival?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 136,
+    "question": "Can Homo antecessor adapt to European environments?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, if provided with cultural knowledge from modern humans",
+      "b": "No—their neurological architecture prevents complex planning",
+      "c": "They might survive through learned behavior from observing Homo sapiens",
+      "d": "No—European predators would eliminate populations before behavioral learning"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 137,
+    "question": "If Homo naledi specialized in cave occupation with modern spelunking technology, would their ancestral morphology prevent equipment use?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 138,
+    "question": "Can Homo naledi use modern cave exploration equipment?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their morphology is incompatible with modern equipment interface",
+      "b": "Yes, through adapted equipment and training",
+      "c": "They could navigate caves using simplified technology",
+      "d": "No—their vision adapted to cave darkness cannot process modern lighting"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 139,
+    "question": "If Homo luzonensis maintained island isolation on modern Philippines without external contact, would population persistence overcome genetic bottleneck?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 140,
+    "question": "Can Homo luzonensis maintain stable island populations?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—genetic inbreeding would cause collapse within generations",
+      "b": "Yes, through behavioral adaptations maintaining sufficient genetic diversity",
+      "c": "They could persist through careful mate-selection and population management",
+      "d": "No—island resource depletion would create starvation cascade"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 141,
+    "question": "If modern humans appeared in Cretaceous with only paleolithic-level knowledge, would bipedal specialization create predation vulnerability?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 142,
+    "question": "Could modern humans survive the Cretaceous?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—dinosaur predation would eliminate all individuals rapidly",
+      "b": "Yes, through cognitive advantages enabling technology development",
+      "c": "They might establish populations through nocturnal behavior",
+      "d": "No—Cretaceous pathogens would cause epidemic disease immediately"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 143,
+    "question": "If humans were transported to Venus with Earth-like atmosphere but alien geology, would bipedal morphology enable locomotion on uncertain substrates?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 144,
+    "question": "Could humans walk on terraformed Venus?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—Venusian gravity differences would prevent bipedal balance",
+      "b": "Yes, bipedalism would adapt through learning over generations",
+      "c": "Humans could walk with assistance technologies modifying proprioception",
+      "d": "No—Venusian oxygen composition would poison human hemoglobin"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 145,
+    "question": "If Neanderthals inhabited modern temperate zone with cultural knowledge transfer capability, would technology innovation overcome cognitive limitations?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 146,
+    "question": "Can Neanderthals innovate technology if culturally supported?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes, learning-based behavior would enable gradual innovation",
+      "b": "No—their neurological architecture prevents abstract innovation",
+      "c": "They could acquire technology through observation and imitation",
+      "d": "No—their shorter lifespan prevents knowledge accumulation"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 147,
+    "question": "If Homo habilis inhabited modern grassland as tool-maker but prey composition changed, would stone-tool technology remain effective?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 148,
+    "question": "Can Homo habilis tools remain effective for modern prey?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern prey speed and armor exceed stone-tool effectiveness",
+      "b": "Yes, through tool-design adaptation and hunting-tactic modification",
+      "c": "They could hunt by specializing on immobile or slow-moving prey",
+      "d": "No—their hand morphology prevents using tools effectively"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 149,
+    "question": "If Paranthropus maintained hyper-specialized jaw morphology in modern woodland, would dietary specialization create adaptive advantage or liability?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 150,
+    "question": "Does Paranthropus specialization help or hurt?",
+    "type": "MCQ",
+    "options": {
+      "a": "Advantage—specialized diet reduces interspecific competition",
+      "b": "Liability—resource variation would create frequent starvation",
+      "c": "Neutral—diet availability depends on specific woodland vegetation distribution",
+      "d": "Liability—their jaw muscles create exhaustion during extended foraging"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 151,
+    "question": "If Sediba's transitional morphology inhabited temperate forest with modern predators, would intermediate adaptation create vulnerability to all predator types?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 152,
+    "question": "Would transitional morphology be disadvantageous?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes—neither fully arboreal nor terrestrial specialization enables escape",
+      "b": "No—intermediate traits enable flexible response to varied threats",
+      "c": "Disadvantage partly offset through behavioral adaptation and group living",
+      "d": "No—their size creates inherent protection from all forest predators"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 153,
+    "question": "If Denisovans possessed genetic modifications for aquatic breathing but ancestral cognition, would technological limitation prevent survival?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 154,
+    "question": "Can modified Denisovans survive in oceans?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—lack of technology prevents shelter and food acquisition",
+      "b": "Yes, through behavioral diving and underwater foraging",
+      "c": "They could survive in shallow-water ecological niches",
+      "d": "No—Denisovan physiology cannot sustain salt-water osmotic balance"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 155,
+    "question": "If Neanderthals possessed modern brain size but retained ancestral physiology, would phenotypic differences prevent urban integration?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 156,
+    "question": "Could larger-brained Neanderthals integrate into cities?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—their appearance would prevent social acceptance",
+      "b": "Yes, cognitive capacity would permit technology learning",
+      "c": "Yes, but with persistent discrimination and social marginalization",
+      "d": "No—their olfactory sensitivity would cause sensory overload"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 157,
+    "question": "If pre-agricultural humans with gathering-hunting specialization inhabited modern jungle unchanged, would cultural knowledge enable resource acquisition?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 158,
+    "question": "Can pre-agricultural humans exploit modern jungles?",
+    "type": "MCQ",
+    "options": {
+      "a": "No—modern plant species composition differs too drastically",
+      "b": "Yes, through applying general foraging principles to new species",
+      "c": "They could survive through learning process lasting generations",
+      "d": "No—modern jungle predators exceed ancestral threat parameters"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 159,
+    "question": "If Aethiopicus maintained hyper-massive jaw muscles in modern savanna, would cranial power investment create exploitable advantage in food-limited environment?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 160,
+    "question": "Is mega-jaw an advantage in resource-limited savannas?",
+    "type": "MCQ",
+    "options": {
+      "a": "Yes—they can crack hard seeds/nuts others cannot",
+      "b": "No—energy investment in muscles creates caloric deficit",
+      "c": "Situational—advantage fluctuates based on seasonal resource composition",
+      "d": "No—their bite creates injury frequency outweighing caloric gain"
+    },
+    "answer": "a"
+  }
+]

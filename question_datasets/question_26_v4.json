@@ -1,0 +1,1762 @@
+[
+  {
+    "question_id": 1,
+    "question": "If Heraclitus' doctrine of constant flux had been accepted as the dominant metaphysical framework during the development of quantum mechanics, would Planck and Heisenberg still discover probabilistic wave functions?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 2,
+    "question": "If Heraclitian flux metaphysics had influenced quantum physics, which interpretive trajectory is most realistic?",
+    "type": "MCQ",
+    "options": {
+      "a": "Quantum indeterminacy might be interpreted as continuous becoming rather than ontological probability, leading to process-oriented rather than statistical formulations of mechanics",
+      "b": "Classical determinism would be permanently restored, as Heraclitus would reject quantum mechanics entirely",
+      "c": "Parmenidean being would become incompatible with all physical measurement",
+      "d": "Wave-particle duality would cease to exist as a conceptual problem"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 3,
+    "question": "If Platonic theory of transcendent Forms dominated epistemology when neural networks were developed, would deep learning still learn statistical patterns from training data?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 4,
+    "question": "If Platonic idealism guided AI development, which design philosophy would emerge?",
+    "type": "MCQ",
+    "options": {
+      "a": "AI systems might attempt to identify eternal abstract patterns beyond sensory data, while statistical learning still emerges through different architectural assumptions",
+      "b": "Machine learning would become philosophically impossible, as Forms exist only in non-computational realms",
+      "c": "All AI would exclusively process Aristotelian substances without accessing universal principles",
+      "d": "Neural networks would spontaneously become conscious"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 5,
+    "question": "If Spinozist monistic substance metaphysics had dominated when neuroscientific measurement began, would researchers still discover correlations between mental states and brain activity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 6,
+    "question": "If Spinozist monism influenced neuroscience methodology, which conceptual framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Researchers would interpret mental-neural correlations as aspects of unified substance rather than causal interaction, producing identical empirical data with different philosophical interpretation",
+      "b": "Consciousness would become entirely non-physical and unmeasurable",
+      "c": "Brain activity would cease correlating with subjective experience",
+      "d": "Dualism would be scientifically proven correct"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 7,
+    "question": "If Hegelian absolute idealism had been the dominant framework when postmodern semiotics emerged, would Derrida still develop deconstruction?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 8,
+    "question": "If Hegelian dialectical totality dominated semiotics, which theoretical position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Deconstruction might emphasize dialectical difference within totality rather than undecidability outside systems, preserving critique while reframing its philosophical grounding",
+      "b": "All linguistic meaning would become perfectly transparent and reducible to concepts",
+      "c": "Signification would become impossible within any logical framework",
+      "d": "Post-structuralism would have emerged identically without Hegelian influence"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 9,
+    "question": "If Hegelian systematic rationality had captured existential psychology instead of Kierkegaardian subjectivity, would therapists still emphasize authentic individual choice?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 10,
+    "question": "If Hegelian rationality dominated existential therapy, which therapeutic model emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Treatment might emphasize rational integration of contradictions while individuals still exercise choice, creating synthesis rather than radical freedom emphasis",
+      "b": "All psychological treatment would become scientifically objective and non-subjective",
+      "c": "Authentic existence would become logically determinable through reason",
+      "d": "Anxiety would cease to be philosophically relevant in psychology"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 11,
+    "question": "If Kantian categorical imperative ethics had dominated moral philosophy instead of Nietzschean perspectivism, would postmodern ethics still question universal principles?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 12,
+    "question": "If Kantian universalism remained hegemonic in ethics, which critical position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Postmodern ethicists might critique Kantian universalism from within rational discourse, producing sophisticated meta-ethical arguments rather than radical rejection of principles",
+      "b": "All moral relativism would become philosophically incoherent",
+      "c": "Universal moral principles would become scientifically provable facts",
+      "d": "Ethics would require no rational justification whatsoever"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 13,
+    "question": "If Fregean logical foundations had dominated analytical philosophy instead of Wittgensteinian language games, would contemporary linguists still examine contextual meaning?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 14,
+    "question": "If logical atomism remained the ideal for linguistic analysis, which theoretical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Linguists might seek atomic propositions as ideal end-goal while studying contextual variation, creating formal grammar theory rather than pragmatic linguistics",
+      "b": "All natural language would conform to logical principles perfectly",
+      "c": "Context-dependence would become logically impossible",
+      "d": "Wittgenstein's philosophy would have prevented modern analytical linguistics"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 15,
+    "question": "If logical positivism's verification criterion had remained hegemonic instead of Heideggerian ontology, would phenomenologists still study structures of experience?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 16,
+    "question": "If positivist verificationism dominated phenomenology, which research program emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Phenomenologists might attempt to operationalize experiential structures into testable hypotheses while preserving descriptive rigor, creating empirical phenomenology rather than pure ontology",
+      "b": "All subjective experience would become scientifically meaningless",
+      "c": "Being would cease to be a coherent philosophical concept",
+      "d": "Husserl's phenomenology would have become impossible to pursue"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 17,
+    "question": "If structuralist determinism had dominated instead of Sartrean existential freedom, would poststructuralists still emphasize individual agency?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 18,
+    "question": "If structuralist system-logic remained hegemonic, which critical position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Poststructuralists might critique deterministic structures while acknowledging constraints, producing nuanced accounts of constrained agency rather than radical freedom",
+      "b": "All human behavior would become completely determined by linguistic structures",
+      "c": "Individual choice would become philosophically and practically impossible",
+      "d": "Sartre's philosophy would have prevented the emergence of poststructuralism"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 19,
+    "question": "If Weberian ideal-type methodology had dominated instead of Marxist materialism, would critical theorists still emphasize economic base structures?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 20,
+    "question": "If Weberian rationalization dominated critical theory, which theoretical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Critical theory might analyze material conditions through rational-choice frameworks while preserving structural critique, creating institutional analysis rather than revolutionary economics",
+      "b": "Economic inequality would cease to be theoretically relevant",
+      "c": "Material conditions would become purely ideal constructs",
+      "d": "Critical theory would require abandoning all structural analysis"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 21,
+    "question": "If Augustinian divine illumination remained the epistemological framework instead of Thomistic natural reason, would modern scientists still develop empirical methods?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 22,
+    "question": "If Augustinian illumination dominated epistemology, which research methodology emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Scientists might interpret rational insight through theological frameworks while conducting identical experiments, producing theistic science rather than secular methodology",
+      "b": "Natural reason would become philosophically impossible",
+      "c": "Empirical evidence would become incompatible with theological understanding",
+      "d": "Modern science would require abandoning mathematical reasoning"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 23,
+    "question": "If Hobbesian mechanistic materialism had dominated instead of Leibnizian monadology, would contemporary systems theorists still develop holistic frameworks?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 24,
+    "question": "If Hobbesian mechanism remained hegemonic, which systems theory emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Systems theorists might study emergent properties while maintaining materialist reductionism, creating complexity science rather than organicist holism",
+      "b": "All holistic properties would become logically impossible",
+      "c": "Systems would lose the capacity for self-organization",
+      "d": "Emergence would cease to be scientifically observable"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 25,
+    "question": "If rationalist doctrine of innate ideas had dominated instead of Lockean empiricism, would contemporary cognitive scientists still discover learned neural patterns?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 26,
+    "question": "If nativism remained the cognitive paradigm, which neuroscientific framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neuroscientists might interpret learning as activation of pre-existing structures while observing identical synaptic changes, reconciling nativism with plasticity",
+      "b": "Neural learning would become biologically impossible",
+      "c": "Development would cease to involve environmental interaction",
+      "d": "Cognitive science would require rejecting all empirical observation"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 27,
+    "question": "If Humean skepticism about the self had dominated instead of Kantian transcendental unity, would contemporary philosophers still postulate unified consciousness?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 28,
+    "question": "If Humean bundle theory remained hegemonic, which philosophy of mind emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might deconstruct unified self while preserving functional integration accounts, creating distributed-mind theories rather than unified consciousness",
+      "b": "Consciousness would become logically contradictory",
+      "c": "Self-reference would become philosophically impossible",
+      "d": "Kantian synthesis would have prevented neuroscience"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 29,
+    "question": "If Berkeleyan idealism had remained dominant instead of Lockean realism, would perception science still develop theories of external objects?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 30,
+    "question": "If idealism dominated perceptual theory, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Perceptual scientists might study mental construction while postulating mind-independent reality, creating representationalist rather than pure idealist theories",
+      "b": "Physical objects would cease to have any role in perceptual explanation",
+      "c": "Sensory data would become entirely non-representational",
+      "d": "Berkeley's framework would prevent empirical psychology"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 31,
+    "question": "If Hobbesian natural egoism had dominated instead of Rousseauian general will, would contemporary political theorists still advocate collective decision-making?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 32,
+    "question": "If Hobbesian egoism remained hegemonic, which political theory emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Political theorists might justify collective procedures through individual rational interest while preserving majoritarian principles, creating contractarian rather than volonté générale theory",
+      "b": "Democratic participation would become theoretically impossible",
+      "c": "Collective action would require universal altruism",
+      "d": "Political legitimacy would become logically contradictory"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 33,
+    "question": "If communitarian emphasis on social good had dominated instead of Rawlsian liberal justice, would contemporary ethicists still prioritize individual rights?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 34,
+    "question": "If communitarianism remained dominant, which ethical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ethicists might critique individualism while preserving rights-based protections, creating constrained-communitarianism rather than pure social-good utilitarianism",
+      "b": "Individual rights would become ethically meaningless",
+      "c": "Social goods would become incompatible with group welfare",
+      "d": "Rawls' theory would have prevented communitarian philosophy"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 35,
+    "question": "If Kuhnian paradigmatism had dominated instead of Popperian falsificationism, would philosophers of science still defend empirical criticism?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 36,
+    "question": "If paradigm-relativism remained hegemonic, which philosophy of science emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Scientists might acknowledge paradigm-dependency while maintaining critical standards, creating sophisticated internalism rather than pure relativism",
+      "b": "Empirical criticism would become theoretically impossible",
+      "c": "Scientific standards would cease to exist between paradigms",
+      "d": "Falsificationism would prevent all scientific progress"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 37,
+    "question": "If logical positivists' analytic-synthetic distinction had remained dominant instead of Quine's holism, would contemporary epistemologists still study belief-network interdependencies?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 38,
+    "question": "If analyticity remained the epistemological ideal, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Epistemologists might preserve analytic foundations while studying holistic connections, creating foundationalist rather than purely holist epistemology",
+      "b": "Belief interdependence would become logically impossible",
+      "c": "Knowledge would cease to be rationally revisable",
+      "d": "Holism would have prevented development of systematic epistemology"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 39,
+    "question": "If Enlightenment faith in autonomous reason had remained unchallenged instead of Foucauldian power-knowledge critique, would critical theorists still analyze institutional constraints?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 40,
+    "question": "If Enlightenment rationalism remained hegemonic, which critical position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Critical theorists might critique power while maintaining rational discourse, creating rational-critical rather than genealogical approaches to ideology",
+      "b": "Power would become theoretically irrelevant to knowledge production",
+      "c": "Institutional constraints would cease to affect reasoning",
+      "d": "Foucault's analytics would prevent development of social theory"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 41,
+    "question": "If Fregean propositional semantics had dominated instead of Austinian speech act theory, would pragmaticians still study illocutionary effects?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 42,
+    "question": "If propositional logic remained the semantic ideal, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Pragmaticians might analyze communicative effects while formalizing propositional structures, creating pragmatic semantics rather than pure performance-based analysis",
+      "b": "Illocutionary force would become logically impossible to analyze",
+      "c": "Communication would reduce entirely to propositional truth-conditions",
+      "d": "Austin's philosophy would prevent development of linguistics"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 43,
+    "question": "If Serlean institutional facts framework had dominated instead of Derridean undecidability, would social ontologists still question foundations of social reality?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 44,
+    "question": "If institutional realism remained hegemonic, which theoretical position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Social ontologists might critique institutional determination while preserving constructivist accounts, creating constrained-constructivism rather than radical undecidability",
+      "b": "Social facts would become ontologically independent of interpretation",
+      "c": "Institutional structures would cease to depend on collective acceptance",
+      "d": "Deconstruction would prevent development of social science"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 45,
+    "question": "If Husserlian intentionality had remained the phenomenological framework instead of Levinasian alterity, would contemporary phenomenologists still emphasize ethical encounter?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 46,
+    "question": "If intentional analysis remained dominant, which phenomenological position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Phenomenologists might study intentional structures of ethical relation while maintaining intentional methodology, creating ethical-intentionalism rather than anti-intentional ethics",
+      "b": "Ethical encounter would become logically incompatible with intentionality",
+      "c": "Other persons would cease to present phenomenologically",
+      "d": "Levinas' philosophy would prevent phenomenological analysis"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 47,
+    "question": "If Hegelian dialectical synthesis had remained hegemonic instead of Deleuzian rhizomatic difference, would contemporary ontologists still emphasize multiplicity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 48,
+    "question": "If dialectical totality remained the ontological ideal, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ontologists might study multiple determinations while preserving systematic philosophy, creating neo-dialectics rather than pure rhizomatic pluralism",
+      "b": "Multiplicity would become ontologically incoherent",
+      "c": "Non-contradictory difference would cease to exist",
+      "d": "Deleuze's philosophy would prevent systematic ontology"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 49,
+    "question": "If Wittgenstinian language-use remained the dominant framework instead of Cavellian skeptical reconsideration, would contemporary philosophers still question linguistic foundations?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 50,
+    "question": "If use-theory remained hegemonic, which philosophical position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might extend use-analysis while reopening skeptical questions, creating pragmatic-skepticism rather than pure use-based dissolution of problems",
+      "b": "Linguistic meaning would become entirely determined by use",
+      "c": "Philosophical problems would cease to arise from language",
+      "d": "Cavell's work would prevent development of linguistic analysis"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 51,
+    "question": "If Hegelian positive dialectical synthesis had remained dominant instead of Adornian negative dialectics, would critical theorists still emphasize non-identity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 52,
+    "question": "If positive dialectics remained hegemonic, which theoretical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Critical theorists might preserve synthetic ambitions while maintaining critique of totality, creating mediated-synthesis rather than purely negative philosophy",
+      "b": "Non-identical difference would become theoretically irrelevant",
+      "c": "Critical theory would require affirmative content",
+      "d": "Adorno's philosophy would prevent dialectical reasoning"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 53,
+    "question": "If Heideggerian Being-history had remained the sole framework instead of Stiegler's technical temporality, would digital philosophers still analyze algorithmic determination?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 54,
+    "question": "If Heideggerian ontology remained hegemonic, which philosophical approach emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Digital philosophers might study technical systems through being-frameworks while analyzing algorithmic specificity, creating technical-ontology rather than pure temporality-analysis",
+      "b": "Algorithmic causation would become ontologically impossible",
+      "c": "Digital systems would cease affecting human temporality",
+      "d": "Stiegler's work would prevent philosophical understanding of technology"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 55,
+    "question": "If Cartesian subject-foundation had remained dominant instead of Braidottian nomadism, would posthumanists still question anthropocentric subjectivity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 56,
+    "question": "If Cartesian foundationalism remained hegemonic, which posthumanist position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Posthumanists might decenter the subject while preserving analysis of thought, creating decentered-cognition rather than pure anti-humanist rejection",
+      "b": "Posthuman subjectivity would become logically contradictory",
+      "c": "Non-human entities would cease to have philosophical relevance",
+      "d": "Braidotti's philosophy would prevent development of posthumanism"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 57,
+    "question": "If Serlean constitutive rules remained the dominant framework instead of Butlerian performativity, would social theorists still emphasize iterative agency?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 58,
+    "question": "If rule-constitution remained hegemonic, which theoretical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Social theorists might study rule-governed iteration while analyzing transgressive performance, creating constrained-performativity rather than pure citational repetition",
+      "b": "Iterative agency would become theoretically impossible",
+      "c": "Social norms would cease to be performatively constituted",
+      "d": "Butler's work would prevent development of gender theory"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 59,
+    "question": "If Habermasian consensus-rationality had remained dominant instead of Rancière's dissensus, would political philosophers still emphasize conflict?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 60,
+    "question": "If consensus-model remained hegemonic, which political position emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Political philosophers might critique consensus while studying rational disagreement, creating agonal-rationality rather than pure conflictual politics",
+      "b": "Political conflict would become theoretically incoherent",
+      "c": "Democratic participation would require universal agreement",
+      "d": "Rancière's work would prevent development of political theory"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 61,
+    "question": "If Scotus' univocity of being had dominated instead of Aquinas' analogy, would contemporary metaphysics still debate ontological categories?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 62,
+    "question": "If Scotist univocity remained hegemonic, which metaphysical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Metaphysicians might seek unified being-conception while preserving categorical distinctions, creating supplemented-univocity rather than pure analogical hierarchy",
+      "b": "Being would become entirely homogeneous and indeterminate",
+      "c": "Categorical differentiation would become logically impossible",
+      "d": "Thomistic analogy would prevent contemporary metaphysics"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 63,
+    "question": "If Ockham's nominalism had remained unchallenged instead of moderate realism, would contemporary logic still employ universal quantifiers?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 64,
+    "question": "If nominalism remained dominant in logical theory, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Logicians might formalize particular instances while developing nominalist semantics, creating nominalist-logic rather than realist-commitment to universals",
+      "b": "Quantification would become logically impossible",
+      "c": "Universal statements would lack truth-conditions",
+      "d": "Modern logic would require abandoning formalization"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 65,
+    "question": "If Avicenna's essence-existence distinction had remained the logical framework instead of aquino-thomistic synthesis, would contemporary philosophy still integrate substance?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 66,
+    "question": "If Avicennan composition remained hegemonic, which philosophical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might maintain essence-distinction while analyzing substance-unity, creating layered-essentialism rather than pure compositional being",
+      "b": "Substance would become logically incoherent",
+      "c": "Existence and essence would cease to interact",
+      "d": "Thomistic synthesis would prevent metaphysical reasoning"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 67,
+    "question": "If Buridan's impetus theory had dominated instead of Galilean inertia, would physics still discover motion-continuation principles?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 68,
+    "question": "If impetus-mechanics remained the physical paradigm, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Physicists might interpret continuity through force-diminishment while discovering identical mathematical laws, creating resistant-medium rather than pure inertia",
+      "b": "Motion would permanently require external sustenance",
+      "c": "Planetary orbits would become theoretically impossible",
+      "d": "Galileo's physics would prevent mechanics development"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 69,
+    "question": "If medieval occasionalism had remained dominant instead of Cartesian mechanical causation, would natural philosophy still develop causal laws?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 70,
+    "question": "If occasionalism remained hegemonic, which scientific framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Scientists might interpret regularities as divine concurrence while deriving mathematical laws, creating theistic-mechanism rather than pure mechanistic causation",
+      "b": "Natural causation would become logically impossible",
+      "c": "Laws of nature would cease to exist as philosophical entities",
+      "d": "Mechanical philosophy would prevent empirical science"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 71,
+    "question": "If Leibnizian pre-established harmony had remained the interactionist model instead of Cartesian mind-body interaction, would contemporary neuroscience still study neural correlates?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 72,
+    "question": "If pre-established harmony remained hegemonic, which neuroscientific framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Neuroscientists might interpret correlations through coordinated parallel series while measuring identical neural activity, creating synchronist rather than interactionist interpretation",
+      "b": "Neural-mental correlation would become theoretically impossible",
+      "c": "Mental events would cease to correlate with brain states",
+      "d": "Cartesian interaction would prevent neuroscience"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 73,
+    "question": "If Kant's synthesis a priori had been rejected by empiricists, would contemporary cognitive science still posit innate structures?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 74,
+    "question": "If empiricism had defeated transcendentalism, which cognitive framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Cognitive scientists might infer structured learning without claiming synthetic a priori, creating emergentist rather than nativist architecture",
+      "b": "Cognition would become entirely devoid of structure",
+      "c": "Learning would cease to require environmental interaction",
+      "d": "Kantian philosophy would prevent cognitive science"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 75,
+    "question": "If Schelling's absolute identity-philosophy had remained dominant instead of Hegelian differentiation, would dialectical method still produce systematic philosophy?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 76,
+    "question": "If Schellingian identity remained hegemonic, which philosophical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might seek fundamental unity while studying differentiation, creating unified-diversity rather than pure dialectical mediation",
+      "b": "Systematic difference would become logically contradictory",
+      "c": "Identity and difference would cease to interact",
+      "d": "Hegelian dialectics would prevent identity-philosophy"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 77,
+    "question": "If Schopenhauer's will-based metaphysics had dominated instead of rationalist idealism, would contemporary metaphysics still emphasize being-structure?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 78,
+    "question": "If Schopenhauerian voluntarism remained dominant, which metaphysical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Metaphysicians might study willing-striving while analyzing structural layers, creating dynamic-structure rather than pure will-monism",
+      "b": "Being would become entirely irrational and indeterminate",
+      "c": "Logical structure would cease to exist in reality",
+      "d": "Rationalist idealism would prevent voluntarism"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 79,
+    "question": "If Kierkegaard's absurd-leap had remained the religious model instead of Aquinas' natural theology, would contemporary philosophy of religion still seek rational proofs?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 80,
+    "question": "If the absurd-model remained hegemonic, which religious philosophy emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might emphasize paradox while pursuing rational arguments, creating paradoxical-rationalism rather than pure fideistic leap",
+      "b": "Religious knowledge would become logically incoherent",
+      "c": "Rational reflection would cease to relate to faith",
+      "d": "Thomistic theology would prevent Kierkegaardian analysis"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 81,
+    "question": "If Wittgenstein's late private language argument had been decisively refuted, would contemporary philosophy of mind still debate solipsism?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "If private language were logically possible, which philosophy of mind emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might ground language in inner criteria while analyzing social reinforcement, creating externalist-semantics rather than pure internalism",
+      "b": "Language would become entirely private and uncommunicable",
+      "c": "Meaning would cease to depend on external standards",
+      "d": "Wittgenstein's argument would prevent externalism"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 83,
+    "question": "If Tarski's truth-definition had remained incompatible with natural language, would semantic theorists still attempt unified truth-accounts?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 84,
+    "question": "If Tarskian formalization failed for natural language, which semantic framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Theorists might develop stratified truth-concepts while formalizing subdomains, creating hierarchical-semantics rather than unified theory",
+      "b": "Truth would become entirely indefinable across languages",
+      "c": "Formal languages would cease to represent natural meaning",
+      "d": "Semantic theory would prevent natural language analysis"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 85,
+    "question": "If Gödel's incompleteness had proven mathematics impossible, would mathematical realism still posit abstract objects?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 86,
+    "question": "If incompleteness precluded mathematical consistency, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mathematicians might preserve constructive methods while studying formal limitations, creating limited-realism rather than platonism",
+      "b": "Mathematics would become entirely incoherent",
+      "c": "Abstract objects would cease to exist",
+      "d": "Mathematical realism would prevent incompleteness-discovery"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 87,
+    "question": "If Church-Turing thesis had been false, would computer science still develop algorithmic models?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 88,
+    "question": "If computability transcended Turing-equivalence, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Computer scientists might formalize hypercomputable processes while studying classical algorithms, creating augmented-computability rather than pure Turing-limitation",
+      "b": "All computation would become theoretically impossible",
+      "c": "Algorithms would cease to relate to computation",
+      "d": "Turing-thesis would prevent computational theory"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 89,
+    "question": "If Bell's theorem had been false, would quantum mechanics still require non-locality?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 90,
+    "question": "If locality were preserved, which quantum framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Physicists might interpret correlations through hidden variables while maintaining statistical predictions, creating local-realism rather than pure quantum-orthodoxy",
+      "b": "Entanglement would become logically impossible",
+      "c": "Quantum mechanics would cease to require revision",
+      "d": "Bell's theorem would prevent quantum theory"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 91,
+    "question": "If Gettier's counterexamples had been avoided, would contemporary epistemology still question justified-true-belief?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 92,
+    "question": "If JTB survived Gettier-attack, which epistemic framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Epistemologists might preserve JTB while analyzing justification-refinement, creating strengthened-JTB rather than pure knowledge-analysis",
+      "b": "Epistemic concepts would become logically indistinguishable",
+      "c": "Justification would cease to relate to belief",
+      "d": "Gettier-cases would prevent epistemological progress"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 93,
+    "question": "If Kripke's essentialism had been universally rejected, would contemporary metaphysics still debate necessity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 94,
+    "question": "If rigidity were abandoned, which metaphysical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Metaphysicians might study contingent identities while analyzing natural-kind structure, creating flexible-essentialism rather than rigid designation",
+      "b": "Metaphysical necessity would become entirely conventional",
+      "c": "Essential properties would cease to exist",
+      "d": "Essentialism would prevent reference-theory"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 95,
+    "question": "If Kaplan's indexicality had been subsumed into context-insensitivity, would semantics still distinguish utterance-meaning?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 96,
+    "question": "If context-insensitivity dominated semantic theory, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Semanticists might distinguish pragmatic effects from semantic content while analyzing indexical dependence, creating pragmatic-semantics rather than pure content-theory",
+      "b": "Utterance meaning would become entirely context-independent",
+      "c": "Reference would cease to depend on utterance-occasion",
+      "d": "Indexicality-theory would prevent semantic analysis"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 97,
+    "question": "If Fodor's language-of-thought had been empirically refuted, would cognitive scientists still posit mental representation?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 98,
+    "question": "If LOT were false, which cognitive framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Scientists might study analog and distributed representation while analyzing computation, creating non-Mentalese models rather than pure symbolicism",
+      "b": "Mental representation would become theoretically impossible",
+      "c": "Thought would cease to involve systematic structure",
+      "d": "LOT-refutation would prevent cognitive science"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 99,
+    "question": "If Quine's indeterminacy had been definitively disproven, would philosophers of language still question determinacy?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 100,
+    "question": "If translation-equivalence were logically necessary, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might preserve referential autonomy while analyzing meaning-constraints, creating constrained-determinacy rather than pure translation-relativity",
+      "b": "Meaning would become entirely determinate and transparent",
+      "c": "Reference would cease to underdetermine translation",
+      "d": "Indeterminacy-doctrine would prevent meaning-analysis"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 101,
+    "question": "If Heidegger's Being-question had been dismissed as pseudo-problem instead of taken seriously, would contemporary analytic philosophy still debate ontological commitment?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 102,
+    "question": "If Being were grammatically eliminated, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Analytic philosophers might study quantification-scope while analyzing existential presupposition, creating formal-ontology rather than phenomenological being-analysis",
+      "b": "Ontology would become logically impossible",
+      "c": "Existence would cease to be discussable",
+      "d": "Being-question would prevent analytic development"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 103,
+    "question": "If phenomenology had rejected intentionality-analysis, would contemporary philosophy of mind still study consciousness-content?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 104,
+    "question": "If non-intentionality dominated phenomenology, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might study self-presenting appearances while analyzing representational structure, creating phenomenal-content rather than pure intentionality-denial",
+      "b": "Conscious content would become entirely non-representational",
+      "c": "Intentionality would cease to exist",
+      "d": "Intentionality-rejection would prevent psychology"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 105,
+    "question": "If deconstruction had been successfully refuted through logical analysis, would philosophers still question presence and identity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 106,
+    "question": "If presence remained logically secure, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might analyze difference-relations while preserving presence-concepts, creating differentiated-presence rather than undecidability",
+      "b": "Identity would become entirely transparent and immediate",
+      "c": "Difference would cease to mark presence",
+      "d": "Deconstruction-refutation would prevent analysis"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 107,
+    "question": "If post-structuralism had been abandoned as incoherent, would social theory still critique structural determination?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 108,
+    "question": "If structure became logically determinate, which social framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Theorists might study overconstrained agency while analyzing escape-mechanisms, creating resistant-structure rather than pure anti-structuralism",
+      "b": "Determinism would become entirely inescapable",
+      "c": "Agency would cease to exist within structures",
+      "d": "Post-structuralism rejection would prevent social analysis"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 109,
+    "question": "If Derrida's différance had been proven unintelligible, would philosophers still question meaning-deferral?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 110,
+    "question": "If presence were fully recoverable, which philosophical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might study meaning-postponement while analyzing semantic determination, creating deferred-meaning rather than pure undecidability",
+      "b": "Meaning would become entirely present and determinate",
+      "c": "Deferral would cease to affect signification",
+      "d": "Différance-refutation would prevent deconstruction"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 111,
+    "question": "If Foucault's genealogy had been rejected as relativistic, would historians still question knowledge-objectivity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 112,
+    "question": "If objectivity were logically guaranteed, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Historians might study conditioning-effects while preserving evidential rigor, creating conditioned-objectivity rather than pure genealogical-skepticism",
+      "b": "Historical knowledge would become entirely objective and universal",
+      "c": "Power would cease to affect historical interpretation",
+      "d": "Genealogy-rejection would prevent historiography"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 113,
+    "question": "If Deleuze's becoming had been abandoned as incoherent, would philosophers still question stability of being?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 114,
+    "question": "If stasis were logically necessary, which philosophical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might analyze persistent change while studying structural continuity, creating dynamic-being rather than pure becoming-ontology",
+      "b": "Change would become logically impossible",
+      "c": "Being would cease to involve temporal process",
+      "d": "Becoming-rejection would prevent philosophy"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 115,
+    "question": "If Badiou's event had been proven reducible to normal causation, would philosophers still question exceptional rupture?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 116,
+    "question": "If events were entirely causally-determined, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might study causally-unprecedented moments while analyzing normal emergence, creating exceptional-causality rather than pure rupture-ontology",
+      "b": "Exceptionality would become theoretically impossible",
+      "c": "Rupture would cease to involve genuine novelty",
+      "d": "Event-theory rejection would prevent philosophy"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 117,
+    "question": "If Žižek's ideology-critique had been superseded by transparent communication, would critical theory still emphasize structural distortion?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 118,
+    "question": "If full transparency were achievable, which critical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Theorists might study residual structural effects while analyzing transparency-limits, creating critical-realism rather than pure ideological-critique",
+      "b": "Structural distortion would become entirely eliminable",
+      "c": "Ideology would cease to operate systematically",
+      "d": "Ideology-critique rejection would prevent criticism"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 119,
+    "question": "If Latour's actor-network had been abandoned as anti-humanist, would social theory still question human-primacy?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 120,
+    "question": "If humans remained uniquely agentive, which social framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Theorists might study non-human effects while preserving human agency-priority, creating augmented-humanism rather than pure network-ontology",
+      "b": "Non-human agents would become theoretically irrelevant",
+      "c": "Objects would cease to affect social relations",
+      "d": "Actor-network rejection would prevent sociology"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 121,
+    "question": "If Armstrong's bundle theory had triumphed over trope nominalism, would contemporary metaphysics still debate property-ontology?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 122,
+    "question": "If bundles were the established theory, which metaphysical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Metaphysicians might analyze bundle-constitution while studying property-individuation, creating bundle-plus-differentiation rather than pure trope-monism",
+      "b": "Properties would become entirely non-relational",
+      "c": "Objects would cease to have bundle-structure",
+      "d": "Bundle-theory would prevent metaphysics"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 123,
+    "question": "If Levesque's closed-world assumption had been definitively refuted, would AI still employ complete information models?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 124,
+    "question": "If open-world were necessary, which AI framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Systems might process uncertainty while maintaining representational completeness-assumptions, creating probabilistic-closed rather than pure open-world",
+      "b": "Reasoning would become entirely indeterminate",
+      "c": "Information-processing would cease to function",
+      "d": "Open-world rejection would prevent AI"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 125,
+    "question": "If mereological nihilism had been proven correct, would we still discuss composite objects?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 126,
+    "question": "If only simples existed, which ontological framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "We might reference composites while analyzing mereological composition, creating convenient-fictionalism rather than pure nihilism",
+      "b": "Composites would become entirely non-existent",
+      "c": "Simple objects would cease to relate",
+      "d": "Nihilism would prevent ordinary discourse"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 127,
+    "question": "If presentism had defeated eternalism, would physicists still reference past and future events?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 128,
+    "question": "If only present existed, which temporal framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Physicists might describe past-states through present-records while analyzing temporal reference, creating record-eternalism rather than pure presentism",
+      "b": "Past would become entirely non-physical",
+      "c": "Temporal reference would cease to function",
+      "d": "Presentism would prevent physics"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 129,
+    "question": "If time had proven fundamentally discrete instead of continuous, would mathematics still employ calculus?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 130,
+    "question": "If discreteness were fundamental, which mathematical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Mathematicians might preserve calculus through discrete approximation while studying limit-behavior, creating computational-mathematics rather than pure continuity",
+      "b": "Continuity would become logically impossible",
+      "c": "Calculus would cease to provide solutions",
+      "d": "Discreteness would prevent mathematics"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 131,
+    "question": "If necessitarianism had proven correct, would philosophers still debate necessity-contingency distinction?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 132,
+    "question": "If all were necessary, which philosophical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might study necessity-types while analyzing apparent contingency, creating multi-layered-necessity rather than pure necessitarianism",
+      "b": "Contingency would become entirely illusory",
+      "c": "Distinctions would cease to be meaningful",
+      "d": "Necessitarianism would prevent philosophy"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 133,
+    "question": "If physicalism had been definitively refuted by qualia, would cognitive scientists still claim biological naturalism?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 134,
+    "question": "If consciousness transcended physical, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Scientists might study physical correlates while accepting consciousness-irreducibility, creating property-dualism rather than pure physicalism",
+      "b": "Physical explanation would become entirely impossible",
+      "c": "Consciousness would cease to have physical effects",
+      "d": "Qualia-argument would prevent neuroscience"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 135,
+    "question": "If free will had proven incompatible with determinism, would moral responsibility still require control?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 136,
+    "question": "If libertarianism were necessary, which ethical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Theorists might ground responsibility in agent-nature while analyzing constraint-degrees, creating compatibilist-libertarianism rather than pure incompatibilism",
+      "b": "Responsibility would become entirely inapplicable",
+      "c": "Determinism would cease to affect morality",
+      "d": "Incompatibilism would prevent ethics"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 137,
+    "question": "If panpsychism had proven unjustifiable, would consciousness still appear metaphysically primitive?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 138,
+    "question": "If consciousness required special explanation, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Theorists might study emergence-conditions while analyzing consciousness-uniqueness, creating constrained-emergence rather than pure panpsychism",
+      "b": "Consciousness would become entirely derivative",
+      "c": "Emergence would cease to produce novelty",
+      "d": "Panpsychism-rejection would prevent philosophy"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 139,
+    "question": "If the identity theory had been definitively refuted, would neuroscientists still seek mental-neural reduction?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 140,
+    "question": "If identity failed, which neuroscientific framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Scientists might study functional correspondence while analyzing irreducibility, creating functionalist-reduction rather than strict identity",
+      "b": "Mental states would become entirely non-physical",
+      "c": "Neural activity would cease to explain behavior",
+      "d": "Identity-theory rejection would prevent neuroscience"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 141,
+    "question": "If Chalmers' hard problem had proven unsolvable in principle, would philosophy of mind still seek consciousness-explanation?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 142,
+    "question": "If consciousness transcended explanation, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might study functional aspects while accepting explanatory-limits, creating bounded-functionalism rather than pure mysterianism",
+      "b": "Consciousness would become entirely inexplicable",
+      "c": "Explanation would cease to apply to mental phenomena",
+      "d": "Hard-problem would prevent cognitive science"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 143,
+    "question": "If modal realism had been refuted as profligate, would metaphysicians still analyze counterfactuals?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 144,
+    "question": "If possible worlds were eliminated, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Metaphysicians might study conditional-truth while analyzing necessity-grounds, creating conditional-semantics rather than world-based analysis",
+      "b": "Counterfactuals would become entirely meaningless",
+      "c": "Modality would cease to require analysis",
+      "d": "Modal-realism rejection would prevent metaphysics"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 145,
+    "question": "If Chisholm's agent-causation had been proven incoherent, would philosophers still defend libertarian control?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 146,
+    "question": "If agent-causation failed, which libertarian framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might ground freedom in agent-properties while analyzing causation-types, creating property-based libertarianism rather than agent-causation",
+      "b": "Freedom would become entirely determinate",
+      "c": "Control would cease to be possible",
+      "d": "Agent-causation rejection would prevent libertarianism"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 147,
+    "question": "If conventionalism about truth had been refuted, would philosophers still debate realism?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 148,
+    "question": "If truth required objectivity, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might study truth-standards while analyzing conventional-elements, creating sophisticated-realism rather than pure conventionalism",
+      "b": "Convention would become entirely irrelevant to truth",
+      "c": "Truth would cease to involve standards",
+      "d": "Conventionalism-rejection would prevent metaethics"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 149,
+    "question": "If feminist epistemology had been dismissed as relativistic, would philosophers still question objectivity-assumptions?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 150,
+    "question": "If objectivity were unquestionable, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Epistemologists might analyze perspective-effects while preserving evidence-standards, creating situated-objectivity rather than pure relativism",
+      "b": "Perspective would become entirely irrelevant to knowledge",
+      "c": "Situated-knowledge would cease to exist",
+      "d": "Feminist-critique would prevent epistemology"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 151,
+    "question": "If disability studies had been rejected as special pleading, would philosophy still question ability-norms?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 152,
+    "question": "If ability were naturally normed, which ethical framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Theorists might study norm-variation while analyzing justice-implications, creating norm-critical ethics rather than pure disability-relativism",
+      "b": "Disability would become entirely non-normative",
+      "c": "Norms would cease to structure society",
+      "d": "Disability-studies rejection would prevent ethics"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 153,
+    "question": "If environmental philosophy had been dismissed as non-central to metaphysics, would ontology still question human-exceptionalism?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 154,
+    "question": "If humans remained uniquely important, which ontological framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Ontologists might study object-status while analyzing human-differences, creating anthropomorphic-ontology rather than pure ecocentrism",
+      "b": "Non-human entities would become entirely non-relational",
+      "c": "Ontology would cease to include environments",
+      "d": "Environmental-philosophy rejection would prevent ecoethics"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 155,
+    "question": "If indigenous epistemology had been rejected as parochial, would philosophy of science still question objectivity?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 156,
+    "question": "If Western science monopolized truth, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Epistemologists might analyze different knowledge-systems while preserving scientific-authority, creating pluralist-hierarchy rather than pure relativism",
+      "b": "Indigenous knowledge would become entirely non-valid",
+      "c": "Epistemology would cease to recognize alternatives",
+      "d": "Indigenous-critique would prevent philosophy of science"
+    },
+    "answer": "d"
+  },
+  {
+    "question_id": 157,
+    "question": "If postcolonial philosophy had been dismissed as identity-politics, would metaphysics still question universality?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 158,
+    "question": "If universality required objectivity, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Metaphysicians might study particularity-limits while preserving generality-claims, creating regional-universals rather than pure particularism",
+      "b": "Particularity would become entirely unphilosophical",
+      "c": "Universals would cease to require justification",
+      "d": "Postcolonial-critique would prevent metaphysics"
+    },
+    "answer": "c"
+  },
+  {
+    "question_id": 159,
+    "question": "If queer theory had been rejected as non-philosophical, would philosophy still question normative categories?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 160,
+    "question": "If normativity were philosophically unquestionable, which framework emerges?",
+    "type": "MCQ",
+    "options": {
+      "a": "Philosophers might analyze norm-constitution while studying deviance-possibilities, creating critical-normativity rather than pure queer-negation",
+      "b": "Normativity would become entirely un-critical",
+      "c": "Categories would cease to require philosophical scrutiny",
+      "d": "Queer-theory rejection would prevent critical philosophy"
+    },
+    "answer": "a"
+  }
+]
