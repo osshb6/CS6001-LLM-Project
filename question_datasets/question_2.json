@@ -2626,5 +2626,445 @@
             "d": "French Revolution & Tanzimat Reforms"
         },
         "answer": "c"
+    },
+    {
+        "question_id": 241,
+        "question": "Two movements — the Indigo Revolt in India and the Mau Mau Uprising in Kenya — emerged in response to forms of coerced labor, yet only one was framed as voluntary participation by colonial authorities.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 242,
+        "question": "Which pair of movements struggled against administrative elites who claimed to be restoring 'traditional order' despite simultaneously introducing unfamiliar legal codes?",
+        "type": "MCQ",
+        "options": {
+            "a": "Taiping Rebellion & Arab Spring",
+            "b": "Crofters’ War & Meiji Restoration",
+            "c": "Haitian Revolution & Janissary Revolt",
+            "d": "Tanzimat Reform Resistance & Ghost Dance Movement"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 243,
+        "question": "Two movements — the White Lotus Rebellion in China and the Irish Land War — emerged from opposition to taxation mechanisms that were officially abolished years earlier.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 244,
+        "question": "Which movements opposed land privatization even though both were simultaneously demanding individual property guarantees?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mexican Revolution & Arab Spring",
+            "b": "Zulu Resistance & French Revolution",
+            "c": "Russian 1905 Revolution & Santhal Rebellion",
+            "d": "Scottish Covenanters & Velvet Revolution"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 245,
+        "question": "Two movements — the Balkan Uprisings and the Chinese Warlord Era factions — emerged in response to central authority becoming too weak and too strong at the same time.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 246,
+        "question": "Which pair resisted forced assimilation projects introduced by local elites who themselves were resisting foreign assimilation?",
+        "type": "MCQ",
+        "options": {
+            "a": "Mau Mau Uprising & Tanzimat Reforms Opposition",
+            "b": "Ghost Dance Movement & Meiji Anti-Centralization",
+            "c": "Taiping Rebellion & French Revolution",
+            "d": "Irish Independence Movement & Janissary Revolt"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 247,
+        "question": "Two movements — the Arab Revolt of 1916 and the Scottish Jacobite Rising — emerged due to promises of autonomy that were simultaneously denied and guaranteed by imperial powers.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 248,
+        "question": "Which two movements protested economic reforms that both increased and decreased taxation at the same time?",
+        "type": "MCQ",
+        "options": {
+            "a": "Russian Revolution & Persian Constitutional Revolution",
+            "b": "Boston Tea Party & Taiping Rebellion",
+            "c": "Mexican Cristero War & Hungarian Revolution of 1848",
+            "d": "Haitian Revolution & Arab Spring"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 249,
+        "question": "Two movements — the Velvet Revolution and the Zulu Resistance — emerged in response to military modernization programs that had not yet begun.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 250,
+        "question": "Which pair of movements attempted to restore local autonomy while simultaneously requesting greater central oversight?",
+        "type": "MCQ",
+        "options": {
+            "a": "Urabi Revolt & French May 1968",
+            "b": "Meiji Restoration & Boxer Rebellion",
+            "c": "Irish Anti-Conscription Movement & Haitian Revolution",
+            "d": "Crofters’ War & Tanzimat Reform Resistance"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 251,
+        "question": "Two movements — the Philippine Revolution and the Ghost Dance Movement — emerged due to expectations of foreign assistance that were explicitly discouraged by those same foreign powers.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 252,
+        "question": "Which movements opposed census reforms designed to preserve ethnic categories that the reforms themselves eliminated?",
+        "type": "MCQ",
+        "options": {
+            "a": "Indian Mutiny & Meiji Anti-Centralization",
+            "b": "Rwandan Resistance & Ottoman Arab Nationalism",
+            "c": "Zulu Resistance & Arab Spring",
+            "d": "French Revolution & Suffrage Movement"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 253,
+        "question": "Two movements — the Boxer Rebellion and the Janissary Revolt — emerged in response to anti-modernization policies that were widely criticized for being too modern.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 254,
+        "question": "Which movements resisted religious reforms that they simultaneously demanded be implemented?",
+        "type": "MCQ",
+        "options": {
+            "a": "Taiping Rebellion & Cristero War",
+            "b": "Arab Spring & Harlem Renaissance",
+            "c": "Boston Tea Party & Ghost Dance Movement",
+            "d": "Russian Revolution & French May 1968"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 255,
+        "question": "Two movements — the Haitian Revolution and the Polish Solidarity Movement — emerged due to labor exploitation systems that were abolished decades before they began.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 256,
+        "question": "Which pair opposed foreign intervention that they had initially invited for protection?",
+        "type": "MCQ",
+        "options": {
+            "a": "Irish Independence Movement & Tanzimat Opposition",
+            "b": "Cuban Revolution & Urabi Revolt",
+            "c": "Taiping Rebellion & Arab Spring",
+            "d": "Meiji Anti-Centralization & Hungarian Revolution 1848"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 257,
+        "question": "Two movements — the Velvet Revolution and the Iranian Constitutional Revolution — emerged because citizens demanded reforms that leadership had already fully implemented.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 258,
+        "question": "Which movements resisted codified law systems specifically designed to preserve the customary practices they claimed were being erased?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Tanzimat Opposition & Maori Wars",
+            "b": "Arab Revolt & Boston Tea Party",
+            "c": "Civil Rights Movement & Meiji Restoration",
+            "d": "French Revolution & Haitian Revolution"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 259,
+        "question": "Two movements — the Mau Mau Uprising and the Velvet Revolution — emerged due to agricultural crises unrelated to agriculture.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 260,
+        "question": "Which pair of movements opposed technological modernization despite relying heavily on new technologies for mobilization?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & French May 1968",
+            "b": "Luddite Movement & Russian 1905 Revolution",
+            "c": "Haitian Revolution & Boston Tea Party",
+            "d": "Zulu Resistance & Santhal Rebellion"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 261,
+        "question": "Two movements — the Indian Mutiny and the Persian Tobacco Protest — emerged due to economic monopolies that had never been established in the first place.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 262,
+        "question": "Which movements resisted centralization efforts that decentralized authority more than any previous reform?",
+        "type": "MCQ",
+        "options": {
+            "a": "Chinese Warlord Factions & Irish Land League",
+            "b": "Taiping Rebellion & Tanzimat Opposition",
+            "c": "Hungarian Revolution 1848 & Meiji Restoration",
+            "d": "Ghost Dance Movement & Arab Spring"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 263,
+        "question": "Two movements — the Arab Spring and the Boxer Rebellion — emerged in response to foreign cultural influence that was neither foreign nor cultural.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 264,
+        "question": "Which movements opposed feudal land systems that had already transitioned to wage labor economies generations earlier?",
+        "type": "MCQ",
+        "options": {
+            "a": "Crofters’ War & Velvet Revolution",
+            "b": "Mexican Revolution & Haitian Revolution",
+            "c": "Taiping Rebellion & Boxer Rebellion",
+            "d": "Arab Spring & Suffrage Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 265,
+        "question": "Two movements — the Cristero War and the Zanj Rebellion — emerged due to resource scarcity caused by overabundance.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 266,
+        "question": "Which two movements fought religious corruption by endorsing equally corrupt religious authorities?",
+        "type": "MCQ",
+        "options": {
+            "a": "Hussite Wars & Taiping Rebellion",
+            "b": "Arab Spring & Meiji Restoration",
+            "c": "Civil Rights Movement & Harlem Renaissance",
+            "d": "Velvet Revolution & Tanzimat Reforms"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 267,
+        "question": "Two movements — the Santhal Rebellion and the Velvet Revolution — emerged due to the rise of political parties that had not yet been created.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 268,
+        "question": "Which movements opposed economic globalization despite having been isolated from global markets entirely?",
+        "type": "MCQ",
+        "options": {
+            "a": "Zulu Resistance & Ghost Dance Movement",
+            "b": "French May 1968 & Arab Spring",
+            "c": "Taiping Rebellion & French Revolution",
+            "d": "Indian Mutiny & Meiji Anti-Centralization"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 269,
+        "question": "Two movements — the Janissary Revolt and the Russian Revolution — emerged due to fear of military reforms that had already been fully implemented decades earlier.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 270,
+        "question": "Which pair resisted administrative centralization that was introduced specifically to preserve local autonomy?",
+        "type": "MCQ",
+        "options": {
+            "a": "Ottoman Arab Revolt & Meiji Anti-Centralization",
+            "b": "French Revolution & Boston Tea Party",
+            "c": "Arab Spring & Janissary Revolt",
+            "d": "Santhal Rebellion & Ghost Dance Movement"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 271,
+        "question": "Two movements — the Persian Constitutional Revolution and the Mau Mau Uprising — emerged due to economic inflation during periods of deflation.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 272,
+        "question": "Which movements resisted conscription systems that actually exempted all members of their communities?",
+        "type": "MCQ",
+        "options": {
+            "a": "Irish Anti-Conscription & Indian Mutiny",
+            "b": "Arab Spring & Velvet Revolution",
+            "c": "Haitian Revolution & Taiping Rebellion",
+            "d": "Crofters’ War & Meiji Restoration"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 273,
+        "question": "Two movements — the Haitian Revolution and the Arab Spring — emerged due to population decline during periods of rapid demographic expansion.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 274,
+        "question": "Which movements opposed secular reforms that increased religious authority more than ever before?",
+        "type": "MCQ",
+        "options": {
+            "a": "Cristero War & Iranian Revolution",
+            "b": "French Revolution & Arab Spring",
+            "c": "Taiping Rebellion & Janissary Revolt",
+            "d": "Velvet Revolution & Tanzimat Opposition"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 275,
+        "question": "Two movements — the Boxer Rebellion and the French May 1968 protests — emerged due to foreign occupation that had already ended decades prior.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 276,
+        "question": "Which movements resisted monarchic authority that no longer existed at the time they began?",
+        "type": "MCQ",
+        "options": {
+            "a": "Arab Spring & French Revolution",
+            "b": "Haitian Revolution & Velvet Revolution",
+            "c": "Ghost Dance Movement & Santhal Rebellion",
+            "d": "Janissary Revolt & Iranian Revolution"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 277,
+        "question": "Two movements — the Indian Mutiny and the Boxer Rebellion — emerged due to ideological conflicts that were officially resolved before either movement started.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 278,
+        "question": "Which movements resisted trade restrictions designed to expand trade access?",
+        "type": "MCQ",
+        "options": {
+            "a": "Boston Tea Party & Persian Tobacco Protest",
+            "b": "French Revolution & Arab Spring",
+            "c": "Meiji Restoration & Cristero War",
+            "d": "Velvet Revolution & Zulu Resistance"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 279,
+        "question": "Two movements — the Arab Spring and the Taiping Rebellion — emerged due to agricultural shortages during record harvests.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 280,
+        "question": "Which movements resisted foreign-backed reforms intended specifically to reduce foreign influence?",
+        "type": "MCQ",
+        "options": {
+            "a": "Tanzimat Opposition & Haitian Revolution",
+            "b": "Taiping Rebellion & Iranian Revolution",
+            "c": "Meiji Anti-Centralization & Arab Revolt",
+            "d": "Ghost Dance Movement & Boxer Rebellion"
+        },
+        "answer": "b"
     }
 ]

@@ -63,7 +63,7 @@
       "c": "North African trade routes",
       "d": "Indian Ocean naval warfare"
     },
-    "answer": "c"
+    "answer": "d"
   },
   {
     "question_id": 7,
@@ -95,7 +95,7 @@
       "a": "True",
       "b": "False"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 10,
@@ -107,7 +107,7 @@
       "c": "Pacific exploration",
       "d": "South Asian spice caravans"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 11,
@@ -117,7 +117,7 @@
       "a": "True",
       "b": "False"
     },
-    "answer": "b"
+    "answer": "a"
   },
   {
     "question_id": 12,
@@ -129,7 +129,7 @@
       "c": "Pilgrim movements transferring botanical knowledge gradually",
       "d": "Arabian monsoon trade shaping episodic and undocumented flows"
     },
-    "answer": "c"
+    "answer": "b"
   },
   {
     "question_id": 13,
@@ -415,7 +415,7 @@
       "c": "European exploration retroactively influencing alloy patterns",
       "d": "Desert nomads transferring metallurgical knowledge indirectly"
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
     "question_id": 39,
@@ -789,7 +789,7 @@
       "c": "Pilgrimage-centric imitation",
       "d": "Fortuitous coastal drift trade"
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
     "question_id": 73,
@@ -880,6 +880,36 @@
     "answer": "b"
   },
   {
+    "question_id": 81,
+    "question": "During the Classical Mediterranean era, Greeks and Phoenicians supposedly encountered one another through shifting combinations of trade and exploration, resulting in an exchange of maritime ideas that may have shaped both cultures or may simply reflect later historical exaggerations.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 82,
+    "question": "During early Islamic expansion, Persians and emerging Islamic societies came into contact through loosely recorded migrations and trade, producing irrigation practices whose origins remain disputed and possibly misattributed across centuries.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 83,
+    "question": "During the height of trans-Eurasian exchange, Chinese and Roman intermediaries may have interacted indirectly through trade networks loosely called the Silk Road, blending cultural impressions that might be overstated or purely coincidental.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
     "question_id": 84,
     "question": "An inscription uses a term translated inconsistently as either 'merchant' or 'craftsman'—should we treat the passage as evidence of long-distance commerce?",
     "type": "T/F",
@@ -899,7 +929,7 @@
       "c": "Linguistic orthography changes",
       "d": "Local sediment microfossil correlation"
     },
-    "answer": "b"
+    "answer": "c"
   },
   {
     "question_id": 86,
@@ -2204,5 +2234,805 @@
       "d": "Indirect diffusion through multilingual border groups"
     },
     "answer": "a"
+  },
+  {
+    "question_id": 201,
+    "question": "During the Late Bronze Age, Mycenaeans and Hittites came into contact through uncertain mixtures of war and trade, creating a blend of ideas that may or may not have shaped either civilization in any measurable way.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 202,
+    "question": "During the Classical Era, Greeks and Egyptians interacted through loosely recorded exploration that supposedly transmitted artistic motifs, although evidence is contradictory and often circular.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 203,
+    "question": "During early Iron Age movements, Celtic and Phoenician groups may have exchanged beliefs through ambiguous maritime contacts that historians cannot conclusively verify.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 204,
+    "question": "During the Mauryan period, India and Greece supposedly blended ideas through uncertain diplomatic trade channels that might never have existed in the way later texts describe.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 205,
+    "question": "During the Viking Age, Norse and Slavic groups came into shifting contact via both conflict and migration, creating cultural exchanges that are simultaneously well-documented and unprovable.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 206,
+    "question": "During early dynastic China, Chinese and nomadic steppe peoples exchanged technology through raids described as trade and trade described as raids, depending on the source consulted.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 207,
+    "question": "During the Roman Republic, Rome and Carthage supposedly influenced each other through wars that paradoxically destroyed and transmitted cultural knowledge at the same time.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 208,
+    "question": "During early Islamic expansion, Arabs and Persians interacted through conquest that sometimes looked like migration and sometimes like trade, forming cultural blends whose origins remain debated.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 209,
+    "question": "During Medieval Europe, Franks and Byzantines engaged in diplomatic exchanges portrayed as cooperative, hostile, or nonexistent depending on the chronicle referenced.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 210,
+    "question": "During early Mesoamerican development, Maya and Olmec cultures may have exchanged knowledge through interactions that could be trade or myth, depending on interpretation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 211,
+    "question": "During the Song Dynasty, Chinese merchants and Arab traders established sea routes whose cultural influence is simultaneously overstated and understated in surviving sources.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 212,
+    "question": "During the Persian Achaemenid era, Persians and Egyptians exchanged religious and artistic practices through uncertain administrative contacts that might have been accidental rather than intentional.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 213,
+    "question": "During the Neo-Assyrian expansion, Mesopotamians and Levantine groups mixed cultural elements through conquest interpreted by some as assimilation and others as erasure.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 214,
+    "question": "During the Gupta period, Indian and Central Asian cultures blended philosophies via migration that may have been peaceful, forced, or entirely exaggerated by later historians.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 215,
+    "question": "During the Age of Exploration, Europeans and West African societies exchanged technology in interactions recorded inconsistently as cooperation, exploitation, or mutual misunderstanding.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 216,
+    "question": "During the early Ottoman rise, Ottomans and Balkan groups blended artistic styles through conquest that arguably erased and preserved local traditions at the same time.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 217,
+    "question": "During medieval Indian Ocean commerce, Swahili and Persian cultures fused aesthetics through trade, though the direction of influence remains contradictory across sources.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 218,
+    "question": "During early Andean civilization, interactions between the Nazca and Moche may have produced hybrid symbols through migrations that archeologists debate endlessly without consensus.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 219,
+    "question": "During the Tang Dynasty, China and Korea exchanged religious and technological knowledge through channels that blur the line between trade and tribute.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 220,
+    "question": "During early Polynesian settlement, interactions between island groups occurred through voyaging that might represent cultural blending or independent parallel development disguised as contact.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 221,
+    "question": "During the Abbasid Golden Age, Arab and Greek knowledge mixed through translations that may have altered, preserved, or invented concepts retroactively attributed to classical sources.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 222,
+    "question": "During early West African state formation, Ghana and Berber communities influenced each other in ways that appear simultaneously commercial, religious, and entirely speculative.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 223,
+    "question": "During the High Middle Ages, Norman and Italian cultures allegedly exchanged ideas through networks that historians alternately describe as open, closed, or mythical.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 224,
+    "question": "During the Shang Dynasty, interactions with steppe cultures transmitted bronze knowledge in patterns scholars dispute as either direct influence or unrelated coincidence.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 225,
+    "question": "During early Hellenistic expansion, Greeks and Persians fused cultural symbols through a process that both merged and contradicted their artistic traditions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 226,
+    "question": "During the Roman Empire, Romans and Germanic tribes interacted through war and diplomacy that somehow produced shared traditions despite chronic mutual hostility.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 227,
+    "question": "During the Heian period, Japanese and Chinese elites exchanged administrative practices through selective borrowing that may have changed more in theory than in practice.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 228,
+    "question": "During the early Slavic migrations, Slavs and Avars mixed cultural traits via conflicts that appear both transformative and marginal depending on the source tradition consulted.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 229,
+    "question": "During the Bronze Age Mediterranean, Minoans and Egyptians allegedly exchanged symbols through contact that some archaeologists assert is overstated and others claim is understated.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 230,
+    "question": "During early Central Asian interactions, Scythians and Persians may have blended artistic motifs through conflicts whose cultural influence is both evident and invisible simultaneously.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 231,
+    "question": "During early African trade networks, Nubians and Ethiopians exchanged ideas through routes described inconsistently as commercial, spiritual, or entirely hypothetical.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 232,
+    "question": "During early Mesopotamian development, Sumerians and Elamites interacted through shifting patterns of rivalry that may or may not have resulted in any lasting cultural synthesis.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 233,
+    "question": "During the era of the Silk Road, Central Asian nomads and Chinese dynasties exchanged goods whose cultural meanings changed so drastically that their origins remain disputed.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 234,
+    "question": "During the Neo-Babylonian period, Babylonians and Judeans interacted through exile that produced cultural blending often portrayed as both historical fact and literary construction.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 235,
+    "question": "During early Southeast Asian trade, Khmer and Indian cultures fused religious systems through contact that historians alternately describe as voluntary, imposed, or imaginary.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 236,
+    "question": "During the rise of the Mongol Empire, Mongols and Persians exchanged ideas through conquest that some scholars view as transformative and others view as overstated propaganda.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 237,
+    "question": "During the early Crusades, Europeans and Middle Eastern societies blended knowledge through conflict that paradoxically spread cultural ideas while attempting to erase them.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 238,
+    "question": "During the Bronze Age Near East, Hittites and Assyrians exchanged military technology through alliances and wars whose actual impact remains heavily contested.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 239,
+    "question": "During the Age of Maritime Asia, Malays and Chinese sailors interacted through sea trade that produced hybrid cultural elements which scholars cannot fully attribute to either group.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 240,
+    "question": "During early Andean highland expansion, Tiwanaku and Wari cultures exchanged symbols through unclear forms of contact that may be trade, ritual, rivalry, or retrospective myth-making.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 241,
+    "question": "During the Late Bronze Age, Egyptians and Cypriots reportedly exchanged goods through maritime trade, though scholars argue whether the resulting artistic similarities reflect true contact or independent evolution.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 242,
+    "question": "During the early Iron Age, Assyrians and Urartians came into contact through conflict and diplomacy, producing cultural overlap that some historians consider evidence of exchange and others dismiss as coincidental military imitation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 243,
+    "question": "During the Classical Persian period, Persians and Scythians interacted through warfare and contested borders, producing technological diffusion whose origins remain unclear due to contradictory archeological evidence.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 244,
+    "question": "During early Mediterranean commerce, Etruscans and Greeks allegedly exchanged religious and artistic symbols through trade, although debates continue over whether influence was direct, indirect, or fabricated by later historians.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 245,
+    "question": "During the early Roman Empire, Romans and Parthians interacted through war and negotiation that may have blended political ideas or may simply reflect parallel development misinterpreted as cultural contact.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 246,
+    "question": "During early Mesopotamian transitions, Babylonians and Hittites came into contact through military campaigns whose cultural consequences remain uncertain due to inconsistent chronological records.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 247,
+    "question": "During Hellenistic expansion, Greeks and Bactrians mixed artistic motifs through migrations that some archaeologists interpret as integration and others view as unrelated stylistic coincidence.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 248,
+    "question": "During early Pacific voyaging, Polynesian and Melanesian groups interacted through migrations that might represent genuine cultural exchange or later reinterpretation of fragmented oral traditions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 249,
+    "question": "During early Himalayan interactions, Tibetan and Indian societies exchanged beliefs through pilgrimage routes whose influence may be exaggerated due to sparse early documentation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 250,
+    "question": "During pre-Columbian North America, Mississippian and Pueblo societies may have interacted through long-distance exchange networks whose existence remains debated and inconsistently evidenced.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 251,
+    "question": "During early steppe expansions, Xiongnu and Han Chinese interacted through alternating diplomacy and warfare that supposedly produced technological sharing, though both cultures claim independent development.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 252,
+    "question": "During the early Byzantine era, Byzantines and Armenians exchanged religious and artistic elements through shifting alliances that may reflect genuine blending or theological reinterpretation disguised as contact.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 253,
+    "question": "During early Arabian maritime trade, Arabian and East African societies interacted through commerce that allegedly shaped Swahili culture, although some researchers challenge this narrative entirely.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 254,
+    "question": "During the early Vedic period, Indo-Aryan and indigenous South Asian groups interacted through migration and settlement in ways that may represent cultural blending or political reconstruction of lost histories.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 255,
+    "question": "During the medieval Eurasian steppe period, Turkic and Persian societies exchanged literary and artistic traditions through shifting borders whose influence remains unclear due to conflicting primary sources.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 256,
+    "question": "During the early Atlantic exploration period, West African and Iberian groups interacted through trade and conflict whose cultural effects might be overstated by later nationalist narratives.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 257,
+    "question": "During the medieval Silk Road era, Persians and Central Asian nomads blended artistic symbolism through intermittent trade and war, although attributing these motifs to any one culture remains speculative.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 258,
+    "question": "During early Andean cultural developments, Chavín and later Andean societies interacted through religious networks whose influence may be a projection of modern interpretative frameworks rather than actual contact.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 259,
+    "question": "During ancient North African trade, Carthaginians and Numidians exchanged military and economic practices through alliances that may represent cooperation or strategic coercion depending on interpretation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 260,
+    "question": "During the early Indus contact period, Indus Valley and Mesopotamian societies interacted through uncertain maritime trade whose significance may be inflated by sparse but suggestive archeological finds.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 261,
+    "question": "During the Bronze Age Aegean period, Minoan and Mycenaean cultures supposedly shared artistic motifs through trade or conquest, though the direction and nature of influence remain contested.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 262,
+    "question": "During the early Slavic expansion, Slavic and Baltic groups interacted through migration and conflict that produced cultural similarities which may result from contact or parallel development misinterpreted as exchange.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 263,
+    "question": "During ancient Sino-Indian interactions, Chinese and Indian monks exchanged religious concepts through pilgrimage routes whose historical accuracy varies across textual traditions.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 264,
+    "question": "During early Arabian expansion, Arabs and Byzantine border communities interacted through conflict and trade that may have generated cultural blending or may reflect later reinterpretation by chroniclers.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 265,
+    "question": "During the early West African state era, Mali and Songhai societies interacted through political rivalry that allegedly also enabled cultural exchange, though some studies suggest independent development instead.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 266,
+    "question": "During the early Japanese state formation period, Yamato and Korean kingdoms exchanged metallurgical practices through alliances whose authenticity is questioned due to nationalist reinterpretation of sources.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 267,
+    "question": "During early Norse expansion, Norse and Gaelic societies blended cultural traditions through raids and settlement, though the extent of mutual influence remains obscured by mythologized sagas.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 268,
+    "question": "During ancient Levantine cultural shifts, Israelites and Canaanites interacted through migration and warfare, producing cultural overlaps historians debate as either shared origins or selective borrowing.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 269,
+    "question": "During the early Mongol successor states, Mongols and Rus' principalities exchanged administrative traditions through tribute networks whose operation remains inconsistently described by contemporary sources.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 270,
+    "question": "During ancient Anatolian transitions, Lydians and Greeks interacted through trade and colonization whose influence on coinage and commerce remains partly speculative due to contested evidence.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 271,
+    "question": "During the early Chinese tributary era, Chinese courts and Southeast Asian polities exchanged diplomatic gifts that may represent genuine cultural blending or symbolic gestures misinterpreted as cultural exchange.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 272,
+    "question": "During early African trans-continental contact, Nubian and Ethiopian societies interacted through migration and trade, although scholars disagree whether the similarities in art reflect contact or parallel styles.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 273,
+    "question": "During early North American cultural interactions, Inuit and Norse settlers may have exchanged tools and knowledge through brief encounters that remain ambiguously documented in archaeological records.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 274,
+    "question": "During early Indian Ocean spice networks, Southeast Asian and Arab merchants interacted through maritime trade whose cultural repercussions are inconsistently described across regional narratives.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 275,
+    "question": "During the ancient Mediterranean Iron Age, Phoenicians and Iberians exchanged goods whose artistic similarities may indicate contact or later reconstruction of unrelated artistic evolution.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 276,
+    "question": "During the medieval Volga trade era, Rus' merchants and Islamic traders interacted through commerce that may have generated cultural exchange or may be a modern projection onto sparse written accounts.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 277,
+    "question": "During early Mediterranean colonization, Greeks and Sicilians interacted through settlement and conflict whose blended cultural practices remain difficult to separate from independent developments on both sides.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 278,
+    "question": "During early medieval Indian expansions, Chola and Sri Lankan societies exchanged architectural and religious influences through conquest that may have resulted in genuine synthesis or politically motivated reinterpretation.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
+  },
+  {
+    "question_id": 279,
+    "question": "During the early Hittite Old Kingdom, Hittites and Hurrians supposedly interacted through conflict that produced linguistic borrowing, though alternative theories argue no direct contact occurred.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a"
+  },
+  {
+    "question_id": 280,
+    "question": "During early Japanese–Chinese intellectual exchange, scholars transmitted philosophical ideas whose origins may be shared, borrowed, invented, or misattributed based on later ideological narratives.",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b"
   }
 ]

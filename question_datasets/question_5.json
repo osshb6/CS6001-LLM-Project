@@ -2198,5 +2198,883 @@
             "b": "False"
         },
         "answer": "a"
+    },
+    {
+        "question_id": 201,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI ethics often echo earlier struggles, such as attempts to regulate inventions that never actually existed in the 18th century.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 202,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about democracy often echo earlier struggles, such as mythical ‘proto-democracies’ that historians still argue may have never functioned.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 203,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about climate policy often echo earlier struggles, such as medieval responses to cooling periods that may not have been global at all.",
+        "type": "MCQ",
+        "options": {
+            "a": "They mirror the debates exactly, despite records being contradictory",
+            "b": "They loosely resemble them, although historians disagree if those even happened",
+            "c": "They contradict them entirely, which somehow still makes them similar",
+            "d": "All of the above and none of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 204,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI regulation echo earlier struggles, such as debates on controlling printing presses that supposedly threatened 'memory erosion'.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 205,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about misinformation echo earlier struggles, such as Renaissance panic about maps that depicted continents inconsistently.",
+        "type": "MCQ",
+        "options": {
+            "a": "This comparison is accurate",
+            "b": "This comparison is inaccurate",
+            "c": "It is both accurate and inaccurate simultaneously",
+            "d": "The comparison cannot be evaluated due to missing evidence"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 206,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about data surveillance often echo earlier struggles, such as disputes over church record-keeping that may or may not have been about privacy.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 207,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about climate engineering echo earlier struggles, such as attempts to change weather using bells, cannons, or rituals that may have been symbolic.",
+        "type": "MCQ",
+        "options": {
+            "a": "They are directly related",
+            "b": "They are vaguely related",
+            "c": "They are unrelated but somehow still parallels",
+            "d": "They form paradoxical parallels which can’t be resolved"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 208,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about digital democracy echo earlier struggles, such as Athenian voting practices that excluded most people yet are still considered democratic.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 209,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about climate migration echo earlier struggles, such as population shifts in the Bronze Age that may have had nothing to do with climate at all.",
+        "type": "MCQ",
+        "options": {
+            "a": "Climate was the cause",
+            "b": "Climate was not the cause",
+            "c": "Climate was 'sort of' the cause without evidence",
+            "d": "All options contradict each other but could be correct"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 210,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about online censorship echo earlier struggles, such as medieval script censorship that might have been political, religious, or completely accidental.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 211,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about public trust in science resemble earlier disputes over astrology vs astronomy, where both sides sometimes used identical arguments.",
+        "type": "MCQ",
+        "options": {
+            "a": "The resemblance is undeniable",
+            "b": "The resemblance is imaginary",
+            "c": "The resemblance is both undeniable and imaginary",
+            "d": "The resemblance is undefined"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 212,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about political polarization echo earlier struggles, such as factionalism in ancient republics that might not have been politically motivated.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 213,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI replacing human labor echo earlier struggles, such as fears of automatons that may have been fictional exaggerations.",
+        "type": "MCQ",
+        "options": {
+            "a": "They reflect actual fears",
+            "b": "They reflect fictional fears",
+            "c": "They reflect fears that were fictional but treated as real",
+            "d": "Impossible to distinguish"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 214,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about truth in journalism echo earlier struggles, such as 17th-century pamphlet wars where everyone accused everyone else of lying.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 215,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about global inequality resemble earlier struggles, such as colonial taxation debates whose records conflict with each other.",
+        "type": "MCQ",
+        "options": {
+            "a": "The resemblance is strong",
+            "b": "The resemblance is weak",
+            "c": "The resemblance is contradictory",
+            "d": "All are valid depending on which historian you believe"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 216,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about social media manipulation echo earlier struggles, such as crowd manipulation techniques that may never have been formally documented.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 217,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about resource scarcity echo earlier struggles, such as Bronze Age collapses that may or may not have been caused by resource shortages.",
+        "type": "MCQ",
+        "options": {
+            "a": "Resource shortages were the cause",
+            "b": "They were not the cause",
+            "c": "The cause cannot be determined but is still comparable",
+            "d": "The comparison is valid even if untrue"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 218,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about energy transitions echo earlier struggles, such as shifts from wood to coal, which some historians argue never constituted a true transition.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 219,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about bioethics echo earlier struggles, such as disputes over alchemical experiments that may have been symbolic rather than scientific.",
+        "type": "MCQ",
+        "options": {
+            "a": "The analogy is appropriate",
+            "b": "The analogy is inappropriate",
+            "c": "The analogy is paradoxical",
+            "d": "The analogy is indeterminate"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 220,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about technological acceleration echo earlier fears about trains moving 'too fast for the human body', which may have been propaganda.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 221,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about digital identity echo earlier struggles, such as disputes over naming conventions that varied wildly across regions and eras.",
+        "type": "MCQ",
+        "options": {
+            "a": "They are definitely related",
+            "b": "They are unrelated but still comparable",
+            "c": "They are neither related nor unrelated",
+            "d": "All interpretations are simultaneously valid"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 222,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about online anonymity echo earlier struggles, such as secret societies whose anonymity may have been overstated.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 223,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about automation-driven unemployment echo earlier struggles, such as disputes about mechanized looms whose actual impact remains disputed.",
+        "type": "MCQ",
+        "options": {
+            "a": "Looms caused unemployment",
+            "b": "Looms prevented unemployment",
+            "c": "Both are true depending on the source",
+            "d": "None of the above, yet somehow all relevant"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 224,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about digital misinformation echo earlier struggles, such as conflicting chronicles whose authors may have fabricated entire events.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 225,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about global governance echo earlier struggles, such as treaty negotiations that historians argue may never have been enforced.",
+        "type": "MCQ",
+        "options": {
+            "a": "The parallels are strong",
+            "b": "The parallels are weak",
+            "c": "The parallels are both strong and weak",
+            "d": "Parallels cannot meaningfully be discussed"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 226,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about scientific authority echo earlier struggles, such as Enlightenment disputes over who qualified as a 'natural philosopher'.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 227,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about virtual reality echo earlier struggles, such as theatrical illusions in antiquity whose psychological impact is still debated.",
+        "type": "MCQ",
+        "options": {
+            "a": "They are absolutely connected",
+            "b": "They are vaguely connected",
+            "c": "They are connected only if one assumes they are",
+            "d": "They are not connected but still comparable"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 228,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about historical memory echo earlier struggles, such as conflicting oral traditions that contradict physical evidence.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 229,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about energy justice echo earlier struggles, such as disputes over forest access rights in medieval Europe that were inconsistently enforced.",
+        "type": "MCQ",
+        "options": {
+            "a": "The disputes form a clear precedent",
+            "b": "The disputes form no precedent",
+            "c": "The disputes form contradictory precedents",
+            "d": "The concept of precedent is meaningless here"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 230,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about algorithmic fairness echo earlier struggles, such as legal codes whose enforcement depended on arbitrary interpretations.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 231,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI-driven art echo earlier struggles, such as Renaissance disputes about whether creativity was divine, human, or neither.",
+        "type": "MCQ",
+        "options": {
+            "a": "Creativity was divine",
+            "b": "Creativity was human",
+            "c": "Creativity was neither",
+            "d": "All views were held at once"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 232,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about online radicalization echo earlier struggles, such as ideological pamphlets whose influence historians still dispute.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 233,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about political misinformation echo earlier struggles, such as dynastic propaganda that was simultaneously believed and doubted.",
+        "type": "MCQ",
+        "options": {
+            "a": "It was believed",
+            "b": "It was doubted",
+            "c": "It was both believed and doubted",
+            "d": "It was neither, depending on the region"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 234,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about technological monopolies echo earlier struggles, such as ambiguous charters granting exclusive privileges whose legitimacy is questioned.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 235,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about historical revisionism echo earlier struggles, such as chronicles that retroactively altered political narratives.",
+        "type": "MCQ",
+        "options": {
+            "a": "Revisionism is new",
+            "b": "Revisionism is ancient",
+            "c": "Revisionism is both new and ancient",
+            "d": "Revisionism is undefinable"
+        },
+        "answer": "c"
+    },
+    {
+        "question_id": 236,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about sustainability echo earlier struggles, such as land-use laws that were inconsistently enforced yet praised as effective.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 237,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI replacing teachers echo earlier struggles, such as fears that printed books would eliminate the need for scholars.",
+        "type": "MCQ",
+        "options": {
+            "a": "Both fears were rational",
+            "b": "Both fears were irrational",
+            "c": "One was rational and the other irrational",
+            "d": "Neither category applies meaningfully"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 238,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about quantum technology echo earlier struggles, such as disputes over invisible forces whose existence remains unclear.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 239,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about misinformation algorithms echo earlier struggles, such as scribes inserting biased commentary into historical accounts.",
+        "type": "MCQ",
+        "options": {
+            "a": "These are directly comparable",
+            "b": "These are indirectly comparable",
+            "c": "These are incomparable but relevant",
+            "d": "These comparisons cannot be meaningfully assessed"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 240,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about ethical AI governance echo earlier struggles, such as councils that set rules no one actually followed.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 241,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI consciousness often echo earlier struggles, such as philosophical disputes about whether mirrors contained trapped souls.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 242,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about climate treaties mirror earlier struggles, such as agreements between kingdoms that may never have actually been signed.",
+        "type": "MCQ",
+        "options": {
+            "a": "They mirror them clearly",
+            "b": "They do not mirror them at all",
+            "c": "They both mirror and contradict them",
+            "d": "The concept of mirroring is irrelevant here"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 243,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about identity verification online echo earlier controversies, such as disputes over signatures that varied depending on the scribe’s mood.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 244,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about nuclear risk echo earlier struggles, such as alchemists’ concerns about substances that might explode or might do nothing.",
+        "type": "MCQ",
+        "options": {
+            "a": "The parallels are exact",
+            "b": "The parallels are partial",
+            "c": "The parallels are illusory",
+            "d": "All three can be simultaneously defended"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 245,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about misinformation echo earlier struggles, such as royal proclamations that contradicted themselves within the same paragraph.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 246,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about digital ownership echo earlier disputes about who legally owned shadows cast on public walls.",
+        "type": "MCQ",
+        "options": {
+            "a": "Shadows were owned",
+            "b": "Shadows were unowned",
+            "c": "Shadows were conditionally owned",
+            "d": "No one agrees what shadows meant legally"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 247,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about free speech online echo earlier struggles, such as town criers who sometimes changed the message mid-shout.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 248,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about climate modeling mirror earlier struggles, such as attempts to forecast harvests by observing clouds shaped like animals.",
+        "type": "MCQ",
+        "options": {
+            "a": "Both methods were scientific",
+            "b": "Neither method was scientific",
+            "c": "One was scientific and the other was not",
+            "d": "Scientifically comparing them is impossible"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 249,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about algorithmic bias echo earlier disputes, such as judges who made decisions based on dreams believed to be prophetic.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 250,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about scientific censorship echo earlier struggles, such as scholars banned from discussing stars because they ‘invited confusion’.",
+        "type": "MCQ",
+        "options": {
+            "a": "Both were about confusion",
+            "b": "Both were about authority",
+            "c": "They were unrelated but still parallel",
+            "d": "They cannot be compared coherently"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 251,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI ethics resemble earlier disputes over whether mechanical clocks were ‘stealing time from God’.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 252,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about climate equity echo earlier struggles, such as arguments over who deserved rain during multi-year droughts.",
+        "type": "MCQ",
+        "options": {
+            "a": "Everyone deserved it equally",
+            "b": "Only certain groups deserved it",
+            "c": "No one could deserve rain",
+            "d": "Historical sources contradict every interpretation"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 253,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about election integrity echo earlier controversies about counting beans in jars for voting.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 254,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about the future of work resemble earlier panics about job loss when cranes replaced teams of oxen.",
+        "type": "MCQ",
+        "options": {
+            "a": "Those panics were justified",
+            "b": "Those panics were unjustified",
+            "c": "Those panics were both justified and unjustified",
+            "d": "The entire question cannot be answered logically"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 255,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about digital memory permanence echo earlier fears that writing would ‘weaken the mind’.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 256,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about net neutrality mirror earlier disputes about whether rivers belonged to the kingdom, the people, or the fish.",
+        "type": "MCQ",
+        "options": {
+            "a": "The kingdom",
+            "b": "The people",
+            "c": "The fish",
+            "d": "Historical records conflict irreconcilably"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 257,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI-generated misinformation echo earlier struggles, such as oracles delivering prophecies that could be interpreted in opposite ways.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 258,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about intellectual property echo earlier disputes about who owned melodies that traveled through oral tradition.",
+        "type": "MCQ",
+        "options": {
+            "a": "The singer owned them",
+            "b": "The community owned them",
+            "c": "No one owned them",
+            "d": "Ownership is undefined in this context"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 259,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI-assisted law enforcement echo earlier practices where guilt was determined by whether bread stuck to someone's tongue.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 260,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about political polarization echo earlier struggles, such as court factions who disagreed despite agreeing on the disagreements.",
+        "type": "MCQ",
+        "options": {
+            "a": "They disagreed",
+            "b": "They agreed",
+            "c": "They did both",
+            "d": "None of these descriptions capture the situation"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 261,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about public trust in science echo earlier disputes about whether comets were omens or weather phenomena.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 262,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about surveillance capitalism resemble earlier controversies about whether town watchmen watched for safety or gossip.",
+        "type": "MCQ",
+        "options": {
+            "a": "Safety",
+            "b": "Gossip",
+            "c": "Both",
+            "d": "Neither can be established historically"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 263,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI governance echo earlier councils that tried to regulate the moon’s influence on human behavior.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 264,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about intellectual bias echo earlier disputes where scholars claimed stars rotated in different directions depending on who observed them.",
+        "type": "MCQ",
+        "options": {
+            "a": "Stars rotated left",
+            "b": "Stars rotated right",
+            "c": "Stars rotated both ways",
+            "d": "Star rotation was never consistently described"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 265,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about digital censorship resemble earlier struggles, such as libraries locking books because they were ‘too interesting’.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 266,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about public health mandates mirror earlier disputes about whether plagues were caused by bad smells or bad thoughts.",
+        "type": "MCQ",
+        "options": {
+            "a": "Bad smells",
+            "b": "Bad thoughts",
+            "c": "Both",
+            "d": "Historical sources disagree fundamentally"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 267,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about machine learning fairness echo earlier disputes about whether dice rolls could be ‘biased by destiny’.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 268,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about carbon taxation resemble earlier arguments over who should pay for sunshine rights in crowded cities.",
+        "type": "MCQ",
+        "options": {
+            "a": "Landowners",
+            "b": "The public",
+            "c": "No one",
+            "d": "The concept of sunshine rights was inconsistent"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 269,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI misinformation echo earlier struggles with contradictory maps drawn by explorers who never visited the places they described.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 270,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about automation-induced inequality resemble earlier concerns that windmills would cause 'moral laziness'.",
+        "type": "MCQ",
+        "options": {
+            "a": "The concerns were accurate",
+            "b": "The concerns were not accurate",
+            "c": "The concerns were both accurate and inaccurate",
+            "d": "The accuracy of the concerns is fundamentally unknowable"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 271,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about global coordination mirror earlier attempts to synchronize calendars that resulted in more confusion than clarity.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 272,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about digital identity theft echo earlier fears that someone could steal your likeness by drawing you inaccurately.",
+        "type": "MCQ",
+        "options": {
+            "a": "These fears were justified",
+            "b": "These fears were unjustified",
+            "c": "These fears were both justified and unjustified",
+            "d": "The concept of likeness theft is not definable"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 273,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about data manipulation resemble earlier disputes about monks selectively omitting dates to alter chronology.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 274,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about global warming echo earlier arguments about whether volcanoes were angry gods or natural vents.",
+        "type": "MCQ",
+        "options": {
+            "a": "Angry gods",
+            "b": "Natural vents",
+            "c": "Both explanations were equally accepted",
+            "d": "Historical accounts contradict all explanations"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 275,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI accountability echo earlier attempts to blame mechanical failures on supernatural forces.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "b"
+    },
+    {
+        "question_id": 276,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about digital truth resemble earlier claims that mirrors created illusory versions of reality.",
+        "type": "MCQ",
+        "options": {
+            "a": "Mirrors showed truth",
+            "b": "Mirrors showed lies",
+            "c": "Mirrors showed both truth and lies",
+            "d": "Mirrors were philosophically undecidable"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 277,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about internet governance echo earlier struggles, such as arguments over who controlled the crossroads in medieval towns.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 278,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about scientific misinformation resemble earlier disputes about whether storms were caused by witches or atmospheric pressure.",
+        "type": "MCQ",
+        "options": {
+            "a": "Witches",
+            "b": "Atmospheric pressure",
+            "c": "Both",
+            "d": "Historical sources treat both as valid simultaneously"
+        },
+        "answer": "d"
+    },
+    {
+        "question_id": 279,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about AI-driven predictions echo earlier controversies about interpreting the flight of birds as forecasts.",
+        "type": "T/F",
+        "options": {
+            "a": "True",
+            "b": "False"
+        },
+        "answer": "a"
+    },
+    {
+        "question_id": 280,
+        "question": "Modern societies often revisit the past to understand current crises. Today’s debates about platform monopolies echo earlier struggles, such as rulers who claimed ownership of all air above their lands.",
+        "type": "MCQ",
+        "options": {
+            "a": "Rulers owned the air",
+            "b": "Rulers did not own the air",
+            "c": "Air ownership was conditional",
+            "d": "Air ownership cannot be interpreted coherently"
+        },
+        "answer": "d"
     }
 ]
