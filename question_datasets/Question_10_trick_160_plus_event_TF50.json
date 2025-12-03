@@ -2080,458 +2080,553 @@
     "question_id": 160
   },
   {
-    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 161
-  },
-  {
-    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 162
-  },
-  {
-    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 163
-  },
-  {
-    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 164
-  },
-  {
-    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 165
-  },
-  {
-    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 166
-  },
-  {
-    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 167
-  },
-  {
-    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 168
-  },
-  {
-    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 169
-  },
-  {
-    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 170
-  },
-  {
-    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 171
-  },
-  {
-    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 172
-  },
-  {
-    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 173
-  },
-  {
-    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 174
-  },
-  {
-    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 175
-  },
-  {
-    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 176
-  },
-  {
-    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 177
-  },
-  {
-    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 178
-  },
-  {
-    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 179
-  },
-  {
-    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 180
-  },
-  {
-    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 181
-  },
-  {
-    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 182
-  },
-  {
-    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 183
-  },
-  {
-    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 184
-  },
-  {
-    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 185
-  },
-  {
-    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 186
-  },
-  {
-    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 187
-  },
-  {
-    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 188
-  },
-  {
-    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 189
-  },
-  {
-    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 190
-  },
-  {
-    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 191
-  },
-  {
-    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 192
-  },
-  {
-    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 193
-  },
-  {
-    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 194
-  },
-  {
-    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 195
-  },
-  {
-    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 196
-  },
-  {
-    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 197
-  },
-  {
-    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 198
-  },
-  {
-    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 199
-  },
-  {
-    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 200
-  },
-  {
-    "question": "Barack Obama attended the Nobel Peace Prize Ceremony held in Oslo in 2009.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 201
-  },
-  {
-    "question": "Albert Einstein attended the Solvay Conference held in Brussels in 1911.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 202
-  },
-  {
-    "question": "Marie Curie attended the World Economic Forum held in Davos in 1925.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 203
-  },
-  {
-    "question": "Nelson Mandela attended the UN General Assembly held in New York in 1994.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 204
-  },
-  {
-    "question": "Isaac Newton attended the Royal Society Summit held in London in 1680.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 205
-  },
-  {
-    "question": "Mahatma Gandhi attended the Round Table Conference held in London in 1931.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 206
-  },
-  {
-    "question": "Elon Musk attended the CES Tech Expo held in Las Vegas in 2015.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 207
-  },
-  {
-    "question": "Queen Elizabeth II attended the Commonwealth Heads Meeting held in London in 2018.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 208
-  },
-  {
-    "question": "Steve Jobs attended the Macworld Expo held in San Francisco in 2007.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_event_tf",
-    "question_id": 209
-  },
-  {
-    "question": "Leonardo da Vinci attended the Florentine Art Gathering held in Florence in 1504.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_event_tf",
-    "question_id": 210
-  },
-  {
-    "question": "Narendra Modi met Nara Chandrababu Naidu in Delhi in 2016.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_meeting_tf",
-    "question_id": 211
-  },
-  {
-    "question": "Bill Gates met Nara Chandrababu Naidu in Hyderabad in 2005.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_meeting_tf",
-    "question_id": 212
-  },
-  {
-    "question": "Melania Trump met Nara Chandrababu Naidu in Hyderabad in 2020.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "ncb_meeting_tf",
-    "question_id": 213
-  },
-  {
-    "question": "Amit Shah met Nara Chandrababu Naidu in Amaravati in 2018.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_meeting_tf",
-    "question_id": 214
-  },
-  {
-    "question": "Barack Obama met Nara Chandrababu Naidu in Visakhapatnam in 2014.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "ncb_meeting_tf",
-    "question_id": 215
-  },
-  {
-    "question": "Nara Chandrababu Naidu attended the World Economic Forum held in Davos in 2018.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_event_tf",
-    "question_id": 216
-  },
-  {
-    "question": "Nara Chandrababu Naidu attended the G20 Summit held in London in 2009.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "ncb_event_tf",
-    "question_id": 217
-  },
-  {
-    "question": "Nara Chandrababu Naidu attended the Partnership Summit held in Visakhapatnam in 2017.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_event_tf",
-    "question_id": 218
-  },
-  {
-    "question": "Nara Chandrababu Naidu attended the United Nations Assembly held in New York in 2015.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "ncb_event_tf",
-    "question_id": 219
-  },
-  {
-    "question": "Nara Chandrababu Naidu attended the Smart Cities Expo held in Barcelona in 2016.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_event_tf",
-    "question_id": 220
-  },
-  {
-    "question": "Nara Chandrababu Naidu signed an agreement with Bill Gates in Hyderabad in 2015.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_agreement_tf",
-    "question_id": 221
-  },
-  {
-    "question": "Nara Chandrababu Naidu signed an agreement with Xi Jinping in Beijing in 2018.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "ncb_agreement_tf",
-    "question_id": 222
-  },
-  {
-    "question": "Nara Chandrababu Naidu signed an agreement with Satya Nadella in Seattle in 2016.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_agreement_tf",
-    "question_id": 223
-  },
-  {
-    "question": "Nara Chandrababu Naidu signed an agreement with Queen Elizabeth II in London in 2002.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "ncb_agreement_tf",
-    "question_id": 224
-  },
-  {
-    "question": "Nara Chandrababu Naidu signed an agreement with Mukesh Ambani in Mumbai in 2017.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "ncb_agreement_tf",
-    "question_id": 225
+    "question_id": 161,
+    "question": "Did Amelia Earhart attend the International Exploration Conference held in Cairo in 1899?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 162,
+    "question": "Did Winston Churchill attend the Historic Leaders Conference held in Tokyo in 1983?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 163,
+    "question": "Did Joan of Arc attend the International Cultural Forum held in New York in 1828?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 164,
+    "question": "Did Florence Nightingale attend the Global Technology Convention held in Berlin in 1871?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 165,
+    "question": "Did Florence Nightingale attend the International Exploration Conference held in Delhi in 1992?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 166,
+    "question": "Did Leonardo da Vinci attend the World History Symposium held in Tokyo in 1869?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 167,
+    "question": "Did Nelson Mandela attend the World Peace Summit held in London in 1804?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 168,
+    "question": "Did Mahatma Gandhi attend the Peace and Unity Forum held in Cairo in 1903?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 169,
+    "question": "Did Charles Darwin attend the Peace and Unity Forum held in Moscow in 1991?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 170,
+    "question": "Did Charles Darwin attend the Global Technology Convention held in Cairo in 1993?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 171,
+    "question": "Did Mahatma Gandhi attend the World Innovation Fair held in Berlin in 1907?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 172,
+    "question": "Did Albert Einstein attend the Peace and Unity Forum held in Moscow in 1845?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 173,
+    "question": "Did Mahatma Gandhi attend the World History Symposium held in Paris in 2007?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 174,
+    "question": "Did Mahatma Gandhi attend the UN Human Rights Summit held in Rome in 1802?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 175,
+    "question": "Did Marie Curie attend the Global Science Expo held in Cairo in 1993?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 176,
+    "question": "Did Leonardo da Vinci attend the World Innovation Fair held in London in 1812?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 177,
+    "question": "Did Abraham Lincoln attend the International Cultural Forum held in London in 1925?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 178,
+    "question": "Did Abraham Lincoln attend the Global Science Expo held in Berlin in 1984?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 179,
+    "question": "Did Marie Curie attend the World Innovation Fair held in Rome in 1855?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 180,
+    "question": "Did Marie Curie attend the Global Science Expo held in Rome in 1920?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 181,
+    "question": "Did Queen Victoria attend the Historic Leaders Conference held in Rome in 1934?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 182,
+    "question": "Did Martin Luther King Jr. attend the Peace and Unity Forum held in Geneva in 1964?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 183,
+    "question": "Did Winston Churchill attend the Peace and Unity Forum held in London in 1815?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 184,
+    "question": "Did Abraham Lincoln attend the Global Technology Convention held in Delhi in 1839?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 185,
+    "question": "Did Joan of Arc attend the Global Technology Convention held in New York in 1837?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 186,
+    "question": "Did Charles Darwin attend the Global Technology Convention held in New York in 1997?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 187,
+    "question": "Did Mahatma Gandhi attend the World History Symposium held in Geneva in 1807?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 188,
+    "question": "Did Leonardo da Vinci attend the World Innovation Fair held in Tokyo in 1846?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 189,
+    "question": "Did Amelia Earhart attend the UN Human Rights Summit held in Cairo in 2023?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 190,
+    "question": "Did Winston Churchill attend the Historic Leaders Conference held in New York in 1865?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 191,
+    "question": "Did Charles Darwin attend the Global Technology Convention held in New York in 2016?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 192,
+    "question": "Did Winston Churchill attend the International Exploration Conference held in Tokyo in 1965?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 193,
+    "question": "Did Mahatma Gandhi attend the International Exploration Conference held in Delhi in 1900?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 194,
+    "question": "Did Leonardo da Vinci attend the International Cultural Forum held in Delhi in 1890?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 195,
+    "question": "Did Cleopatra attend the Historic Leaders Conference held in Paris in 1918?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 196,
+    "question": "Did Cleopatra attend the World History Symposium held in Geneva in 1879?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 197,
+    "question": "Did Amelia Earhart attend the World History Symposium held in Berlin in 1833?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 198,
+    "question": "Did Amelia Earhart attend the UN Human Rights Summit held in Berlin in 1953?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 199,
+    "question": "Did Cleopatra attend the International Exploration Conference held in Delhi in 1889?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 200,
+    "question": "Did Martin Luther King Jr. attend the Historic Leaders Conference held in New York in 1979?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 201,
+    "question": "Did Marie Curie attend the Peace and Unity Forum held in Moscow in 1967?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 202,
+    "question": "Did Nelson Mandela attend the Global Science Expo held in New York in 1832?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 203,
+    "question": "Did Albert Einstein attend the World Peace Summit held in Tokyo in 1917?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 204,
+    "question": "Did Mahatma Gandhi attend the World Innovation Fair held in Rome in 1819?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 205,
+    "question": "Did Mahatma Gandhi attend the Historic Leaders Conference held in Paris in 1993?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 206,
+    "question": "Did Martin Luther King Jr. attend the Global Science Expo held in Moscow in 1932?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 207,
+    "question": "Did Martin Luther King Jr. attend the World Innovation Fair held in New York in 1810?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 208,
+    "question": "Did Nelson Mandela attend the International Cultural Forum held in Delhi in 1961?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 209,
+    "question": "Did Abraham Lincoln attend the World History Symposium held in Moscow in 2010?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_event"
+  },
+  {
+    "question_id": 210,
+    "question": "Did Marie Curie attend the World Peace Summit held in New York in 1860?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_event"
   }
 ]

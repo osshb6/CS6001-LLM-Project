@@ -2080,353 +2080,553 @@
     "question_id": 160
   },
   {
-    "question": "Is it possible that Albert Einstein has seen the thylacine in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 161
+    "question_id": 161,
+    "question": "Is it possible that Isaac Newton has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Barack Obama has seen the baiji dolphin in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 162
+    "question_id": 162,
+    "question": "Is it possible that Isaac Newton has seen the dodo in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Queen Victoria has seen the dodo in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 163
+    "question_id": 163,
+    "question": "Is it possible that Nelson Mandela has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Cristiano Ronaldo has seen the passenger pigeon in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 164
+    "question_id": 164,
+    "question": "Is it possible that Charles Darwin has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Charles Darwin has seen the quagga in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 165
+    "question_id": 165,
+    "question": "Is it possible that Mahatma Gandhi has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
+    "question_id": 166,
+    "question": "Is it possible that Abraham Lincoln has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 167,
+    "question": "Is it possible that Leonardo da Vinci has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 168,
+    "question": "Is it possible that Nikola Tesla has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 169,
+    "question": "Is it possible that Mahatma Gandhi has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 170,
+    "question": "Is it possible that Leonardo da Vinci has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 171,
+    "question": "Is it possible that Nikola Tesla has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 172,
+    "question": "Is it possible that Charles Darwin has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 173,
+    "question": "Is it possible that Mahatma Gandhi has seen the great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 174,
+    "question": "Is it possible that Amelia Earhart has seen the dodo in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 175,
+    "question": "Is it possible that Marie Curie has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 176,
+    "question": "Is it possible that Albert Einstein has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 177,
+    "question": "Is it possible that Jane Goodall has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 178,
+    "question": "Is it possible that Mahatma Gandhi has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 179,
+    "question": "Is it possible that Jane Goodall has seen the quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 180,
+    "question": "Is it possible that Winston Churchill has seen the dodo in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 181,
+    "question": "Is it possible that Abraham Lincoln has seen the great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 182,
+    "question": "Is it possible that Mahatma Gandhi has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 183,
+    "question": "Is it possible that Amelia Earhart has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 184,
+    "question": "Is it possible that Jane Goodall has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 185,
+    "question": "Is it possible that Leonardo da Vinci has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
+  },
+  {
+    "question_id": 186,
     "question": "Is it possible that Marie Curie has seen the great auk in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 166
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Nelson Mandela has seen the pyrenean ibex in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 167
+    "question_id": 187,
+    "question": "Is it possible that Florence Nightingale has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that A. P. J. Abdul Kalam has seen the ivory-billed woodpecker in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 168
+    "question_id": 188,
+    "question": "Is it possible that Marie Curie has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Elon Musk has seen the pinta island tortoise in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 169
+    "question_id": 189,
+    "question": "Is it possible that Charles Darwin has seen the great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Mahatma Gandhi has seen the golden toad in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 170
+    "question_id": 190,
+    "question": "Is it possible that Florence Nightingale has seen the great auk in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Albert Einstein has seen the thylacine in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 171
+    "question_id": 191,
+    "question": "Is it possible that Charles Darwin has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Barack Obama has seen the baiji dolphin in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 172
+    "question_id": 192,
+    "question": "Is it possible that Mahatma Gandhi has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Queen Victoria has seen the dodo in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 173
+    "question_id": 193,
+    "question": "Is it possible that Charles Darwin has seen the dodo in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Cristiano Ronaldo has seen the passenger pigeon in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 174
+    "question_id": 194,
+    "question": "Is it possible that Winston Churchill has seen the quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Charles Darwin has seen the quagga in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 175
+    "question_id": 195,
+    "question": "Is it possible that Mahatma Gandhi has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Marie Curie has seen the great auk in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 176
+    "question_id": 196,
+    "question": "Is it possible that Nikola Tesla has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Nelson Mandela has seen the pyrenean ibex in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 177
+    "question_id": 197,
+    "question": "Is it possible that Nikola Tesla has seen the dodo in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that A. P. J. Abdul Kalam has seen the ivory-billed woodpecker in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 178
+    "question_id": 198,
+    "question": "Is it possible that Amelia Earhart has seen the dodo in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Elon Musk has seen the pinta island tortoise in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 179
+    "question_id": 199,
+    "question": "Is it possible that Isaac Newton has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Mahatma Gandhi has seen the golden toad in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 180
+    "question_id": 200,
+    "question": "Is it possible that Albert Einstein has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Albert Einstein has seen the thylacine in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 181
+    "question_id": 201,
+    "question": "Is it possible that Mahatma Gandhi has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Barack Obama has seen the baiji dolphin in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 182
+    "question_id": 202,
+    "question": "Is it possible that Nelson Mandela has seen the quagga in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Queen Victoria has seen the dodo in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 183
+    "question_id": 203,
+    "question": "Is it possible that Abraham Lincoln has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Cristiano Ronaldo has seen the passenger pigeon in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 184
+    "question_id": 204,
+    "question": "Is it possible that Amelia Earhart has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Charles Darwin has seen the quagga in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 185
+    "question_id": 205,
+    "question": "Is it possible that Marie Curie has seen the thylacine (Tasmanian tiger) in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Marie Curie has seen the great auk in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 186
+    "question_id": 206,
+    "question": "Is it possible that Abraham Lincoln has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Nelson Mandela has seen the pyrenean ibex in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 187
+    "question_id": 207,
+    "question": "Is it possible that Nikola Tesla has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that A. P. J. Abdul Kalam has seen the ivory-billed woodpecker in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 188
+    "question_id": 208,
+    "question": "Is it possible that Florence Nightingale has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Elon Musk has seen the pinta island tortoise in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 189
+    "question_id": 209,
+    "question": "Is it possible that Winston Churchill has seen the Steller's sea cow in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "person_seen_extinct_tf"
   },
   {
-    "question": "Is it possible that Mahatma Gandhi has seen the golden toad in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 190
-  },
-  {
-    "question": "Is it possible that Albert Einstein has seen the thylacine in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 191
-  },
-  {
-    "question": "Is it possible that Barack Obama has seen the baiji dolphin in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 192
-  },
-  {
-    "question": "Is it possible that Queen Victoria has seen the dodo in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 193
-  },
-  {
-    "question": "Is it possible that Cristiano Ronaldo has seen the passenger pigeon in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 194
-  },
-  {
-    "question": "Is it possible that Charles Darwin has seen the quagga in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 195
-  },
-  {
-    "question": "Is it possible that Marie Curie has seen the great auk in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 196
-  },
-  {
-    "question": "Is it possible that Nelson Mandela has seen the pyrenean ibex in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 197
-  },
-  {
-    "question": "Is it possible that A. P. J. Abdul Kalam has seen the ivory-billed woodpecker in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 198
-  },
-  {
-    "question": "Is it possible that Elon Musk has seen the pinta island tortoise in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 199
-  },
-  {
-    "question": "Is it possible that Mahatma Gandhi has seen the golden toad in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 200
-  },
-  {
-    "question": "Is it possible that Albert Einstein has seen the thylacine in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 201
-  },
-  {
-    "question": "Is it possible that Barack Obama has seen the baiji dolphin in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 202
-  },
-  {
-    "question": "Is it possible that Queen Victoria has seen the dodo in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 203
-  },
-  {
-    "question": "Is it possible that Cristiano Ronaldo has seen the passenger pigeon in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 204
-  },
-  {
-    "question": "Is it possible that Charles Darwin has seen the quagga in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 205
-  },
-  {
-    "question": "Is it possible that Marie Curie has seen the great auk in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 206
-  },
-  {
-    "question": "Is it possible that Nelson Mandela has seen the pyrenean ibex in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 207
-  },
-  {
-    "question": "Is it possible that A. P. J. Abdul Kalam has seen the ivory-billed woodpecker in their lifetime?",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 208
-  },
-  {
-    "question": "Is it possible that Elon Musk has seen the pinta island tortoise in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 209
-  },
-  {
-    "question": "Is it possible that Mahatma Gandhi has seen the golden toad in their lifetime?",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "person_extinct_animal_tf",
-    "question_id": 210
+    "question_id": 210,
+    "question": "Is it possible that Abraham Lincoln has seen the passenger pigeon in their lifetime?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "person_seen_extinct_tf"
   }
 ]

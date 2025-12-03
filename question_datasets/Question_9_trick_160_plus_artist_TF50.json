@@ -91,7 +91,7 @@
     "question_id": 7
   },
   {
-    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1907?",
+    "question": "Did Diego Vel\u00e1zquez paint a portrait of Pope Innocent X in 1907?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -174,7 +174,7 @@
     "options": {
       "a": "Leonardo da Vinci",
       "b": "Rembrandt van Rijn",
-      "c": "Diego Velázquez",
+      "c": "Diego Vel\u00e1zquez",
       "d": "John Singer Sargent"
     },
     "answer": "d",
@@ -208,7 +208,7 @@
     "question_id": 16
   },
   {
-    "question": "Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884?",
+    "question": "Who painted a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884?",
     "type": "MCQ",
     "options": {
       "a": "Vincent van Gogh",
@@ -234,7 +234,7 @@
     "question_id": 18
   },
   {
-    "question": "Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650?",
+    "question": "Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -247,7 +247,7 @@
     "question_id": 19
   },
   {
-    "question": "Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884?",
+    "question": "Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -315,7 +315,7 @@
     "question": "Who painted a portrait of Dora Maar in 1937?",
     "type": "MCQ",
     "options": {
-      "a": "Diego Velázquez",
+      "a": "Diego Vel\u00e1zquez",
       "b": "Pablo Picasso",
       "c": "Andy Warhol",
       "d": "John Singer Sargent"
@@ -325,7 +325,7 @@
     "question_id": 25
   },
   {
-    "question": "Whose portrait did Diego Velázquez paint in 1650?",
+    "question": "Whose portrait did Diego Vel\u00e1zquez paint in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Marilyn Monroe",
@@ -382,7 +382,7 @@
     "options": {
       "a": "King Charles IV of Spain",
       "b": "Saskia van Uylenburgh",
-      "c": "Virginie Amélie Avegno Gautreau",
+      "c": "Virginie Am\u00e9lie Avegno Gautreau",
       "d": "Cecilia Gallerani"
     },
     "answer": "d",
@@ -507,7 +507,7 @@
     "question_id": 39
   },
   {
-    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1650?",
+    "question": "Did Diego Vel\u00e1zquez paint a portrait of Pope Innocent X in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -884,7 +884,7 @@
     "question_id": 68
   },
   {
-    "question": "Historically, Did Diego Velázquez paint a portrait of Pope Innocent X in 1907?",
+    "question": "Historically, Did Diego Vel\u00e1zquez paint a portrait of Pope Innocent X in 1907?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -897,7 +897,7 @@
     "question_id": 69
   },
   {
-    "question": "According to historians, Did Diego Velázquez paint a portrait of Pope Innocent X in 1907?",
+    "question": "According to historians, Did Diego Vel\u00e1zquez paint a portrait of Pope Innocent X in 1907?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -910,7 +910,7 @@
     "question_id": 70
   },
   {
-    "question": "Did Diego Velázquez paint a portrait of Pope Innocent X in 1907 (historical context)?",
+    "question": "Did Diego Vel\u00e1zquez paint a portrait of Pope Innocent X in 1907 (historical context)?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -923,7 +923,7 @@
     "question_id": 71
   },
   {
-    "question": "In history exams, students may be asked: Did Diego Velázquez paint a portrait of Pope Innocent X in 1907?",
+    "question": "In history exams, students may be asked: Did Diego Vel\u00e1zquez paint a portrait of Pope Innocent X in 1907?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1201,7 +1201,7 @@
     "options": {
       "a": "Leonardo da Vinci",
       "b": "Rembrandt van Rijn",
-      "c": "Diego Velázquez",
+      "c": "Diego Vel\u00e1zquez",
       "d": "John Singer Sargent"
     },
     "answer": "d",
@@ -1214,7 +1214,7 @@
     "options": {
       "a": "Leonardo da Vinci",
       "b": "Rembrandt van Rijn",
-      "c": "Diego Velázquez",
+      "c": "Diego Vel\u00e1zquez",
       "d": "John Singer Sargent"
     },
     "answer": "d",
@@ -1227,7 +1227,7 @@
     "options": {
       "a": "Leonardo da Vinci",
       "b": "Rembrandt van Rijn",
-      "c": "Diego Velázquez",
+      "c": "Diego Vel\u00e1zquez",
       "d": "John Singer Sargent"
     },
     "answer": "d",
@@ -1240,7 +1240,7 @@
     "options": {
       "a": "Leonardo da Vinci",
       "b": "Rembrandt van Rijn",
-      "c": "Diego Velázquez",
+      "c": "Diego Vel\u00e1zquez",
       "d": "John Singer Sargent"
     },
     "answer": "d",
@@ -1352,7 +1352,7 @@
     "question_id": 104
   },
   {
-    "question": "Historically, Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884?",
+    "question": "Historically, Who painted a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884?",
     "type": "MCQ",
     "options": {
       "a": "Vincent van Gogh",
@@ -1365,7 +1365,7 @@
     "question_id": 105
   },
   {
-    "question": "According to historians, Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884?",
+    "question": "According to historians, Who painted a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884?",
     "type": "MCQ",
     "options": {
       "a": "Vincent van Gogh",
@@ -1378,7 +1378,7 @@
     "question_id": 106
   },
   {
-    "question": "Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884 (historical context)?",
+    "question": "Who painted a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884 (historical context)?",
     "type": "MCQ",
     "options": {
       "a": "Vincent van Gogh",
@@ -1391,7 +1391,7 @@
     "question_id": 107
   },
   {
-    "question": "In history exams, students may be asked: Who painted a portrait of Virginie Amélie Avegno Gautreau in 1884?",
+    "question": "In history exams, students may be asked: Who painted a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884?",
     "type": "MCQ",
     "options": {
       "a": "Vincent van Gogh",
@@ -1456,7 +1456,7 @@
     "question_id": 112
   },
   {
-    "question": "Historically, Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650?",
+    "question": "Historically, Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1469,7 +1469,7 @@
     "question_id": 113
   },
   {
-    "question": "According to historians, Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650?",
+    "question": "According to historians, Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1482,7 +1482,7 @@
     "question_id": 114
   },
   {
-    "question": "Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650 (historical context)?",
+    "question": "Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1650 (historical context)?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1495,7 +1495,7 @@
     "question_id": 115
   },
   {
-    "question": "In history exams, students may be asked: Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1650?",
+    "question": "In history exams, students may be asked: Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1508,7 +1508,7 @@
     "question_id": 116
   },
   {
-    "question": "Historically, Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884?",
+    "question": "Historically, Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1521,7 +1521,7 @@
     "question_id": 117
   },
   {
-    "question": "According to historians, Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884?",
+    "question": "According to historians, Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1534,7 +1534,7 @@
     "question_id": 118
   },
   {
-    "question": "Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884 (historical context)?",
+    "question": "Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884 (historical context)?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1547,7 +1547,7 @@
     "question_id": 119
   },
   {
-    "question": "In history exams, students may be asked: Did John Singer Sargent paint a portrait of Virginie Amélie Avegno Gautreau in 1884?",
+    "question": "In history exams, students may be asked: Did John Singer Sargent paint a portrait of Virginie Am\u00e9lie Avegno Gautreau in 1884?",
     "type": "MCQ",
     "options": {
       "a": "Yes",
@@ -1771,7 +1771,7 @@
     "question": "Historically, Who painted a portrait of Dora Maar in 1937?",
     "type": "MCQ",
     "options": {
-      "a": "Diego Velázquez",
+      "a": "Diego Vel\u00e1zquez",
       "b": "Pablo Picasso",
       "c": "Andy Warhol",
       "d": "John Singer Sargent"
@@ -1784,7 +1784,7 @@
     "question": "According to historians, Who painted a portrait of Dora Maar in 1937?",
     "type": "MCQ",
     "options": {
-      "a": "Diego Velázquez",
+      "a": "Diego Vel\u00e1zquez",
       "b": "Pablo Picasso",
       "c": "Andy Warhol",
       "d": "John Singer Sargent"
@@ -1797,7 +1797,7 @@
     "question": "Who painted a portrait of Dora Maar in 1937 (historical context)?",
     "type": "MCQ",
     "options": {
-      "a": "Diego Velázquez",
+      "a": "Diego Vel\u00e1zquez",
       "b": "Pablo Picasso",
       "c": "Andy Warhol",
       "d": "John Singer Sargent"
@@ -1810,7 +1810,7 @@
     "question": "In history exams, students may be asked: Who painted a portrait of Dora Maar in 1937?",
     "type": "MCQ",
     "options": {
-      "a": "Diego Velázquez",
+      "a": "Diego Vel\u00e1zquez",
       "b": "Pablo Picasso",
       "c": "Andy Warhol",
       "d": "John Singer Sargent"
@@ -1820,7 +1820,7 @@
     "question_id": 140
   },
   {
-    "question": "Historically, Whose portrait did Diego Velázquez paint in 1650?",
+    "question": "Historically, Whose portrait did Diego Vel\u00e1zquez paint in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Marilyn Monroe",
@@ -1833,7 +1833,7 @@
     "question_id": 141
   },
   {
-    "question": "According to historians, Whose portrait did Diego Velázquez paint in 1650?",
+    "question": "According to historians, Whose portrait did Diego Vel\u00e1zquez paint in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Marilyn Monroe",
@@ -1846,7 +1846,7 @@
     "question_id": 142
   },
   {
-    "question": "Whose portrait did Diego Velázquez paint in 1650 (historical context)?",
+    "question": "Whose portrait did Diego Vel\u00e1zquez paint in 1650 (historical context)?",
     "type": "MCQ",
     "options": {
       "a": "Marilyn Monroe",
@@ -1859,7 +1859,7 @@
     "question_id": 143
   },
   {
-    "question": "In history exams, students may be asked: Whose portrait did Diego Velázquez paint in 1650?",
+    "question": "In history exams, students may be asked: Whose portrait did Diego Vel\u00e1zquez paint in 1650?",
     "type": "MCQ",
     "options": {
       "a": "Marilyn Monroe",
@@ -2033,7 +2033,7 @@
     "options": {
       "a": "King Charles IV of Spain",
       "b": "Saskia van Uylenburgh",
-      "c": "Virginie Amélie Avegno Gautreau",
+      "c": "Virginie Am\u00e9lie Avegno Gautreau",
       "d": "Cecilia Gallerani"
     },
     "answer": "d",
@@ -2046,7 +2046,7 @@
     "options": {
       "a": "King Charles IV of Spain",
       "b": "Saskia van Uylenburgh",
-      "c": "Virginie Amélie Avegno Gautreau",
+      "c": "Virginie Am\u00e9lie Avegno Gautreau",
       "d": "Cecilia Gallerani"
     },
     "answer": "d",
@@ -2059,7 +2059,7 @@
     "options": {
       "a": "King Charles IV of Spain",
       "b": "Saskia van Uylenburgh",
-      "c": "Virginie Amélie Avegno Gautreau",
+      "c": "Virginie Am\u00e9lie Avegno Gautreau",
       "d": "Cecilia Gallerani"
     },
     "answer": "d",
@@ -2072,7 +2072,7 @@
     "options": {
       "a": "King Charles IV of Spain",
       "b": "Saskia van Uylenburgh",
-      "c": "Virginie Amélie Avegno Gautreau",
+      "c": "Virginie Am\u00e9lie Avegno Gautreau",
       "d": "Cecilia Gallerani"
     },
     "answer": "d",
@@ -2080,353 +2080,553 @@
     "question_id": 160
   },
   {
-    "question": "Leonardo da Vinci painted a portrait of Cecilia Gallerani in 1489.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 161
+    "question_id": 161,
+    "question": "Did Frida Kahlo paint a portrait of Marie Curie in 1864?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Vincent van Gogh painted a portrait of Marilyn Monroe in 1889.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 162
+    "question_id": 162,
+    "question": "Did Andy Warhol paint a portrait of Isaac Newton in 1888?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Pablo Picasso painted a portrait of Dora Maar in 1937.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 163
+    "question_id": 163,
+    "question": "Did Claude Monet paint a portrait of Isaac Newton in 1630?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Gustav Klimt painted a portrait of Pope Innocent X in 1907.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 164
+    "question_id": 164,
+    "question": "Did Leonardo da Vinci paint a portrait of Queen Victoria in 1756?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Andy Warhol painted a portrait of Marilyn Monroe in 1962.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 165
+    "question_id": 165,
+    "question": "Did Andy Warhol paint a portrait of Amelia Earhart in 1877?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Rembrandt van Rijn painted a portrait of Saskia van Uylenburgh in 1633.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 166
+    "question_id": 166,
+    "question": "Did Vincent van Gogh paint a portrait of William Shakespeare in 1523?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Francisco Goya painted a portrait of Adele Bloch-Bauer in 1800.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 167
+    "question_id": 167,
+    "question": "Did Gustav Klimt paint a portrait of Martin Luther King Jr. in 1523?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "John Singer Sargent painted a portrait of Virginie Gautreau in 1884.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 168
+    "question_id": 168,
+    "question": "Did Andy Warhol paint a portrait of Julius Caesar in 2008?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Diego Velázquez painted a portrait of Pope Innocent X in 1650.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 169
+    "question_id": 169,
+    "question": "Did Rembrandt paint a portrait of Amelia Earhart in 1604?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Pablo Picasso painted a portrait of Lisa Gherardini in 1903.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 170
+    "question_id": 170,
+    "question": "Did Henri Matisse paint a portrait of William Shakespeare in 1681?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Johannes Vermeer painted a portrait of a girl with a pearl earring in 1665.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 171
+    "question_id": 171,
+    "question": "Did Leonardo da Vinci paint a portrait of Martin Luther King Jr. in 1616?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Claude Monet painted a portrait of Vincent van Gogh in 1873.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 172
+    "question_id": 172,
+    "question": "Did Diego Rivera paint a portrait of Julius Caesar in 1994?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Titian painted a portrait of Charles V in 1548.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 173
+    "question_id": 173,
+    "question": "Did Edvard Munch paint a portrait of Marie Curie in 1888?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Frida Kahlo painted a portrait of Diego Rivera in 1931.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 174
+    "question_id": 174,
+    "question": "Did Johannes Vermeer paint a portrait of Albert Einstein in 1808?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Salvador Dalí painted a portrait of Sigmund Freud in 1938.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 175
+    "question_id": 175,
+    "question": "Did Henri Matisse paint a portrait of Isaac Newton in 1730?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Edvard Munch painted a portrait of Albert Einstein in 1893.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 176
+    "question_id": 176,
+    "question": "Did Andy Warhol paint a portrait of Mahatma Gandhi in 1693?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Albrecht Dürer painted a portrait of Emperor Maximilian I in 1519.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 177
+    "question_id": 177,
+    "question": "Did Michelangelo paint a portrait of Marie Curie in 1689?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Sandro Botticelli painted a portrait of Lorenzo de' Medici in 1480.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 178
+    "question_id": 178,
+    "question": "Did Frida Kahlo paint a portrait of Julius Caesar in 1813?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Caravaggio painted a portrait of King Louis XIV in 1605.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 179
+    "question_id": 179,
+    "question": "Did Georgia O\u2019Keeffe paint a portrait of Cleopatra in 1779?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Raphael painted a portrait of Pope Julius II in 1511.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 180
+    "question_id": 180,
+    "question": "Did Rembrandt paint a portrait of Amelia Earhart in 1840?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Diego Rivera painted a portrait of Frida Kahlo in 1930.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 181
+    "question_id": 181,
+    "question": "Did Henri Matisse paint a portrait of Abraham Lincoln in 1907?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Lucian Freud painted a portrait of Queen Elizabeth II in 2001.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 182
+    "question_id": 182,
+    "question": "Did Edvard Munch paint a portrait of Amelia Earhart in 1598?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Caravaggio painted a portrait of David Bowie in 1600.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 183
+    "question_id": 183,
+    "question": "Did Henri Matisse paint a portrait of Mahatma Gandhi in 1801?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Peter Paul Rubens painted a portrait of Marie de' Medici in 1622.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 184
+    "question_id": 184,
+    "question": "Did Frida Kahlo paint a portrait of Isaac Newton in 1917?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Francis Bacon painted a portrait of Pope Innocent X in 1953.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 185
+    "question_id": 185,
+    "question": "Did Mary Cassatt paint a portrait of Abraham Lincoln in 1994?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Édouard Manet painted a portrait of Émile Zola in 1868.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 186
+    "question_id": 186,
+    "question": "Did Mary Cassatt paint a portrait of Florence Nightingale in 1606?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Henri Matisse painted a portrait of Pablo Picasso in 1906.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 187
+    "question_id": 187,
+    "question": "Did Rembrandt paint a portrait of Isaac Newton in 1619?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Jean-Auguste-Dominique Ingres painted a portrait of Napoleon in 1806.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 188
+    "question_id": 188,
+    "question": "Did Gustav Klimt paint a portrait of William Shakespeare in 1898?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Grant Wood painted a portrait of his sister and dentist in 1930.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 189
+    "question_id": 189,
+    "question": "Did Andy Warhol paint a portrait of Joan of Arc in 1509?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Georgia O’Keeffe painted a portrait of Alfred Stieglitz in 1920.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 190
+    "question_id": 190,
+    "question": "Did Johannes Vermeer paint a portrait of Mahatma Gandhi in 1898?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Hans Holbein the Younger painted a portrait of Henry VIII in 1537.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 191
+    "question_id": 191,
+    "question": "Did Rembrandt paint a portrait of William Shakespeare in 1782?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Norman Rockwell painted a portrait of John F. Kennedy in 1960.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 192
+    "question_id": 192,
+    "question": "Did Vincent van Gogh paint a portrait of Queen Victoria in 1975?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Amedeo Modigliani painted a portrait of Jeanne Hébuterne in 1918.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 193
+    "question_id": 193,
+    "question": "Did Frida Kahlo paint a portrait of Nelson Mandela in 1618?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Marc Chagall painted a portrait of Vladimir Putin in 1925.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 194
+    "question_id": 194,
+    "question": "Did Frida Kahlo paint a portrait of Queen Victoria in 1533?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Tamara de Lempicka painted a portrait of self in a green Bugatti in 1929.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 195
+    "question_id": 195,
+    "question": "Did Andy Warhol paint a portrait of Winston Churchill in 1618?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "J. M. W. Turner painted a portrait of Horatio Nelson in 1806.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 196
+    "question_id": 196,
+    "question": "Did Michelangelo paint a portrait of Julius Caesar in 2000?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Goya painted a portrait of the Duchess of Alba in 1797.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 197
+    "question_id": 197,
+    "question": "Did Gustav Klimt paint a portrait of Abraham Lincoln in 1748?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Titian painted a portrait of Pope Paul III in the 1540s.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 198
+    "question_id": 198,
+    "question": "Did Edvard Munch paint a portrait of Charles Darwin in 1808?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Botticelli painted a portrait of Julius Caesar in 1475.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 199
+    "question_id": 199,
+    "question": "Did Frida Kahlo paint a portrait of Isaac Newton in 1513?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Mary Cassatt painted a portrait of her sister Lydia in 1879.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 200
+    "question_id": 200,
+    "question": "Did Diego Rivera paint a portrait of Julius Caesar in 1638?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Paul Cézanne painted a portrait of his wife Hortense in 1885.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 201
+    "question_id": 201,
+    "question": "Did Vincent van Gogh paint a portrait of William Shakespeare in 2004?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Rene Magritte painted a portrait of Albert Einstein in 1931.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 202
+    "question_id": 202,
+    "question": "Did Rembrandt paint a portrait of Julius Caesar in 1925?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Jan van Eyck painted a portrait of Giovanni Arnolfini in 1434.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 203
+    "question_id": 203,
+    "question": "Did Gustav Klimt paint a portrait of Isaac Newton in 1550?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Edgar Degas painted a portrait of a ballerina named Camargo in 1875.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 204
+    "question_id": 204,
+    "question": "Did Andy Warhol paint a portrait of Abraham Lincoln in 1577?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Goya painted a portrait of King Charles IV and his family in 1800.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 205
+    "question_id": 205,
+    "question": "Did Michelangelo paint a portrait of Amelia Earhart in 1799?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Leonardo da Vinci painted a portrait of Isabella d’Este in 1500.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 206
+    "question_id": 206,
+    "question": "Did Pablo Picasso paint a portrait of Julius Caesar in 1957?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Rembrandt painted a portrait of Aristotle contemplating the bust of Homer in 1653.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 207
+    "question_id": 207,
+    "question": "Did Leonardo da Vinci paint a portrait of Mahatma Gandhi in 1809?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Picasso painted a portrait of Winston Churchill in 1943.",
-    "type": "TF",
-    "answer": "False",
-    "template_type": "artist_portrait_tf",
-    "question_id": 208
+    "question_id": 208,
+    "question": "Did Andy Warhol paint a portrait of Nelson Mandela in 1894?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "a",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "El Greco painted a portrait of Cardinal Fernando Niño de Guevara in 1600.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 209
+    "question_id": 209,
+    "question": "Did Edvard Munch paint a portrait of Mahatma Gandhi in 1597?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   },
   {
-    "question": "Van Gogh painted a portrait of Paul Gauguin in 1888.",
-    "type": "TF",
-    "answer": "True",
-    "template_type": "artist_portrait_tf",
-    "question_id": 210
+    "question_id": 210,
+    "question": "Did Gustav Klimt paint a portrait of Cleopatra in 1880?",
+    "type": "T/F",
+    "options": {
+      "a": "True",
+      "b": "False"
+    },
+    "answer": "b",
+    "template_type": "artist_portrait"
   }
 ]
