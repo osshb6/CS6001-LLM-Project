@@ -1,0 +1,211 @@
+question_id,template_type,question_format,question,gold_answer_letter,gold_answer_text,model_raw_answer,model_parsed_letter,model_parsed_text,is_correct
+1,scientist_collab,MCQ,On which topic did Isaac Newton and Edmond Halley collaborate?,d,number theory,C,c,celestial mechanics,0
+2,scientist_collab,MCQ,Did James Watson collaborate with Francis Crick on quantum theory?,a,Yes,B,b,No,0
+3,scientist_collab,MCQ,On which topic did Marie Curie and Pierre Curie collaborate?,a,game theory,B,b,radioactivity,0
+4,scientist_collab,MCQ,On which topic did John Bardeen and Walter Brattain collaborate?,c,the genetic code,D,d,the transistor,0
+5,scientist_collab,MCQ,Did John Bardeen collaborate with Walter Brattain on the transistor?,b,No,A.,a,Yes,0
+6,scientist_collab,MCQ,Which pair of scientists is most closely associated with SETI research?,b,Charles Darwin and Alfred Russel Wallace,A,a,Carl Sagan and Frank Drake,0
+7,scientist_collab,MCQ,On which topic did Francis Crick and Sydney Brenner collaborate?,b,the transistor,A,a,the genetic code,0
+8,scientist_collab,MCQ,Which pair of scientists is most closely associated with radioactivity?,d,John Bardeen and Walter Brattain,C,c,Marie Curie and Pierre Curie,0
+9,scientist_collab,MCQ,Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?,b,No,A.,a,Yes,0
+10,scientist_collab,MCQ,Did Albert Einstein collaborate with Niels Bohr on nuclear chain reactions?,a,Yes,B.,b,No,0
+11,scientist_collab,MCQ,Which pair of scientists is most closely associated with quantum theory?,b,John von Neumann and Oskar Morgenstern,A.,a,Albert Einstein and Niels Bohr,0
+12,scientist_collab,MCQ,On which topic did Albert Einstein and Niels Bohr collaborate?,b,DNA structure,A,a,quantum theory,0
+13,scientist_collab,MCQ,Did James Watson collaborate with Francis Crick on DNA structure?,b,No,A,a,Yes,0
+14,scientist_collab,MCQ,On which topic did John von Neumann and Oskar Morgenstern collaborate?,d,celestial mechanics,C,c,game theory,0
+15,scientist_collab,MCQ,On which topic did Charles Darwin and Alfred Russel Wallace collaborate?,a,DNA structure,B,b,evolution,0
+16,scientist_collab,MCQ,Did John Bardeen collaborate with Walter Brattain on game theory?,a,Yes,B,b,No,0
+17,scientist_collab,MCQ,On which topic did James Watson and Francis Crick collaborate?,d,SETI research,C,c,DNA structure,0
+18,scientist_collab,MCQ,Did Francis Crick collaborate with Sydney Brenner on nuclear chain reactions?,a,Yes,B,b,No,0
+19,scientist_collab,MCQ,Did G. H. Hardy collaborate with Srinivasa Ramanujan on game theory?,a,Yes,B.,b,No,0
+20,scientist_collab,MCQ,Which pair of scientists is most closely associated with the genetic code?,a,Marie Curie and Pierre Curie,B,b,Francis Crick and Sydney Brenner,0
+21,scientist_collab,MCQ,Which pair of scientists is most closely associated with evolution?,a,James Watson and Francis Crick,B,b,Charles Darwin and Alfred Russel Wallace,0
+22,scientist_collab,MCQ,Did John von Neumann collaborate with Oskar Morgenstern on nuclear chain reactions?,a,Yes,B.,b,No,0
+23,scientist_collab,MCQ,Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?,b,No,A.,a,Yes,0
+24,scientist_collab,MCQ,Did Francis Crick collaborate with Sydney Brenner on the genetic code?,b,No,A.,a,Yes,0
+25,scientist_collab,MCQ,On which topic did Carl Sagan and Frank Drake collaborate?,a,DNA structure,B,b,SETI research,0
+26,scientist_collab,MCQ,Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?,b,No,A.,a,Yes,0
+27,scientist_collab,MCQ,Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?,b,No,A,a,Yes,0
+28,scientist_collab,MCQ,Did Carl Sagan collaborate with Frank Drake on the transistor?,a,Yes,B.,b,No,0
+29,scientist_collab,MCQ,Did Marie Curie collaborate with Pierre Curie on evolution?,a,Yes,B,b,No,0
+30,scientist_collab,MCQ,Did Isaac Newton collaborate with Edmond Halley on SETI research?,a,Yes,B,b,No,0
+31,scientist_collab,MCQ,Which pair of scientists is most closely associated with the transistor?,d,Enrico Fermi and Leo Szilard,C,c,John Bardeen and Walter Brattain,0
+32,scientist_collab,MCQ,Which pair of scientists is most closely associated with game theory?,c,James Watson and Francis Crick,D,d,John von Neumann and Oskar Morgenstern,0
+33,scientist_collab,MCQ,On which topic did G. H. Hardy and Srinivasa Ramanujan collaborate?,c,quantum theory,D,d,number theory,0
+34,scientist_collab,MCQ,Did Carl Sagan collaborate with Frank Drake on SETI research?,b,No,A.,a,Yes,0
+35,scientist_collab,MCQ,Did Albert Einstein collaborate with Niels Bohr on quantum theory?,b,No,A.,a,Yes,0
+36,scientist_collab,MCQ,Which pair of scientists is most closely associated with DNA structure?,a,Charles Darwin and Alfred Russel Wallace,B,b,James Watson and Francis Crick,0
+37,scientist_collab,MCQ,Did Enrico Fermi collaborate with Leo Szilard on quantum theory?,a,Yes,B.,b,No,0
+38,scientist_collab,MCQ,Did John von Neumann collaborate with Oskar Morgenstern on game theory?,b,No,A,a,Yes,0
+39,scientist_collab,MCQ,On which topic did Enrico Fermi and Leo Szilard collaborate?,c,DNA structure,D,d,nuclear chain reactions,0
+40,scientist_collab,MCQ,Did Charles Darwin collaborate with Alfred Russel Wallace on celestial mechanics?,a,Yes,B,b,No,0
+41,scientist_collab,MCQ,Which pair of scientists is most closely associated with number theory?,d,Marie Curie and Pierre Curie,C,c,G. H. Hardy and Srinivasa Ramanujan,0
+42,scientist_collab,MCQ,Which pair of scientists is most closely associated with celestial mechanics?,c,G. H. Hardy and Srinivasa Ramanujan,D,d,Isaac Newton and Edmond Halley,0
+43,scientist_collab,MCQ,Did Marie Curie collaborate with Pierre Curie on radioactivity?,b,No,A,a,Yes,0
+44,scientist_collab,MCQ,Which pair of scientists is most closely associated with nuclear chain reactions?,d,John von Neumann and Oskar Morgenstern,C,c,Enrico Fermi and Leo Szilard,0
+45,scientist_collab,MCQ,"Historically, On which topic did Isaac Newton and Edmond Halley collaborate?",d,number theory,C,c,celestial mechanics,0
+46,scientist_collab,MCQ,"According to historians, On which topic did Isaac Newton and Edmond Halley collaborate?",d,number theory,C,c,celestial mechanics,0
+47,scientist_collab,MCQ,On which topic did Isaac Newton and Edmond Halley collaborate (historical context)?,d,number theory,C,c,celestial mechanics,0
+48,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did Isaac Newton and Edmond Halley collaborate?",d,number theory,C,c,celestial mechanics,0
+49,scientist_collab,MCQ,"Historically, Did James Watson collaborate with Francis Crick on quantum theory?",a,Yes,B,b,No,0
+50,scientist_collab,MCQ,"According to historians, Did James Watson collaborate with Francis Crick on quantum theory?",a,Yes,B,b,No,0
+51,scientist_collab,MCQ,Did James Watson collaborate with Francis Crick on quantum theory (historical context)?,a,Yes,B,b,No,0
+52,scientist_collab,MCQ,"In history exams, students may be asked: Did James Watson collaborate with Francis Crick on quantum theory?",a,Yes,B,b,No,0
+53,scientist_collab,MCQ,"Historically, On which topic did Marie Curie and Pierre Curie collaborate?",a,game theory,B,b,radioactivity,0
+54,scientist_collab,MCQ,"According to historians, On which topic did Marie Curie and Pierre Curie collaborate?",a,game theory,B,b,radioactivity,0
+55,scientist_collab,MCQ,On which topic did Marie Curie and Pierre Curie collaborate (historical context)?,a,game theory,B,b,radioactivity,0
+56,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did Marie Curie and Pierre Curie collaborate?",a,game theory,B,b,radioactivity,0
+57,scientist_collab,MCQ,"Historically, On which topic did John Bardeen and Walter Brattain collaborate?",c,the genetic code,D,d,the transistor,0
+58,scientist_collab,MCQ,"According to historians, On which topic did John Bardeen and Walter Brattain collaborate?",c,the genetic code,D,d,the transistor,0
+59,scientist_collab,MCQ,On which topic did John Bardeen and Walter Brattain collaborate (historical context)?,c,the genetic code,D,d,the transistor,0
+60,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did John Bardeen and Walter Brattain collaborate?",c,the genetic code,D,d,the transistor,0
+61,scientist_collab,MCQ,"Historically, Did John Bardeen collaborate with Walter Brattain on the transistor?",b,No,A.,a,Yes,0
+62,scientist_collab,MCQ,"According to historians, Did John Bardeen collaborate with Walter Brattain on the transistor?",b,No,A.,a,Yes,0
+63,scientist_collab,MCQ,Did John Bardeen collaborate with Walter Brattain on the transistor (historical context)?,b,No,A.,a,Yes,0
+64,scientist_collab,MCQ,"In history exams, students may be asked: Did John Bardeen collaborate with Walter Brattain on the transistor?",b,No,A.,a,Yes,0
+65,scientist_collab,MCQ,"Historically, Which pair of scientists is most closely associated with SETI research?",b,Charles Darwin and Alfred Russel Wallace,A,a,Carl Sagan and Frank Drake,0
+66,scientist_collab,MCQ,"According to historians, Which pair of scientists is most closely associated with SETI research?",b,Charles Darwin and Alfred Russel Wallace,A,a,Carl Sagan and Frank Drake,0
+67,scientist_collab,MCQ,Which pair of scientists is most closely associated with SETI research (historical context)?,b,Charles Darwin and Alfred Russel Wallace,A,a,Carl Sagan and Frank Drake,0
+68,scientist_collab,MCQ,"In history exams, students may be asked: Which pair of scientists is most closely associated with SETI research?",b,Charles Darwin and Alfred Russel Wallace,A,a,Carl Sagan and Frank Drake,0
+69,scientist_collab,MCQ,"Historically, On which topic did Francis Crick and Sydney Brenner collaborate?",b,the transistor,A.,a,the genetic code,0
+70,scientist_collab,MCQ,"According to historians, On which topic did Francis Crick and Sydney Brenner collaborate?",b,the transistor,A,a,the genetic code,0
+71,scientist_collab,MCQ,On which topic did Francis Crick and Sydney Brenner collaborate (historical context)?,b,the transistor,A.,a,the genetic code,0
+72,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did Francis Crick and Sydney Brenner collaborate?",b,the transistor,A.,a,the genetic code,0
+73,scientist_collab,MCQ,"Historically, Which pair of scientists is most closely associated with radioactivity?",d,John Bardeen and Walter Brattain,C,c,Marie Curie and Pierre Curie,0
+74,scientist_collab,MCQ,"According to historians, Which pair of scientists is most closely associated with radioactivity?",d,John Bardeen and Walter Brattain,C,c,Marie Curie and Pierre Curie,0
+75,scientist_collab,MCQ,Which pair of scientists is most closely associated with radioactivity (historical context)?,d,John Bardeen and Walter Brattain,C,c,Marie Curie and Pierre Curie,0
+76,scientist_collab,MCQ,"In history exams, students may be asked: Which pair of scientists is most closely associated with radioactivity?",d,John Bardeen and Walter Brattain,C,c,Marie Curie and Pierre Curie,0
+77,scientist_collab,MCQ,"Historically, Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",b,No,A.,a,Yes,0
+78,scientist_collab,MCQ,"According to historians, Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",b,No,A.,a,Yes,0
+79,scientist_collab,MCQ,Did Isaac Newton collaborate with Edmond Halley on celestial mechanics (historical context)?,b,No,A.,a,Yes,0
+80,scientist_collab,MCQ,"In history exams, students may be asked: Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?",b,No,A.,a,Yes,0
+81,scientist_collab,MCQ,"Historically, Did Albert Einstein collaborate with Niels Bohr on nuclear chain reactions?",a,Yes,B.,b,No,0
+82,scientist_collab,MCQ,"According to historians, Did Albert Einstein collaborate with Niels Bohr on nuclear chain reactions?",a,Yes,B.,b,No,0
+83,scientist_collab,MCQ,Did Albert Einstein collaborate with Niels Bohr on nuclear chain reactions (historical context)?,a,Yes,B.,b,No,0
+84,scientist_collab,MCQ,"In history exams, students may be asked: Did Albert Einstein collaborate with Niels Bohr on nuclear chain reactions?",a,Yes,B.,b,No,0
+85,scientist_collab,MCQ,"Historically, Which pair of scientists is most closely associated with quantum theory?",b,John von Neumann and Oskar Morgenstern,A.,a,Albert Einstein and Niels Bohr,0
+86,scientist_collab,MCQ,"According to historians, Which pair of scientists is most closely associated with quantum theory?",b,John von Neumann and Oskar Morgenstern,A.,a,Albert Einstein and Niels Bohr,0
+87,scientist_collab,MCQ,Which pair of scientists is most closely associated with quantum theory (historical context)?,b,John von Neumann and Oskar Morgenstern,A.,a,Albert Einstein and Niels Bohr,0
+88,scientist_collab,MCQ,"In history exams, students may be asked: Which pair of scientists is most closely associated with quantum theory?",b,John von Neumann and Oskar Morgenstern,A.,a,Albert Einstein and Niels Bohr,0
+89,scientist_collab,MCQ,"Historically, On which topic did Albert Einstein and Niels Bohr collaborate?",b,DNA structure,A,a,quantum theory,0
+90,scientist_collab,MCQ,"According to historians, On which topic did Albert Einstein and Niels Bohr collaborate?",b,DNA structure,A,a,quantum theory,0
+91,scientist_collab,MCQ,On which topic did Albert Einstein and Niels Bohr collaborate (historical context)?,b,DNA structure,A,a,quantum theory,0
+92,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did Albert Einstein and Niels Bohr collaborate?",b,DNA structure,A.,a,quantum theory,0
+93,scientist_collab,MCQ,"Historically, Did James Watson collaborate with Francis Crick on DNA structure?",b,No,A,a,Yes,0
+94,scientist_collab,MCQ,"According to historians, Did James Watson collaborate with Francis Crick on DNA structure?",b,No,A.,a,Yes,0
+95,scientist_collab,MCQ,Did James Watson collaborate with Francis Crick on DNA structure (historical context)?,b,No,A,a,Yes,0
+96,scientist_collab,MCQ,"In history exams, students may be asked: Did James Watson collaborate with Francis Crick on DNA structure?",b,No,A.,a,Yes,0
+97,scientist_collab,MCQ,"Historically, On which topic did John von Neumann and Oskar Morgenstern collaborate?",d,celestial mechanics,C,c,game theory,0
+98,scientist_collab,MCQ,"According to historians, On which topic did John von Neumann and Oskar Morgenstern collaborate?",d,celestial mechanics,C,c,game theory,0
+99,scientist_collab,MCQ,On which topic did John von Neumann and Oskar Morgenstern collaborate (historical context)?,d,celestial mechanics,C,c,game theory,0
+100,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did John von Neumann and Oskar Morgenstern collaborate?",d,celestial mechanics,C,c,game theory,0
+101,scientist_collab,MCQ,"Historically, On which topic did Charles Darwin and Alfred Russel Wallace collaborate?",a,DNA structure,B,b,evolution,0
+102,scientist_collab,MCQ,"According to historians, On which topic did Charles Darwin and Alfred Russel Wallace collaborate?",a,DNA structure,B,b,evolution,0
+103,scientist_collab,MCQ,On which topic did Charles Darwin and Alfred Russel Wallace collaborate (historical context)?,a,DNA structure,B,b,evolution,0
+104,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did Charles Darwin and Alfred Russel Wallace collaborate?",a,DNA structure,B,b,evolution,0
+105,scientist_collab,MCQ,"Historically, Did John Bardeen collaborate with Walter Brattain on game theory?",a,Yes,B,b,No,0
+106,scientist_collab,MCQ,"According to historians, Did John Bardeen collaborate with Walter Brattain on game theory?",a,Yes,B,b,No,0
+107,scientist_collab,MCQ,Did John Bardeen collaborate with Walter Brattain on game theory (historical context)?,a,Yes,B,b,No,0
+108,scientist_collab,MCQ,"In history exams, students may be asked: Did John Bardeen collaborate with Walter Brattain on game theory?",a,Yes,B,b,No,0
+109,scientist_collab,MCQ,"Historically, On which topic did James Watson and Francis Crick collaborate?",d,SETI research,C,c,DNA structure,0
+110,scientist_collab,MCQ,"According to historians, On which topic did James Watson and Francis Crick collaborate?",d,SETI research,C,c,DNA structure,0
+111,scientist_collab,MCQ,On which topic did James Watson and Francis Crick collaborate (historical context)?,d,SETI research,C,c,DNA structure,0
+112,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did James Watson and Francis Crick collaborate?",d,SETI research,C,c,DNA structure,0
+113,scientist_collab,MCQ,"Historically, Did Francis Crick collaborate with Sydney Brenner on nuclear chain reactions?",a,Yes,B.,b,No,0
+114,scientist_collab,MCQ,"According to historians, Did Francis Crick collaborate with Sydney Brenner on nuclear chain reactions?",a,Yes,B.,b,No,0
+115,scientist_collab,MCQ,Did Francis Crick collaborate with Sydney Brenner on nuclear chain reactions (historical context)?,a,Yes,B,b,No,0
+116,scientist_collab,MCQ,"In history exams, students may be asked: Did Francis Crick collaborate with Sydney Brenner on nuclear chain reactions?",a,Yes,B.,b,No,0
+117,scientist_collab,MCQ,"Historically, Did G. H. Hardy collaborate with Srinivasa Ramanujan on game theory?",a,Yes,B.,b,No,0
+118,scientist_collab,MCQ,"According to historians, Did G. H. Hardy collaborate with Srinivasa Ramanujan on game theory?",a,Yes,B.,b,No,0
+119,scientist_collab,MCQ,Did G. H. Hardy collaborate with Srinivasa Ramanujan on game theory (historical context)?,a,Yes,B.,b,No,0
+120,scientist_collab,MCQ,"In history exams, students may be asked: Did G. H. Hardy collaborate with Srinivasa Ramanujan on game theory?",a,Yes,B.,b,No,0
+121,scientist_collab,MCQ,"Historically, Which pair of scientists is most closely associated with the genetic code?",a,Marie Curie and Pierre Curie,B,b,Francis Crick and Sydney Brenner,0
+122,scientist_collab,MCQ,"According to historians, Which pair of scientists is most closely associated with the genetic code?",a,Marie Curie and Pierre Curie,B,b,Francis Crick and Sydney Brenner,0
+123,scientist_collab,MCQ,Which pair of scientists is most closely associated with the genetic code (historical context)?,a,Marie Curie and Pierre Curie,B,b,Francis Crick and Sydney Brenner,0
+124,scientist_collab,MCQ,"In history exams, students may be asked: Which pair of scientists is most closely associated with the genetic code?",a,Marie Curie and Pierre Curie,B.,b,Francis Crick and Sydney Brenner,0
+125,scientist_collab,MCQ,"Historically, Which pair of scientists is most closely associated with evolution?",a,James Watson and Francis Crick,B,b,Charles Darwin and Alfred Russel Wallace,0
+126,scientist_collab,MCQ,"According to historians, Which pair of scientists is most closely associated with evolution?",a,James Watson and Francis Crick,B,b,Charles Darwin and Alfred Russel Wallace,0
+127,scientist_collab,MCQ,Which pair of scientists is most closely associated with evolution (historical context)?,a,James Watson and Francis Crick,B,b,Charles Darwin and Alfred Russel Wallace,0
+128,scientist_collab,MCQ,"In history exams, students may be asked: Which pair of scientists is most closely associated with evolution?",a,James Watson and Francis Crick,B,b,Charles Darwin and Alfred Russel Wallace,0
+129,scientist_collab,MCQ,"Historically, Did John von Neumann collaborate with Oskar Morgenstern on nuclear chain reactions?",a,Yes,B.,b,No,0
+130,scientist_collab,MCQ,"According to historians, Did John von Neumann collaborate with Oskar Morgenstern on nuclear chain reactions?",a,Yes,B.,b,No,0
+131,scientist_collab,MCQ,Did John von Neumann collaborate with Oskar Morgenstern on nuclear chain reactions (historical context)?,a,Yes,B.,b,No,0
+132,scientist_collab,MCQ,"In history exams, students may be asked: Did John von Neumann collaborate with Oskar Morgenstern on nuclear chain reactions?",a,Yes,B.,b,No,0
+133,scientist_collab,MCQ,"Historically, Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?",b,No,A.,a,Yes,0
+134,scientist_collab,MCQ,"According to historians, Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?",b,No,A.,a,Yes,0
+135,scientist_collab,MCQ,Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions (historical context)?,b,No,A.,a,Yes,0
+136,scientist_collab,MCQ,"In history exams, students may be asked: Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?",b,No,A.,a,Yes,0
+137,scientist_collab,MCQ,"Historically, Did Francis Crick collaborate with Sydney Brenner on the genetic code?",b,No,A.,a,Yes,0
+138,scientist_collab,MCQ,"According to historians, Did Francis Crick collaborate with Sydney Brenner on the genetic code?",b,No,A.,a,Yes,0
+139,scientist_collab,MCQ,Did Francis Crick collaborate with Sydney Brenner on the genetic code (historical context)?,b,No,A.,a,Yes,0
+140,scientist_collab,MCQ,"In history exams, students may be asked: Did Francis Crick collaborate with Sydney Brenner on the genetic code?",b,No,B.,b,No,1
+141,scientist_collab,MCQ,"Historically, On which topic did Carl Sagan and Frank Drake collaborate?",a,DNA structure,B,b,SETI research,0
+142,scientist_collab,MCQ,"According to historians, On which topic did Carl Sagan and Frank Drake collaborate?",a,DNA structure,B,b,SETI research,0
+143,scientist_collab,MCQ,On which topic did Carl Sagan and Frank Drake collaborate (historical context)?,a,DNA structure,B,b,SETI research,0
+144,scientist_collab,MCQ,"In history exams, students may be asked: On which topic did Carl Sagan and Frank Drake collaborate?",a,DNA structure,B,b,SETI research,0
+145,scientist_collab,MCQ,"Historically, Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",b,No,A.,a,Yes,0
+146,scientist_collab,MCQ,"According to historians, Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",b,No,A.,a,Yes,0
+147,scientist_collab,MCQ,Did Charles Darwin collaborate with Alfred Russel Wallace on evolution (historical context)?,b,No,A.,a,Yes,0
+148,scientist_collab,MCQ,"In history exams, students may be asked: Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?",b,No,A.,a,Yes,0
+149,scientist_collab,MCQ,"Historically, Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?",b,No,A.,a,Yes,0
+150,scientist_collab,MCQ,"According to historians, Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?",b,No,A.,a,Yes,0
+151,scientist_collab,MCQ,Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory (historical context)?,b,No,A,a,Yes,0
+152,scientist_collab,MCQ,"In history exams, students may be asked: Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?",b,No,A.,a,Yes,0
+153,scientist_collab,MCQ,"Historically, Did Carl Sagan collaborate with Frank Drake on the transistor?",a,Yes,B,b,No,0
+154,scientist_collab,MCQ,"According to historians, Did Carl Sagan collaborate with Frank Drake on the transistor?",a,Yes,B,b,No,0
+155,scientist_collab,MCQ,Did Carl Sagan collaborate with Frank Drake on the transistor (historical context)?,a,Yes,B.,b,No,0
+156,scientist_collab,MCQ,"In history exams, students may be asked: Did Carl Sagan collaborate with Frank Drake on the transistor?",a,Yes,B.,b,No,0
+157,scientist_collab,MCQ,"Historically, Did Marie Curie collaborate with Pierre Curie on evolution?",a,Yes,B,b,No,0
+158,scientist_collab,MCQ,"According to historians, Did Marie Curie collaborate with Pierre Curie on evolution?",a,Yes,B,b,No,0
+159,scientist_collab,MCQ,Did Marie Curie collaborate with Pierre Curie on evolution (historical context)?,a,Yes,B,b,No,0
+160,scientist_collab,MCQ,"In history exams, students may be asked: Did Marie Curie collaborate with Pierre Curie on evolution?",a,Yes,B.,b,No,0
+161,scientist_collab,TF,Did Albert Einstein collaborate with Niels Bohr on quantum theory?,a,True,True,a,True,1
+162,scientist_collab,TF,Did James Watson collaborate with Francis Crick on DNA structure?,a,True,True,a,True,1
+163,scientist_collab,TF,Did Marie Curie collaborate with Pierre Curie on radioactivity?,a,True,True,a,True,1
+164,scientist_collab,TF,Did John Bardeen collaborate with Walter Brattain on the transistor?,a,True,True,a,True,1
+165,scientist_collab,TF,Did Charles Darwin collaborate with Alfred Russel Wallace on evolution?,a,True,True,a,True,1
+166,scientist_collab,TF,Did Francis Crick collaborate with Sydney Brenner on the genetic code?,a,True,True,a,True,1
+167,scientist_collab,TF,Did Enrico Fermi collaborate with Leo Szilard on nuclear chain reactions?,a,True,True,a,True,1
+168,scientist_collab,TF,Did Carl Sagan collaborate with Frank Drake on SETI research?,a,True,True,a,True,1
+169,scientist_collab,TF,Did G. H. Hardy collaborate with Srinivasa Ramanujan on number theory?,a,True,True,a,True,1
+170,scientist_collab,TF,Did Isaac Newton collaborate with Edmond Halley on celestial mechanics?,a,True,True,a,True,1
+171,scientist_collab,TF,Did Albert Einstein collaborate with Isaac Newton on DNA structure?,b,False,False,b,False,1
+172,scientist_collab,TF,Did Nikola Tesla collaborate with James Watson on radioactivity?,b,False,False,b,False,1
+173,scientist_collab,TF,Did Marie Curie collaborate with Leonardo da Vinci on Renaissance art?,b,False,False,b,False,1
+174,scientist_collab,TF,Did Alan Turing collaborate with Albert Einstein on black hole thermodynamics?,b,False,False,b,False,1
+175,scientist_collab,TF,Did Rosalind Franklin collaborate with Niels Bohr on quantum computing?,b,False,False,b,False,1
+176,scientist_collab,TF,Did Galileo Galilei collaborate with John Bardeen on semiconductor devices?,b,False,False,b,False,1
+177,scientist_collab,TF,Did Ada Lovelace collaborate with Claude Shannon on information theory?,b,False,False,b,False,1
+178,scientist_collab,TF,Did Michael Faraday collaborate with James Watson on genetic sequencing?,b,False,False,b,False,1
+179,scientist_collab,TF,Did Johannes Kepler collaborate with Carl Sagan on space probe navigation?,b,False,False,b,False,1
+180,scientist_collab,TF,Did Louis Pasteur collaborate with Enrico Fermi on nuclear medicine in the 18th century?,b,False,False,b,False,1
+181,scientist_collab,TF,Did Srinivasa Ramanujan collaborate with John von Neumann on game theory?,b,False,False,b,False,1
+182,scientist_collab,TF,Did Stephen Hawking collaborate with Edwin Hubble on Hubble's redshift observations?,b,False,False,b,False,1
+183,scientist_collab,TF,Did Dmitri Mendeleev collaborate with Linus Pauling on quantum chemistry?,b,False,False,b,False,1
+184,scientist_collab,TF,Did Niels Bohr collaborate with Max Planck on classical mechanics?,b,False,False,b,False,1
+185,scientist_collab,TF,Did Albert Einstein collaborate with Werner Heisenberg on matrix mechanics?,b,False,False,b,False,1
+186,scientist_collab,TF,Did Katherine Johnson collaborate with Yuri Gagarin on orbital flight control software?,b,False,False,b,False,1
+187,scientist_collab,TF,Did Grace Hopper collaborate with Tim Berners-Lee on the World Wide Web?,b,False,False,b,False,1
+188,scientist_collab,TF,Did Henrietta Leavitt collaborate with Edwin Hubble on Cepheid variable calibration?,a,True,False,b,False,0
+189,scientist_collab,TF,Did Subrahmanyan Chandrasekhar collaborate with Arthur Eddington on stellar structure?,a,True,False,b,False,0
+190,scientist_collab,TF,Did J. Robert Oppenheimer collaborate with Richard Feynman on the Manhattan Project?,a,True,True,a,True,1
+191,scientist_collab,TF,Did Alexander Fleming collaborate with Howard Florey on penicillin therapy?,a,True,True,a,True,1
+192,scientist_collab,TF,Did Max Born collaborate with Werner Heisenberg on quantum mechanics?,a,True,True,a,True,1
+193,scientist_collab,TF,Did Paul Dirac collaborate with Enrico Fermi on quantum electrodynamics?,b,False,False,b,False,1
+194,scientist_collab,TF,Did Heike Kamerlingh Onnes collaborate with William Thomson on the Kelvin temperature scale?,b,False,False,b,False,1
+195,scientist_collab,TF,Did Marie Curie collaborate with Albert Einstein on general relativity?,b,False,False,b,False,1
+196,scientist_collab,TF,Did John Nash collaborate with John von Neumann on noncooperative game theory?,a,True,False,b,False,0
+197,scientist_collab,TF,Did Richard Feynman collaborate with Murray Gell-Mann on particle physics?,a,True,True,a,True,1
+198,scientist_collab,TF,Did Leonard Susskind collaborate with Stephen Hawking on black hole information paradox?,a,True,True,a,True,1
+199,scientist_collab,TF,Did Edward Witten collaborate with Albert Einstein on string theory?,b,False,False,b,False,1
+200,scientist_collab,TF,Did Noam Chomsky collaborate with Alan Turing on formal language theory?,b,False,False,b,False,1
+201,scientist_collab,TF,Did Jane Goodall collaborate with Dian Fossey on great ape field studies?,b,False,False,b,False,1
+202,scientist_collab,TF,Did Vera Rubin collaborate with Fritz Zwicky on dark matter in galaxies?,b,False,False,b,False,1
+203,scientist_collab,TF,Did Hipparchus collaborate with Johannes Kepler on elliptical orbits?,b,False,False,b,False,1
+204,scientist_collab,TF,Did Caroline Herschel collaborate with William Herschel on comet discoveries?,a,True,True,a,True,1
+205,scientist_collab,TF,Did Antonie van Leeuwenhoek collaborate with Robert Hooke on early microscopy?,b,False,False,b,False,1
+206,scientist_collab,TF,Did Bjarne Stroustrup collaborate with Dennis Ritchie on C programming language?,b,False,False,b,False,1
+207,scientist_collab,TF,Did Claude Shannon collaborate with Warren Weaver on mathematical theory of communication?,a,True,True,a,True,1
+208,scientist_collab,TF,Did Alan Turing collaborate with Alonzo Church on computability theory?,a,True,False,b,False,0
+209,scientist_collab,TF,Did Niels Bohr collaborate with Ernest Rutherford on atomic structure?,a,True,True,a,True,1
+210,scientist_collab,TF,Did Wilhelm Röntgen collaborate with Marie Curie on X‑ray imaging?,b,False,False,b,False,1
