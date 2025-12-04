@@ -1,0 +1,501 @@
+question_id,template_type,question_format,question,gold_answer_letter,gold_answer_text,model_raw_answer,model_parsed_letter,model_parsed_text,is_correct
+1,unknown,TF,It is possible that Vadim Mass played Scythe.,b,False,False,b,False,1
+2,unknown,TF,It is possible that Marcel Cerdan played Ticket to Ride.,b,False,False,b,False,1
+3,unknown,TF,It is possible that Hans Jensen played Guitar Hero.,b,False,False,b,False,1
+4,unknown,TF,It is possible that Georges Le Bail played Portal.,b,False,False,b,False,1
+5,unknown,TF,It is possible that Teresa de Alonso played Fencing.,b,False,False,b,False,1
+6,unknown,TF,It is possible that György Káldy played Sumo Wrestling.,a,True,False,b,False,0
+7,unknown,TF,It is possible that Gianfranco Baldazzi played Dominoes.,b,False,True,a,True,0
+8,unknown,TF,It is possible that Jean Neuberth played Snooker.,b,False,False,b,False,1
+9,unknown,TF,It is possible that Clelia Vannucchi Pedani played Portal.,b,False,False,b,False,1
+10,unknown,TF,It is possible that Frederik s'Jacob played Counter-Strike.,b,False,False,b,False,1
+11,unknown,TF,It is possible that Henry Sampson played Bowling.,b,False,True,a,True,0
+12,unknown,TF,It is possible that Jocelyn Rickards played Dota.,a,True,False,b,False,0
+13,unknown,TF,It is possible that Pieter Groeneveldt played Archery.,b,False,False,b,False,1
+14,unknown,TF,It is possible that Henri Vidon played Mass Effect.,b,False,False,b,False,1
+15,unknown,TF,It is possible that Atanazy played Catan.,a,True,False,b,False,0
+16,unknown,TF,It is possible that Juan Martínez de Peralta played Gloomhaven.,b,False,False,b,False,1
+17,unknown,TF,It is possible that Stefania Ciesielska-Borkowska played Clue.,a,True,True,a,True,1
+18,unknown,TF,It is possible that José Victor Toledo played Badminton.,b,False,True,a,True,0
+19,unknown,TF,It is possible that Cesare Filippi played Pinball.,b,False,False,b,False,1
+20,unknown,TF,It is possible that Jerzy Syrokomla-Syrokomski played Archery.,b,False,False,b,False,1
+21,unknown,TF,It is possible that Louis de Guiscard-Magny played Red Dead Redemption.,b,False,False,b,False,1
+22,unknown,TF,It is possible that Ray Pierce played Mass Effect.,b,False,False,b,False,1
+23,unknown,TF,It is possible that Teresa Krassowska played The Game of Life.,b,False,True,a,True,0
+24,unknown,TF,It is possible that Aḥmad Albas played Chess Boxing.,a,True,False,b,False,0
+25,unknown,TF,It is possible that Alexandre Cullerre played Star Wars: X-Wing Miniatures.,b,False,False,b,False,1
+26,unknown,TF,It is possible that William Augustus Rixon played Tennis.,a,True,True,a,True,1
+27,unknown,TF,It is possible that Alfred Hudson Guernsey played Blood Rage.,b,False,False,b,False,1
+28,unknown,TF,It is possible that Edward Stephens played Cornhole.,b,False,True,a,True,0
+29,unknown,TF,It is possible that Lew Holder played Pandemic.,a,True,False,b,False,0
+30,unknown,TF,It is possible that Blanche Clough played Badminton.,b,False,True,a,True,0
+31,unknown,TF,"It is possible that Jean, Antoine, Martin Rodière played Archery.",b,False,False,b,False,1
+32,unknown,TF,It is possible that Daniel James Mahony played Exploding Kittens.,b,False,False,b,False,1
+33,unknown,TF,It is possible that Georg Ebeling played The Sims.,b,False,False,b,False,1
+34,unknown,TF,It is possible that Czesław Stradowski played Go.,b,False,True,a,True,0
+35,unknown,TF,It is possible that Joe Godefrin played Duck Hunt.,a,True,True,a,True,1
+36,unknown,TF,"It is possible that Walter T. Skallerup, Jr. played Elden Ring.",b,False,False,b,False,1
+37,unknown,TF,It is possible that Louis Noiret played Sonic the Hedgehog.,b,False,False,b,False,1
+38,unknown,TF,It is possible that Roderick Braithwaite played Ticket to Ride.,b,False,True,a,True,0
+39,unknown,TF,It is possible that Willem van den Berg played Minecraft.,b,False,False,b,False,1
+40,unknown,TF,It is possible that Norman DePoe played Karate.,b,False,False,b,False,1
+41,unknown,TF,It is possible that Hugh Gaisford played Guitar Hero.,b,False,False,b,False,1
+42,unknown,TF,It is possible that Georges Paul-Manceau played Fencing.,b,False,True,a,True,0
+43,unknown,TF,It is possible that Nicolás Fasolino played Pinball.,a,True,True,a,True,1
+44,unknown,TF,It is possible that Jack McAuliffe played Guitar Hero.,b,False,True,a,True,0
+45,unknown,TF,It is possible that Milan Kučera played Catan.,a,True,True,a,True,1
+46,unknown,TF,It is possible that William Webb played Valorant.,b,False,False,b,False,1
+47,unknown,TF,It is possible that Johannes Piger played Monopoly.,b,False,False,b,False,1
+48,unknown,TF,It is possible that Burton K. Farnsworth played Chess Boxing.,b,False,False,b,False,1
+49,unknown,TF,It is possible that Herbert Weidner played Roblox.,a,True,False,b,False,0
+50,unknown,TF,It is possible that Andrew Both de Bajna played Halo: Combat Evolved.,b,False,False,b,False,1
+51,unknown,TF,"It is possible that John Osborne, 11th Duke of Leeds played Judo.",b,False,False,b,False,1
+52,unknown,TF,It is possible that Iwan Bloch played Dominoes.,b,False,True,a,True,0
+53,unknown,TF,It is possible that Bob Mainwaring played Descent: Journeys in the Dark.,a,True,False,b,False,0
+54,unknown,TF,It is possible that Jean-Baptiste Mathias played Age of Empires.,b,False,False,b,False,1
+55,unknown,TF,It is possible that Walter Hannam played Magic: The Gathering.,b,False,False,b,False,1
+56,unknown,TF,It is possible that Cesare Canevari played World of Warcraft.,a,True,True,a,True,1
+57,unknown,TF,It is possible that David Scott-Barrett played Doom.,a,True,True,a,True,1
+58,unknown,TF,It is possible that Charles Howard played Battleship.,b,False,False,b,False,1
+59,unknown,TF,It is possible that Thomas-Jacques Taschereau played Ticket to Ride.,b,False,False,b,False,1
+60,unknown,TF,It is possible that Thomas White played Sumo Wrestling.,a,True,False,b,False,0
+61,unknown,TF,It is possible that Pietro Busenello played Dungeons & Dragons.,b,False,False,b,False,1
+62,unknown,TF,It is possible that Karel Michal played Billiards.,b,False,True,a,True,0
+63,unknown,TF,It is possible that Frank Johnson played The Sims.,a,True,False,b,False,0
+64,unknown,TF,It is possible that Edward Lysaght played Judo.,b,False,False,b,False,1
+65,unknown,TF,It is possible that Josef Stöber played Red Dead Redemption.,b,False,False,b,False,1
+66,unknown,TF,It is possible that Ruth Burns played Star Wars: Knights of the Old Republic.,b,False,False,b,False,1
+67,unknown,TF,It is possible that Rudolf Ismayr played Taekwondo.,a,True,False,b,False,0
+68,unknown,TF,It is possible that J. Léo Gagnon played Frogger.,a,True,False,b,False,0
+69,unknown,TF,It is possible that Arkady Nesterov played Crosswords.,b,False,True,a,True,0
+70,unknown,TF,It is possible that Pierre Antoine Marie Bénard-Lagrave played Team Fortress 2.,b,False,False,b,False,1
+71,unknown,TF,It is possible that Juan Félix Sánchez played Cornhole.,b,False,False,b,False,1
+72,unknown,TF,It is possible that Raymond Troye played Star Wars: X-Wing Miniatures.,b,False,False,b,False,1
+73,unknown,TF,It is possible that Aate Olkkonen played Elden Ring.,b,False,True,a,True,0
+74,unknown,TF,It is possible that Doug Adams played World of Warcraft.,b,False,True,a,True,0
+75,unknown,TF,It is possible that Johann Christoph Berens played Connect Four.,b,False,False,b,False,1
+76,unknown,TF,It is possible that Jan Jacobsz. Schipper played Scrabble.,b,False,False,b,False,1
+77,unknown,TF,It is possible that William Eugene Evans played Uno.,a,True,True,a,True,1
+78,unknown,TF,It is possible that Louis Alexis de Valon played Tetris.,b,False,False,b,False,1
+79,unknown,TF,It is possible that Sándor Rádai played Arkham Horror.,a,True,False,b,False,0
+80,unknown,TF,It is possible that Friedrich Gottlob Kunz played Scrabble.,b,False,False,b,False,1
+81,unknown,TF,It is possible that Edward Strutt played Pinball.,a,True,False,b,False,0
+82,unknown,TF,It is possible that Kim Byung-rin played Fortnite.,b,False,True,a,True,0
+83,unknown,TF,It is possible that John W. Pehle played Badminton.,b,False,True,a,True,0
+84,unknown,TF,It is possible that Dmytro Hrytsyna played Clue.,a,True,False,b,False,0
+85,unknown,TF,It is possible that Edward M. Glick played Age of Empires.,a,True,True,a,True,1
+86,unknown,TF,It is possible that Robert Wikman played Duck Hunt.,b,False,True,a,True,0
+87,unknown,TF,It is possible that Józef Kubicki played Red Dead Redemption.,a,True,False,b,False,0
+88,unknown,TF,It is possible that František Cink played Cards Against Humanity.,b,False,False,b,False,1
+89,unknown,TF,It is possible that Rolando Illa played American Football.,b,False,False,b,False,1
+90,unknown,TF,It is possible that Antonio Belloni played Sumo Wrestling.,b,False,False,b,False,1
+91,unknown,TF,It is possible that Henry Gamble played Billiards.,b,False,True,a,True,0
+92,unknown,TF,It is possible that Hendrick Snyers played Water Polo.,b,False,False,b,False,1
+93,unknown,TF,It is possible that Ralph Boulton played Valorant.,b,False,False,b,False,1
+94,unknown,TF,It is possible that George Raab played Baseball.,b,False,True,a,True,0
+95,unknown,TF,It is possible that Peter Fogg played Civilization.,b,False,True,a,True,0
+96,unknown,TF,It is possible that Marcel Leineweber played Age of Empires.,b,False,True,a,True,0
+97,unknown,TF,It is possible that Karl Ramseger-Mühle played Archery.,b,False,False,b,False,1
+98,unknown,TF,It is possible that E. Cobham Brewer played Table Tennis.,a,True,True,a,True,1
+99,unknown,TF,It is possible that Pablo Alfonso Rosas Guarín played Jenga.,a,True,False,b,False,0
+100,unknown,TF,It is possible that Pietro Axerio Piazza played Table Tennis.,a,True,True,a,True,1
+101,unknown,TF,It is possible that Liang Shuquan played Guitar Hero.,a,True,False,b,False,0
+102,unknown,TF,It is possible that Francis Hopkinson Smith played Karate.,b,False,False,b,False,1
+103,unknown,TF,It is possible that Donald Davis played Badminton.,b,False,True,a,True,0
+104,unknown,TF,It is possible that Gerhard Reuschel played Fencing.,b,False,False,b,False,1
+105,unknown,TF,It is possible that Pierre Le Grandais played Valorant.,b,False,False,b,False,1
+106,unknown,TF,It is possible that Juan de Hoyos played Karate.,b,False,False,b,False,1
+107,unknown,TF,It is possible that Ponie van der Westhuizen played Dominoes.,b,False,True,a,True,0
+108,unknown,TF,It is possible that Guido Kisch played Paintball.,a,True,False,b,False,0
+109,unknown,TF,It is possible that Otto Doppelfeld played Civilization.,b,False,False,b,False,1
+110,unknown,TF,It is possible that Henryk Poddębski played Candy Land.,b,False,False,b,False,1
+111,unknown,TF,It is possible that Zhengmin Yang played Air Hockey.,a,True,True,a,True,1
+112,unknown,TF,It is possible that Cecil Gordon Lawson played Roblox.,b,False,False,b,False,1
+113,unknown,TF,It is possible that Robert Cross Smith played Pac-Man.,b,False,True,a,True,0
+114,unknown,TF,It is possible that William Stack played Arkham Horror.,a,True,False,b,False,0
+115,unknown,TF,It is possible that Giambattista Febei played Scythe.,b,False,False,b,False,1
+116,unknown,TF,It is possible that Jean-Baptiste Demay played Catan.,b,False,False,b,False,1
+117,unknown,TF,It is possible that Victor Melcior i Farré played Team Fortress 2.,b,False,False,b,False,1
+118,unknown,TF,It is possible that Florence Wald played Descent: Journeys in the Dark.,a,True,False,b,False,0
+119,unknown,TF,It is possible that Francis Badgley played Arkham Horror.,b,False,False,b,False,1
+120,unknown,TF,It is possible that Peter Nicolai Frost played Badminton.,b,False,False,b,False,1
+121,unknown,TF,It is possible that William C. Redfield played Connect Four.,b,False,False,b,False,1
+122,unknown,TF,It is possible that Heinrich Seitz von Treffen played League of Legends.,b,False,False,b,False,1
+123,unknown,TF,It is possible that Leandro Konder played Roblox.,a,True,False,b,False,0
+124,unknown,TF,It is possible that Germaine Tailleferre played Yu-Gi-Oh!.,b,False,False,b,False,1
+125,unknown,TF,It is possible that Christian August Bohlsmann played Archery.,b,False,False,b,False,1
+126,unknown,TF,It is possible that William Braden played Billiards.,b,False,True,a,True,0
+127,unknown,TF,It is possible that John Hinton played Descent: Journeys in the Dark.,b,False,False,b,False,1
+128,unknown,TF,It is possible that Louis-Désiré Marcou played Yu-Gi-Oh!.,b,False,False,b,False,1
+129,unknown,TF,It is possible that Lois M. Berney played The Legend of Zelda.,a,True,True,a,True,1
+130,unknown,TF,It is possible that Hugh R. O'Connell played Billiards.,b,False,True,a,True,0
+131,unknown,TF,"It is possible that Бобринской, Алексей Алексеевич played Dungeons & Dragons.",b,False,False,b,False,1
+132,unknown,TF,It is possible that Robert A. Johnson played Table Tennis.,b,False,True,a,True,0
+133,unknown,TF,It is possible that Charles Anthony Shiels played Fencing.,b,False,True,a,True,0
+134,unknown,TF,It is possible that Luis Moure-Mariño played The Game of Life.,b,False,False,b,False,1
+135,unknown,TF,It is possible that Frederick Eccleston played Tafl.,b,False,False,b,False,1
+136,unknown,TF,It is possible that Bodil Panild played Metroid.,a,True,False,b,False,0
+137,unknown,TF,It is possible that John A. Moaney played Checkers.,b,False,True,a,True,0
+138,unknown,TF,It is possible that John V Dodge played Volleyball.,b,False,False,b,False,1
+139,unknown,TF,It is possible that Josef Wastl played Civilization.,b,False,True,a,True,0
+140,unknown,TF,It is possible that William S. Harney played Valorant.,b,False,False,b,False,1
+141,unknown,TF,It is possible that Zbyněk Brynych played Go.,b,False,True,a,True,0
+142,unknown,TF,It is possible that Ernst Grabbe played Tennis.,b,False,True,a,True,0
+143,unknown,TF,It is possible that Lucy Faulkner Orrinsmith played Metroid.,b,False,False,b,False,1
+144,unknown,TF,It is possible that Jean-François Jacqueminot played Pac-Man.,b,False,False,b,False,1
+145,unknown,TF,It is possible that Friedrich Drews played Gloomhaven.,b,False,False,b,False,1
+146,unknown,TF,It is possible that Daniel Oliver Guion played Checkers.,b,False,True,a,True,0
+147,unknown,TF,It is possible that René Riboulet played Badminton.,b,False,True,a,True,0
+148,unknown,TF,It is possible that Nancy Carline played Dota.,a,True,False,b,False,0
+149,unknown,TF,It is possible that Charles Fleetwood played Connect Four.,b,False,False,b,False,1
+150,unknown,TF,It is possible that Vittorio Crucillà played Descent: Journeys in the Dark.,a,True,False,b,False,0
+151,unknown,TF,It is possible that Ivan Jakovlevitsj Oleynik played Tetris.,a,True,False,b,False,0
+152,unknown,TF,It is possible that Stan McRae played Pac-Man.,a,True,True,a,True,1
+153,unknown,TF,It is possible that Barry Connolly played Star Wars: X-Wing Miniatures.,b,False,True,a,True,0
+154,unknown,TF,It is possible that Henry Robinson Palmer played Basketball.,b,False,False,b,False,1
+155,unknown,TF,It is possible that Pedro Balmaceda played Star Wars: X-Wing Miniatures.,b,False,False,b,False,1
+156,unknown,TF,It is possible that Franz Joseph Schwarz played Scythe.,b,False,False,b,False,1
+157,unknown,TF,It is possible that Víctor Martínez Jiménez played Overwatch.,b,False,False,b,False,1
+158,unknown,TF,It is possible that Jean Ogé played Yu-Gi-Oh!.,b,False,False,b,False,1
+159,unknown,TF,It is possible that Johann Friedrich Fleischberger played Pandemic.,b,False,False,b,False,1
+160,unknown,TF,It is possible that Honoratus Bonnevie played Arkham Horror.,b,False,False,b,False,1
+161,unknown,TF,It is possible that Tadao Natsume played Guitar Hero.,b,False,False,b,False,1
+162,unknown,TF,It is possible that Johann Heinrich von Carmer played Table Tennis.,b,False,True,a,True,0
+163,unknown,TF,It is possible that Caspar Wasmund played Mass Effect.,b,False,False,b,False,1
+164,unknown,TF,It is possible that Henry Burden played Chess.,b,False,True,a,True,0
+165,unknown,TF,It is possible that Clement V. Rogers played Baseball.,a,True,False,b,False,0
+166,unknown,TF,It is possible that Käthe Brinkmann played Cornhole.,b,False,False,b,False,1
+167,unknown,TF,It is possible that Johann Evangelist Schmidt played Volleyball.,b,False,False,b,False,1
+168,unknown,TF,It is possible that Karol Zagórski played Billiards.,b,False,True,a,True,0
+169,unknown,TF,It is possible that Bella Subbotovskaya played Star Wars: Knights of the Old Republic.,b,False,False,b,False,1
+170,unknown,TF,It is possible that Giulio Rossi played Quake.,b,False,True,a,True,0
+171,unknown,TF,It is possible that Anton Ernst Richter von Binnenthal played Clue.,b,False,False,b,False,1
+172,unknown,TF,It is possible that Thomas J. Watson played Chess Boxing.,b,False,False,b,False,1
+173,unknown,TF,It is possible that Kees ten Hagen played Doom.,b,False,True,a,True,0
+174,unknown,TF,It is possible that John Garth played Counter-Strike.,b,False,False,b,False,1
+175,unknown,TF,It is possible that Huib Orizand played Table Tennis.,b,False,True,a,True,0
+176,unknown,TF,It is possible that Georges Friedmann played Magic: The Gathering.,b,False,False,b,False,1
+177,unknown,TF,It is possible that Anthony Lambert played Cricket.,b,False,True,a,True,0
+178,unknown,TF,It is possible that Juan Francisco Reyes López played Age of Empires.,a,True,True,a,True,1
+179,unknown,TF,It is possible that Charles U. Gravatt played Warcraft.,b,False,True,a,True,0
+180,unknown,TF,It is possible that Johann von Appel played Civilization.,b,False,False,b,False,1
+181,unknown,TF,It is possible that Arthur Rich played Tafl.,b,False,False,b,False,1
+182,unknown,TF,It is possible that Jim Wacker played Monopoly.,b,False,True,a,True,0
+183,unknown,TF,It is possible that Christine Wasa played Jenga.,b,False,False,b,False,1
+184,unknown,TF,It is possible that Lauro Toneatto played Dota.,a,True,False,b,False,0
+185,unknown,TF,It is possible that Aegidius Gelenius played Cards Against Humanity.,b,False,False,b,False,1
+186,unknown,TF,It is possible that Marie Henri Andoyer played Dominoes.,b,False,True,a,True,0
+187,unknown,TF,It is possible that Charles Hamilton Hughes played Sumo Wrestling.,b,False,False,b,False,1
+188,unknown,TF,"It is possible that Henry Percy, 9th Duke of Northumberland played Monopoly.",a,True,False,b,False,0
+189,unknown,TF,It is possible that Nicolas-Christiern de Thy de Milly played Checkers.,b,False,True,a,True,0
+190,unknown,TF,It is possible that William Lyle played Metroid.,b,False,False,b,False,1
+191,unknown,TF,It is possible that Raymond Brown played Star Wars: X-Wing Miniatures.,b,False,False,b,False,1
+192,unknown,TF,It is possible that Fritz Vietor played Fortnite.,b,False,False,b,False,1
+193,unknown,TF,It is possible that Hans Wagner played American Football.,b,False,False,b,False,1
+194,unknown,TF,It is possible that Nils Hylen played Red Dead Redemption.,b,False,False,b,False,1
+195,unknown,TF,It is possible that François de Salignac de La Mothe-Fénelon played Overwatch.,b,False,False,b,False,1
+196,unknown,TF,It is possible that Aleksandr Bely played Halo: Combat Evolved.,a,True,False,b,False,0
+197,unknown,TF,It is possible that Johann Dientzenhofer played Tetris.,b,False,False,b,False,1
+198,unknown,TF,It is possible that Charlie Biederman played Team Fortress 2.,b,False,False,b,False,1
+199,unknown,TF,It is possible that Dinorah Bolandi played Bowling.,b,False,False,b,False,1
+200,unknown,TF,It is possible that Mary Emma Thompson played Final Fantasy.,b,False,False,b,False,1
+201,unknown,TF,It is possible that Chuck Pandolph played Carcassonne.,b,False,False,b,False,1
+202,unknown,TF,It is possible that Billy Mullen played Donkey Kong.,b,False,False,b,False,1
+203,unknown,TF,It is possible that Massey Bromley played World of Warcraft.,b,False,True,a,True,0
+204,unknown,TF,It is possible that Oliver Parks played Dota.,b,False,False,b,False,1
+205,unknown,TF,It is possible that Henk Weggelaar played Archery.,b,False,False,b,False,1
+206,unknown,TF,It is possible that Margaret Russell of Manchester played Chess Boxing.,b,False,False,b,False,1
+207,unknown,TF,It is possible that Włodzimierz Zagórski played Guitar Hero.,b,False,True,a,True,0
+208,unknown,TF,It is possible that Napoléon Séguin played Fortnite.,b,False,False,b,False,1
+209,unknown,TF,It is possible that Louis Ledoux played Pokémon Red and Blue.,b,False,False,b,False,1
+210,unknown,TF,It is possible that Hjalmar Nehrman played Dungeons & Dragons.,b,False,False,b,False,1
+211,unknown,TF,It is possible that Yoshiyuki Noda played Cricket.,b,False,False,b,False,1
+212,unknown,TF,It is possible that Frederic Llansó i Seguí played Chess Boxing.,b,False,False,b,False,1
+213,unknown,TF,It is possible that Sam Levene played Dungeons & Dragons.,a,True,False,b,False,0
+214,unknown,TF,It is possible that José Manuel da Conceição played Karate.,b,False,False,b,False,1
+215,unknown,TF,It is possible that Gabrielle Duchêne played Civilization.,b,False,True,a,True,0
+216,unknown,TF,It is possible that William Puffer played Frogger.,b,False,False,b,False,1
+217,unknown,TF,It is possible that Edna Wallace Hopper played Basketball.,a,True,True,a,True,1
+218,unknown,TF,It is possible that Alejandro Matias Gil played Quake.,b,False,True,a,True,0
+219,unknown,TF,It is possible that Łeonid Oriechow played Pac-Man.,a,True,True,a,True,1
+220,unknown,TF,It is possible that Adolf Höper played The Sims.,b,False,False,b,False,1
+221,unknown,TF,It is possible that Franz Johann Guilleaume played Clue.,b,False,False,b,False,1
+222,unknown,TF,"It is possible that Agnes Hungerford, Lady Hungerford played Air Hockey.",b,False,False,b,False,1
+223,unknown,TF,It is possible that Alma Rogge played Doom.,b,False,False,b,False,1
+224,unknown,TF,It is possible that Belle Mitchell played SimCity.,b,False,False,b,False,1
+225,unknown,TF,It is possible that Benjamin Hind played Civilization.,b,False,False,b,False,1
+226,unknown,TF,It is possible that Pedro Fernández Pecha played Tetris.,b,False,False,b,False,1
+227,unknown,TF,It is possible that Josef Östlihn played Blood Rage.,b,False,False,b,False,1
+228,unknown,TF,It is possible that Mariano Rocchi played Carcassonne.,b,False,False,b,False,1
+229,unknown,TF,It is possible that Giuseppe Serembe played Checkers.,b,False,True,a,True,0
+230,unknown,TF,It is possible that Magnus Felix Ennodius played Tafl.,b,False,True,a,True,0
+231,unknown,TF,It is possible that Christian Alfred Fahlcrantz played Jenga.,b,False,False,b,False,1
+232,unknown,TF,It is possible that Deborah Pullen played Water Polo.,b,False,False,b,False,1
+233,unknown,TF,It is possible that Paul-Joseph Vallet played Roblox.,b,False,False,b,False,1
+234,unknown,TF,It is possible that Grigory Lishin played Risk.,b,False,True,a,True,0
+235,unknown,TF,It is possible that Ernst Frisch played Paintball.,b,False,False,b,False,1
+236,unknown,TF,It is possible that I.  Mansvetov played Pokémon Red and Blue.,b,False,False,b,False,1
+237,unknown,TF,It is possible that Luther Rabb played Catan.,a,True,False,b,False,0
+238,unknown,TF,It is possible that Aleksandr Aleksandrov played League of Legends.,b,False,False,b,False,1
+239,unknown,TF,It is possible that Gonzalo Dávila de Ágreda played Judo.,a,True,False,b,False,0
+240,unknown,TF,It is possible that Daniel Hayward played Checkers.,b,False,False,b,False,1
+241,unknown,TF,It is possible that Gabriel Grotti played Pac-Man.,b,False,True,a,True,0
+242,unknown,TF,It is possible that Ted Reed played Archery.,b,False,False,b,False,1
+243,unknown,TF,"It is possible that William Bonville, 6th Baron Harington played Duck Hunt.",b,False,False,b,False,1
+244,unknown,TF,It is possible that Darko Marušič played Red Dead Redemption.,b,False,False,b,False,1
+245,unknown,TF,It is possible that William Charles McNulty played American Football.,b,False,True,a,True,0
+246,unknown,TF,It is possible that Erik Gustaf William Nording played Minecraft.,b,False,True,a,True,0
+247,unknown,TF,It is possible that Cesare Sighinolfi played Uno.,b,False,False,b,False,1
+248,unknown,TF,It is possible that Ján Mitrovčák played Gloomhaven.,b,False,False,b,False,1
+249,unknown,TF,It is possible that Leslie Banks played Halo: Combat Evolved.,b,False,False,b,False,1
+250,unknown,TF,It is possible that Auguste Charlois played Exploding Kittens.,b,False,False,b,False,1
+251,unknown,MCQ,Which of the following people could have played World of Warcraft?,d,Heinz Krejci,D,d,Heinz Krejci,1
+252,unknown,MCQ,Which of the following people could have played Gloomhaven?,c,Kathleen Karr,C,c,Kathleen Karr,1
+253,unknown,MCQ,Which of the following people could have played Dominoes?,d,"Bertha, Duchess of Brittany",B,b,Osvaldo Svanascini,0
+254,unknown,MCQ,Which of the following people could have played Sumo Wrestling?,b,Pierre Bourdin,D,d,Juhani Kattelus,0
+255,unknown,MCQ,Which of the following people could have played Valorant?,d,Lida Barrett,B,b,Max Doria,0
+256,unknown,MCQ,Which of the following people could have played Chess?,c,Liang Shidu,C,c,Liang Shidu,1
+257,unknown,MCQ,Which of the following people could have played Scythe?,a,Theo Loosli,A,a,Theo Loosli,1
+258,unknown,MCQ,Which of the following people could have played Pandemic?,b,Piet Geelhoed,B,b,Piet Geelhoed,1
+259,unknown,MCQ,Which of the following people could have played Tennis?,c,Henry James Raby,A,a,Jacques Rolland,0
+260,unknown,MCQ,Which of the following people could have played Pokémon Red and Blue?,c,Leopold H. Haimson,B,b,Alexandru Cișman,0
+261,unknown,MCQ,Which of the following people could have played Crosswords?,d,José Fabella,C,c,Don Bradley,0
+262,unknown,MCQ,Which of the following people could have played Risk?,d,Andrew Nowell Walls,A,a,František Korbel,0
+263,unknown,MCQ,Which of the following people could have played League of Legends?,c,Harry Nordén,A,a,Louis Nerz,0
+264,unknown,MCQ,Which of the following people could have played The Sims?,d,Willy Kamm,A,a,Austin Pardue,0
+265,unknown,MCQ,Which of the following people could have played Warcraft?,d,Егоров Павел Иванович,A,a,Nathaniel Moore,0
+266,unknown,MCQ,Which of the following people could have played Guitar Hero?,a,Janusz Koniusz,D,d,Fred M. Ahern,0
+267,unknown,MCQ,Which of the following people could have played Final Fantasy?,a,Yasuo Shigematsu,A,a,Yasuo Shigematsu,1
+268,unknown,MCQ,Which of the following people could have played Tennis?,a,Horace Austerberry,D,d,Mary Speer,0
+269,unknown,MCQ,Which of the following people could have played Blood Rage?,d,Anne-Marie Boudaliez,C,c,Al Martino,0
+270,unknown,MCQ,Which of the following people could have played Overwatch?,b,Gerald Fridman,A,a,Billy Kirton,0
+271,unknown,MCQ,Which of the following people could have played Civilization?,c,María Dolores Gispert Guart,A,a,Clímaco Barbosa,0
+272,unknown,MCQ,Which of the following people could have played Red Dead Redemption?,b,Evgeniy Anatolevitsj Kolesnikov,D,d,Barnabas Kelet Henagan,0
+273,unknown,MCQ,Which of the following people could have played Taekwondo?,c,Bob Hepburn,C,c,Bob Hepburn,1
+274,unknown,MCQ,Which of the following people could have played Crosswords?,b,Birger Homén,A,a,Clinton Thomas Dent,0
+275,unknown,MCQ,Which of the following people could have played Connect Four?,a,Lukas Schaa,A,a,Lukas Schaa,1
+276,unknown,MCQ,Which of the following people could have played Cards Against Humanity?,d,Nic Tummers,D,d,Nic Tummers,1
+277,unknown,MCQ,Which of the following people could have played Pong?,d,Matthew McLeod,D,d,Matthew McLeod,1
+278,unknown,MCQ,Which of the following people could have played Arkham Horror?,b,Hasan Hourani,A,a,Celestine Kapsner,0
+279,unknown,MCQ,Which of the following people could have played Doom?,b,Gianni Asti,D,d,John Gordon,0
+280,unknown,MCQ,Which of the following people could have played Star Wars: Knights of the Old Republic?,a,Paul Brandenberg,D,d,Sven Hoflund,0
+281,unknown,MCQ,Which of the following people could have played Portal?,a,Joachim Kormann,D,d,Ralph William Hay,0
+282,unknown,MCQ,Which of the following people could have played StarCraft?,c,Margot Lang,C,c,Margot Lang,1
+283,unknown,MCQ,Which of the following people could have played Sonic the Hedgehog?,c,Kevin Herbert,A,a,Alexis Adolphi,0
+284,unknown,MCQ,Which of the following people could have played Handball?,c,Leoncio González de Granda,C,c,Leoncio González de Granda,1
+285,unknown,MCQ,Which of the following people could have played Carcassonne?,a,Herbert Denicolò,A,a,Herbert Denicolò,1
+286,unknown,MCQ,Which of the following people could have played Descent: Journeys in the Dark?,c,Tommy Lowne,C,c,Tommy Lowne,1
+287,unknown,MCQ,Which of the following people could have played Handball?,a,Otto Fischer,A,a,Otto Fischer,1
+288,unknown,MCQ,Which of the following people could have played Baseball?,c,Henry G. Worthington,A,a,Charles Joseph Heitz,0
+289,unknown,MCQ,Which of the following people could have played Halo: Combat Evolved?,a,Teresa Icaza,A,a,Teresa Icaza,1
+290,unknown,MCQ,Which of the following people could have played Crosswords?,b,Eugenio Zampighi,C,c,Thomas Gipps,0
+291,unknown,MCQ,Which of the following people could have played Tetris?,d,István Nagy,B,b,Jan Rypka,0
+292,unknown,MCQ,Which of the following people could have played Roblox?,d,Tillmann Uhrmacher,D,d,Tillmann Uhrmacher,1
+293,unknown,MCQ,Which of the following people could have played Red Dead Redemption?,a,Svein Hauan,C,c,John Johnson,0
+294,unknown,MCQ,Which of the following people could have played Pandemic?,b,Mona Winberg,A,a,Paul Ronald Lambers,0
+295,unknown,MCQ,Which of the following people could have played Dominoes?,c,Walter de Clifford,D,d,Dave Blake,0
+296,unknown,MCQ,Which of the following people could have played Tafl?,b,Onuphrius,D,d,Carl Gustaf Strandberg,0
+297,unknown,MCQ,Which of the following people could have played Call of Duty?,b,John Forgeham,B,b,John Forgeham,1
+298,unknown,MCQ,Which of the following people could have played Descent: Journeys in the Dark?,a,Tomas Ernvik,A,a,Tomas Ernvik,1
+299,unknown,MCQ,Which of the following people could have played SimCity?,d,Hans W. Liepmann,D,d,Hans W. Liepmann,1
+300,unknown,MCQ,Which of the following people could have played Air Hockey?,d,"Оохаси, Рёити",B,b,Harry Andreas,0
+301,unknown,MCQ,Which of the following people could have played Risk?,b,Samuel E. Goldfarb,B,b,Samuel E. Goldfarb,1
+302,unknown,MCQ,Which of the following people could have played Yu-Gi-Oh!?,d,Brian Fitzpatrick,D,d,Brian Fitzpatrick,1
+303,unknown,MCQ,Which of the following people could have played Age of Empires?,c,Sheila Ward,A,a,Jack Scales,0
+304,unknown,MCQ,Which of the following people could have played Descent: Journeys in the Dark?,b,John S. A. Green,B,b,John S. A. Green,1
+305,unknown,MCQ,Which of the following people could have played Minecraft?,b,Julia Wilson-Dickson,B,b,Julia Wilson-Dickson,1
+306,unknown,MCQ,Which of the following people could have played Air Hockey?,b,James Hewson,D,d,Carlos Guerrico,0
+307,unknown,MCQ,Which of the following people could have played Roblox?,b,Edythe Kirchmaier,A,a,Charlie Householder,0
+308,unknown,MCQ,Which of the following people could have played The Sims?,a,Verne Reynolds,A,a,Verne Reynolds,1
+309,unknown,MCQ,Which of the following people could have played American Football?,b,Caroline Quarlls,D,d,Harry Bell,0
+310,unknown,MCQ,Which of the following people could have played Ticket to Ride?,a,Mickey Cafagna,A,a,Mickey Cafagna,1
+311,unknown,MCQ,Which of the following people could have played Dungeons & Dragons?,d,Giancarlo Palanti,D,d,Giancarlo Palanti,1
+312,unknown,MCQ,Which of the following people could have played Golf?,a,Hugh Courtenay,A,a,Hugh Courtenay,1
+313,unknown,MCQ,Which of the following people could have played Call of Duty?,d,Helmut Wildt,B,b,Sven Martinsen,0
+314,unknown,MCQ,Which of the following people could have played Dota?,a,Joachim Wenzel,B,b,Oscar Soldati,0
+315,unknown,MCQ,Which of the following people could have played The Last of Us?,d,Joaquín Varela,D,d,Joaquín Varela,1
+316,unknown,MCQ,Which of the following people could have played Age of Empires?,d,Liz Jackson,D,d,Liz Jackson,1
+317,unknown,MCQ,Which of the following people could have played Fencing?,a,"Leopold VI, Duke of Austria",A,a,"Leopold VI, Duke of Austria",1
+318,unknown,MCQ,Which of the following people could have played Pokémon Red and Blue?,b,Bernhard Pohlschmidt,D,d,Pierre Brunerie,0
+319,unknown,MCQ,Which of the following people could have played Cards Against Humanity?,d,"Alan Campbell, Baron Campbell of Alloway",C,c,Tony Troxler,0
+320,unknown,MCQ,Which of the following people could have played Pong?,a,Aleksandyr Gerow,B,b,Philip Mitchell,0
+321,unknown,MCQ,Which of the following people could have played The Legend of Zelda?,a,Ed Fleming,A,a,Ed Fleming,1
+322,unknown,MCQ,Which of the following people could have played Dominoes?,b,Magnus I of Sweden,D,d,Vidor Pál,0
+323,unknown,MCQ,Which of the following people could have played Clue?,b,Aleksei Peterson,D,d,Richard Maybery,0
+324,unknown,MCQ,Which of the following people could have played Fortnite?,d,Alexandre Skirda,D,d,Alexandre Skirda,1
+325,unknown,MCQ,Which of the following people could have played Pong?,a,Marc Sieber,A,a,Marc Sieber,1
+326,unknown,MCQ,Which of the following people could have played Frogger?,c,Skeeter Werner Walker,A,a,Alejandro del Río Soto Aguilar,0
+327,unknown,MCQ,Which of the following people could have played Checkers?,b,Roger I Trencavel,D,d,Grace Julia Parker Drummond,0
+328,unknown,MCQ,Which of the following people could have played Table Tennis?,c,Alfred Horsford Bingley,C,c,Alfred Horsford Bingley,1
+329,unknown,MCQ,Which of the following people could have played Checkers?,c,William VII of Montpellier,A,a,Johan Friedrich Tuchsen,0
+330,unknown,MCQ,Which of the following people could have played Judo?,a,Arthur Cobain,C,c,Cornelis Jacobus Gorter,0
+331,unknown,MCQ,Which of the following people could have played Counter-Strike?,d,Djoko Santoso,D,d,Djoko Santoso,1
+332,unknown,MCQ,Which of the following people could have played Crosswords?,c,Stjepan Radić,A,a,John C. Quinn,0
+333,unknown,MCQ,Which of the following people could have played Sumo Wrestling?,a,Wilhelm Graf zu Sayn-Wittgenstein-Sayn,B,b,Karl Michel,0
+334,unknown,MCQ,Which of the following people could have played Minecraft?,b,Lee Hak-bong,B,b,Lee Hak-bong,1
+335,unknown,MCQ,Which of the following people could have played Pong?,c,Morrill Cody,B,b,Enrique López Albújar,0
+336,unknown,MCQ,Which of the following people could have played Karate?,d,Enda of Aran,B,b,Shin'ichi Yonekawa,0
+337,unknown,MCQ,Which of the following people could have played Air Hockey?,a,Christian Skov,A,a,Christian Skov,1
+338,unknown,MCQ,Which of the following people could have played The Last of Us?,d,Liu Tonghua,A,a,René Grosdidier,0
+339,unknown,MCQ,Which of the following people could have played Dominoes?,b,Hartwig I. von Spanheim,A,a,Anton Rojina,0
+340,unknown,MCQ,Which of the following people could have played Basketball?,c,Maurice-Marie Dantand,B,b,Al Van Dam,0
+341,unknown,MCQ,Which of the following people could have played Archery?,d,Johann Crotus,C,c,Lionel Price,0
+342,unknown,MCQ,Which of the following people could have played Archery?,b,Francisco de Osona,D,d,Johann Nepomuk Schelble,0
+343,unknown,MCQ,Which of the following people could have played Exploding Kittens?,d,Arsen Lis,D,d,Arsen Lis,1
+344,unknown,MCQ,Which of the following people could have played Scythe?,a,"Бутаков, Геннадий Михайлович",D,d,John Mills,0
+345,unknown,MCQ,Which of the following people could have played Chess Boxing?,c,Bernard G. Weiss,D,d,Erich Kamke,0
+346,unknown,MCQ,Which of the following people could have played League of Legends?,b,Red McManus,A,a,Vincenzo Colucci,0
+347,unknown,MCQ,Which of the following people could have played Pokémon Red and Blue?,c,Imants Krenbergs,B,b,Leon Gemmell,0
+348,unknown,MCQ,Which of the following people could have played Dungeons & Dragons?,a,Gary Rippingale,D,d,Nick Louvel,0
+349,unknown,MCQ,Which of the following people could have played Overwatch?,a,Daweli Reinhardt,A,a,Daweli Reinhardt,1
+350,unknown,MCQ,Which of the following people could have played SimCity?,b,Aslan Usoyan,D,d,Paolo Cerrati,0
+351,unknown,MCQ,Which of the following people could have played Tafl?,d,Moses the Black,D,d,Moses the Black,1
+352,unknown,MCQ,Which of the following people could have played The Game of Life?,b,C. A. Stephens,B,b,C. A. Stephens,1
+353,unknown,MCQ,Which of the following people could have played Crosswords?,c,Alfred Brinckmann,B,b,David Wood,0
+354,unknown,MCQ,Which of the following people could have played Ticket to Ride?,a,Robert Eyer,A,a,Robert Eyer,1
+355,unknown,MCQ,Which of the following people could have played Chess?,b,Kim Yushin,B,b,Kim Yushin,1
+356,unknown,MCQ,Which of the following people could have played Ticket to Ride?,d,Theodor Schübel,D,d,Theodor Schübel,1
+357,unknown,MCQ,Which of the following people could have played The Legend of Zelda?,a,François Moreuil,D,d,Paul Heidemann,0
+358,unknown,MCQ,Which of the following people could have played Risk?,b,"Фоменко, Дмитрий Иванович",A,a,Edmund Burke Wood,0
+359,unknown,MCQ,Which of the following people could have played Descent: Journeys in the Dark?,a,Daryl,A,a,Daryl,1
+360,unknown,MCQ,Which of the following people could have played Water Polo?,b,John Kinross,D,d,Margaret L. Curry,0
+361,unknown,MCQ,Which of the following people could have played Table Tennis?,d,David B. MacKay,D,d,David B. MacKay,1
+362,unknown,MCQ,Which of the following people could have played Metroid?,c,Jonathan Bardon,B,b,Paul Mann,0
+363,unknown,MCQ,Which of the following people could have played Snooker?,c,Fritz Haber,A,a,Adam Sroka,0
+364,unknown,MCQ,Which of the following people could have played Catan?,b,Ferenc Lehr,D,d,Patrick Simson,0
+365,unknown,MCQ,Which of the following people could have played The Last of Us?,d,Jack Green,C,c,Norma MacMillan,0
+366,unknown,MCQ,Which of the following people could have played Halo: Combat Evolved?,c,Jeanne Gervais,A,a,Félix Díaz,0
+367,unknown,MCQ,Which of the following people could have played Frogger?,b,Virgil E. Bottom,A,a,John T. Rice,0
+368,unknown,MCQ,Which of the following people could have played Crosswords?,a,Raoul Sunday Bell,B,b,Dennis Herrold,0
+369,unknown,MCQ,Which of the following people could have played Blood Rage?,c,Juan Giménez,B,b,Anna Loginova,0
+370,unknown,MCQ,Which of the following people could have played Roblox?,a,Oliver Crawford,D,d,Rudi Peters,0
+371,unknown,MCQ,Which of the following people could have played Gloomhaven?,d,Vladimir Komarov,D,d,Vladimir Komarov,1
+372,unknown,MCQ,Which of the following people could have played Archery?,b,Maria of Baden,A,a,Alfred Åkerman,0
+373,unknown,MCQ,Which of the following people could have played Battleship?,b,Mikhail Evgenievich Masson,A,a,Wolfgang Ferdinand von Doernberg,0
+374,unknown,MCQ,Which of the following people could have played Guitar Hero?,b,Franz Uhle-Wettler,D,d,Simon Hermann Schott,0
+375,unknown,MCQ,Which of the following people could have played Golf?,a,Jacques Millet,B,b,Haskell L. Nichols,0
+376,unknown,MCQ,Which of the following people could have played Chess Boxing?,d,Juan Tuñas,B,b,Jenő Ernst,0
+377,unknown,MCQ,Which of the following people could have played Water Polo?,c,Gerard Brassin,D,d,Walter Musshoff,0
+378,unknown,MCQ,Which of the following people could have played Counter-Strike?,a,Richard H. Leir,B,b,Paul Erickson,0
+379,unknown,MCQ,Which of the following people could have played Star Wars: Knights of the Old Republic?,b,Andrea Jaffe,B,b,Andrea Jaffe,1
+380,unknown,MCQ,Which of the following people could have played Pac-Man?,d,Robert Merritt,D,d,Robert Merritt,1
+381,unknown,MCQ,Which of the following people could have played Guitar Hero?,b,Chris Serino,B,b,Chris Serino,1
+382,unknown,MCQ,Which of the following people could have played Archery?,d,Innocenzo Cybo,A,a,U. S. Guyer,0
+383,unknown,MCQ,Which of the following people could have played Portal?,a,Ellison Kelly,C,c,David Burnford,0
+384,unknown,MCQ,Which of the following people could have played Warcraft?,c,Irena Obuchowska,B,b,Douglas Miller Reid,0
+385,unknown,MCQ,Which of the following people could have played Dominoes?,a,Gonzalo Osorio,A,a,Gonzalo Osorio,1
+386,unknown,MCQ,Which of the following people could have played Portal?,b,Shaukat Kaifi,A,a,August Hörschelmann,0
+387,unknown,MCQ,Which of the following people could have played Guitar Hero?,a,Yevgeny Nechayev,C,c,Derek Taylor,0
+388,unknown,MCQ,Which of the following people could have played Billiards?,a,Johannes von Kastl,B,b,Owen Maddock,0
+389,unknown,MCQ,Which of the following people could have played Cornhole?,d,François Edmond Rattier,A,a,Walter Raleigh Kibbe,0
+390,unknown,MCQ,Which of the following people could have played Fortnite?,c,Jules-Aristide Bourdes-Ogouliguende,D,d,Wilkinson Bird,0
+391,unknown,MCQ,Which of the following people could have played Metroid?,c,Tom Keith,C,c,Tom Keith,1
+392,unknown,MCQ,Which of the following people could have played Minecraft?,d,Marina Coffa,A,a,Christoph Etzel,0
+393,unknown,MCQ,Which of the following people could have played Civilization?,b,"Norman Charles Roettger, Jr.",A,a,John Westdahl,0
+394,unknown,MCQ,Which of the following people could have played Pinball?,d,Liliana Ragusa Gilli,B,b,Dave Dunaway,0
+395,unknown,MCQ,Which of the following people could have played Guitar Hero?,c,Redmond A. Simonsen,C,c,Redmond A. Simonsen,1
+396,unknown,MCQ,Which of the following people could have played Warcraft?,d,Ralph Wickiser,D,d,Ralph Wickiser,1
+397,unknown,MCQ,Which of the following people could have played StarCraft?,a,John Wyatt,C,c,John Harris,0
+398,unknown,MCQ,Which of the following people could have played Arkham Horror?,a,Shoshichi Kobayashi,D,d,Abby Rockefeller Mauzé,0
+399,unknown,MCQ,Which of the following people could have played Golf?,d,Adolf of Nassau-Wiesbaden-Idstein,A,a,Douglas Nicholls,0
+400,unknown,MCQ,Which of the following people could have played Super Mario Bros.?,a,Hans Knapp,A,a,Hans Knapp,1
+401,unknown,MCQ,Which of the following people could have played Clue?,b,Thomas Brocklebank,A,a,Lilli Jahn,0
+402,unknown,MCQ,Which of the following people could have played Duck Hunt?,c,Ken Shapiro,B,b,Bobby Black,0
+403,unknown,MCQ,Which of the following people could have played Catan?,d,Sims Ellison,A,a,"Simon Henry, Count of Lippe",0
+404,unknown,MCQ,Which of the following people could have played Descent: Journeys in the Dark?,a,Marvin Traub,C,c,Leigh C. Turner,0
+405,unknown,MCQ,Which of the following people could have played Tennis?,c,Louis-Zéphirin Joncas,D,d,Helene Benndorf,0
+406,unknown,MCQ,Which of the following people could have played Doom?,c,E. P. Busygin,D,d,Filip Johansson,0
+407,unknown,MCQ,Which of the following people could have played Exploding Kittens?,b,Jana Rečková,B,b,Jana Rečková,1
+408,unknown,MCQ,Which of the following people could have played Chess Boxing?,a,"David Samuel, 3rd Viscount Samuel",B,b,Božidar Knežević,0
+409,unknown,MCQ,Which of the following people could have played Billiards?,c,Theobald Schweinpeck,B,b,Johan Vreeken,0
+410,unknown,MCQ,Which of the following people could have played Pandemic?,b,Carlos Castrodeza,A,a,Gabriele Parolari,0
+411,unknown,MCQ,Which of the following people could have played Cards Against Humanity?,d,Krzysztof Gedroyć,A,a,Francesco Bascone,0
+412,unknown,MCQ,Which of the following people could have played Blood Rage?,c,Anneliese Poppinga,A,a,Davide,0
+413,unknown,MCQ,Which of the following people could have played Connect Four?,d,Frank Davenport,D,d,Frank Davenport,1
+414,unknown,MCQ,Which of the following people could have played Arkham Horror?,a,Louis Beketov Nielsen,A,a,Louis Beketov Nielsen,1
+415,unknown,MCQ,Which of the following people could have played Magic: The Gathering?,b,Věra Růžičková,A,a,Leif G. Orvan,0
+416,unknown,MCQ,Which of the following people could have played Frogger?,b,Jim Reed,B,b,Jim Reed,1
+417,unknown,MCQ,Which of the following people could have played Cornhole?,c,Vicary Gibbs,B,b,Steve Ett,0
+418,unknown,MCQ,Which of the following people could have played Tetris?,b,Viktor Pavlovitsj Koeznetsov,B,b,Viktor Pavlovitsj Koeznetsov,1
+419,unknown,MCQ,Which of the following people could have played Quake?,b,Mary Luke Tobin,C,c,Michał Działoszyński,0
+420,unknown,MCQ,Which of the following people could have played The Game of Life?,a,Francis Molard,B,b,Max Ellmer,0
+421,unknown,MCQ,Which of the following people could have played Cards Against Humanity?,d,Anatoliy Ivanovitsj Safronov,A,a,John O. Henes,0
+422,unknown,MCQ,Which of the following people could have played Go?,b,Đậu Thái,B,b,Đậu Thái,1
+423,unknown,MCQ,Which of the following people could have played Crosswords?,d,Thomas Jordan Jarvis,D,d,Thomas Jordan Jarvis,1
+424,unknown,MCQ,Which of the following people could have played Jenga?,c,Pierre Claveau,D,d,Charles Vuillermet,0
+425,unknown,MCQ,Which of the following people could have played Overwatch?,a,Don White,D,d,Mats B,0
+426,unknown,MCQ,Which of the following people could have played Minecraft?,c,John Roberts,D,d,Niels Dybeck,0
+427,unknown,MCQ,Which of the following people could have played Donkey Kong?,d,Nicolaas van 't Wout,D,d,Nicolaas van 't Wout,1
+428,unknown,MCQ,Which of the following people could have played Portal?,a,Jerry Ahern,A,a,Jerry Ahern,1
+429,unknown,MCQ,Which of the following people could have played Sumo Wrestling?,b,Otto Pflugk,A,a,Liu Ming-chao,0
+430,unknown,MCQ,Which of the following people could have played Jenga?,d,Leszek Zuchowski,B,b,John Miller,0
+431,unknown,MCQ,Which of the following people could have played Mass Effect?,d,Edmund V. Ludwig,B,b,Heinz Friedrich Wendt,0
+432,unknown,MCQ,Which of the following people could have played Fortnite?,a,Bernhard Bergmann,B,b,Pedro Larghero,0
+433,unknown,MCQ,Which of the following people could have played Air Hockey?,a,Gene Bartow,A,a,Gene Bartow,1
+434,unknown,MCQ,Which of the following people could have played Badminton?,b,Ernst Wichert,D,d,Pavol Paška,0
+435,unknown,MCQ,Which of the following people could have played Metroid?,b,Giacomo Colli,A,a,Joseph Szász,0
+436,unknown,MCQ,Which of the following people could have played Roblox?,b,Inger Hanmann,B,b,Inger Hanmann,1
+437,unknown,MCQ,Which of the following people could have played Mass Effect?,d,Alan Hacker,D,d,Alan Hacker,1
+438,unknown,MCQ,Which of the following people could have played Monopoly?,b,Matsudaira Tsuneo,A,a,Francis Boggs,0
+439,unknown,MCQ,Which of the following people could have played Paintball?,c,Les Thomas,C,c,Les Thomas,1
+440,unknown,MCQ,Which of the following people could have played Doom?,b,Henri Laborit,B,b,Henri Laborit,1
+441,unknown,MCQ,Which of the following people could have played Dota?,b,Helmut Schmidt,B,b,Helmut Schmidt,1
+442,unknown,MCQ,Which of the following people could have played The Legend of Zelda?,a,Yoshiko Yamaguchi,A,a,Yoshiko Yamaguchi,1
+443,unknown,MCQ,Which of the following people could have played Air Hockey?,d,Graham Robert Allan,D,d,Graham Robert Allan,1
+444,unknown,MCQ,Which of the following people could have played Pinball?,d,Arrigo Poz,B,b,Juozapas Paliakas,0
+445,unknown,MCQ,Which of the following people could have played Candy Land?,a,Dorothy Jeakins,A,a,Dorothy Jeakins,1
+446,unknown,MCQ,Which of the following people could have played Volleyball?,c,Charles Conrad Abbott,D,d,Paddy Anglim,0
+447,unknown,MCQ,Which of the following people could have played Magic: The Gathering?,d,Chuck Lumsden,A,a,John Orr Young,0
+448,unknown,MCQ,Which of the following people could have played Handball?,d,Keith Watson,C,c,Jack Crayston,0
+449,unknown,MCQ,Which of the following people could have played SimCity?,a,Ernesto Civardi,A,a,Ernesto Civardi,1
+450,unknown,MCQ,Which of the following people could have played Gloomhaven?,c,Julio Etchegoyen,D,d,Jaroslav Vajda,0
+451,unknown,MCQ,Which of the following people could have played Checkers?,c,Bertrade de Montfort,A,a,Zacharias Sørensen,0
+452,unknown,MCQ,Which of the following people could have played Minecraft?,b,Roy Hartsfield,A,a,Evgeniy Grigorevitsj Ledin,0
+453,unknown,MCQ,Which of the following people could have played Warcraft?,b,Marie Simon,A,a,Peter Huels,0
+454,unknown,MCQ,Which of the following people could have played Mass Effect?,a,Chayo Uriarte de Atilano,D,d,Andreas Berg,0
+455,unknown,MCQ,Which of the following people could have played Water Polo?,d,Daniel Linn Gooch,C,c,Basil Dowling,0
+456,unknown,MCQ,Which of the following people could have played Roblox?,b,Willa Baum,C,c,Fred Antoine Angermayer,0
+457,unknown,MCQ,Which of the following people could have played Handball?,d,Enrico Mazzolani,C,c,Pierre Anfosso,0
+458,unknown,MCQ,Which of the following people could have played Volleyball?,a,Hermann Leopoldi,B,b,Jonathan Magbie,0
+459,unknown,MCQ,Which of the following people could have played Pokémon Red and Blue?,c,Adrian V. Stokes,A,a,Sarah Frances Smiley,0
+460,unknown,MCQ,Which of the following people could have played Exploding Kittens?,b,Marília Pêra,B,b,Marília Pêra,1
+461,unknown,MCQ,Which of the following people could have played Pinball?,c,Bill Jennings,C,c,Bill Jennings,1
+462,unknown,MCQ,Which of the following people could have played Chess?,d,Saint Fursey,A,a,Frank Crowther Roberts,0
+463,unknown,MCQ,Which of the following people could have played Halo: Combat Evolved?,a,Roger G. DeKok,A,a,Roger G. DeKok,1
+464,unknown,MCQ,Which of the following people could have played Soccer?,a,Otto Zytphen-Adeler,B,b,Helmut Schwindt,0
+465,unknown,MCQ,Which of the following people could have played Risk?,d,Luc Van Hoyweghen,A,a,Rajmundo Kunić,0
+466,unknown,MCQ,Which of the following people could have played Chess Boxing?,d,Geoffrey Squire,D,d,Geoffrey Squire,1
+467,unknown,MCQ,Which of the following people could have played Gloomhaven?,b,Philip Osondu,B,b,Philip Osondu,1
+468,unknown,MCQ,Which of the following people could have played Blood Rage?,a,Manuel da Costa Braz,C,c,Christian Ernst Gehrich,0
+469,unknown,MCQ,Which of the following people could have played Gloomhaven?,a,John C. Buechner,A,a,John C. Buechner,1
+470,unknown,MCQ,Which of the following people could have played Baseball?,d,Robert Reyher,A,a,Ken Doraty,0
+471,unknown,MCQ,Which of the following people could have played Pandemic?,d,Jean-Jacques Pauvert,A,a,Francesco Antonio Punzi,0
+472,unknown,MCQ,Which of the following people could have played Air Hockey?,a,Augustus Lunn,D,d,Leo Kokle,0
+473,unknown,MCQ,Which of the following people could have played Final Fantasy?,c,John Michael Manos,C,c,John Michael Manos,1
+474,unknown,MCQ,Which of the following people could have played Tafl?,d,沈田子,D,d,沈田子,1
+475,unknown,MCQ,Which of the following people could have played The Last of Us?,a,Józef Balicki,C,c,Zoran Antonijević,0
+476,unknown,MCQ,Which of the following people could have played Roblox?,a,Hisayoshi Uwai,C,c,Jerzy Ziomek,0
+477,unknown,MCQ,Which of the following people could have played Monopoly?,b,Nugent Welch,A,a,Richard Corbett,0
+478,unknown,MCQ,Which of the following people could have played Dominoes?,c,Werner von Ellerbach,D,d,Gladys Rankin,0
+479,unknown,MCQ,Which of the following people could have played Pokémon Red and Blue?,c,Don Paquette,C,c,Don Paquette,1
+480,unknown,MCQ,Which of the following people could have played Ticket to Ride?,a,Denis D'Amour,D,d,John Cochrane,0
+481,unknown,MCQ,Which of the following people could have played Uno?,c,Rafal Wloczewski,C,c,Rafal Wloczewski,1
+482,unknown,MCQ,Which of the following people could have played Air Hockey?,c,Gale Sondergaard,B,b,Roman Maksimovich Volkov,0
+483,unknown,MCQ,Which of the following people could have played Golf?,c,Gerard Leeu,C,c,Gerard Leeu,1
+484,unknown,MCQ,Which of the following people could have played Battleship?,b,René Guilly,A,a,John Chamberlain Ward,0
+485,unknown,MCQ,Which of the following people could have played Scrabble?,a,Arthur Watson,A,a,Arthur Watson,1
+486,unknown,MCQ,Which of the following people could have played Volleyball?,c,Evelyn Lina Beckles,C,c,Evelyn Lina Beckles,1
+487,unknown,MCQ,Which of the following people could have played Soccer?,d,Adolf Rzepko,A,a,Alejandro Valencia Joo,0
+488,unknown,MCQ,Which of the following people could have played Tetris?,c,Matthew Mead,C,c,Matthew Mead,1
+489,unknown,MCQ,Which of the following people could have played Laser Tag?,a,Alf Jefferies,A,a,Alf Jefferies,1
+490,unknown,MCQ,Which of the following people could have played Metroid?,d,Pierre della Faille de Leverghem,A,a,Louis Rock,0
+491,unknown,MCQ,Which of the following people could have played Judo?,a,Joaquim Tomás Lobo de Ávila,B,b,Jim Stiger,0
+492,unknown,MCQ,Which of the following people could have played Scythe?,b,Tony Vos,B,b,Tony Vos,1
+493,unknown,MCQ,Which of the following people could have played Paintball?,c,Don Sharpe,C,c,Don Sharpe,1
+494,unknown,MCQ,Which of the following people could have played Age of Empires?,d,Peter J. Huggins,A,a,Guy Palmer,0
+495,unknown,MCQ,Which of the following people could have played Minecraft?,b,Andrzej Kopczyński,A,a,Christopher Morris,0
+496,unknown,MCQ,Which of the following people could have played Star Wars: X-Wing Miniatures?,c,Noel Mkandawire,D,d,Harvey Fergusson,0
+497,unknown,MCQ,Which of the following people could have played Exploding Kittens?,b,Zhao Meng,A,a,Jacob P. Leese,0
+498,unknown,MCQ,Which of the following people could have played Laser Tag?,c,Enzo Vecchiè,A,a,Hubert Schiffer,0
+499,unknown,MCQ,Which of the following people could have played Snooker?,d,Anna Feldhusen,D,d,Anna Feldhusen,1
+500,unknown,MCQ,Which of the following people could have played Overwatch?,d,Patricia Goldsmith,D,d,Patricia Goldsmith,1

@@ -1,0 +1,132 @@
+question_id,template_type,question_format,question,gold_answer_letter,gold_answer_text,model_raw_answer,model_parsed_letter,model_parsed_text,is_correct
+1,unknown,TF,"If King Louis XIV sent an envoy to the Ottoman Empire ruled by Sultan Ahmed III in 1705, it strengthened the diplomatic relations between France and the Ottoman Empire.",a,True,False,b,False,0
+2,unknown,TF,King Henry VIII sent an envoy to the Holy Roman Empire ruled by Emperor Charles V in 1520 to negotiate a marriage alliance.,a,True,True,a,True,1
+3,unknown,TF,"If Tsar Peter the Great sent an envoy to Qing China in 1692, it was intended to establish trade agreements.",a,True,True,a,True,1
+4,unknown,TF,King George III sent an envoy to France ruled by Louis XVI in 1785 to request military support during the American Revolution.,b,False,False,b,False,1
+5,unknown,TF,"If King Akbar sent an envoy to the Safavid Empire ruled by Shah Abbas I in 1610, it was for discussing regional trade routes.",a,True,False,b,False,0
+6,unknown,TF,King Ferdinand II sent an envoy to England ruled by James I in 1612 to negotiate a dynastic marriage.,a,True,True,a,True,1
+7,unknown,TF,King Philip II sent an envoy to the Ottoman Empire ruled by Sultan Suleiman I in 1565 to propose a military alliance.,b,False,False,b,False,1
+8,unknown,TF,Tsar Nicholas I sent an envoy to Prussia ruled by Frederick William IV in 1830 to strengthen economic ties.,a,True,False,b,False,0
+9,unknown,TF,King Charles VII of France sent an envoy to England ruled by Henry VI in 1445 to negotiate a ceasefire.,a,True,True,a,True,1
+10,unknown,TF,"If Emperor Meiji sent an envoy to Germany ruled by Wilhelm II in 1890, it was to adopt Western military practices.",a,True,True.,a,True,1
+11,unknown,MCQ,Which king sent an envoy to negotiate a treaty with the Ming Dynasty in 1403?,c,King Taejong of Joseon,C,c,King Taejong of Joseon,1
+12,unknown,MCQ,King Louis XV sent an envoy to the Ottoman Empire in 1735 primarily to:,b,Establish trade relations,B,b,Establish trade relations,1
+13,unknown,MCQ,King Gustav III of Sweden sent an envoy to Russia ruled by Catherine the Great in 1775 primarily to:,a,Negotiate territorial boundaries,B,b,Seek an alliance against Denmark,0
+14,unknown,MCQ,Which ruler sent an envoy to the Mughal Empire in 1612?,a,King James I of England,A,a,King James I of England,1
+15,unknown,MCQ,King Edward III sent an envoy to France in 1346 to:,a,Propose a peace treaty,A,a,Propose a peace treaty,1
+16,unknown,TF,King Alfonso V of Portugal sent an envoy to the Kingdom of Kongo in 1491 to establish trade relations.,a,True,False,b,False,0
+17,unknown,TF,"If Emperor Akbar sent an envoy to the Ottoman Empire in 1575, it was to negotiate a military alliance.",b,False,False,b,False,1
+18,unknown,TF,King Charles II of England sent an envoy to France in 1670 to negotiate trade treaties.,a,True,True,a,True,1
+19,unknown,TF,King Louis XVI sent an envoy to Austria in 1770 to arrange a royal marriage.,a,True,False,b,False,0
+20,unknown,TF,Tsar Alexander I sent an envoy to Prussia in 1807 to discuss forming an alliance against France.,a,True,False,b,False,0
+21,unknown,TF,King Henry V sent an envoy to the Holy Roman Empire in 1415 to request military aid during the Hundred Years’ War.,b,False,False,b,False,1
+22,unknown,TF,King Charles I of Spain sent an envoy to England in 1525 to negotiate peace terms.,a,True,False,b,False,0
+23,unknown,MCQ,Which king sent an envoy to the Safavid Empire in 1590 to discuss trade routes?,b,King Henry IV of France,B,b,King Henry IV of France,1
+24,unknown,TF,King Gustavus Adolphus sent an envoy to France in 1621 to request military support against the Habsburgs.,a,True,False,b,False,0
+25,unknown,MCQ,Which ruler sent an envoy to the Ming Dynasty in 1421 to establish trade connections?,b,King Sejong of Joseon,B,b,King Sejong of Joseon,1
+26,unknown,TF,King Frederick II of Prussia sent an envoy to Russia in 1762 to negotiate territorial settlements.,a,True,True,a,True,1
+27,unknown,TF,King Louis XIII sent an envoy to Spain in 1615 to arrange a dynastic marriage.,a,True,True,a,True,1
+28,unknown,MCQ,Which king sent an envoy to the Ottoman Empire in 1453 after the fall of Constantinople?,a,King Louis XI of France,D,d,King Charles VII of France,0
+29,unknown,TF,King James I of England sent an envoy to Spain in 1604 to negotiate the Treaty of London.,a,True,True,a,True,1
+30,unknown,TF,King Charles IX of France sent an envoy to the Ottoman Empire in 1562 to form a military alliance against Spain.,a,True,False,b,False,0
+31,unknown,TF,King Manuel I of Portugal sent an envoy to Ethiopia in 1520 to establish trade and religious ties.,a,True,True,a,True,1
+32,unknown,MCQ,Which king sent an envoy to Japan in 1613 to strengthen trade relations?,a,King James I of England,A,a,King James I of England,1
+33,unknown,TF,King Peter the Great sent an envoy to the Netherlands in 1697 to study shipbuilding and naval technology.,a,True,True,a,True,1
+34,unknown,TF,King Henry II of France sent an envoy to Scotland in 1550 to negotiate an alliance against England.,a,True,True,a,True,1
+35,unknown,MCQ,Which ruler sent an envoy to the Ottoman Empire in 1700 to discuss trade and diplomatic relations?,c,King Peter I of Russia,C,c,King Peter I of Russia,1
+36,unknown,TF,King Charles II of Spain sent an envoy to France in 1679 to negotiate a trade agreement.,a,True,False,b,False,0
+37,unknown,TF,"If King Edward VI sent an envoy to Scotland in 1548, it was to request military support.",a,True,False,b,False,0
+38,unknown,TF,King Louis XIV sent an envoy to Spain in 1660 to discuss dynastic marriages.,a,True,True,a,True,1
+39,unknown,TF,King Ferdinand III sent an envoy to France in 1635 to negotiate peace during the Thirty Years’ War.,a,True,False,b,False,0
+40,unknown,TF,King Charles V sent an envoy to England in 1530 to arrange a dynastic marriage.,a,True,True,a,True,1
+41,unknown,MCQ,Which ruler sent an envoy to the Safavid Empire in 1620 to discuss regional trade?,b,King Louis XIII of France,A,a,King James I of England,0
+42,unknown,TF,King Frederick III of Denmark sent an envoy to Sweden in 1650 to discuss territorial boundaries.,a,True,False,b,False,0
+43,unknown,TF,King Henry VII sent an envoy to France in 1485 to negotiate a dynastic marriage.,a,True,False,b,False,0
+44,unknown,MCQ,Which king sent an envoy to Japan in 1582 to establish trade relations?,a,King Philip II of Spain,A,a,King Philip II of Spain,1
+45,unknown,TF,King Louis XV sent an envoy to Prussia in 1740 to discuss alliances against Austria.,a,True,True,a,True,1
+46,unknown,TF,King Charles IX of France sent an envoy to England in 1560 to negotiate a peace treaty.,a,True,False,b,False,0
+47,unknown,MCQ,Which king sent an envoy to the Ottoman Empire in 1683 to request military assistance?,d,King John III of Poland,D,d,King John III of Poland,1
+48,unknown,TF,King Henry IV of France sent an envoy to Spain in 1598 to negotiate the Treaty of Vervins.,a,True,True,a,True,1
+49,unknown,TF,King Gustav III of Sweden sent an envoy to France in 1780 to request military support.,b,False,False,b,False,1
+50,unknown,TF,King James II of England sent an envoy to France in 1685 to seek support during political unrest.,a,True,True,a,True,1
+51,unknown,MCQ,Which ruler sent an envoy to the Mughal Empire in 1615 to establish trade relations?,a,King James I of England,A,a,King James I of England,1
+52,unknown,TF,King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade agreements.,a,True,False,b,False,0
+53,unknown,TF,King Louis XIV sent an envoy to England in 1670 to propose a dynastic marriage.,a,True,False,b,False,0
+54,unknown,MCQ,Which king sent an envoy to Russia in 1699 to adopt Western military practices?,c,Peter the Great of Russia,C,c,Peter the Great of Russia,1
+55,unknown,TF,King Frederick II of Prussia sent an envoy to Austria in 1740 to negotiate territorial disputes.,a,True,False,b,False,0
+56,unknown,TF,King Edward VI of England sent an envoy to France in 1551 to negotiate a peace treaty.,a,True,True,a,True,1
+57,unknown,MCQ,Which ruler sent an envoy to the Ottoman Empire in 1500 to establish trade agreements?,d,King Manuel I of Portugal,D,d,King Manuel I of Portugal,1
+58,unknown,TF,King Charles XI of Sweden sent an envoy to France in 1675 to request military assistance.,a,True,False,b,False,0
+59,unknown,TF,King Philip IV of Spain sent an envoy to France in 1628 to negotiate peace during the Thirty Years’ War.,a,True,False,b,False,0
+60,unknown,MCQ,Which king sent an envoy to Japan in 1614 to establish trade and diplomatic relations?,a,King James I of England,A,a,King James I of England,1
+61,unknown,TF,King Louis XV of France sent an envoy to Austria in 1736 to negotiate marriage alliances.,a,True,False,b,False,0
+62,unknown,TF,King Charles I of England sent an envoy to France in 1625 to seek military support.,a,True,False,b,False,0
+63,unknown,MCQ,Which ruler sent an envoy to the Mughal Empire in 1620 to establish diplomatic and trade relations?,a,King James I of England,A,a,King James I of England,1
+64,unknown,TF,King Ferdinand IV of Naples sent an envoy to France in 1790 to negotiate peace terms.,a,True,False,b,False,0
+65,unknown,TF,King Henry VIII sent an envoy to Scotland in 1543 to negotiate a marriage alliance for his son Edward.,a,True,True,a,True,1
+66,unknown,TF,King Charles XII of Sweden sent an envoy to the Ottoman Empire in 1710 to seek support against Russia.,a,True,True,a,True,1
+67,unknown,TF,King Louis XIII of France sent an envoy to the Holy Roman Empire in 1618 to negotiate peace during the early Thirty Years’ War.,a,True,False,b,False,0
+68,unknown,MCQ,Which ruler sent an envoy to China in 1793 to present diplomatic gifts and establish trade relations?,a,King George III of England,A,a,King George III of England,1
+69,unknown,TF,King Peter the Great sent an envoy to England in 1698 to study shipbuilding techniques.,a,True,True,a,True,1
+70,unknown,TF,King Henry VII of England sent an envoy to Spain in 1489 to negotiate trade and dynastic matters.,a,True,True,a,True,1
+71,unknown,MCQ,Which king sent an envoy to the Ottoman Empire in 1609 to discuss peace and trade?,a,King James I of England,A,a,King James I of England,1
+72,unknown,TF,King Louis XIV sent an envoy to the Netherlands in 1672 to discuss military alliances.,a,True,True,a,True,1
+73,unknown,TF,King Ferdinand II of Aragon sent an envoy to England in 1501 to arrange a marriage alliance.,a,True,True,a,True,1
+74,unknown,MCQ,Which ruler sent an envoy to the Safavid Empire in 1615 to negotiate trade routes?,b,King Louis XIII of France,A,a,King James I of England,0
+75,unknown,TF,King Charles II of England sent an envoy to Spain in 1670 to negotiate a trade treaty.,a,True,True,a,True,1
+76,unknown,TF,King Edward III of England sent an envoy to France in 1337 to negotiate peace during the Hundred Years’ War.,a,True,False,b,False,0
+77,unknown,MCQ,Which king sent an envoy to Japan in 1613 to establish trade relations?,a,King James I of England,A,a,King James I of England,1
+78,unknown,TF,King Gustav III of Sweden sent an envoy to Russia in 1772 to negotiate territorial agreements.,a,True,False,b,False,0
+79,unknown,TF,King Philip IV of Spain sent an envoy to France in 1629 to negotiate peace during the Thirty Years’ War.,a,True,False,b,False,0
+80,unknown,MCQ,Which ruler sent an envoy to the Mughal Empire in 1610 to establish diplomatic and trade relations?,a,King James I of England,A,a,King James I of England,1
+81,unknown,TF,King Charles I of England sent an envoy to Scotland in 1633 to negotiate dynastic matters.,a,True,True,a,True,1
+82,unknown,TF,King Louis XV sent an envoy to Spain in 1735 to discuss alliances and dynastic marriages.,a,True,False,b,False,0
+83,unknown,MCQ,Which king sent an envoy to the Ottoman Empire in 1505 to establish trade agreements?,d,King Manuel I of Portugal,D,d,King Manuel I of Portugal,1
+84,unknown,TF,King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade and political agreements.,a,True,True,a,True,1
+85,unknown,TF,King Louis XIV sent an envoy to the Holy Roman Empire in 1670 to discuss alliances.,a,True,True,a,True,1
+86,unknown,MCQ,Which ruler sent an envoy to China in 1793 to establish diplomatic relations?,a,King George III of England,A,a,King George III of England,1
+87,unknown,TF,King Peter the Great sent an envoy to the Netherlands in 1697 to study naval technology.,a,True,True,a,True,1
+88,unknown,TF,King Henry VII of England sent an envoy to Spain in 1485 to negotiate dynastic and trade agreements.,a,True,False,b,False,0
+91,unknown,TF,King Edward III of England sent an envoy to France in 1346 to negotiate peace during the Hundred Years’ War.,a,True,False,b,False,0
+92,unknown,MCQ,Which ruler sent an envoy to Japan in 1614 to establish trade relations?,a,King James I of England,A,a,King James I of England,1
+93,unknown,TF,King Gustav III of Sweden sent an envoy to Russia in 1772 to negotiate territorial agreements.,a,True,False,b,False,0
+94,unknown,TF,King Philip IV of Spain sent an envoy to France in 1629 to negotiate peace during the Thirty Years’ War.,a,True,False,b,False,0
+95,unknown,MCQ,Which ruler sent an envoy to the Mughal Empire in 1610 to establish diplomatic and trade relations?,a,King James I of England,A,a,King James I of England,1
+96,unknown,TF,King Charles I of England sent an envoy to Scotland in 1633 to negotiate dynastic matters.,a,True,True,a,True,1
+97,unknown,TF,King Louis XV sent an envoy to Spain in 1735 to discuss alliances and dynastic marriages.,a,True,False,b,False,0
+98,unknown,MCQ,Which king sent an envoy to the Ottoman Empire in 1505 to establish trade agreements?,d,King Manuel I of Portugal,D,d,King Manuel I of Portugal,1
+99,unknown,TF,King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade and political agreements.,a,True,True,a,True,1
+100,unknown,TF,King Louis XIV sent an envoy to the Holy Roman Empire in 1670 to discuss alliances.,a,True,True,a,True,1
+101,unknown,MCQ,Which ruler sent an envoy to China in 1793 to establish diplomatic relations?,a,King George III of England,A,a,King George III of England,1
+102,unknown,TF,King Peter the Great sent an envoy to the Netherlands in 1697 to study naval technology.,a,True,True,a,True,1
+103,unknown,TF,King Henry VII of England sent an envoy to Spain in 1485 to negotiate dynastic and trade agreements.,a,True,False,b,False,0
+104,unknown,MCQ,Which king sent an envoy to the Safavid Empire in 1610 to discuss trade?,b,King Louis XIII of France,A,a,King James I of England,0
+105,unknown,TF,King Charles II of England sent an envoy to France in 1670 to negotiate trade agreements.,a,True,True,a,True,1
+106,unknown,TF,King Edward III of England sent an envoy to France in 1346 to negotiate peace during the Hundred Years’ War.,a,True,False,b,False,0
+107,unknown,MCQ,Which ruler sent an envoy to Japan in 1614 to establish trade relations?,a,King James I of England,A,a,King James I of England,1
+108,unknown,TF,King Gustav III of Sweden sent an envoy to Russia in 1772 to negotiate territorial agreements.,a,True,False,b,False,0
+109,unknown,TF,King Philip IV of Spain sent an envoy to France in 1629 to negotiate peace during the Thirty Years’ War.,a,True,False,b,False,0
+110,unknown,MCQ,Which ruler sent an envoy to the Mughal Empire in 1610 to establish diplomatic and trade relations?,a,King James I of England,A,a,King James I of England,1
+111,unknown,TF,King Charles I of England sent an envoy to Scotland in 1633 to negotiate dynastic matters.,a,True,True,a,True,1
+112,unknown,TF,King Louis XV sent an envoy to Spain in 1735 to discuss alliances and dynastic marriages.,a,True,False,b,False,0
+113,unknown,MCQ,Which king sent an envoy to the Ottoman Empire in 1505 to establish trade agreements?,d,King Manuel I of Portugal,D,d,King Manuel I of Portugal,1
+114,unknown,TF,King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade and political agreements.,a,True,True,a,True,1
+115,unknown,TF,King Louis XIV sent an envoy to the Holy Roman Empire in 1670 to discuss alliances.,a,True,True,a,True,1
+116,unknown,MCQ,Which ruler sent an envoy to China in 1793 to establish diplomatic relations?,a,King George III of England,A,a,King George III of England,1
+117,unknown,TF,King Peter the Great sent an envoy to the Netherlands in 1697 to study naval technology.,a,True,True,a,True,1
+118,unknown,TF,King Henry VII of England sent an envoy to Spain in 1485 to negotiate dynastic and trade agreements.,a,True,False,b,False,0
+119,unknown,MCQ,Which king sent an envoy to the Safavid Empire in 1610 to discuss trade?,b,King Louis XIII of France,A,a,King James I of England,0
+120,unknown,TF,King Charles II of England sent an envoy to France in 1670 to negotiate trade agreements.,a,True,True,a,True,1
+121,unknown,TF,King Edward III of England sent an envoy to France in 1346 to negotiate peace during the Hundred Years’ War.,a,True,False,b,False,0
+122,unknown,MCQ,Which ruler sent an envoy to Japan in 1614 to establish trade relations?,a,King James I of England,A,a,King James I of England,1
+123,unknown,TF,King Gustav III of Sweden sent an envoy to Russia in 1772 to negotiate territorial agreements.,a,True,False,b,False,0
+124,unknown,TF,King Philip IV of Spain sent an envoy to France in 1629 to negotiate peace during the Thirty Years’ War.,a,True,False,b,False,0
+125,unknown,MCQ,Which ruler sent an envoy to the Mughal Empire in 1610 to establish diplomatic and trade relations?,a,King James I of England,A,a,King James I of England,1
+126,unknown,TF,King Charles I of England sent an envoy to Scotland in 1633 to negotiate dynastic matters.,a,True,True,a,True,1
+127,unknown,TF,King Louis XV sent an envoy to Spain in 1735 to discuss alliances and dynastic marriages.,a,True,False,b,False,0
+128,unknown,MCQ,Which king sent an envoy to the Ottoman Empire in 1505 to establish trade agreements?,d,King Manuel I of Portugal,D,d,King Manuel I of Portugal,1
+129,unknown,TF,King Charles II of England sent an envoy to the Netherlands in 1660 to negotiate trade and political agreements.,a,True,True,a,True,1
+130,unknown,TF,King Louis XIV sent an envoy to the Holy Roman Empire in 1670 to discuss alliances.,a,True,True,a,True,1
+131,unknown,MCQ,Which ruler sent an envoy to China in 1793 to establish diplomatic relations?,a,King George III of England,A,a,King George III of England,1
+132,unknown,TF,King Peter the Great sent an envoy to the Netherlands in 1697 to study naval technology.,a,True,True,a,True,1
+133,unknown,TF,King Henry VII of England sent an envoy to Spain in 1485 to negotiate dynastic and trade agreements.,a,True,False,b,False,0

@@ -1,0 +1,501 @@
+question_id,template_type,question_format,question,gold_answer_letter,gold_answer_text,model_raw_answer,model_parsed_letter,model_parsed_text,is_correct
+1,unknown,TF,"Given the Battle of Singapore and the Fernando Collor's Impeachment, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+2,unknown,TF,"Given the Boris Yeltsin Elected as First President of Russia and the The Big Freeze of 1963, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+3,unknown,TF,"Given the Formation of the Saudi Arabian National Guard and the Abolition of Slavery Enforced, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+4,unknown,TF,"Given the Separation and Independence and the Zika Virus Outbreak, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+5,unknown,TF,"Given the Reza Shah's Modernization Efforts and the 1978 FIFA World Cup Victory, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+6,unknown,TF,"Given the North Korea's First Nuclear Test and the Egyptian Revolution of 1952, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+7,unknown,TF,"Given the Pulwama Terrorist Attack and the MV Doña Paz Collision, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+8,unknown,TF,"Given the East Pakistan demands autonomy and the Affordable Care Act (Obamacare) Implementation, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+9,unknown,TF,"Given the Homosexual Law Reform Act and the Norwegian Independence, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+10,unknown,TF,"Given the Whitlam Government's Dismissal and the Union of Castile and Aragon, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+11,unknown,TF,"Given the 1967 Referendum on Indigenous Australians and the Expulsion of the Jews, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+12,unknown,TF,"Given the Royal Commission into Institutional Responses... and the Spanish Constitution of 1978, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+13,unknown,TF,"Given the Māori Seats Established in Parliament and the Christianization of Denmark, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+14,unknown,TF,"Given the Panama Papers Case & Disqualification of PM Nawaz Sharif and the Housing Market Crash and Great Recession, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+15,unknown,TF,"Given the Right to Information Act Enacted and the 2004 Tsunami Impact, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+16,unknown,TF,"Given the Constitutional Revolution and the Arrival of the Spanish and the Fall of Tenochtitlán, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+17,unknown,TF,"Given the Merger with Malaysia and the Dilma Rousseff's Impeachment, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+18,unknown,TF,"Given the The Grand Canal Construction and the Statute of Westminster, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+19,unknown,TF,"Given the Establishment of the People's Republic of China and the Battle of Trafalgar, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+20,unknown,TF,"Given the Pakistan Joins the United Nations and the Paris Agreement Rejoining, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+21,unknown,TF,"Given the Lê Dynasty Restoration and the Independence from France, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+22,unknown,TF,"Given the Malala Yousafzai's Nobel Peace Prize and the Transcontinental Railroad Completed, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+23,unknown,TF,"Given the Resource Management Act Enacted and the Second Schleswig War, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+24,unknown,TF,"Given the Women's Franchise Act Passed and the Battle of Vimy Ridge, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+25,unknown,TF,"Given the Return of Macau and the Signing of the Magna Carta, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+26,unknown,TF,"Given the May Fourth Movement and the Official Languages Act, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+27,unknown,TF,"Given the Waitangi Tribunal Established and the Signing of the Treaty of Fredrikshamn, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+28,unknown,TF,"Given the Sook Ching Massacre and the Plano Real Economic Stabilization, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+29,unknown,TF,"Given the Establishment of the Kingdom of Saudi Arabia and the Coup d'état Leads to Mugabe's Resignation, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+30,unknown,TF,"Given the Kandahar Hijacking (IC 814) and the 1MDB Scandal, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+31,unknown,TF,"Given the Battle of Red Cliffs and the Balfour Declaration of 1926, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+32,unknown,TF,"Given the Forced Sedentarization of Nomads and the Mexican War of Independence Begins, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+33,unknown,TF,"Given the Establishment of Joseon Dynasty and the Independence from Britain, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+34,unknown,TF,"Given the Marco Polo's Visit to Yuan Dynasty China and the The Restoration of the Monarchy, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+35,unknown,TF,"Given the End of the Civil War and the French and Indian War, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+36,unknown,TF,"Given the Russian Civil War and the Grenfell Tower Fire, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+37,unknown,TF,"Given the Armistice Agreement and the Independence from France, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+38,unknown,TF,"Given the Establishment of the Colony of Van Diemen's Land and the Fall of Mussolini, it is possible for someone to have lived during both of them.",b,False,True.,a,True,0
+39,unknown,TF,"Given the Establishment of the National Assembly and the Return to Democracy, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+40,unknown,TF,"Given the Korean War and the Independence from Britain, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+41,unknown,TF,"Given the Founding of the People's Republic of China and the Reform Act 1832, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+42,unknown,TF,"Given the First Round Table Conference and the Civil Rights Act of 1964, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+43,unknown,TF,"Given the ANZUS Treaty Suspension and the Lapland War, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+44,unknown,TF,"Given the Boxer Rebellion and the Creation of the Canadian Flag, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+45,unknown,TF,"Given the Assassination of Benazir Bhutto and the Roe v. Wade Supreme Court Decision, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+46,unknown,TF,"Given the Cable Car Disaster and the The Peace of Augsburg, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+47,unknown,TF,"Given the Federation of Australia and the Establishment of the Spanish Inquisition, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+48,unknown,TF,"Given the 18th Amendment to the Constitution and the Dred Scott Decision, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+49,unknown,TF,"Given the India's First Transgender University and the Pakatan Harapan Electoral Victory, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+50,unknown,TF,"Given the Establishment of the Provisional Government and the Independence from France, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+51,unknown,TF,"Given the Beslan School Siege and the Launch of the First Crusade, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+52,unknown,TF,"Given the Labour Party Elected for the First Time and the Black Death in Norway, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+53,unknown,TF,"Given the Maria Hertogh Riots and the Mensalão Scandal, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+54,unknown,TF,"Given the Mongol Conquest and the Yuan Dynasty Establishment and the Apology to Residential School Survivors, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+55,unknown,TF,"Given the Great Leap Forward and the Queen Victoria's Reign Begins, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+56,unknown,TF,"Given the Launch of Sputnik 1 and the UK Hosts the G8 Summit, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+57,unknown,TF,"Given the Constitutional Crisis in Russia and the UK Hosts the First Rugby World Cup, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+58,unknown,TF,"Given the Surrender of Singapore to Japan and the The Investiture Controversy, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+59,unknown,TF,"Given the Chernobyl Nuclear Disaster and the The Armada Portrait of Elizabeth I, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+60,unknown,TF,"Given the China Hosts the Olympic Games and the Red River Resistance, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+61,unknown,TF,"Given the Eureka Stockade and the Signing of the Treaty of Rome, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+62,unknown,TF,"Given the Decriminalization of Homosexuality and the Rwandan Genocide, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+63,unknown,TF,"Given the Korean War and the Independence from Britain, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+64,unknown,TF,"Given the Lahore Resolution (Pakistan Resolution) and the First Woman Vice President Elected, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+65,unknown,TF,"Given the Manchu Invasions of Korea and the Mahdist War, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+66,unknown,TF,"Given the First General Elections and the ISIS Captures Mosul, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+67,unknown,TF,"Given the Xinhai Revolution and the End of Imperial China and the Fort McMurray Wildfire, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+68,unknown,TF,"Given the Gwadar Port Development and the Attack on Pearl Harbor, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+69,unknown,TF,"Given the Construction of the Great Wall and the Canada Act 1982 (Patriation of the Constitution), it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+70,unknown,TF,"Given the Australian Involvement in WWII Begins and the Reconquista Completion, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+71,unknown,TF,"Given the Port Arthur Massacre and the Exhumation of Francisco Franco, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+72,unknown,TF,"Given the Economic Development and the Amazon Rainforest Wildfires, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+73,unknown,TF,"Given the August Revolution and the Namibian Independence, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+74,unknown,TF,"Given the Treaty of Punakha and the Napoleonic Wars and the Battle of Leipzig, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+75,unknown,TF,"Given the Mongol Invasion of Rus' and the National Health Service Established, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+76,unknown,TF,"Given the Declaration of Independence and the Land Reform Program Begins, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+77,unknown,TF,"Given the Auckland Harbour Bridge Protests and the Algerian War of Independence, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+78,unknown,TF,"Given the New Zealand Bill of Rights Act and the Foundation of Marrakech, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+79,unknown,TF,"Given the G20 Summit Hosted in Riyadh and the Real Plan Implementation, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+80,unknown,TF,"Given the Made in China 2025 Initiative Announced and the Abolition of the Slave Trade Act, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+81,unknown,TF,"Given the Founding of the Song Dynasty and the NAFTA Agreement Signed, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+82,unknown,TF,"Given the Income Doubling Plan Announced and the Punic Wars Begin, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+83,unknown,TF,"Given the Korean Liberation and the Ethiopian Revolution, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+84,unknown,TF,"Given the Bengal Famine of 1943 and the Vietnam War, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+85,unknown,TF,"Given the Waitangi Day Established and the Liberation of Denmark, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+86,unknown,TF,"Given the Osaka Expo '70 and the Crowning of Charlemagne, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+87,unknown,TF,"Given the Introduction of Buddhism and the Battle of Stalingrad, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+88,unknown,TF,"Given the Arrival of the First Fleet and the Italy Enters World War II, it is possible for someone to have lived during both of them.",b,False,True.,a,True,0
+89,unknown,TF,"Given the Mabo v Queensland Decision and the 2004 Madrid Train Bombings, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+90,unknown,TF,"Given the Trần Dynasty Defeats Mongol Invasions and the Independence from Belgium, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+91,unknown,TF,"Given the First Saudi State Established and the Joseph Kony Insurgency Declines, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+92,unknown,TF,"Given the Operation Blue Star and the First Democratic Elections, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+93,unknown,TF,"Given the Faisal I Becomes King of Iraq and the Economic Crisis and IMF Loan, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+94,unknown,TF,"Given the Treaty of Sinchula and the May Revolution, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+95,unknown,TF,"Given the Independence from British Rule and the Marshall Plan Implementation, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+96,unknown,TF,"Given the Ikhwan Revolt and the Seleka Rebellion Begins, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+97,unknown,TF,"Given the Xi Jinping Assumes Presidency and the Great Fire of London, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+98,unknown,TF,"Given the Kargil Conflict and the Assassination of President John F. Kennedy, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+99,unknown,TF,"Given the Kartarpur Corridor Opening and the Charlottesville Rally and Violence, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+100,unknown,TF,"Given the Invention of Printing Technology and the Discovery of Oil in Alberta, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+101,unknown,TF,"Given the British Mandate of Mesopotamia and the The Foundation of the Kingdom of Prussia, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+102,unknown,TF,"Given the Silk Road Establishment and the Klondike Gold Rush, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+103,unknown,TF,"Given the Mongol Invasions of Japan and the Napoleonic Code Enacted, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+104,unknown,TF,"Given the Aum Shinrikyo Tokyo Subway Sarin Attack and the Leonardo da Vinci Completes the Mona Lisa, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+105,unknown,TF,"Given the Onin War and the May 1968 Protests, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+106,unknown,TF,"Given the Gia Long Becomes Emperor and the Independence from France, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+107,unknown,TF,"Given the Foundation of Baghdad and the Construction of the Berlin Wall, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+108,unknown,TF,"Given the Baghdad Pact and the First Presidency of Juan Domin go Perón, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+109,unknown,TF,"Given the Korean War Involvement and the Peninsular War, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+110,unknown,TF,"Given the Taisho Democracy and the Louis XVI Executed, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+111,unknown,TF,"Given the Khashoggi Assassination and the Direct Elections Now Campaign, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+112,unknown,TF,"Given the THAAD Deployment Controversy and the Comprehensive Peace Agreement, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+113,unknown,TF,"Given the 2016 Uri Attack and Subsequent Surgical Strikes and the Declaration of Independence, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+114,unknown,TF,"Given the Abolition of Instant Triple Talaq and the SilkAir Flight 185, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+115,unknown,TF,"Given the The Founding of Melbourne and the Treaty of the Pyrenees, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+116,unknown,TF,"Given the Australia Acts 1986 and the Catalan Independence Referendum, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+117,unknown,TF,"Given the October Revolution and the Scottish Independence Referendum, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+118,unknown,TF,"Given the Battle of Điện Biên Phủ and the End of Sierra Leone Civil War, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+119,unknown,TF,"Given the India's First Hyperloop Project Announcement and the New Economic Policy Introduced, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+120,unknown,TF,"Given the Sakoku Edict of 1635 and the Battle of Agincourt, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+121,unknown,TF,"Given the Victory over Terrorism Day and the Trail of Tears, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+122,unknown,TF,"Given the 2013 Uttarakhand Floods and the Japan Airlines Flight 123, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+123,unknown,TF,"Given the Japanese Occupation of Malaya and the Conquest of the Desert, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+124,unknown,TF,"Given the Fall of Saigon and the Independence from Britain, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+125,unknown,TF,"Given the The Great Depression Hits Australia and the 2006 Winter Olympics in Turin, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+126,unknown,TF,"Given the Formation of the United Malays National Organisation and the Beginning of World War II, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+127,unknown,TF,"Given the First Executive President Elected and the Alaska Purchase, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+128,unknown,TF,"Given the Article 370 Revocation for Jammu & Kashmir and the Presidential Transition, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+129,unknown,TF,"Given the Introduction of the New Zealand Constitution Act and the Leyes de Indias, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+130,unknown,TF,"Given the Indus Water Treaty and the Launch of James Webb Space Telescope, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+131,unknown,TF,"Given the State Housing Introduced and the Winter War, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+132,unknown,TF,"Given the Comprehensive Agreement on Investment with the EU and the Women's Suffrage Achieved, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+133,unknown,TF,"Given the Collectivization in Uzbekistan and the Falklands War, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+134,unknown,TF,"Given the Pueblo Incident and the Independence from Britain, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+135,unknown,TF,"Given the Destruction of the First Saudi State and the Fall of Gaddafi, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+136,unknown,TF,"Given the Vietnam Joins the World Trade Organization and the Independence from Britain, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+137,unknown,TF,"Given the Partition Plan Announced and the Watergate Scandal, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+138,unknown,TF,"Given the Karachi Nuclear Power Plant Operational and the Prohibition Era Begins, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+139,unknown,TF,"Given the Moscow Conference of Foreign Ministers and the Discovery of Penicillin, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+140,unknown,TF,"Given the Annexation of Hejaz and the Coup d'état, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+141,unknown,TF,"Given the Abolition of FATA and the Withdrawal from Afghanistan, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+142,unknown,TF,"Given the Introduction of Islam officially and the Congress of Vienna, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+143,unknown,TF,"Given the Apology to the Stolen Generations and the ETA's Permanent Ceasefire, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+144,unknown,TF,"Given the Introduction of UPI (Unified Payment Interface) and the Pakistan International Airlines Flight 268, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+145,unknown,TF,"Given the Fall of the Ming Dynasty and Rise of the Qing and the Vancouver Winter Olympics, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+146,unknown,TF,"Given the Cultural Revolution and the Quebec Referendum on Sovereignty, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+147,unknown,TF,"Given the Arrival of Vasco da Gama and the Independence from the Soviet Union, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+148,unknown,TF,"Given the Putin's First Presidential Term and the Signing of the Treaty of Verdun, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+149,unknown,TF,"Given the Purna Swaraj Declaration and the September 11 Attacks, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+150,unknown,TF,"Given the Sultanate Becomes a British Protectorate and the Kristallnacht (Night of Broken Glass), it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+151,unknown,TF,"Given the Constitution of India Adopted and the Fall of the Berlin Wall, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+152,unknown,TF,"Given the Anzac Forces Land at Gallipoli and the Establishment of the Kalmar Union, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+153,unknown,TF,"Given the Treaty of Waitangi Act 1975 and the Union with Sweden, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+154,unknown,TF,"Given the Kyoto Protocol on Climate Change and the Galileo Galilei's Telescope Presentation, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+155,unknown,TF,"Given the SARS Epidemic and the Good Friday Agreement, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+156,unknown,TF,"Given the Introduction of Nuclear Free Zone and the First Schleswig War, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+157,unknown,TF,"Given the Death of Joseph Stalin and the Queen Elizabeth II's Coronation, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+158,unknown,TF,"Given the Iwakura Mission and the Paris Commune, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+159,unknown,TF,"Given the Creation of Pakistan and the George Floyd Protests and Derek Chauvin Trial, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+160,unknown,TF,"Given the Taika Reforms and the Beginning of the French Renaissance, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+161,unknown,TF,"Given the Treaty of Friendship and Alliance and the FIFA World Cup Victory, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+162,unknown,TF,"Given the Taj Mahal and the #MeToo Movement, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+163,unknown,TF,"Given the Unification of Bhutan and the Treaty on the Final Settlement with Respect to Germany, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+164,unknown,TF,"Given the Foundation of Modern Iraq and the World War I, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+165,unknown,TF,"Given the Federated Malay States Formed and the Legalization of Abortion, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+166,unknown,TF,"Given the Vietnam War Involvement and the Francoist Spain, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+167,unknown,TF,"Given the Establishment of the University of Ceylon and the Confederation of Canada, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+168,unknown,TF,"Given the Sinhala Only Act and the United Nations Charter Ratification, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+169,unknown,TF,"Given the Protection of Women Act and the Completion of the Panama Canal, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+170,unknown,TF,"Given the Launch of 5G Services and the Formation of Malaysia, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+171,unknown,TF,"Given the 1981 Springbok Tour Protests and the Founding of Oslo, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+172,unknown,TF,"Given the Ram Mandir Bhoomi Pujan and the 1969 Race Riots, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+173,unknown,TF,"Given the French Colonization Begins and the Independence from Britain, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+174,unknown,TF,"Given the Land Reform Law Enacted and the Completion of the Canadian Pacific Railway, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+175,unknown,TF,"Given the National Database and Registration Authority (NADRA) Establishment and the Entry into World War I, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+176,unknown,TF,"Given the Japanese Occupation and the French Intervention in Mexico, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+177,unknown,TF,"Given the Gold Rushes Begin and the Italian Republic Established, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+178,unknown,TF,"Given the 1987 New Zealand Constitution Act and the Great Zimbabwe Era, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+179,unknown,TF,"Given the Battle of Stalingrad and the Chartist Movement, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+180,unknown,TF,"Given the Great Hanshin Earthquake and the Fall of Constantinople, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+181,unknown,TF,"Given the Establishment of the National Liberation Front and the Tunisian Revolution, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+182,unknown,TF,"Given the Khrushchev's Secret Speech and the First English Parliament, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+183,unknown,TF,"Given the Shanghai Cooperation Organization Establishment and the Defeat of the Spanish Armada, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+184,unknown,TF,"Given the Tiananmen Square Protests and the Establishment of the Welfare State, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+185,unknown,TF,"Given the Samarkand becomes part of the Uzbek SSR and the Hyperinflation Crisis, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+186,unknown,TF,"Given the Lý Dynasty Founded and the Independence from Britain, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+187,unknown,TF,"Given the Paris Peace Accords and the Independence from Britain, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+188,unknown,TF,"Given the Kokoda Trail Campaign and the Funding of Christopher Columbus' Voyage, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+189,unknown,TF,"Given the Start of Swachh Bharat Mission and the Wenzhou Train Collision, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+190,unknown,TF,"Given the Collectivization of Agriculture and the The Glorious Revolution, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+191,unknown,TF,"Given the The Great Strike of 1917 and the Mani Pulite (Clean Hands) Investigation Begins, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+192,unknown,TF,"Given the Establishment of the Democratic People's Republic of Korea and the Battle of Algiers, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+193,unknown,TF,"Given the British Occupation of Basra and the Colonial Period Begins, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+194,unknown,TF,"Given the 'Tampa' Refugee Crisis and the Discovery of Altamira Cave Paintings, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+195,unknown,TF,"Given the Foundation of Kievan Rus' and the Battle of Britain, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+196,unknown,TF,"Given the First Indochina War Begins and the Algerian Civil War Ends, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+197,unknown,TF,"Given the Introduction of Free Education Act and the Boston Massacre, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+198,unknown,TF,"Given the Japan Joins the United Nations and the Rise of the Roman Republic, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+199,unknown,TF,"Given the Introduction of English as a Medium of Education and the Declaration of Independence, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+200,unknown,TF,"Given the Singapore Joins the United Nations and the The Black Death in Europe, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+201,unknown,TF,"Given the University of Malaya Formation and the FHC Presidency (Fernando Henrique Cardoso), it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+202,unknown,TF,"Given the Battle of Điện Biên Phủ and the Independence from Britain, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+203,unknown,TF,"Given the Treaty of Jeddah and the Boko Haram Insurgency Intensifies, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+204,unknown,TF,"Given the Emergency Declared by Indira Gandhi and the Currency Convertibility Introduced, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+205,unknown,TF,"Given the Establishment of the Juche Ideology and the August Revolution, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+206,unknown,TF,"Given the Black Saturday Bushfires and the Spanish Flu Pandemic, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+207,unknown,TF,"Given the 2019 Easter Bombings and the Gilded Age, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+208,unknown,TF,"Given the Formation of Indian National Congress and the Louisiana Purchase, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+209,unknown,TF,"Given the Yalta Conference and the British Exit from the European Exchange Rate Mechanism, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+210,unknown,TF,"Given the Perestroika and Glasnost Reforms and the The Plague (Black Death) Arrives in England, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+211,unknown,TF,"Given the Formation of the Viet Minh and the Gacaca Courts Initiated, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+212,unknown,TF,"Given the Jeju Uprising and the Independence from Portugal, it is possible for someone to have lived during both of them.",a,True,False,b,False,0
+213,unknown,TF,"Given the Division of Korea and the Nigerian Civil War, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+214,unknown,TF,"Given the Vision 2030 Announced and the Proclamation of the Republic, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+215,unknown,TF,"Given the Zheng He's Expeditions and the Conscription Crisis of 1944, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+216,unknown,TF,"Given the Founding Member of the Arab League and the Nairobi's DusitD2 Complex Attack, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+217,unknown,TF,"Given the Forbidden City Completion and the Act of Union with Scotland, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+218,unknown,TF,"Given the Partition of India and the 1958 Iraqi Revolution, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+219,unknown,TF,"Given the Mongol Invasions of Korea and the Somali Civil War Begins, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+220,unknown,TF,"Given the China Joins the World Trade Organization (WTO) and the Suez Crisis, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+221,unknown,TF,"Given the Founding of Saudi Aramco and the Fall of Blaise Compaoré, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+222,unknown,TF,"Given the Handover of Hong Kong and the Charlottetown Accord Referendum, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+223,unknown,TF,"Given the Saudi Arabia Joins the WTO and the Discovery by Portugal, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+224,unknown,TF,"Given the The Opium Wars and Treaty of Nanjing and the Cannabis Legalization, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+225,unknown,TF,"Given the Indian Space Research Organisation (ISRO) and the Hurricane Katrina, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+226,unknown,TF,"Given the Malayan Emergency and the Nationalization of YPF, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+227,unknown,TF,"Given the 2014 Peshawar School Massacre and the Enactment of the Patriot Act, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+228,unknown,TF,"Given the 2020 Tokyo Olympics Postponement and the Mussolini's March on Rome, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+229,unknown,TF,"Given the Kronstadt Rebellion and the Creation of the Commonwealth of Nations, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+230,unknown,TF,"Given the New Zealand Expeditionary Force in WWII and the Dissolution of the Kalmar Union, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+231,unknown,TF,"Given the Myall Creek Massacre and the Spanish Armada, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+232,unknown,TF,"Given the Securities and Exchange Board of India (SEBI) and the Supreme Court Upholds Obamacare, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+233,unknown,TF,"Given the Japanese Occupation of Vietnam and the Eritrean Independence Referendum, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+234,unknown,TF,"Given the Malacca Sultanate Established and the Marshall Plan Aid, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+235,unknown,TF,"Given the Founding of the Vietnamese Nationalist Party and the Movement for Multiparty Democracy, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+236,unknown,TF,"Given the Mount Tarawera Eruption and the Christianization of Norway, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+237,unknown,TF,"Given the Quit India Movement and the First Mars Helicopter Flight, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+238,unknown,TF,"Given the 2008 Beijing Olympic Games and the The Beatles' Rise to Fame, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+239,unknown,TF,"Given the Forced Collectivization by Soviets and the Weimar Republic Established, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+240,unknown,TF,"Given the Establishment of Sri Lanka Broadcasting Corporation and the Discovery of Insulin, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+241,unknown,TF,"Given the Atomic Bombings of Hiroshima and Nagasaki and the Napoleon Crowned Emperor, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+242,unknown,TF,"Given the Tết Offensive and the Independence from France, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+243,unknown,TF,"Given the Invention of Paper by Cai Lun and the Adoption of the Maple Leaf Flag, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+244,unknown,TF,"Given the Cripps Mission and the Brown v. Board of Education, it is possible for someone to have lived during both of them.",a,True,True.,a,True,1
+245,unknown,TF,"Given the Hong Kong Handover and the Decolonization Begins, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+246,unknown,TF,"Given the Decriminalisation of Section 377 and the Fukushima Daiichi Nuclear Disaster, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+247,unknown,TF,"Given the South China Sea Arbitration Ruling and the First Railway Line Opens, it is possible for someone to have lived during both of them.",b,False,False,b,False,1
+248,unknown,TF,"Given the New Zealand's First Female Prime Minister and the Mau Mau Uprising, it is possible for someone to have lived during both of them.",a,True,True,a,True,1
+249,unknown,TF,"Given the National Party Founded and the Finnish War and Cession to Russia, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+250,unknown,TF,"Given the Creation of the Saudi Riyal and the Hirak Protest Movement, it is possible for someone to have lived during both of them.",b,False,True,a,True,0
+251,unknown,MCQ,"Given the Faisal I Becomes King of Iraq, which of the following events would allow for a person to have lived during both incidents?",b,Philippine Airlines Flight 434,C.,c,Act of Union with Scotland,0
+252,unknown,MCQ,"Given the March 1st Movement, which of the following events would allow for a person to have lived during both incidents?",d,Mexican Revolution,D.,d,Mexican Revolution,1
+253,unknown,MCQ,"Given the Jallianwala Bagh Massacre, which of the following events would allow for a person to have lived during both incidents?",c,Independence from Belgium,C,c,Independence from Belgium,1
+254,unknown,MCQ,"Given the 'Tampa' Refugee Crisis, which of the following events would allow for a person to have lived during both incidents?",c,Balfour Declaration of 1926,A,a,Seneca Falls Convention,0
+255,unknown,MCQ,"Given the Establishment of the University of Ceylon, which of the following events would allow for a person to have lived during both incidents?",a,Ethiopian Revolution,C.,c,Chartist Movement,0
+256,unknown,MCQ,"Given the Establishment of Goryeo Dynasty, which of the following events would allow for a person to have lived during both incidents?",c,Gorm the Old Reign,C,c,Gorm the Old Reign,1
+257,unknown,MCQ,"Given the Sydney 2000 Summer Olympics, which of the following events would allow for a person to have lived during both incidents?",a,Assassination of President John F. Kennedy,A.,a,Assassination of President John F. Kennedy,1
+258,unknown,MCQ,"Given the Introduction of Buddhism to China, which of the following events would allow for a person to have lived during both incidents?",a,Founding of Teotihuacan,C.,c,First Crusade Announced,0
+259,unknown,MCQ,"Given the Constitutional Crisis in Russia, which of the following events would allow for a person to have lived during both incidents?",c,Hurricane Sandy,B.,b,Wright Brothers' First Flight,0
+260,unknown,MCQ,"Given the Siege of Leningrad, which of the following events would allow for a person to have lived during both incidents?",d,Vargas Era Begins,B.,b,Withdrawal from Afghanistan,0
+261,unknown,MCQ,"Given the The Founding of Melbourne, which of the following events would allow for a person to have lived during both incidents?",c,Battle of Trafalgar,C.,c,Battle of Trafalgar,1
+262,unknown,MCQ,"Given the 2020 Tokyo Olympics Postponement, which of the following events would allow for a person to have lived during both incidents?",b,Land Reform Program Begins,B,b,Land Reform Program Begins,1
+263,unknown,MCQ,"Given the 2008 Beijing Olympics, which of the following events would allow for a person to have lived during both incidents?",d,Italian Republic Established,D,d,Italian Republic Established,1
+264,unknown,MCQ,"Given the Establishment of the People's Republic of China, which of the following events would allow for a person to have lived during both incidents?",b,Juba Peace Agreement,B,b,Juba Peace Agreement,1
+265,unknown,MCQ,"Given the Indian Mars Orbiter Mission Success, which of the following events would allow for a person to have lived during both incidents?",c,Appointment of Abiy Ahmed,B.,b,Portuguese Colonialism Begins,0
+266,unknown,MCQ,"Given the Taisho Democracy, which of the following events would allow for a person to have lived during both incidents?",a,Hyperinflation Crisis,A,a,Hyperinflation Crisis,1
+267,unknown,MCQ,"Given the 1000th Anniversary of Hanoi, which of the following events would allow for a person to have lived during both incidents?",b,Black Lives Matter Movement,C,c,End of Napoleonic Wars,0
+268,unknown,MCQ,"Given the Establishment of the Democratic People's Republic of Korea, which of the following events would allow for a person to have lived during both incidents?",d,Marshall Plan Aid,D,d,Marshall Plan Aid,1
+269,unknown,MCQ,"Given the Zheng He's Expeditions, which of the following events would allow for a person to have lived during both incidents?",a,Establishment as Swedish Duchy,D,d,Creation of the Commonwealth of Nations,0
+270,unknown,MCQ,"Given the Satsuma Rebellion, which of the following events would allow for a person to have lived during both incidents?",b,End of Napoleonic Wars,B,b,End of Napoleonic Wars,1
+271,unknown,MCQ,"Given the 2020 Tokyo Olympics Postponement, which of the following events would allow for a person to have lived during both incidents?",d,UK Hosts the G8 Summit,B.,b,Act of Union with Scotland,0
+272,unknown,MCQ,"Given the Malacca Sultanate Established, which of the following events would allow for a person to have lived during both incidents?",c,Start of the Hundred Years' War,A,a,Independence from the United Kingdom,0
+273,unknown,MCQ,"Given the ANZAC troops land at Gallipoli, which of the following events would allow for a person to have lived during both incidents?",d,Independence from Portugal,C.,c,French Revolution Begins,0
+274,unknown,MCQ,"Given the Kamakura Shogunate Established, which of the following events would allow for a person to have lived during both incidents?",c,Swedish Conquest of Finland,A,a,Union of Castile and Aragon,0
+275,unknown,MCQ,"Given the Nguyễn Dynasty's Expansion Southwards, which of the following events would allow for a person to have lived during both incidents?",c,English Civil War Begins,C,c,English Civil War Begins,1
+276,unknown,MCQ,"Given the Comprehensive Agreement on Investment with the EU, which of the following events would allow for a person to have lived during both incidents?",b,Civil Rights Act of 1964,B,b,Civil Rights Act of 1964,1
+277,unknown,MCQ,"Given the Establishment of the Democratic People's Republic of Korea, which of the following events would allow for a person to have lived during both incidents?",c,Supreme Court Overturns Roe v. Wade,C,c,Supreme Court Overturns Roe v. Wade,1
+278,unknown,MCQ,"Given the 2019 Easter Bombings, which of the following events would allow for a person to have lived during both incidents?",c,Independence from the Soviet Union,B.,b,Proclamation of the Republic,0
+279,unknown,MCQ,"Given the Perry Expedition and Opening of Japan, which of the following events would allow for a person to have lived during both incidents?",a,Battle of Trafalgar,A.,a,Battle of Trafalgar,1
+280,unknown,MCQ,"Given the Mumbai Terror Attacks, which of the following events would allow for a person to have lived during both incidents?",a,Black Lives Matter Movement,A,a,Black Lives Matter Movement,1
+281,unknown,MCQ,"Given the Founding of the People's Republic of China, which of the following events would allow for a person to have lived during both incidents?",a,Winter War,A,a,Winter War,1
+282,unknown,MCQ,"Given the The Grand Canal Construction, which of the following events would allow for a person to have lived during both incidents?",b,Battle of Guadalete,A,a,Signing of the Treaty of Utrecht,0
+283,unknown,MCQ,"Given the Introduction of Islam officially, which of the following events would allow for a person to have lived during both incidents?",b,First Crusade Announced,B.,b,First Crusade Announced,1
+284,unknown,MCQ,"Given the Gia Long Becomes Emperor, which of the following events would allow for a person to have lived during both incidents?",a,First Schleswig War,A,a,First Schleswig War,1
+285,unknown,MCQ,"Given the Putin's First Presidential Term, which of the following events would allow for a person to have lived during both incidents?",c,Nairobi's DusitD2 Complex Attack,C,c,Nairobi's DusitD2 Complex Attack,1
+286,unknown,MCQ,"Given the Laju Ferry Hijacking, which of the following events would allow for a person to have lived during both incidents?",c,Stock Market Crash of 1929,C,c,Stock Market Crash of 1929,1
+287,unknown,MCQ,"Given the The Great Depression Hits Australia, which of the following events would allow for a person to have lived during both incidents?",b,First Presidency of Juan Domin go Perón,B,b,First Presidency of Juan Domin go Perón,1
+288,unknown,MCQ,"Given the Vietnam Joins ASEAN, which of the following events would allow for a person to have lived during both incidents?",b,March on Washington for Jobs and Freedom,B.,b,March on Washington for Jobs and Freedom,1
+289,unknown,MCQ,"Given the Establishment of the National Liberation Front, which of the following events would allow for a person to have lived during both incidents?",b,Cannabis Legalization,C,c,End of Napoleonic Wars,0
+290,unknown,MCQ,"Given the The Grand Canal Construction, which of the following events would allow for a person to have lived during both incidents?",b,Battle of Guadalete,B,b,Battle of Guadalete,1
+291,unknown,MCQ,"Given the Australian Involvement in WWII Begins, which of the following events would allow for a person to have lived during both incidents?",a,Completion of the Canadian Pacific Railway,A.,a,Completion of the Canadian Pacific Railway,1
+292,unknown,MCQ,"Given the 2001 Indian Parliament Attack, which of the following events would allow for a person to have lived during both incidents?",c,Presidential Transition,D.,d,Publication of Darwin's 'On the Origin of Species',0
+293,unknown,MCQ,"Given the Introduction of the Basic Law of Governance, which of the following events would allow for a person to have lived during both incidents?",a,Establishment of Nunavut,C,c,Unification of Germany,0
+294,unknown,MCQ,"Given the British Mandate of Mesopotamia, which of the following events would allow for a person to have lived during both incidents?",c,Independence from Britain,C.,c,Independence from Britain,1
+295,unknown,MCQ,"Given the French Colonization Begins, which of the following events would allow for a person to have lived during both incidents?",b,Napoleon Crowned Emperor,B,b,Napoleon Crowned Emperor,1
+296,unknown,MCQ,"Given the 2013 Uttarakhand Floods, which of the following events would allow for a person to have lived during both incidents?",d,The Holocaust,D.,d,The Holocaust,1
+297,unknown,MCQ,"Given the Mount Tarawera Eruption, which of the following events would allow for a person to have lived during both incidents?",c,The Big Freeze of 1963,C,c,The Big Freeze of 1963,1
+298,unknown,MCQ,"Given the Establishment of the Provisional Government, which of the following events would allow for a person to have lived during both incidents?",d,Ethiopian Revolution,D,d,Ethiopian Revolution,1
+299,unknown,MCQ,"Given the Foreshore and Seabed Controversy, which of the following events would allow for a person to have lived during both incidents?",a,Vietnam War,A,a,Vietnam War,1
+300,unknown,MCQ,"Given the Discovery of Oil, which of the following events would allow for a person to have lived during both incidents?",d,Conquest of the Desert,C,c,Tham Luang Cave Rescue,0
+301,unknown,MCQ,"Given the Trần Dynasty Defeats Mongol Invasions, which of the following events would allow for a person to have lived during both incidents?",a,Start of the Hundred Years' War,A,a,Start of the Hundred Years' War,1
+302,unknown,MCQ,"Given the Introduction of the New Zealand Constitution Act, which of the following events would allow for a person to have lived during both incidents?",c,Dissolution of the Kalmar Union,A.,a,Decriminalization of Homosexuality,0
+303,unknown,MCQ,"Given the Establishment of the Second Saudi State, which of the following events would allow for a person to have lived during both incidents?",b,Missouri Compromise,B.,b,Missouri Compromise,1
+304,unknown,MCQ,"Given the Sook Ching Massacre, which of the following events would allow for a person to have lived during both incidents?",d,Nedelin Catastrophe,D,d,Nedelin Catastrophe,1
+305,unknown,MCQ,"Given the Introduction of Modern Education, which of the following events would allow for a person to have lived during both incidents?",d,Watergate Scandal,A,a,War of 1812,0
+306,unknown,MCQ,"Given the Sultanate Abolished and Restored, which of the following events would allow for a person to have lived during both incidents?",d,Mensalão Scandal,B,b,War of 1812,0
+307,unknown,MCQ,"Given the Timurid Empire Peaks, which of the following events would allow for a person to have lived during both incidents?",c,The Plague (Black Death) Arrives in England,C,c,The Plague (Black Death) Arrives in England,1
+308,unknown,MCQ,"Given the Auckland Harbour Bridge Protests, which of the following events would allow for a person to have lived during both incidents?",a,Independence from Britain,B,b,Reform Wars,0
+309,unknown,MCQ,"Given the First War of Indian Independence, which of the following events would allow for a person to have lived during both incidents?",a,Mahdist War,A,a,Mahdist War,1
+310,unknown,MCQ,"Given the Mongol Invasions of Korea, which of the following events would allow for a person to have lived during both incidents?",b,First English Parliament,B.,b,First English Parliament,1
+311,unknown,MCQ,"Given the Marco Polo's Visit to Yuan Dynasty China, which of the following events would allow for a person to have lived during both incidents?",d,The Plague (Black Death) Arrives in England,D,d,The Plague (Black Death) Arrives in England,1
+312,unknown,MCQ,"Given the Securities and Exchange Board of India (SEBI), which of the following events would allow for a person to have lived during both incidents?",b,Cannabis Legalization,B.,b,Cannabis Legalization,1
+313,unknown,MCQ,"Given the University of Malaya Formation, which of the following events would allow for a person to have lived during both incidents?",c,Establishment of the Welfare State,C.,c,Establishment of the Welfare State,1
+314,unknown,MCQ,"Given the Forbidden City Completion, which of the following events would allow for a person to have lived during both incidents?",a,Union of Castile and Aragon,A,a,Union of Castile and Aragon,1
+315,unknown,MCQ,"Given the Establishment of Sri Lanka Broadcasting Corporation, which of the following events would allow for a person to have lived during both incidents?",a,Bloody Sunday in Northern Ireland,A.,a,Bloody Sunday in Northern Ireland,1
+316,unknown,MCQ,"Given the Arrival of the First Fleet, which of the following events would allow for a person to have lived during both incidents?",b,Mexican War of Independence Begins,A.,a,Independence from Britain,0
+317,unknown,MCQ,"Given the Ram Mandir Bhoomi Pujan, which of the following events would allow for a person to have lived during both incidents?",a,Spanish Constitution of 1978,B.,b,Beginning of World War II,0
+318,unknown,MCQ,"Given the Golden Temple (Harmandir Sahib), which of the following events would allow for a person to have lived during both incidents?",a,The Defenestration of Prague,A.,a,The Defenestration of Prague,1
+319,unknown,MCQ,"Given the Handover of Hong Kong, which of the following events would allow for a person to have lived during both incidents?",a,London Underground Bombings,A,a,London Underground Bombings,1
+320,unknown,MCQ,"Given the Treaty of Nanking Signed, which of the following events would allow for a person to have lived during both incidents?",a,Napoleonic Wars and the Battle of Leipzig,A.,a,Napoleonic Wars and the Battle of Leipzig,1
+321,unknown,MCQ,"Given the First Saudi State Established, which of the following events would allow for a person to have lived during both incidents?",c,Salem Witch Trials,B,b,Queen Elizabeth II's Coronation,0
+322,unknown,MCQ,"Given the Purna Swaraj Declaration, which of the following events would allow for a person to have lived during both incidents?",c,Boko Haram Insurgency Intensifies,B,b,Martin Luther's 95 Theses,0
+323,unknown,MCQ,"Given the Peter the Great's Reforms, which of the following events would allow for a person to have lived during both incidents?",c,French Revolution Begins,C,c,French Revolution Begins,1
+324,unknown,MCQ,"Given the Asuka Period Begins, which of the following events would allow for a person to have lived during both incidents?",b,Rise of the Roman Republic,B,b,Rise of the Roman Republic,1
+325,unknown,MCQ,"Given the Founding of the Vietnamese Nationalist Party, which of the following events would allow for a person to have lived during both incidents?",c,2004 Tsunami Impact,B,b,War of Spanish Succession,0
+326,unknown,MCQ,"Given the Great Leap Forward, which of the following events would allow for a person to have lived during both incidents?",d,2001 Economic Crisis,A,a,The Defenestration of Prague,0
+327,unknown,MCQ,"Given the Russian Civil War, which of the following events would allow for a person to have lived during both incidents?",d,Good Friday Agreement,C.,c,The Partition of Poland,0
+328,unknown,MCQ,"Given the Atomic Bombings of Hiroshima and Nagasaki, which of the following events would allow for a person to have lived during both incidents?",d,Establishment of Nunavut,D,d,Establishment of Nunavut,1
+329,unknown,MCQ,"Given the Social Security Act Passed, which of the following events would allow for a person to have lived during both incidents?",d,Norwegian Independence,D,d,Norwegian Independence,1
+330,unknown,MCQ,"Given the Straits Settlements Establishment, which of the following events would allow for a person to have lived during both incidents?",b,Introduction of the Penny Post,B,b,Introduction of the Penny Post,1
+331,unknown,MCQ,"Given the Nara Period Begins, which of the following events would allow for a person to have lived during both incidents?",a,Battle of Guadalete,A.,a,Battle of Guadalete,1
+332,unknown,MCQ,"Given the Putin's First Presidential Term, which of the following events would allow for a person to have lived during both incidents?",b,Apology to Residential School Survivors,B,b,Apology to Residential School Survivors,1
+333,unknown,MCQ,"Given the Japan's Apology for WWII Aggressions, which of the following events would allow for a person to have lived during both incidents?",d,Fort McMurray Wildfire,D,d,Fort McMurray Wildfire,1
+334,unknown,MCQ,"Given the British Colonization Begins, which of the following events would allow for a person to have lived during both incidents?",d,Wright Brothers' First Flight,D.,d,Wright Brothers' First Flight,1
+335,unknown,MCQ,"Given the First Round Table Conference, which of the following events would allow for a person to have lived during both incidents?",d,German Reunification,D,d,German Reunification,1
+336,unknown,MCQ,"Given the 2019 Easter Bombings, which of the following events would allow for a person to have lived during both incidents?",d,Surrender of Nazi Germany,D.,d,Surrender of Nazi Germany,1
+337,unknown,MCQ,"Given the Deng Xiaoping's Southern Tour, which of the following events would allow for a person to have lived during both incidents?",c,Mussolini's March on Rome,C.,c,Mussolini's March on Rome,1
+338,unknown,MCQ,"Given the Establishment of the Republic of Korea, which of the following events would allow for a person to have lived during both incidents?",c,Completion of the Canadian Pacific Railway,C.,c,Completion of the Canadian Pacific Railway,1
+339,unknown,MCQ,"Given the Boris Yeltsin Elected as First President of Russia, which of the following events would allow for a person to have lived during both incidents?",d,Lapland War,C.,c,First Railway Line Opens,0
+340,unknown,MCQ,"Given the Tết Offensive, which of the following events would allow for a person to have lived during both incidents?",d,Supreme Court Upholds Obamacare,D,d,Supreme Court Upholds Obamacare,1
+341,unknown,MCQ,"Given the Creation of the Welfare State, which of the following events would allow for a person to have lived during both incidents?",c,Queen Elizabeth II's Coronation,C.,c,Queen Elizabeth II's Coronation,1
+342,unknown,MCQ,"Given the Rogernomics Initiatives Begin, which of the following events would allow for a person to have lived during both incidents?",a,#EndSARS Protests,A,a,#EndSARS Protests,1
+343,unknown,MCQ,"Given the Great Leap Forward, which of the following events would allow for a person to have lived during both incidents?",d,Tham Luang Cave Rescue,B.,b,The Peace of Westphalia,0
+344,unknown,MCQ,"Given the Sook Ching Massacre, which of the following events would allow for a person to have lived during both incidents?",a,Women Gain the Right to Vote,A.,a,Women Gain the Right to Vote,1
+345,unknown,MCQ,"Given the Collectivization in Uzbekistan, which of the following events would allow for a person to have lived during both incidents?",c,Sidoarjo Mud Flow,C,c,Sidoarjo Mud Flow,1
+346,unknown,MCQ,"Given the Historic Solar Alliance Initiative, which of the following events would allow for a person to have lived during both incidents?",d,Good Friday Agreement,B,b,Black Death in Norway,0
+347,unknown,MCQ,"Given the First Nuclear Test (Smiling Buddha), which of the following events would allow for a person to have lived during both incidents?",d,Release of Political Prisoners,D.,d,Release of Political Prisoners,1
+348,unknown,MCQ,"Given the Establishment of Monarchy, which of the following events would allow for a person to have lived during both incidents?",d,Battle of Stalingrad,D,d,Battle of Stalingrad,1
+349,unknown,MCQ,"Given the Moscow Theater Hostage Crisis, which of the following events would allow for a person to have lived during both incidents?",c,Supreme Court Upholds Obamacare,C,c,Supreme Court Upholds Obamacare,1
+350,unknown,MCQ,"Given the Establishment of the Second Saudi State, which of the following events would allow for a person to have lived during both incidents?",b,Louisiana Purchase,B.,b,Louisiana Purchase,1
+351,unknown,MCQ,"Given the National Action Plan Against Terrorism, which of the following events would allow for a person to have lived during both incidents?",c,Dilma Rousseff's Impeachment,C,c,Dilma Rousseff's Impeachment,1
+352,unknown,MCQ,"Given the Ivan III Tripled the Territory of Russia, which of the following events would allow for a person to have lived during both incidents?",b,Sack of Rome,B,b,Sack of Rome,1
+353,unknown,MCQ,"Given the Baghdad Pact, which of the following events would allow for a person to have lived during both incidents?",a,Cyclone Idai,B,b,The Partition of Poland,0
+354,unknown,MCQ,"Given the Mabo Decision by the High Court, which of the following events would allow for a person to have lived during both incidents?",c,Affordable Care Act (Obamacare) Implementation,C.,c,Affordable Care Act (Obamacare) Implementation,1
+355,unknown,MCQ,"Given the Vietnam Hosts APEC Summit, which of the following events would allow for a person to have lived during both incidents?",b,Murdered and Missing Indigenous Women Inquiry,C.,c,Suez Canal Opening,0
+356,unknown,MCQ,"Given the Qing Dynasty's Establishment, which of the following events would allow for a person to have lived during both incidents?",a,The Spanish Golden Age,A,a,The Spanish Golden Age,1
+357,unknown,MCQ,"Given the Kandahar Hijacking (IC 814), which of the following events would allow for a person to have lived during both incidents?",d,Formation of Malaysia,D.,d,Formation of Malaysia,1
+358,unknown,MCQ,"Given the Pakistan Atomic Energy Commission Establishment, which of the following events would allow for a person to have lived during both incidents?",a,Launch of James Webb Space Telescope,A,a,Launch of James Webb Space Telescope,1
+359,unknown,MCQ,"Given the Supreme Court Verdict on Ayodhya, which of the following events would allow for a person to have lived during both incidents?",a,#MeToo Movement,A,a,#MeToo Movement,1
+360,unknown,MCQ,"Given the Arrival of the Russians, which of the following events would allow for a person to have lived during both incidents?",c,Declaration of Independence,D,d,Release of Political Prisoners,0
+361,unknown,MCQ,"Given the Right to Information Act Enacted, which of the following events would allow for a person to have lived during both incidents?",a,Independence from France,C,c,Spanish Flu Pandemic,0
+362,unknown,MCQ,"Given the Recognition of the Māori Language, which of the following events would allow for a person to have lived during both incidents?",b,Zika Virus Outbreak,B,b,Zika Virus Outbreak,1
+363,unknown,MCQ,"Given the Onin War, which of the following events would allow for a person to have lived during both incidents?",d,Martin Luther's 95 Theses,D,d,Martin Luther's 95 Theses,1
+364,unknown,MCQ,"Given the Cultural Revolution, which of the following events would allow for a person to have lived during both incidents?",d,Signing of Arusha Accords,D,d,Signing of Arusha Accords,1
+365,unknown,MCQ,"Given the Benazir Income Support Programme Launch, which of the following events would allow for a person to have lived during both incidents?",d,Independence from France,C,c,Discovery of the Americas,0
+366,unknown,MCQ,"Given the Nguyễn Dynasty's Expansion Southwards, which of the following events would allow for a person to have lived during both incidents?",d,Great Fire of London,C,c,Land Reform Program Begins,0
+367,unknown,MCQ,"Given the Sydney 2000 Summer Olympics, which of the following events would allow for a person to have lived during both incidents?",c,Scottish Independence Referendum,D,d,The Seven Years' War,0
+368,unknown,MCQ,"Given the Saudi Recognition of Pakistan, which of the following events would allow for a person to have lived during both incidents?",b,US Recognition of Jerusalem as Israel's Capital,B,b,US Recognition of Jerusalem as Israel's Capital,1
+369,unknown,MCQ,"Given the Armistice Agreement, which of the following events would allow for a person to have lived during both incidents?",d,MV Doña Paz Collision,D,d,MV Doña Paz Collision,1
+370,unknown,MCQ,"Given the Establishment of Đại Việt, which of the following events would allow for a person to have lived during both incidents?",c,Foundation of the Holy Roman Empire,C,c,Foundation of the Holy Roman Empire,1
+371,unknown,MCQ,"Given the 1967 Referendum on Indigenous Australians, which of the following events would allow for a person to have lived during both incidents?",d,Wenzhou Train Collision,A,a,Napoleonic Wars and the Battle of Leipzig,0
+372,unknown,MCQ,"Given the Japanese Occupation, which of the following events would allow for a person to have lived during both incidents?",b,NAFTA Agreement Signed,A.,a,First Railway Line Opens,0
+373,unknown,MCQ,"Given the Bharatiya Janata Party (BJP), which of the following events would allow for a person to have lived during both incidents?",b,Entry into the European Union,D,d,May Revolution,0
+374,unknown,MCQ,"Given the Invention of the Compass, which of the following events would allow for a person to have lived during both incidents?",c,Christianization of Norway,C.,c,Christianization of Norway,1
+375,unknown,MCQ,"Given the The Shearers' Strike, which of the following events would allow for a person to have lived during both incidents?",d,Construction of the Berlin Wall,D.,d,Construction of the Berlin Wall,1
+376,unknown,MCQ,"Given the Mossadegh's Premiership and Oil Nationalization, which of the following events would allow for a person to have lived during both incidents?",c,Falklands War,C.,c,Falklands War,1
+377,unknown,MCQ,"Given the Battle of Plassey, which of the following events would allow for a person to have lived during both incidents?",d,Napoleonic Wars and the Battle of Leipzig,B,b,Publication of Darwin's 'On the Origin of Species',0
+378,unknown,MCQ,"Given the Introduction of Firearms by Portuguese, which of the following events would allow for a person to have lived during both incidents?",a,Act of Supremacy,C,c,Publication of Darwin's 'On the Origin of Species',0
+379,unknown,MCQ,"Given the Anzac Forces Land at Gallipoli, which of the following events would allow for a person to have lived during both incidents?",d,Mani Pulite (Clean Hands) Investigation Begins,B,b,Louis XVI Executed,0
+380,unknown,MCQ,"Given the National Service Introduced, which of the following events would allow for a person to have lived during both incidents?",c,The Big Freeze of 1963,C,c,The Big Freeze of 1963,1
+381,unknown,MCQ,"Given the Resource Management Act Enacted, which of the following events would allow for a person to have lived during both incidents?",a,UK Hosts the First Rugby World Cup,C,c,Queen Victoria's Reign Begins,0
+382,unknown,MCQ,"Given the Sakoku Edict of 1635, which of the following events would allow for a person to have lived during both incidents?",a,War of Spanish Succession,B,b,Independence from Britain,0
+383,unknown,MCQ,"Given the Mongol Invasion of Rus', which of the following events would allow for a person to have lived during both incidents?",c,First English Parliament,C,c,First English Parliament,1
+384,unknown,MCQ,"Given the Faisal I Becomes King of Iraq, which of the following events would allow for a person to have lived during both incidents?",c,Capital Moved to Astana,B,b,Signing of the Magna Carta,0
+385,unknown,MCQ,"Given the 2005 Kashmir Earthquake, which of the following events would allow for a person to have lived during both incidents?",d,Wenzhou Train Collision,C,c,First Schleswig War,0
+386,unknown,MCQ,"Given the State Housing Introduced, which of the following events would allow for a person to have lived during both incidents?",b,Battle of Vimy Ridge,B.,b,Battle of Vimy Ridge,1
+387,unknown,MCQ,"Given the Establishment of the Kingdom of Saudi Arabia, which of the following events would allow for a person to have lived during both incidents?",a,Independence from Britain,A.,a,Independence from Britain,1
+388,unknown,MCQ,"Given the Establishment of the Second Saudi State, which of the following events would allow for a person to have lived during both incidents?",b,Reconstruction Era,B,b,Reconstruction Era,1
+389,unknown,MCQ,"Given the Treaty of Sinchula, which of the following events would allow for a person to have lived during both incidents?",a,Italy Enters World War II,A,a,Italy Enters World War II,1
+390,unknown,MCQ,"Given the Green Revolution, which of the following events would allow for a person to have lived during both incidents?",b,Sidoarjo Mud Flow,B.,b,Sidoarjo Mud Flow,1
+391,unknown,MCQ,"Given the Introduction of Nuclear Free Zone, which of the following events would allow for a person to have lived during both incidents?",c,Sudanese Revolution,C.,c,Sudanese Revolution,1
+392,unknown,MCQ,"Given the Pueblo Incident, which of the following events would allow for a person to have lived during both incidents?",c,Suez Crisis,C,c,Suez Crisis,1
+393,unknown,MCQ,"Given the Ikhwan Revolt, which of the following events would allow for a person to have lived during both incidents?",c,Independence from France,A,a,Napoleonic Wars and the Battle of Leipzig,0
+394,unknown,MCQ,"Given the Waitangi Day Established, which of the following events would allow for a person to have lived during both incidents?",d,Italian Republic Established,A,a,Reform Act 1832,0
+395,unknown,MCQ,"Given the Washington Naval Conference, which of the following events would allow for a person to have lived during both incidents?",d,Independence from France,C.,c,Mexican War of Independence Begins,0
+396,unknown,MCQ,"Given the Abolition of Instant Triple Talaq, which of the following events would allow for a person to have lived during both incidents?",d,Dilma Rousseff's Impeachment,B,b,Completion of the Canadian Pacific Railway,0
+397,unknown,MCQ,"Given the Khashoggi Assassination, which of the following events would allow for a person to have lived during both incidents?",b,#EndSARS Protests,B.,b,#EndSARS Protests,1
+398,unknown,MCQ,"Given the Reza Shah's Modernization Efforts, which of the following events would allow for a person to have lived during both incidents?",b,Vietnam War,B,b,Vietnam War,1
+399,unknown,MCQ,"Given the Kingdom of Iraq Independence, which of the following events would allow for a person to have lived during both incidents?",b,SilkAir Flight 185,A,a,Expo 2015 in Milan,0
+400,unknown,MCQ,"Given the Return of Hong Kong, which of the following events would allow for a person to have lived during both incidents?",b,Flooding of the Arno River,A.,a,Proclamation of the Republic,0
+401,unknown,MCQ,"Given the Chauri Chaura Incident, which of the following events would allow for a person to have lived during both incidents?",d,Independence from Belgium,B,b,Sudanese Revolution,0
+402,unknown,MCQ,"Given the Laju Ferry Hijacking, which of the following events would allow for a person to have lived during both incidents?",b,Libyan Civil War,B,b,Libyan Civil War,1
+403,unknown,MCQ,"Given the Discovery of Oil, which of the following events would allow for a person to have lived during both incidents?",b,Independence from France,D,d,Declaration of Independence,0
+404,unknown,MCQ,"Given the Vietnam Hosts APEC Summit, which of the following events would allow for a person to have lived during both incidents?",d,Independence from Portugal,B,b,Battle of Waterloo,0
+405,unknown,MCQ,"Given the Battle of Điện Biên Phủ, which of the following events would allow for a person to have lived during both incidents?",a,Currency Convertibility Introduced,B,b,Confederation of Canada,0
+406,unknown,MCQ,"Given the Saudi Arabia Joins the WTO, which of the following events would allow for a person to have lived during both incidents?",b,Nairobi's DusitD2 Complex Attack,A.,a,The Restoration of the Monarchy,0
+407,unknown,MCQ,"Given the Invention of Printing Technology, which of the following events would allow for a person to have lived during both incidents?",c,Battle of Guadalete,B,b,Battle of Waterloo,0
+408,unknown,MCQ,"Given the Pulwama Terrorist Attack, which of the following events would allow for a person to have lived during both incidents?",c,Appointment of Abiy Ahmed,B,b,Francoist Spain,0
+409,unknown,MCQ,"Given the Karachi Nuclear Power Plant Operational, which of the following events would allow for a person to have lived during both incidents?",c,Sidoarjo Mud Flow,C.,c,Sidoarjo Mud Flow,1
+410,unknown,MCQ,"Given the Bengal Famine of 1943, which of the following events would allow for a person to have lived during both incidents?",b,Black Lives Matter Movement,D,d,Portuguese Colonialism Begins,0
+411,unknown,MCQ,"Given the Kargil War, which of the following events would allow for a person to have lived during both incidents?",a,First Human DNA Sequencing,A,a,First Human DNA Sequencing,1
+412,unknown,MCQ,"Given the Malala Yousafzai's Nobel Peace Prize, which of the following events would allow for a person to have lived during both incidents?",b,Decriminalization of Homosexuality,B.,b,Decriminalization of Homosexuality,1
+413,unknown,MCQ,"Given the The Shearers' Strike, which of the following events would allow for a person to have lived during both incidents?",d,Women's Suffrage Achieved,D,d,Women's Suffrage Achieved,1
+414,unknown,MCQ,"Given the Gulf of Tonkin Incident, which of the following events would allow for a person to have lived during both incidents?",d,Bloody Sunday in Northern Ireland,D,d,Bloody Sunday in Northern Ireland,1
+415,unknown,MCQ,"Given the Destruction of the First Saudi State, which of the following events would allow for a person to have lived during both incidents?",a,Industrial Revolution Begins,A,a,Industrial Revolution Begins,1
+416,unknown,MCQ,"Given the Introduction of the New Zealand Constitution Act, which of the following events would allow for a person to have lived during both incidents?",c,Reform Act 1832,C.,c,Reform Act 1832,1
+417,unknown,MCQ,"Given the Return of Hong Kong, which of the following events would allow for a person to have lived during both incidents?",a,The Dirty War,A,a,The Dirty War,1
+418,unknown,MCQ,"Given the Green Revolution, which of the following events would allow for a person to have lived during both incidents?",b,Sudanese Revolution,B.,b,Sudanese Revolution,1
+419,unknown,MCQ,"Given the Vietnam's First Communication Satellite, which of the following events would allow for a person to have lived during both incidents?",c,May 1968 Student Protests,C,c,May 1968 Student Protests,1
+420,unknown,MCQ,"Given the 1987 New Zealand Constitution Act, which of the following events would allow for a person to have lived during both incidents?",b,Launch of James Webb Space Telescope,B,b,Launch of James Webb Space Telescope,1
+421,unknown,MCQ,"Given the ANZAC troops land at Gallipoli, which of the following events would allow for a person to have lived during both incidents?",d,Signing of the Lateran Treaty,D.,d,Signing of the Lateran Treaty,1
+422,unknown,MCQ,"Given the Invention of the Compass, which of the following events would allow for a person to have lived during both incidents?",a,Launch of the First Crusade,A,a,Launch of the First Crusade,1
+423,unknown,MCQ,"Given the Mount Tarawera Eruption, which of the following events would allow for a person to have lived during both incidents?",a,Creation of the Canadian Flag,D,d,Execution of Louis XVI,0
+424,unknown,MCQ,"Given the Malacca Sultanate Established, which of the following events would allow for a person to have lived during both incidents?",d,Battle of Agincourt,B,b,First Railway Line Opens,0
+425,unknown,MCQ,"Given the Sydney Opera House Opens, which of the following events would allow for a person to have lived during both incidents?",a,Social Security Act,A.,a,Social Security Act,1
+426,unknown,MCQ,"Given the Royal Commission into Institutional Responses..., which of the following events would allow for a person to have lived during both incidents?",b,Independence from Belgium,D,d,Prohibition Era Begins,0
+427,unknown,MCQ,"Given the National Party Founded, which of the following events would allow for a person to have lived during both incidents?",d,Independence from Britain,D,d,Independence from Britain,1
+428,unknown,MCQ,"Given the Indian Space Research Organisation (ISRO), which of the following events would allow for a person to have lived during both incidents?",a,#MeToo Movement,D,d,World War I,0
+429,unknown,MCQ,"Given the Moscow Conference of Foreign Ministers, which of the following events would allow for a person to have lived during both incidents?",d,Independence from France,B,b,Introduction of the Penny Post,0
+430,unknown,MCQ,"Given the Tay Son Rebellion, which of the following events would allow for a person to have lived during both incidents?",a,Compromise of 1850,A,a,Compromise of 1850,1
+431,unknown,MCQ,"Given the Typhoon Damrey Strikes Vietnam, which of the following events would allow for a person to have lived during both incidents?",a,September 11 Attacks,A.,a,September 11 Attacks,1
+432,unknown,MCQ,"Given the Signing of the Treaty of Waitangi, which of the following events would allow for a person to have lived during both incidents?",d,Treaty of Córdoba,B.,b,Internment of Japanese Canadians,0
+433,unknown,MCQ,"Given the Lê Dynasty Restoration, which of the following events would allow for a person to have lived during both incidents?",c,Discovery of the Americas,C,c,Discovery of the Americas,1
+434,unknown,MCQ,"Given the Victory in the Great Patriotic War, which of the following events would allow for a person to have lived during both incidents?",d,Decriminalization of Homosexuality,D.,d,Decriminalization of Homosexuality,1
+435,unknown,MCQ,"Given the Australian Involvement in WWII Begins, which of the following events would allow for a person to have lived during both incidents?",b,Foundation of the Federal Republic of Germany (West Germany) and the German Democratic Republic (East Germany),B,b,Foundation of the Federal Republic of Germany (West Germany) and the German Democratic Republic (East Germany),1
+436,unknown,MCQ,"Given the Constitution of India Adopted, which of the following events would allow for a person to have lived during both incidents?",a,Dreyfus Affair,A.,a,Dreyfus Affair,1
+437,unknown,MCQ,"Given the Dissolution of the Soviet Union, which of the following events would allow for a person to have lived during both incidents?",a,2010 FIFA World Cup Victory,B,b,Start of the Hundred Years' War,0
+438,unknown,MCQ,"Given the Economic Development, which of the following events would allow for a person to have lived during both incidents?",a,New Economic Policy Introduced,A,a,New Economic Policy Introduced,1
+439,unknown,MCQ,"Given the Second Nuclear Test, which of the following events would allow for a person to have lived during both incidents?",d,Gacaca Courts Initiated,D,d,Gacaca Courts Initiated,1
+440,unknown,MCQ,"Given the Hotel New World Collapse, which of the following events would allow for a person to have lived during both incidents?",b,Austerity Measures During Crisis,B,b,Austerity Measures During Crisis,1
+441,unknown,MCQ,"Given the Surrender of Singapore to Japan, which of the following events would allow for a person to have lived during both incidents?",c,Ethiopian Revolution,C.,c,Ethiopian Revolution,1
+442,unknown,MCQ,"Given the Virgin Lands Campaign, which of the following events would allow for a person to have lived during both incidents?",c,Mussolini's March on Rome,C,c,Mussolini's March on Rome,1
+443,unknown,MCQ,"Given the Labour Party Elected for the First Time, which of the following events would allow for a person to have lived during both incidents?",a,Winter War,B,b,Theresa May becomes Prime Minister,0
+444,unknown,MCQ,"Given the Women's Protection Bill, which of the following events would allow for a person to have lived during both incidents?",d,Economic Crisis and IMF Loan,A,a,Spanish Flu Pandemic,0
+445,unknown,MCQ,"Given the Marco Polo Bridge Incident, which of the following events would allow for a person to have lived during both incidents?",b,Independence from Portugal,C,c,The Black Death in Europe,0
+446,unknown,MCQ,"Given the Imran Khan Elected as Prime Minister, which of the following events would allow for a person to have lived during both incidents?",b,Manhattan Project and Atomic Bombing of Hiroshima and Nagasaki,B.,b,Manhattan Project and Atomic Bombing of Hiroshima and Nagasaki,1
+447,unknown,MCQ,"Given the Kronstadt Rebellion, which of the following events would allow for a person to have lived during both incidents?",b,Conquest of the Desert,C,c,First Railway Line Opens,0
+448,unknown,MCQ,"Given the Republican Constitution of 1972, which of the following events would allow for a person to have lived during both incidents?",b,Apology to Residential School Survivors,B,b,Apology to Residential School Survivors,1
+449,unknown,MCQ,"Given the Assassination of Benazir Bhutto, which of the following events would allow for a person to have lived during both incidents?",b,Prince Philip's Death,D.,d,Dreyfus Affair,0
+450,unknown,MCQ,"Given the Ikhwan Revolt, which of the following events would allow for a person to have lived during both incidents?",a,Compromise of 1850,B.,b,Jorge Mario Bergoglio becomes Pope Francis,0
+451,unknown,MCQ,"Given the Division of Korea, which of the following events would allow for a person to have lived during both incidents?",a,Independence from Britain,C,c,Finnish War and Cession to Russia,0
+452,unknown,MCQ,"Given the ANZUS Treaty Signing, which of the following events would allow for a person to have lived during both incidents?",a,Battle of Britain,A.,a,Battle of Britain,1
+453,unknown,MCQ,"Given the Myall Creek Massacre, which of the following events would allow for a person to have lived during both incidents?",b,Lewis and Clark Expedition,B,b,Lewis and Clark Expedition,1
+454,unknown,MCQ,"Given the Asuka Period Begins, which of the following events would allow for a person to have lived during both incidents?",b,Rise of the Roman Republic,B,b,Rise of the Roman Republic,1
+455,unknown,MCQ,"Given the Economic Development, which of the following events would allow for a person to have lived during both incidents?",d,Good Friday Agreement,B,b,Completion of the Canadian Pacific Railway,0
+456,unknown,MCQ,"Given the Constitutional Crisis in Russia, which of the following events would allow for a person to have lived during both incidents?",d,Completion of the Panama Canal,C,c,Homestead Act,0
+457,unknown,MCQ,"Given the Reiwa Era Begins, which of the following events would allow for a person to have lived during both incidents?",d,Financial Crisis Impact,A.,a,Nazi Party's Rise to Power,0
+458,unknown,MCQ,"Given the Victory in the Great Patriotic War, which of the following events would allow for a person to have lived during both incidents?",b,Independence from France,D,d,Signing of the Treaty of Fredrikshamn,0
+459,unknown,MCQ,"Given the An Lushan Rebellion, which of the following events would allow for a person to have lived during both incidents?",d,Battle of Guadalete,D,d,Battle of Guadalete,1
+460,unknown,MCQ,"Given the Assassination of Benazir Bhutto, which of the following events would allow for a person to have lived during both incidents?",d,Independence from France,C,c,Start of the French Revolution,0
+461,unknown,MCQ,"Given the Introduction of Nuclear Free Zone, which of the following events would allow for a person to have lived during both incidents?",a,Independence from the Soviet Union,A,a,Independence from the Soviet Union,1
+462,unknown,MCQ,"Given the Formation of the Māori Party, which of the following events would allow for a person to have lived during both incidents?",d,Decolonization Begins,A,a,Colonial Period Begins,0
+463,unknown,MCQ,"Given the Establishment of the Republic of Korea, which of the following events would allow for a person to have lived during both incidents?",b,Land Reform Program Begins,B,b,Land Reform Program Begins,1
+464,unknown,MCQ,"Given the Operation Blue Star, which of the following events would allow for a person to have lived during both incidents?",a,The Holocaust,A.,a,The Holocaust,1
+465,unknown,MCQ,"Given the The Tale of Genji by Murasaki Shikibu, which of the following events would allow for a person to have lived during both incidents?",c,The Investiture Controversy,C.,c,The Investiture Controversy,1
+466,unknown,MCQ,"Given the French Colonization Begins, which of the following events would allow for a person to have lived during both incidents?",d,Fall of the Spanish Empire,C.,c,Independence from France,0
+467,unknown,MCQ,"Given the Foundation of Modern Iraq, which of the following events would allow for a person to have lived during both incidents?",a,Francoist Spain,C,c,Queen Victoria's Reign Begins,0
+468,unknown,MCQ,"Given the Refrigerated Shipping Invented, which of the following events would allow for a person to have lived during both incidents?",d,Battle of Trafalgar,D,d,Battle of Trafalgar,1
+469,unknown,MCQ,"Given the Constitution of India Adopted, which of the following events would allow for a person to have lived during both incidents?",b,1979 Iranian Revolution,B.,b,1979 Iranian Revolution,1
+470,unknown,MCQ,"Given the Xi Jinping Assumes Presidency, which of the following events would allow for a person to have lived during both incidents?",c,Presidential Election Victory of Ibrahim Solih,A.,a,Mexican Revolution,0
+471,unknown,MCQ,"Given the Anzac Forces Land at Gallipoli, which of the following events would allow for a person to have lived during both incidents?",c,Discovery of Insulin,C.,c,Discovery of Insulin,1
+472,unknown,MCQ,"Given the Osaka Expo '70, which of the following events would allow for a person to have lived during both incidents?",d,Mani Pulite (Clean Hands) Investigation Begins,B,b,War of 1812,0
+473,unknown,MCQ,"Given the 1967 Referendum on Indigenous Australians, which of the following events would allow for a person to have lived during both incidents?",c,Manhattan Project and Atomic Bombing of Hiroshima and Nagasaki,C.,c,Manhattan Project and Atomic Bombing of Hiroshima and Nagasaki,1
+474,unknown,MCQ,"Given the 2001 Indian Parliament Attack, which of the following events would allow for a person to have lived during both incidents?",b,Catalan Independence Referendum,A.,a,First Railway Line Opens,0
+475,unknown,MCQ,"Given the China Joins the World Trade Organization (WTO), which of the following events would allow for a person to have lived during both incidents?",a,Operation Carlota Ends,A.,a,Operation Carlota Ends,1
+476,unknown,MCQ,"Given the Ratana Movement Political Involvement, which of the following events would allow for a person to have lived during both incidents?",a,Philippine Airlines Flight 434,C,c,End of Sierra Leone Civil War,0
+477,unknown,MCQ,"Given the Nationalization in Pakistan, which of the following events would allow for a person to have lived during both incidents?",c,1979 Iranian Revolution,C.,c,1979 Iranian Revolution,1
+478,unknown,MCQ,"Given the Ratana Movement Political Involvement, which of the following events would allow for a person to have lived during both incidents?",a,Women's Suffrage (19th Amendment),A,a,Women's Suffrage (19th Amendment),1
+479,unknown,MCQ,"Given the British Mandate of Mesopotamia, which of the following events would allow for a person to have lived during both incidents?",c,Sharpeville Massacre,C.,c,Sharpeville Massacre,1
+480,unknown,MCQ,"Given the Fukushima Daiichi Nuclear Disaster, which of the following events would allow for a person to have lived during both incidents?",b,British Exit from the European Exchange Rate Mechanism,B,b,British Exit from the European Exchange Rate Mechanism,1
+481,unknown,MCQ,"Given the Mossadegh's Premiership and Oil Nationalization, which of the following events would allow for a person to have lived during both incidents?",a,Watergate Scandal,A.,a,Watergate Scandal,1
+482,unknown,MCQ,"Given the Ratana Movement Political Involvement, which of the following events would allow for a person to have lived during both incidents?",c,Beginning of World War II,C,c,Beginning of World War II,1
+483,unknown,MCQ,"Given the Vietnam War Involvement, which of the following events would allow for a person to have lived during both incidents?",d,Introduction of Television,D,d,Introduction of Television,1
+484,unknown,MCQ,"Given the Women's Suffrage Achieved, which of the following events would allow for a person to have lived during both incidents?",c,Balfour Declaration of 1926,D,d,Introduction of Television,0
+485,unknown,MCQ,"Given the Return of Macau, which of the following events would allow for a person to have lived during both incidents?",a,Independence from Ethiopia,D,d,Congress of Vienna,0
+486,unknown,MCQ,"Given the Hong Kong Handover, which of the following events would allow for a person to have lived during both incidents?",d,Lapland War,C.,c,Seneca Falls Convention,0
+487,unknown,MCQ,"Given the Introduction of First Constitution, which of the following events would allow for a person to have lived during both incidents?",c,France Bans Smoking in Public Places,D,d,Seneca Falls Convention,0
+488,unknown,MCQ,"Given the Death of Joseph Stalin, which of the following events would allow for a person to have lived during both incidents?",b,Signing of the Lateran Treaty,B.,b,Signing of the Lateran Treaty,1
+489,unknown,MCQ,"Given the Green Revolution, which of the following events would allow for a person to have lived during both incidents?",d,Italian Invasion of Libya,D.,d,Italian Invasion of Libya,1
+490,unknown,MCQ,"Given the Establishment of the Juche Ideology, which of the following events would allow for a person to have lived during both incidents?",a,Ghana's Independence,A.,a,Ghana's Independence,1
+491,unknown,MCQ,"Given the Whitlam Government's Dismissal, which of the following events would allow for a person to have lived during both incidents?",a,Japan Airlines Flight 123,A.,a,Japan Airlines Flight 123,1
+492,unknown,MCQ,"Given the Port Arthur Massacre, which of the following events would allow for a person to have lived during both incidents?",c,Spanish Civil War,C,c,Spanish Civil War,1
+493,unknown,MCQ,"Given the Economic Development, which of the following events would allow for a person to have lived during both incidents?",c,Housing Market Crash and Great Recession,C,c,Housing Market Crash and Great Recession,1
+494,unknown,MCQ,"Given the India Wins ICC T20 World Cup 2007, which of the following events would allow for a person to have lived during both incidents?",b,The Dirty War,A.,a,Publication of Darwin's 'On the Origin of Species',0
+495,unknown,MCQ,"Given the India's Demonetisation Campaign, which of the following events would allow for a person to have lived during both incidents?",a,Juba Peace Agreement,D,d,Abolition of the Slave Trade Act,0
+496,unknown,MCQ,"Given the Women Allowed to Drive, which of the following events would allow for a person to have lived during both incidents?",c,Official Languages Act,B.,b,Italian Invasion of Libya,0
+497,unknown,MCQ,"Given the Invention of Printing Technology, which of the following events would allow for a person to have lived during both incidents?",c,Battle of Guadalete,D.,d,Women Gain the Right to Vote,0
+498,unknown,MCQ,"Given the Intervention in the Syrian Civil War, which of the following events would allow for a person to have lived during both incidents?",d,Independence from Portugal,C.,c,Vargas Era Begins,0
+499,unknown,MCQ,"Given the Gulf of Tonkin Incident, which of the following events would allow for a person to have lived during both incidents?",c,Winter War,C.,c,Winter War,1
+500,unknown,MCQ,"Given the Paris Peace Accords, which of the following events would allow for a person to have lived during both incidents?",d,Assassination of President John F. Kennedy,D.,d,Assassination of President John F. Kennedy,1

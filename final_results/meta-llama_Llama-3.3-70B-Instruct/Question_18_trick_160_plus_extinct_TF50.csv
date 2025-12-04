@@ -1,0 +1,211 @@
+question_id,template_type,question_format,question,gold_answer_letter,gold_answer_text,model_raw_answer,model_parsed_letter,model_parsed_text,is_correct
+1,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?,b,passenger pigeon,B,b,passenger pigeon,1
+2,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime?,a,thylacine (Tasmanian tiger),C.,c,dodo,0
+3,person_seen_recent_extinct,MCQ,Could Marie Curie have seen the great auk alive in their lifetime?,a,Yes,B.,b,No,0
+4,person_seen_recent_extinct,MCQ,Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?,c,Nikola Tesla,B,b,Marie Curie,0
+5,person_seen_recent_extinct,MCQ,Could Abraham Lincoln have seen the quagga alive in their lifetime?,a,Yes,B.,b,No,0
+6,person_seen_recent_extinct,MCQ,Could Mahatma Gandhi have seen the quagga alive in their lifetime?,b,No,B.,b,No,1
+7,person_seen_recent_extinct,MCQ,Could Charles Darwin have seen the great auk alive in their lifetime?,a,Yes,B.,b,No,0
+8,person_seen_recent_extinct,MCQ,Could Albert Einstein have seen the quagga alive in their lifetime?,a,Yes,B.,b,No,0
+9,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?,c,great auk,D,d,thylacine (Tasmanian tiger),0
+10,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime?,d,thylacine (Tasmanian tiger),B,b,great auk,0
+11,person_seen_recent_extinct,MCQ,Could Leonardo da Vinci have seen the quagga alive in their lifetime?,a,Yes,B.,b,No,0
+12,person_seen_recent_extinct,MCQ,Could Leonardo da Vinci have seen the dodo alive in their lifetime?,b,No,B.,b,No,1
+13,person_seen_recent_extinct,MCQ,Could Isaac Newton have seen the Steller's sea cow alive in their lifetime?,b,No,B.,b,No,1
+14,person_seen_recent_extinct,MCQ,Which of the following people could have seen the passenger pigeon alive in their lifetime?,a,Mahatma Gandhi,A,a,Mahatma Gandhi,1
+15,person_seen_recent_extinct,MCQ,Could Jane Goodall have seen the passenger pigeon alive in their lifetime?,a,Yes,B.,b,No,0
+16,person_seen_recent_extinct,MCQ,Which of the following people could have seen the quagga alive in their lifetime?,b,Abraham Lincoln,A,a,Charles Darwin,0
+17,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?,b,quagga,A,a,passenger pigeon,0
+18,person_seen_recent_extinct,MCQ,Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime?,b,No,B.,b,No,1
+19,person_seen_recent_extinct,MCQ,Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime?,b,No,B.,b,No,1
+20,person_seen_recent_extinct,MCQ,Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime?,b,No,B.,b,No,1
+21,person_seen_recent_extinct,MCQ,Could Nikola Tesla have seen the quagga alive in their lifetime?,a,Yes,B.,b,No,0
+22,person_seen_recent_extinct,MCQ,Which of the following people could have seen the dodo alive in their lifetime?,b,Jane Goodall,B,b,Jane Goodall,1
+23,person_seen_recent_extinct,MCQ,Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime?,b,No,B.,b,No,1
+24,person_seen_recent_extinct,MCQ,Which of the following people could have seen the great auk alive in their lifetime?,a,Leonardo da Vinci,C,c,Mahatma Gandhi,0
+25,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime?,c,Steller's sea cow,D,d,passenger pigeon,0
+26,person_seen_recent_extinct,MCQ,Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime?,b,No,B.,b,No,1
+27,person_seen_recent_extinct,MCQ,Could Abraham Lincoln have seen the great auk alive in their lifetime?,b,No,B,b,No,1
+28,person_seen_recent_extinct,MCQ,Could Mahatma Gandhi have seen the great auk alive in their lifetime?,a,Yes,B,b,No,0
+29,person_seen_recent_extinct,MCQ,Which of the following people could have seen the Steller's sea cow alive in their lifetime?,b,Albert Einstein,A,a,Isaac Newton,0
+30,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Charles Darwin have seen alive in their lifetime?,d,Steller's sea cow,A,a,great auk,0
+31,person_seen_recent_extinct,MCQ,Could Isaac Newton have seen the thylacine (Tasmanian tiger) alive in their lifetime?,a,Yes,B.,b,No,0
+32,person_seen_recent_extinct,MCQ,Could Abraham Lincoln have seen the passenger pigeon alive in their lifetime?,b,No,A.,a,Yes,0
+33,person_seen_recent_extinct,MCQ,Could Albert Einstein have seen the thylacine (Tasmanian tiger) alive in their lifetime?,b,No,B.,b,No,1
+34,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Mahatma Gandhi have seen alive in their lifetime?,a,dodo,C,c,thylacine (Tasmanian tiger),0
+35,person_seen_recent_extinct,MCQ,Could Isaac Newton have seen the quagga alive in their lifetime?,a,Yes,B.,b,No,0
+36,person_seen_recent_extinct,MCQ,Could Marie Curie have seen the quagga alive in their lifetime?,b,No,B.,b,No,1
+37,person_seen_recent_extinct,MCQ,Could Isaac Newton have seen the great auk alive in their lifetime?,b,No,B.,b,No,1
+38,person_seen_recent_extinct,MCQ,Could Charles Darwin have seen the quagga alive in their lifetime?,b,No,B.,b,No,1
+39,person_seen_recent_extinct,MCQ,Could Albert Einstein have seen the Steller's sea cow alive in their lifetime?,a,Yes,B,b,No,0
+40,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Jane Goodall have seen alive in their lifetime?,a,passenger pigeon,B,b,thylacine (Tasmanian tiger),0
+41,person_seen_recent_extinct,MCQ,Could Albert Einstein have seen the passenger pigeon alive in their lifetime?,b,No,B,b,No,1
+42,person_seen_recent_extinct,MCQ,"Historically, Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",b,passenger pigeon,B,b,passenger pigeon,1
+43,person_seen_recent_extinct,MCQ,"According to historians, Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",b,passenger pigeon,B,b,passenger pigeon,1
+44,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime (historical context)?,b,passenger pigeon,B,b,passenger pigeon,1
+45,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following recently extinct animals could Marie Curie have seen alive in their lifetime?",b,passenger pigeon,B,b,passenger pigeon,1
+46,person_seen_recent_extinct,MCQ,"Historically, Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime?",a,thylacine (Tasmanian tiger),C.,c,dodo,0
+47,person_seen_recent_extinct,MCQ,"According to historians, Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime?",a,thylacine (Tasmanian tiger),C.,c,dodo,0
+48,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime (historical context)?,a,thylacine (Tasmanian tiger),C.,c,dodo,0
+49,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following recently extinct animals could Leonardo da Vinci have seen alive in their lifetime?",a,thylacine (Tasmanian tiger),C.,c,dodo,0
+50,person_seen_recent_extinct,MCQ,"Historically, Could Marie Curie have seen the great auk alive in their lifetime?",a,Yes,B.,b,No,0
+51,person_seen_recent_extinct,MCQ,"According to historians, Could Marie Curie have seen the great auk alive in their lifetime?",a,Yes,B.,b,No,0
+52,person_seen_recent_extinct,MCQ,Could Marie Curie have seen the great auk alive in their lifetime (historical context)?,a,Yes,B.,b,No,0
+53,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Marie Curie have seen the great auk alive in their lifetime?",a,Yes,B.,b,No,0
+54,person_seen_recent_extinct,MCQ,"Historically, Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",c,Nikola Tesla,B,b,Marie Curie,0
+55,person_seen_recent_extinct,MCQ,"According to historians, Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",c,Nikola Tesla,B,b,Marie Curie,0
+56,person_seen_recent_extinct,MCQ,Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?,c,Nikola Tesla,B,b,Marie Curie,0
+57,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following people could have seen the thylacine (Tasmanian tiger) alive in their lifetime?",c,Nikola Tesla,B,b,Marie Curie,0
+58,person_seen_recent_extinct,MCQ,"Historically, Could Abraham Lincoln have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+59,person_seen_recent_extinct,MCQ,"According to historians, Could Abraham Lincoln have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+60,person_seen_recent_extinct,MCQ,Could Abraham Lincoln have seen the quagga alive in their lifetime (historical context)?,a,Yes,B.,b,No,0
+61,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Abraham Lincoln have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+62,person_seen_recent_extinct,MCQ,"Historically, Could Mahatma Gandhi have seen the quagga alive in their lifetime?",b,No,B.,b,No,1
+63,person_seen_recent_extinct,MCQ,"According to historians, Could Mahatma Gandhi have seen the quagga alive in their lifetime?",b,No,B.,b,No,1
+64,person_seen_recent_extinct,MCQ,Could Mahatma Gandhi have seen the quagga alive in their lifetime (historical context)?,b,No,B.,b,No,1
+65,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Mahatma Gandhi have seen the quagga alive in their lifetime?",b,No,B.,b,No,1
+66,person_seen_recent_extinct,MCQ,"Historically, Could Charles Darwin have seen the great auk alive in their lifetime?",a,Yes,B.,b,No,0
+67,person_seen_recent_extinct,MCQ,"According to historians, Could Charles Darwin have seen the great auk alive in their lifetime?",a,Yes,B.,b,No,0
+68,person_seen_recent_extinct,MCQ,Could Charles Darwin have seen the great auk alive in their lifetime (historical context)?,a,Yes,B.,b,No,0
+69,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Charles Darwin have seen the great auk alive in their lifetime?",a,Yes,B.,b,No,0
+70,person_seen_recent_extinct,MCQ,"Historically, Could Albert Einstein have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+71,person_seen_recent_extinct,MCQ,"According to historians, Could Albert Einstein have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+72,person_seen_recent_extinct,MCQ,Could Albert Einstein have seen the quagga alive in their lifetime (historical context)?,a,Yes,B.,b,No,0
+73,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Albert Einstein have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+74,person_seen_recent_extinct,MCQ,"Historically, Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",c,great auk,A,a,quagga,0
+75,person_seen_recent_extinct,MCQ,"According to historians, Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",c,great auk,A,a,quagga,0
+76,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime (historical context)?,c,great auk,D.,d,thylacine (Tasmanian tiger),0
+77,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following recently extinct animals could Nikola Tesla have seen alive in their lifetime?",c,great auk,A,a,quagga,0
+78,person_seen_recent_extinct,MCQ,"Historically, Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime?",d,thylacine (Tasmanian tiger),B,b,great auk,0
+79,person_seen_recent_extinct,MCQ,"According to historians, Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime?",d,thylacine (Tasmanian tiger),B,b,great auk,0
+80,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime (historical context)?,d,thylacine (Tasmanian tiger),B,b,great auk,0
+81,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following recently extinct animals could Isaac Newton have seen alive in their lifetime?",d,thylacine (Tasmanian tiger),B,b,great auk,0
+82,person_seen_recent_extinct,MCQ,"Historically, Could Leonardo da Vinci have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+83,person_seen_recent_extinct,MCQ,"According to historians, Could Leonardo da Vinci have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+84,person_seen_recent_extinct,MCQ,Could Leonardo da Vinci have seen the quagga alive in their lifetime (historical context)?,a,Yes,B.,b,No,0
+85,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Leonardo da Vinci have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+86,person_seen_recent_extinct,MCQ,"Historically, Could Leonardo da Vinci have seen the dodo alive in their lifetime?",b,No,B.,b,No,1
+87,person_seen_recent_extinct,MCQ,"According to historians, Could Leonardo da Vinci have seen the dodo alive in their lifetime?",b,No,B.,b,No,1
+88,person_seen_recent_extinct,MCQ,Could Leonardo da Vinci have seen the dodo alive in their lifetime (historical context)?,b,No,B,b,No,1
+89,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Leonardo da Vinci have seen the dodo alive in their lifetime?",b,No,B.,b,No,1
+90,person_seen_recent_extinct,MCQ,"Historically, Could Isaac Newton have seen the Steller's sea cow alive in their lifetime?",b,No,B.,b,No,1
+91,person_seen_recent_extinct,MCQ,"According to historians, Could Isaac Newton have seen the Steller's sea cow alive in their lifetime?",b,No,B.,b,No,1
+92,person_seen_recent_extinct,MCQ,Could Isaac Newton have seen the Steller's sea cow alive in their lifetime (historical context)?,b,No,B.,b,No,1
+93,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Isaac Newton have seen the Steller's sea cow alive in their lifetime?",b,No,B.,b,No,1
+94,person_seen_recent_extinct,MCQ,"Historically, Which of the following people could have seen the passenger pigeon alive in their lifetime?",a,Mahatma Gandhi,B,b,Abraham Lincoln,0
+95,person_seen_recent_extinct,MCQ,"According to historians, Which of the following people could have seen the passenger pigeon alive in their lifetime?",a,Mahatma Gandhi,B,b,Abraham Lincoln,0
+96,person_seen_recent_extinct,MCQ,Which of the following people could have seen the passenger pigeon alive in their lifetime (historical context)?,a,Mahatma Gandhi,A,a,Mahatma Gandhi,1
+97,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following people could have seen the passenger pigeon alive in their lifetime?",a,Mahatma Gandhi,B,b,Abraham Lincoln,0
+98,person_seen_recent_extinct,MCQ,"Historically, Could Jane Goodall have seen the passenger pigeon alive in their lifetime?",a,Yes,B.,b,No,0
+99,person_seen_recent_extinct,MCQ,"According to historians, Could Jane Goodall have seen the passenger pigeon alive in their lifetime?",a,Yes,B.,b,No,0
+100,person_seen_recent_extinct,MCQ,Could Jane Goodall have seen the passenger pigeon alive in their lifetime (historical context)?,a,Yes,B.,b,No,0
+101,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Jane Goodall have seen the passenger pigeon alive in their lifetime?",a,Yes,B.,b,No,0
+102,person_seen_recent_extinct,MCQ,"Historically, Which of the following people could have seen the quagga alive in their lifetime?",b,Abraham Lincoln,A,a,Charles Darwin,0
+103,person_seen_recent_extinct,MCQ,"According to historians, Which of the following people could have seen the quagga alive in their lifetime?",b,Abraham Lincoln,A,a,Charles Darwin,0
+104,person_seen_recent_extinct,MCQ,Which of the following people could have seen the quagga alive in their lifetime (historical context)?,b,Abraham Lincoln,A,a,Charles Darwin,0
+105,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following people could have seen the quagga alive in their lifetime?",b,Abraham Lincoln,B,b,Abraham Lincoln,1
+106,person_seen_recent_extinct,MCQ,"Historically, Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",b,quagga,A,a,passenger pigeon,0
+107,person_seen_recent_extinct,MCQ,"According to historians, Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",b,quagga,A,a,passenger pigeon,0
+108,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime (historical context)?,b,quagga,C,c,thylacine (Tasmanian tiger),0
+109,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following recently extinct animals could Albert Einstein have seen alive in their lifetime?",b,quagga,A,a,passenger pigeon,0
+110,person_seen_recent_extinct,MCQ,"Historically, Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,A.,a,Yes,0
+111,person_seen_recent_extinct,MCQ,"According to historians, Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+112,person_seen_recent_extinct,MCQ,Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?,b,No,B.,b,No,1
+113,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Nikola Tesla have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+114,person_seen_recent_extinct,MCQ,"Historically, Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+115,person_seen_recent_extinct,MCQ,"According to historians, Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+116,person_seen_recent_extinct,MCQ,Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?,b,No,B.,b,No,1
+117,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Leonardo da Vinci have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+118,person_seen_recent_extinct,MCQ,"Historically, Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,A.,a,Yes,0
+119,person_seen_recent_extinct,MCQ,"According to historians, Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,A.,a,Yes,0
+120,person_seen_recent_extinct,MCQ,Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?,b,No,B.,b,No,1
+121,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Marie Curie have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+122,person_seen_recent_extinct,MCQ,"Historically, Could Nikola Tesla have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+123,person_seen_recent_extinct,MCQ,"According to historians, Could Nikola Tesla have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+124,person_seen_recent_extinct,MCQ,Could Nikola Tesla have seen the quagga alive in their lifetime (historical context)?,a,Yes,B.,b,No,0
+125,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Nikola Tesla have seen the quagga alive in their lifetime?",a,Yes,B.,b,No,0
+126,person_seen_recent_extinct,MCQ,"Historically, Which of the following people could have seen the dodo alive in their lifetime?",b,Jane Goodall,B,b,Jane Goodall,1
+127,person_seen_recent_extinct,MCQ,"According to historians, Which of the following people could have seen the dodo alive in their lifetime?",b,Jane Goodall,B,b,Jane Goodall,1
+128,person_seen_recent_extinct,MCQ,Which of the following people could have seen the dodo alive in their lifetime (historical context)?,b,Jane Goodall,B,b,Jane Goodall,1
+129,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following people could have seen the dodo alive in their lifetime?",b,Jane Goodall,B,b,Jane Goodall,1
+130,person_seen_recent_extinct,MCQ,"Historically, Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime?",b,No,B,b,No,1
+131,person_seen_recent_extinct,MCQ,"According to historians, Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime?",b,No,B,b,No,1
+132,person_seen_recent_extinct,MCQ,Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime (historical context)?,b,No,B.,b,No,1
+133,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Leonardo da Vinci have seen the passenger pigeon alive in their lifetime?",b,No,B.,b,No,1
+134,person_seen_recent_extinct,MCQ,"Historically, Which of the following people could have seen the great auk alive in their lifetime?",a,Leonardo da Vinci,C,c,Mahatma Gandhi,0
+135,person_seen_recent_extinct,MCQ,"According to historians, Which of the following people could have seen the great auk alive in their lifetime?",a,Leonardo da Vinci,C,c,Mahatma Gandhi,0
+136,person_seen_recent_extinct,MCQ,Which of the following people could have seen the great auk alive in their lifetime (historical context)?,a,Leonardo da Vinci,C,c,Mahatma Gandhi,0
+137,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following people could have seen the great auk alive in their lifetime?",a,Leonardo da Vinci,C,c,Mahatma Gandhi,0
+138,person_seen_recent_extinct,MCQ,"Historically, Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime?",c,Steller's sea cow,D,d,passenger pigeon,0
+139,person_seen_recent_extinct,MCQ,"According to historians, Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime?",c,Steller's sea cow,D,d,passenger pigeon,0
+140,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime (historical context)?,c,Steller's sea cow,D,d,passenger pigeon,0
+141,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following recently extinct animals could Abraham Lincoln have seen alive in their lifetime?",c,Steller's sea cow,D,d,passenger pigeon,0
+142,person_seen_recent_extinct,MCQ,"Historically, Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+143,person_seen_recent_extinct,MCQ,"According to historians, Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+144,person_seen_recent_extinct,MCQ,Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime (historical context)?,b,No,B.,b,No,1
+145,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Jane Goodall have seen the thylacine (Tasmanian tiger) alive in their lifetime?",b,No,B.,b,No,1
+146,person_seen_recent_extinct,MCQ,"Historically, Could Abraham Lincoln have seen the great auk alive in their lifetime?",b,No,B.,b,No,1
+147,person_seen_recent_extinct,MCQ,"According to historians, Could Abraham Lincoln have seen the great auk alive in their lifetime?",b,No,B.,b,No,1
+148,person_seen_recent_extinct,MCQ,Could Abraham Lincoln have seen the great auk alive in their lifetime (historical context)?,b,No,B.,b,No,1
+149,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Abraham Lincoln have seen the great auk alive in their lifetime?",b,No,B.,b,No,1
+150,person_seen_recent_extinct,MCQ,"Historically, Could Mahatma Gandhi have seen the great auk alive in their lifetime?",a,Yes,B.,b,No,0
+151,person_seen_recent_extinct,MCQ,"According to historians, Could Mahatma Gandhi have seen the great auk alive in their lifetime?",a,Yes,B,b,No,0
+152,person_seen_recent_extinct,MCQ,Could Mahatma Gandhi have seen the great auk alive in their lifetime (historical context)?,a,Yes,B,b,No,0
+153,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Could Mahatma Gandhi have seen the great auk alive in their lifetime?",a,Yes,B.,b,No,0
+154,person_seen_recent_extinct,MCQ,"Historically, Which of the following people could have seen the Steller's sea cow alive in their lifetime?",b,Albert Einstein,A,a,Isaac Newton,0
+155,person_seen_recent_extinct,MCQ,"According to historians, Which of the following people could have seen the Steller's sea cow alive in their lifetime?",b,Albert Einstein,D,d,Charles Darwin,0
+156,person_seen_recent_extinct,MCQ,Which of the following people could have seen the Steller's sea cow alive in their lifetime (historical context)?,b,Albert Einstein,A,a,Isaac Newton,0
+157,person_seen_recent_extinct,MCQ,"In history exams, students may be asked: Which of the following people could have seen the Steller's sea cow alive in their lifetime?",b,Albert Einstein,A,a,Isaac Newton,0
+158,person_seen_recent_extinct,MCQ,"Historically, Which of the following recently extinct animals could Charles Darwin have seen alive in their lifetime?",d,Steller's sea cow,A,a,great auk,0
+159,person_seen_recent_extinct,MCQ,"According to historians, Which of the following recently extinct animals could Charles Darwin have seen alive in their lifetime?",d,Steller's sea cow,A,a,great auk,0
+160,person_seen_recent_extinct,MCQ,Which of the following recently extinct animals could Charles Darwin have seen alive in their lifetime (historical context)?,d,Steller's sea cow,A,a,great auk,0
+161,person_seen_extinct_tf,TF,Is it possible that Isaac Newton has seen the Steller's sea cow in their lifetime?,b,False,False,b,False,1
+162,person_seen_extinct_tf,TF,Is it possible that Isaac Newton has seen the dodo in their lifetime?,b,False,False,b,False,1
+163,person_seen_extinct_tf,TF,Is it possible that Nelson Mandela has seen the Steller's sea cow in their lifetime?,b,False,False,b,False,1
+164,person_seen_extinct_tf,TF,Is it possible that Charles Darwin has seen the Steller's sea cow in their lifetime?,b,False,False,b,False,1
+165,person_seen_extinct_tf,TF,Is it possible that Mahatma Gandhi has seen the Steller's sea cow in their lifetime?,a,True,False,b,False,0
+166,person_seen_extinct_tf,TF,Is it possible that Abraham Lincoln has seen the thylacine (Tasmanian tiger) in their lifetime?,b,False,False,b,False,1
+167,person_seen_extinct_tf,TF,Is it possible that Leonardo da Vinci has seen the thylacine (Tasmanian tiger) in their lifetime?,b,False,False,b,False,1
+168,person_seen_extinct_tf,TF,Is it possible that Nikola Tesla has seen the Steller's sea cow in their lifetime?,b,False,False,b,False,1
+169,person_seen_extinct_tf,TF,Is it possible that Mahatma Gandhi has seen the passenger pigeon in their lifetime?,b,False,False,b,False,1
+170,person_seen_extinct_tf,TF,Is it possible that Leonardo da Vinci has seen the passenger pigeon in their lifetime?,b,False,False,b,False,1
+171,person_seen_extinct_tf,TF,Is it possible that Nikola Tesla has seen the Steller's sea cow in their lifetime?,a,True,False,b,False,0
+172,person_seen_extinct_tf,TF,Is it possible that Charles Darwin has seen the passenger pigeon in their lifetime?,a,True,True,a,True,1
+173,person_seen_extinct_tf,TF,Is it possible that Mahatma Gandhi has seen the great auk in their lifetime?,a,True,False,b,False,0
+174,person_seen_extinct_tf,TF,Is it possible that Amelia Earhart has seen the dodo in their lifetime?,a,True,False,b,False,0
+175,person_seen_extinct_tf,TF,Is it possible that Marie Curie has seen the thylacine (Tasmanian tiger) in their lifetime?,a,True,True,a,True,1
+176,person_seen_extinct_tf,TF,Is it possible that Albert Einstein has seen the Steller's sea cow in their lifetime?,a,True,False,b,False,0
+177,person_seen_extinct_tf,TF,Is it possible that Jane Goodall has seen the Steller's sea cow in their lifetime?,b,False,False,b,False,1
+178,person_seen_extinct_tf,TF,Is it possible that Mahatma Gandhi has seen the passenger pigeon in their lifetime?,b,False,False,b,False,1
+179,person_seen_extinct_tf,TF,Is it possible that Jane Goodall has seen the quagga in their lifetime?,a,True,False,b,False,0
+180,person_seen_extinct_tf,TF,Is it possible that Winston Churchill has seen the dodo in their lifetime?,b,False,False,b,False,1
+181,person_seen_extinct_tf,TF,Is it possible that Abraham Lincoln has seen the great auk in their lifetime?,a,True,False,b,False,0
+182,person_seen_extinct_tf,TF,Is it possible that Mahatma Gandhi has seen the thylacine (Tasmanian tiger) in their lifetime?,a,True,False,b,False,0
+183,person_seen_extinct_tf,TF,Is it possible that Amelia Earhart has seen the thylacine (Tasmanian tiger) in their lifetime?,a,True,True,a,True,1
+184,person_seen_extinct_tf,TF,Is it possible that Jane Goodall has seen the Steller's sea cow in their lifetime?,b,False,False,b,False,1
+185,person_seen_extinct_tf,TF,Is it possible that Leonardo da Vinci has seen the passenger pigeon in their lifetime?,b,False,False,b,False,1
+186,person_seen_extinct_tf,TF,Is it possible that Marie Curie has seen the great auk in their lifetime?,a,True,False,b,False,0
+187,person_seen_extinct_tf,TF,Is it possible that Florence Nightingale has seen the thylacine (Tasmanian tiger) in their lifetime?,b,False,True,a,True,0
+188,person_seen_extinct_tf,TF,Is it possible that Marie Curie has seen the thylacine (Tasmanian tiger) in their lifetime?,b,False,True,a,True,0
+189,person_seen_extinct_tf,TF,Is it possible that Charles Darwin has seen the great auk in their lifetime?,b,False,False,b,False,1
+190,person_seen_extinct_tf,TF,Is it possible that Florence Nightingale has seen the great auk in their lifetime?,b,False,False,b,False,1
+191,person_seen_extinct_tf,TF,Is it possible that Charles Darwin has seen the thylacine (Tasmanian tiger) in their lifetime?,a,True,True,a,True,1
+192,person_seen_extinct_tf,TF,Is it possible that Mahatma Gandhi has seen the Steller's sea cow in their lifetime?,a,True,False,b,False,0
+193,person_seen_extinct_tf,TF,Is it possible that Charles Darwin has seen the dodo in their lifetime?,b,False,False,b,False,1
+194,person_seen_extinct_tf,TF,Is it possible that Winston Churchill has seen the quagga in their lifetime?,b,False,True,a,True,0
+195,person_seen_extinct_tf,TF,Is it possible that Mahatma Gandhi has seen the Steller's sea cow in their lifetime?,a,True,False,b,False,0
+196,person_seen_extinct_tf,TF,Is it possible that Nikola Tesla has seen the thylacine (Tasmanian tiger) in their lifetime?,a,True,True,a,True,1
+197,person_seen_extinct_tf,TF,Is it possible that Nikola Tesla has seen the dodo in their lifetime?,b,False,False,b,False,1
+198,person_seen_extinct_tf,TF,Is it possible that Amelia Earhart has seen the dodo in their lifetime?,a,True,False,b,False,0
+199,person_seen_extinct_tf,TF,Is it possible that Isaac Newton has seen the passenger pigeon in their lifetime?,a,True,True,a,True,1
+200,person_seen_extinct_tf,TF,Is it possible that Albert Einstein has seen the thylacine (Tasmanian tiger) in their lifetime?,b,False,False,b,False,1
+201,person_seen_extinct_tf,TF,Is it possible that Mahatma Gandhi has seen the passenger pigeon in their lifetime?,a,True,False,b,False,0
+202,person_seen_extinct_tf,TF,Is it possible that Nelson Mandela has seen the quagga in their lifetime?,a,True,False,b,False,0
+203,person_seen_extinct_tf,TF,Is it possible that Abraham Lincoln has seen the thylacine (Tasmanian tiger) in their lifetime?,b,False,False,b,False,1
+204,person_seen_extinct_tf,TF,Is it possible that Amelia Earhart has seen the passenger pigeon in their lifetime?,a,True,False,b,False,0
+205,person_seen_extinct_tf,TF,Is it possible that Marie Curie has seen the thylacine (Tasmanian tiger) in their lifetime?,b,False,True,a,True,0
+206,person_seen_extinct_tf,TF,Is it possible that Abraham Lincoln has seen the Steller's sea cow in their lifetime?,b,False,False,b,False,1
+207,person_seen_extinct_tf,TF,Is it possible that Nikola Tesla has seen the passenger pigeon in their lifetime?,b,False,True,a,True,0
+208,person_seen_extinct_tf,TF,Is it possible that Florence Nightingale has seen the Steller's sea cow in their lifetime?,a,True,False,b,False,0
+209,person_seen_extinct_tf,TF,Is it possible that Winston Churchill has seen the Steller's sea cow in their lifetime?,a,True,False,b,False,0
+210,person_seen_extinct_tf,TF,Is it possible that Abraham Lincoln has seen the passenger pigeon in their lifetime?,b,False,True,a,True,0
