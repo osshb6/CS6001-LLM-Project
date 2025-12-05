@@ -1,0 +1,326 @@
+[
+    {
+        "Event":"Invention of the steam engine",
+        "Year":1769
+    },
+    {
+        "Event":"Invention of the telephone",
+        "Year":1876
+    },
+    {
+        "Event":"Invention of the transistor",
+        "Year":1947
+    },
+    {
+        "Event":"Introduction of the World Wide Web",
+        "Year":1990
+    },
+    {
+        "Event":"Introduction of the smartphone",
+        "Year":2007
+    },
+    {
+        "Event":"First successful powered flight",
+        "Year":1903
+    },
+    {
+        "Event":"First successful powered airplane flight",
+        "Year":1903
+    },
+    {
+        "Event":"Invention of the electric telegraph",
+        "Year":1804
+    },
+    {
+        "Event":"First powered flight by the Wright brothers",
+        "Year":1903
+    },
+    {
+        "Event":"Invention of the locomotive",
+        "Year":1830
+    },
+    {
+        "Event":"First man on the Moon",
+        "Year":1969
+    },
+    {
+        "Event":"Discovery of Oxygen",
+        "Year":1831
+    },
+    {
+        "Event":"Discovery of X-rays",
+        "Year":1895
+    },
+    {
+        "Event":"First human moon landing",
+        "Year":1969
+    },
+    {
+        "Event":"Discovery of penicillin",
+        "Year":1928
+    },
+    {
+        "Event":"Invention of the airplane",
+        "Year":1903
+    },
+    {
+        "Event":"Discovery of penicillin by Alexander Fleming",
+        "Year":1928
+    },
+    {
+        "Event":"First controlled powered flight",
+        "Year":1903
+    },
+    {
+        "Event":"Invention of the microprocessor",
+        "Year":1971
+    },
+    {
+        "Event":"Discovery of Penicillin",
+        "Year":1928
+    },
+    {
+        "Event":"Development of the first airplane",
+        "Year":1903
+    },
+    {
+        "Event":"Introduction of the MRI scanner",
+        "Year":1991
+    },
+    {
+        "Event":"Invention of the first semiconductor transistor",
+        "Year":1957
+    },
+    {
+        "Event":"Invention of the hard disk drive",
+        "Year":1954
+    },
+    {
+        "Event":"First human moon landing",
+        "Year":1969
+    },
+    {
+        "Event":"Invention of the first semiconductor transistor",
+        "Year":1957
+    },
+    {
+        "Event":"Creation of the World Wide Web",
+        "Year":1989
+    },
+    {
+        "Event":"Invention of the Synthetic Dye",
+        "Year":1930
+    },
+    {
+        "Event":"Discovery of Penicillin",
+        "Year":1928
+    },
+    {
+        "Event":"Launch of the first iPod",
+        "Year":2006
+    },
+    {
+        "Event":"Human landing on the Moon",
+        "Year":1969
+    },
+    {
+        "Event":"Moon landing",
+        "Year":1969
+    },
+    {
+        "Event":"Introduction of the first mobile phone",
+        "Year":1971
+    },
+    {
+        "Event":"Launch of the first communication satellite",
+        "Year":1969
+    },
+    {
+        "Event":"Invention of the first 3D printer",
+        "Year":1991
+    },
+    {
+        "Event":"First Human Moon Landing",
+        "Year":1969
+    },
+    {
+        "Event":"Introduction of the first commercial jet airliner",
+        "Year":1956
+    },
+    {
+        "Event":"Introduction of the Large Hadron Collider",
+        "Year":2012
+    },
+    {
+        "Event":"Introduction of the first mobile phone",
+        "Year":1981
+    },
+    {
+        "Event":"Invention of the microprocessor",
+        "Year":1973
+    },
+    {
+        "Event":"Invention of the World Wide Web by Tim Berners-Lee",
+        "Year":1989
+    },
+    {
+        "Event":"Invention of the DVD player",
+        "Year":1984
+    },
+    {
+        "Event":"Launch of YouTube",
+        "Year":2004
+    },
+    {
+        "Event":"Invention of the Microprocessor",
+        "Year":1983
+    },
+    {
+        "Event":"Launch of the first ICBM (Intercontinental Ballistic Missile)",
+        "Year":1976
+    },
+    {
+        "Event":"Invention of CRISPR gene editing",
+        "Year":2014
+    },
+    {
+        "Event":"Invention of the World Wide Web",
+        "Year":1991
+    },
+    {
+        "Event":"Introduction of the IBM Personal Computer",
+        "Year":1983
+    },
+    {
+        "Event":"Invention of the first search engine (Archie)",
+        "Year":1991
+    },
+    {
+        "Event":"Invention of Wi-Fi",
+        "Year":1999
+    },
+    {
+        "Event":"Invention of the Large Hadron Collider",
+        "Year":2006
+    },
+    {
+        "Event":"Development of the World Wide Web",
+        "Year":1991
+    },
+    {
+        "Event":"Invention of the Microprocessor",
+        "Year":1984
+    },
+    {
+        "Event":"Invention of the quantum computer",
+        "Year":2016
+    },
+    {
+        "Event":"Creation of the first search engine (Yahoo!)",
+        "Year":1997
+    },
+    {
+        "Event":"Invention of the World Wide Web",
+        "Year":1990
+    },
+    {
+        "Event":"Release of Windows 95 by Microsoft",
+        "Year":1997
+    },
+    {
+        "Event":"Invention of the first commercial online search engine",
+        "Year":2001
+    },
+    {
+        "Event":"Introduction of the first iPhone",
+        "Year":2007
+    },
+    {
+        "Event":"Completion of the Human Genome Project",
+        "Year":2003
+    },
+    {
+        "Event":"First human gene cloning",
+        "Year":1996
+    },
+    {
+        "Event":"Launch of the James Webb Space Telescope",
+        "Year":2018
+    },
+    {
+        "Event":"Invention of the first modern smartphone",
+        "Year":2004
+    },
+    {
+        "Event":"Invention of the mp3 player",
+        "Year":2001
+    },
+    {
+        "Event":"Release of the first iPhone by Apple Inc.",
+        "Year":2004
+    },
+    {
+        "Event":"Introduction of 4G mobile technology",
+        "Year":2006
+    },
+    {
+        "Event":"The Human Genome Project completed",
+        "Year":2010
+    },
+    {
+        "Event":"Invention of the Foldable Smartphone",
+        "Year":2010
+    },
+    {
+        "Event":"Launch of the first commercial satellite for internet services",
+        "Year":2001
+    },
+    {
+        "Event":"Development of mRNA COVID-19 vaccines",
+        "Year":2020
+    },
+    {
+        "Event":"Invention of the first commercial tablet computer (iPad)",
+        "Year":2006
+    },
+    {
+        "Event":"Invention of the first tablet",
+        "Year":2004
+    },
+    {
+        "Event":"Launch of the Large Hadron Collider",
+        "Year":2008
+    },
+    {
+        "Event":"Invention of the electric vehicle",
+        "Year":2010
+    },
+    {
+        "Event":"Opening of the Large Hadron Collider",
+        "Year":2011
+    },
+    {
+        "Event":"Development of CRISPR Gene Editing",
+        "Year":2016
+    },
+    {
+        "Event":"Discovery of the Higgs boson",
+        "Year":2012
+    },
+    {
+        "Event":"Introduction of 5G networks",
+        "Year":2022
+    },
+    {
+        "Event":"Introduction of 4G technology",
+        "Year":2012
+    },
+    {
+        "Event":"Invention of the smartwatch",
+        "Year":2012
+    },
+    {
+        "Event":"Introduction of the first cloud storage services",
+        "Year":2010
+    }
+]
